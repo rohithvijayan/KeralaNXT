@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Mobile Projects Browser - Kerala Development</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&amp;display=swap"
+        rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#4a7d57",
+                        "background-light": "#FAFBF9",
+                        "background-dark": "#161c18",
+                    },
+                    fontFamily: {
+                        "display": ["Plus Jakarta Sans", "sans-serif"]
+                    },
+                    borderRadius: {
+                        "DEFAULT": "1rem",
+                        "lg": "2rem",
+                        "xl": "3rem",
+                        "full": "9999px"
+                    },
+                },
+            },
+        }
+    </script>
+    <style>
+        body {
+            font-family: "Plus Jakarta Sans", sans-serif;
+        }
+
+        .no-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+
+        .no-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+
+        .mobile-viewport {
+            width: 375px;
+            height: 812px;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+        }
+    </style>
+</head>
+
+<body class="bg-slate-200 dark:bg-zinc-900 flex items-center justify-center min-h-screen p-4">
+    <!-- Mobile Screen Container -->
+    <div
+        class="mobile-viewport bg-background-light dark:bg-background-dark relative flex flex-col overflow-hidden rounded-[3rem] border-[8px] border-zinc-800">
+        <!-- Header -->
+        <header
+            class="sticky top-0 z-20 bg-background-light/80 dark:bg-background-dark/80 backdrop-blur-md px-6 py-4 flex items-center justify-between border-b border-zinc-200 dark:border-zinc-800">
+            <div class="flex items-center gap-3">
+                <button class="flex items-center justify-center text-zinc-800 dark:text-zinc-100">
+                    <span class="material-symbols-outlined text-[24px]">arrow_back</span>
+                </button>
+                <h1 class="text-zinc-900 dark:text-zinc-100 text-lg font-bold leading-tight tracking-tight">All Projects
+                </h1>
+            </div>
+            <button
+                class="flex size-10 items-center justify-center rounded-full bg-zinc-100 dark:bg-zinc-800 text-zinc-800 dark:text-zinc-100">
+                <span class="material-symbols-outlined text-[20px]">tune</span>
+            </button>
+        </header>
+        <!-- Main Content Area -->
+        <div class="flex-1 overflow-y-auto no-scrollbar pb-24">
+            <!-- Search Bar -->
+            <div class="px-4 py-4">
+                <label class="flex flex-col w-full">
+                    <div class="flex w-full items-center rounded-full bg-zinc-100 dark:bg-zinc-800 h-12 px-4 gap-2">
+                        <span class="material-symbols-outlined text-zinc-400 text-[20px]">search</span>
+                        <input
+                            class="w-full border-none bg-transparent focus:ring-0 text-zinc-900 dark:text-zinc-100 placeholder:text-zinc-400 text-sm font-normal"
+                            placeholder="Search projects..." value="" />
+                    </div>
+                </label>
+            </div>
+            <!-- Filter Chips -->
+            <div class="flex gap-2 px-4 pb-2 overflow-x-auto no-scrollbar">
+                <button
+                    class="flex h-9 shrink-0 items-center justify-center gap-x-1 rounded-full bg-primary/10 border border-primary/20 pl-4 pr-3">
+                    <p class="text-primary text-xs font-semibold">All Districts</p>
+                    <span class="material-symbols-outlined text-primary text-[16px]">expand_more</span>
+                </button>
+                <button
+                    class="flex h-9 shrink-0 items-center justify-center gap-x-1 rounded-full bg-zinc-100 dark:bg-zinc-800 pl-4 pr-3 border border-transparent">
+                    <p class="text-zinc-700 dark:text-zinc-300 text-xs font-medium">All Categories</p>
+                    <span class="material-symbols-outlined text-zinc-500 text-[16px]">expand_more</span>
+                </button>
+                <button
+                    class="flex h-9 shrink-0 items-center justify-center gap-x-1 rounded-full bg-zinc-100 dark:bg-zinc-800 pl-4 pr-3 border border-transparent">
+                    <p class="text-zinc-700 dark:text-zinc-300 text-xs font-medium">All Status</p>
+                    <span class="material-symbols-outlined text-zinc-500 text-[16px]">expand_more</span>
+                </button>
+            </div>
+            <!-- Meta Text -->
+            <div class="px-5 pt-4 pb-2">
+                <p class="text-zinc-500 dark:text-zinc-400 text-xs font-medium uppercase tracking-wider">Showing 320
+                    projects</p>
+            </div>
+            <!-- Project List -->
+            <div class="flex flex-col gap-1 px-2">
+                <!-- Project Card 1 -->
+                <div
+                    class="flex items-center gap-4 bg-white dark:bg-zinc-900/50 p-3 rounded-2xl transition-all active:scale-95">
+                    <div class="bg-center bg-no-repeat aspect-square bg-cover rounded-xl size-16 shrink-0 shadow-sm"
+                        data-alt="Aerial view of a modern tech park building"
+                        style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuAfmWzafod06QJRcon00ls07tDdWMpZJV_8Jz1eeBBwVx4fSKbrwUa3xnvUA-6D8lsDWTH16BSMzLvw-qUH4hG3b6HeVV-RF1H7NrQbTRfQGr9zzJaKZBvGbhRcXAwQIYAMHsssJ3i5zdW1XJw6ijHqxK0DrlPjfNOYBYW-YjNw4ivXuv8VqxFm8yz-guam7rblSSHa2ll7e8ZdaguQFNoDodT312-u9tLKShmEbcinKc1uvZmoIcDMm9FkCOlXqOauEBRvHuYNT9U");'>
+                    </div>
+                    <div class="flex flex-col flex-1 min-w-0">
+                        <div class="flex items-start justify-between">
+                            <h3 class="text-zinc-900 dark:text-zinc-100 text-sm font-bold leading-tight truncate">
+                                Technopark Phase IV Expansion</h3>
+                            <div class="flex items-center justify-center ml-2">
+                                <div class="size-2 rounded-full bg-primary animate-pulse"></div>
+                            </div>
+                        </div>
+                        <p class="text-zinc-500 dark:text-zinc-400 text-xs mt-1">Trivandrum • ₹450 Cr.</p>
+                        <div class="flex mt-2">
+                            <span
+                                class="px-2 py-0.5 rounded-full bg-primary/10 text-primary text-[10px] font-bold uppercase tracking-wide">Ongoing</span>
+                        </div>
+                    </div>
+                </div>
+                <!-- Project Card 2 -->
+                <div
+                    class="flex items-center gap-4 bg-white dark:bg-zinc-900/50 p-3 rounded-2xl transition-all active:scale-95">
+                    <div class="bg-center bg-no-repeat aspect-square bg-cover rounded-xl size-16 shrink-0 shadow-sm"
+                        data-alt="A sleek blue water metro ferry"
+                        style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuA6nhw3xFfHSh3f1mz3WWVPvXznmmY2L1AsyDf9T9dat2RpW3zcQzVOZIWokh_N0Pk5wB8VN8fAWPSqkfo7FVBEWeTtfr4llpEANAZpV0mxCfsn2Gfo6cu2IchNNuMkztc5iANlmCCjNrAI2Uj78kxdddOgsnnnfYrDxkyP45LyuzAlPSEN1CjUhuhFmy3Po_XlNZ72fPcXqRFQJrQx1VxBeWw2Szz7Pw5kFzqhUWj_4lq96oieVcjMIBn_k5K8ifaWJzQLhQr4bew");'>
+                    </div>
+                    <div class="flex flex-col flex-1 min-w-0">
+                        <div class="flex items-start justify-between">
+                            <h3 class="text-zinc-900 dark:text-zinc-100 text-sm font-bold leading-tight truncate">Kochi
+                                Water Metro</h3>
+                            <div class="flex items-center justify-center ml-2">
+                                <div class="size-2 rounded-full bg-zinc-300 dark:bg-zinc-600"></div>
+                            </div>
+                        </div>
+                        <p class="text-zinc-500 dark:text-zinc-400 text-xs mt-1">Ernakulam • ₹747 Cr.</p>
+                        <div class="flex mt-2">
+                            <span
+                                class="px-2 py-0.5 rounded-full bg-zinc-100 dark:bg-zinc-800 text-zinc-500 dark:text-zinc-400 text-[10px] font-bold uppercase tracking-wide">Completed</span>
+                        </div>
+                    </div>
+                </div>
+                <!-- Project Card 3 -->
+                <div
+                    class="flex items-center gap-4 bg-white dark:bg-zinc-900/50 p-3 rounded-2xl transition-all active:scale-95">
+                    <div class="bg-center bg-no-repeat aspect-square bg-cover rounded-xl size-16 shrink-0 shadow-sm"
+                        data-alt="Modern high-speed railway bridge construction"
+                        style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuBGmNg0qFTKPGthg_bWhkk4WBXFf8gL3NLEapqS8wnZGmQwjcUpAfpm8MoKFk_8e0BmwMFRPeMympwOk0hZtiD81XgzZqDP889_d9JcuUF9eYcwg1Loo7FRHvi8oe8IX1Q6qiCu5zoyanIzCo2QoKB-j5fPfaSH0wzdScKG2Z0Vv7qmbuV0_k96K3spdSZKibdVKYEWZyFAeNFve5EdZMLrY3ZUcDvY0SQEH6HcUxPcuBgiRtc7wRjr5G7B9LG2kx_S08eTsUtiWvk");'>
+                    </div>
+                    <div class="flex flex-col flex-1 min-w-0">
+                        <div class="flex items-start justify-between">
+                            <h3 class="text-zinc-900 dark:text-zinc-100 text-sm font-bold leading-tight truncate">
+                                SilverLine Rail Project</h3>
+                            <div class="flex items-center justify-center ml-2">
+                                <div class="size-2 rounded-full bg-amber-500"></div>
+                            </div>
+                        </div>
+                        <p class="text-zinc-500 dark:text-zinc-400 text-xs mt-1">Statewide • ₹63,941 Cr.</p>
+                        <div class="flex mt-2">
+                            <span
+                                class="px-2 py-0.5 rounded-full bg-amber-100 dark:bg-amber-900/30 text-amber-700 dark:text-amber-400 text-[10px] font-bold uppercase tracking-wide">Proposed</span>
+                        </div>
+                    </div>
+                </div>
+                <!-- Project Card 4 -->
+                <div
+                    class="flex items-center gap-4 bg-white dark:bg-zinc-900/50 p-3 rounded-2xl transition-all active:scale-95">
+                    <div class="bg-center bg-no-repeat aspect-square bg-cover rounded-xl size-16 shrink-0 shadow-sm"
+                        data-alt="Large container port with cranes"
+                        style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuCAfL_mbF_FwHgDWd1W0MEsAGFxXoKZ6W-GtWjn0NRaozRSXl1oEv14OJgqilEDhrSq9K6tFhg9PuUI8enuxdD7-_heO8v9UqSctRfz5rSxMnaszwDq1IDW7_CvbQ1L5kEflzEbJXYdCiu__9JgNhSmAqRDKppSYkRchfSn_qNRJkGfCbCw2CPtDRtXYlhpnueoePIZI4Cinj9yKENxE7GcWghwUjRhTzplit75UwpkI_hbD1g9jJYCoh73u5sEIguouSktLgI-4QY");'>
+                    </div>
+                    <div class="flex flex-col flex-1 min-w-0">
+                        <div class="flex items-start justify-between">
+                            <h3 class="text-zinc-900 dark:text-zinc-100 text-sm font-bold leading-tight truncate">
+                                Vizhinjam Port</h3>
+                            <div class="flex items-center justify-center ml-2">
+                                <div class="size-2 rounded-full bg-primary animate-pulse"></div>
+                            </div>
+                        </div>
+                        <p class="text-zinc-500 dark:text-zinc-400 text-xs mt-1">Trivandrum • ₹7,700 Cr.</p>
+                        <div class="flex mt-2">
+                            <span
+                                class="px-2 py-0.5 rounded-full bg-primary/10 text-primary text-[10px] font-bold uppercase tracking-wide">Ongoing</span>
+                        </div>
+                    </div>
+                </div>
+                <!-- Project Card 5 -->
+                <div
+                    class="flex items-center gap-4 bg-white dark:bg-zinc-900/50 p-3 rounded-2xl transition-all active:scale-95">
+                    <div class="bg-center bg-no-repeat aspect-square bg-cover rounded-xl size-16 shrink-0 shadow-sm"
+                        data-alt="Modern glass multi-specialty hospital"
+                        style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuBoU9Mj_iT8ddUXtNbC3M_AiTMWIPrjocpP268WBSNhqFqIVTmHH00m-zti6v04WHJk0TQDcdblYOerN3nmIzlmArQtUC4dLDicI49wJMaW5zKCzyFJPMmpo2Xj5oQZheGW8jNj8qi4X2wUNmXUKg2vplxEo1RuyPO-fr5uep30J9q5aXlzYdYanVw6zTpLoiTeRVlbEqM3X5z_M7UEW2_3yrVMWhxNbza4Lec0q4oACXG7zkdTOH79J2OJEz-g83lrIy9A7WtQEDw");'>
+                    </div>
+                    <div class="flex flex-col flex-1 min-w-0">
+                        <div class="flex items-start justify-between">
+                            <h3 class="text-zinc-900 dark:text-zinc-100 text-sm font-bold leading-tight truncate">
+                                Medical College Campus</h3>
+                            <div class="flex items-center justify-center ml-2">
+                                <div class="size-2 rounded-full bg-primary animate-pulse"></div>
+                            </div>
+                        </div>
+                        <p class="text-zinc-500 dark:text-zinc-400 text-xs mt-1">Wayanad • ₹120 Cr.</p>
+                        <div class="flex mt-2">
+                            <span
+                                class="px-2 py-0.5 rounded-full bg-primary/10 text-primary text-[10px] font-bold uppercase tracking-wide">Ongoing</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Floating Button -->
+        <div class="absolute bottom-8 left-0 right-0 flex justify-center pointer-events-none">
+            <button
+                class="pointer-events-auto flex items-center justify-center gap-2 bg-[#4A7C6F] hover:bg-primary text-white px-6 py-3 rounded-full shadow-xl shadow-primary/20 transition-transform active:scale-95">
+                <span class="text-lg">🗺️</span>
+                <span class="text-sm font-bold tracking-tight">Back to Map</span>
+            </button>
+        </div>
+        <!-- Bottom Safe Area Notch -->
+        <div class="absolute bottom-2 left-1/2 -translate-x-1/2 w-32 h-1 bg-zinc-800 rounded-full opacity-20"></div>
+    </div>
+</body>
+
+</html>

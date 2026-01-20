@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Desktop Projects Explorer - Kerala Development Showcase</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;600;700&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#135bec",
+                        "background-light": "#f6f6f8",
+                        "background-dark": "#101622",
+                    },
+                    fontFamily: {
+                        "display": ["Public Sans", "sans-serif"]
+                    },
+                    borderRadius: { "DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px" },
+                },
+            },
+        }
+    </script>
+    <style>
+        body {
+            font-family: 'Public Sans', sans-serif;
+        }
+
+        .sidebar-scroll::-webkit-scrollbar {
+            width: 4px;
+        }
+
+        .sidebar-scroll::-webkit-scrollbar-track {
+            background: transparent;
+        }
+
+        .sidebar-scroll::-webkit-scrollbar-thumb {
+            background: #e2e8f0;
+            border-radius: 10px;
+        }
+
+        .dark .sidebar-scroll::-webkit-scrollbar-thumb {
+            background: #334155;
+        }
+    </style>
+</head>
+
+<body class="bg-background-light dark:bg-background-dark text-slate-900 dark:text-slate-100 min-h-screen">
+    <!-- Top Navigation Bar -->
+    <header class="sticky top-0 z-50 w-full bg-white dark:bg-slate-900 border-b border-slate-200 dark:border-slate-800">
+        <div class="max-w-[1440px] mx-auto px-6 h-16 flex items-center justify-between">
+            <div class="flex items-center gap-3">
+                <div class="bg-primary p-1.5 rounded-lg text-white">
+                    <span class="material-symbols-outlined text-2xl">account_balance</span>
+                </div>
+                <div>
+                    <h1 class="text-lg font-bold leading-tight tracking-tight">Kerala Development Showcase</h1>
+                    <p class="text-[10px] uppercase tracking-widest text-slate-500 font-semibold">Government of Kerala
+                    </p>
+                </div>
+            </div>
+            <nav class="hidden md:flex items-center gap-8">
+                <a class="text-sm font-semibold text-primary" href="#">Explorer</a>
+                <a class="text-sm font-medium text-slate-600 dark:text-slate-400 hover:text-primary transition-colors"
+                    href="#">Analytics</a>
+                <a class="text-sm font-medium text-slate-600 dark:text-slate-400 hover:text-primary transition-colors"
+                    href="#">Reports</a>
+                <a class="text-sm font-medium text-slate-600 dark:text-slate-400 hover:text-primary transition-colors"
+                    href="#">Documentation</a>
+            </nav>
+            <div class="flex items-center gap-4">
+                <button
+                    class="p-2 text-slate-500 hover:bg-slate-100 dark:hover:bg-slate-800 rounded-lg transition-colors">
+                    <span class="material-symbols-outlined">notifications</span>
+                </button>
+                <div class="h-8 w-[1px] bg-slate-200 dark:bg-slate-800"></div>
+                <div class="flex items-center gap-3 cursor-pointer group">
+                    <div class="text-right hidden sm:block">
+                        <p class="text-xs font-bold">Admin Portal</p>
+                        <p class="text-[10px] text-slate-500">K-DISC Dept.</p>
+                    </div>
+                    <div class="h-9 w-9 rounded-full bg-slate-200 dark:bg-slate-700 overflow-hidden border border-slate-200 dark:border-slate-800 group-hover:border-primary transition-colors"
+                        data-alt="User profile avatar circle">
+                        <img alt="Profile" class="w-full h-full object-cover" data-alt="User profile placeholder"
+                            src="https://lh3.googleusercontent.com/aida-public/AB6AXuB9j2oVFbMazgsWUO3sZrJAy6KozCaHK7uGyghewPWqYruHyegfwYB81iZ9IUF48A2YbrD1M3WGb-WNVOf4c6EimKVIfQXKLvOgn4J3mdacUXKGC-5Cx9BeUKPXBKSoMJhhGNzRongXwwZAJxj4rpjUYHXEKZMZQlk-isLKzm8o6XnrMWW0HjOmnaMtdwedfq8Z1WoLIUy2dqz3Itt9nvBBI7TWD66akJUAEuTHhW4-MTbrm768UsW3hGWL3N8Jf19gMCotK54qsp0" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="max-w-[1440px] mx-auto flex gap-0">
+        <!-- Sidebar Filter (280px) -->
+        <aside
+            class="w-[280px] fixed top-16 bottom-0 left-auto bg-white dark:bg-slate-900 border-r border-slate-200 dark:border-slate-800 flex flex-col z-40 overflow-hidden">
+            <div class="p-5 flex flex-col gap-6 h-full sidebar-scroll overflow-y-auto">
+                <!-- Search -->
+                <div class="flex flex-col gap-2">
+                    <label class="text-xs font-bold uppercase tracking-wider text-slate-400">Search Projects</label>
+                    <div class="relative">
+                        <span
+                            class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-slate-400 text-xl">search</span>
+                        <input
+                            class="w-full pl-10 pr-4 py-2.5 bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-lg text-sm focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all"
+                            placeholder="By name, id, location..." type="text" />
+                    </div>
+                </div>
+                <!-- Categories Horizontal (Chips) -->
+                <div class="flex flex-col gap-3">
+                    <label class="text-xs font-bold uppercase tracking-wider text-slate-400">Category</label>
+                    <div class="flex flex-wrap gap-2">
+                        <button
+                            class="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-primary text-white text-xs font-medium">
+                            <span class="material-symbols-outlined text-sm">home_work</span>
+                            All
+                        </button>
+                        <button
+                            class="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 text-xs font-medium hover:bg-slate-200 transition-colors">
+                            <span class="material-symbols-outlined text-sm">factory</span>
+                            Infra
+                        </button>
+                        <button
+                            class="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 text-xs font-medium hover:bg-slate-200 transition-colors">
+                            <span class="material-symbols-outlined text-sm">school</span>
+                            Edu
+                        </button>
+                        <button
+                            class="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 text-xs font-medium hover:bg-slate-200 transition-colors">
+                            <span class="material-symbols-outlined text-sm">medical_services</span>
+                            Health
+                        </button>
+                        <button
+                            class="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 text-xs font-medium hover:bg-slate-200 transition-colors">
+                            <span class="material-symbols-outlined text-sm">terminal</span>
+                            IT
+                        </button>
+                    </div>
+                </div>
+                <!-- Districts (Checklist) -->
+                <div class="flex flex-col gap-3">
+                    <div class="flex items-center justify-between">
+                        <label class="text-xs font-bold uppercase tracking-wider text-slate-400">Districts</label>
+                        <button class="text-[10px] text-primary font-bold uppercase">Clear All</button>
+                    </div>
+                    <div class="flex flex-col gap-1 max-h-48 overflow-y-auto pr-2 sidebar-scroll">
+                        <label
+                            class="flex items-center gap-3 p-2 rounded-lg hover:bg-slate-50 dark:hover:bg-slate-800 cursor-pointer group transition-colors">
+                            <input checked=""
+                                class="w-4 h-4 rounded border-slate-300 text-primary focus:ring-primary transition-all"
+                                type="checkbox" />
+                            <span
+                                class="text-sm font-medium text-slate-700 dark:text-slate-300">Thiruvananthapuram</span>
+                        </label>
+                        <label
+                            class="flex items-center gap-3 p-2 rounded-lg hover:bg-slate-50 dark:hover:bg-slate-800 cursor-pointer group transition-colors">
+                            <input
+                                class="w-4 h-4 rounded border-slate-300 text-primary focus:ring-primary transition-all"
+                                type="checkbox" />
+                            <span class="text-sm font-medium text-slate-700 dark:text-slate-300">Kochi</span>
+                        </label>
+                        <label
+                            class="flex items-center gap-3 p-2 rounded-lg hover:bg-slate-50 dark:hover:bg-slate-800 cursor-pointer group transition-colors">
+                            <input
+                                class="w-4 h-4 rounded border-slate-300 text-primary focus:ring-primary transition-all"
+                                type="checkbox" />
+                            <span class="text-sm font-medium text-slate-700 dark:text-slate-300">Kozhikode</span>
+                        </label>
+                        <label
+                            class="flex items-center gap-3 p-2 rounded-lg hover:bg-slate-50 dark:hover:bg-slate-800 cursor-pointer group transition-colors">
+                            <input
+                                class="w-4 h-4 rounded border-slate-300 text-primary focus:ring-primary transition-all"
+                                type="checkbox" />
+                            <span class="text-sm font-medium text-slate-700 dark:text-slate-300">Wayanad</span>
+                        </label>
+                        <label
+                            class="flex items-center gap-3 p-2 rounded-lg hover:bg-slate-50 dark:hover:bg-slate-800 cursor-pointer group transition-colors">
+                            <input
+                                class="w-4 h-4 rounded border-slate-300 text-primary focus:ring-primary transition-all"
+                                type="checkbox" />
+                            <span class="text-sm font-medium text-slate-700 dark:text-slate-300">Idukki</span>
+                        </label>
+                        <label
+                            class="flex items-center gap-3 p-2 rounded-lg hover:bg-slate-50 dark:hover:bg-slate-800 cursor-pointer group transition-colors">
+                            <input
+                                class="w-4 h-4 rounded border-slate-300 text-primary focus:ring-primary transition-all"
+                                type="checkbox" />
+                            <span class="text-sm font-medium text-slate-700 dark:text-slate-300">Alappuzha</span>
+                        </label>
+                    </div>
+                </div>
+                <!-- Project Status -->
+                <div class="flex flex-col gap-3">
+                    <label class="text-xs font-bold uppercase tracking-wider text-slate-400">Project Status</label>
+                    <div class="flex flex-col gap-3 px-2">
+                        <div class="flex items-center justify-between">
+                            <span class="text-sm font-medium">Ongoing</span>
+                            <div class="relative inline-flex items-center cursor-pointer">
+                                <input checked="" class="sr-only peer" type="checkbox" />
+                                <div
+                                    class="w-9 h-5 bg-slate-200 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-4 after:w-4 after:transition-all peer-checked:bg-primary">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="flex items-center justify-between">
+                            <span class="text-sm font-medium">Proposed</span>
+                            <div class="relative inline-flex items-center cursor-pointer">
+                                <input class="sr-only peer" type="checkbox" />
+                                <div
+                                    class="w-9 h-5 bg-slate-200 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-4 after:w-4 after:transition-all peer-checked:bg-primary">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="flex items-center justify-between">
+                            <span class="text-sm font-medium text-slate-400">Completed</span>
+                            <div class="relative inline-flex items-center cursor-pointer">
+                                <input class="sr-only peer" type="checkbox" />
+                                <div
+                                    class="w-9 h-5 bg-slate-200 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-4 after:w-4 after:transition-all peer-checked:bg-primary">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Export CTA -->
+                <div class="mt-auto pt-6 border-t border-slate-100 dark:border-slate-800">
+                    <button
+                        class="w-full flex items-center justify-center gap-2 bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-2.5 rounded-lg text-sm font-bold transition-all hover:bg-slate-800 active:scale-[0.98]">
+                        <span class="material-symbols-outlined text-xl">download</span>
+                        Export Report (CSV)
+                    </button>
+                </div>
+            </div>
+        </aside>
+        <!-- Main Content Area -->
+        <main class="flex-1 ml-[280px] min-h-screen p-8">
+            <!-- Breadcrumbs & Header -->
+            <div class="flex flex-col md:flex-row md:items-end justify-between gap-4 mb-8">
+                <div>
+                    <nav class="flex items-center gap-2 text-xs font-medium text-slate-400 mb-2">
+                        <a class="hover:text-primary transition-colors" href="#">Home</a>
+                        <span class="material-symbols-outlined text-[12px]">chevron_right</span>
+                        <span class="text-slate-600 dark:text-slate-300">All Projects</span>
+                    </nav>
+                    <h2 class="text-3xl font-extrabold text-slate-900 dark:text-white tracking-tight">Browse Projects
+                    </h2>
+                    <p class="text-slate-500 text-sm mt-1">Showing 156 active development projects across Kerala</p>
+                </div>
+                <div class="flex items-center gap-3">
+                    <div
+                        class="flex items-center bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-lg px-3 py-2 gap-2 text-sm font-medium">
+                        <span class="text-slate-400">Sort by:</span>
+                        <select
+                            class="bg-transparent border-none p-0 pr-6 focus:ring-0 text-sm font-bold cursor-pointer">
+                            <option>Most Recent</option>
+                            <option>Budget: High to Low</option>
+                            <option>Budget: Low to High</option>
+                            <option>Priority Level</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <!-- Project Grid -->
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+                <!-- Project Card 1 -->
+                <div
+                    class="group bg-white dark:bg-slate-900 rounded-xl overflow-hidden border border-slate-200 dark:border-slate-800 hover:shadow-xl hover:shadow-primary/5 transition-all duration-300">
+                    <div class="aspect-[16/9] relative overflow-hidden bg-slate-100">
+                        <img alt="Construction site Kochi Metro"
+                            class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
+                            data-alt="Kochi Metro Phase 2 construction site overview"
+                            src="https://lh3.googleusercontent.com/aida-public/AB6AXuD9UB4FMbQJUl6-9FtPNuNXbWtutT6PjMXMn26YYx3fGQfAJpJcIO_wpW_LxORPrPdmJi7bMQWOrUgpm-1NjrOq83cWgS3M9tLnVlJJ1UWSjVtDFDP9V1ummoa1iorKfBupS5aYoQ7sxYQHDFd-DU_u-YAT9HmdLHHpqot-D62vPQdhxlrT52G2ddCPqW1rF1yhgHBLKslJoHtPegAB4gj-psZqrwsdcf7GYMa7ejxkLedRBzrELmWe80w4uAE0tu3Hnc-qOksot1Q" />
+                        <div class="absolute top-3 left-3 flex gap-2">
+                            <span
+                                class="px-2.5 py-1 rounded-full bg-blue-600 text-[10px] font-bold text-white uppercase tracking-wider">In
+                                Progress</span>
+                        </div>
+                    </div>
+                    <div class="p-4">
+                        <div class="flex items-center gap-1.5 text-primary mb-2">
+                            <span class="material-symbols-outlined text-sm">location_on</span>
+                            <span class="text-[11px] font-bold uppercase tracking-wider">Ernakulam</span>
+                        </div>
+                        <h3
+                            class="text-base font-bold text-slate-900 dark:text-white mb-3 line-clamp-1 group-hover:text-primary transition-colors">
+                            Kochi Metro Phase 2 Extension</h3>
+                        <div
+                            class="pt-3 border-t border-slate-50 dark:border-slate-800 flex items-center justify-between">
+                            <div class="flex flex-col">
+                                <span class="text-[10px] text-slate-400 uppercase font-bold">Allocated Budget</span>
+                                <span class="text-lg font-black text-slate-900 dark:text-white">₹1,957 Cr</span>
+                            </div>
+                            <button
+                                class="w-9 h-9 flex items-center justify-center rounded-lg bg-slate-50 dark:bg-slate-800 text-slate-400 hover:bg-primary hover:text-white transition-all">
+                                <span class="material-symbols-outlined">arrow_forward</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <!-- Project Card 2 -->
+                <div
+                    class="group bg-white dark:bg-slate-900 rounded-xl overflow-hidden border border-slate-200 dark:border-slate-800 hover:shadow-xl hover:shadow-primary/5 transition-all duration-300">
+                    <div class="aspect-[16/9] relative overflow-hidden bg-slate-100">
+                        <img alt="Vizhinjam Port aerial view"
+                            class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
+                            data-alt="Vizhinjam International Seaport aerial construction view"
+                            src="https://lh3.googleusercontent.com/aida-public/AB6AXuDHizdXxJts6D37uq61svQ5Bu-3EjIV0jvpgc2sHSVlX742WrxnJvdQgT97oaHwChM4JH9AqLrO_EJ45B7HoAj9Te9b3AZ27YTBezcLEZBUotgAwROt801BQIeuNh50VrmqzN0ujxCRW5UTp9lm186kbo9LrOvt8uovfyj7jMhWGfejEB_rg_SCB0JJpnBFXJKyK06DipkEqMe7Zlt_UL8l4GLxX5AoOLW-CkBfCEynQI20N_9Et6SEZtftslMSNIEpua7F2SyGCfM" />
+                        <div class="absolute top-3 left-3 flex gap-2">
+                            <span
+                                class="px-2.5 py-1 rounded-full bg-blue-600 text-[10px] font-bold text-white uppercase tracking-wider">In
+                                Progress</span>
+                        </div>
+                    </div>
+                    <div class="p-4">
+                        <div class="flex items-center gap-1.5 text-primary mb-2">
+                            <span class="material-symbols-outlined text-sm">location_on</span>
+                            <span class="text-[11px] font-bold uppercase tracking-wider">Thiruvananthapuram</span>
+                        </div>
+                        <h3
+                            class="text-base font-bold text-slate-900 dark:text-white mb-3 line-clamp-1 group-hover:text-primary transition-colors">
+                            Vizhinjam Port Expansion</h3>
+                        <div
+                            class="pt-3 border-t border-slate-50 dark:border-slate-800 flex items-center justify-between">
+                            <div class="flex flex-col">
+                                <span class="text-[10px] text-slate-400 uppercase font-bold">Allocated Budget</span>
+                                <span class="text-lg font-black text-slate-900 dark:text-white">₹7,700 Cr</span>
+                            </div>
+                            <button
+                                class="w-9 h-9 flex items-center justify-center rounded-lg bg-slate-50 dark:bg-slate-800 text-slate-400 hover:bg-primary hover:text-white transition-all">
+                                <span class="material-symbols-outlined">arrow_forward</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <!-- Project Card 3 -->
+                <div
+                    class="group bg-white dark:bg-slate-900 rounded-xl overflow-hidden border border-slate-200 dark:border-slate-800 hover:shadow-xl hover:shadow-primary/5 transition-all duration-300">
+                    <div class="aspect-[16/9] relative overflow-hidden bg-slate-100">
+                        <img alt="Tech project visualization"
+                            class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
+                            data-alt="K-FON IT connectivity project visual abstract"
+                            src="https://lh3.googleusercontent.com/aida-public/AB6AXuCdm6-CQQyIGp2bt0wX515rCgFXKjok6yYo4wX_A-FW5d_EcNW0mGzTZH-a9LR0R2yEBtQ6_qQink9WwLQcBmsZPWqExoHvEC0NFdQm_R8GEDh_5M2J6oai9ACDx-dENIZELR2Dq3sE1BQAUqd372hEt2KkvZL9H_NDMnX43HWy_eKGdXW5QwdYxnHXFGz53tDq0CRQGzsNu2bAk6Q8ePJL8hiIrbwDmxU43XELX62vGqzgpaelkwdtLZFLT_gpFflGdRKelxXOHTc" />
+                        <div class="absolute top-3 left-3 flex gap-2">
+                            <span
+                                class="px-2.5 py-1 rounded-full bg-emerald-600 text-[10px] font-bold text-white uppercase tracking-wider">Completed</span>
+                        </div>
+                    </div>
+                    <div class="p-4">
+                        <div class="flex items-center gap-1.5 text-primary mb-2">
+                            <span class="material-symbols-outlined text-sm">location_on</span>
+                            <span class="text-[11px] font-bold uppercase tracking-wider">State-Wide</span>
+                        </div>
+                        <h3
+                            class="text-base font-bold text-slate-900 dark:text-white mb-3 line-clamp-1 group-hover:text-primary transition-colors">
+                            K-FON Optical Fiber Network</h3>
+                        <div
+                            class="pt-3 border-t border-slate-50 dark:border-slate-800 flex items-center justify-between">
+                            <div class="flex flex-col">
+                                <span class="text-[10px] text-slate-400 uppercase font-bold">Allocated Budget</span>
+                                <span class="text-lg font-black text-slate-900 dark:text-white">₹1,548 Cr</span>
+                            </div>
+                            <button
+                                class="w-9 h-9 flex items-center justify-center rounded-lg bg-slate-50 dark:bg-slate-800 text-slate-400 hover:bg-primary hover:text-white transition-all">
+                                <span class="material-symbols-outlined">arrow_forward</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <!-- Project Card 4 -->
+                <div
+                    class="group bg-white dark:bg-slate-900 rounded-xl overflow-hidden border border-slate-200 dark:border-slate-800 hover:shadow-xl hover:shadow-primary/5 transition-all duration-300">
+                    <div class="aspect-[16/9] relative overflow-hidden bg-slate-100">
+                        <img alt="Solar panels farm"
+                            class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
+                            data-alt="Renewable energy solar farm project in Idukki"
+                            src="https://lh3.googleusercontent.com/aida-public/AB6AXuB6L-b2Vqpb2dg37Ksl7Qii4_GVNSukZpvbq3mquXeHZmC0xSWqb_EUs48-Ma0xWEzknlisdW99JvaJtU7qUjD5FNFaiux32T8biSjRDfdlb35kKifoXcBc6DAiLFzB3p9CFxPXR69GDvRrOBTdBD3H7iFdcUhVQ6HxgpdqZZNeOkCOWjmyDksQvyRkFlFAQ1MufsMbx5m2CUPIFPKGhk4-qVgM-x1ad4lUBdO5a6W6PxK3SXqKu3ssEiTcGHJvNwulDH8iJUIQkO8" />
+                        <div class="absolute top-3 left-3 flex gap-2">
+                            <span
+                                class="px-2.5 py-1 rounded-full bg-amber-500 text-[10px] font-bold text-white uppercase tracking-wider">Proposed</span>
+                        </div>
+                    </div>
+                    <div class="p-4">
+                        <div class="flex items-center gap-1.5 text-primary mb-2">
+                            <span class="material-symbols-outlined text-sm">location_on</span>
+                            <span class="text-[11px] font-bold uppercase tracking-wider">Idukki</span>
+                        </div>
+                        <h3
+                            class="text-base font-bold text-slate-900 dark:text-white mb-3 line-clamp-1 group-hover:text-primary transition-colors">
+                            Idukki Solar Farm 250MW</h3>
+                        <div
+                            class="pt-3 border-t border-slate-50 dark:border-slate-800 flex items-center justify-between">
+                            <div class="flex flex-col">
+                                <span class="text-[10px] text-slate-400 uppercase font-bold">Estimated Cost</span>
+                                <span class="text-lg font-black text-slate-900 dark:text-white">₹850 Cr</span>
+                            </div>
+                            <button
+                                class="w-9 h-9 flex items-center justify-center rounded-lg bg-slate-50 dark:bg-slate-800 text-slate-400 hover:bg-primary hover:text-white transition-all">
+                                <span class="material-symbols-outlined">arrow_forward</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <!-- Project Card 5 -->
+                <div
+                    class="group bg-white dark:bg-slate-900 rounded-xl overflow-hidden border border-slate-200 dark:border-slate-800 hover:shadow-xl hover:shadow-primary/5 transition-all duration-300">
+                    <div class="aspect-[16/9] relative overflow-hidden bg-slate-100">
+                        <img alt="Modern hospital building"
+                            class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
+                            data-alt="Modern healthcare facility development project"
+                            src="https://lh3.googleusercontent.com/aida-public/AB6AXuClJQpqO-2v6XlDB4fj7UeoyOud6_1R1sqqKPssMQ8DWknD00FQTUXg96VedglxDbj23-uzjYQR6R_pnaN4Xw6CsspNIbCv4e27xvMJjxI1TVBSpIVaQXerqY--txk2iypFzgYOWkWr19Jyxt1KBNgQaZdRHZ9YYRWmfzmXYIYqhgcstbKGlyuMmTEU4JaDJHterJ_O_cjIaIPQ1QkYGgGfFjs0FGgBfBYGlwfcP84cBrnEN8FEyz4X04Sr8g7pVgBLDRmCUg7NQf0" />
+                        <div class="absolute top-3 left-3 flex gap-2">
+                            <span
+                                class="px-2.5 py-1 rounded-full bg-blue-600 text-[10px] font-bold text-white uppercase tracking-wider">In
+                                Progress</span>
+                        </div>
+                    </div>
+                    <div class="p-4">
+                        <div class="flex items-center gap-1.5 text-primary mb-2">
+                            <span class="material-symbols-outlined text-sm">location_on</span>
+                            <span class="text-[11px] font-bold uppercase tracking-wider">Kozhikode</span>
+                        </div>
+                        <h3
+                            class="text-base font-bold text-slate-900 dark:text-white mb-3 line-clamp-1 group-hover:text-primary transition-colors">
+                            Digital Health Mission Hub</h3>
+                        <div
+                            class="pt-3 border-t border-slate-50 dark:border-slate-800 flex items-center justify-between">
+                            <div class="flex flex-col">
+                                <span class="text-[10px] text-slate-400 uppercase font-bold">Allocated Budget</span>
+                                <span class="text-lg font-black text-slate-900 dark:text-white">₹320 Cr</span>
+                            </div>
+                            <button
+                                class="w-9 h-9 flex items-center justify-center rounded-lg bg-slate-50 dark:bg-slate-800 text-slate-400 hover:bg-primary hover:text-white transition-all">
+                                <span class="material-symbols-outlined">arrow_forward</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <!-- Project Card 6 -->
+                <div
+                    class="group bg-white dark:bg-slate-900 rounded-xl overflow-hidden border border-slate-200 dark:border-slate-800 hover:shadow-xl hover:shadow-primary/5 transition-all duration-300">
+                    <div class="aspect-[16/9] relative overflow-hidden bg-slate-100">
+                        <img alt="Education campus"
+                            class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
+                            data-alt="Smart education campus development Kozhikode"
+                            src="https://lh3.googleusercontent.com/aida-public/AB6AXuDyVo66R4Jkrh0eCyk52YqjHh2jfJE4AKO1yfPIvdGXl-VxUeafbGlhmZarr8_AXxMifPLZKJBe2e8Ja9t8uam2spLHUq7Btk3cXBorJvYukDc7_mDSWtZIEji3NXKoZt2lPYScpmx0qm3nZV-atbvaQF8aS3-9CV72NQMXRY_k1MnfuLQnvA39FZfPca13UiZWwnK26iE-TCOHYTzfUr9m7ECoF8reDxdnEw5gLbV_RDVJXBMUGQ4dGMIhqVxf4xbt8uV6WsWNCp0" />
+                        <div class="absolute top-3 left-3 flex gap-2">
+                            <span
+                                class="px-2.5 py-1 rounded-full bg-blue-600 text-[10px] font-bold text-white uppercase tracking-wider">In
+                                Progress</span>
+                        </div>
+                    </div>
+                    <div class="p-4">
+                        <div class="flex items-center gap-1.5 text-primary mb-2">
+                            <span class="material-symbols-outlined text-sm">location_on</span>
+                            <span class="text-[11px] font-bold uppercase tracking-wider">Kozhikode</span>
+                        </div>
+                        <h3
+                            class="text-base font-bold text-slate-900 dark:text-white mb-3 line-clamp-1 group-hover:text-primary transition-colors">
+                            Malabar Education Smart Campus</h3>
+                        <div
+                            class="pt-3 border-t border-slate-50 dark:border-slate-800 flex items-center justify-between">
+                            <div class="flex flex-col">
+                                <span class="text-[10px] text-slate-400 uppercase font-bold">Allocated Budget</span>
+                                <span class="text-lg font-black text-slate-900 dark:text-white">₹125 Cr</span>
+                            </div>
+                            <button
+                                class="w-9 h-9 flex items-center justify-center rounded-lg bg-slate-50 dark:bg-slate-800 text-slate-400 hover:bg-primary hover:text-white transition-all">
+                                <span class="material-symbols-outlined">arrow_forward</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <!-- Project Card 7 -->
+                <div
+                    class="group bg-white dark:bg-slate-900 rounded-xl overflow-hidden border border-slate-200 dark:border-slate-800 hover:shadow-xl hover:shadow-primary/5 transition-all duration-300">
+                    <div class="aspect-[16/9] relative overflow-hidden bg-slate-100">
+                        <img alt="IT park interior"
+                            class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
+                            data-alt="Infopark Kochi Phase 3 expansion interior visualization"
+                            src="https://lh3.googleusercontent.com/aida-public/AB6AXuAXLFhP5J9KIk5UyVoPvvyDwuPTP9TE3FVhWUXTvB25JgcnzHEjcpbFiNYdpzO6RhpT4HkgwaD43rPYrgZ-ZkR1IN11IheG8fAcNIk6rOwxKnYUfhASVH407kZPDY53Zza7q2SKwrfnVrM0YMrBob5EnQGH9xGUdJ877mXxeWdjeBfYFGlCUvX6RLR2KLv46FRyFjedfwC1Drr_x9ZAh44VIiwJXxB0ZkbTyKPIrbiKCXo1rm4VdHg9qyy4dCVAdoKdc_J_mrS-VL4" />
+                        <div class="absolute top-3 left-3 flex gap-2">
+                            <span
+                                class="px-2.5 py-1 rounded-full bg-amber-500 text-[10px] font-bold text-white uppercase tracking-wider">Proposed</span>
+                        </div>
+                    </div>
+                    <div class="p-4">
+                        <div class="flex items-center gap-1.5 text-primary mb-2">
+                            <span class="material-symbols-outlined text-sm">location_on</span>
+                            <span class="text-[11px] font-bold uppercase tracking-wider">Ernakulam</span>
+                        </div>
+                        <h3
+                            class="text-base font-bold text-slate-900 dark:text-white mb-3 line-clamp-1 group-hover:text-primary transition-colors">
+                            Infopark Phase 3 - Kochi</h3>
+                        <div
+                            class="pt-3 border-t border-slate-50 dark:border-slate-800 flex items-center justify-between">
+                            <div class="flex flex-col">
+                                <span class="text-[10px] text-slate-400 uppercase font-bold">Estimated Cost</span>
+                                <span class="text-lg font-black text-slate-900 dark:text-white">₹420 Cr</span>
+                            </div>
+                            <button
+                                class="w-9 h-9 flex items-center justify-center rounded-lg bg-slate-50 dark:bg-slate-800 text-slate-400 hover:bg-primary hover:text-white transition-all">
+                                <span class="material-symbols-outlined">arrow_forward</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <!-- Project Card 8 -->
+                <div
+                    class="group bg-white dark:bg-slate-900 rounded-xl overflow-hidden border border-slate-200 dark:border-slate-800 hover:shadow-xl hover:shadow-primary/5 transition-all duration-300">
+                    <div class="aspect-[16/9] relative overflow-hidden bg-slate-100">
+                        <img alt="Traditional bridge renovation"
+                            class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
+                            data-alt="Traditional backwater bridge renovation project"
+                            src="https://lh3.googleusercontent.com/aida-public/AB6AXuArkCEZ1jYttavti0U86ycmpHDurMwHAynoJAWNpvBA34vZZoddu8NQbIlmGUHBtq3YYrZLSyMXfiQZePG-BJIIY-CfBySNKHeyRKeDdNZ9EygYEpwpngSwi97oLr1qHpTwkETLr6YwIAzEMPBGcvl2dsoJ-hm3Z-33l8A7Vh7Ye47OVawp9vPP0CfRFWBcScL2FvtOtWxEhtv1zKPxndujT603LkjeObEbZX6JQhZ-R5CNQGBpAafKM5x2f_4A5iv0Kb9jS_MTB3Q" />
+                        <div class="absolute top-3 left-3 flex gap-2">
+                            <span
+                                class="px-2.5 py-1 rounded-full bg-emerald-600 text-[10px] font-bold text-white uppercase tracking-wider">Completed</span>
+                        </div>
+                    </div>
+                    <div class="p-4">
+                        <div class="flex items-center gap-1.5 text-primary mb-2">
+                            <span class="material-symbols-outlined text-sm">location_on</span>
+                            <span class="text-[11px] font-bold uppercase tracking-wider">Alappuzha</span>
+                        </div>
+                        <h3
+                            class="text-base font-bold text-slate-900 dark:text-white mb-3 line-clamp-1 group-hover:text-primary transition-colors">
+                            Backwater Tourism Corridor</h3>
+                        <div
+                            class="pt-3 border-t border-slate-50 dark:border-slate-800 flex items-center justify-between">
+                            <div class="flex flex-col">
+                                <span class="text-[10px] text-slate-400 uppercase font-bold">Allocated Budget</span>
+                                <span class="text-lg font-black text-slate-900 dark:text-white">₹85 Cr</span>
+                            </div>
+                            <button
+                                class="w-9 h-9 flex items-center justify-center rounded-lg bg-slate-50 dark:bg-slate-800 text-slate-400 hover:bg-primary hover:text-white transition-all">
+                                <span class="material-symbols-outlined">arrow_forward</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Pagination -->
+            <div class="mt-12 flex flex-col items-center gap-4">
+                <button
+                    class="px-12 py-3 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-lg text-sm font-bold hover:border-primary hover:text-primary transition-all flex items-center gap-2">
+                    <span class="material-symbols-outlined">refresh</span>
+                    Load More Projects
+                </button>
+                <p class="text-[11px] text-slate-400 font-medium">Displaying 8 of 156 results</p>
+            </div>
+        </main>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Desktop About Showcase | Kerala Development</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;600;700;900&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#13ecb2",
+                        "background-light": "#f6f8f7",
+                        "background-dark": "#10221d",
+                    },
+                    fontFamily: {
+                        "display": ["Public Sans", "sans-serif"]
+                    },
+                    borderRadius: {
+                        "DEFAULT": "0.5rem",
+                        "lg": "1rem",
+                        "xl": "1.5rem",
+                        "full": "9999px"
+                    },
+                },
+            },
+        }
+    </script>
+    <style>
+        body {
+            font-family: "Public Sans", sans-serif;
+        }
+
+        .emblem-watermark {
+            mask-image: url('https://placeholder.pics/svg/400/10221d/10221d/Kerala%20Emblem');
+            mask-repeat: no-repeat;
+            mask-position: center;
+            opacity: 0.15;
+        }
+    </style>
+</head>
+
+<body class="bg-background-light dark:bg-background-dark text-[#111816] dark:text-white transition-colors duration-300">
+    <!-- Top Navigation Bar (Integrated from Components) -->
+    <header
+        class="fixed top-0 left-0 right-0 z-50 bg-white/80 dark:bg-background-dark/80 backdrop-blur-md border-b border-solid border-[#f0f4f3] dark:border-white/10 px-10 py-3">
+        <div class="max-w-[1440px] mx-auto flex items-center justify-between whitespace-nowrap">
+            <div class="flex items-center gap-4 text-[#111816] dark:text-white">
+                <div class="size-6 text-primary">
+                    <svg fill="none" viewbox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+                        <path
+                            d="M24 45.8096C19.6865 45.8096 15.4698 44.5305 11.8832 42.134C8.29667 39.7376 5.50128 36.3314 3.85056 32.3462C2.19985 28.361 1.76794 23.9758 2.60947 19.7452C3.451 15.5145 5.52816 11.6284 8.57829 8.5783C11.6284 5.52817 15.5145 3.45101 19.7452 2.60948C23.9758 1.76795 28.361 2.19986 32.3462 3.85057C36.3314 5.50129 39.7376 8.29668 42.134 11.8833C44.5305 15.4698 45.8096 19.6865 45.8096 24L24 24L24 45.8096Z"
+                            fill="currentColor"></path>
+                    </svg>
+                </div>
+                <h2 class="text-lg font-bold leading-tight tracking-[-0.015em]">Kerala Development</h2>
+            </div>
+            <div class="flex flex-1 justify-end gap-8">
+                <nav class="flex items-center gap-9">
+                    <a class="text-sm font-medium leading-normal hover:text-primary transition-colors" href="#">Home</a>
+                    <a class="text-sm font-medium leading-normal text-primary" href="#">About</a>
+                    <a class="text-sm font-medium leading-normal hover:text-primary transition-colors"
+                        href="#">Projects</a>
+                    <a class="text-sm font-medium leading-normal hover:text-primary transition-colors"
+                        href="#">Contact</a>
+                </nav>
+                <button
+                    class="flex min-w-[84px] cursor-pointer items-center justify-center overflow-hidden rounded-xl h-10 px-4 bg-primary text-[#111816] text-sm font-bold leading-normal tracking-[0.015em] hover:opacity-90 transition-opacity">
+                    <span>Portal Login</span>
+                </button>
+            </div>
+        </div>
+    </header>
+    <main class="flex min-h-screen w-full pt-16">
+        <!-- Split Layout: Left 40% Decorative -->
+        <section
+            class="hidden lg:flex w-[40%] sticky top-16 h-[calc(100vh-64px)] bg-gradient-to-br from-[#10221d] via-[#1a3a32] to-primary overflow-hidden relative items-center justify-center">
+            <div class="absolute inset-0 emblem-watermark"></div>
+            <div class="relative z-10 px-12 text-center">
+                <div
+                    class="w-32 h-32 mx-auto mb-8 rounded-full bg-white/10 backdrop-blur-xl flex items-center justify-center border border-white/20">
+                    <span class="material-symbols-outlined text-white text-6xl">account_balance</span>
+                </div>
+                <h3 class="text-white text-3xl font-bold mb-4">God's Own Country</h3>
+                <p class="text-white/70 text-lg font-light leading-relaxed max-w-sm mx-auto">
+                    Merging tradition with technological excellence to create a sustainable future for every citizen.
+                </p>
+                <div class="mt-12 flex justify-center gap-2">
+                    <div class="h-1 w-8 bg-primary rounded-full"></div>
+                    <div class="h-1 w-2 bg-white/30 rounded-full"></div>
+                    <div class="h-1 w-2 bg-white/30 rounded-full"></div>
+                </div>
+            </div>
+            <!-- Background Decorative Element -->
+            <div class="absolute -bottom-20 -left-20 w-80 h-80 bg-primary/20 rounded-full blur-[100px]"></div>
+        </section>
+        <!-- Split Layout: Right 60% Content -->
+        <section class="w-full lg:w-[60%] bg-white dark:bg-background-dark min-h-screen overflow-y-auto">
+            <div class="max-w-[800px] mx-auto px-12 py-20">
+                <!-- Hero Content (Refined from HeroSection) -->
+                <div class="flex flex-col gap-6 mb-16">
+                    <div
+                        class="inline-flex items-center gap-2 px-3 py-1 bg-primary/10 text-primary rounded-full text-xs font-bold uppercase tracking-wider w-fit">
+                        Official Government Portal
+                    </div>
+                    <h1
+                        class="text-[#111816] dark:text-white text-5xl font-black leading-tight tracking-[-0.033em] lg:text-6xl">
+                        Kerala Development Showcase
+                    </h1>
+                    <div class="flex flex-col gap-4">
+                        <h2 class="text-primary text-xl font-semibold leading-normal">
+                            Transforming Kerala 2016-2025
+                        </h2>
+                        <p class="text-[#111816]/70 dark:text-white/70 text-lg leading-relaxed max-w-2xl">
+                            Our mission is to accelerate the digital transformation of the state through innovative
+                            governance and citizen-centric services. We are building a future-ready infrastructure that
+                            empowers every resident, fosters innovation, and ensures transparent administration.
+                        </p>
+                    </div>
+                </div>
+                <!-- Achievements Stats (Refined from Stats) -->
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-16">
+                    <div
+                        class="flex flex-col gap-2 rounded-xl p-8 border border-[#dbe6e3] dark:border-white/10 bg-background-light dark:bg-white/5 hover:border-primary transition-colors cursor-default group">
+                        <span
+                            class="material-symbols-outlined text-primary mb-2 group-hover:scale-110 transition-transform">school</span>
+                        <p class="text-[#111816]/60 dark:text-white/60 text-sm font-medium">Digital Literacy</p>
+                        <p class="text-[#111816] dark:text-white tracking-light text-3xl font-bold leading-tight">95%
+                        </p>
+                        <p class="text-[#07882e] text-sm font-bold flex items-center gap-1">
+                            <span class="material-symbols-outlined text-xs">trending_up</span> +12% YoY
+                        </p>
+                    </div>
+                    <div
+                        class="flex flex-col gap-2 rounded-xl p-8 border border-[#dbe6e3] dark:border-white/10 bg-background-light dark:bg-white/5 hover:border-primary transition-colors cursor-default group">
+                        <span
+                            class="material-symbols-outlined text-primary mb-2 group-hover:scale-110 transition-transform">bolt</span>
+                        <p class="text-[#111816]/60 dark:text-white/60 text-sm font-medium">e-Services</p>
+                        <p class="text-[#111816] dark:text-white tracking-light text-3xl font-bold leading-tight">1500+
+                        </p>
+                        <p class="text-[#07882e] text-sm font-bold flex items-center gap-1">
+                            <span class="material-symbols-outlined text-xs">trending_up</span> +45% Growth
+                        </p>
+                    </div>
+                    <div
+                        class="flex flex-col gap-2 rounded-xl p-8 border border-[#dbe6e3] dark:border-white/10 bg-background-light dark:bg-white/5 hover:border-primary transition-colors cursor-default group">
+                        <span
+                            class="material-symbols-outlined text-primary mb-2 group-hover:scale-110 transition-transform">rocket_launch</span>
+                        <p class="text-[#111816]/60 dark:text-white/60 text-sm font-medium">Startup Ecosystem</p>
+                        <p class="text-[#111816] dark:text-white tracking-light text-3xl font-bold leading-tight">Tier 1
+                        </p>
+                        <p class="text-[#07882e] text-sm font-bold flex items-center gap-1">
+                            <span class="material-symbols-outlined text-xs">trending_up</span> Top in India
+                        </p>
+                    </div>
+                </div>
+                <!-- Leadership Section (Refined from SectionHeader & ImageGrid) -->
+                <div class="mb-16">
+                    <div class="flex items-center justify-between mb-8">
+                        <h2 class="text-[#111816] dark:text-white text-3xl font-bold leading-tight tracking-[-0.015em]">
+                            Leadership</h2>
+                        <div class="h-px flex-1 bg-gradient-to-r from-primary/30 to-transparent ml-8"></div>
+                    </div>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                        <div
+                            class="flex flex-col gap-5 p-4 bg-background-light dark:bg-white/5 rounded-2xl group border border-transparent hover:border-primary/50 transition-all">
+                            <div class="w-full bg-center bg-no-repeat aspect-[4/5] bg-cover rounded-xl shadow-lg group-hover:shadow-primary/20 transition-all"
+                                data-alt="Chief Minister Shri Pinarayi Vijayan portrait"
+                                style='background-image: url("https://akm-img-a-in.tosshub.com/indiatoday/images/story/202503/pinarayi-vijayan-252206944-16x9.png?VersionId=IwqEDhi9G_kSIDB4MCur9PY.NHgtufjb&size=690:388");'>
+                            </div>
+                            <div class="px-2">
+                                <p class="text-[#111816] dark:text-white text-xl font-bold leading-normal">Shri.
+                                    Pinarayi Vijayan</p>
+                                <p class="text-primary text-sm font-semibold uppercase tracking-widest mt-1">Hon'ble
+                                    Chief Minister</p>
+                            </div>
+                        </div>
+                        <div
+                            class="flex flex-col gap-5 p-4 bg-background-light dark:bg-white/5 rounded-2xl group border border-transparent hover:border-primary/50 transition-all">
+                            <div class="w-full bg-center bg-no-repeat aspect-[4/5] bg-cover rounded-xl shadow-lg group-hover:shadow-primary/20 transition-all"
+                                data-alt="Minister for IT Government of Kerala portrait"
+                                style='background-image: url("https://pbs.twimg.com/profile_images/1848690856120786944/H4xLzX3__400x400.jpg");'>
+                            </div>
+                            <div class="px-2">
+                                <p class="text-[#111816] dark:text-white text-xl font-bold leading-normal">Minister for
+                                    IT</p>
+                                <p class="text-primary text-sm font-semibold uppercase tracking-widest mt-1">Government
+                                    of Kerala</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Mission Paragraph Additional Details -->
+                <div class="bg-primary/5 border-l-4 border-primary p-8 rounded-r-xl mb-20">
+                    <p class="text-[#111816] dark:text-white italic text-lg leading-relaxed">
+                        "Our goal is not just digital growth, but inclusive development where the benefits of technology
+                        reach the last person in the society."
+                    </p>
+                </div>
+                <!-- Footer (Aligned Neatly at bottom) -->
+                <footer
+                    class="pt-10 border-t border-solid border-[#f0f4f3] dark:border-white/10 flex flex-col md:flex-row justify-between items-center gap-4 text-[#111816]/50 dark:text-white/50 text-xs">
+                    <div class="flex items-center gap-2">
+                        <img alt="Kerala Government Logo"
+                            class="h-8 opacity-60 grayscale hover:grayscale-0 transition-all"
+                            data-alt="Official Kerala Government seal logo"
+                            src="https://lh3.googleusercontent.com/aida-public/AB6AXuBv8fXXTpMZi0pVk4B-jGvqsSPZ4RiM6Tuf-_xPHnD-JzIs6rpAQ92AEvuBH-AoTCjM8SCorjer6BZGPWqESICYLgu4m5lK8uaSbcjfO7uTfssoa2goaMYJlEnvh5ItjkoyAV_K09H6hqM1REOG41WwcyspXveJEYK1tK_tDGLRVzGpkf4Sr_dXwxliQq-4LJi8jjd7yK3yUOCud88mQPLuK-QMYoQf3sRbz_3p3QyX9hFfTx7evqWGe8gCE93uSE29IDwlgBH5ngI" />
+                        <span class="font-medium">IT Mission Kerala © 2024. All Rights Reserved.</span>
+                    </div>
+                    <div class="flex gap-6">
+                        <a class="hover:text-primary transition-colors" href="#">Privacy Policy</a>
+                        <a class="hover:text-primary transition-colors" href="#">Accessibility</a>
+                        <a class="hover:text-primary transition-colors" href="#">Digital Archive</a>
+                    </div>
+                </footer>
+            </div>
+        </section>
+    </main>
+    <!-- Theme Switcher Floating (Bonus Utility) -->
+    <button
+        class="fixed bottom-6 right-6 z-[100] w-12 h-12 rounded-full bg-primary text-background-dark flex items-center justify-center shadow-xl hover:scale-110 transition-transform"
+        onclick="document.documentElement.classList.toggle('dark')">
+        <span class="material-symbols-outlined">contrast</span>
+    </button>
+</body>
+
+</html>

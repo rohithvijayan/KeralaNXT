@@ -3,212 +3,240 @@
         {
             "id": "thiruvananthapuram",
             "name": "Thiruvananthapuram",
-            "population": "3.3M",
+            "nameML": "തിരുവനന്തപുരം",
+            "population": "3.30M",
             "area": "2,192 km²",
             "headquarters": "Thiruvananthapuram",
+            "mapPath": "M150 100 L200 150 L150 200 Z",
             "highlightProjects": [
-                "proj-001",
-                "proj-002",
-                "proj-003",
-                "proj-004"
+                "Vizhinjam International Seaport",
+                "Life Science Park",
+                "K-FON Phase I",
+                "Light Metro Project"
             ],
-            "totalProjects": 52,
-            "totalInvestment": "₹9,250 Cr"
+            "totalProjects": 142,
+            "totalInvestment": "₹15,450 Cr"
         },
         {
             "id": "kollam",
             "name": "Kollam",
-            "population": "2.6M",
+            "nameML": "കൊല്ലം",
+            "population": "2.64M",
             "area": "2,491 km²",
             "headquarters": "Kollam",
+            "mapPath": "M150 100 L200 150 L150 200 Z",
             "highlightProjects": [
-                "proj-005",
-                "proj-006",
-                "proj-007",
-                "proj-008"
+                "Kollam Bypass Development",
+                "Cashew Industry Modernization",
+                "Ashtamudi Tourism Circuit",
+                "Coastal Highway Reach II"
             ],
-            "totalProjects": 38,
-            "totalInvestment": "₹4,100 Cr"
+            "totalProjects": 85,
+            "totalInvestment": "₹6,200 Cr"
         },
         {
             "id": "pathanamthitta",
             "name": "Pathanamthitta",
-            "population": "1.2M",
-            "area": "2,642 km²",
+            "nameML": "പത്തനംതിട്ട",
+            "population": "1.20M",
+            "area": "2,637 km²",
             "headquarters": "Pathanamthitta",
+            "mapPath": "M150 100 L200 150 L150 200 Z",
             "highlightProjects": [
-                "proj-009",
-                "proj-010",
-                "proj-011",
-                "proj-012"
+                "Sabarimala Master Plan",
+                "Konni Eco-Tourism",
+                "Pamba River Protection",
+                "Aranmula Heritage Village"
             ],
-            "totalProjects": 24,
-            "totalInvestment": "₹2,150 Cr"
+            "totalProjects": 45,
+            "totalInvestment": "₹3,150 Cr"
         },
         {
             "id": "alappuzha",
             "name": "Alappuzha",
-            "population": "2.1M",
+            "nameML": "ആലപ്പുഴ",
+            "population": "2.12M",
             "area": "1,414 km²",
             "headquarters": "Alappuzha",
+            "mapPath": "M150 100 L200 150 L150 200 Z",
             "highlightProjects": [
-                "proj-013",
-                "proj-014",
-                "proj-015",
-                "proj-016"
+                "Kuttanad Package",
+                "Alappuzha Canal Rejuvenation",
+                "Houseboat Terminal Upgrade",
+                "Coir Museum Project"
             ],
-            "totalProjects": 31,
-            "totalInvestment": "₹3,200 Cr"
+            "totalProjects": 76,
+            "totalInvestment": "₹4,800 Cr"
         },
         {
             "id": "kottayam",
             "name": "Kottayam",
-            "population": "1.9M",
+            "nameML": "കോട്ടയം",
+            "population": "1.97M",
             "area": "2,208 km²",
             "headquarters": "Kottayam",
+            "mapPath": "M150 100 L200 150 L150 200 Z",
             "highlightProjects": [
-                "proj-017",
-                "proj-018",
-                "proj-019",
-                "proj-020"
+                "Science City Project",
+                "Rubber Park",
+                "Kumarakom Responsible Tourism",
+                "Sabarimala Airport (Proposed)"
             ],
-            "totalProjects": 29,
-            "totalInvestment": "₹2,850 Cr"
+            "totalProjects": 68,
+            "totalInvestment": "₹5,100 Cr"
         },
         {
             "id": "idukki",
             "name": "Idukki",
-            "population": "1.1M",
+            "nameML": "ഇടുക്കി",
+            "population": "1.11M",
             "area": "4,358 km²",
             "headquarters": "Painavu",
+            "mapPath": "M150 100 L200 150 L150 200 Z",
             "highlightProjects": [
-                "proj-021",
-                "proj-022",
-                "proj-023",
-                "proj-024"
+                "Hydel Tourism Circuit",
+                "Spice Park",
+                "Munnar Gap Road",
+                "High Range Highway"
             ],
-            "totalProjects": 22,
-            "totalInvestment": "₹1,950 Cr"
+            "totalProjects": 52,
+            "totalInvestment": "₹3,900 Cr"
         },
         {
             "id": "ernakulam",
             "name": "Ernakulam",
-            "population": "3.3M",
+            "nameML": "എറണാകുളം",
+            "population": "3.28M",
             "area": "3,068 km²",
-            "headquarters": "Kochi",
+            "headquarters": "Kakkanad",
+            "mapPath": "M150 100 L200 150 L150 200 Z",
             "highlightProjects": [
-                "proj-025",
-                "proj-026",
-                "proj-027",
-                "proj-028"
+                "Kochi Metro Phase II",
+                "Smart City Kochi",
+                "Petrochemical Park",
+                "Water Metro Project"
             ],
-            "totalProjects": 47,
-            "totalInvestment": "₹12,400 Cr"
+            "totalProjects": 210,
+            "totalInvestment": "₹22,500 Cr"
         },
         {
             "id": "thrissur",
             "name": "Thrissur",
-            "population": "3.1M",
+            "nameML": "തൃശ്ശൂർ",
+            "population": "3.12M",
             "area": "3,032 km²",
             "headquarters": "Thrissur",
+            "mapPath": "M150 100 L200 150 L150 200 Z",
             "highlightProjects": [
-                "proj-029",
-                "proj-030",
-                "proj-031",
-                "proj-032"
+                "Thrissur Pooram Infrastructure",
+                "KILA Upgrade",
+                "Puzhakkal River Tourism",
+                "Kodungallur Heritage Project"
             ],
-            "totalProjects": 41,
-            "totalInvestment": "₹5,800 Cr"
+            "totalProjects": 95,
+            "totalInvestment": "₹7,800 Cr"
         },
         {
             "id": "palakkad",
             "name": "Palakkad",
-            "population": "2.8M",
+            "nameML": "പാലക്കാട്",
+            "population": "2.81M",
             "area": "4,480 km²",
             "headquarters": "Palakkad",
+            "mapPath": "M150 100 L200 150 L150 200 Z",
             "highlightProjects": [
-                "proj-033",
-                "proj-034",
-                "proj-035",
-                "proj-036"
+                "Kochi-Bangalore Industrial Corridor",
+                "IIT Palakkad Campus",
+                "Mega Food Park",
+                "Kanjikode Industrial Park"
             ],
-            "totalProjects": 35,
-            "totalInvestment": "₹4,200 Cr"
+            "totalProjects": 88,
+            "totalInvestment": "₹8,450 Cr"
         },
         {
             "id": "malappuram",
             "name": "Malappuram",
-            "population": "4.1M",
+            "nameML": "മലപ്പുറം",
+            "population": "4.11M",
             "area": "3,550 km²",
             "headquarters": "Malappuram",
+            "mapPath": "M150 100 L200 150 L150 200 Z",
             "highlightProjects": [
-                "proj-037",
-                "proj-038",
-                "proj-039",
-                "proj-040"
+                "Thunchan Parambu Upgrade",
+                "Nilambur Teak Museum",
+                "Coastal Highway Reach I",
+                "Coconut Bio-Park"
             ],
-            "totalProjects": 44,
-            "totalInvestment": "₹5,100 Cr"
+            "totalProjects": 105,
+            "totalInvestment": "₹6,900 Cr"
         },
         {
             "id": "kozhikode",
             "name": "Kozhikode",
-            "population": "3.1M",
+            "nameML": "കോഴിക്കോട്",
+            "population": "3.09M",
             "area": "2,344 km²",
             "headquarters": "Kozhikode",
+            "mapPath": "M150 100 L200 150 L150 200 Z",
             "highlightProjects": [
-                "proj-041",
-                "proj-042",
-                "proj-043",
-                "proj-044"
+                "Cyberpark Expansion",
+                "Kozhikode Light Metro",
+                "Beypore Port Development",
+                "Gender Park"
             ],
-            "totalProjects": 39,
-            "totalInvestment": "₹6,500 Cr"
+            "totalProjects": 115,
+            "totalInvestment": "₹9,200 Cr"
         },
         {
             "id": "wayanad",
             "name": "Wayanad",
-            "population": "0.8M",
-            "area": "2,132 km²",
+            "nameML": "വയനാട്",
+            "population": "0.82M",
+            "area": "2,131 km²",
             "headquarters": "Kalpetta",
+            "mapPath": "M150 100 L200 150 L150 200 Z",
             "highlightProjects": [
-                "proj-045",
-                "proj-046",
-                "proj-047",
-                "proj-048"
+                "Anakkampoyil-Kalladi Tunnel",
+                "Carbon Neutral Coffee Park",
+                "Banasura Sagar Tourism",
+                "En Uru Heritage Village"
             ],
-            "totalProjects": 19,
-            "totalInvestment": "₹1,650 Cr"
+            "totalProjects": 38,
+            "totalInvestment": "₹2,800 Cr"
         },
         {
             "id": "kannur",
             "name": "Kannur",
-            "population": "2.5M",
+            "nameML": "കണ്ണൂർ",
+            "population": "2.52M",
             "area": "2,966 km²",
             "headquarters": "Kannur",
+            "mapPath": "M150 100 L200 150 L150 200 Z",
             "highlightProjects": [
-                "proj-049",
-                "proj-050",
-                "proj-051",
-                "proj-052"
+                "Kannur International Airport (Expansion)",
+                "Azheekkal Port",
+                "Handloom Village",
+                "Muzhappilangad Beach Project"
             ],
-            "totalProjects": 36,
-            "totalInvestment": "₹4,800 Cr"
+            "totalProjects": 82,
+            "totalInvestment": "₹7,100 Cr"
         },
         {
             "id": "kasaragod",
             "name": "Kasaragod",
-            "population": "1.3M",
+            "nameML": "കാസർഗോഡ്",
+            "population": "1.30M",
             "area": "1,992 km²",
             "headquarters": "Kasaragod",
+            "mapPath": "M150 100 L200 150 L150 200 Z",
             "highlightProjects": [
-                "proj-053",
-                "proj-054",
-                "proj-055",
-                "proj-056"
+                "Solar Park",
+                "Bekal Tourism Masterplan",
+                "Central University Infrastructure",
+                "Hill Highway North End"
             ],
-            "totalProjects": 23,
-            "totalInvestment": "₹2,050 Cr"
+            "totalProjects": 40,
+            "totalInvestment": "₹3,400 Cr"
         }
     ]
 }

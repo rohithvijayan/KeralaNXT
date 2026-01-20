@@ -27,8 +27,8 @@ function Header({ showBack = false, title = "Kerala Showcase", onBack }) {
                 {!showBack && (
                     <nav className="header-nav">
                         <Link to="/" className="header-nav-link active">Home</Link>
-                        <a href="#projects" className="header-nav-link">Projects</a>
-                        <a href="#about" className="header-nav-link">About</a>
+                        <Link to="/projects" className="header-nav-link">Projects</Link>
+                        <Link to="/about" className="header-nav-link">About</Link>
                     </nav>
                 )}
 

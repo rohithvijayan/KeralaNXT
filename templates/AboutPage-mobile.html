@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>About - Kerala Development Showcase</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&amp;display=swap"
+        rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#13ecb2",
+                        "background-light": "#fdfbf7", /* Cream background as requested */
+                        "background-dark": "#10221d",
+                    },
+                    fontFamily: {
+                        "display": ["Public Sans", "sans-serif"]
+                    },
+                    borderRadius: {
+                        "DEFAULT": "0.5rem",
+                        "lg": "1rem",
+                        "xl": "1.5rem",
+                        "full": "9999px"
+                    },
+                },
+            },
+        }
+    </script>
+    <style>
+        body {
+            font-family: 'Public Sans', sans-serif;
+            background-color: #e5e7eb;
+            /* Subtle gray background for desktop viewing area */
+        }
+
+        /* Mobile Frame Simulation */
+        .mobile-container {
+            width: 375px;
+            height: 812px;
+            overflow-y: auto;
+            scrollbar-width: none;
+            /* Firefox */
+            -ms-overflow-style: none;
+            /* IE/Edge */
+        }
+
+        .mobile-container::-webkit-scrollbar {
+            display: none;
+            /* Chrome/Safari */
+        }
+    </style>
+</head>
+
+<body class="flex items-center justify-center min-h-screen py-10">
+    <!-- Mobile Screen Container -->
+    <div
+        class="mobile-container relative bg-background-light dark:bg-background-dark shadow-2xl rounded-[3rem] border-[8px] border-slate-800 overflow-hidden flex flex-col">
+        <!-- TopNavBar Component -->
+        <header
+            class="sticky top-0 z-10 flex items-center justify-between bg-background-light/80 dark:bg-background-dark/80 backdrop-blur-md border-b border-gray-100 dark:border-gray-800 px-6 py-4">
+            <button
+                class="flex items-center justify-center h-10 w-10 rounded-xl bg-gray-100 dark:bg-gray-800 text-gray-900 dark:text-white transition-colors hover:bg-primary/20">
+                <span class="material-symbols-outlined">arrow_back</span>
+            </button>
+            <h2 class="text-gray-900 dark:text-white text-lg font-bold leading-tight">About</h2>
+            <div class="w-10"></div> <!-- Spacer for centering -->
+        </header>
+        <div class="flex-1 overflow-y-auto">
+            <!-- ProfileHeader / Hero Section -->
+            <div class="flex flex-col items-center px-6 pt-10 pb-6">
+                <div
+                    class="w-20 h-20 mb-6 flex items-center justify-center bg-primary/10 rounded-full border-2 border-primary/20">
+                    <svg class="w-12 h-12 text-primary" fill="none" viewbox="0 0 48 48"
+                        xmlns="http://www.w3.org/2000/svg">
+                        <path d="M4 4H17.3334V17.3334H30.6666V30.6666H44V44H4V4Z" fill="currentColor"></path>
+                    </svg>
+                </div>
+                <h1 class="text-gray-900 dark:text-white text-2xl font-bold text-center leading-tight">
+                    Kerala Development Showcase
+                </h1>
+                <p class="text-primary font-semibold mt-2 tracking-wide">2016 — 2025</p>
+            </div>
+            <!-- BodyText Section -->
+            <div class="px-8 pb-8">
+                <p class="text-gray-500 dark:text-gray-400 text-[15px] leading-relaxed text-center">
+                    Our mission is to drive sustainable growth and transparent governance through strategic development
+                    initiatives across the state of Kerala, fostering innovation and social equity for all citizens.
+                </p>
+            </div>
+            <!-- SectionHeader: Key Achievements -->
+            <div class="px-6">
+                <h3 class="text-gray-900 dark:text-white text-lg font-bold pb-4 border-l-4 border-primary pl-3">Key
+                    Achievements</h3>
+            </div>
+            <!-- Stats Component (Mobile Adapted Row) -->
+            <div class="px-6 pb-8 overflow-x-auto">
+                <div class="flex gap-3 min-w-max pb-2">
+                    <div class="flex flex-col gap-1 rounded-xl p-4 bg-primary/10 border border-primary/5 w-32 shrink-0">
+                        <p class="text-gray-600 dark:text-gray-400 text-xs font-medium">Invested</p>
+                        <p class="text-gray-900 dark:text-white text-lg font-bold">₹45k Cr</p>
+                    </div>
+                    <div class="flex flex-col gap-1 rounded-xl p-4 bg-primary/10 border border-primary/5 w-32 shrink-0">
+                        <p class="text-gray-600 dark:text-gray-400 text-xs font-medium">Projects</p>
+                        <p class="text-gray-900 dark:text-white text-lg font-bold">320+</p>
+                    </div>
+                    <div class="flex flex-col gap-1 rounded-xl p-4 bg-primary/10 border border-primary/5 w-32 shrink-0">
+                        <p class="text-gray-600 dark:text-gray-400 text-xs font-medium">Districts</p>
+                        <p class="text-gray-900 dark:text-white text-lg font-bold">14</p>
+                    </div>
+                </div>
+            </div>
+            <!-- Leadership Section -->
+            <div class="px-6 pb-4">
+                <h3 class="text-gray-900 dark:text-white text-lg font-bold pb-4 border-l-4 border-primary pl-3">
+                    Leadership</h3>
+            </div>
+            <div class="px-6 flex flex-col gap-4 pb-12">
+                <!-- Leadership Card 1 -->
+                <div
+                    class="flex items-center gap-4 p-4 rounded-xl bg-white dark:bg-gray-800/50 shadow-sm border border-gray-100 dark:border-gray-800">
+                    <div class="h-14 w-14 rounded-full bg-cover bg-center"
+                        data-alt="Profile portrait of a senior government official"
+                        style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuC2-yLeJit0YySaqwYXwnAi5SF6L_upBev1j7F8ZXI5iFmDt8bTudY5hnx7ffF0p9zyBzvGQxPlZBs1Z8DCNuL58smqmlx8VNNe-oyZ-i3gVrmocaOsgie0M86-dEGGtdrakn8Fb7ihJxUVEeQjlJk_Mz8FA4O3ycYVlPvCr3zxfF7ssz1qmefZv4okipG3n_XQdiM8GYRxK_u5ZZMQKNBYvHlS6q3CWbHxM-ijiKizfp_6UR0NvsdowdWr6EiCv6TZlPAteMx-zn0')">
+                    </div>
+                    <div class="flex flex-col">
+                        <h4 class="text-gray-900 dark:text-white font-bold text-base">Arun Kumar</h4>
+                        <p class="text-gray-500 dark:text-gray-400 text-xs uppercase tracking-wider font-medium">Chief
+                            Secretary</p>
+                    </div>
+                </div>
+                <!-- Leadership Card 2 -->
+                <div
+                    class="flex items-center gap-4 p-4 rounded-xl bg-white dark:bg-gray-800/50 shadow-sm border border-gray-100 dark:border-gray-800">
+                    <div class="h-14 w-14 rounded-full bg-cover bg-center"
+                        data-alt="Profile portrait of a female project director"
+                        style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuAWcZXYMoAKO-K6GE0YPrdoe0_9C7FxBH2AuvZEIoQ2Rnlv9aEoo2NknGozjATNUAK5p4ZK0xDJOBU0dtXJeJ8uIPXxC8S_0anGASQSZdCXecu6rGETTzC82_1NTXtd2_HOS78x4nRnAXOzKeqtTuglbibKIDBJKCmBOv1bnXupuQGjqxbkE9bw6sVUkrUKYehFBk2VFa111Hwc5H75dca741cP1imBqMhmnLmsyKK4gJu3LRfkdd6rCkyZRIaQFK4yBK7W2ukJMI0')">
+                    </div>
+                    <div class="flex flex-col">
+                        <h4 class="text-gray-900 dark:text-white font-bold text-base">Meera Nair</h4>
+                        <p class="text-gray-500 dark:text-gray-400 text-xs uppercase tracking-wider font-medium">Project
+                            Director</p>
+                    </div>
+                </div>
+            </div>
+            <!-- Footer Section -->
+            <footer
+                class="bg-gray-50 dark:bg-gray-900/50 p-8 border-t border-gray-100 dark:border-gray-800 text-center">
+                <div class="flex justify-center gap-6 mb-6">
+                    <a class="text-gray-400 hover:text-primary transition-colors" href="#">
+                        <span class="material-symbols-outlined">public</span>
+                    </a>
+                    <a class="text-gray-400 hover:text-primary transition-colors" href="#">
+                        <span class="material-symbols-outlined">alternate_email</span>
+                    </a>
+                    <a class="text-gray-400 hover:text-primary transition-colors" href="#">
+                        <span class="material-symbols-outlined">share</span>
+                    </a>
+                </div>
+                <p class="text-gray-400 text-[10px] leading-relaxed uppercase tracking-widest">
+                    Government of Kerala<br />
+                    Information &amp; Public Relations Dept.<br />
+                    © 2025 All Rights Reserved
+                </p>
+            </footer>
+        </div>
+        <!-- Mobile Home Indicator -->
+        <div class="h-1.5 w-32 bg-gray-300 dark:bg-gray-700 rounded-full mx-auto my-2 shrink-0"></div>
+    </div>
+</body>
+
+</html>
