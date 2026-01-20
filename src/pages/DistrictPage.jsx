@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useEffect, useRef } from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
 import Header from '../components/Header'
@@ -14,6 +14,8 @@ function DistrictPage() {
     const navigate = useNavigate()
     const [selectedCategory, setSelectedCategory] = useState('all')
     const [selectedProject, setSelectedProject] = useState(null)
+    const [scrollPosition, setScrollPosition] = useState('top') // 'top', 'middle', 'bottom'
+    const contentRef = useRef(null)
 
     // Find district
     const district = useMemo(() => {
@@ -36,6 +38,35 @@ function DistrictPage() {
         const cats = new Set(allProjects.map(p => p.category))
         return categoriesData.categories.filter(c => c.id === 'all' || cats.has(c.id))
     }, [allProjects])
+
+    // Handle scroll to detect position
+    useEffect(() => {
+        const handleScroll = () => {
+            const scrollTop = window.scrollY
+            const docHeight = document.documentElement.scrollHeight - window.innerHeight
+
+            if (scrollTop < 100) {
+                setScrollPosition('top')
+            } else if (scrollTop > docHeight - 100) {
+                setScrollPosition('bottom')
+            } else {
+                setScrollPosition('middle')
+            }
+        }
+
+        window.addEventListener('scroll', handleScroll)
+        handleScroll() // Initial check
+
+        return () => window.removeEventListener('scroll', handleScroll)
+    }, [])
+
+    const scrollToTop = () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' })
+    }
+
+    const scrollToBottom = () => {
+        window.scrollTo({ top: document.documentElement.scrollHeight, behavior: 'smooth' })
+    }
 
     if (!district) {
         return (
@@ -79,12 +110,12 @@ function DistrictPage() {
                 </div>
             </div>
 
-            {/* Project List */}
-            <main className="district-content">
+            {/* Project Grid */}
+            <main className="district-content" ref={contentRef}>
                 <AnimatePresence mode="wait">
                     <motion.div
                         key={selectedCategory}
-                        className="district-projects"
+                        className="district-projects-grid"
                         initial={{ opacity: 0, y: 10 }}
                         animate={{ opacity: 1, y: 0 }}
                         exit={{ opacity: 0, y: -10 }}
@@ -97,6 +128,7 @@ function DistrictPage() {
                                     initial={{ opacity: 0, y: 20 }}
                                     animate={{ opacity: 1, y: 0 }}
                                     transition={{ delay: index * 0.05 }}
+                                    className="project-grid-item"
                                 >
                                     <ProjectCard
                                         project={project}
@@ -114,6 +146,42 @@ function DistrictPage() {
                     </motion.div>
                 </AnimatePresence>
             </main>
+
+            {/* Floating Scroll Buttons */}
+            <div className="scroll-buttons">
+                <AnimatePresence>
+                    {scrollPosition !== 'top' && (
+                        <motion.button
+                            className="scroll-btn scroll-to-top"
+                            onClick={scrollToTop}
+                            initial={{ opacity: 0, scale: 0.8 }}
+                            animate={{ opacity: 1, scale: 1 }}
+                            exit={{ opacity: 0, scale: 0.8 }}
+                            whileHover={{ scale: 1.1 }}
+                            whileTap={{ scale: 0.95 }}
+                            aria-label="Scroll to top"
+                        >
+                            <span className="material-symbols-outlined">keyboard_arrow_up</span>
+                        </motion.button>
+                    )}
+                </AnimatePresence>
+                <AnimatePresence>
+                    {scrollPosition !== 'bottom' && filteredProjects.length > 3 && (
+                        <motion.button
+                            className="scroll-btn scroll-to-bottom"
+                            onClick={scrollToBottom}
+                            initial={{ opacity: 0, scale: 0.8 }}
+                            animate={{ opacity: 1, scale: 1 }}
+                            exit={{ opacity: 0, scale: 0.8 }}
+                            whileHover={{ scale: 1.1 }}
+                            whileTap={{ scale: 0.95 }}
+                            aria-label="Scroll to bottom"
+                        >
+                            <span className="material-symbols-outlined">keyboard_arrow_down</span>
+                        </motion.button>
+                    )}
+                </AnimatePresence>
+            </div>
 
             {/* Project Modal */}
             <ProjectModal

@@ -1,3 +1,5 @@
+/* KeralaMap.css - Calm Teal/Green Aesthetic */
+
 .kerala-map-container {
     position: relative;
     display: flex;
@@ -5,45 +7,136 @@
     align-items: center;
     justify-content: center;
     width: 100%;
-    max-width: 320px;
-    aspect-ratio: 3 / 4;
+    max-width: 380px;
     background-color: var(--color-surface);
     border-radius: var(--radius-xl);
     box-shadow: var(--shadow-md);
-    border: 1px solid rgba(75, 124, 111, 0.1);
-    padding: 1rem;
-    overflow: hidden;
+    border: 1px solid var(--color-primary-light);
+    padding: 1.5rem;
+    overflow: visible;
 }
 
 @media (min-width: 640px) {
     .kerala-map-container {
-        max-width: 400px;
+        max-width: 420px;
     }
 }
 
-.kerala-map-svg {
+.map-wrapper {
+    position: relative;
     width: 100%;
-    height: auto;
+    aspect-ratio: 5 / 8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.kerala-svg {
+    width: 100%;
+    height: 100%;
     filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.08));
 }
 
+/* District Paths - Using our color scheme */
 .district-path {
-    stroke-width: 1.5;
+    fill: var(--color-primary-light);
+    stroke: var(--color-primary);
+    stroke-width: 0.8px;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
     cursor: pointer;
-    transition: all 0.2s ease;
+    outline: none;
 }
 
-.district-path:hover {
-    stroke-width: 2;
+.district-path:hover,
+.district-path.hovered {
+    fill: var(--color-primary);
+    stroke: var(--color-primary-dark);
+    stroke-width: 1.5px;
+    filter: drop-shadow(0 0 8px rgba(75, 124, 111, 0.4));
 }
 
 .district-path.selected {
-    stroke-width: 2.5;
+    fill: var(--color-primary);
+    stroke: var(--color-primary-dark);
+    stroke-width: 2px;
 }
 
+/* Glassmorphism Tooltip */
+.map-tooltip {
+    position: fixed;
+    background: var(--color-surface);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid var(--color-border);
+    padding: 0.875rem 1rem;
+    border-radius: var(--radius-md);
+    pointer-events: none;
+    opacity: 0;
+    transform: translateY(5px);
+    transition: opacity 0.15s ease, transform 0.15s ease;
+    box-shadow: var(--shadow-lg);
+    z-index: 100;
+    min-width: 140px;
+}
+
+.map-tooltip.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.tooltip-title {
+    margin: 0 0 0.25rem 0;
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--color-text);
+}
+
+.tooltip-stats {
+    display: flex;
+    align-items: center;
+    gap: 0.375rem;
+    font-size: 0.8125rem;
+    font-weight: 500;
+    color: var(--color-primary);
+}
+
+.tooltip-dot {
+    color: var(--color-text-muted);
+}
+
+/* Loading State */
+.loading-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.75rem;
+    color: var(--color-text-muted);
+    font-size: 0.875rem;
+    font-weight: 500;
+}
+
+.loading-text .material-symbols-outlined {
+    font-size: 2.5rem;
+    color: var(--color-primary);
+    animation: pulse-fade 1.5s ease-in-out infinite;
+}
+
+@keyframes pulse-fade {
+
+    0%,
+    100% {
+        opacity: 0.4;
+    }
+
+    50% {
+        opacity: 1;
+    }
+}
+
+/* Tap Instruction */
 .map-instruction {
     position: absolute;
-    bottom: 1.5rem;
+    bottom: 1rem;
     left: 50%;
     transform: translateX(-50%);
     display: flex;
@@ -54,29 +147,26 @@
     backdrop-filter: blur(8px);
     border-radius: 9999px;
     box-shadow: var(--shadow-md);
-    font-size: 0.875rem;
+    font-size: 0.8125rem;
     font-weight: 500;
     color: var(--color-text);
     white-space: nowrap;
 }
 
 .map-instruction .material-symbols-outlined {
-    font-size: 1.125rem;
+    font-size: 1rem;
     color: var(--color-primary);
+    animation: bounce-gentle 2s ease-in-out infinite;
 }
 
-/* Background decorative elements */
-.kerala-map-container::before {
-    content: '';
-    position: absolute;
-    inset: 0;
-    background:
-        radial-gradient(circle at 20% 20%, rgba(75, 124, 111, 0.05) 0%, transparent 50%),
-        radial-gradient(circle at 80% 80%, rgba(232, 168, 124, 0.05) 0%, transparent 50%);
-    pointer-events: none;
-}
+@keyframes bounce-gentle {
 
-/* Subtle border glow on hover */
-.kerala-map-container:hover {
-    border-color: rgba(75, 124, 111, 0.2);
+    0%,
+    100% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-3px);
+    }
 }

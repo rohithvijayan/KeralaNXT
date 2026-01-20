@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Kerala Map</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        :root {
+            --bg-color: #0f172a;
+            --map-base: #1e293b;
+            --map-stroke: #475569;
+            --hover-fill: #0ea5e9;
+            --text-color: #f8fafc;
+            --glass-bg: rgba(15, 23, 42, 0.9);
+            --glass-border: rgba(255, 255, 255, 0.1);
+        }
+
+        body {
+            margin: 0;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: 'Inter', system-ui, sans-serif;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            overflow: hidden;
+        }
+
+        h1 {
+            font-weight: 200;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            font-size: 1.8rem;
+            margin-bottom: 1rem;
+            color: #e2e8f0;
+        }
+
+        #map-container {
+            position: relative;
+            width: 100%;
+            max-width: 500px;
+            height: 80vh;
+            display: flex;
+            justify-content: center;
+        }
+
+        svg {
+            width: 100%;
+            height: 100%;
+            filter: drop-shadow(0 0 20px rgba(0, 0, 0, 0.5));
+        }
+
+        path {
+            fill: var(--map-base);
+            stroke: var(--map-stroke);
+            stroke-width: 0.5px;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            cursor: pointer;
+        }
+
+        path:hover {
+            fill: var(--hover-fill);
+            stroke: #7dd3fc;
+            stroke-width: 1px;
+            filter: drop-shadow(0 0 15px rgba(14, 165, 233, 0.3));
+            transform: scale(1.01);
+            z-index: 10;
+        }
+
+        /* Modern Tooltip */
+        #tooltip {
+            position: absolute;
+            background: var(--glass-bg);
+            backdrop-filter: blur(8px);
+            border: 1px solid var(--glass-border);
+            padding: 1rem;
+            border-radius: 8px;
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.2s, transform 0.2s;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+            max-width: 200px;
+            z-index: 50;
+        }
+
+        #tooltip.visible {
+            opacity: 1;
+        }
+
+        #tooltip h3 {
+            margin: 0 0 0.5rem 0;
+            font-size: 1rem;
+            color: #38bdf8;
+        }
+
+        #tooltip p {
+            margin: 0;
+            font-size: 0.8rem;
+            color: #94a3b8;
+        }
+
+        .loading {
+            position: absolute;
+            color: #64748b;
+            font-size: 0.9rem;
+            animation: pulse 1.5s infinite;
+        }
+
+        @keyframes pulse {
+
+            0%,
+            100% {
+                opacity: 0.5;
+            }
+
+            50% {
+                opacity: 1;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Kerala</h1>
+
+    <div id="map-container">
+        <div class="loading">Fetching map data...</div>
+        <div id="tooltip">
+            <h3 id="district-name"></h3>
+            <p id="district-desc">Loading details...</p>
+        </div>
+    </div>
+
+    <script>
+        // 1. Configuration
+        const MAP_URL = "https://raw.githubusercontent.com/geohacker/kerala/master/geojsons/district.geojson";
+        const width = 500;
+        const height = 800;
+
+        // 2. Select Container
+        const container = d3.select("#map-container");
+        const tooltip = d3.select("#tooltip");
+        const loading = document.querySelector('.loading');
+
+        // 3. Create SVG
+        const svg = container.append("svg")
+            .attr("viewBox", `0 0 ${width} ${height}`)
+            .attr("preserveAspectRatio", "xMidYMid meet");
+
+        // 4. Descriptions for each district (Simple lookup)
+        const descriptions = {
+            "Thiruvananthapuram": "The capital city. Famous for Padmanabhaswamy Temple.",
+            "Kollam": "Known for cashew processing and Ashtamudi Lake.",
+            "Pathanamthitta": "Headquarters of pilgrimage tourism (Sabarimala).",
+            "Alappuzha": "Venice of the East. Famous for houseboats.",
+            "Kottayam": "Land of Letters, Latex and Lakes.",
+            "Idukki": "Mountainous district with wildlife sanctuaries and dams.",
+            "Ernakulam": "The commercial capital of Kerala (Kochi).",
+            "Thrissur": "The Cultural Capital. Home to Thrissur Pooram.",
+            "Palakkad": "The Granary of Kerala. Known for paddy fields.",
+            "Malappuram": "Rich in culture and history. Teak plantations.",
+            "Kozhikode": "Famous for its historic trade, food, and hospitality.",
+            "Wayanad": "Known for camping, waterfalls, and caves.",
+            "Kannur": "Land of Looms and Lores. Famous for Theyyam.",
+            "Kasaragod": "The northernmost district. Known for Bekal Fort."
+        };
+
+        // 5. Fetch and Render Data
+        d3.json(MAP_URL).then(data => {
+            // Remove loading text
+            loading.style.display = 'none';
+
+            // Create Projection (Fit map to SVG)
+            const projection = d3.geoMercator();
+            projection.fitSize([width, height], data);
+
+            const pathGenerator = d3.geoPath().projection(projection);
+
+            // Draw Paths
+            svg.selectAll("path")
+                .data(data.features)
+                .join("path")
+                .attr("d", pathGenerator)
+                .attr("class", "district")
+                .on("mouseenter", function (event, d) {
+                    const name = d.properties.DISTRICT; // GeoJSON property name
+
+                    // Populate Tooltip
+                    d3.select("#district-name").text(name);
+                    d3.select("#district-desc").text(descriptions[name] || "A beautiful district in Kerala.");
+
+                    tooltip.classed("visible", true);
+
+                    // Highlight Effect
+                    d3.select(this).raise(); // Bring to front
+                })
+                .on("mousemove", function (event) {
+                    // Move Tooltip
+                    const [x, y] = d3.pointer(event, container.node());
+                    tooltip.style("left", (x + 20) + "px")
+                        .style("top", (y + 20) + "px");
+                })
+                .on("mouseleave", function () {
+                    tooltip.classed("visible", false);
+                });
+
+        }).catch(err => {
+            console.error("Error loading map data:", err);
+            loading.textContent = "Error loading map data. Please check your internet connection.";
+        });
+    </script>
+</body>
+
+</html>
