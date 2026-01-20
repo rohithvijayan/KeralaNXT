@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Kerala Development Showcase</title>
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com" rel="preconnect" />
+    <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&amp;display=swap"
+        rel="stylesheet" />
+    <!-- Material Symbols -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <!-- Tailwind Configuration -->
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#4b7c6f",
+                        "primary-dark": "#3a6157",
+                        "background-light": "#FAFBF9", /* Soft cream white requested */
+                        "background-dark": "#161c1a",
+                        "text-main": "#2D3436",
+                        "text-muted": "#636e72",
+                        "pill-bg": "#E8F0ED", /* Light teal requested */
+                    },
+                    fontFamily: {
+                        "display": ["Plus Jakarta Sans", "sans-serif"],
+                        "body": ["Plus Jakarta Sans", "sans-serif"]
+                    },
+                    borderRadius: {
+                        "DEFAULT": "0.5rem",
+                        "lg": "1rem",
+                        "xl": "1.5rem",
+                        "2xl": "2rem",
+                        "full": "9999px"
+                    },
+                    boxShadow: {
+                        'soft': '0 4px 20px -2px rgba(0, 0, 0, 0.05)',
+                        'glow': '0 0 15px rgba(75, 124, 111, 0.2)'
+                    }
+                },
+            },
+        }
+    </script>
+    <style>
+        /* Custom scrollbar for clean look */
+        ::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: transparent;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #cbd5e1;
+            border-radius: 4px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: #94a3b8;
+        }
+
+        .map-pulse {
+            animation: pulse-ring 2s cubic-bezier(0.215, 0.61, 0.355, 1) infinite;
+        }
+
+        @keyframes pulse-ring {
+            0% {
+                transform: scale(0.33);
+                opacity: 1;
+            }
+
+            80%,
+            100% {
+                transform: scale(1.5);
+                opacity: 0;
+            }
+        }
+    </style>
+</head>
+
+<body class="font-display bg-background-light text-text-main antialiased selection:bg-primary selection:text-white">
+    <div class="relative flex min-h-screen w-full flex-col overflow-x-hidden">
+        <!-- Navigation -->
+        <header
+            class="sticky top-0 z-50 flex w-full items-center justify-between border-b border-[#E8F0ED] bg-white/80 px-6 py-4 backdrop-blur-md transition-all lg:px-12">
+            <div class="flex items-center gap-3">
+                <div class="flex size-10 items-center justify-center rounded-xl bg-primary text-white shadow-glow">
+                    <span class="material-symbols-outlined text-[24px]">map</span>
+                </div>
+                <div>
+                    <h1 class="text-lg font-bold leading-tight tracking-tight text-text-main">Kerala Showcase</h1>
+                </div>
+            </div>
+            <nav class="hidden md:flex items-center gap-8">
+                <a class="text-sm font-medium text-text-main hover:text-primary transition-colors" href="#">Home</a>
+                <a class="text-sm font-medium text-text-muted hover:text-primary transition-colors"
+                    href="#">Projects</a>
+                <a class="text-sm font-medium text-text-muted hover:text-primary transition-colors"
+                    href="#">Investments</a>
+                <a class="text-sm font-medium text-text-muted hover:text-primary transition-colors" href="#">About</a>
+            </nav>
+            <div class="flex items-center gap-4">
+                <button
+                    class="hidden sm:flex items-center justify-center gap-2 rounded-full border border-gray-200 px-4 py-2 text-sm font-semibold text-text-main transition-all hover:bg-gray-50 hover:border-gray-300">
+                    <span class="material-symbols-outlined text-[20px]">search</span>
+                    <span>Search</span>
+                </button>
+                <button
+                    class="flex items-center justify-center rounded-xl bg-primary px-5 py-2.5 text-sm font-bold text-white transition-all hover:bg-primary-dark shadow-lg shadow-primary/20">
+                    Login
+                </button>
+            </div>
+        </header>
+        <!-- Main Content -->
+        <main class="flex flex-1 flex-col items-center justify-start px-4 py-8 md:px-10 lg:py-12">
+            <!-- Hero Header -->
+            <div class="mb-8 flex max-w-4xl flex-col items-center text-center">
+                <div
+                    class="mb-4 inline-flex items-center gap-2 rounded-full bg-white border border-[#E8F0ED] px-3 py-1 shadow-sm">
+                    <span class="flex size-2 rounded-full bg-emerald-500"></span>
+                    <span class="text-xs font-semibold uppercase tracking-wider text-text-muted">Live Dashboard</span>
+                </div>
+                <h1 class="mb-3 text-4xl font-extrabold tracking-tight text-text-main sm:text-5xl lg:text-6xl">
+                    Kerala Development Showcase
+                </h1>
+                <p class="text-lg font-medium text-text-muted md:text-xl">
+                    2016 — 2025
+                </p>
+                <p class="mt-4 max-w-2xl text-base text-text-muted/80">
+                    A professional overview of state-wide projects and district-wise investments helping to shape the
+                    future of God's Own Country.
+                </p>
+            </div>
+            <!-- Layout Grid: Map & Stats -->
+            <div class="grid w-full max-w-7xl grid-cols-1 gap-8 lg:grid-cols-12 lg:gap-12">
+                <!-- Left Column: Context & Highlights (Desktop only, subtle on mobile) -->
+                <div class="order-2 flex flex-col gap-6 lg:order-1 lg:col-span-3 lg:pt-12">
+                    <div
+                        class="hidden lg:flex flex-col gap-4 rounded-2xl bg-white p-6 shadow-soft border border-[#E8F0ED]">
+                        <div class="flex items-center gap-3 text-primary">
+                            <span class="material-symbols-outlined">trending_up</span>
+                            <span class="text-sm font-bold uppercase tracking-wide">Top Performing</span>
+                        </div>
+                        <div class="flex flex-col gap-3">
+                            <div class="flex items-center justify-between border-b border-dashed border-gray-100 pb-2">
+                                <span class="text-sm font-medium text-text-main">Ernakulam</span>
+                                <span class="text-sm font-bold text-primary">₹12,400 Cr</span>
+                            </div>
+                            <div class="flex items-center justify-between border-b border-dashed border-gray-100 pb-2">
+                                <span class="text-sm font-medium text-text-main">Trivandrum</span>
+                                <span class="text-sm font-bold text-primary">₹9,250 Cr</span>
+                            </div>
+                            <div class="flex items-center justify-between">
+                                <span class="text-sm font-medium text-text-main">Kozhikode</span>
+                                <span class="text-sm font-bold text-primary">₹5,100 Cr</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="flex flex-col gap-2 p-2">
+                        <h3 class="text-sm font-bold text-text-main uppercase tracking-wider">Quick Actions</h3>
+                        <button
+                            class="flex w-full items-center justify-between rounded-xl bg-white p-4 text-left shadow-sm transition-all hover:shadow-md border border-transparent hover:border-primary/20 group">
+                            <div class="flex items-center gap-3">
+                                <div
+                                    class="flex size-8 items-center justify-center rounded-lg bg-pill-bg text-primary group-hover:bg-primary group-hover:text-white transition-colors">
+                                    <span class="material-symbols-outlined text-[20px]">description</span>
+                                </div>
+                                <span class="text-sm font-medium text-text-main">Download Reports</span>
+                            </div>
+                            <span
+                                class="material-symbols-outlined text-gray-300 group-hover:text-primary">chevron_right</span>
+                        </button>
+                        <button
+                            class="flex w-full items-center justify-between rounded-xl bg-white p-4 text-left shadow-sm transition-all hover:shadow-md border border-transparent hover:border-primary/20 group">
+                            <div class="flex items-center gap-3">
+                                <div
+                                    class="flex size-8 items-center justify-center rounded-lg bg-pill-bg text-primary group-hover:bg-primary group-hover:text-white transition-colors">
+                                    <span class="material-symbols-outlined text-[20px]">filter_alt</span>
+                                </div>
+                                <span class="text-sm font-medium text-text-main">Filter Projects</span>
+                            </div>
+                            <span
+                                class="material-symbols-outlined text-gray-300 group-hover:text-primary">chevron_right</span>
+                        </button>
+                    </div>
+                </div>
+                <!-- Center Column: The Map -->
+                <div class="order-1 flex flex-col items-center lg:order-2 lg:col-span-6">
+                    <div
+                        class="relative flex w-full max-w-lg flex-col items-center justify-center rounded-3xl bg-white p-4 shadow-soft border border-[#E8F0ED]/50 aspect-[3/4] overflow-hidden group">
+                        <!-- Map Background Simulation -->
+                        <!-- Note: Using a placeholder image that represents a map. In a real app, this would be an interactive SVG. -->
+                        <div class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?q=80&amp;w=2000&amp;auto=format&amp;fit=crop')] bg-cover bg-center opacity-10 grayscale mix-blend-multiply"
+                            data-alt="Abstract subtle map texture background"></div>
+                        <!-- Decorative Outline Effect (Simulating the Kerala Map Shape Abstractly) -->
+                        <div
+                            class="relative z-10 h-full w-full rounded-2xl border-2 border-dashed border-primary/10 bg-white/40 backdrop-blur-sm p-4 flex items-center justify-center overflow-hidden">
+                            <!-- This div simulates the map container area -->
+                            <img alt="Outline map of Kerala state with district divisions"
+                                class="h-[90%] w-auto object-contain opacity-80 drop-shadow-xl filter sepia-[.25] hue-rotate-[130deg] saturate-[.8] contrast-[1.1]"
+                                data-location="Kerala, India"
+                                src="https://lh3.googleusercontent.com/aida-public/AB6AXuC7isd2kjK71GT0oHDj_nY79Of_k5yOu7VA2atXJVbf4yyXGhgTYuNT9kIj7oqC0ov5S_soVFe5jqi9Qglq2_NL0h4F4d1qwKaGBPC2hsdbO6DSq9Ez-KfafrV7UD8RvU2TEPRvieYIGS91sWR4lTDOUZsPs_cjvh1g3ILMzXm4RCTAvm6vFqj66eZT3tsR9yIm0xShextD9N13Z_xPe5sdm-8iwXAIB7rOpzRleCgR1KAdTESyPopagJt6m0QTo0tZYUu7uoFe1ak" />
+                            <!-- Interactive Dots (Simulated) -->
+                            <!-- Thiruvananthapuram -->
+                            <div
+                                class="absolute bottom-[10%] left-[45%] flex flex-col items-center group/marker cursor-pointer">
+                                <div class="relative flex size-4">
+                                    <span
+                                        class="map-pulse absolute inline-flex h-full w-full rounded-full bg-primary opacity-75"></span>
+                                    <span
+                                        class="relative inline-flex size-4 rounded-full bg-primary border-2 border-white"></span>
+                                </div>
+                                <div
+                                    class="absolute bottom-6 whitespace-nowrap rounded-lg bg-text-main px-2 py-1 text-[10px] font-bold text-white opacity-0 transition-opacity group-hover/marker:opacity-100">
+                                    Trivandrum
+                                </div>
+                            </div>
+                            <!-- Kochi -->
+                            <div
+                                class="absolute bottom-[35%] left-[35%] flex flex-col items-center group/marker cursor-pointer">
+                                <div class="relative flex size-3">
+                                    <span
+                                        class="absolute inline-flex h-full w-full rounded-full bg-primary opacity-20 group-hover/marker:bg-primary group-hover/marker:animate-ping"></span>
+                                    <span
+                                        class="relative inline-flex size-3 rounded-full bg-primary/60 border border-white hover:bg-primary transition-colors"></span>
+                                </div>
+                                <div
+                                    class="absolute bottom-5 whitespace-nowrap rounded-lg bg-text-main px-2 py-1 text-[10px] font-bold text-white opacity-0 transition-opacity group-hover/marker:opacity-100">
+                                    Kochi
+                                </div>
+                            </div>
+                            <!-- Kozhikode -->
+                            <div
+                                class="absolute top-[35%] left-[25%] flex flex-col items-center group/marker cursor-pointer">
+                                <div class="relative flex size-3">
+                                    <span
+                                        class="relative inline-flex size-3 rounded-full bg-primary/60 border border-white hover:bg-primary transition-colors"></span>
+                                </div>
+                                <div
+                                    class="absolute bottom-5 whitespace-nowrap rounded-lg bg-text-main px-2 py-1 text-[10px] font-bold text-white opacity-0 transition-opacity group-hover/marker:opacity-100">
+                                    Kozhikode
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Instruction Caption -->
+                        <div
+                            class="absolute bottom-8 left-1/2 z-20 flex -translate-x-1/2 items-center gap-2 rounded-full bg-white/90 px-4 py-2 text-sm font-medium text-text-main shadow-lg backdrop-blur-md">
+                            <span
+                                class="material-symbols-outlined text-[18px] text-primary animate-bounce">touch_app</span>
+                            <span>Tap a district to explore</span>
+                        </div>
+                    </div>
+                </div>
+                <!-- Right Column: Stats Highlights (Expanded for desktop) -->
+                <div class="order-3 flex flex-col justify-center gap-4 lg:col-span-3 lg:justify-start lg:pt-12">
+                    <!-- Stat Card 1 -->
+                    <div
+                        class="group flex flex-col gap-1 rounded-2xl bg-pill-bg p-6 transition-all hover:-translate-y-1 hover:shadow-lg cursor-pointer border border-transparent hover:border-primary/20">
+                        <div class="flex items-center justify-between">
+                            <span class="text-sm font-semibold text-text-muted">Total Coverage</span>
+                            <div class="flex size-8 items-center justify-center rounded-full bg-white text-primary">
+                                <span class="material-symbols-outlined text-[20px]">grid_view</span>
+                            </div>
+                        </div>
+                        <p class="text-3xl font-black text-text-main group-hover:text-primary transition-colors">14</p>
+                        <p class="text-xs font-medium text-text-muted">Districts</p>
+                    </div>
+                    <!-- Stat Card 2 -->
+                    <div
+                        class="group flex flex-col gap-1 rounded-2xl bg-pill-bg p-6 transition-all hover:-translate-y-1 hover:shadow-lg cursor-pointer border border-transparent hover:border-primary/20">
+                        <div class="flex items-center justify-between">
+                            <span class="text-sm font-semibold text-text-muted">Total Investment</span>
+                            <div class="flex size-8 items-center justify-center rounded-full bg-white text-primary">
+                                <span class="material-symbols-outlined text-[20px]">payments</span>
+                            </div>
+                        </div>
+                        <p class="text-3xl font-black text-text-main group-hover:text-primary transition-colors">
+                            ₹45k<span class="text-lg">Cr</span></p>
+                        <p class="text-xs font-medium text-text-muted">Allocated Funds</p>
+                    </div>
+                    <!-- Stat Card 3 -->
+                    <div
+                        class="group flex flex-col gap-1 rounded-2xl bg-pill-bg p-6 transition-all hover:-translate-y-1 hover:shadow-lg cursor-pointer border border-transparent hover:border-primary/20">
+                        <div class="flex items-center justify-between">
+                            <span class="text-sm font-semibold text-text-muted">Progress</span>
+                            <div class="flex size-8 items-center justify-center rounded-full bg-white text-primary">
+                                <span class="material-symbols-outlined text-[20px]">engineering</span>
+                            </div>
+                        </div>
+                        <p class="text-3xl font-black text-text-main group-hover:text-primary transition-colors">320+
+                        </p>
+                        <p class="text-xs font-medium text-text-muted">Completed Projects</p>
+                    </div>
+                </div>
+            </div>
+            <!-- Bottom Scrolling Stats (Mobile/Tablet view mostly, or supplementary) -->
+            <div class="mt-12 w-full max-w-5xl lg:hidden">
+                <div class="flex snap-x gap-4 overflow-x-auto pb-4">
+                    <!-- Duplicate content for mobile scroll view -->
+                    <div class="min-w-[160px] snap-center rounded-xl bg-pill-bg p-4">
+                        <p class="text-xs font-medium text-text-muted">Districts</p>
+                        <p class="text-xl font-bold text-text-main">14</p>
+                    </div>
+                    <div class="min-w-[160px] snap-center rounded-xl bg-pill-bg p-4">
+                        <p class="text-xs font-medium text-text-muted">Investment</p>
+                        <p class="text-xl font-bold text-text-main">₹45,000 Cr</p>
+                    </div>
+                    <div class="min-w-[160px] snap-center rounded-xl bg-pill-bg p-4">
+                        <p class="text-xs font-medium text-text-muted">Projects</p>
+                        <p class="text-xl font-bold text-text-main">320+</p>
+                    </div>
+                </div>
+            </div>
+        </main>
+        <!-- Footer -->
+        <footer class="mt-auto border-t border-[#E8F0ED] bg-white px-6 py-10 lg:px-20">
+            <div class="mx-auto flex max-w-7xl flex-col items-center justify-between gap-6 md:flex-row">
+                <div class="flex flex-col gap-2 md:text-left text-center">
+                    <p class="text-sm font-medium text-text-main">© 2024 Government of Kerala</p>
+                    <p class="text-xs text-text-muted">Department of Planning &amp; Economic Affairs</p>
+                </div>
+                <div class="flex flex-wrap items-center justify-center gap-6">
+                    <a class="text-sm text-text-muted hover:text-primary transition-colors" href="#">Privacy Policy</a>
+                    <a class="text-sm text-text-muted hover:text-primary transition-colors" href="#">Terms of
+                        Service</a>
+                    <a class="text-sm text-text-muted hover:text-primary transition-colors" href="#">Contact Us</a>
+                </div>
+                <div class="flex gap-4">
+                    <a class="text-text-muted hover:text-primary transition-colors" href="#">
+                        <span class="material-symbols-outlined text-[20px]">public</span>
+                    </a>
+                    <a class="text-text-muted hover:text-primary transition-colors" href="#">
+                        <span class="material-symbols-outlined text-[20px]">mail</span>
+                    </a>
+                </div>
+            </div>
+        </footer>
+    </div>
+</body>
+
+</html>

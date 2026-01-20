@@ -1,0 +1,82 @@
+.kerala-map-container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: 320px;
+    aspect-ratio: 3 / 4;
+    background-color: var(--color-surface);
+    border-radius: var(--radius-xl);
+    box-shadow: var(--shadow-md);
+    border: 1px solid rgba(75, 124, 111, 0.1);
+    padding: 1rem;
+    overflow: hidden;
+}
+
+@media (min-width: 640px) {
+    .kerala-map-container {
+        max-width: 400px;
+    }
+}
+
+.kerala-map-svg {
+    width: 100%;
+    height: auto;
+    filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.08));
+}
+
+.district-path {
+    stroke-width: 1.5;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.district-path:hover {
+    stroke-width: 2;
+}
+
+.district-path.selected {
+    stroke-width: 2.5;
+}
+
+.map-instruction {
+    position: absolute;
+    bottom: 1.5rem;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    background-color: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(8px);
+    border-radius: 9999px;
+    box-shadow: var(--shadow-md);
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--color-text);
+    white-space: nowrap;
+}
+
+.map-instruction .material-symbols-outlined {
+    font-size: 1.125rem;
+    color: var(--color-primary);
+}
+
+/* Background decorative elements */
+.kerala-map-container::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background:
+        radial-gradient(circle at 20% 20%, rgba(75, 124, 111, 0.05) 0%, transparent 50%),
+        radial-gradient(circle at 80% 80%, rgba(232, 168, 124, 0.05) 0%, transparent 50%);
+    pointer-events: none;
+}
+
+/* Subtle border glow on hover */
+.kerala-map-container:hover {
+    border-color: rgba(75, 124, 111, 0.2);
+}

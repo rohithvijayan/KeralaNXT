@@ -1,0 +1,256 @@
+{
+    "projects": [
+        {
+            "id": "proj-025",
+            "districtId": "ernakulam",
+            "title": "Kochi Metro Phase 2 Extension",
+            "shortTitle": "Kochi Metro Ph2",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2024,
+            "budget": "₹1,957 Cr",
+            "description": "The Kochi Metro Phase 2 Extension marks a significant milestone in Kerala's urban infrastructure development. This ambitious project connects the bustling InfoPark technology hub directly to the city center, addressing critical traffic congestion issues in the Kakkanad region. Spanning 11.2 kilometers with 11 new stations, the 'Pink Line' is designed to facilitate sustainable commuting for over 100,000 daily riders.",
+            "impact": "100k+ Daily Riders",
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBu2ZU2DoTsqXpkIYUqNCLbVxveBJOeThGubUUvq31FERZ99LzA6vklPm-S8QuIe4vmlWlyo3Fx-xnNaItNJSNI0PId6DeRBTCsUVu8wEIduEobP93V50knvDEQkaNRcb9BaPbGPI18LmEiRdORYUPgZjbIaz-Rjx28B4w3N1cgP-NpMHLkq73zsxQZb77w-J125KRnMHVzzhesNIdynxqQnv6zawNXR-OLHwIOtq9ZJPzp92g2la_QBOHjX5QDeLpDR4sX_kOfFx8",
+            "tags": [
+                "Metro",
+                "Urban Transport",
+                "Green Mobility"
+            ]
+        },
+        {
+            "id": "proj-026",
+            "districtId": "ernakulam",
+            "title": "Kochi Water Metro Project",
+            "shortTitle": "Water Metro",
+            "category": "transport",
+            "status": "completed",
+            "year": 2023,
+            "budget": "₹747 Cr",
+            "description": "India's first water metro connecting islands of Kochi through a network of fast, efficient, and eco-friendly boats. The project covers 76 km of waterways with 38 terminals.",
+            "impact": "50k+ Daily Passengers",
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCcgtDYlMr9cQe-DgSmlYCY558nAj77OHBGKHf9E9qdEvPSeI4TbJAbtFolBO7j8UBPEAcoccoecg9xRZ3kLyH2RotRJrfvYQz0DDNgJdOGpE3eNns87RHINVPVYYL1g7-WoMmNLJIygFCjXw2rKW90L8IHCnPLBkL1ddsgRKpVAkI1rJgnePeZR0LDykKyQigX10WYlyVfXM_7jQyPBG19t3LYKsJETrFBAT5AHVP9MQMguNdXvyRclVrTEZJ7BYdYnXj_0m0VuG0",
+            "tags": [
+                "Water Transport",
+                "Eco-Friendly",
+                "Island Connectivity"
+            ]
+        },
+        {
+            "id": "proj-027",
+            "districtId": "ernakulam",
+            "title": "InfoPark Phase 2 Expansion",
+            "shortTitle": "InfoPark Ph2",
+            "category": "it",
+            "status": "ongoing",
+            "year": 2024,
+            "budget": "₹350 Cr",
+            "description": "Expansion of InfoPark Kochi with additional 2 million sq ft of IT space, creating opportunities for 25,000+ new jobs in the technology sector.",
+            "impact": "25k+ New Jobs",
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuB7G6RCSA4oOputBbAm3ENikaEFgzdqsoVjlfqFh2VuZ1lAvVxsTFQHajSNS86qmS949tytmiCZzhymeWv7_ke5ah3WRcZplkHfiLIpkwBXL0kWkEM25SFYYUbzY_NPTwUV_3inqc3ijvM57dmsJQ4Bmy7zEpKgilmmjO3iZxaK0VltrEeol8NmZouRrIh7NsBStShw1yu6feCubaukfBH5MDXLtUZ2l0Ty0STr-GfgtZr6-QfQ3fW2C-t-cKThtRDUPfb-jjl2qlk",
+            "tags": [
+                "IT Park",
+                "Employment",
+                "Technology"
+            ]
+        },
+        {
+            "id": "proj-028",
+            "districtId": "ernakulam",
+            "title": "Cochin Cancer Research Centre",
+            "shortTitle": "Cancer Centre",
+            "category": "healthcare",
+            "status": "completed",
+            "year": 2022,
+            "budget": "₹360 Cr",
+            "description": "State-of-the-art cancer research and treatment facility with advanced diagnostic equipment and world-class treatment protocols.",
+            "impact": "10k+ Patients Annually",
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDnj553SYTiQ9zSlwO2m_0G1Csp7v1dacuK_EIydq9a_KkJ0tPh_fk_ddfjcYEPQiW8mFTjX1K7YfCtqii29LOirq-SKmPwh_VU-bajYfukYld3K5KxzOWI1hB2KB5WcT4zWgFsDZVGHZp39HXXx-qICRou_4ZLWNPfQNDLQZONV5sni2bA0kXqaX6hozdug9EZstdWyg3zP8LJ5tSlMY6H-P14eE3F38Y5UE_tqmwurFwuHwT4yjpMRHac1JeAvDtczAwv9zZ6Vbc",
+            "tags": [
+                "Healthcare",
+                "Research",
+                "Cancer Treatment"
+            ]
+        },
+        {
+            "id": "proj-029",
+            "districtId": "ernakulam",
+            "title": "Smart City Mission Projects",
+            "shortTitle": "Smart City",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2024,
+            "budget": "₹2,000 Cr",
+            "description": "Comprehensive smart city transformation including smart traffic management, public WiFi, e-governance solutions, and urban infrastructure upgrades.",
+            "impact": "3M+ Beneficiaries",
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAsqsx-JEubXbsboisdCs-Ap69ijZ8s5GZIpw4VDCykVgtoagjzgvRfsPUINMo4-DSyVo5GdOf6-ekxIkmm_IMlsS4Z6DWuiDhh6yJjEOJv5f8ajBfRf0ggkdXkBIzLefPKmavF6obtwt7VsI8L2bvqtoI7PIN15IT9LZfPpCZxALpHfQXPgLuFjHt2TFBZfEi9jZddgUm8KZXXwXxVVTlQoHSzJb_aORWcXpNtehelHYFf8AjU_EO5PL7d0ec2rhwe4HdnEBAmRDk",
+            "tags": [
+                "Smart City",
+                "Digital India",
+                "Urban Development"
+            ]
+        },
+        {
+            "id": "proj-030",
+            "districtId": "ernakulam",
+            "title": "Seaport-Airport Road Corridor",
+            "shortTitle": "SA Road",
+            "category": "infrastructure",
+            "status": "planned",
+            "year": 2025,
+            "budget": "₹120 Cr",
+            "description": "Six-lane elevated corridor connecting Cochin Port to the International Airport, reducing travel time significantly.",
+            "impact": "50% Travel Time Reduction",
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC-ShtCdqp3RvzY2J9JsnDwVArHi9CTKEQfnQ330X0sWirPpf5a2F8q7jlv_YNtuqiLry6gZLVbu_l6mw0eti2E5j8-5afExQQlEuWvQUi3HAT9fRuabOSkMXgvrKYbWyKxnCYkCPMpr8YAQR45e_745R_qcp8OejF6-53XuXXabDdWdYDopCxkNV7me2OlyUelNLj06EDWs7lYD2pvxkgepVb9QlZl8j_Gk1s6KV5lzkcQYYoz0DHIHkiWH0tep-QK_hY-GBTqKXk",
+            "tags": [
+                "Road",
+                "Connectivity",
+                "Infrastructure"
+            ]
+        },
+        {
+            "id": "proj-001",
+            "districtId": "thiruvananthapuram",
+            "title": "Technopark Phase III",
+            "shortTitle": "Technopark Ph3",
+            "category": "it",
+            "status": "completed",
+            "year": 2021,
+            "budget": "₹450 Cr",
+            "description": "Expansion of Technopark with 2.5 million sq ft of IT space, creating opportunities for 15,000+ new employment.",
+            "impact": "15k+ Jobs Created",
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuB7G6RCSA4oOputBbAm3ENikaEFgzdqsoVjlfqFh2VuZ1lAvVxsTFQHajSNS86qmS949tytmiCZzhymeWv7_ke5ah3WRcZplkHfiLIpkwBXL0kWkEM25SFYYUbzY_NPTwUV_3inqc3ijvM57dmsJQ4Bmy7zEpKgilmmjO3iZxaK0VltrEeol8NmZouRrIh7NsBStShw1yu6feCubaukfBH5MDXLtUZ2l0Ty0STr-GfgtZr6-QfQ3fW2C-t-cKThtRDUPfb-jjl2qlk",
+            "tags": [
+                "IT",
+                "Employment",
+                "Smart City"
+            ]
+        },
+        {
+            "id": "proj-002",
+            "districtId": "thiruvananthapuram",
+            "title": "Vizhinjam International Port",
+            "shortTitle": "Vizhinjam Port",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2024,
+            "budget": "₹7,525 Cr",
+            "description": "India's first deep-water transshipment port, positioned to become a major hub in international maritime trade routes.",
+            "impact": "30k+ Jobs Expected",
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuATym5_glCKZt5MSvE9iNHDlGXE1b_5d-15BigdnUpNVOywzjfosFzURePb5TXB16WrduEhZwvWp49VmncmSr03VvBuQR-886t94g2G9KxliYYCqwQQhanK4w5R8XVo3oHFwMeiseC7wDjnvxoQ7E1n2RZpv4xTDF3w1FilPWYSIDNx9ZhXjUTGpcdm5rkH10sVoSFZaZHyDhY4RtpnwBM9ucrkO-lOLoaDfpCHz10p_4bOns6jiyBeRpkqjtRsyWnUhzq5HWhHGqE",
+            "tags": [
+                "Port",
+                "Maritime",
+                "Trade"
+            ]
+        },
+        {
+            "id": "proj-003",
+            "districtId": "thiruvananthapuram",
+            "title": "KIMS Cancer Centre",
+            "shortTitle": "KIMS Cancer",
+            "category": "healthcare",
+            "status": "completed",
+            "year": 2020,
+            "budget": "₹275 Cr",
+            "description": "Advanced cancer treatment facility with state-of-the-art radiation therapy and comprehensive oncology services.",
+            "impact": "8k+ Patients/Year",
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDnj553SYTiQ9zSlwO2m_0G1Csp7v1dacuK_EIydq9a_KkJ0tPh_fk_ddfjcYEPQiW8mFTjX1K7YfCtqii29LOirq-SKmPwh_VU-bajYfukYld3K5KxzOWI1hB2KB5WcT4zWgFsDZVGHZp39HXXx-qICRou_4ZLWNPfQNDLQZONV5sni2bA0kXqaX6hozdug9EZstdWyg3zP8LJ5tSlMY6H-P14eE3F38Y5UE_tqmwurFwuHwT4yjpMRHac1JeAvDtczAwv9zZ6Vbc",
+            "tags": [
+                "Healthcare",
+                "Cancer",
+                "Treatment"
+            ]
+        },
+        {
+            "id": "proj-004",
+            "districtId": "thiruvananthapuram",
+            "title": "Light Metro Project",
+            "shortTitle": "Light Metro",
+            "category": "transport",
+            "status": "planned",
+            "year": 2025,
+            "budget": "₹1,985 Cr",
+            "description": "Light metro rail connecting major areas of Thiruvananthapuram city to reduce traffic congestion and promote sustainable transport.",
+            "impact": "75k+ Daily Commuters",
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBu2ZU2DoTsqXpkIYUqNCLbVxveBJOeThGubUUvq31FERZ99LzA6vklPm-S8QuIe4vmlWlyo3Fx-xnNaItNJSNI0PId6DeRBTCsUVu8wEIduEobP93V50knvDEQkaNRcb9BaPbGPI18LmEiRdORYUPgZjbIaz-Rjx28B4w3N1cgP-NpMHLkq73zsxQZb77w-J125KRnMHVzzhesNIdynxqQnv6zawNXR-OLHwIOtq9ZJPzp92g2la_QBOHjX5QDeLpDR4sX_kOfFx8",
+            "tags": [
+                "Metro",
+                "Transport",
+                "Urban"
+            ]
+        },
+        {
+            "id": "proj-041",
+            "districtId": "kozhikode",
+            "title": "Kozhikode Bypass Road",
+            "shortTitle": "Bypass Road",
+            "category": "infrastructure",
+            "status": "completed",
+            "year": 2022,
+            "budget": "₹850 Cr",
+            "description": "Four-lane bypass road reducing city traffic and improving connectivity to NH66.",
+            "impact": "40% Traffic Reduction",
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC-ShtCdqp3RvzY2J9JsnDwVArHi9CTKEQfnQ330X0sWirPpf5a2F8q7jlv_YNtuqiLry6gZLVbu_l6mw0eti2E5j8-5afExQQlEuWvQUi3HAT9fRuabOSkMXgvrKYbWyKxnCYkCPMpr8YAQR45e_745R_qcp8OejF6-53XuXXabDdWdYDopCxkNV7me2OlyUelNLj06EDWs7lYD2pvxkgepVb9QlZl8j_Gk1s6KV5lzkcQYYoz0DHIHkiWH0tep-QK_hY-GBTqKXk",
+            "tags": [
+                "Road",
+                "Infrastructure",
+                "Connectivity"
+            ]
+        },
+        {
+            "id": "proj-042",
+            "districtId": "kozhikode",
+            "title": "Cyber Park Kozhikode",
+            "shortTitle": "Cyber Park",
+            "category": "it",
+            "status": "ongoing",
+            "year": 2024,
+            "budget": "₹400 Cr",
+            "description": "IT Park development with modern facilities to boost employment in Malabar region.",
+            "impact": "10k+ IT Jobs",
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuB7G6RCSA4oOputBbAm3ENikaEFgzdqsoVjlfqFh2VuZ1lAvVxsTFQHajSNS86qmS949tytmiCZzhymeWv7_ke5ah3WRcZplkHfiLIpkwBXL0kWkEM25SFYYUbzY_NPTwUV_3inqc3ijvM57dmsJQ4Bmy7zEpKgilmmjO3iZxaK0VltrEeol8NmZouRrIh7NsBStShw1yu6feCubaukfBH5MDXLtUZ2l0Ty0STr-GfgtZr6-QfQ3fW2C-t-cKThtRDUPfb-jjl2qlk",
+            "tags": [
+                "IT Park",
+                "Employment",
+                "Technology"
+            ]
+        },
+        {
+            "id": "proj-043",
+            "districtId": "kozhikode",
+            "title": "Medical College Super Specialty Block",
+            "shortTitle": "Super Specialty",
+            "category": "healthcare",
+            "status": "completed",
+            "year": 2021,
+            "budget": "₹320 Cr",
+            "description": "Advanced super specialty medical facilities including cardiology, nephrology, and neurology departments.",
+            "impact": "15k+ Patients/Year",
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDnj553SYTiQ9zSlwO2m_0G1Csp7v1dacuK_EIydq9a_KkJ0tPh_fk_ddfjcYEPQiW8mFTjX1K7YfCtqii29LOirq-SKmPwh_VU-bajYfukYld3K5KxzOWI1hB2KB5WcT4zWgFsDZVGHZp39HXXx-qICRou_4ZLWNPfQNDLQZONV5sni2bA0kXqaX6hozdug9EZstdWyg3zP8LJ5tSlMY6H-P14eE3F38Y5UE_tqmwurFwuHwT4yjpMRHac1JeAvDtczAwv9zZ6Vbc",
+            "tags": [
+                "Healthcare",
+                "Super Specialty",
+                "Medical"
+            ]
+        },
+        {
+            "id": "proj-044",
+            "districtId": "kozhikode",
+            "title": "Beypore Heritage Tourism",
+            "shortTitle": "Beypore Tourism",
+            "category": "tourism",
+            "status": "ongoing",
+            "year": 2023,
+            "budget": "₹85 Cr",
+            "description": "Heritage tourism development at historic Beypore port including uru (traditional boat) museum and waterfront development.",
+            "impact": "Tourism Boost",
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuATym5_glCKZt5MSvE9iNHDlGXE1b_5d-15BigdnUpNVOywzjfosFzURePb5TXB16WrduEhZwvWp49VmncmSr03VvBuQR-886t94g2G9KxliYYCqwQQhanK4w5R8XVo3oHFwMeiseC7wDjnvxoQ7E1n2RZpv4xTDF3w1FilPWYSIDNx9ZhXjUTGpcdm5rkH10sVoSFZaZHyDhY4RtpnwBM9ucrkO-lOLoaDfpCHz10p_4bOns6jiyBeRpkqjtRsyWnUhzq5HWhHGqE",
+            "tags": [
+                "Tourism",
+                "Heritage",
+                "Coastal"
+            ]
+        }
+    ]
+}

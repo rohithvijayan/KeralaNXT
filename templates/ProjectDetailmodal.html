@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Project Details Overview</title>
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com" rel="preconnect" />
+    <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect" />
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;700&amp;display=swap"
+        rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;700&amp;display=swap"
+        rel="stylesheet" />
+    <!-- Material Symbols -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <!-- Theme Config -->
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#4b7c6f",
+                        "background-light": "#f6f7f7",
+                        "background-dark": "#161c1a",
+                    },
+                    fontFamily: {
+                        "display": ["Plus Jakarta Sans", "Noto Sans", "sans-serif"]
+                    },
+                    borderRadius: { "DEFAULT": "0.5rem", "lg": "1rem", "xl": "1.5rem", "full": "9999px" },
+                },
+            },
+        }
+    </script>
+    <style>
+        /* Custom scrollbar for better aesthetics within the modal */
+        .custom-scrollbar::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .custom-scrollbar::-webkit-scrollbar-track {
+            background: transparent;
+        }
+
+        .custom-scrollbar::-webkit-scrollbar-thumb {
+            background-color: rgba(75, 124, 111, 0.2);
+            border-radius: 20px;
+        }
+
+        .dark .custom-scrollbar::-webkit-scrollbar-thumb {
+            background-color: rgba(75, 124, 111, 0.4);
+        }
+    </style>
+</head>
+
+<body
+    class="bg-[url('https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&amp;w=2070&amp;auto=format&amp;fit=crop')] bg-cover bg-center min-h-screen font-display antialiased text-[#131515] dark:text-white overflow-hidden">
+    <!-- Backdrop Overlay -->
+    <div class="fixed inset-0 z-40 bg-black/60 backdrop-blur-sm flex items-center justify-center p-4 sm:p-6">
+        <!-- Modal Container -->
+        <div
+            class="relative w-full max-w-[720px] h-[90vh] flex flex-col bg-background-light dark:bg-background-dark shadow-2xl rounded-t-[20px] rounded-b-lg overflow-hidden animate-fade-in-up">
+            <!-- Scrollable Content -->
+            <div class="flex-1 overflow-y-auto custom-scrollbar">
+                <!-- Hero Image Section (16:9) -->
+                <div class="relative w-full aspect-video bg-gradient-to-br from-primary to-[#2c4a42]"
+                    data-alt="Abstract gradient mesh in teal and deep green tones representing modern infrastructure">
+                    <!-- Overlay gradient for text readability if needed, mostly aesthetic here -->
+                    <div class="absolute inset-0 bg-black/10"></div>
+                </div>
+                <!-- Content Body -->
+                <div class="px-6 py-6 sm:px-8">
+                    <!-- Chips/Badge -->
+                    <div class="flex mb-4">
+                        <div
+                            class="flex h-8 items-center justify-center gap-x-2 rounded-full bg-primary/10 dark:bg-primary/20 px-4 border border-primary/10 dark:border-primary/5">
+                            <span
+                                class="material-symbols-outlined text-[18px] text-primary dark:text-[#8bcac0]">check_circle</span>
+                            <p class="text-primary dark:text-[#8bcac0] text-sm font-medium leading-normal">Completed</p>
+                        </div>
+                    </div>
+                    <!-- Title -->
+                    <h1
+                        class="text-[#131515] dark:text-white text-[22px] sm:text-2xl font-bold leading-tight tracking-[-0.015em] mb-6">
+                        Kochi Metro Phase 2 Extension
+                    </h1>
+                    <!-- Stats Grid (2x2) -->
+                    <div class="grid grid-cols-2 gap-4 mb-8">
+                        <!-- Stat 1: Budget -->
+                        <div
+                            class="flex flex-col gap-2 rounded-xl p-5 bg-white dark:bg-[#1f2b28] shadow-sm border border-slate-100 dark:border-white/5 transition-transform hover:scale-[1.02]">
+                            <div class="flex items-center gap-2 text-slate-500 dark:text-slate-400">
+                                <span class="material-symbols-outlined text-[20px]">payments</span>
+                                <p class="text-sm font-medium">Budget</p>
+                            </div>
+                            <p
+                                class="text-[#131515] dark:text-white tracking-tight text-xl sm:text-2xl font-bold leading-tight">
+                                ₹1,957 Cr</p>
+                        </div>
+                        <!-- Stat 2: Year -->
+                        <div
+                            class="flex flex-col gap-2 rounded-xl p-5 bg-white dark:bg-[#1f2b28] shadow-sm border border-slate-100 dark:border-white/5 transition-transform hover:scale-[1.02]">
+                            <div class="flex items-center gap-2 text-slate-500 dark:text-slate-400">
+                                <span class="material-symbols-outlined text-[20px]">calendar_today</span>
+                                <p class="text-sm font-medium">Year</p>
+                            </div>
+                            <p
+                                class="text-[#131515] dark:text-white tracking-tight text-xl sm:text-2xl font-bold leading-tight">
+                                2024</p>
+                        </div>
+                        <!-- Stat 3: Category -->
+                        <div
+                            class="flex flex-col gap-2 rounded-xl p-5 bg-white dark:bg-[#1f2b28] shadow-sm border border-slate-100 dark:border-white/5 transition-transform hover:scale-[1.02]">
+                            <div class="flex items-center gap-2 text-slate-500 dark:text-slate-400">
+                                <span class="material-symbols-outlined text-[20px]">directions_subway</span>
+                                <p class="text-sm font-medium">Category</p>
+                            </div>
+                            <p
+                                class="text-[#131515] dark:text-white tracking-tight text-xl sm:text-2xl font-bold leading-tight">
+                                Transport</p>
+                        </div>
+                        <!-- Stat 4: Impact -->
+                        <div
+                            class="flex flex-col gap-2 rounded-xl p-5 bg-white dark:bg-[#1f2b28] shadow-sm border border-slate-100 dark:border-white/5 transition-transform hover:scale-[1.02]">
+                            <div class="flex items-center gap-2 text-slate-500 dark:text-slate-400">
+                                <span class="material-symbols-outlined text-[20px]">groups</span>
+                                <p class="text-sm font-medium">Impact</p>
+                            </div>
+                            <p
+                                class="text-[#131515] dark:text-white tracking-tight text-xl sm:text-2xl font-bold leading-tight">
+                                100k+ Riders</p>
+                        </div>
+                    </div>
+                    <!-- Divider -->
+                    <div class="w-full h-px bg-slate-200 dark:bg-slate-700 mb-8"></div>
+                    <!-- Description Section -->
+                    <div class="flex flex-col gap-3 pb-8">
+                        <h3 class="text-[#131515] dark:text-white text-lg font-bold leading-tight tracking-[-0.015em]">
+                            About this Project</h3>
+                        <p class="text-slate-600 dark:text-slate-300 text-base leading-relaxed">
+                            The Kochi Metro Phase 2 Extension marks a significant milestone in Kerala's urban
+                            infrastructure development. This ambitious project connects the bustling InfoPark technology
+                            hub directly to the city center, addressing critical traffic congestion issues in the
+                            Kakkanad region.
+                            <br /><br />
+                            Spanning 11.2 kilometers with 11 new stations, the "Pink Line" is designed to facilitate
+                            sustainable commuting for over 100,000 daily riders. The project not only enhances
+                            connectivity but also integrates advanced green building practices in station construction
+                            and solar power utilization for operations.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- Sticky Footer Action Bar -->
+            <div
+                class="border-t border-slate-200 dark:border-slate-800 bg-white dark:bg-[#1f2b28] p-4 sm:px-8 flex justify-between items-center z-10">
+                <button aria-label="Share project"
+                    class="flex items-center justify-center w-10 h-10 rounded-full hover:bg-slate-100 dark:hover:bg-white/10 transition-colors text-slate-600 dark:text-slate-300">
+                    <span class="material-symbols-outlined">share</span>
+                </button>
+                <button
+                    class="px-8 py-2.5 rounded-full font-bold text-sm bg-primary text-white hover:bg-primary/90 transition-colors shadow-lg shadow-primary/20">
+                    Close
+                </button>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

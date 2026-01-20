@@ -1,0 +1,214 @@
+{
+    "districts": [
+        {
+            "id": "thiruvananthapuram",
+            "name": "Thiruvananthapuram",
+            "population": "3.3M",
+            "area": "2,192 km²",
+            "headquarters": "Thiruvananthapuram",
+            "highlightProjects": [
+                "proj-001",
+                "proj-002",
+                "proj-003",
+                "proj-004"
+            ],
+            "totalProjects": 52,
+            "totalInvestment": "₹9,250 Cr"
+        },
+        {
+            "id": "kollam",
+            "name": "Kollam",
+            "population": "2.6M",
+            "area": "2,491 km²",
+            "headquarters": "Kollam",
+            "highlightProjects": [
+                "proj-005",
+                "proj-006",
+                "proj-007",
+                "proj-008"
+            ],
+            "totalProjects": 38,
+            "totalInvestment": "₹4,100 Cr"
+        },
+        {
+            "id": "pathanamthitta",
+            "name": "Pathanamthitta",
+            "population": "1.2M",
+            "area": "2,642 km²",
+            "headquarters": "Pathanamthitta",
+            "highlightProjects": [
+                "proj-009",
+                "proj-010",
+                "proj-011",
+                "proj-012"
+            ],
+            "totalProjects": 24,
+            "totalInvestment": "₹2,150 Cr"
+        },
+        {
+            "id": "alappuzha",
+            "name": "Alappuzha",
+            "population": "2.1M",
+            "area": "1,414 km²",
+            "headquarters": "Alappuzha",
+            "highlightProjects": [
+                "proj-013",
+                "proj-014",
+                "proj-015",
+                "proj-016"
+            ],
+            "totalProjects": 31,
+            "totalInvestment": "₹3,200 Cr"
+        },
+        {
+            "id": "kottayam",
+            "name": "Kottayam",
+            "population": "1.9M",
+            "area": "2,208 km²",
+            "headquarters": "Kottayam",
+            "highlightProjects": [
+                "proj-017",
+                "proj-018",
+                "proj-019",
+                "proj-020"
+            ],
+            "totalProjects": 29,
+            "totalInvestment": "₹2,850 Cr"
+        },
+        {
+            "id": "idukki",
+            "name": "Idukki",
+            "population": "1.1M",
+            "area": "4,358 km²",
+            "headquarters": "Painavu",
+            "highlightProjects": [
+                "proj-021",
+                "proj-022",
+                "proj-023",
+                "proj-024"
+            ],
+            "totalProjects": 22,
+            "totalInvestment": "₹1,950 Cr"
+        },
+        {
+            "id": "ernakulam",
+            "name": "Ernakulam",
+            "population": "3.3M",
+            "area": "3,068 km²",
+            "headquarters": "Kochi",
+            "highlightProjects": [
+                "proj-025",
+                "proj-026",
+                "proj-027",
+                "proj-028"
+            ],
+            "totalProjects": 47,
+            "totalInvestment": "₹12,400 Cr"
+        },
+        {
+            "id": "thrissur",
+            "name": "Thrissur",
+            "population": "3.1M",
+            "area": "3,032 km²",
+            "headquarters": "Thrissur",
+            "highlightProjects": [
+                "proj-029",
+                "proj-030",
+                "proj-031",
+                "proj-032"
+            ],
+            "totalProjects": 41,
+            "totalInvestment": "₹5,800 Cr"
+        },
+        {
+            "id": "palakkad",
+            "name": "Palakkad",
+            "population": "2.8M",
+            "area": "4,480 km²",
+            "headquarters": "Palakkad",
+            "highlightProjects": [
+                "proj-033",
+                "proj-034",
+                "proj-035",
+                "proj-036"
+            ],
+            "totalProjects": 35,
+            "totalInvestment": "₹4,200 Cr"
+        },
+        {
+            "id": "malappuram",
+            "name": "Malappuram",
+            "population": "4.1M",
+            "area": "3,550 km²",
+            "headquarters": "Malappuram",
+            "highlightProjects": [
+                "proj-037",
+                "proj-038",
+                "proj-039",
+                "proj-040"
+            ],
+            "totalProjects": 44,
+            "totalInvestment": "₹5,100 Cr"
+        },
+        {
+            "id": "kozhikode",
+            "name": "Kozhikode",
+            "population": "3.1M",
+            "area": "2,344 km²",
+            "headquarters": "Kozhikode",
+            "highlightProjects": [
+                "proj-041",
+                "proj-042",
+                "proj-043",
+                "proj-044"
+            ],
+            "totalProjects": 39,
+            "totalInvestment": "₹6,500 Cr"
+        },
+        {
+            "id": "wayanad",
+            "name": "Wayanad",
+            "population": "0.8M",
+            "area": "2,132 km²",
+            "headquarters": "Kalpetta",
+            "highlightProjects": [
+                "proj-045",
+                "proj-046",
+                "proj-047",
+                "proj-048"
+            ],
+            "totalProjects": 19,
+            "totalInvestment": "₹1,650 Cr"
+        },
+        {
+            "id": "kannur",
+            "name": "Kannur",
+            "population": "2.5M",
+            "area": "2,966 km²",
+            "headquarters": "Kannur",
+            "highlightProjects": [
+                "proj-049",
+                "proj-050",
+                "proj-051",
+                "proj-052"
+            ],
+            "totalProjects": 36,
+            "totalInvestment": "₹4,800 Cr"
+        },
+        {
+            "id": "kasaragod",
+            "name": "Kasaragod",
+            "population": "1.3M",
+            "area": "1,992 km²",
+            "headquarters": "Kasaragod",
+            "highlightProjects": [
+                "proj-053",
+                "proj-054",
+                "proj-055",
+                "proj-056"
+            ],
+            "totalProjects": 23,
+            "totalInvestment": "₹2,050 Cr"
+        }
+    ]
+}

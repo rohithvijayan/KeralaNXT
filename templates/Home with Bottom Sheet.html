@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>District Selection Bottom Sheet</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#4b7c6f",
+                        "background-light": "#f6f7f7",
+                        "background-dark": "#161c1a",
+                    },
+                    fontFamily: {
+                        "display": ["Plus Jakarta Sans", "Noto Sans", "sans-serif"]
+                    },
+                    borderRadius: { "DEFAULT": "0.5rem", "lg": "1rem", "xl": "1.5rem", "full": "9999px" },
+                },
+            },
+        }
+    </script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;700;800&display=swap');
+
+        /* Hide scrollbar for clean UI */
+        .no-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+
+        .no-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+    </style>
+</head>
+
+<body class="bg-gray-100 flex items-center justify-center min-h-screen p-4 font-display text-[#131515]">
+    <!-- Mobile Device Simulation Wrapper -->
+    <div
+        class="relative w-full max-w-[400px] h-[840px] bg-background-light dark:bg-background-dark rounded-[32px] shadow-2xl overflow-hidden border-[8px] border-gray-900 ring-1 ring-gray-900/50 flex flex-col group/design-root">
+        <!-- Background Layer: Map (Dimmed) -->
+        <div class="absolute inset-0 z-0 h-full w-full">
+            <!-- Reuse Map Component structure but adapted for full background -->
+            <div class="relative h-full w-full bg-cover bg-center"
+                data-alt="Map of Kerala district showing various geographical features and road networks"
+                data-location="Kerala"
+                style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuCUFlQHAcZ5sdOBLtcxB0NmN2PE7ofu5mVpmryVs73i_tQzS4WvdqiB-vPtjr3gBX2O_YMdpMq0iQZnqj_jNJMqOfYFPVO3FYn86ME-Qp4lXY6x6oxru_j3vNK1gkr5-C6OwTmD354e5lL34sgMxu4tzw3wpVGwhY8ey6B0njOJR0OVhabTgei94t7kTmQuBiU0ojjyQ2QngtfCgNR2HKu9aSitiODbq5q0rSJQ3vkJXU-zOLwTYWehdUF3r3MfJO-CsN5Dq3yQqjY");'>
+                <!-- Dark Overlay for dimming effect -->
+                <div class="absolute inset-0 bg-black/40 backdrop-blur-[1px]"></div>
+                <!-- Mock UI elements in the background to simulate the underlying app state -->
+                <div class="absolute top-12 left-4 right-4 flex gap-3 opacity-60 pointer-events-none">
+                    <div class="flex-1 bg-white/90 rounded-xl h-12 flex items-center px-4 shadow-sm">
+                        <span class="material-symbols-outlined text-gray-500">search</span>
+                        <span class="ml-2 text-gray-500 text-sm">Search districts...</span>
+                    </div>
+                </div>
+                <!-- Floating Action Buttons simulation -->
+                <div class="absolute top-32 right-4 flex flex-col gap-2 opacity-60 pointer-events-none">
+                    <div class="size-10 bg-white/90 rounded-xl flex items-center justify-center shadow-sm">
+                        <span class="material-symbols-outlined text-gray-700">layers</span>
+                    </div>
+                    <div class="size-10 bg-white/90 rounded-xl flex items-center justify-center shadow-sm">
+                        <span class="material-symbols-outlined text-gray-700">my_location</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Bottom Sheet -->
+        <!-- "covering the lower 55% of the screen" -->
+        <div
+            class="absolute bottom-0 left-0 right-0 z-10 h-[60%] bg-white dark:bg-zinc-900 rounded-t-2xl shadow-[0_-8px_30px_rgba(0,0,0,0.15)] flex flex-col transition-transform duration-300 ease-out translate-y-0">
+            <!-- Drag Handle -->
+            <div class="w-full flex justify-center pt-3 pb-2 cursor-grab active:cursor-grabbing">
+                <div class="w-12 h-1.5 bg-gray-300 dark:bg-gray-600 rounded-full"></div>
+            </div>
+            <!-- Content Container -->
+            <div class="flex-1 flex flex-col px-6 pt-2 overflow-hidden">
+                <!-- Header Section -->
+                <div class="flex flex-col gap-1 mb-6">
+                    <h2
+                        class="text-[#131515] dark:text-white tracking-tight text-2xl font-bold leading-tight flex items-center gap-1">
+                        📍 Ernakulam
+                    </h2>
+                    <p class="text-[#6f7b78] dark:text-gray-400 text-sm font-medium leading-normal">
+                        47 Projects • <span class="text-primary font-bold">₹8,200 Cr</span>
+                    </p>
+                </div>
+                <!-- Projects Grid (Scrollable area) -->
+                <div class="flex-1 overflow-y-auto no-scrollbar pb-24">
+                    <div class="grid grid-cols-2 gap-4">
+                        <!-- Card 1 -->
+                        <div class="group flex flex-col gap-2 cursor-pointer">
+                            <div class="relative w-full aspect-[4/3] rounded-lg bg-gray-100 overflow-hidden">
+                                <div class="absolute inset-0 bg-cover bg-center transition-transform duration-500 group-hover:scale-110"
+                                    data-alt="Modern glass building of Kochi Water Metro terminal reflecting in the water"
+                                    style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuCcgtDYlMr9cQe-DgSmlYCY558nAj77OHBGKHf9E9qdEvPSeI4TbJAbtFolBO7j8UBPEAcoccoecg9xRZ3kLyH2RotRJrfvYQz0DDNgJdOGpE3eNns87RHINVPVYYL1g7-WoMmNLJIygFCjXw2rKW90L8IHCnPLBkL1ddsgRKpVAkI1rJgnePeZR0LDykKyQigX10WYlyVfXM_7jQyPBG19t3LYKsJETrFBAT5AHVP9MQMguNdXvyRclVrTEZJ7BYdYnXj_0m0VuG0");'>
+                                </div>
+                                <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-60">
+                                </div>
+                                <div class="absolute top-2 left-2">
+                                    <span
+                                        class="inline-flex items-center rounded bg-emerald-100 dark:bg-emerald-900/50 px-2 py-0.5 text-[10px] font-bold text-emerald-800 dark:text-emerald-300 backdrop-blur-sm border border-emerald-200 dark:border-emerald-800">
+                                        Completed
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="flex flex-col gap-0.5">
+                                <h3 class="text-[#131515] dark:text-white text-sm font-bold leading-snug truncate">Kochi
+                                    Water Metro</h3>
+                                <p class="text-[#6f7b78] dark:text-gray-400 text-xs font-medium">₹747 Cr</p>
+                            </div>
+                        </div>
+                        <!-- Card 2 -->
+                        <div class="group flex flex-col gap-2 cursor-pointer">
+                            <div class="relative w-full aspect-[4/3] rounded-lg bg-gray-100 overflow-hidden">
+                                <div class="absolute inset-0 bg-cover bg-center transition-transform duration-500 group-hover:scale-110"
+                                    data-alt="Futuristic IT park buildings with lush greenery"
+                                    style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuB7G6RCSA4oOputBbAm3ENikaEFgzdqsoVjlfqFh2VuZ1lAvVxsTFQHajSNS86qmS949tytmiCZzhymeWv7_ke5ah3WRcZplkHfiLIpkwBXL0kWkEM25SFYYUbzY_NPTwUV_3inqc3ijvM57dmsJQ4Bmy7zEpKgilmmjO3iZxaK0VltrEeol8NmZouRrIh7NsBStShw1yu6feCubaukfBH5MDXLtUZ2l0Ty0STr-GfgtZr6-QfQ3fW2C-t-cKThtRDUPfb-jjl2qlk");'>
+                                </div>
+                                <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-60">
+                                </div>
+                                <div class="absolute top-2 left-2">
+                                    <span
+                                        class="inline-flex items-center rounded bg-amber-100 dark:bg-amber-900/50 px-2 py-0.5 text-[10px] font-bold text-amber-800 dark:text-amber-300 backdrop-blur-sm border border-amber-200 dark:border-amber-800">
+                                        Ongoing
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="flex flex-col gap-0.5">
+                                <h3 class="text-[#131515] dark:text-white text-sm font-bold leading-snug truncate">
+                                    InfoPark Phase 2</h3>
+                                <p class="text-[#6f7b78] dark:text-gray-400 text-xs font-medium">₹350 Cr</p>
+                            </div>
+                        </div>
+                        <!-- Card 3 -->
+                        <div class="group flex flex-col gap-2 cursor-pointer">
+                            <div class="relative w-full aspect-[4/3] rounded-lg bg-gray-100 overflow-hidden">
+                                <div class="absolute inset-0 bg-cover bg-center transition-transform duration-500 group-hover:scale-110"
+                                    data-alt="Highway road construction with cranes and heavy machinery"
+                                    style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuC-ShtCdqp3RvzY2J9JsnDwVArHi9CTKEQfnQ330X0sWirPpf5a2F8q7jlv_YNtuqiLry6gZLVbu_l6mw0eti2E5j8-5afExQQlEuWvQUi3HAT9fRuabOSkMXgvrKYbWyKxnCYkCPMpr8YAQR45e_745R_qcp8OejF6-53XuXXabDdWdYDopCxkNV7me2OlyUelNLj06EDWs7lYD2pvxkgepVb9QlZl8j_Gk1s6KV5lzkcQYYoz0DHIHkiWH0tep-QK_hY-GBTqKXk");'>
+                                </div>
+                                <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-60">
+                                </div>
+                                <div class="absolute top-2 left-2">
+                                    <span
+                                        class="inline-flex items-center rounded bg-blue-100 dark:bg-blue-900/50 px-2 py-0.5 text-[10px] font-bold text-blue-800 dark:text-blue-300 backdrop-blur-sm border border-blue-200 dark:border-blue-800">
+                                        Proposed
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="flex flex-col gap-0.5">
+                                <h3 class="text-[#131515] dark:text-white text-sm font-bold leading-snug truncate">
+                                    Seaport-Airport Rd</h3>
+                                <p class="text-[#6f7b78] dark:text-gray-400 text-xs font-medium">₹120 Cr</p>
+                            </div>
+                        </div>
+                        <!-- Card 4 -->
+                        <div class="group flex flex-col gap-2 cursor-pointer">
+                            <div class="relative w-full aspect-[4/3] rounded-lg bg-gray-100 overflow-hidden">
+                                <div class="absolute inset-0 bg-cover bg-center transition-transform duration-500 group-hover:scale-110"
+                                    data-alt="Modern smart city infrastructure concept art with solar panels"
+                                    style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuDsnxGE9MnIaKJrQ8JsNF9NhuZ66l6I6mpcHohUDq2YNrWZFNPMfqYBu1W8mF5Lf3SCSqmXMZGKPdiuoEHDxFttaDXUBP1XJmq4MxJDRLtN3pq_ThVX9BYgYwBdtz1_fb0AfDDjQ8TqqAjLLSHVhSGC2LuC1_hdzqX0dSB2jnXcymYawjX2LmCbkMZsMmDqXicKahr74Cb98nOnoByhomkYwDtkRkditlF543iqNlyKxOexL3-X8-vhtFnN8j8tICkOkfkV3VqIDwM");'>
+                                </div>
+                                <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-60">
+                                </div>
+                                <div class="absolute top-2 left-2">
+                                    <span
+                                        class="inline-flex items-center rounded bg-emerald-100 dark:bg-emerald-900/50 px-2 py-0.5 text-[10px] font-bold text-emerald-800 dark:text-emerald-300 backdrop-blur-sm border border-emerald-200 dark:border-emerald-800">
+                                        Completed
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="flex flex-col gap-0.5">
+                                <h3 class="text-[#131515] dark:text-white text-sm font-bold leading-snug truncate">Smart
+                                    City Infra</h3>
+                                <p class="text-[#6f7b78] dark:text-gray-400 text-xs font-medium">₹800 Cr</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Footer Action Button -->
+            <!-- Anchored to the bottom of the sheet -->
+            <div
+                class="absolute bottom-0 left-0 right-0 p-6 bg-white dark:bg-zinc-900 border-t border-gray-100 dark:border-zinc-800">
+                <button
+                    class="w-full flex items-center justify-center gap-2 rounded-xl bg-primary text-white font-bold h-12 shadow-lg shadow-primary/20 transition-all hover:bg-primary/90 hover:scale-[1.01] active:scale-[0.99]">
+                    <span>View All 47 Projects</span>
+                    <span class="material-symbols-outlined text-lg">arrow_forward</span>
+                </button>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

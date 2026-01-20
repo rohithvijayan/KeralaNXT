@@ -1,0 +1,155 @@
+.district-page {
+    min-height: 100vh;
+    min-height: 100dvh;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--color-background);
+}
+
+/* Mobile container styling */
+@media (min-width: 640px) {
+    .district-page {
+        max-width: 640px;
+        margin: 0 auto;
+        background-color: var(--color-surface);
+        box-shadow: var(--shadow-lg);
+    }
+}
+
+/* Stats Bar */
+.district-stats-bar {
+    background-color: #FFFBE6;
+    padding: 0.75rem 1.5rem;
+    border-bottom: 1px solid #FEF3C7;
+}
+
+.district-stats-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--color-text-muted);
+}
+
+.district-stats-text .material-symbols-outlined {
+    font-size: 1rem;
+    color: var(--color-primary);
+}
+
+.district-stats-dot {
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background-color: var(--color-text-muted);
+    margin: 0 0.25rem;
+}
+
+/* Category Tabs */
+.district-tabs-wrapper {
+    position: sticky;
+    top: 56px;
+    z-index: 40;
+    background-color: var(--color-surface);
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--color-border);
+}
+
+.district-tabs {
+    display: flex;
+    gap: 0.75rem;
+    overflow-x: auto;
+    padding: 0 1.25rem;
+}
+
+.district-tab {
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 2.25rem;
+    padding: 0 1.25rem;
+    border-radius: 9999px;
+    font-size: 0.875rem;
+    font-weight: 500;
+    border: none;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+    background-color: var(--color-background);
+    color: var(--color-text-muted);
+}
+
+.district-tab:hover {
+    background-color: var(--color-border);
+}
+
+.district-tab.active {
+    background-color: var(--color-primary);
+    color: white;
+    box-shadow: 0 4px 14px rgba(75, 124, 111, 0.25);
+}
+
+.district-tab:active {
+    transform: scale(0.95);
+}
+
+/* Content Area */
+.district-content {
+    flex: 1;
+    padding: 1.25rem;
+    padding-bottom: 3rem;
+}
+
+.district-projects {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+/* No Projects State */
+.district-no-projects {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 4rem 2rem;
+    text-align: center;
+    color: var(--color-text-muted);
+}
+
+.district-no-projects .material-symbols-outlined {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    opacity: 0.5;
+}
+
+.district-no-projects p {
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+/* Not Found */
+.district-not-found {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.district-not-found p {
+    font-size: 1.125rem;
+    color: var(--color-text-muted);
+}
+
+.district-not-found button {
+    padding: 0.75rem 1.5rem;
+    background-color: var(--color-primary);
+    color: white;
+    border: none;
+    border-radius: var(--radius-md);
+    font-weight: 600;
+    cursor: pointer;
+}

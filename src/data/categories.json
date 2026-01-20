@@ -1,0 +1,52 @@
+{
+    "categories": [
+        {
+            "id": "all",
+            "name": "All",
+            "icon": "apps",
+            "color": "#4b7c6f"
+        },
+        {
+            "id": "infrastructure",
+            "name": "Infrastructure",
+            "icon": "apartment",
+            "color": "#4A90A4"
+        },
+        {
+            "id": "healthcare",
+            "name": "Healthcare",
+            "icon": "local_hospital",
+            "color": "#6BAF92"
+        },
+        {
+            "id": "education",
+            "name": "Education",
+            "icon": "school",
+            "color": "#8B7EC8"
+        },
+        {
+            "id": "welfare",
+            "name": "Welfare",
+            "icon": "volunteer_activism",
+            "color": "#E8A87C"
+        },
+        {
+            "id": "transport",
+            "name": "Transport",
+            "icon": "directions_subway",
+            "color": "#5B8DEF"
+        },
+        {
+            "id": "tourism",
+            "name": "Tourism",
+            "icon": "travel_explore",
+            "color": "#7CB97C"
+        },
+        {
+            "id": "it",
+            "name": "IT Parks",
+            "icon": "computer",
+            "color": "#9B59B6"
+        }
+    ]
+}
