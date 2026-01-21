@@ -84,7 +84,7 @@
             "keyPoints": [
                 "Solidarity with islanders",
                 "Condemnation of administrative reforms",
-                "cultural protection"
+                "Cultural protection"
             ],
             "tags": [
                 "Federalism",
@@ -931,7 +931,7 @@
             "department": "Social Justice Department",
             "year": 2025,
             "status": "ongoing",
-            "budget": "₹70 Cr (Youth Entrepreneurship Alloc.)",
+            "budget": "₹70 Cr",
             "beneficiaries": "Youth",
             "impactLevel": "high",
             "description": "Aims to provide financial assistance to youth for education, skill development, and entrepreneurship.",
@@ -957,7 +957,7 @@
             "department": "Social Justice Department",
             "year": 2025,
             "status": "ongoing",
-            "budget": "₹13,000 Cr (Annual Est.)",
+            "budget": "₹13,000 Cr",
             "beneficiaries": "Elderly and Disabled",
             "impactLevel": "high",
             "description": "Increased The Social Security Pension to ₹2000 per month For All Pensioners.",
@@ -974,96 +974,531 @@
         },
         {
             "id": "init-043",
-            "title": "State-wide Ban on Single-Use Plastics",
-            "shortTitle": "Plastic Ban",
-            "category": "environment",
-            "department": "Local Self Government Department / Environment Department",
-            "year": 2020,
-            "status": "enforced",
+            "title": "Kerala Public Health Act, 2023",
+            "shortTitle": "Public Health Act",
+            "category": "health",
+            "department": "Health & Family Welfare",
+            "year": 2023,
+            "status": "passed",
             "budget": "N/A",
-            "beneficiaries": "General Public",
-            "impactLevel": "high",
-            "description": "Comprehensive ban on single-use plastic products including carry bags, disposable cutlery, flex boards, and thermocol to promote a plastic-free Kerala.",
+            "beneficiaries": "General Population",
+            "impactLevel": "very high",
+            "description": "Consolidates and unifies the state's public health laws, replacing colonial-era acts to address modern epidemiological challenges with a 'One Health' approach.",
             "keyPoints": [
-                "Ban on plastic bags, cups, plates, straws, flex boards",
-                "Heavy fines and license cancellation",
-                "Strengthened Haritha Kerala Mission goals"
+                "Repeals antiquated Madras/Travancore-Cochin Acts",
+                "Empowers local authorities for disease control",
+                "Focus on 'One Health' and lifestyle diseases"
             ],
             "tags": [
-                "Environment",
-                "Plastic-Free Kerala",
-                "Sustainability",
-                "Climate Action"
+                "Public Health",
+                "Legislative",
+                "One Health"
             ]
         },
         {
             "id": "init-044",
-            "title": "Kerala Electric Vehicle Policy",
-            "shortTitle": "EV Policy",
-            "category": "transport",
-            "department": "Transport Department / Power Department",
-            "year": 2019,
-            "status": "implemented",
-            "budget": "State Plan + Incentives",
-            "beneficiaries": "Commuters, EV Manufacturers, Environment",
+            "title": "Kerala State Private Universities (Establishment and Regulation) Bill, 2025",
+            "shortTitle": "Private Universities Bill",
+            "category": "education",
+            "department": "Higher Education Department",
+            "year": 2025,
+            "status": "passed",
+            "budget": "N/A",
+            "beneficiaries": "Higher Education Students",
             "impactLevel": "high",
-            "description": "Policy framework to promote electric mobility through incentives, charging infrastructure, and adoption of electric buses and vehicles.",
+            "description": "Allows the establishment of private universities in the state to stem the flow of students migrating outside Kerala, marking a significant policy shift.",
             "keyPoints": [
-                "Electric buses in KSRTC",
-                "Charging infrastructure rollout",
-                "Reduction of fossil fuel dependence"
+                "Reverses long-standing opposition to private varsities",
+                "Mandates permanent endowment funds",
+                "Reservation policies applicable to admissions"
             ],
             "tags": [
-                "Electric Vehicles",
-                "Green Mobility",
-                "Climate Policy",
-                "Transport Reform"
+                "Higher Education",
+                "Privatization",
+                "Policy Shift"
             ]
         },
         {
             "id": "init-045",
-            "title": "Right to Disconnect Bill",
-            "shortTitle": "Right to Disconnect",
-            "category": "labor",
-            "department": "Labour Department",
+            "title": "Kerala State Elderly Commission Act, 2025",
+            "shortTitle": "Elderly Commission",
+            "category": "social justice",
+            "department": "Social Justice Department",
             "year": 2025,
-            "status": "proposed",
-            "budget": "N/A",
-            "beneficiaries": "Private Sector Employees",
+            "status": "passed",
+            "budget": "Administrative",
+            "beneficiaries": "Senior Citizens",
             "impactLevel": "high",
-            "description": "Proposed legislation granting employees the legal right to ignore work-related communications outside official working hours.",
+            "description": "Establishes a statutory commission with quasi-judicial powers to protect the rights and welfare of the state's growing elderly population.",
             "keyPoints": [
-                "Protects work-life balance",
-                "Applies to private sector",
-                "First such proposal in India"
+                "Quasi-judicial powers to address grievances",
+                "Monitoring of old-age homes",
+                "Legal aid for abandoned elderly"
             ],
             "tags": [
-                "Labor Rights",
-                "Work-Life Balance",
-                "Employment Law"
+                "Elderly Care",
+                "Social Justice",
+                "Human Rights"
             ]
         },
         {
             "id": "init-046",
-            "title": "Internet Declared a Basic Human Right",
-            "shortTitle": "Internet Right",
-            "category": "digital rights",
-            "department": "IT Department",
-            "year": 2021,
-            "status": "declared",
+            "title": "Hospital Protection Act Amendment (2023)",
+            "shortTitle": "Hospital Protection",
+            "category": "health/safety",
+            "department": "Home / Health Department",
+            "year": 2023,
+            "status": "passed",
             "budget": "N/A",
-            "beneficiaries": "All Citizens",
-            "impactLevel": "very high",
-            "description": "Kerala became the first Indian state to officially declare access to the internet as a basic human right.",
+            "beneficiaries": "Healthcare Professionals",
+            "impactLevel": "high",
+            "description": "Introduced stringent non-bailable provisions and heavy penalties for violence against healthcare workers following the murder of Dr. Vandana Das.",
             "keyPoints": [
-                "Rights-based digital access",
-                "Foundation for K-FON",
-                "Digital inclusion policy"
+                "Imprisonment up to 7 years for grievous hurt",
+                "Police investigation completion in 60 days",
+                "Fast-track trial within one year"
             ],
             "tags": [
-                "Digital Rights",
-                "Human Rights",
+                "Healthcare Safety",
+                "Law & Order",
+                "Medical Professionals"
+            ]
+        },
+        {
+            "id": "init-047",
+            "title": "Hridyam",
+            "shortTitle": "Hridyam Scheme",
+            "category": "health",
+            "department": "Health & Family Welfare / NHM",
+            "year": 2017,
+            "status": "ongoing",
+            "budget": "State Health Budget",
+            "beneficiaries": "Children with CHD",
+            "impactLevel": "high",
+            "description": "A unique web-based initiative to support children with Congenital Heart Disease (CHD), providing free surgeries in government and empanelled private hospitals.",
+            "keyPoints": [
+                "Free heart surgeries for children",
+                "Web-based registration and tracking",
+                "Collaboration with private hospitals"
+            ],
+            "tags": [
+                "Child Health",
+                "Healthcare",
+                "Welfare"
+            ]
+        },
+        {
+            "id": "init-048",
+            "title": "Kerala Knowledge Economy Mission (KKEM)",
+            "shortTitle": "KKEM",
+            "category": "employment",
+            "department": "K-DISC",
+            "year": 2021,
+            "status": "ongoing",
+            "budget": "State Budget",
+            "beneficiaries": "Job Seekers / Women",
+            "impactLevel": "high",
+            "description": "Strategic mission to transform Kerala into a knowledge economy, targeting the creation of 20 lakh jobs by 2026, with a focus on 'Work Near Home'.",
+            "keyPoints": [
+                "Target: 20 lakh knowledge jobs",
+                "Digital Workforce Management System (DWMS)",
+                "Focus on educated unemployed women"
+            ],
+            "tags": [
+                "Employment",
+                "Knowledge Economy",
+                "Skill Development"
+            ]
+        },
+        {
+            "id": "init-049",
+            "title": "Malinya Muktham Nava Keralam",
+            "shortTitle": "Garbage-Free Kerala",
+            "category": "environment",
+            "department": "LSGD",
+            "year": 2023,
+            "status": "ongoing",
+            "budget": "Multi-departmental",
+            "beneficiaries": "General Public",
+            "impactLevel": "high",
+            "description": "A massive public campaign and policy drive to make Kerala completely garbage-free, supported by strict enforcement and fines for littering.",
+            "keyPoints": [
+                "100% source-level waste segregation",
+                "Haritha Karma Sena deployment",
+                "Strict penalties for dumping"
+            ],
+            "tags": [
+                "Waste Management",
+                "Environment",
+                "Clean Kerala"
+            ]
+        },
+        {
+            "id": "init-050",
+            "title": "Punargeham Project",
+            "shortTitle": "Punargeham",
+            "category": "disaster management/housing",
+            "department": "Fisheries Department",
+            "year": 2019,
+            "status": "ongoing",
+            "budget": "₹2,450 Cr",
+            "beneficiaries": "Fisherfolk Families",
+            "impactLevel": "high",
+            "description": "Rehabilitation project for families living within 50 meters of the coastline, moving them to safer locations to protect against coastal erosion.",
+            "keyPoints": [
+                "Financial aid of ₹10 lakh per family",
+                "Voluntary relocation from tidal zones",
+                "Climate change adaptation"
+            ],
+            "tags": [
+                "Fisheries",
+                "Rehabilitation",
+                "Climate Change"
+            ]
+        },
+        {
+            "id": "init-051",
+            "title": "Justice Hema Committee Report",
+            "shortTitle": "Hema Committee",
+            "category": "social justice/culture",
+            "department": "Cultural Affairs",
+            "year": 2024,
+            "status": "released",
+            "budget": "N/A",
+            "beneficiaries": "Women in Cinema",
+            "impactLevel": "high",
+            "description": "Release of the landmark report studying issues faced by women in the Malayalam film industry, leading to calls for a tribunal and new legislation.",
+            "keyPoints": [
+                "Exposed systemic sexual harassment ('Casting Couch')",
+                "Recommended a dedicated tribunal",
+                "Sparked industry-wide reforms"
+            ],
+            "tags": [
+                "Women's Rights",
+                "Cinema",
+                "Workplace Safety"
+            ]
+        },
+        {
+            "id": "init-052",
+            "title": "Heli-Tourism Policy 2024",
+            "shortTitle": "Heli-Tourism",
+            "category": "tourism",
+            "department": "Tourism Department",
+            "year": 2024,
+            "status": "approved",
+            "budget": "N/A",
+            "beneficiaries": "High-End Tourists",
+            "impactLevel": "medium",
+            "description": "Policy framework to connect luxury destinations via helicopter services to attract high net-worth tourists.",
+            "keyPoints": [
+                "Connecting Kumarakom, Munnar, Kovalam",
+                "Public-Private Partnership model",
+                "Boost to premium tourism"
+            ],
+            "tags": [
+                "Tourism",
+                "Aviation",
                 "Connectivity"
+            ]
+        },
+        {
+            "id": "init-053",
+            "title": "Kerala Panchayat Raj (Amendment) Bill, 2024",
+            "shortTitle": "Panchayat Waste Law",
+            "category": "governance",
+            "department": "LSGD",
+            "year": 2024,
+            "status": "passed",
+            "budget": "N/A",
+            "beneficiaries": "General Public",
+            "impactLevel": "high",
+            "description": "Legislation introducing steep fines for dumping waste in public places and enforcing user fees for waste collection.",
+            "keyPoints": [
+                "Fines up to ₹50,000 for dumping waste",
+                "Mandatory user fee payment",
+                "Empowers local secretaries to levy fines"
+            ],
+            "tags": [
+                "Waste Management",
+                "Legislation",
+                "Local Governance"
+            ]
+        },
+        {
+            "id": "init-054",
+            "title": "Mittayi Scheme",
+            "shortTitle": "Mittayi",
+            "category": "health/social welfare",
+            "department": "Social Security Mission",
+            "year": 2018,
+            "status": "ongoing",
+            "budget": "State Budget",
+            "beneficiaries": "Children with Type-1 Diabetes",
+            "impactLevel": "high",
+            "description": "Comprehensive care scheme providing free insulin, insulin pens, and continuous glucose monitoring for children with Type-1 Diabetes.",
+            "keyPoints": [
+                "Free insulin and pens",
+                "Psycho-social support",
+                "Corrective support for complications"
+            ],
+            "tags": [
+                "Child Health",
+                "Diabetes Care",
+                "Social Security"
+            ]
+        },
+        {
+            "id": "init-055",
+            "title": "Operation Aag",
+            "shortTitle": "Op Aag",
+            "category": "law & order",
+            "department": "Home Department",
+            "year": 2023,
+            "status": "active",
+            "budget": "Police Budget",
+            "beneficiaries": "General Public",
+            "impactLevel": "medium",
+            "description": "State-wide police operation to track and arrest fugitive anti-social elements and those listed under KAAPA.",
+            "keyPoints": [
+                "Crackdown on 'goonda' gangs",
+                "Arrest of KAAPA fugitives",
+                "Preventive detention"
+            ],
+            "tags": [
+                "Police",
+                "Safety",
+                "Crime Control"
+            ]
+        },
+        {
+            "id": "init-056",
+            "title": "Graphene Aurora Project",
+            "shortTitle": "Graphene Aurora",
+            "category": "science & technology",
+            "department": "K-DISC / Digital University",
+            "year": 2024,
+            "status": "ongoing",
+            "budget": "₹94.85 Cr",
+            "beneficiaries": "Tech Industry / Startups",
+            "impactLevel": "high",
+            "description": "Establishment of India Innovation Centre for Graphene to foster R&D and commercialization of graphene technology.",
+            "keyPoints": [
+                "India's first Graphene Innovation Centre",
+                "Commercialization of graphene products",
+                "Collaboration with Maker Village"
+            ],
+            "tags": [
+                "Technology",
+                "Innovation",
+                "Science"
+            ]
+        },
+        {
+            "id": "init-057",
+            "title": "Kerala Lok Ayukta (Amendment) Bill",
+            "shortTitle": "Lokayukta Amendment",
+            "category": "political/legislative",
+            "department": "Law Department",
+            "year": 2022,
+            "status": "passed",
+            "budget": "N/A",
+            "beneficiaries": "Government Executive",
+            "impactLevel": "high",
+            "description": "Controversial amendment making the Lok Ayukta's verdict recommendatory rather than binding on the competent authority.",
+            "keyPoints": [
+                "Removes binding nature of Lok Ayukta verdict",
+                "Chief Minister/Legislature can reject verdict",
+                "Significant change to anti-corruption law"
+            ],
+            "tags": [
+                "Governance",
+                "Anti-Corruption",
+                "Controversy"
+            ]
+        },
+        {
+            "id": "init-058",
+            "title": "Kerala Paper Products Limited (KPPL) Takeover",
+            "shortTitle": "KPPL Revival",
+            "category": "industry",
+            "department": "Industries Department",
+            "year": 2022,
+            "status": "operational",
+            "budget": "State Investment",
+            "beneficiaries": "Employees / Industry",
+            "impactLevel": "medium",
+            "description": "State government takeover and revival of the central PSU Hindustan Newsprint Limited (HNL), renaming it KPPL.",
+            "keyPoints": [
+                "Revival of defunct PSU",
+                "Production of newsprint and paper",
+                "Protection of industrial jobs"
+            ],
+            "tags": [
+                "Industry",
+                "PSU Revival",
+                "Economy"
+            ]
+        },
+        {
+            "id": "init-059",
+            "title": "Loka Kerala Sabha",
+            "shortTitle": "Loka Kerala Sabha",
+            "category": "diaspora",
+            "department": "NORKA",
+            "year": 2018,
+            "status": "ongoing",
+            "budget": "NORKA Budget",
+            "beneficiaries": "Non-Resident Keralites",
+            "impactLevel": "high",
+            "description": "A platform for Non-Resident Keralites to interact with the state government and contribute to policy formulation and development.",
+            "keyPoints": [
+                "Biennial global diaspora meet",
+                "Policy feedback from NRKs",
+                "Investment and cultural exchange"
+            ],
+            "tags": [
+                "Diaspora",
+                "NORKA",
+                "Global Kerala"
+            ]
+        },
+        {
+            "id": "init-060",
+            "title": "Sabari K-Rice",
+            "shortTitle": "K-Rice",
+            "category": "food security",
+            "department": "Civil Supplies (Supplyco)",
+            "year": 2024,
+            "status": "launched",
+            "budget": "Subsidized",
+            "beneficiaries": "General Public",
+            "impactLevel": "high",
+            "description": "Launch of subsidized rice brand by Supplyco to counter market price inflation and compete with central 'Bharat Rice'.",
+            "keyPoints": [
+                "Market intervention to control prices",
+                "Subsidized rice distribution",
+                "Competition with central schemes"
+            ],
+            "tags": [
+                "Food Security",
+                "Inflation",
+                "Welfare"
+            ]
+        },
+        {
+            "id": "init-061",
+            "title": "Keraleeyam",
+            "shortTitle": "Keraleeyam",
+            "category": "culture/tourism",
+            "department": "Cultural Affairs",
+            "year": 2023,
+            "status": "annual event",
+            "budget": "Event Budget",
+            "beneficiaries": "Public / Tourists",
+            "impactLevel": "medium",
+            "description": "Annual week-long cultural festival in Thiruvananthapuram showcasing Kerala's achievements, culture, and cuisine to the world.",
+            "keyPoints": [
+                "Showcase of Kerala Model",
+                "Cultural and food exhibitions",
+                "Tourism promotion"
+            ],
+            "tags": [
+                "Culture",
+                "Tourism",
+                "Festival"
+            ]
+        },
+        {
+            "id": "init-062",
+            "title": "Safe Kerala Project (AI Cameras)",
+            "shortTitle": "Safe Kerala AI",
+            "category": "transport/safety",
+            "department": "Motor Vehicles Department",
+            "year": 2023,
+            "status": "implemented",
+            "budget": "₹232 Cr",
+            "beneficiaries": "Road Users",
+            "impactLevel": "high",
+            "description": "Installation of AI-enabled cameras across the state to automatically detect traffic violations and reduce road accidents.",
+            "keyPoints": [
+                "Automated challan generation",
+                "726 AI cameras",
+                "Focus on helmet/seatbelt violations"
+            ],
+            "tags": [
+                "Road Safety",
+                "AI",
+                "Surveillance"
+            ]
+        },
+        {
+            "id": "init-063",
+            "title": "Kerala Export Promotion Policy 2024",
+            "shortTitle": "Export Policy",
+            "category": "economy",
+            "department": "Industries Department",
+            "year": 2024,
+            "status": "approved",
+            "budget": "Incentive-based",
+            "beneficiaries": "Exporters / Industry",
+            "impactLevel": "medium",
+            "description": "Policy aiming to boost state exports to $20 billion by 2027-28 through logistics support and infrastructure subsidies.",
+            "keyPoints": [
+                "Export target: $20 billion",
+                "Incentives for packaging and certification",
+                "Identification of champion sectors"
+            ],
+            "tags": [
+                "Economy",
+                "Trade",
+                "Export"
+            ]
+        },
+        {
+            "id": "init-064",
+            "title": "University Laws (Amendment) Bills",
+            "shortTitle": "Chancellor Bill",
+            "category": "education/governance",
+            "department": "Higher Education",
+            "year": 2022,
+            "status": "passed (pending assent)",
+            "budget": "N/A",
+            "beneficiaries": "State Universities",
+            "impactLevel": "high",
+            "description": "Legislative attempt to remove the Governor as the Chancellor of state universities and replace them with eminent academicians.",
+            "keyPoints": [
+                "Removal of Governor as Chancellor",
+                "Appointment of academic experts",
+                "Federal-State conflict point"
+            ],
+            "tags": [
+                "Federalism",
+                "Education",
+                "Governance"
+            ]
+        },
+        {
+            "id": "init-065",
+            "title": "Operation P-Hunt",
+            "shortTitle": "Op P-Hunt",
+            "category": "cyber crime",
+            "department": "Kerala Police (Cyberdome)",
+            "year": 2020,
+            "status": "ongoing",
+            "budget": "Police Budget",
+            "beneficiaries": "Children",
+            "impactLevel": "high",
+            "description": "Recurring cyber-operation to hunt down individuals involved in downloading, sharing, and viewing child sexual abuse material (CSAM).",
+            "keyPoints": [
+                "Crackdown on Child Sexual Abuse Material",
+                "Regular state-wide raids",
+                "Zero tolerance policy"
+            ],
+            "tags": [
+                "Cyber Security",
+                "Child Safety",
+                "Police"
             ]
         }
     ]
