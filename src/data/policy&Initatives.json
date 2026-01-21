@@ -193,7 +193,7 @@
             "year": 2017,
             "status": "ongoing",
             "budget": "Multi-crore (Convergence)",
-            "beneficiaries": "3.65 Lakh+ Houses",
+            "beneficiaries": "4.77 Lakh+ Houses",
             "impactLevel": "very high",
             "description": "Comprehensive housing mission to provide safe housing for all landless and homeless families in the state.",
             "keyPoints": [
@@ -343,6 +343,727 @@
                 "Secularism",
                 "Uniform",
                 "Policy"
+            ]
+        },
+        {
+            "id": "init-016",
+            "title": "Kerala Infrastructure Investment Fund Board (KIIFB)",
+            "shortTitle": "KIIFB",
+            "category": "infrastructure",
+            "department": "Finance Department",
+            "year": 2016,
+            "status": "ongoing",
+            "budget": "₹43,730 Cr sanctioned",
+            "beneficiaries": "State-wide Economy",
+            "impactLevel": "very high",
+            "description": "Established to fund large-scale infrastructure projects, sanctioning funds for roads, power, and urban facilities.",
+            "keyPoints": [
+                "Sanctioned over ₹43,000 crore for 555 projects",
+                "High credit rating",
+                "Enhances connectivity and development"
+            ],
+            "tags": [
+                "Infrastructure",
+                "Finance",
+                "Development"
+            ]
+        },
+        {
+            "id": "init-017",
+            "title": "Base Price Fixing for Vegetables",
+            "shortTitle": "Vegetable Base Price",
+            "category": "agriculture",
+            "department": "Agriculture Department",
+            "year": 2020,
+            "status": "active",
+            "budget": "N/A",
+            "beneficiaries": "Farmers",
+            "impactLevel": "high",
+            "description": "Programs to fix base prices for vegetables and provide financial security through the Farmers’ Welfare Fund Board.",
+            "keyPoints": [
+                "Prices 20% above production costs",
+                "Government procurement if market rates fall",
+                "Boosts production and incomes"
+            ],
+            "tags": [
+                "Agriculture",
+                "Farmer Welfare",
+                "Economy"
+            ]
+        },
+        {
+            "id": "init-018",
+            "title": "K-Smart App",
+            "shortTitle": "K-Smart",
+            "category": "digital",
+            "department": "IT Department",
+            "year": 2024,
+            "status": "ongoing",
+            "budget": "State IT Budget",
+            "beneficiaries": "Citizens and Businesses",
+            "impactLevel": "high",
+            "description": "Digital platform for local body services, part of making Kerala the first fully e-governed state.",
+            "keyPoints": [
+                "Digitizes services",
+                "Streamlines approvals",
+                "Fosters MSMEs and startups"
+            ],
+            "tags": [
+                "Digital Governance",
+                "E-Governance",
+                "Innovation"
+            ]
+        },
+        {
+            "id": "init-019",
+            "title": "Year of Enterprises",
+            "shortTitle": "Year of Enterprises",
+            "category": "economy",
+            "department": "Industries Department",
+            "year": 2022,
+            "status": "completed",
+            "budget": "N/A",
+            "beneficiaries": "Entrepreneurs",
+            "impactLevel": "high",
+            "description": "Initiative to incubate MSMEs and scale them, including Mission 1000 for turnover growth.",
+            "keyPoints": [
+                "Scaled 1,000 MSMEs to ₹100 crore turnover",
+                "Global incubator ranking",
+                "Investment attraction"
+            ],
+            "tags": [
+                "Economy",
+                "Startups",
+                "MSME"
+            ]
+        },
+        {
+            "id": "init-020",
+            "title": "Social Security Pension Hikes",
+            "shortTitle": "Pension Hikes",
+            "category": "social welfare",
+            "department": "Social Justice Department",
+            "year": 2016,
+            "status": "ongoing",
+            "budget": "Additional ₹10,000 Cr burden",
+            "beneficiaries": "60 Lakh+ Beneficiaries",
+            "impactLevel": "high",
+            "description": "Doubled social security pensions and introduced new schemes like Sthree Suraksha Pension.",
+            "keyPoints": [
+                "Pensions to ₹2,000 monthly",
+                "New women's pension schemes",
+                "Inclusive growth for vulnerable groups"
+            ],
+            "tags": [
+                "Welfare",
+                "Pension",
+                "Social Justice"
+            ]
+        },
+        {
+            "id": "init-021",
+            "title": "Karunya Arogya Suraksha Padhathi (KASP)",
+            "shortTitle": "KASP",
+            "category": "health",
+            "department": "Health Department",
+            "year": 2019,
+            "status": "active",
+            "budget": "State Health Budget",
+            "beneficiaries": "Economically Weaker Sections",
+            "impactLevel": "high",
+            "description": "Merged health schemes for free treatment to the poor, including care for rare diseases.",
+            "keyPoints": [
+                "Free treatment integration",
+                "Specialized aid for rare diseases",
+                "Public health enhancement"
+            ],
+            "tags": [
+                "Healthcare",
+                "Welfare",
+                "Public Health"
+            ]
+        },
+        {
+            "id": "init-022",
+            "title": "Vizhinjam International Seaport",
+            "shortTitle": "Vizhinjam Seaport",
+            "category": "infrastructure",
+            "department": "Ports Department",
+            "year": 2021,
+            "status": "operational",
+            "budget": "Multi-crore",
+            "beneficiaries": "Trade and Employment",
+            "impactLevel": "very high",
+            "description": "Commissioned international seaport to enhance maritime trade and job creation.",
+            "keyPoints": [
+                "Revived stalled project",
+                "Job creation for thousands",
+                "Boosts economic ties"
+            ],
+            "tags": [
+                "Infrastructure",
+                "Trade",
+                "Economy"
+            ]
+        },
+        {
+            "id": "init-023",
+            "title": "Kochi Water Metro",
+            "shortTitle": "Water Metro",
+            "category": "transport",
+            "department": "Transport Department",
+            "year": 2021,
+            "status": "operational",
+            "budget": "N/A",
+            "beneficiaries": "Urban Commuters",
+            "impactLevel": "high",
+            "description": "India's first electric boat-based metro system for eco-friendly urban mobility.",
+            "keyPoints": [
+                "Largest in the world",
+                "Eco-friendly transport",
+                "Expansion potential"
+            ],
+            "tags": [
+                "Transport",
+                "Environment",
+                "Urban Development"
+            ]
+        },
+        {
+            "id": "init-024",
+            "title": "Kannur International Airport",
+            "shortTitle": "Kannur Airport",
+            "category": "infrastructure",
+            "department": "Aviation Department",
+            "year": 2018,
+            "status": "operational",
+            "budget": "N/A",
+            "beneficiaries": "Travelers and Economy",
+            "impactLevel": "high",
+            "description": "Completion of international airport to address connectivity gaps.",
+            "keyPoints": [
+                "Addresses long-pending needs",
+                "Fosters economic ties",
+                "Improves access"
+            ],
+            "tags": [
+                "Infrastructure",
+                "Aviation",
+                "Connectivity"
+            ]
+        },
+        {
+            "id": "init-025",
+            "title": "Haritha Kerala Mission",
+            "shortTitle": "Haritha Mission",
+            "category": "environment",
+            "department": "Environment Department",
+            "year": 2016,
+            "status": "ongoing",
+            "budget": "State Plan Fund",
+            "beneficiaries": "General Public",
+            "impactLevel": "high",
+            "description": "Mission for waste management, organic farming, and water body rejuvenation.",
+            "keyPoints": [
+                "Rejuvenated 17,182 km of water bodies",
+                "Promotes sustainability",
+                "Climate resilience"
+            ],
+            "tags": [
+                "Environment",
+                "Sustainability",
+                "Water Management"
+            ]
+        },
+        {
+            "id": "init-026",
+            "title": "Apna Ghar Housing for Migrants",
+            "shortTitle": "Apna Ghar",
+            "category": "welfare",
+            "department": "Labour Department",
+            "year": 2017,
+            "status": "ongoing",
+            "budget": "N/A",
+            "beneficiaries": "Migrant Workers",
+            "impactLevel": "medium",
+            "description": "Quality housing scheme for migrant workers, integrated with insurance.",
+            "keyPoints": [
+                "Provides safe housing",
+                "Health and accident coverage",
+                "Inclusive welfare"
+            ],
+            "tags": [
+                "Welfare",
+                "Migrants",
+                "Housing"
+            ]
+        },
+        {
+            "id": "init-027",
+            "title": "Sthree Suraksha Pension",
+            "shortTitle": "Sthree Pension",
+            "category": "welfare",
+            "department": "Social Justice Department",
+            "year": 2025,
+            "status": "ongoing",
+            "budget": "N/A",
+            "beneficiaries": "31.34 Lakh Women",
+            "impactLevel": "high",
+            "description": "Monthly pension for women aged 35-60 not covered by other schemes.",
+            "keyPoints": [
+                "₹1,000 monthly aid",
+                "Targets uncovered groups",
+                "Women's empowerment"
+            ],
+            "tags": [
+                "Welfare",
+                "Women",
+                "Pension"
+            ]
+        },
+        {
+            "id": "init-028",
+            "title": "Kerala Bank Merger",
+            "shortTitle": "Kerala Bank",
+            "category": "economy",
+            "department": "Co-operatives Department",
+            "year": 2019,
+            "status": "active",
+            "budget": "₹61,000 Cr investments",
+            "beneficiaries": "Co-op Members",
+            "impactLevel": "high",
+            "description": "Merger of co-operative banks for efficiency and profitability.",
+            "keyPoints": [
+                "Posted ₹374 crore profit",
+                "Enhanced financial services",
+                "Co-operative strengthening"
+            ],
+            "tags": [
+                "Economy",
+                "Banking",
+                "Co-operatives"
+            ]
+        },
+        {
+            "id": "init-029",
+            "title": "Pink Protection Initiative",
+            "shortTitle": "Pink Protection",
+            "category": "safety",
+            "department": "Police Department",
+            "year": 2021,
+            "status": "ongoing",
+            "budget": "N/A",
+            "beneficiaries": "Women and Children",
+            "impactLevel": "high",
+            "description": "Safeguards women in public, private, and digital spaces.",
+            "keyPoints": [
+                "Comprehensive protection",
+                "Under Kerala Police",
+                "Safety enhancement"
+            ],
+            "tags": [
+                "Safety",
+                "Women",
+                "Police"
+            ]
+        },
+        {
+            "id": "init-030",
+            "title": "Ayyankali Urban Employment Guarantee Scheme",
+            "shortTitle": "Ayyankali Scheme",
+            "category": "labor",
+            "department": "Labour Department",
+            "year": 2020,
+            "status": "ongoing",
+            "budget": "₹75 Cr",
+            "beneficiaries": "Urban Workers",
+            "impactLevel": "medium",
+            "description": "Provides 90 days of work at ₹291 daily wages, linked to housing and dairy.",
+            "keyPoints": [
+                "Generated 26.5 lakh man-days",
+                "Urban employment security",
+                "Rural-urban linkage"
+            ],
+            "tags": [
+                "Labor",
+                "Employment",
+                "Urban"
+            ]
+        },
+        {
+            "id": "init-031",
+            "title": "Subhiksha Keralam",
+            "shortTitle": "Subhiksha",
+            "category": "agriculture",
+            "department": "Agriculture Department",
+            "year": 2020,
+            "status": "ongoing",
+            "budget": "N/A",
+            "beneficiaries": "Farmers and Communities",
+            "impactLevel": "high",
+            "description": "Cultivated fallow land, creating new units and employment.",
+            "keyPoints": [
+                "19,555 hectares cultivated",
+                "14,000 new units",
+                "Food security boost"
+            ],
+            "tags": [
+                "Agriculture",
+                "Food Security",
+                "Rural Development"
+            ]
+        },
+        {
+            "id": "init-032",
+            "title": "Institute of Advanced Virology",
+            "shortTitle": "IAV",
+            "category": "health",
+            "department": "Health Department",
+            "year": 2019,
+            "status": "operational",
+            "budget": "N/A",
+            "beneficiaries": "Public Health",
+            "impactLevel": "high",
+            "description": "Advances research on infectious diseases, linked to Global Virus Network.",
+            "keyPoints": [
+                "First in Kerala",
+                "Infectious disease research",
+                "Global collaboration"
+            ],
+            "tags": [
+                "Health",
+                "Research",
+                "Virology"
+            ]
+        },
+        {
+            "id": "init-033",
+            "title": "Antibiotic Sakshara Kerala",
+            "shortTitle": "Antibiotic Awareness",
+            "category": "health",
+            "department": "Health Department",
+            "year": 2020,
+            "status": "ongoing",
+            "budget": "N/A",
+            "beneficiaries": "General Public",
+            "impactLevel": "medium",
+            "description": "Guidelines to combat antibiotic resistance in hospitals and communities.",
+            "keyPoints": [
+                "Awareness campaigns",
+                "Hospital guidelines",
+                "Public health gaps addressed"
+            ],
+            "tags": [
+                "Health",
+                "Awareness",
+                "Antibiotics"
+            ]
+        },
+        {
+            "id": "init-034",
+            "title": "Hi-Tech Classrooms in Public Schools",
+            "shortTitle": "Hi-Tech Education",
+            "category": "education",
+            "department": "Education Department",
+            "year": 2016,
+            "status": "implemented",
+            "budget": "₹2,000 Cr",
+            "beneficiaries": "School Students",
+            "impactLevel": "high",
+            "description": "Infused funds to set up hi-tech classrooms in 45,000 public schools.",
+            "keyPoints": [
+                "5.05 lakh new enrollments",
+                "System rejuvenation",
+                "Educational equity"
+            ],
+            "tags": [
+                "Education",
+                "Technology",
+                "Public Schools"
+            ]
+        },
+        {
+            "id": "init-035",
+            "title": "Kerala Administrative Service (KAS)",
+            "shortTitle": "KAS",
+            "category": "administration",
+            "department": "Personnel Department",
+            "year": 2018,
+            "status": "active",
+            "budget": "N/A",
+            "beneficiaries": "Administrative Staff",
+            "impactLevel": "medium",
+            "description": "Created managerial cadre for efficient administration.",
+            "keyPoints": [
+                "Professional cadre",
+                "Efficiency improvement",
+                "Governance reform"
+            ],
+            "tags": [
+                "Administration",
+                "Reform",
+                "Governance"
+            ]
+        },
+        {
+            "id": "init-036",
+            "title": "Urja Kerala Mission",
+            "shortTitle": "Urja Mission",
+            "category": "energy",
+            "department": "Power Department",
+            "year": 2018,
+            "status": "ongoing",
+            "budget": "N/A",
+            "beneficiaries": "General Public",
+            "impactLevel": "high",
+            "description": "Includes rooftop solar, LED projects, and carbon neutral initiatives.",
+            "keyPoints": [
+                "Ended power cuts since 2016",
+                "Eco-friendly energy",
+                "Sustainable power"
+            ],
+            "tags": [
+                "Energy",
+                "Renewable",
+                "Sustainability"
+            ]
+        },
+        {
+            "id": "init-037",
+            "title": "Rebuild Kerala Initiative",
+            "shortTitle": "Rebuild Kerala",
+            "category": "disaster management",
+            "department": "Planning Department",
+            "year": 2018,
+            "status": "ongoing",
+            "budget": "N/A",
+            "beneficiaries": "Flood-Affected Areas",
+            "impactLevel": "high",
+            "description": "Post-flood reconstruction with public engagement.",
+            "keyPoints": [
+                "Disaster recovery",
+                "Infrastructure rebuild",
+                "Resilience building"
+            ],
+            "tags": [
+                "Disaster",
+                "Recovery",
+                "Infrastructure"
+            ]
+        },
+        {
+            "id": "init-038",
+            "title": "Right to Sit Act",
+            "shortTitle": "Right to Sit",
+            "category": "labor",
+            "department": "Labour Department",
+            "year": 2018,
+            "status": "enforced",
+            "budget": "N/A",
+            "beneficiaries": "Workers, Especially Women",
+            "impactLevel": "medium",
+            "description": "Mandates seats for workers to promote dignity.",
+            "keyPoints": [
+                "Penalties for non-compliance",
+                "Worker rights",
+                "Dignity in labor"
+            ],
+            "tags": [
+                "Labor",
+                "Rights",
+                "Women"
+            ]
+        },
+        {
+            "id": "init-039",
+            "title": "Barrier-Free Tourism Policy",
+            "shortTitle": "Barrier-Free Tourism",
+            "category": "tourism",
+            "department": "Tourism Department",
+            "year": 2017,
+            "status": "ongoing",
+            "budget": "N/A",
+            "beneficiaries": "Differently-Abled Tourists",
+            "impactLevel": "medium",
+            "description": "Made 120 centers accessible for differently-abled.",
+            "keyPoints": [
+                "69 centers completed",
+                "Inclusive tourism",
+                "Accessibility"
+            ],
+            "tags": [
+                "Tourism",
+                "Accessibility",
+                "Inclusion"
+            ]
+        },
+        {
+            "id": "init-040",
+            "title": "Nava Kerala Sadas",
+            "shortTitle": "Nava Sadas",
+            "category": "political",
+            "department": "Chief Minister's Office",
+            "year": 2023,
+            "status": "completed",
+            "budget": "N/A",
+            "beneficiaries": "Citizens",
+            "impactLevel": "medium",
+            "description": "Statewide tour for public feedback on governance.",
+            "keyPoints": [
+                "Direct citizen engagement",
+                "Policy feedback",
+                "Outreach"
+            ],
+            "tags": [
+                "Political",
+                "Engagement",
+                "Governance"
+            ]
+        },
+        {
+            "id": "init-041",
+            "title": "Youth Connect Scheme",
+            "shortTitle": "Youth Connect",
+            "category": [
+                "youth",
+                "welfare"
+            ],
+            "department": "Social Justice Department",
+            "year": 2025,
+            "status": "ongoing",
+            "budget": "₹70 Cr (Youth Entrepreneurship Alloc.)",
+            "beneficiaries": "Youth",
+            "impactLevel": "high",
+            "description": "Aims to provide financial assistance to youth for education, skill development, and entrepreneurship.",
+            "keyPoints": [
+                "Financial assistance",
+                "Skill development",
+                "Entrepreneurship"
+            ],
+            "tags": [
+                "Youth",
+                "Welfare",
+                "Education"
+            ]
+        },
+        {
+            "id": "init-042",
+            "title": "Increased Social Security Pension",
+            "shortTitle": "Increased Pension",
+            "category": [
+                "social security",
+                "welfare"
+            ],
+            "department": "Social Justice Department",
+            "year": 2025,
+            "status": "ongoing",
+            "budget": "₹13,000 Cr (Annual Est.)",
+            "beneficiaries": "Elderly and Disabled",
+            "impactLevel": "high",
+            "description": "Increased The Social Security Pension to ₹2000 per month For All Pensioners.",
+            "keyPoints": [
+                "Financial assistance",
+                "Social security",
+                "Welfare"
+            ],
+            "tags": [
+                "Social Security",
+                "Welfare",
+                "Pension"
+            ]
+        },
+        {
+            "id": "init-043",
+            "title": "State-wide Ban on Single-Use Plastics",
+            "shortTitle": "Plastic Ban",
+            "category": "environment",
+            "department": "Local Self Government Department / Environment Department",
+            "year": 2020,
+            "status": "enforced",
+            "budget": "N/A",
+            "beneficiaries": "General Public",
+            "impactLevel": "high",
+            "description": "Comprehensive ban on single-use plastic products including carry bags, disposable cutlery, flex boards, and thermocol to promote a plastic-free Kerala.",
+            "keyPoints": [
+                "Ban on plastic bags, cups, plates, straws, flex boards",
+                "Heavy fines and license cancellation",
+                "Strengthened Haritha Kerala Mission goals"
+            ],
+            "tags": [
+                "Environment",
+                "Plastic-Free Kerala",
+                "Sustainability",
+                "Climate Action"
+            ]
+        },
+        {
+            "id": "init-044",
+            "title": "Kerala Electric Vehicle Policy",
+            "shortTitle": "EV Policy",
+            "category": "transport",
+            "department": "Transport Department / Power Department",
+            "year": 2019,
+            "status": "implemented",
+            "budget": "State Plan + Incentives",
+            "beneficiaries": "Commuters, EV Manufacturers, Environment",
+            "impactLevel": "high",
+            "description": "Policy framework to promote electric mobility through incentives, charging infrastructure, and adoption of electric buses and vehicles.",
+            "keyPoints": [
+                "Electric buses in KSRTC",
+                "Charging infrastructure rollout",
+                "Reduction of fossil fuel dependence"
+            ],
+            "tags": [
+                "Electric Vehicles",
+                "Green Mobility",
+                "Climate Policy",
+                "Transport Reform"
+            ]
+        },
+        {
+            "id": "init-045",
+            "title": "Right to Disconnect Bill",
+            "shortTitle": "Right to Disconnect",
+            "category": "labor",
+            "department": "Labour Department",
+            "year": 2025,
+            "status": "proposed",
+            "budget": "N/A",
+            "beneficiaries": "Private Sector Employees",
+            "impactLevel": "high",
+            "description": "Proposed legislation granting employees the legal right to ignore work-related communications outside official working hours.",
+            "keyPoints": [
+                "Protects work-life balance",
+                "Applies to private sector",
+                "First such proposal in India"
+            ],
+            "tags": [
+                "Labor Rights",
+                "Work-Life Balance",
+                "Employment Law"
+            ]
+        },
+        {
+            "id": "init-046",
+            "title": "Internet Declared a Basic Human Right",
+            "shortTitle": "Internet Right",
+            "category": "digital rights",
+            "department": "IT Department",
+            "year": 2021,
+            "status": "declared",
+            "budget": "N/A",
+            "beneficiaries": "All Citizens",
+            "impactLevel": "very high",
+            "description": "Kerala became the first Indian state to officially declare access to the internet as a basic human right.",
+            "keyPoints": [
+                "Rights-based digital access",
+                "Foundation for K-FON",
+                "Digital inclusion policy"
+            ],
+            "tags": [
+                "Digital Rights",
+                "Human Rights",
+                "Connectivity"
             ]
         }
     ]
