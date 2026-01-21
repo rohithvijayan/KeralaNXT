@@ -99,12 +99,19 @@
 @media (min-width: 768px) {
     .header-nav {
         display: flex;
+        gap: 1rem;
+    }
+}
+
+@media (min-width: 1024px) {
+    .header-nav {
+        gap: 2rem;
     }
 }
 
 .header-nav-link {
-    font-size: 0.875rem;
-    font-weight: 500;
+    font-size: 0.8125rem;
+    font-weight: 600;
     color: var(--color-text-muted);
     text-decoration: none;
     transition: color var(--transition-fast);

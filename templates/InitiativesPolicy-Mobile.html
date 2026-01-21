@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Mobile Initiatives &amp; Reforms</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;600;700&amp;display=swap"
+        rel="stylesheet" />
+    <!-- Material Symbols -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#13ecb2",
+                        "background-light": "#f6f8f7", // Soft cream/off-white background
+                        "background-dark": "#10221d",
+                    },
+                    fontFamily: {
+                        "display": ["Public Sans", "sans-serif"]
+                    },
+                    borderRadius: {
+                        "DEFAULT": "0.5rem",
+                        "lg": "1rem",
+                        "xl": "1.5rem",
+                        "full": "9999px"
+                    },
+                },
+            },
+        }
+    </script>
+    <style>
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+        }
+
+        body {
+            font-family: 'Public Sans', sans-serif;
+        }
+    </style>
+</head>
+
+<body class="bg-background-light dark:bg-background-dark min-h-screen text-[#111816] dark:text-white">
+    <div class="relative flex min-h-screen w-full flex-col overflow-x-hidden">
+        <!-- Header / TopNavBar -->
+        <header
+            class="sticky top-0 z-50 bg-white/80 dark:bg-background-dark/80 backdrop-blur-md border-b border-[#f0f4f3] dark:border-white/10">
+            <div class="max-w-[960px] mx-auto flex items-center justify-between px-6 py-4">
+                <div class="flex items-center gap-3">
+                    <div class="flex items-center justify-center p-2 rounded-lg bg-primary/10 text-primary">
+                        <span class="material-symbols-outlined">account_balance</span>
+                    </div>
+                    <h1 class="text-lg font-bold tracking-tight">Initiatives &amp; Reforms</h1>
+                </div>
+                <div class="flex items-center gap-4">
+                    <label class="hidden sm:flex items-center relative w-64">
+                        <span class="material-symbols-outlined absolute left-3 text-[#61897f]">search</span>
+                        <input
+                            class="w-full bg-[#f0f4f3] dark:bg-white/5 border-none rounded-xl pl-10 pr-4 py-2 text-sm focus:ring-2 focus:ring-primary"
+                            placeholder="Search initiatives..." type="text" />
+                    </label>
+                    <button class="flex items-center justify-center p-2 rounded-xl bg-[#f0f4f3] dark:bg-white/5">
+                        <span class="material-symbols-outlined text-lg">notifications</span>
+                    </button>
+                    <button class="flex items-center justify-center p-2 rounded-xl bg-[#f0f4f3] dark:bg-white/5">
+                        <span class="material-symbols-outlined text-lg">person</span>
+                    </button>
+                </div>
+            </div>
+        </header>
+        <main class="flex-1 max-w-[960px] mx-auto w-full px-4 pb-32">
+            <!-- Hero Section / Impact Card -->
+            <div class="mt-6 mb-8">
+                <div
+                    class="relative overflow-hidden rounded-xl bg-gradient-to-br from-primary to-[#0d9a74] p-8 text-white shadow-lg">
+                    <div class="relative z-10 flex flex-col md:flex-row items-center justify-between gap-6">
+                        <div class="flex-1">
+                            <h2 class="text-3xl font-extrabold leading-tight">150+ Initiatives Launched Since 2016</h2>
+                            <p class="mt-2 text-white/80 font-medium">Towards a developed Kerala: 2024 Development Goals
+                                &amp; Welfare Milestones.</p>
+                            <div class="mt-6 flex gap-3">
+                                <button
+                                    class="bg-white text-background-dark px-5 py-2.5 rounded-xl font-bold text-sm shadow-sm hover:bg-opacity-90 transition-all">
+                                    Explore Data
+                                </button>
+                                <button
+                                    class="bg-white/20 backdrop-blur text-white px-5 py-2.5 rounded-xl font-bold text-sm hover:bg-white/30 transition-all">
+                                    Annual Report
+                                </button>
+                            </div>
+                        </div>
+                        <div class="hidden md:flex items-end gap-1 h-24 opacity-40">
+                            <div class="w-4 bg-white rounded-t-md" style="height: 40%"></div>
+                            <div class="w-4 bg-white rounded-t-md" style="height: 60%"></div>
+                            <div class="w-4 bg-white rounded-t-md" style="height: 35%"></div>
+                            <div class="w-4 bg-white rounded-t-md" style="height: 80%"></div>
+                            <div class="w-4 bg-white rounded-t-md" style="height: 55%"></div>
+                            <div class="w-4 bg-white rounded-t-md" style="height: 95%"></div>
+                        </div>
+                    </div>
+                    <!-- Subtle pattern background -->
+                    <div
+                        class="absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(255,255,255,0.1),transparent)] pointer-events-none">
+                    </div>
+                </div>
+            </div>
+            <!-- Category Pills / Horizontal Scroll -->
+            <div
+                class="mb-8 sticky top-20 z-40 py-2 bg-background-light/95 dark:bg-background-dark/95 backdrop-blur-sm -mx-4 px-4">
+                <div class="flex gap-2 overflow-x-auto pb-2 scrollbar-hide no-scrollbar">
+                    <button
+                        class="whitespace-nowrap flex h-10 items-center justify-center rounded-xl bg-primary text-background-dark px-5 font-bold text-sm shadow-md shadow-primary/20">All</button>
+                    <button
+                        class="whitespace-nowrap flex h-10 items-center justify-center rounded-xl bg-white dark:bg-white/5 border border-[#f0f4f3] dark:border-white/10 px-5 font-medium text-sm hover:bg-primary/10 transition-colors">Welfare</button>
+                    <button
+                        class="whitespace-nowrap flex h-10 items-center justify-center rounded-xl bg-white dark:bg-white/5 border border-[#f0f4f3] dark:border-white/10 px-5 font-medium text-sm hover:bg-primary/10 transition-colors">Economy</button>
+                    <button
+                        class="whitespace-nowrap flex h-10 items-center justify-center rounded-xl bg-white dark:bg-white/5 border border-[#f0f4f3] dark:border-white/10 px-5 font-medium text-sm hover:bg-primary/10 transition-colors">Health</button>
+                    <button
+                        class="whitespace-nowrap flex h-10 items-center justify-center rounded-xl bg-white dark:bg-white/5 border border-[#f0f4f3] dark:border-white/10 px-5 font-medium text-sm hover:bg-primary/10 transition-colors">Infrastructure</button>
+                    <button
+                        class="whitespace-nowrap flex h-10 items-center justify-center rounded-xl bg-white dark:bg-white/5 border border-[#f0f4f3] dark:border-white/10 px-5 font-medium text-sm hover:bg-primary/10 transition-colors">Education</button>
+                    <button
+                        class="whitespace-nowrap flex h-10 items-center justify-center rounded-xl bg-white dark:bg-white/5 border border-[#f0f4f3] dark:border-white/10 px-5 font-medium text-sm hover:bg-primary/10 transition-colors">Technology</button>
+                </div>
+            </div>
+            <!-- Headline -->
+            <div class="mb-4">
+                <h3 class="text-xl font-bold leading-tight">Key Initiatives Feed</h3>
+                <p class="text-[#61897f] text-sm">Updated weekly with progress tracking and impact data.</p>
+            </div>
+            <!-- Initiatives List -->
+            <div class="flex flex-col gap-4">
+                <!-- Initiative Card 1 -->
+                <div
+                    class="group relative flex flex-col sm:flex-row gap-4 bg-white dark:bg-white/5 p-5 rounded-xl border-l-4 border-primary shadow-sm hover:shadow-md transition-all cursor-pointer">
+                    <div
+                        class="flex-shrink-0 flex items-center justify-center size-14 rounded-xl bg-[#f0f4f3] dark:bg-white/10 text-primary group-hover:scale-105 transition-transform">
+                        <span class="material-symbols-outlined text-3xl">language</span>
+                    </div>
+                    <div class="flex flex-1 flex-col">
+                        <div class="flex items-center justify-between mb-1">
+                            <h4 class="text-lg font-bold group-hover:text-primary transition-colors">Kerala Fibre Optic
+                                Network (KFON)</h4>
+                            <span
+                                class="px-2 py-0.5 rounded text-[10px] font-bold uppercase bg-primary/10 text-primary border border-primary/20">Active</span>
+                        </div>
+                        <p class="text-[#61897f] dark:text-white/60 text-sm leading-relaxed mb-2 line-clamp-2">
+                            Providing high-speed internet to 20 lakh BPL families across the state to bridge the digital
+                            divide and democratize internet access.
+                        </p>
+                        <div class="flex items-center gap-4 text-xs font-semibold text-[#111816]/50 dark:text-white/30">
+                            <span class="flex items-center gap-1"><span
+                                    class="material-symbols-outlined text-xs">business_center</span> Dept of IT</span>
+                            <span class="flex items-center gap-1"><span
+                                    class="material-symbols-outlined text-xs">update</span> Updated 2 days ago</span>
+                        </div>
+                    </div>
+                    <div class="flex items-center">
+                        <span
+                            class="material-symbols-outlined text-[#61897f] group-hover:translate-x-1 transition-transform">chevron_right</span>
+                    </div>
+                </div>
+                <!-- Initiative Card 2 -->
+                <div
+                    class="group relative flex flex-col sm:flex-row gap-4 bg-white dark:bg-white/5 p-5 rounded-xl border-l-4 border-amber-400 shadow-sm hover:shadow-md transition-all cursor-pointer">
+                    <div
+                        class="flex-shrink-0 flex items-center justify-center size-14 rounded-xl bg-[#f0f4f3] dark:bg-white/10 text-amber-500 group-hover:scale-105 transition-transform">
+                        <span class="material-symbols-outlined text-3xl">home_work</span>
+                    </div>
+                    <div class="flex flex-1 flex-col">
+                        <div class="flex items-center justify-between mb-1">
+                            <h4 class="text-lg font-bold group-hover:text-amber-500 transition-colors">LIFE Mission</h4>
+                            <span
+                                class="px-2 py-0.5 rounded text-[10px] font-bold uppercase bg-amber-400/10 text-amber-600 border border-amber-400/20">In
+                                Progress</span>
+                        </div>
+                        <p class="text-[#61897f] dark:text-white/60 text-sm leading-relaxed mb-2 line-clamp-2">
+                            A comprehensive housing scheme aiming to provide safe housing for all landless and homeless
+                            people in the state through community participation.
+                        </p>
+                        <div class="flex items-center gap-4 text-xs font-semibold text-[#111816]/50 dark:text-white/30">
+                            <span class="flex items-center gap-1"><span
+                                    class="material-symbols-outlined text-xs">business_center</span> Dept of
+                                Housing</span>
+                            <span class="flex items-center gap-1"><span
+                                    class="material-symbols-outlined text-xs">update</span> Updated 5 days ago</span>
+                        </div>
+                    </div>
+                    <div class="flex items-center">
+                        <span
+                            class="material-symbols-outlined text-[#61897f] group-hover:translate-x-1 transition-transform">chevron_right</span>
+                    </div>
+                </div>
+                <!-- Initiative Card 3 -->
+                <div
+                    class="group relative flex flex-col sm:flex-row gap-4 bg-white dark:bg-white/5 p-5 rounded-xl border-l-4 border-primary shadow-sm hover:shadow-md transition-all cursor-pointer">
+                    <div
+                        class="flex-shrink-0 flex items-center justify-center size-14 rounded-xl bg-[#f0f4f3] dark:bg-white/10 text-primary group-hover:scale-105 transition-transform">
+                        <span class="material-symbols-outlined text-3xl">psychology</span>
+                    </div>
+                    <div class="flex flex-1 flex-col">
+                        <div class="flex items-center justify-between mb-1">
+                            <h4 class="text-lg font-bold group-hover:text-primary transition-colors">K-DISK Innovation
+                                Hub</h4>
+                            <span
+                                class="px-2 py-0.5 rounded text-[10px] font-bold uppercase bg-primary/10 text-primary border border-primary/20">Active</span>
+                        </div>
+                        <p class="text-[#61897f] dark:text-white/60 text-sm leading-relaxed mb-2 line-clamp-2">
+                            Kerala Development and Innovation Strategic Council initiatives focusing on fostering a
+                            culture of innovation and entrepreneurship.
+                        </p>
+                        <div class="flex items-center gap-4 text-xs font-semibold text-[#111816]/50 dark:text-white/30">
+                            <span class="flex items-center gap-1"><span
+                                    class="material-symbols-outlined text-xs">business_center</span> Dept of
+                                Planning</span>
+                            <span class="flex items-center gap-1"><span
+                                    class="material-symbols-outlined text-xs">update</span> Updated 1 week ago</span>
+                        </div>
+                    </div>
+                    <div class="flex items-center">
+                        <span
+                            class="material-symbols-outlined text-[#61897f] group-hover:translate-x-1 transition-transform">chevron_right</span>
+                    </div>
+                </div>
+                <!-- Initiative Card 4 -->
+                <div
+                    class="group relative flex flex-col sm:flex-row gap-4 bg-white dark:bg-white/5 p-5 rounded-xl border-l-4 border-primary shadow-sm hover:shadow-md transition-all cursor-pointer">
+                    <div
+                        class="flex-shrink-0 flex items-center justify-center size-14 rounded-xl bg-[#f0f4f3] dark:bg-white/10 text-primary group-hover:scale-105 transition-transform">
+                        <span class="material-symbols-outlined text-3xl">health_and_safety</span>
+                    </div>
+                    <div class="flex flex-1 flex-col">
+                        <div class="flex items-center justify-between mb-1">
+                            <h4 class="text-lg font-bold group-hover:text-primary transition-colors">Ardram Mission</h4>
+                            <span
+                                class="px-2 py-0.5 rounded text-[10px] font-bold uppercase bg-primary/10 text-primary border border-primary/20">Active</span>
+                        </div>
+                        <p class="text-[#61897f] dark:text-white/60 text-sm leading-relaxed mb-2 line-clamp-2">
+                            Transforming the public health system into a patient-friendly, affordable, and quality
+                            healthcare provider through primary health center upgrades.
+                        </p>
+                        <div class="flex items-center gap-4 text-xs font-semibold text-[#111816]/50 dark:text-white/30">
+                            <span class="flex items-center gap-1"><span
+                                    class="material-symbols-outlined text-xs">business_center</span> Dept of
+                                Health</span>
+                            <span class="flex items-center gap-1"><span
+                                    class="material-symbols-outlined text-xs">update</span> Updated 3 days ago</span>
+                        </div>
+                    </div>
+                    <div class="flex items-center">
+                        <span
+                            class="material-symbols-outlined text-[#61897f] group-hover:translate-x-1 transition-transform">chevron_right</span>
+                    </div>
+                </div>
+            </div>
+        </main>
+        <!-- Fixed Bottom Action Bar -->
+        <div class="fixed bottom-0 left-0 right-0 p-6 z-50 pointer-events-none">
+            <div class="max-w-[960px] mx-auto flex justify-center sm:justify-end">
+                <button
+                    class="pointer-events-auto flex items-center gap-3 bg-primary text-background-dark px-8 py-4 rounded-full font-bold shadow-2xl shadow-primary/40 hover:scale-105 active:scale-95 transition-all">
+                    <span class="material-symbols-outlined">analytics</span>
+                    View Impact Report
+                </button>
+            </div>
+        </div>
+    </div>
+    <!-- Background Decoration -->
+    <div class="fixed top-0 left-0 w-full h-full -z-10 opacity-30 pointer-events-none">
+        <div class="absolute top-[-10%] right-[-10%] w-[40%] h-[40%] bg-primary/10 blur-[120px] rounded-full"></div>
+        <div class="absolute bottom-[-5%] left-[-5%] w-[30%] h-[30%] bg-primary/5 blur-[100px] rounded-full"></div>
+    </div>
+</body>
+
+</html>

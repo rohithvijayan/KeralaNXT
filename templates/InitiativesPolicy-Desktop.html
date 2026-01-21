@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Policy Initiatives Timeline | Kerala Development Showcase</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700;900&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#13ecb2",
+                        "background-light": "#f6f8f7",
+                        "background-dark": "#10221d",
+                    },
+                    fontFamily: {
+                        "display": ["Public Sans", "sans-serif"]
+                    },
+                    borderRadius: { "DEFAULT": "0.5rem", "lg": "1rem", "xl": "1.5rem", "full": "9999px" },
+                },
+            },
+        }
+    </script>
+    <style>
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+        }
+
+        .timeline-line {
+            position: absolute;
+            left: 20px;
+            top: 0;
+            bottom: 0;
+            width: 2px;
+            background: #dbe6e3;
+            z-index: 0;
+        }
+
+        @media (min-width: 1024px) {
+            .timeline-line {
+                left: 50%;
+                transform: translateX(-50%);
+            }
+        }
+    </style>
+</head>
+
+<body class="bg-background-light dark:bg-background-dark font-display text-[#111816] dark:text-white antialiased">
+    <!-- Main Layout Container -->
+    <div class="flex min-h-screen flex-col">
+        <!-- Top Navigation -->
+        <header
+            class="sticky top-0 z-50 w-full border-b border-[#dbe6e3] bg-white/80 dark:bg-background-dark/80 backdrop-blur-md px-6 py-3">
+            <div class="mx-auto flex max-w-[1440px] items-center justify-between">
+                <div class="flex items-center gap-4">
+                    <div class="flex h-10 w-10 items-center justify-center rounded-lg bg-primary text-background-dark">
+                        <span class="material-symbols-outlined font-bold">account_balance</span>
+                    </div>
+                    <div>
+                        <h2 class="text-lg font-bold leading-tight tracking-tight">Kerala Development</h2>
+                        <p class="text-xs font-medium text-[#61897f]">Official Policy Showcase</p>
+                    </div>
+                </div>
+                <div class="flex items-center gap-6">
+                    <nav class="hidden md:flex items-center gap-8 text-sm font-semibold">
+                        <a class="text-primary" href="#">Timeline</a>
+                        <a class="hover:text-primary transition-colors" href="#">Departments</a>
+                        <a class="hover:text-primary transition-colors" href="#">Resources</a>
+                        <a class="hover:text-primary transition-colors" href="#">Archives</a>
+                    </nav>
+                    <div class="flex gap-2">
+                        <button
+                            class="flex h-10 w-10 items-center justify-center rounded-xl bg-[#f0f4f3] dark:bg-white/10 hover:bg-primary/20 transition-colors">
+                            <span class="material-symbols-outlined text-xl">notifications</span>
+                        </button>
+                        <button
+                            class="flex h-10 w-10 items-center justify-center rounded-xl bg-[#f0f4f3] dark:bg-white/10 hover:bg-primary/20 transition-colors">
+                            <span class="material-symbols-outlined text-xl">settings</span>
+                        </button>
+                        <div class="h-10 w-10 rounded-full border-2 border-primary overflow-hidden">
+                            <img class="h-full w-full object-cover" data-alt="User profile avatar"
+                                src="https://lh3.googleusercontent.com/aida-public/AB6AXuBusZIVQfXB40mlsKnq6xPF85TGxKwdNmoJLIwCpnHAXKz63S2m1baWFvnHqm_BV35euGOCEkEfIeMfaPULrMsfi4VKEX-ny9QaWv_VZ0qVxJr9XcqOmkM7qmEXccihz6CJxWszpb_Annil5Agk1uJcgEWQcsULzFUuX9M67C5YwEGbviXsO9JU-l9Uwchi0fPFZo9YOMfE57vYYGbKB3LfpJ2OBTpLsF9rRPCkEc8Kc7oyqm4XR86BkrVTDMFVMroG7kw5bgaN5GQ" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <div class="mx-auto flex w-full max-w-[1440px] flex-1">
+            <!-- Fixed Sidebar -->
+            <aside
+                class="sticky top-[73px] hidden h-[calc(100vh-73px)] w-[320px] shrink-0 border-r border-[#dbe6e3] bg-white dark:bg-background-dark p-6 lg:flex flex-col gap-8 overflow-y-auto">
+                <!-- Quick Stats Section -->
+                <div class="flex flex-col gap-4">
+                    <h3 class="text-xs font-bold uppercase tracking-wider text-[#61897f]">State Overview</h3>
+                    <div class="flex flex-col gap-3">
+                        <div
+                            class="flex flex-col gap-1 rounded-xl border border-[#dbe6e3] p-4 bg-background-light dark:bg-white/5">
+                            <div class="flex items-center justify-between">
+                                <span class="material-symbols-outlined text-primary">description</span>
+                                <span
+                                    class="text-[10px] font-bold text-primary bg-primary/10 px-2 py-0.5 rounded-full">+12%</span>
+                            </div>
+                            <p class="text-2xl font-black">150+</p>
+                            <p class="text-xs font-medium text-[#61897f]">Total Initiatives</p>
+                        </div>
+                        <div
+                            class="flex flex-col gap-1 rounded-xl border border-[#dbe6e3] p-4 bg-background-light dark:bg-white/5">
+                            <div class="flex items-center justify-between">
+                                <span class="material-symbols-outlined text-primary">account_balance_wallet</span>
+                                <span
+                                    class="text-[10px] font-bold text-primary bg-primary/10 px-2 py-0.5 rounded-full">FY24-25</span>
+                            </div>
+                            <p class="text-2xl font-black">₹85,000 Cr</p>
+                            <p class="text-xs font-medium text-[#61897f]">Budget Allocated</p>
+                        </div>
+                        <div
+                            class="flex flex-col gap-1 rounded-xl border border-[#dbe6e3] p-4 bg-background-light dark:bg-white/5">
+                            <div class="flex items-center justify-between">
+                                <span class="material-symbols-outlined text-primary">groups</span>
+                                <span
+                                    class="text-[10px] font-bold text-primary bg-primary/10 px-2 py-0.5 rounded-full">Active</span>
+                            </div>
+                            <p class="text-2xl font-black">3.5Cr+</p>
+                            <p class="text-xs font-medium text-[#61897f]">Total Beneficiaries</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Category Filters -->
+                <div class="flex flex-col gap-4">
+                    <h3 class="text-xs font-bold uppercase tracking-wider text-[#61897f]">Filter by Sector</h3>
+                    <div class="space-y-1">
+                        <label
+                            class="flex items-center gap-3 cursor-pointer group py-1.5 px-2 rounded-lg hover:bg-background-light dark:hover:bg-white/5">
+                            <input checked="" class="h-5 w-5 rounded border-[#dbe6e3] text-primary focus:ring-primary"
+                                type="checkbox" />
+                            <span class="text-sm font-medium">Infrastructure</span>
+                        </label>
+                        <label
+                            class="flex items-center gap-3 cursor-pointer group py-1.5 px-2 rounded-lg hover:bg-background-light dark:hover:bg-white/5">
+                            <input checked="" class="h-5 w-5 rounded border-[#dbe6e3] text-primary focus:ring-primary"
+                                type="checkbox" />
+                            <span class="text-sm font-medium">Digital Economy</span>
+                        </label>
+                        <label
+                            class="flex items-center gap-3 cursor-pointer group py-1.5 px-2 rounded-lg hover:bg-background-light dark:hover:bg-white/5">
+                            <input class="h-5 w-5 rounded border-[#dbe6e3] text-primary focus:ring-primary"
+                                type="checkbox" />
+                            <span class="text-sm font-medium">Healthcare</span>
+                        </label>
+                        <label
+                            class="flex items-center gap-3 cursor-pointer group py-1.5 px-2 rounded-lg hover:bg-background-light dark:hover:bg-white/5">
+                            <input class="h-5 w-5 rounded border-[#dbe6e3] text-primary focus:ring-primary"
+                                type="checkbox" />
+                            <span class="text-sm font-medium">Education</span>
+                        </label>
+                        <label
+                            class="flex items-center gap-3 cursor-pointer group py-1.5 px-2 rounded-lg hover:bg-background-light dark:hover:bg-white/5">
+                            <input checked="" class="h-5 w-5 rounded border-[#dbe6e3] text-primary focus:ring-primary"
+                                type="checkbox" />
+                            <span class="text-sm font-medium">Social Welfare</span>
+                        </label>
+                    </div>
+                </div>
+                <!-- Help Section -->
+                <div class="mt-auto pt-6 border-t border-[#dbe6e3]">
+                    <div class="rounded-xl bg-primary/10 p-4">
+                        <p class="text-xs font-bold text-primary mb-1">Support Portal</p>
+                        <p class="text-[11px] leading-relaxed mb-3">Need assistance or official reports regarding these
+                            policies?</p>
+                        <button class="w-full rounded-lg bg-primary py-2 text-xs font-bold text-background-dark">Contact
+                            Secretariat</button>
+                    </div>
+                </div>
+            </aside>
+            <!-- Main Content Area -->
+            <main class="flex-1 p-8 lg:p-12 overflow-x-hidden">
+                <!-- Page Header & Search -->
+                <div class="mb-12">
+                    <div class="flex flex-col md:flex-row md:items-end justify-between gap-6 mb-8">
+                        <div class="max-w-2xl">
+                            <nav class="flex items-center gap-2 text-xs font-semibold text-[#61897f] mb-4">
+                                <a href="#">Dashboard</a>
+                                <span class="material-symbols-outlined text-[14px]">chevron_right</span>
+                                <span class="text-primary">Policy Timeline</span>
+                            </nav>
+                            <h1 class="text-4xl lg:text-5xl font-black tracking-tight mb-4">Policy Initiatives <span
+                                    class="text-primary">2016-2025</span></h1>
+                            <p class="text-lg text-[#61897f] font-medium leading-relaxed">Tracking state reforms,
+                                flagship missions, and strategic development projects shaping the future of Kerala.</p>
+                        </div>
+                    </div>
+                    <div class="relative flex w-full max-w-4xl items-center gap-3">
+                        <div class="relative flex-1">
+                            <span
+                                class="material-symbols-outlined absolute left-4 top-1/2 -translate-y-1/2 text-[#61897f]">search</span>
+                            <input
+                                class="w-full rounded-xl border-2 border-[#dbe6e3] bg-white dark:bg-white/5 py-4 pl-12 pr-4 focus:border-primary focus:ring-0 transition-all text-sm font-medium"
+                                placeholder="Search by initiative name, department, or keyword..." type="text" />
+                        </div>
+                        <button
+                            class="flex items-center gap-2 rounded-xl bg-white dark:bg-white/5 border-2 border-[#dbe6e3] px-6 py-4 text-sm font-bold hover:bg-background-light dark:hover:bg-white/10 transition-all">
+                            <span class="material-symbols-outlined">filter_list</span>
+                            Sort
+                        </button>
+                    </div>
+                </div>
+                <!-- Timeline Container -->
+                <div class="relative">
+                    <!-- Vertical Line -->
+                    <div class="timeline-line"></div>
+                    <!-- Timeline Content -->
+                    <div class="space-y-16">
+                        <!-- Year Segment: 2024 -->
+                        <div class="relative">
+                            <div class="sticky top-24 z-10 mb-8 flex lg:justify-center">
+                                <span
+                                    class="rounded-full bg-primary px-6 py-2 text-sm font-black text-background-dark shadow-lg shadow-primary/20">2024</span>
+                            </div>
+                            <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 relative">
+                                <!-- Initiative 1 (Left/Single Col) -->
+                                <div class="relative lg:pr-12">
+                                    <div
+                                        class="group relative rounded-xl border-t-4 border-t-primary bg-white dark:bg-white/5 p-6 shadow-sm hover:shadow-xl transition-all duration-300">
+                                        <div class="flex items-start justify-between mb-4">
+                                            <div>
+                                                <span
+                                                    class="text-[10px] font-bold uppercase tracking-widest text-[#61897f]">Infrastructure</span>
+                                                <h3 class="text-xl font-bold mt-1">SilverLine Semi High-Speed Rail</h3>
+                                            </div>
+                                            <span
+                                                class="rounded bg-primary/10 px-2 py-1 text-[10px] font-bold text-primary">PHASE
+                                                II</span>
+                                        </div>
+                                        <p class="text-sm text-[#61897f] leading-relaxed mb-6">Strategic infrastructure
+                                            project connecting Thiruvananthapuram and Kasaragod in less than 4 hours.
+                                            Focus on eco-friendly transport and urban-rural connectivity.</p>
+                                        <div class="flex flex-wrap gap-2">
+                                            <div
+                                                class="flex items-center gap-1.5 rounded-full bg-background-light dark:bg-white/10 px-3 py-1.5">
+                                                <span
+                                                    class="material-symbols-outlined text-[16px] text-primary">trending_up</span>
+                                                <span class="text-[11px] font-bold">530km Length</span>
+                                            </div>
+                                            <div
+                                                class="flex items-center gap-1.5 rounded-full bg-background-light dark:bg-white/10 px-3 py-1.5">
+                                                <span
+                                                    class="material-symbols-outlined text-[16px] text-primary">attach_money</span>
+                                                <span class="text-[11px] font-bold">₹64,000 Cr</span>
+                                            </div>
+                                            <div
+                                                class="flex items-center gap-1.5 rounded-full bg-background-light dark:bg-white/10 px-3 py-1.5">
+                                                <span
+                                                    class="material-symbols-outlined text-[16px] text-primary">eco</span>
+                                                <span class="text-[11px] font-bold">Green Corridor</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Timeline Node -->
+                                    <div
+                                        class="hidden lg:block absolute right-[-7px] top-10 h-3 w-3 rounded-full border-2 border-primary bg-white dark:bg-background-dark z-10">
+                                    </div>
+                                </div>
+                                <!-- Initiative 2 (Right Col) -->
+                                <div class="relative lg:pl-12 lg:mt-24">
+                                    <div
+                                        class="group relative rounded-xl border-t-4 border-t-emerald-400 bg-white dark:bg-white/5 p-6 shadow-sm hover:shadow-xl transition-all duration-300">
+                                        <div class="flex items-start justify-between mb-4">
+                                            <div>
+                                                <span
+                                                    class="text-[10px] font-bold uppercase tracking-widest text-[#61897f]">Digital
+                                                    Economy</span>
+                                                <h3 class="text-xl font-bold mt-1">K-FON Expansion</h3>
+                                            </div>
+                                            <span
+                                                class="rounded bg-emerald-400/10 px-2 py-1 text-[10px] font-bold text-emerald-400">ONGOING</span>
+                                        </div>
+                                        <p class="text-sm text-[#61897f] leading-relaxed mb-6">Universal internet access
+                                            as a basic right. Expansion of high-speed fibre optic network to 14,000+
+                                            government offices and 20 lakh BPL families.</p>
+                                        <div class="flex flex-wrap gap-2">
+                                            <div
+                                                class="flex items-center gap-1.5 rounded-full bg-background-light dark:bg-white/10 px-3 py-1.5">
+                                                <span
+                                                    class="material-symbols-outlined text-[16px] text-emerald-400">group</span>
+                                                <span class="text-[11px] font-bold">20L+ BPL Homes</span>
+                                            </div>
+                                            <div
+                                                class="flex items-center gap-1.5 rounded-full bg-background-light dark:bg-white/10 px-3 py-1.5">
+                                                <span
+                                                    class="material-symbols-outlined text-[16px] text-emerald-400">wifi</span>
+                                                <span class="text-[11px] font-bold">100 Mbps+</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Timeline Node -->
+                                    <div
+                                        class="hidden lg:block absolute left-[-7px] top-10 h-3 w-3 rounded-full border-2 border-emerald-400 bg-white dark:bg-background-dark z-10">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Year Segment: 2023 -->
+                        <div class="relative">
+                            <div class="sticky top-24 z-10 mb-8 flex lg:justify-center">
+                                <span
+                                    class="rounded-full border border-[#dbe6e3] bg-white dark:bg-background-dark px-6 py-2 text-sm font-black shadow-lg">2023</span>
+                            </div>
+                            <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 relative">
+                                <!-- Spacer for left column -->
+                                <div class="hidden lg:block"></div>
+                                <!-- Initiative 3 -->
+                                <div class="relative lg:pl-12">
+                                    <div
+                                        class="group relative rounded-xl border-t-4 border-t-amber-400 bg-white dark:bg-white/5 p-6 shadow-sm hover:shadow-xl transition-all duration-300">
+                                        <div class="flex items-start justify-between mb-4">
+                                            <div>
+                                                <span
+                                                    class="text-[10px] font-bold uppercase tracking-widest text-[#61897f]">Social
+                                                    Welfare</span>
+                                                <h3 class="text-xl font-bold mt-1">LIFE Mission Phase III</h3>
+                                            </div>
+                                            <span
+                                                class="rounded bg-amber-400/10 px-2 py-1 text-[10px] font-bold text-amber-400">COMPLETED</span>
+                                        </div>
+                                        <p class="text-sm text-[#61897f] leading-relaxed mb-6">Comprehensive housing
+                                            scheme providing secure homes for over 3 lakh families. Integration of
+                                            livelihood support and healthcare access.</p>
+                                        <div class="flex flex-wrap gap-2">
+                                            <div
+                                                class="flex items-center gap-1.5 rounded-full bg-background-light dark:bg-white/10 px-3 py-1.5">
+                                                <span
+                                                    class="material-symbols-outlined text-[16px] text-amber-400">home</span>
+                                                <span class="text-[11px] font-bold">3.5L Houses</span>
+                                            </div>
+                                            <div
+                                                class="flex items-center gap-1.5 rounded-full bg-background-light dark:bg-white/10 px-3 py-1.5">
+                                                <span
+                                                    class="material-symbols-outlined text-[16px] text-amber-400">payments</span>
+                                                <span class="text-[11px] font-bold">₹12,000 Cr Spent</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Timeline Node -->
+                                    <div
+                                        class="hidden lg:block absolute left-[-7px] top-10 h-3 w-3 rounded-full border-2 border-amber-400 bg-white dark:bg-background-dark z-10">
+                                    </div>
+                                </div>
+                                <!-- Initiative 4 -->
+                                <div class="relative lg:pr-12 lg:-mt-12">
+                                    <div
+                                        class="group relative rounded-xl border-t-4 border-t-sky-400 bg-white dark:bg-white/5 p-6 shadow-sm hover:shadow-xl transition-all duration-300">
+                                        <div class="flex items-start justify-between mb-4">
+                                            <div>
+                                                <span
+                                                    class="text-[10px] font-bold uppercase tracking-widest text-[#61897f]">Healthcare</span>
+                                                <h3 class="text-xl font-bold mt-1">Aardram Mission 2.0</h3>
+                                            </div>
+                                            <span
+                                                class="rounded bg-sky-400/10 px-2 py-1 text-[10px] font-bold text-sky-400">SYSTEM
+                                                REFORM</span>
+                                        </div>
+                                        <p class="text-sm text-[#61897f] leading-relaxed mb-6">Transforming primary
+                                            health centers into Family Health Centers with patient-friendly
+                                            infrastructure and expanded clinical services.</p>
+                                        <div class="flex flex-wrap gap-2">
+                                            <div
+                                                class="flex items-center gap-1.5 rounded-full bg-background-light dark:bg-white/10 px-3 py-1.5">
+                                                <span
+                                                    class="material-symbols-outlined text-[16px] text-sky-400">medical_services</span>
+                                                <span class="text-[11px] font-bold">800+ FHCs</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Timeline Node -->
+                                    <div
+                                        class="hidden lg:block absolute right-[-7px] top-10 h-3 w-3 rounded-full border-2 border-sky-400 bg-white dark:bg-background-dark z-10">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Load More / Footer -->
+                <div class="mt-24 text-center">
+                    <button
+                        class="inline-flex items-center gap-2 rounded-xl bg-background-dark dark:bg-primary px-8 py-4 text-sm font-bold text-white dark:text-background-dark hover:opacity-90 transition-all">
+                        <span class="material-symbols-outlined">history</span>
+                        View Policy Archive (Pre-2016)
+                    </button>
+                    <p class="mt-8 text-xs font-medium text-[#61897f]">© 2024 Government of Kerala. All policy data is
+                        current as of June 2024.</p>
+                </div>
+            </main>
+        </div>
+    </div>
+</body>
+
+</html>

@@ -28,6 +28,7 @@ function Header({ showBack = false, title = "Kerala Showcase", onBack }) {
                     <nav className="header-nav">
                         <Link to="/" className="header-nav-link active">Home</Link>
                         <Link to="/projects" className="header-nav-link">Projects</Link>
+                        <Link to="/initiatives" className="header-nav-link">Policies & Initiatives</Link>
                         <Link to="/about" className="header-nav-link">About</Link>
                     </nav>
                 )}

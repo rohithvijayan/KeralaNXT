@@ -1,5 +1,6 @@
+import { useState, useMemo } from 'react'
 import { useNavigate } from 'react-router-dom'
-import { motion } from 'framer-motion'
+import { motion, AnimatePresence } from 'framer-motion'
 import Header from '../components/Header'
 import './AboutPage.css'
 
@@ -16,13 +17,127 @@ const leadership = [
         id: 1,
         name: 'Shri. Pinarayi Vijayan',
         title: "Hon'ble Chief Minister",
-        image: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/202503/pinarayi-vijayan-252206944-16x9.png?VersionId=IwqEDhi9G_kSIDB4MCur9PY.NHgtufjb&size=690:388'
+        image: 'https://media.licdn.com/dms/image/v2/D4E03AQG07S2RCr12JA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1721387982183?e=2147483647&v=beta&t=phfKoe458ElcjJdMc0xyYqSfe14tqjq3-EtEdBbzJ0c'
     },
     {
         id: 2,
-        name: 'Shri. P. Rajeeve',
-        title: 'Minister for Industries',
-        image: 'https://pbs.twimg.com/profile_images/1848690856120786944/H4xLzX3__400x400.jpg'
+        name: 'Shri. K. Rajan',
+        title: "Hon'ble Minister for Revenue",
+        image: 'https://lh6.googleusercontent.com/proxy/a4kfnlIm855AcwUVJS5r5XgxtT81selI2uKNfFtFpwcQ2N4PIqSv0UDBmNK1UhIp9dig1RaS6ESn2-kRPonznya1sf0BHre1T4MEcGnBn3YHipcI_za1PKV6eJSbYrJMkWo'
+    },
+    {
+        id: 3,
+        name: 'Shri. Roshy Augustine',
+        title: "Hon'ble Minister for Water Resources",
+        image: 'https://minister-waterresources.kerala.gov.in/wp-content/uploads/2021/06/minister-irrigation-273x300.jpg'
+    },
+    {
+        id: 4,
+        name: 'Shri. K. Krishnankutty',
+        title: "Hon'ble Minister for Electricity",
+        image: 'https://minister-electricity.kerala.gov.in/wp-content/uploads/2021/10/08a-scaled.jpg'
+    },
+    {
+        id: 5,
+        name: 'Shri. A.K. Saseendran',
+        title: "Hon'ble Minister for Forests and Wildlife",
+        image: 'https://lh6.googleusercontent.com/proxy/TnpcwTh_TWRBK4HSFug-C917Ok1Qs-XKT3PGOBkgeKZYjwr10R06zCSFZ2sxmzY5iZz19GHBdEG_JLe9ZBGj-oVLYbC31Iy04bM8GsLiUOkGqSa1kL7gFRsgZNJ_pb34U8sartZfaY5JtcA'
+    },
+    {
+        id: 6,
+        name: 'Shri. K.N. Balagopal',
+        title: "Hon'ble Minister for Finance",
+        image: 'https://minister-finance.kerala.gov.in/wp-content/uploads/2021/09/profilekn.png'
+    },
+    {
+        id: 7,
+        name: 'Dr. R. Bindu',
+        title: "Hon'ble Minister for Higher Education and Social Justice",
+        image: 'https://minister-highereducation.kerala.gov.in/wp-content/uploads/2021/08/bindhu_minister-273x300.jpg'
+    },
+    {
+        id: 8,
+        name: 'Smt. J. Chinchu Rani',
+        title: "Hon'ble Minister for Animal Husbandry and Dairy Development",
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4_Ql7n2BPGi3olw2ELXiWLXbyr7iZKQ0VEg&s'
+    },
+    {
+        id: 9,
+        name: 'Shri. P.A. Mohammed Riyas',
+        title: "Hon'ble Minister for Public Works and Tourism",
+        image: 'https://minister-pwd.kerala.gov.in/wp-content/uploads/2021/08/Mohamed-Riyas.jpg'
+    },
+    {
+        id: 10,
+        name: 'Shri. P. Prasad',
+        title: "Hon'ble Minister for Agriculture",
+        image: 'https://minister-agriculture.kerala.gov.in/wp-content/uploads/2021/09/prasad-profile.jpg'
+    },
+    {
+        id: 11,
+        name: 'Shri. P. Rajeev',
+        title: "Hon'ble Minister for Industries and Law",
+        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/P._Rajeev_2023.tif/lossy-page1-800px-P._Rajeev_2023.tif.jpg'
+    },
+    {
+        id: 12,
+        name: 'Shri. Saji Cherian',
+        title: "Hon'ble Minister for Fisheries and Culture",
+        image: 'https://minister-fisheries.kerala.gov.in/wp-content/uploads/2021/08/sajicheriyan_profile.png'
+    },
+    {
+        id: 13,
+        name: 'Shri. V. Sivankutty',
+        title: "Hon'ble Minister for General Education and Labour",
+        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/V_sivankutty.jpg/1200px-V_sivankutty.jpg'
+    },
+    {
+        id: 14,
+        name: 'Shri. V.N. Vasavan',
+        title: "Hon'ble Minister for Cooperation and Registration",
+        image: 'https://upload.wikimedia.org/wikipedia/commons/6/69/Vasavanmla.jpg'
+    },
+    {
+        id: 15,
+        name: 'Smt. Veena George',
+        title: "Hon'ble Minister for Health and Family Welfare",
+        image: 'https://minister-health.kerala.gov.in/wp-content/uploads/2021/09/veenageorge-274x300.jpg'
+    },
+    {
+        id: 16,
+        name: 'Shri. V. Abdurahiman',
+        title: "Hon'ble Minister for Sports and Wakf",
+        image: 'https://minister-sports.kerala.gov.in/wp-content/uploads/2021/08/Shri.-V.-Abdurahiman.jpg'
+    },
+    {
+        id: 17,
+        name: 'Shri. G.R. Anil',
+        title: "Hon'ble Minister for Food and Civil Supplies",
+        image: 'https://minister-food.kerala.gov.in/wp-content/uploads/2021/08/Adv.-G.-R.-Anil-273x300.jpg'
+    },
+    {
+        id: 18,
+        name: 'Shri. M.B. Rajesh',
+        title: "Hon'ble Minister for Local Self-Government",
+        image: 'https://minister-lsg.kerala.gov.in/wp-content/uploads/2022/09/mbrajesh-1.png'
+    },
+    {
+        id: 19,
+        name: 'Shri. O.R. Kelu',
+        title: "Hon'ble Minister for Welfare of SC/ST and Devaswoms",
+        image: 'https://www.deccanchronicle.com/h-upload/2024/06/20/1098470-orkelu.jpg'
+    },
+    {
+        id: 20,
+        name: 'Shri. K.B. Ganesh Kumar',
+        title: "Hon'ble Minister for Transport",
+        image: 'https://minister-transport.kerala.gov.in/wp-content/uploads/2024/01/414896051_940715817674953_512883159468637855_n-1.jpg'
+    },
+    {
+        id: 21,
+        name: 'Shri. Kadannappalli Ramachandran',
+        title: "Hon'ble Minister for Ports",
+        image: 'https://minister-registration.kerala.gov.in/wp-content/uploads/2024/01/IMG_6710-1-scaled.jpg'
     }
 ]
 
@@ -35,6 +150,62 @@ const quickLinks = [
 
 function AboutPage() {
     const navigate = useNavigate()
+    const [leaderIndex, setLeaderIndex] = useState(0) // Desktop slider
+    const [mobileIndex, setMobileIndex] = useState(0) // Mobile mini cards slider
+    const cardsToShow = 5
+    const miniCardsToShow = 4
+
+    const nextLeader = () => {
+        setLeaderIndex((prev) => (prev + 1) % leadership.length)
+    }
+
+    const prevLeader = () => {
+        setLeaderIndex((prev) => (prev - 1 + leadership.length) % leadership.length)
+    }
+
+    const nextMobile = () => {
+        const remaining = leadership.length - 1 // Exclude CM (20 ministers)
+        const totalPages = Math.ceil(remaining / miniCardsToShow) // 5 pages
+        setMobileIndex((prev) => {
+            const nextPage = prev + miniCardsToShow
+            return nextPage >= remaining ? 0 : nextPage
+        })
+    }
+
+    const prevMobile = () => {
+        const remaining = leadership.length - 1 // Exclude CM (20 ministers)
+        setMobileIndex((prev) => {
+            const prevPage = prev - miniCardsToShow
+            // Wrap to last valid page if going below 0
+            if (prevPage < 0) {
+                const lastPageStart = Math.floor((remaining - 1) / miniCardsToShow) * miniCardsToShow
+                return lastPageStart
+            }
+            return prevPage
+        })
+    }
+
+    // Chief Minister is always index 0
+    const cm = leadership[0]
+
+    // Get remaining ministers (excluding CM) for mobile view
+    const remainingLeaders = leadership.slice(1)
+
+    const visibleMiniLeaders = useMemo(() => {
+        const result = []
+        for (let i = 0; i < miniCardsToShow; i++) {
+            result.push(remainingLeaders[(mobileIndex + i) % remainingLeaders.length])
+        }
+        return result
+    }, [mobileIndex])
+
+    const visibleLeaders = useMemo(() => {
+        const result = []
+        for (let i = 0; i < cardsToShow; i++) {
+            result.push(leadership[(leaderIndex + i) % leadership.length])
+        }
+        return result
+    }, [leaderIndex])
 
     return (
         <div className="about-page">
@@ -101,30 +272,97 @@ function AboutPage() {
             </section>
 
             {/* Leadership Section */}
-            <section className="about-section">
+            <section className="about-section leadership-section">
                 <h2 className="about-section-title">
                     <span className="section-indicator"></span>
                     Leadership
                 </h2>
-                <div className="about-leadership-grid">
-                    {leadership.map((leader, index) => (
-                        <motion.div
-                            key={leader.id}
-                            className="leadership-card"
-                            initial={{ opacity: 0, scale: 0.95 }}
-                            animate={{ opacity: 1, scale: 1 }}
-                            transition={{ delay: 0.2 + index * 0.1 }}
-                        >
-                            <div
-                                className="leadership-avatar"
-                                style={{ backgroundImage: `url(${leader.image})` }}
-                            ></div>
-                            <div className="leadership-info">
-                                <h3 className="leadership-name">{leader.name}</h3>
-                                <p className="leadership-title">{leader.title}</p>
+
+                {/* Mobile View: CM Prominent Card + Others Flex Column */}
+                <div className="leadership-mobile-view">
+                    <div className="cm-prominent-card">
+                        <div
+                            className="leadership-avatar cm-avatar"
+                            style={{ backgroundImage: `url(${cm.image})` }}
+                        ></div>
+                        <div className="leadership-info">
+                            <h3 className="leadership-name">{cm.name}</h3>
+                            <p className="leadership-title">{cm.title}</p>
+                        </div>
+                    </div>
+
+                    <div className="mobile-mini-slider">
+                        <button className="mobile-slider-btn prev" onClick={prevMobile} aria-label="Previous">
+                            <span className="material-symbols-outlined">chevron_left</span>
+                        </button>
+
+                        <div className="mobile-mini-container">
+                            <AnimatePresence mode='wait'>
+                                <motion.div
+                                    key={mobileIndex}
+                                    className="mobile-mini-track"
+                                    initial={{ x: 20, opacity: 0 }}
+                                    animate={{ x: 0, opacity: 1 }}
+                                    exit={{ x: -20, opacity: 0 }}
+                                    transition={{ duration: 0.4, ease: 'easeInOut' }}
+                                >
+                                    {visibleMiniLeaders.map((leader) => (
+                                        <div key={leader.id} className="leadership-card-mini">
+                                            <div
+                                                className="leadership-avatar mini-avatar"
+                                                style={{ backgroundImage: `url(${leader.image})` }}
+                                            ></div>
+                                            <div className="leadership-info">
+                                                <h4 className="leadership-name">{leader.name}</h4>
+                                                <p className="leadership-title">{leader.title}</p>
+                                            </div>
+                                        </div>
+                                    ))}
+                                </motion.div>
+                            </AnimatePresence>
+                        </div>
+
+                        <button className="mobile-slider-btn next" onClick={nextMobile} aria-label="Next">
+                            <span className="material-symbols-outlined">chevron_right</span>
+                        </button>
+                    </div>
+                </div>
+
+                {/* Desktop View: 5 Cards Slider */}
+                <div className="leadership-desktop-slider">
+                    <button className="slider-btn prev" onClick={prevLeader} aria-label="Previous">
+                        <span className="material-symbols-outlined">chevron_left</span>
+                    </button>
+
+                    <div className="slider-container">
+                        <AnimatePresence mode='popLayout'>
+                            <div className="slider-track">
+                                {visibleLeaders.map((leader, index) => (
+                                    <motion.div
+                                        key={leader.id}
+                                        className="leadership-card"
+                                        initial={{ opacity: 0, x: 20 }}
+                                        animate={{ opacity: 1, x: 0 }}
+                                        exit={{ opacity: 0, x: -20 }}
+                                        transition={{ duration: 0.3, delay: index * 0.05 }}
+                                    >
+                                        <div
+                                            className="leadership-avatar"
+                                            style={{ backgroundImage: `url(${leader.image})` }}
+                                        ></div>
+                                        <div className="leadership-info">
+                                            <h3 className="leadership-name">{leader.name}</h3>
+                                            <p className="leadership-title">{leader.title}</p>
+                                        </div>
+                                    </motion.div>
+                                ))}
                             </div>
-                        </motion.div>
-                    ))}
+                        </AnimatePresence>
+                    </div>
+
+                    <button className="slider-btn next" onClick={nextLeader} aria-label="Next">
+                        <span className="material-symbols-outlined">chevron_right</span>
+                    </button>
                 </div>
             </section>
 

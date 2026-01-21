@@ -1,0 +1,349 @@
+{
+    "initiatives": [
+        {
+            "id": "init-001",
+            "title": "Anti-CAA Resolution",
+            "shortTitle": "Anti-CAA",
+            "category": "political",
+            "department": "Home Department / Parliamentary Affairs",
+            "year": 2019,
+            "status": "passed",
+            "budget": "N/A",
+            "beneficiaries": "General Population",
+            "impactLevel": "high",
+            "description": "First state in India to pass a resolution demanding the repeal of the Citizenship Amendment Act (CAA) and filed a suit in the Supreme Court.",
+            "keyPoints": [
+                "Unanimous assembly resolution",
+                "Supreme Court suit under Article 131",
+                "Refusal to implement NPR"
+            ],
+            "tags": [
+                "Federalism",
+                "Secularism",
+                "Legislative"
+            ]
+        },
+        {
+            "id": "init-002",
+            "title": "Resolution Against Farm Laws",
+            "shortTitle": "Farm Laws Res.",
+            "category": "political",
+            "department": "Parliamentary Affairs",
+            "year": 2020,
+            "status": "passed",
+            "budget": "N/A",
+            "beneficiaries": "Farmers",
+            "impactLevel": "medium",
+            "description": "Legislative resolution rejecting the three central farm laws and expressing solidarity with protesting farmers.",
+            "keyPoints": [
+                "Unanimous resolution",
+                "Critique of corporate favoritism",
+                "Solidarity with national protests"
+            ],
+            "tags": [
+                "Agriculture",
+                "Federalism",
+                "Protest"
+            ]
+        },
+        {
+            "id": "init-003",
+            "title": "Resolution Against Uniform Civil Code (UCC)",
+            "shortTitle": "Anti-UCC",
+            "category": "political",
+            "department": "Parliamentary Affairs",
+            "year": 2023,
+            "status": "passed",
+            "budget": "N/A",
+            "beneficiaries": "Minority Communities",
+            "impactLevel": "high",
+            "description": "First state assembly to pass a resolution urging the Central Government not to implement the UCC, citing threats to pluralism.",
+            "keyPoints": [
+                "Unanimous resolution",
+                "Protection of cultural diversity",
+                "Objection to unilateral implementation"
+            ],
+            "tags": [
+                "Secularism",
+                "Constitution",
+                "Minority Rights"
+            ]
+        },
+        {
+            "id": "init-004",
+            "title": "Recall of Lakshadweep Administrator",
+            "shortTitle": "Lakshadweep Res.",
+            "category": "political",
+            "department": "Parliamentary Affairs",
+            "year": 2021,
+            "status": "passed",
+            "budget": "N/A",
+            "beneficiaries": "People of Lakshadweep",
+            "impactLevel": "medium",
+            "description": "Resolution demanding the recall of the Lakshadweep administrator due to controversial reforms affecting the islanders' culture and livelihood.",
+            "keyPoints": [
+                "Solidarity with islanders",
+                "Condemnation of administrative reforms",
+                "cultural protection"
+            ],
+            "tags": [
+                "Federalism",
+                "Neighborhood",
+                "Culture"
+            ]
+        },
+        {
+            "id": "init-005",
+            "title": "Renaming 'Colonies' to 'Unnathi'",
+            "shortTitle": "Unnathi Renaming",
+            "category": "social justice",
+            "department": "SC/ST Development Department",
+            "year": 2024,
+            "status": "ongoing",
+            "budget": "Administrative",
+            "beneficiaries": "SC/ST Communities",
+            "impactLevel": "high",
+            "description": "Official order to abolish the colonial term 'Colony' for SC/ST settlements, replacing it with dignified terms like 'Unnathi', 'Nagar', or 'Prakrithi'.",
+            "keyPoints": [
+                "Removal of colonial stigma",
+                "Adoption of 'Unnathi' (Progress)",
+                "Dignity in naming"
+            ],
+            "tags": [
+                "Social Justice",
+                "Anti-Colonial",
+                "Dignity"
+            ]
+        },
+        {
+            "id": "init-006",
+            "title": "Gender-Neutrality in Education",
+            "shortTitle": "Gender-Neutral Edu",
+            "category": "education",
+            "department": "General Education Department",
+            "year": 2021,
+            "status": "ongoing",
+            "budget": "State Education Budget",
+            "beneficiaries": "School Students",
+            "impactLevel": "high",
+            "description": "Comprehensive reforms to introduce gender-neutral uniforms, textbooks breaking stereotypes, and gender-neutral forms of address for teachers.",
+            "keyPoints": [
+                "Unisex uniforms (pants/shirts)",
+                "Textbooks showing men cooking",
+                "Use of 'Teacher' instead of Sir/Madam"
+            ],
+            "tags": [
+                "Gender Equality",
+                "Education Reform",
+                "Progressive"
+            ]
+        },
+        {
+            "id": "init-007",
+            "title": "Transgender Policy Implementation",
+            "shortTitle": "Transgender Justice",
+            "category": "social welfare",
+            "department": "Social Justice Department",
+            "year": 2016,
+            "status": "ongoing",
+            "budget": "₹15 Lakh (max housing aid)",
+            "beneficiaries": "Transgender Community",
+            "impactLevel": "high",
+            "description": "Operationalization of Transgender Policy including housing schemes, ID cards, and reservation in education.",
+            "keyPoints": [
+                "Transgender Justice Board",
+                "Housing aid up to ₹15 Lakh",
+                "Education reservation"
+            ],
+            "tags": [
+                "LGBTQ+",
+                "Social Justice",
+                "Housing"
+            ]
+        },
+        {
+            "id": "init-008",
+            "title": "K-FON (Kerala Fibre Optic Network)",
+            "shortTitle": "K-FON",
+            "category": "digital",
+            "department": "IT Department / KSITIL",
+            "year": 2021,
+            "status": "ongoing",
+            "budget": "₹1,548 Cr",
+            "beneficiaries": "20 Lakh+ Families / 30k Govt Offices",
+            "impactLevel": "high",
+            "description": "State-wide fiber optic network providing free internet to BPL families and affordable access to others, declaring internet a basic right.",
+            "keyPoints": [
+                "Internet as a Basic Human Right",
+                "30,000 km optical fiber",
+                "Free for BPL households"
+            ],
+            "tags": [
+                "Digital Infrastructure",
+                "Connectivity",
+                "Rights-Based"
+            ]
+        },
+        {
+            "id": "init-009",
+            "title": "LIFE Mission",
+            "shortTitle": "LIFE Mission",
+            "category": "housing",
+            "department": "Local Self Government Department (LSGD)",
+            "year": 2017,
+            "status": "ongoing",
+            "budget": "Multi-crore (Convergence)",
+            "beneficiaries": "3.65 Lakh+ Houses",
+            "impactLevel": "very high",
+            "description": "Comprehensive housing mission to provide safe housing for all landless and homeless families in the state.",
+            "keyPoints": [
+                "3,65,531 houses completed (Dec 2023)",
+                "Convergence of housing schemes",
+                "Livelihood inclusion focus"
+            ],
+            "tags": [
+                "Housing",
+                "Welfare",
+                "Poverty Alleviation"
+            ]
+        },
+        {
+            "id": "init-010",
+            "title": "Aardram Mission",
+            "shortTitle": "Aardram",
+            "category": "health",
+            "department": "Health & Family Welfare",
+            "year": 2017,
+            "status": "ongoing",
+            "budget": "State Health Budget",
+            "beneficiaries": "General Public",
+            "impactLevel": "high",
+            "description": "Transformation of Primary Health Centers into Family Health Centers (FHCs) with better facilities to strengthen public healthcare.",
+            "keyPoints": [
+                "PHC to FHC conversion",
+                "Patient-friendly amenities",
+                "Focus on primary care"
+            ],
+            "tags": [
+                "Healthcare",
+                "Public Health",
+                "Infrastructure"
+            ]
+        },
+        {
+            "id": "init-011",
+            "title": "Abolition of Nokkukooli",
+            "shortTitle": "No Nokkukooli",
+            "category": "labor",
+            "department": "Labour Department",
+            "year": 2018,
+            "status": "enforced",
+            "budget": "N/A",
+            "beneficiaries": "Public & Investors",
+            "impactLevel": "medium",
+            "description": "Official ban on 'gawking wages' (Nokkukooli), declaring the practice unlawful to improve the investment climate.",
+            "keyPoints": [
+                "Banned trade union extortion",
+                "Modernized labor practices",
+                "Improved ease of doing business"
+            ],
+            "tags": [
+                "Labor Reform",
+                "Economy",
+                "Law & Order"
+            ]
+        },
+        {
+            "id": "init-012",
+            "title": "Welfare Board for MNREGS Workers",
+            "shortTitle": "MNREGS Welfare",
+            "category": "labor welfare",
+            "department": "LSGD / Labour",
+            "year": 2021,
+            "status": "active",
+            "budget": "Contributory Fund",
+            "beneficiaries": "MNREGS Workers",
+            "impactLevel": "high",
+            "description": "First of its kind welfare fund board for MNREGS workers providing pension and medical assistance.",
+            "keyPoints": [
+                "First in India",
+                "Pension & Medical aid",
+                "Social security for rural workers"
+            ],
+            "tags": [
+                "Labor Rights",
+                "Social Security",
+                "Rural"
+            ]
+        },
+        {
+            "id": "init-013",
+            "title": "Gig Workers Welfare Bill",
+            "shortTitle": "Gig Workers Bill",
+            "category": "labor welfare",
+            "department": "Labour Department",
+            "year": 2024,
+            "status": "proposed",
+            "budget": "N/A",
+            "beneficiaries": "Gig/Platform Workers",
+            "impactLevel": "high",
+            "description": "Proposed legislation to provide social security, registration, and welfare benefits to gig and platform workers.",
+            "keyPoints": [
+                "Legal protection for gig workers",
+                "Welfare fund creation",
+                "Addressing new-age labor issues"
+            ],
+            "tags": [
+                "Gig Economy",
+                "Labor Law",
+                "Future of Work"
+            ]
+        },
+        {
+            "id": "init-014",
+            "title": "Extreme Poverty Eradication Project",
+            "shortTitle": "Poverty Free Kerala",
+            "category": "social welfare",
+            "department": "LSGD",
+            "year": 2021,
+            "status": "ongoing",
+            "budget": "State Plan Fund",
+            "beneficiaries": "64,006 Families",
+            "impactLevel": "high",
+            "description": "Micro-level intervention to identify and uplift the 'poorest of the poor' families with a target to eradicate extreme poverty by 2025.",
+            "keyPoints": [
+                "Micro-plan for every family",
+                "64,006 families identified",
+                "Target: Nov 2025"
+            ],
+            "tags": [
+                "Poverty",
+                "Social Justice",
+                "Development"
+            ]
+        },
+        {
+            "id": "init-015",
+            "title": "Student Police Cadets (SPC) Reforms",
+            "shortTitle": "SPC Secular Uniform",
+            "category": "internal security/education",
+            "department": "Home Department",
+            "year": 2022,
+            "status": "implemented",
+            "budget": "N/A",
+            "beneficiaries": "Student Cadets",
+            "impactLevel": "medium",
+            "description": "Government decision to uphold secular uniformity in SPC by not allowing religious dress codes like hijabs within the cadet uniform.",
+            "keyPoints": [
+                "Secular uniform code",
+                "Rejection of religious symbols",
+                "Focus on discipline and equality"
+            ],
+            "tags": [
+                "Secularism",
+                "Uniform",
+                "Policy"
+            ]
+        }
+    ]
+}

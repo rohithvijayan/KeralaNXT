@@ -44,9 +44,21 @@
         },
         {
             "id": "it",
-            "name": "IT Parks",
+            "name": "IT Parks & Digital",
             "icon": "computer",
             "color": "#9B59B6"
+        },
+        {
+            "id": "agriculture_industry",
+            "name": "Agri & Industries",
+            "icon": "agriculture",
+            "color": "#e67e22"
+        },
+        {
+            "id": "environment",
+            "name": "Environment",
+            "icon": "eco",
+            "color": "#27ae60"
         }
     ]
 }
