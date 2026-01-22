@@ -59,13 +59,13 @@ function ProjectModal({ project, isOpen, onClose }) {
         const imageBlob = await generateShareImage()
 
         if (!imageBlob) {
-            // Fallback to text share
             handleTextShare()
             return
         }
 
         const file = new File([imageBlob], `${project.title.replace(/\s+/g, '_')}_kerala.png`, { type: 'image/png' })
 
+        // Try Web Share API first (works best on mobile)
         if (navigator.canShare && navigator.canShare({ files: [file] })) {
             try {
                 await navigator.share({
@@ -73,19 +73,95 @@ function ProjectModal({ project, isOpen, onClose }) {
                     title: project.title,
                     text: `${project.title} - Kerala Development Showcase\n${project.budget} | ${project.year}`,
                 })
+                setShowShareMenu(false)
+                return
             } catch (err) {
-                if (err.name !== 'AbortError') {
-                    console.log('Share failed, trying fallback')
-                    handleDownloadImage(imageBlob)
+                if (err.name === 'AbortError') {
+                    setShowShareMenu(false)
+                    return
                 }
+                // Continue to fallback
             }
+        }
+
+        // Platform-specific fallback
+        if (platform === 'instagram') {
+            await handleInstagramShare(imageBlob)
         } else {
-            // Browser doesn't support file sharing - download instead
             handleDownloadImage(imageBlob)
         }
 
         setShowShareMenu(false)
     }
+
+    // Instagram-specific share handler
+    const handleInstagramShare = async (imageBlob) => {
+        // Try to copy image to clipboard for pasting
+        try {
+            await navigator.clipboard.write([
+                new ClipboardItem({
+                    'image/png': imageBlob
+                })
+            ])
+        } catch (err) {
+            console.log('Clipboard write failed')
+        }
+
+        // Download the image as backup
+        const url = URL.createObjectURL(imageBlob)
+        const a = document.createElement('a')
+        a.href = url
+        a.download = `${project.title.replace(/\s+/g, '_')}_kerala_story.png`
+        document.body.appendChild(a)
+        a.click()
+        document.body.removeChild(a)
+        URL.revokeObjectURL(url)
+
+        // Try to open Instagram Stories (deep link)
+        setTimeout(() => {
+            window.location.href = 'instagram-stories://share'
+
+            // Fallback instruction if deep link doesn't work
+            setTimeout(() => {
+                alert('Image saved! Open Instagram → Stories → Add from Gallery to share.')
+            }, 1500)
+        }, 300)
+    }
+
+    // WhatsApp direct share
+    const handleWhatsAppShare = async () => {
+        const imageBlob = await generateShareImage()
+
+        if (imageBlob) {
+            const file = new File([imageBlob], `${project.title.replace(/\s+/g, '_')}_kerala.png`, { type: 'image/png' })
+
+            if (navigator.canShare && navigator.canShare({ files: [file] })) {
+                try {
+                    await navigator.share({
+                        files: [file],
+                        title: project.title,
+                        text: `${project.title} - Kerala Development Showcase`,
+                    })
+                    setShowShareMenu(false)
+                    return
+                } catch (err) {
+                    // Continue to text fallback
+                }
+            }
+        }
+
+        // Fallback: WhatsApp text share
+        const text = encodeURIComponent(
+            `*${project.title}*\n\n` +
+            `💰 Budget: ${project.budget}\n` +
+            `📅 Year: ${project.year}\n` +
+            `📍 Status: ${status.label}\n\n` +
+            `Explore more: ${window.location.href}`
+        )
+        window.open(`https://wa.me/?text=${text}`, '_blank')
+        setShowShareMenu(false)
+    }
+
 
     // Fallback text share
     const handleTextShare = async () => {
@@ -263,25 +339,32 @@ function ProjectModal({ project, isOpen, onClose }) {
                                             transition={{ duration: 0.15 }}
                                         >
                                             <button
-                                                className="share-menu-item"
-                                                onClick={() => handleShareWithImage('story')}
+                                                className="share-menu-item share-instagram"
+                                                onClick={() => handleShareWithImage('instagram')}
                                             >
                                                 <span className="material-symbols-outlined">photo_camera</span>
-                                                <span>Share as Story</span>
+                                                <span>Instagram Story</span>
+                                            </button>
+                                            <button
+                                                className="share-menu-item share-whatsapp"
+                                                onClick={handleWhatsAppShare}
+                                            >
+                                                <span className="material-symbols-outlined">chat</span>
+                                                <span>WhatsApp</span>
                                             </button>
                                             <button
                                                 className="share-menu-item"
                                                 onClick={handleTextShare}
                                             >
-                                                <span className="material-symbols-outlined">send</span>
-                                                <span>Share Link</span>
+                                                <span className="material-symbols-outlined">share</span>
+                                                <span>More Options</span>
                                             </button>
                                             <button
                                                 className="share-menu-item"
                                                 onClick={() => handleDownloadImage()}
                                             >
                                                 <span className="material-symbols-outlined">download</span>
-                                                <span>Download Image</span>
+                                                <span>Save Image</span>
                                             </button>
                                             <button
                                                 className="share-menu-item"

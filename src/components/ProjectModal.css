@@ -343,3 +343,20 @@
 .share-card-template {
     pointer-events: none;
 }
+
+/* Platform-specific share buttons */
+.share-menu-item.share-instagram .material-symbols-outlined {
+    background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.share-menu-item.share-whatsapp .material-symbols-outlined {
+    color: #25D366;
+}
+
+.share-menu-item.share-instagram:hover,
+.share-menu-item.share-whatsapp:hover {
+    background: var(--color-primary-light);
+}
