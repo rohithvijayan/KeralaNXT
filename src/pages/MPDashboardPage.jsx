@@ -311,6 +311,15 @@ function MPDashboardPage() {
                                 ))}
                             </select>
                         </div>
+
+                        {/* Compare MPs Button - Mobile Only */}
+                        <button
+                            className="compare-btn-mobile"
+                            onClick={() => navigate('/mp-comparison')}
+                        >
+                            <span className="material-symbols-outlined">compare_arrows</span>
+                            <span>Compare</span>
+                        </button>
                     </section>
 
                     {/* Performance Methodology Disclaimer */}
