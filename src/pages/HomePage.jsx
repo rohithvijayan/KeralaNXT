@@ -229,19 +229,17 @@ function HomePage() {
             <footer className="home-footer">
                 <div className="footer-content">
                     <div className="footer-info">
-                        <p className="footer-copyright">© 2024 Government of Kerala</p>
-                        <p className="footer-department">Department of Planning & Economic Affairs</p>
+                        <p className="footer-copyright">© KeralaNXT</p>
+                        <p className="footer-department">Rohith Vijayan</p>
                     </div>
                     <div className="footer-links">
-                        <a href="#">Privacy Policy</a>
-                        <a href="#">Terms of Service</a>
-                        <a href="#">Contact Us</a>
+                        <a href="https://rohithvijayan.vercel.app">Contact Us</a>
                     </div>
                     <div className="footer-social">
-                        <a href="#" aria-label="Website">
+                        <a href="https://rohithvijayan.vercel.app" aria-label="Website">
                             <span className="material-symbols-outlined">public</span>
                         </a>
-                        <a href="#" aria-label="Email">
+                        <a href="mailto:rohithvij20@gmail.com" aria-label="Email">
                             <span className="material-symbols-outlined">mail</span>
                         </a>
                     </div>
