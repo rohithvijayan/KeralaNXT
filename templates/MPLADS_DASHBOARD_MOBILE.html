@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Mobile MP Fund Dashboard</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;600;700&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#13ecb2",
+                        "background-light": "#f6f8f7",
+                        "background-dark": "#10221d",
+                        "teal-deep": "#3A6157",
+                        "teal-hero": "#4B7C6F",
+                    },
+                    fontFamily: {
+                        "display": ["Public Sans"]
+                    },
+                    borderRadius: {
+                        "DEFAULT": "0.5rem",
+                        "lg": "1rem",
+                        "xl": "1.5rem",
+                        "full": "9999px"
+                    },
+                },
+            },
+        }
+    </script>
+    <style>
+        .glass-teal {
+            background: linear-gradient(135deg, #4B7C6F 0%, #3A6157 100%);
+            box-shadow: 0 8px 32px 0 rgba(19, 236, 178, 0.15);
+        }
+
+        .hide-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+
+        .hide-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+    </style>
+</head>
+
+<body class="bg-background-light dark:bg-background-dark font-display flex justify-center">
+    <!-- Mobile Screen Container (375x812 Emulation) -->
+    <div
+        class="relative w-full max-w-[375px] min-h-screen h-[812px] bg-background-light dark:bg-background-dark overflow-y-auto overflow-x-hidden hide-scrollbar shadow-2xl border-x border-gray-100 dark:border-gray-800">
+        <!-- Sticky Header -->
+        <header
+            class="sticky top-0 z-50 flex items-center justify-between bg-white/80 dark:bg-background-dark/80 backdrop-blur-md border-b border-gray-100 dark:border-gray-800 px-4 py-3">
+            <div class="flex items-center gap-2">
+                <div class="text-primary">
+                    <span class="material-symbols-outlined text-2xl">account_balance</span>
+                </div>
+                <h2 class="text-[#111816] dark:text-white text-base font-bold tracking-tight">MP Fund Dashboard</h2>
+            </div>
+            <button
+                class="flex items-center justify-center rounded-full w-9 h-9 bg-gray-100 dark:bg-gray-800 text-gray-600 dark:text-gray-300">
+                <span class="material-symbols-outlined text-xl">notifications</span>
+            </button>
+        </header>
+        <!-- Main Content -->
+        <main class="flex flex-col gap-5 p-4 pb-24">
+            <!-- Hero Glassmorphism Card -->
+            <div class="glass-teal rounded-xl p-5 text-white flex flex-col gap-4">
+                <div class="flex justify-between items-start">
+                    <div>
+                        <p class="text-white/70 text-xs font-medium uppercase tracking-wider">Total Fund Overview</p>
+                        <h1 class="text-3xl font-bold mt-1">₹247.68 Cr</h1>
+                    </div>
+                    <div class="bg-white/10 p-2 rounded-lg backdrop-blur-md">
+                        <span class="material-symbols-outlined">trending_up</span>
+                    </div>
+                </div>
+                <div class="flex flex-col gap-2">
+                    <div class="flex justify-between text-sm">
+                        <p class="font-medium">Utilization Progress</p>
+                        <p class="font-bold">36.1%</p>
+                    </div>
+                    <div class="w-full bg-white/20 h-2.5 rounded-full overflow-hidden">
+                        <div class="bg-primary h-full" style="width: 36.1%"></div>
+                    </div>
+                    <p class="text-white/60 text-[10px] mt-1 italic">Data updated as of Oct 2023 | Kerala State</p>
+                </div>
+            </div>
+            <!-- Filters & Search -->
+            <div class="flex flex-col gap-3">
+                <!-- House Toggle Pills -->
+                <div class="flex gap-2 overflow-x-auto hide-scrollbar">
+                    <div
+                        class="flex h-9 shrink-0 items-center justify-center rounded-full bg-primary text-black px-5 text-sm font-semibold">
+                        All Houses
+                    </div>
+                    <div
+                        class="flex h-9 shrink-0 items-center justify-center rounded-full bg-white dark:bg-gray-800 border border-gray-100 dark:border-gray-700 px-5 text-sm font-medium text-gray-600 dark:text-gray-300">
+                        Lok Sabha
+                    </div>
+                    <div
+                        class="flex h-9 shrink-0 items-center justify-center rounded-full bg-white dark:bg-gray-800 border border-gray-100 dark:border-gray-700 px-5 text-sm font-medium text-gray-600 dark:text-gray-300">
+                        Rajya Sabha
+                    </div>
+                </div>
+                <!-- Search Bar -->
+                <div class="relative w-full">
+                    <span
+                        class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 text-xl">search</span>
+                    <input
+                        class="w-full h-11 pl-10 pr-4 bg-white dark:bg-gray-800 border-none rounded-lg text-sm focus:ring-1 focus:ring-primary shadow-sm text-gray-800 dark:text-white placeholder:text-gray-400"
+                        placeholder="Search MP by name or constituency" type="text" />
+                </div>
+            </div>
+            <!-- MP Performance List -->
+            <div class="flex flex-col gap-4">
+                <div class="flex items-center justify-between">
+                    <h3 class="text-sm font-bold text-gray-800 dark:text-white">MP Performance Ranking</h3>
+                    <span class="text-xs text-primary font-medium">View All</span>
+                </div>
+                <!-- MP Card 1 (High Performance - Green) -->
+                <div
+                    class="bg-white dark:bg-gray-800 p-4 rounded-xl shadow-sm border border-gray-50 dark:border-gray-700">
+                    <div class="flex items-center gap-3 mb-4">
+                        <div
+                            class="w-8 h-8 rounded-full bg-primary/10 flex items-center justify-center text-primary font-bold text-xs">
+                            #1
+                        </div>
+                        <div class="flex-1">
+                            <h4 class="text-sm font-bold text-gray-900 dark:text-white">Dr. John Brittas</h4>
+                            <p class="text-[10px] text-gray-500 font-medium">Rajya Sabha | Kerala</p>
+                        </div>
+                        <button class="text-gray-400">
+                            <span class="material-symbols-outlined text-xl">more_vert</span>
+                        </button>
+                    </div>
+                    <div class="grid grid-cols-2 gap-4 mb-4">
+                        <div class="bg-background-light dark:bg-gray-900 p-2 rounded-lg">
+                            <p class="text-[10px] text-gray-500">Allocated</p>
+                            <p class="text-sm font-bold">₹5.00 Cr</p>
+                        </div>
+                        <div class="bg-background-light dark:bg-gray-900 p-2 rounded-lg">
+                            <p class="text-[10px] text-gray-500">Utilized</p>
+                            <p class="text-sm font-bold text-primary">₹4.25 Cr</p>
+                        </div>
+                    </div>
+                    <div class="flex flex-col gap-1.5">
+                        <div class="flex justify-between text-[10px] font-bold">
+                            <span class="text-gray-400">85% Utilization Rate</span>
+                        </div>
+                        <div class="w-full bg-gray-100 dark:bg-gray-700 h-1.5 rounded-full overflow-hidden">
+                            <div class="bg-primary h-full" style="width: 85%"></div>
+                        </div>
+                    </div>
+                </div>
+                <!-- MP Card 2 (Medium Performance - Amber) -->
+                <div
+                    class="bg-white dark:bg-gray-800 p-4 rounded-xl shadow-sm border border-gray-50 dark:border-gray-700">
+                    <div class="flex items-center gap-3 mb-4">
+                        <div
+                            class="w-8 h-8 rounded-full bg-amber-500/10 flex items-center justify-center text-amber-500 font-bold text-xs">
+                            #12
+                        </div>
+                        <div class="flex-1">
+                            <h4 class="text-sm font-bold text-gray-900 dark:text-white">Shashi Tharoor</h4>
+                            <p class="text-[10px] text-gray-500 font-medium">Lok Sabha | Thiruvananthapuram</p>
+                        </div>
+                        <button class="text-gray-400">
+                            <span class="material-symbols-outlined text-xl">more_vert</span>
+                        </button>
+                    </div>
+                    <div class="grid grid-cols-2 gap-4 mb-4">
+                        <div class="bg-background-light dark:bg-gray-900 p-2 rounded-lg">
+                            <p class="text-[10px] text-gray-500">Allocated</p>
+                            <p class="text-sm font-bold">₹5.00 Cr</p>
+                        </div>
+                        <div class="bg-background-light dark:bg-gray-900 p-2 rounded-lg">
+                            <p class="text-[10px] text-gray-500">Utilized</p>
+                            <p class="text-sm font-bold text-amber-500">₹2.80 Cr</p>
+                        </div>
+                    </div>
+                    <div class="flex flex-col gap-1.5">
+                        <div class="flex justify-between text-[10px] font-bold">
+                            <span class="text-gray-400">56% Utilization Rate</span>
+                        </div>
+                        <div class="w-full bg-gray-100 dark:bg-gray-700 h-1.5 rounded-full overflow-hidden">
+                            <div class="bg-amber-500 h-full" style="width: 56%"></div>
+                        </div>
+                    </div>
+                </div>
+                <!-- MP Card 3 (Low Performance - Red) -->
+                <div
+                    class="bg-white dark:bg-gray-800 p-4 rounded-xl shadow-sm border border-gray-50 dark:border-gray-700">
+                    <div class="flex items-center gap-3 mb-4">
+                        <div
+                            class="w-8 h-8 rounded-full bg-red-500/10 flex items-center justify-center text-red-500 font-bold text-xs">
+                            #20
+                        </div>
+                        <div class="flex-1">
+                            <h4 class="text-sm font-bold text-gray-900 dark:text-white">Hibi Eden</h4>
+                            <p class="text-[10px] text-gray-500 font-medium">Lok Sabha | Ernakulam</p>
+                        </div>
+                        <button class="text-gray-400">
+                            <span class="material-symbols-outlined text-xl">more_vert</span>
+                        </button>
+                    </div>
+                    <div class="grid grid-cols-2 gap-4 mb-4">
+                        <div class="bg-background-light dark:bg-gray-900 p-2 rounded-lg">
+                            <p class="text-[10px] text-gray-500">Allocated</p>
+                            <p class="text-sm font-bold">₹5.00 Cr</p>
+                        </div>
+                        <div class="bg-background-light dark:bg-gray-900 p-2 rounded-lg">
+                            <p class="text-[10px] text-gray-500">Utilized</p>
+                            <p class="text-sm font-bold text-red-500">₹1.15 Cr</p>
+                        </div>
+                    </div>
+                    <div class="flex flex-col gap-1.5">
+                        <div class="flex justify-between text-[10px] font-bold">
+                            <span class="text-gray-400">23% Utilization Rate</span>
+                        </div>
+                        <div class="w-full bg-gray-100 dark:bg-gray-700 h-1.5 rounded-full overflow-hidden">
+                            <div class="bg-red-500 h-full" style="width: 23%"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+        <!-- Bottom Navigation Bar -->
+        <nav
+            class="absolute bottom-0 left-0 w-full h-16 bg-white dark:bg-background-dark border-t border-gray-100 dark:border-gray-800 flex items-center justify-around px-2">
+            <button class="flex flex-col items-center gap-1 text-primary">
+                <span class="material-symbols-outlined text-2xl">grid_view</span>
+                <span class="text-[10px] font-bold">Dashboard</span>
+            </button>
+            <button class="flex flex-col items-center gap-1 text-gray-400 dark:text-gray-600">
+                <span class="material-symbols-outlined text-2xl">bar_chart</span>
+                <span class="text-[10px] font-medium">Analytics</span>
+            </button>
+            <button class="flex flex-col items-center gap-1 text-gray-400 dark:text-gray-600">
+                <span class="material-symbols-outlined text-2xl">map</span>
+                <span class="text-[10px] font-medium">Projects</span>
+            </button>
+            <button class="flex flex-col items-center gap-1 text-gray-400 dark:text-gray-600">
+                <span class="material-symbols-outlined text-2xl">info</span>
+                <span class="text-[10px] font-medium">About</span>
+            </button>
+        </nav>
+    </div>
+</body>
+
+</html>

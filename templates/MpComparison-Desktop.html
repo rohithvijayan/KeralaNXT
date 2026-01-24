@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>KeralaNXT | MP Comparison Dashboard</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;600;700;900&amp;display=swap"
+        rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#13ecb2",
+                        "background-light": "#f6f8f7",
+                        "background-dark": "#10221d",
+                        "mp-blue": "#3B82F6",
+                        "mp-amber": "#F59E0B"
+                    },
+                    fontFamily: {
+                        "display": ["Public Sans", "sans-serif"]
+                    },
+                    borderRadius: { "DEFAULT": "0.5rem", "lg": "1rem", "xl": "1.5rem", "full": "9999px" },
+                },
+            },
+        }
+    </script>
+    <style>
+        body {
+            font-family: 'Public Sans', sans-serif;
+        }
+
+        .donut-chart {
+            width: 160px;
+            height: 160px;
+            border-radius: 50%;
+            background: conic-gradient(var(--chart-color) 70%, #e2e8f0 0);
+            position: relative;
+        }
+
+        .donut-chart::before {
+            content: "";
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 100px;
+            height: 100px;
+            background: white;
+            border-radius: 50%;
+        }
+
+        .dark .donut-chart::before {
+            background: #10221d;
+        }
+    </style>
+</head>
+
+<body class="bg-background-light dark:bg-background-dark font-display text-slate-900 dark:text-slate-100 min-h-screen">
+    <!-- Top Navigation Bar -->
+    <header
+        class="flex items-center justify-between whitespace-nowrap border-b border-solid border-slate-200 dark:border-slate-800 bg-white dark:bg-background-dark px-10 py-3 sticky top-0 z-50">
+        <div class="flex items-center gap-4">
+            <div class="size-8 text-primary">
+                <svg fill="currentColor" viewbox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+                    <path
+                        d="M4 42.4379C4 42.4379 14.0962 36.0744 24 41.1692C35.0664 46.8624 44 42.2078 44 42.2078L44 7.01134C44 7.01134 35.068 11.6577 24.0031 5.96913C14.0971 0.876274 4 7.27094 4 7.27094L4 42.4379Z">
+                    </path>
+                </svg>
+            </div>
+            <div class="flex flex-col">
+                <h2 class="text-[#111816] dark:text-white text-lg font-bold leading-tight tracking-tight">KeralaNXT</h2>
+                <p class="text-xs text-slate-500 font-medium">MP Fiscal Dashboard</p>
+            </div>
+        </div>
+        <div class="flex flex-1 justify-end gap-8">
+            <nav class="flex items-center gap-9">
+                <a class="text-slate-700 dark:text-slate-300 text-sm font-medium hover:text-primary transition-colors"
+                    href="#">Dashboard</a>
+                <a class="text-slate-700 dark:text-slate-300 text-sm font-medium hover:text-primary transition-colors"
+                    href="#">Fiscal Reports</a>
+                <a class="text-primary text-sm font-bold border-b-2 border-primary" href="#">MP Comparison</a>
+                <a class="text-slate-700 dark:text-slate-300 text-sm font-medium hover:text-primary transition-colors"
+                    href="#">Settings</a>
+            </nav>
+            <div class="flex gap-2">
+                <button
+                    class="flex items-center justify-center rounded-xl h-10 w-10 bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300">
+                    <span class="material-symbols-outlined text-[20px]">notifications</span>
+                </button>
+                <button
+                    class="flex items-center justify-center rounded-xl h-10 w-10 bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300">
+                    <span class="material-symbols-outlined text-[20px]">account_circle</span>
+                </button>
+            </div>
+        </div>
+    </header>
+    <main class="max-w-[1440px] mx-auto p-6 flex flex-col gap-6">
+        <!-- Page Heading -->
+        <div class="flex flex-col gap-1">
+            <h1 class="text-3xl font-black text-slate-900 dark:text-white tracking-tight">MP Fiscal Comparison</h1>
+            <p class="text-slate-500 dark:text-slate-400">High-density performance analysis and fund utilization
+                breakdown.</p>
+        </div>
+        <!-- Comparison Split View -->
+        <div
+            class="grid grid-cols-1 md:grid-cols-2 gap-0 border border-slate-200 dark:border-slate-800 rounded-xl overflow-hidden bg-white dark:bg-background-dark shadow-sm">
+            <!-- LEFT PANEL (BLUE) -->
+            <div class="p-8 border-r border-slate-200 dark:border-slate-800">
+                <div class="flex flex-col gap-6">
+                    <!-- Selector -->
+                    <div class="flex flex-col gap-2">
+                        <label class="text-xs font-bold uppercase tracking-wider text-mp-blue">Select Member A</label>
+                        <select
+                            class="w-full bg-slate-50 dark:bg-slate-900 border-slate-200 dark:border-slate-800 rounded-lg h-11 px-4 text-sm font-medium focus:ring-2 focus:ring-mp-blue outline-none">
+                            <option>H. K. Suresh (INC)</option>
+                            <option>R. Krishnan (CPI-M)</option>
+                        </select>
+                    </div>
+                    <!-- Profile Card -->
+                    <div class="flex items-center gap-4 p-4 rounded-xl bg-mp-blue/5 border border-mp-blue/20">
+                        <div
+                            class="size-20 rounded-full bg-mp-blue/10 flex items-center justify-center overflow-hidden border-2 border-mp-blue">
+                            <img class="w-full h-full object-cover"
+                                data-alt="Portrait of a male politician in professional attire"
+                                src="https://lh3.googleusercontent.com/aida-public/AB6AXuABjJMtCHgawkk6XYD_jGQxzGWdMGmbvhZMsECBIyvHaYWMLBPdbwE8fEONg2zp6x0vNbqM1_2-s06SThQ8XKrl-mlDiIxA-0U99J7guUlnwYD9jIDyjUpzmfzT7ypFMzO8HH0qvSbP9Lg-oaJoy32gZZ1eS2GN2Z69NzCTzm6AjM5Hw4EautrYTXdYzXR3U1pD1St-F5kbU-x96GPmKzL8TshTrnrtU3ioW_97Xez1Ueh7_jV3MyVZT0vi6hvrsIr87VtjX5GiIRg" />
+                        </div>
+                        <div class="flex flex-col">
+                            <h3 class="text-xl font-bold text-slate-900 dark:text-white">H. K. Suresh</h3>
+                            <p class="text-sm text-slate-500 font-medium">MP, Thiruvananthapuram</p>
+                            <div class="mt-2 flex gap-2">
+                                <span
+                                    class="px-2 py-0.5 bg-mp-blue text-white text-[10px] font-bold rounded uppercase">Active</span>
+                                <span
+                                    class="px-2 py-0.5 bg-slate-200 dark:bg-slate-800 text-slate-600 dark:text-slate-400 text-[10px] font-bold rounded uppercase">Term:
+                                    2019-24</span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Spending Stats -->
+                    <div class="flex items-center justify-between pt-4 border-t border-slate-100 dark:border-slate-800">
+                        <div class="flex flex-col gap-1">
+                            <p class="text-sm text-slate-500 font-medium">Total Spending (FY 23-24)</p>
+                            <p class="text-3xl font-black text-mp-blue">₹4.20 Cr</p>
+                            <p class="text-xs text-green-600 font-bold flex items-center gap-1">
+                                <span class="material-symbols-outlined text-xs">trending_up</span> 12% vs LY
+                            </p>
+                        </div>
+                        <div class="donut-chart" style="--chart-color: #3B82F6;">
+                            <div class="absolute inset-0 flex items-center justify-center">
+                                <span class="text-sm font-black text-mp-blue">84%</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- RIGHT PANEL (AMBER) -->
+            <div class="p-8">
+                <div class="flex flex-col gap-6">
+                    <!-- Selector -->
+                    <div class="flex flex-col gap-2">
+                        <label class="text-xs font-bold uppercase tracking-wider text-mp-amber">Select Member B</label>
+                        <select
+                            class="w-full bg-slate-50 dark:bg-slate-900 border-slate-200 dark:border-slate-800 rounded-lg h-11 px-4 text-sm font-medium focus:ring-2 focus:ring-mp-amber outline-none">
+                            <option>A. K. Menon (BJP)</option>
+                            <option>S. Vijayan (IUML)</option>
+                        </select>
+                    </div>
+                    <!-- Profile Card -->
+                    <div class="flex items-center gap-4 p-4 rounded-xl bg-mp-amber/5 border border-mp-amber/20">
+                        <div
+                            class="size-20 rounded-full bg-mp-amber/10 flex items-center justify-center overflow-hidden border-2 border-mp-amber">
+                            <img class="w-full h-full object-cover"
+                                data-alt="Portrait of an older male politician in formal wear"
+                                src="https://lh3.googleusercontent.com/aida-public/AB6AXuAcGT-qzghmT6FMkx4mlFvT4pJX73npkICEWQnHjbOLbZF91UVS6uVdVdM-FGDRSC9k7X82XRC-oDRDm90q9YzI06rYBQ0mkEVFWZ61NgcyqQ2OFeOrXFHjbuh6j1r33SESkjjSZTgMyhWPWc_f9lB9bn_4PmthBrkjwXIY7NfdGP8IsMvOueK5b14oP4dW8KlNkC9tPPfMS65lDiuUWhHed897s_viugKf8aVyxgoeO7lnhhnKWZ42LHsZ14h5u8-AZmEK2UuqQBg" />
+                        </div>
+                        <div class="flex flex-col">
+                            <h3 class="text-xl font-bold text-slate-900 dark:text-white">A. K. Menon</h3>
+                            <p class="text-sm text-slate-500 font-medium">MP, Ernakulam</p>
+                            <div class="mt-2 flex gap-2">
+                                <span
+                                    class="px-2 py-0.5 bg-mp-amber text-white text-[10px] font-bold rounded uppercase">Active</span>
+                                <span
+                                    class="px-2 py-0.5 bg-slate-200 dark:bg-slate-800 text-slate-600 dark:text-slate-400 text-[10px] font-bold rounded uppercase">Term:
+                                    2019-24</span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Spending Stats -->
+                    <div class="flex items-center justify-between pt-4 border-t border-slate-100 dark:border-slate-800">
+                        <div class="flex flex-col gap-1">
+                            <p class="text-sm text-slate-500 font-medium">Total Spending (FY 23-24)</p>
+                            <p class="text-3xl font-black text-mp-amber">₹3.85 Cr</p>
+                            <p class="text-xs text-green-600 font-bold flex items-center gap-1">
+                                <span class="material-symbols-outlined text-xs">trending_up</span> 5% vs LY
+                            </p>
+                        </div>
+                        <div class="donut-chart" style="--chart-color: #F59E0B;">
+                            <div class="absolute inset-0 flex items-center justify-center">
+                                <span class="text-sm font-black text-mp-amber">77%</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Tabs -->
+        <div class="flex border-b border-slate-200 dark:border-slate-800 gap-8 px-2">
+            <a class="flex flex-col items-center justify-center border-b-[3px] border-primary text-slate-900 dark:text-white pb-[13px] pt-4"
+                href="#">
+                <p class="text-sm font-bold leading-normal tracking-tight">Spending Analysis</p>
+            </a>
+            <a class="flex flex-col items-center justify-center border-b-[3px] border-transparent text-slate-500 pb-[13px] pt-4"
+                href="#">
+                <p class="text-sm font-bold leading-normal tracking-tight">Legislative Activity</p>
+            </a>
+            <a class="flex flex-col items-center justify-center border-b-[3px] border-transparent text-slate-500 pb-[13px] pt-4"
+                href="#">
+                <p class="text-sm font-bold leading-normal tracking-tight">Public Grievances</p>
+            </a>
+        </div>
+        <!-- Comparison Table -->
+        <div
+            class="bg-white dark:bg-background-dark border border-slate-200 dark:border-slate-800 rounded-xl overflow-hidden shadow-sm">
+            <div
+                class="px-6 py-4 border-b border-slate-100 dark:border-slate-800 flex justify-between items-center bg-slate-50/50 dark:bg-slate-900/50">
+                <h3 class="font-bold text-slate-900 dark:text-white">Category Comparison Breakdown</h3>
+                <button class="text-xs font-bold text-primary flex items-center gap-1 uppercase tracking-wider">
+                    <span class="material-symbols-outlined text-sm">download</span> Export CSV
+                </button>
+            </div>
+            <div class="overflow-x-auto">
+                <table class="w-full text-left">
+                    <thead>
+                        <tr
+                            class="bg-slate-50 dark:bg-slate-900/50 text-slate-500 dark:text-slate-400 text-[11px] uppercase font-bold tracking-widest">
+                            <th class="px-6 py-4 w-1/4">Expenditure Category</th>
+                            <th class="px-6 py-4 w-1/4 text-mp-blue">MP A (Suresh)</th>
+                            <th class="px-6 py-4 w-1/4 text-mp-amber">MP B (Menon)</th>
+                            <th class="px-6 py-4 w-1/4">Delta (%)</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-slate-100 dark:divide-slate-800">
+                        <tr class="hover:bg-slate-50 dark:hover:bg-slate-900/40 transition-colors">
+                            <td class="px-6 py-4">
+                                <div class="flex items-center gap-3">
+                                    <span class="material-symbols-outlined text-slate-400">apartment</span>
+                                    <span class="text-sm font-semibold">Infrastructure</span>
+                                </div>
+                            </td>
+                            <td class="px-6 py-4 font-mono text-sm text-slate-900 dark:text-white">₹1.85 Cr</td>
+                            <td class="px-6 py-4 font-mono text-sm text-slate-900 dark:text-white">₹1.40 Cr</td>
+                            <td class="px-6 py-4">
+                                <span
+                                    class="flex items-center gap-1 text-xs font-bold text-green-600 bg-green-50 dark:bg-green-900/20 px-2 py-1 rounded w-fit">
+                                    <span class="material-symbols-outlined text-xs">arrow_upward</span> 32.1%
+                                </span>
+                            </td>
+                        </tr>
+                        <tr class="hover:bg-slate-50 dark:hover:bg-slate-900/40 transition-colors">
+                            <td class="px-6 py-4">
+                                <div class="flex items-center gap-3">
+                                    <span class="material-symbols-outlined text-slate-400">school</span>
+                                    <span class="text-sm font-semibold">Education</span>
+                                </div>
+                            </td>
+                            <td class="px-6 py-4 font-mono text-sm text-slate-900 dark:text-white">₹0.95 Cr</td>
+                            <td class="px-6 py-4 font-mono text-sm text-slate-900 dark:text-white">₹1.10 Cr</td>
+                            <td class="px-6 py-4">
+                                <span
+                                    class="flex items-center gap-1 text-xs font-bold text-red-600 bg-red-50 dark:bg-red-900/20 px-2 py-1 rounded w-fit">
+                                    <span class="material-symbols-outlined text-xs">arrow_downward</span> 13.6%
+                                </span>
+                            </td>
+                        </tr>
+                        <tr class="hover:bg-slate-50 dark:hover:bg-slate-900/40 transition-colors">
+                            <td class="px-6 py-4">
+                                <div class="flex items-center gap-3">
+                                    <span class="material-symbols-outlined text-slate-400">medical_services</span>
+                                    <span class="text-sm font-semibold">Healthcare</span>
+                                </div>
+                            </td>
+                            <td class="px-6 py-4 font-mono text-sm text-slate-900 dark:text-white">₹0.70 Cr</td>
+                            <td class="px-6 py-4 font-mono text-sm text-slate-900 dark:text-white">₹0.65 Cr</td>
+                            <td class="px-6 py-4">
+                                <span
+                                    class="flex items-center gap-1 text-xs font-bold text-green-600 bg-green-50 dark:bg-green-900/20 px-2 py-1 rounded w-fit">
+                                    <span class="material-symbols-outlined text-xs">arrow_upward</span> 7.7%
+                                </span>
+                            </td>
+                        </tr>
+                        <tr class="hover:bg-slate-50 dark:hover:bg-slate-900/40 transition-colors">
+                            <td class="px-6 py-4">
+                                <div class="flex items-center gap-3">
+                                    <span class="material-symbols-outlined text-slate-400">agriculture</span>
+                                    <span class="text-sm font-semibold">Rural Development</span>
+                                </div>
+                            </td>
+                            <td class="px-6 py-4 font-mono text-sm text-slate-900 dark:text-white">₹0.45 Cr</td>
+                            <td class="px-6 py-4 font-mono text-sm text-slate-900 dark:text-white">₹0.55 Cr</td>
+                            <td class="px-6 py-4">
+                                <span
+                                    class="flex items-center gap-1 text-xs font-bold text-red-600 bg-red-50 dark:bg-red-900/20 px-2 py-1 rounded w-fit">
+                                    <span class="material-symbols-outlined text-xs">arrow_downward</span> 18.2%
+                                </span>
+                            </td>
+                        </tr>
+                        <tr class="hover:bg-slate-50 dark:hover:bg-slate-900/40 transition-colors">
+                            <td class="px-6 py-4">
+                                <div class="flex items-center gap-3">
+                                    <span class="material-symbols-outlined text-slate-400">water_drop</span>
+                                    <span class="text-sm font-semibold">Sanitation</span>
+                                </div>
+                            </td>
+                            <td class="px-6 py-4 font-mono text-sm text-slate-900 dark:text-white">₹0.25 Cr</td>
+                            <td class="px-6 py-4 font-mono text-sm text-slate-900 dark:text-white">₹0.15 Cr</td>
+                            <td class="px-6 py-4">
+                                <span
+                                    class="flex items-center gap-1 text-xs font-bold text-green-600 bg-green-50 dark:bg-green-900/20 px-2 py-1 rounded w-fit">
+                                    <span class="material-symbols-outlined text-xs">arrow_upward</span> 66.7%
+                                </span>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </main>
+    <footer class="mt-12 py-10 border-t border-slate-200 dark:border-slate-800">
+        <div class="max-w-[1440px] mx-auto px-10 flex justify-between items-center">
+            <div class="flex items-center gap-4 text-slate-400">
+                <span class="text-sm font-medium">© 2024 KeralaNXT Fiscal Insight Platform</span>
+            </div>
+            <div class="flex gap-6">
+                <a class="text-sm text-slate-500 hover:text-primary" href="#">Data Transparency Policy</a>
+                <a class="text-sm text-slate-500 hover:text-primary" href="#">Source Documentation</a>
+                <a class="text-sm text-slate-500 hover:text-primary" href="#">Help Center</a>
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>
