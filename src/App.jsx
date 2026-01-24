@@ -16,7 +16,7 @@ function App() {
                 <Route path="/about" element={<AboutPage />} />
                 <Route path="/projects" element={<ProjectsPage />} />
                 <Route path="/initiatives" element={<InitiativesPage />} />
-                <Route path="/mp-funds" element={<MPDashboardPage />} />
+                <Route path="/mp-fund-dashboard" element={<MPDashboardPage />} />
             </Routes>
             <BottomNav />
         </>

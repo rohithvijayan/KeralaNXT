@@ -242,6 +242,14 @@
     width: 60px;
     height: 60px;
     border: 2px solid var(--color-primary-light);
+    border-radius: 8px;
+    /* Square with rounded corners for ministers in mobile */
+    object-fit: cover;
+}
+
+/* Override leadership-avatar circular style for mini cards */
+.leadership-card-mini .leadership-avatar.mini-avatar {
+    border-radius: 8px;
 }
 
 .leadership-desktop-slider {

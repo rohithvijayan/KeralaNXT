@@ -29,13 +29,79 @@ export const parsePercentage = (percentStr) => {
 }
 
 /**
- * Get performance level based on utilization percentage
+ * Extract MP name from the "Hon'ble Member Of Parliament" field
+ * Handles formats like "Dr. John Brittas (2021-27)" -> "Dr. John Brittas"
+ */
+const extractMPName = (rawName) => {
+    if (!rawName || rawName === '\u00a0' || rawName.trim() === '') return null
+    // Remove tenure years in parentheses
+    const name = rawName.replace(/\s*\([^)]*\)\s*$/, '').trim()
+    return name || null
+}
+
+/**
+ * Extract tenure from the "Hon'ble Member Of Parliament" field
+ * Handles formats like "Dr. John Brittas (2021-27)" -> "2021-27"
+ */
+const extractTenure = (rawName) => {
+    if (!rawName) return ''
+    const match = rawName.match(/\(([^)]+)\)/)
+    return match ? match[1] : ''
+}
+
+/**
+ * Pre-normalize raw data to get percentages (needed for mean calculation)
+ */
+const preNormalize = (rawMPs) => {
+    return rawMPs
+        .map(mp => {
+            const rawName = mp["Hon'ble Member Of Parliament"] || mp.name || ''
+            const name = extractMPName(rawName)
+            if (!name) return null
+
+            const constituency = mp["Constituency"] || mp.constituency || ''
+            if (constituency === '\u00a0' || constituency.trim() === '') return null
+
+            const percentUtilised = mp["% Utilised"] || mp.percentUtilised || '0%'
+            return parsePercentage(percentUtilised)
+        })
+        .filter(p => p !== null)
+}
+
+// Get all percentages for mean calculation
+const allPercentages = [...preNormalize(lokSabhaMPsRaw), ...preNormalize(rajyaSabhaMPsRaw)]
+
+/**
+ * Calculate mean and standard deviation of utilization percentages
+ */
+const getMeanStats = () => {
+    if (allPercentages.length === 0) return { mean: 15, stdDev: 5 }
+
+    const mean = allPercentages.reduce((sum, p) => sum + p, 0) / allPercentages.length
+    const variance = allPercentages.reduce((sum, p) => sum + Math.pow(p - mean, 2), 0) / allPercentages.length
+    const stdDev = Math.sqrt(variance)
+
+    return { mean, stdDev }
+}
+
+// Calculate stats once at module load
+const { mean: meanPercent, stdDev: stdDevPercent } = getMeanStats()
+
+/**
+ * Get performance level based on mean utilization percentage
+ * - High: Above mean (above average performers)
+ * - Medium: Between mean and (mean - 0.5 * stdDev)
+ * - Low: Below (mean - 0.5 * stdDev)
  * @returns 'high' | 'medium' | 'low'
  */
 export const getPerformanceLevel = (percent) => {
     const value = typeof percent === 'string' ? parsePercentage(percent) : percent
-    if (value >= 70) return 'high'
-    if (value >= 40) return 'medium'
+
+    // High: Above mean
+    if (value >= meanPercent) return 'high'
+    // Medium: Within half a standard deviation below mean
+    if (value >= meanPercent - (stdDevPercent * 0.5)) return 'medium'
+    // Low: Below that
     return 'low'
 }
 
@@ -57,27 +123,6 @@ export const getPerformanceColor = (percent) => {
  */
 export const getPerformanceClass = (percent) => {
     return getPerformanceLevel(percent)
-}
-
-/**
- * Extract MP name from the "Hon'ble Member Of Parliament" field
- * Handles formats like "Dr. John Brittas (2021-27)" -> "Dr. John Brittas"
- */
-const extractMPName = (rawName) => {
-    if (!rawName || rawName === '\u00a0' || rawName.trim() === '') return null
-    // Remove tenure years in parentheses
-    const name = rawName.replace(/\s*\([^)]*\)\s*$/, '').trim()
-    return name || null
-}
-
-/**
- * Extract tenure from the "Hon'ble Member Of Parliament" field
- * Handles formats like "Dr. John Brittas (2021-27)" -> "2021-27"
- */
-const extractTenure = (rawName) => {
-    if (!rawName) return ''
-    const match = rawName.match(/\(([^)]+)\)/)
-    return match ? match[1] : ''
 }
 
 /**
@@ -128,6 +173,14 @@ const normalizeMPData = (rawMPs, house) => {
 // Normalize the raw data
 const lokSabhaMPs = normalizeMPData(lokSabhaMPsRaw, 'Lok Sabha')
 const rajyaSabhaMPs = normalizeMPData(rajyaSabhaMPsRaw, 'Rajya Sabha')
+
+// Export mean stats for debugging/display
+export const getPerformanceThresholds = () => ({
+    mean: meanPercent.toFixed(1),
+    stdDev: stdDevPercent.toFixed(1),
+    highThreshold: meanPercent.toFixed(1),
+    mediumThreshold: (meanPercent - stdDevPercent * 0.5).toFixed(1)
+})
 
 /**
  * Calculate totals from MP data array

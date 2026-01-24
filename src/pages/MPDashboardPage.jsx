@@ -306,6 +306,17 @@ function MPDashboardPage() {
                         </div>
                     </section>
 
+                    {/* Performance Methodology Disclaimer */}
+                    <div className="methodology-disclaimer">
+                        <span className="material-symbols-outlined disclaimer-icon">info</span>
+                        <p>
+                            <strong>Performance Indicator:</strong> MPs are rated relative to the group average.
+                            <span className="perf-legend high">✓ Above average</span>
+                            <span className="perf-legend medium">→ Near average</span>
+                            <span className="perf-legend low">⚠ Below average</span>
+                        </p>
+                    </div>
+
                     {/* MP Cards Grid */}
                     <section className="mp-cards-section">
                         <div className="section-header mobile-only">
@@ -362,9 +373,15 @@ function MPDashboardPage() {
                                             <div className="utilization-header">
                                                 <span className="util-label">Utilization</span>
                                                 <span
-                                                    className="util-percent"
+                                                    className={`util-percent ${mp.performanceLevel}`}
                                                     style={{ color: getPerformanceColor(mp.percentValue) }}
                                                 >
+                                                    {/* Accessibility: Icon for colorblind users */}
+                                                    <span className="material-symbols-outlined perf-icon">
+                                                        {mp.performanceLevel === 'high' && 'check_circle'}
+                                                        {mp.performanceLevel === 'medium' && 'trending_flat'}
+                                                        {mp.performanceLevel === 'low' && 'warning'}
+                                                    </span>
                                                     {formatPercentage(mp.percentValue)}
                                                 </span>
                                             </div>
