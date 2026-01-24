@@ -54,7 +54,7 @@ function BottomSheet({ isOpen, onClose, district, projects }) {
                                 {district.name}
                             </h2>
                             <p className="bottom-sheet-subtitle">
-                                {district.totalProjects} Projects •
+                                {projects.length} Projects •
                                 <span className="bottom-sheet-investment">{district.totalInvestment}</span>
                             </p>
                         </div>
@@ -78,7 +78,7 @@ function BottomSheet({ isOpen, onClose, district, projects }) {
                         {/* CTA Button */}
                         <div className="bottom-sheet-footer">
                             <button className="bottom-sheet-cta" onClick={handleViewAll}>
-                                <span>View All {district.totalProjects} Projects</span>
+                                <span>View All {projects.length} Projects</span>
                                 <span className="material-symbols-outlined">arrow_forward</span>
                             </button>
                         </div>

@@ -30,12 +30,9 @@ function ProjectsPage() {
     const navigate = useNavigate()
     const location = useLocation()
 
-    // Read initial district from navigation state (from HomePage bottom sheet)
-    const initialDistrict = location.state?.selectedDistrict || 'all'
-
     // Filter states
     const [searchQuery, setSearchQuery] = useState('')
-    const [selectedDistrict, setSelectedDistrict] = useState(initialDistrict)
+    const [selectedDistrict, setSelectedDistrict] = useState('all')
     const [selectedCategory, setSelectedCategory] = useState('all')
     const [selectedStatus, setSelectedStatus] = useState('all')
     const [sortBy, setSortBy] = useState('recent')
@@ -48,6 +45,15 @@ function ProjectsPage() {
     // Project loading states
     const [allProjects, setAllProjects] = useState([])
     const [isLoading, setIsLoading] = useState(true)
+
+    // Sync district filter from navigation state (from HomePage bottom sheet)
+    useEffect(() => {
+        if (location.state?.selectedDistrict) {
+            setSelectedDistrict(location.state.selectedDistrict)
+            // When coming from bottom sheet, include statewide projects to match the count
+            setIncludeStatewide(true)
+        }
+    }, [location.state])
 
     // Load all projects on mount
     useEffect(() => {
