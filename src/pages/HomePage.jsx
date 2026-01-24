@@ -175,7 +175,7 @@ function HomePage() {
                             whileHover={{ y: -4 }}
                         >
                             <div className="stat-card-header">
-                                <span className="stat-card-label">Total Investment</span>
+                                <span className="stat-card-label">Total Investment Tracked</span>
                                 <div className="stat-card-icon">
                                     <span className="material-symbols-outlined">payments</span>
                                 </div>

@@ -81,8 +81,7 @@ function InitiativesPage() {
         years: `${Math.min(...initiatives.map(i => i.year))}-${Math.max(...initiatives.map(i => i.year))}`,
         ongoing: initiatives.filter(i => i.status === 'ongoing').length,
         passed: initiatives.filter(i => i.status === 'passed').length,
-        totalBeneficiaries: '3.5Cr+',
-        totalBudget: '₹85,000 Cr'
+        totalBeneficiaries: '3.5Cr+'
     }), [])
 
     // Toggle category for desktop checkboxes
@@ -164,14 +163,7 @@ function InitiativesPage() {
                                 <p className="stat-number">{stats.total}+</p>
                                 <p className="stat-label">Total Initiatives</p>
                             </div>
-                            <div className="sidebar-stat-card">
-                                <div className="stat-card-header">
-                                    <span className="material-symbols-outlined">account_balance_wallet</span>
-                                    <span className="stat-badge">FY24-25</span>
-                                </div>
-                                <p className="stat-number">{stats.totalBudget}</p>
-                                <p className="stat-label">Budget Allocated</p>
-                            </div>
+
                             <div className="sidebar-stat-card">
                                 <div className="stat-card-header">
                                     <span className="material-symbols-outlined">groups</span>
@@ -200,12 +192,7 @@ function InitiativesPage() {
                         </div>
                     </div>
 
-                    {/* Support Section */}
-                    <div className="sidebar-support">
-                        <p className="support-title">Support Portal</p>
-                        <p className="support-text">Need assistance or official reports regarding these policies?</p>
-                        <button className="support-button">Contact Secretariat</button>
-                    </div>
+
                 </aside>
 
                 {/* Main Content Area */}
@@ -266,10 +253,12 @@ function InitiativesPage() {
                                 </button>
                             )}
                         </div>
+                        {/*
                         <button className="sort-button">
                             <span className="material-symbols-outlined">filter_list</span>
                             Sort
                         </button>
+                        */}
                     </div>
 
                     {/* Mobile Category Pills */}
