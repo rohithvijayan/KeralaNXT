@@ -14,130 +14,130 @@ const stats = [
 // Leadership data
 const leadership = [
     {
-        id: 1,
-        name: 'Shri. Pinarayi Vijayan',
-        title: "Hon'ble Chief Minister",
-        image: 'https://media.licdn.com/dms/image/v2/D4E03AQG07S2RCr12JA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1721387982183?e=2147483647&v=beta&t=phfKoe458ElcjJdMc0xyYqSfe14tqjq3-EtEdBbzJ0c'
+        "id": 1,
+        "name": "Shri. Pinarayi Vijayan",
+        "title": "Hon'ble Chief Minister",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQG07S2RCr12JA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1721387982183?e=2147483647&v=beta&t=phfKoe458ElcjJdMc0xyYqSfe14tqjq3-EtEdBbzJ0c"
     },
     {
-        id: 2,
-        name: 'Shri. K. Rajan',
-        title: "Hon'ble Minister for Revenue",
-        image: 'https://lh6.googleusercontent.com/proxy/a4kfnlIm855AcwUVJS5r5XgxtT81selI2uKNfFtFpwcQ2N4PIqSv0UDBmNK1UhIp9dig1RaS6ESn2-kRPonznya1sf0BHre1T4MEcGnBn3YHipcI_za1PKV6eJSbYrJMkWo'
+        "id": 6,
+        "name": "Shri. K.N. Balagopal",
+        "title": "Hon'ble Minister for Finance",
+        "image": "https://minister-finance.kerala.gov.in/wp-content/uploads/2021/09/profilekn.png"
     },
     {
-        id: 3,
-        name: 'Shri. Roshy Augustine',
-        title: "Hon'ble Minister for Water Resources",
-        image: 'https://minister-waterresources.kerala.gov.in/wp-content/uploads/2021/06/minister-irrigation-273x300.jpg'
+        "id": 2,
+        "name": "Shri. K. Rajan",
+        "title": "Hon'ble Minister for Revenue",
+        "image": "https://lh6.googleusercontent.com/proxy/a4kfnlIm855AcwUVJS5r5XgxtT81selI2uKNfFtFpwcQ2N4PIqSv0UDBmNK1UhIp9dig1RaS6ESn2-kRPonznya1sf0BHre1T4MEcGnBn3YHipcI_za1PKV6eJSbYrJMkWo"
     },
     {
-        id: 4,
-        name: 'Shri. K. Krishnankutty',
-        title: "Hon'ble Minister for Electricity",
-        image: 'https://minister-electricity.kerala.gov.in/wp-content/uploads/2021/10/08a-scaled.jpg'
+        "id": 11,
+        "name": "Shri. P. Rajeev",
+        "title": "Hon'ble Minister for Industries and Law",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/P._Rajeev_2023.tif/lossy-page1-800px-P._Rajeev_2023.tif.jpg"
     },
     {
-        id: 5,
-        name: 'Shri. A.K. Saseendran',
-        title: "Hon'ble Minister for Forests and Wildlife",
-        image: 'https://lh6.googleusercontent.com/proxy/TnpcwTh_TWRBK4HSFug-C917Ok1Qs-XKT3PGOBkgeKZYjwr10R06zCSFZ2sxmzY5iZz19GHBdEG_JLe9ZBGj-oVLYbC31Iy04bM8GsLiUOkGqSa1kL7gFRsgZNJ_pb34U8sartZfaY5JtcA'
+        "id": 9,
+        "name": "Shri. P.A. Mohammed Riyas",
+        "title": "Hon'ble Minister for Public Works and Tourism",
+        "image": "https://minister-pwd.kerala.gov.in/wp-content/uploads/2021/08/Mohamed-Riyas.jpg"
     },
     {
-        id: 6,
-        name: 'Shri. K.N. Balagopal',
-        title: "Hon'ble Minister for Finance",
-        image: 'https://minister-finance.kerala.gov.in/wp-content/uploads/2021/09/profilekn.png'
+        "id": 15,
+        "name": "Smt. Veena George",
+        "title": "Hon'ble Minister for Health and Family Welfare",
+        "image": "https://minister-health.kerala.gov.in/wp-content/uploads/2021/09/veenageorge-274x300.jpg"
     },
     {
-        id: 7,
-        name: 'Dr. R. Bindu',
-        title: "Hon'ble Minister for Higher Education and Social Justice",
-        image: 'https://minister-highereducation.kerala.gov.in/wp-content/uploads/2021/08/bindhu_minister-273x300.jpg'
+        "id": 13,
+        "name": "Shri. V. Sivankutty",
+        "title": "Hon'ble Minister for General Education and Labour",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/V_sivankutty.jpg/1200px-V_sivankutty.jpg"
     },
     {
-        id: 8,
-        name: 'Smt. J. Chinchu Rani',
-        title: "Hon'ble Minister for Animal Husbandry and Dairy Development",
-        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4_Ql7n2BPGi3olw2ELXiWLXbyr7iZKQ0VEg&s'
+        "id": 18,
+        "name": "Shri. M.B. Rajesh",
+        "title": "Hon'ble Minister for Local Self-Government",
+        "image": "https://minister-lsg.kerala.gov.in/wp-content/uploads/2022/09/mbrajesh-1.png"
     },
     {
-        id: 9,
-        name: 'Shri. P.A. Mohammed Riyas',
-        title: "Hon'ble Minister for Public Works and Tourism",
-        image: 'https://minister-pwd.kerala.gov.in/wp-content/uploads/2021/08/Mohamed-Riyas.jpg'
+        "id": 4,
+        "name": "Shri. K. Krishnankutty",
+        "title": "Hon'ble Minister for Electricity",
+        "image": "https://minister-electricity.kerala.gov.in/wp-content/uploads/2021/10/08a-scaled.jpg"
     },
     {
-        id: 10,
-        name: 'Shri. P. Prasad',
-        title: "Hon'ble Minister for Agriculture",
-        image: 'https://minister-agriculture.kerala.gov.in/wp-content/uploads/2021/09/prasad-profile.jpg'
+        "id": 3,
+        "name": "Shri. Roshy Augustine",
+        "title": "Hon'ble Minister for Water Resources",
+        "image": "https://minister-waterresources.kerala.gov.in/wp-content/uploads/2021/06/minister-irrigation-273x300.jpg"
     },
     {
-        id: 11,
-        name: 'Shri. P. Rajeev',
-        title: "Hon'ble Minister for Industries and Law",
-        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/P._Rajeev_2023.tif/lossy-page1-800px-P._Rajeev_2023.tif.jpg'
+        "id": 10,
+        "name": "Shri. P. Prasad",
+        "title": "Hon'ble Minister for Agriculture",
+        "image": "https://minister-agriculture.kerala.gov.in/wp-content/uploads/2021/09/prasad-profile.jpg"
     },
     {
-        id: 12,
-        name: 'Shri. Saji Cherian',
-        title: "Hon'ble Minister for Fisheries and Culture",
-        image: 'https://minister-fisheries.kerala.gov.in/wp-content/uploads/2021/08/sajicheriyan_profile.png'
+        "id": 17,
+        "name": "Shri. G.R. Anil",
+        "title": "Hon'ble Minister for Food and Civil Supplies",
+        "image": "https://minister-food.kerala.gov.in/wp-content/uploads/2021/08/Adv.-G.-R.-Anil-273x300.jpg"
     },
     {
-        id: 13,
-        name: 'Shri. V. Sivankutty',
-        title: "Hon'ble Minister for General Education and Labour",
-        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/V_sivankutty.jpg/1200px-V_sivankutty.jpg'
+        "id": 7,
+        "name": "Dr. R. Bindu",
+        "title": "Hon'ble Minister for Higher Education and Social Justice",
+        "image": "https://minister-highereducation.kerala.gov.in/wp-content/uploads/2021/08/bindhu_minister-273x300.jpg"
     },
     {
-        id: 14,
-        name: 'Shri. V.N. Vasavan',
-        title: "Hon'ble Minister for Cooperation and Registration",
-        image: 'https://upload.wikimedia.org/wikipedia/commons/6/69/Vasavanmla.jpg'
+        "id": 14,
+        "name": "Shri. V.N. Vasavan",
+        "title": "Hon'ble Minister for Cooperation and Registration",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Vasavanmla.jpg"
     },
     {
-        id: 15,
-        name: 'Smt. Veena George',
-        title: "Hon'ble Minister for Health and Family Welfare",
-        image: 'https://minister-health.kerala.gov.in/wp-content/uploads/2021/09/veenageorge-274x300.jpg'
+        "id": 12,
+        "name": "Shri. Saji Cherian",
+        "title": "Hon'ble Minister for Fisheries and Culture",
+        "image": "https://minister-fisheries.kerala.gov.in/wp-content/uploads/2021/08/sajicheriyan_profile.png"
     },
     {
-        id: 16,
-        name: 'Shri. V. Abdurahiman',
-        title: "Hon'ble Minister for Sports and Wakf",
-        image: 'https://minister-sports.kerala.gov.in/wp-content/uploads/2021/08/Shri.-V.-Abdurahiman.jpg'
+        "id": 20,
+        "name": "Shri. K.B. Ganesh Kumar",
+        "title": "Hon'ble Minister for Transport",
+        "image": "https://minister-transport.kerala.gov.in/wp-content/uploads/2024/01/414896051_940715817674953_512883159468637855_n-1.jpg"
     },
     {
-        id: 17,
-        name: 'Shri. G.R. Anil',
-        title: "Hon'ble Minister for Food and Civil Supplies",
-        image: 'https://minister-food.kerala.gov.in/wp-content/uploads/2021/08/Adv.-G.-R.-Anil-273x300.jpg'
+        "id": 5,
+        "name": "Shri. A.K. Saseendran",
+        "title": "Hon'ble Minister for Forests and Wildlife",
+        "image": "https://minister-forest.kerala.gov.in/wp-content/uploads/2021/09/Shri.-A.-K.-Saseendran-273x300.jpg"
     },
     {
-        id: 18,
-        name: 'Shri. M.B. Rajesh',
-        title: "Hon'ble Minister for Local Self-Government",
-        image: 'https://minister-lsg.kerala.gov.in/wp-content/uploads/2022/09/mbrajesh-1.png'
+        "id": 19,
+        "name": "Shri. O.R. Kelu",
+        "title": "Hon'ble Minister for Welfare of SC/ST and Devaswoms",
+        "image": "https://www.deccanchronicle.com/h-upload/2024/06/20/1098470-orkelu.jpg"
     },
     {
-        id: 19,
-        name: 'Shri. O.R. Kelu',
-        title: "Hon'ble Minister for Welfare of SC/ST and Devaswoms",
-        image: 'https://www.deccanchronicle.com/h-upload/2024/06/20/1098470-orkelu.jpg'
+        "id": 21,
+        "name": "Shri. Kadannappalli Ramachandran",
+        "title": "Hon'ble Minister for Ports",
+        "image": "https://minister-registration.kerala.gov.in/wp-content/uploads/2024/01/IMG_6710-1-scaled.jpg"
     },
     {
-        id: 20,
-        name: 'Shri. K.B. Ganesh Kumar',
-        title: "Hon'ble Minister for Transport",
-        image: 'https://minister-transport.kerala.gov.in/wp-content/uploads/2024/01/414896051_940715817674953_512883159468637855_n-1.jpg'
+        "id": 8,
+        "name": "Smt. J. Chinchu Rani",
+        "title": "Hon'ble Minister for Animal Husbandry and Dairy Development",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4_Ql7n2BPGi3olw2ELXiWLXbyr7iZKQ0VEg&s"
     },
     {
-        id: 21,
-        name: 'Shri. Kadannappalli Ramachandran',
-        title: "Hon'ble Minister for Ports",
-        image: 'https://minister-registration.kerala.gov.in/wp-content/uploads/2024/01/IMG_6710-1-scaled.jpg'
+        "id": 16,
+        "name": "Shri. V. Abdurahiman",
+        "title": "Hon'ble Minister for Sports and Wakf",
+        "image": "https://minister-sports.kerala.gov.in/wp-content/uploads/2021/08/Shri.-V.-Abdurahiman.jpg"
     }
 ]
 
@@ -156,11 +156,11 @@ function AboutPage() {
     const miniCardsToShow = 4
 
     const nextLeader = () => {
-        setLeaderIndex((prev) => (prev + 1) % leadership.length)
+        setLeaderIndex((prev) => (prev + 5) % leadership.length)
     }
 
     const prevLeader = () => {
-        setLeaderIndex((prev) => (prev - 1 + leadership.length) % leadership.length)
+        setLeaderIndex((prev) => (prev - 5 + leadership.length) % leadership.length)
     }
 
     const nextMobile = () => {

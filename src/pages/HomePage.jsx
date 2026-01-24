@@ -131,7 +131,7 @@ function HomePage() {
                                 <div className="sidebar-action-icon">
                                     <span className="material-symbols-outlined">filter_alt</span>
                                 </div>
-                                <span>Filter Projects</span>
+                                <a href="/projects">Filter Projects</a>
                                 <span className="material-symbols-outlined sidebar-action-arrow">chevron_right</span>
                             </button>
                         </div>
