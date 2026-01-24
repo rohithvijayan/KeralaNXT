@@ -42,9 +42,11 @@ export const loadDistrictProjects = async (districtId) => {
         const module = await import(`./projects/${districtId}.json`)
         const projects = module.default?.projects || module.projects || []
 
-        // Add districtId to each project if not present
+        // Add districtId to each project if not present and ensure unique ID
         const enrichedProjects = projects.map(p => ({
             ...p,
+            // Ensure unique ID by prefixing with districtId if not already present
+            id: p.id.startsWith(districtId) ? p.id : `${districtId}-${p.id}`,
             districtId: p.districtId || districtId,
             isStatewide: districtId === 'statewide'
         }))

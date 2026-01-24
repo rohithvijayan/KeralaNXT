@@ -137,18 +137,17 @@
     border-color: var(--color-primary);
 }
 
-/* Sidebar Filters (Desktop) */
+/* Sidebar Filters */
 .filters-sidebar {
     position: fixed;
     top: 60px;
     left: 0;
     bottom: 0;
-    width: 280px;
+    width: 100%;
     background: var(--color-surface);
     border-right: 1px solid var(--color-border);
     z-index: 30;
     overflow-y: auto;
-    display: none;
 }
 
 .sidebar-header {
@@ -673,6 +672,7 @@
     }
 
     .filters-sidebar {
+        width: 280px;
         display: block;
     }
 
