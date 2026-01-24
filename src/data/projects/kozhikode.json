@@ -1,0 +1,2076 @@
+{
+    "projects": [
+        {
+            "id": "proj-001",
+            "districtId": "kozhikode",
+            "title": "Development of CREST Campus at Cyberpark, Kozhikode",
+            "shortTitle": "CREST Campus",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2016,
+            "budget": "₹16.00 Crore",
+            "description": "Development of CREST Campus at Cyberpark, Kozhikode - Phase 1: Academic Block.",
+            "impact": "Educational infrastructure development.",
+            "image": null,
+            "tags": [
+                "education",
+                "IT",
+                "campus"
+            ]
+        },
+        {
+            "id": "proj-002",
+            "districtId": "kozhikode",
+            "title": "Kallacherikkadavu Bridge",
+            "shortTitle": "Kallacherikkadavu Bridge",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2016,
+            "budget": "₹10.14 Crore",
+            "description": "Construction of Kallacherikkadavu Bridge across Mayyazhi river connecting Trippagottur Panchayath in Kannur District and Thonneri Panchayath in Kozhikode District.",
+            "impact": "Inter-district connectivity.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "transport"
+            ]
+        },
+        {
+            "id": "proj-003",
+            "districtId": "kozhikode",
+            "title": "Thiruvambadi-Pulloorampara-Edathara-Marippuzha Road",
+            "shortTitle": "Thiruvambadi-Marippuzha Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹108.16 Crore",
+            "description": "Improvement works to Thiruvambadi-Pulloorampara-Edathara-Marippuzha road.",
+            "impact": "Major road infrastructure upgrade.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-004",
+            "districtId": "kozhikode",
+            "title": "Development of Taluk Hospital Koyilandi",
+            "shortTitle": "TH Koyilandi",
+            "category": "health",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹42.08 Crore",
+            "description": "Development of Taluk Hospital Koyilandi.",
+            "impact": "Healthcare infrastructure improvement.",
+            "image": null,
+            "tags": [
+                "health",
+                "hospital"
+            ]
+        },
+        {
+            "id": "proj-005",
+            "districtId": "kozhikode",
+            "title": "Hill Highway: Thottilpalam - Thalayad",
+            "shortTitle": "Hill Highway Thottilpalam",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹50.32 Crore",
+            "description": "Improvements to Thottilpalam Thalayad Road (6.79km).",
+            "impact": "Hill highway connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "hill highway"
+            ]
+        },
+        {
+            "id": "proj-006",
+            "districtId": "kozhikode",
+            "title": "Development of Taluk Hospital Balusseri",
+            "shortTitle": "TH Balusseri",
+            "category": "health",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹23.20 Crore",
+            "description": "Development of Taluk Hospital, Balusseri.",
+            "impact": "Healthcare infrastructure.",
+            "image": null,
+            "tags": [
+                "health",
+                "hospital"
+            ]
+        },
+        {
+            "id": "proj-007",
+            "districtId": "kozhikode",
+            "title": "Development of Taluk Hospital Feroke",
+            "shortTitle": "TH Feroke",
+            "category": "health",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹17.09 Crore",
+            "description": "Development of Taluk Hospital, Feroke.",
+            "impact": "Healthcare infrastructure.",
+            "image": null,
+            "tags": [
+                "health",
+                "hospital"
+            ]
+        },
+        {
+            "id": "proj-008",
+            "districtId": "kozhikode",
+            "title": "Gas Crematoriums (Koorachund)",
+            "shortTitle": "Koorachund Crematorium",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹9.95 Crore",
+            "description": "Construction of Gas Crematoriums for Koorachund GP (part of multi-location project).",
+            "impact": "Public sanitation infrastructure.",
+            "image": null,
+            "tags": [
+                "crematorium",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-009",
+            "districtId": "kozhikode",
+            "title": "Cinema Theater Complex at Perambra",
+            "shortTitle": "Perambra Theater",
+            "category": "culture",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹14.27 Crore",
+            "description": "Setting up of Cinema Theater Complexes at Perambra.",
+            "impact": "Cultural infrastructure.",
+            "image": null,
+            "tags": [
+                "culture",
+                "cinema"
+            ]
+        },
+        {
+            "id": "proj-010",
+            "districtId": "kozhikode",
+            "title": "Perincheri Kadavu Regulator cum Bridge",
+            "shortTitle": "Perincheri Kadavu RCB",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹72.63 Crore",
+            "description": "Construction of Regulator cum Bridge u/s of Perincheri Kadavu across Kuttiyadi River Gulikapuzha.",
+            "impact": "Water regulation and connectivity.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "regulator",
+                "water resources"
+            ]
+        },
+        {
+            "id": "proj-011",
+            "districtId": "kozhikode",
+            "title": "Naderikkadavu Bridge",
+            "shortTitle": "Naderikkadavu Bridge",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹29.93 Crore",
+            "description": "Construction of Naderikkadavu Bridge across Akalapuzha.",
+            "impact": "Bridge connectivity.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "transport"
+            ]
+        },
+        {
+            "id": "proj-012",
+            "districtId": "kozhikode",
+            "title": "Hill Highway: Thalayad - Malapuram Kodenchery",
+            "shortTitle": "Hill Highway Thalayad",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹106.09 Crore",
+            "description": "Construction of Hill Highway between Thalayad - Malapuram Kodenchery (18KM).",
+            "impact": "Hill highway connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "hill highway"
+            ]
+        },
+        {
+            "id": "proj-013",
+            "districtId": "kozhikode",
+            "title": "Kaithapoyil- Kodanchery-Agustiamuzhi Road",
+            "shortTitle": "Kaithapoyil-Agustiamuzhi Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹90.09 Crore",
+            "description": "Improvement of Kaithapoyil- Kodanchery-Agustiamuzhi Road Km 0/000 to 21/200.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-014",
+            "districtId": "kozhikode",
+            "title": "Vadakara Narayana Nagaram Indoor Stadium (Phase II)",
+            "shortTitle": "Vadakara Indoor Stadium",
+            "category": "sports",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹4.39 Crore",
+            "description": "Construction of Phase II of Vadakara Narayana Nagaram Indoor Stadium.",
+            "impact": "Sports infrastructure.",
+            "image": null,
+            "tags": [
+                "sports",
+                "stadium"
+            ]
+        },
+        {
+            "id": "proj-015",
+            "districtId": "kozhikode",
+            "title": "Coastal Highway: BC Road to Kothi Beach",
+            "shortTitle": "Coastal Highway Kothi",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹86.25 Crore",
+            "description": "Coastal Highway - BC Road to Kothi Beach.",
+            "impact": "Coastal connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "coastal highway"
+            ]
+        },
+        {
+            "id": "proj-016",
+            "districtId": "kozhikode",
+            "title": "Coastal Highway: Kadalundikadavu to Madathilpadam",
+            "shortTitle": "Coastal Highway Kadalundi",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹10.11 Crore",
+            "description": "Coastal Highway - Kadalundikadavu to Madathilpadam.",
+            "impact": "Coastal connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "coastal highway"
+            ]
+        },
+        {
+            "id": "proj-017",
+            "districtId": "kozhikode",
+            "title": "Hill Highway: Kodanchery to Kakkadampoyil",
+            "shortTitle": "Hill Highway Kodanchery",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹221.20 Crore",
+            "description": "Construction of Hill Highway between Kodanchery and Kakkadampoyil Km.83.900 to 119.250.",
+            "impact": "Hill highway connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "hill highway"
+            ]
+        },
+        {
+            "id": "proj-018",
+            "districtId": "kozhikode",
+            "title": "Coastal Highway Reach 3: Koyilandy Harbour to Muthayam Beach",
+            "shortTitle": "Coastal Highway R3",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹105.28 Crore",
+            "description": "Coastal Highway Reach 3 Koyilandy Harbour to Muthayam Beach.",
+            "impact": "Coastal connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "coastal highway"
+            ]
+        },
+        {
+            "id": "proj-019",
+            "districtId": "kozhikode",
+            "title": "Poolakkadavu RCB (Poonur Puzha)",
+            "shortTitle": "Poolakkadavu RCB",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹27.74 Crore",
+            "description": "Construction of RCB across Poonur Puzha near KWA pumping house at Poolakkadavu in Kuruvattoor Panchayath.",
+            "impact": "Water regulation.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "regulator",
+                "water resources"
+            ]
+        },
+        {
+            "id": "proj-020",
+            "districtId": "kozhikode",
+            "title": "Institute of Organ & Tissue Transplant (Temporary Facility)",
+            "shortTitle": "Organ Transplant Inst.",
+            "category": "health",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹13.32 Crore",
+            "description": "Providing Temporary Facility for Establishing Institute of Organ & Tissue Transplant at PMSSY Block, MC Kozhikode.",
+            "impact": "Advanced healthcare.",
+            "image": null,
+            "tags": [
+                "health",
+                "hospital",
+                "medical college"
+            ]
+        },
+        {
+            "id": "proj-021",
+            "districtId": "kozhikode",
+            "title": "Sports facilities at Thiruvambady",
+            "shortTitle": "Thiruvambady Sports",
+            "category": "sports",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹15.16 Crore",
+            "description": "Construction of Sports facilities at Mattannur, Padiyur and Thiruvambady (Shared project).",
+            "impact": "Sports infrastructure.",
+            "image": null,
+            "tags": [
+                "sports",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-022",
+            "districtId": "kozhikode",
+            "title": "Feroke ROB Approach Road",
+            "shortTitle": "Feroke ROB Approach",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹2.90 Crore",
+            "description": "Construction of Feroke ROB Approach Road.",
+            "impact": "Railway overbridge connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "railway",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-023",
+            "districtId": "kozhikode",
+            "title": "Upgradation of Govt ITI Koyilandy",
+            "shortTitle": "ITI Koyilandy",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹13.74 Crore",
+            "description": "Upgradation of Govt ITI Koyilandy (Shared project).",
+            "impact": "Skill development.",
+            "image": null,
+            "tags": [
+                "education",
+                "skills"
+            ]
+        },
+        {
+            "id": "proj-024",
+            "districtId": "kozhikode",
+            "title": "Manassery-Pulparamba-Kodiyathoor-Chullikkaparamba Road",
+            "shortTitle": "Manassery-Chullikkaparamba Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹36.80 Crore",
+            "description": "Improvements to Manassery-Pulparamba-Kodiyathoor-Chullikkaparamba road.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-025",
+            "districtId": "kozhikode",
+            "title": "Muchukunnu ROB",
+            "shortTitle": "Muchukunnu ROB",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹36.13 Crore",
+            "description": "Construction of ROB at Muchukunnu (LC No. 205).",
+            "impact": "Railway crossing safety.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "railway"
+            ]
+        },
+        {
+            "id": "proj-026",
+            "districtId": "kozhikode",
+            "title": "REC Koodathai Road",
+            "shortTitle": "REC Koodathai Road",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹60.99 Crore",
+            "description": "Improvements to REC Koodathai Road (11.220 Km).",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-027",
+            "districtId": "kozhikode",
+            "title": "CHMKM Government Arts and Science College, Koduvally",
+            "shortTitle": "CHMKM College",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹18.00 Crore",
+            "description": "Augmentation of Infrastructural facilities for CHMKM Government Arts and Science College, Koduvally.",
+            "impact": "Higher education infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "college"
+            ]
+        },
+        {
+            "id": "proj-028",
+            "districtId": "kozhikode",
+            "title": "Arayadathupalam Karanthur Road",
+            "shortTitle": "Arayadathupalam-Karanthur Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹205.00 Crore",
+            "description": "Improvements to Arayadathupalam Karanthur Road.",
+            "impact": "Major city road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure",
+                "urban"
+            ]
+        },
+        {
+            "id": "proj-029",
+            "districtId": "kozhikode",
+            "title": "Hill Highway: Pullavai to Thottilpalam",
+            "shortTitle": "Hill Highway Pullavai",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹110.67 Crore",
+            "description": "Hill Highway first reach Pullavai to Thottilpalam 0/000 to 28/000.",
+            "impact": "Hill highway connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "hill highway"
+            ]
+        },
+        {
+            "id": "proj-030",
+            "districtId": "kozhikode",
+            "title": "Pulimmuttu-Vattakinar Road",
+            "shortTitle": "Pulimmuttu-Vattakinar Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹36.67 Crore",
+            "description": "Improvements to Pulimmuttu-Vattakinar Road.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-031",
+            "districtId": "kozhikode",
+            "title": "WSS to Koyilandy & adjoining Panchayaths",
+            "shortTitle": "WSS Koyilandy",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹85.00 Crore",
+            "description": "Water Supply Scheme to Koyilandy & adjoining Panchayaths.",
+            "impact": "Regional water supply.",
+            "image": null,
+            "tags": [
+                "water supply",
+                "urban",
+                "rural"
+            ]
+        },
+        {
+            "id": "proj-032",
+            "districtId": "kozhikode",
+            "title": "Mavoor-NIT-Koduvally Road",
+            "shortTitle": "Mavoor-Koduvally Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹52.20 Crore",
+            "description": "Improvements to Mavoor-NIT-Koduvally road Km 0/000 to 12/900.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-033",
+            "districtId": "kozhikode",
+            "title": "Perambra Bypass",
+            "shortTitle": "Perambra Bypass",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹58.29 Crore",
+            "description": "Construction of Perambra Bypass.",
+            "impact": "Traffic relief.",
+            "image": null,
+            "tags": [
+                "bypass",
+                "roads"
+            ]
+        },
+        {
+            "id": "proj-034",
+            "districtId": "kozhikode",
+            "title": "Feroke Karuvanthuruthy Drinking Water Project",
+            "shortTitle": "Feroke WSS",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹18.65 Crore",
+            "description": "Supply, laying testing and commissioning of Gravity main, pumping main & distribution system, scour line arrangement of OHSR at Perumugham for Feroke Karuvanthuruthy villages drinking water project.",
+            "impact": "Water supply.",
+            "image": null,
+            "tags": [
+                "water supply",
+                "rural"
+            ]
+        },
+        {
+            "id": "proj-035",
+            "districtId": "kozhikode",
+            "title": "Sub Registrar Offices (West Hill)",
+            "shortTitle": "SRO West Hill",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹10.09 Crore",
+            "description": "Construction of Sub Registrar offices at West Hill and Registration Complex in Kozhikkode District (Shared project).",
+            "impact": "Administrative infrastructure.",
+            "image": null,
+            "tags": [
+                "registration",
+                "office"
+            ]
+        },
+        {
+            "id": "proj-036",
+            "districtId": "kozhikode",
+            "title": "Development of Taluk Hospital Perambra",
+            "shortTitle": "TH Perambra",
+            "category": "health",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹58.18 Crore",
+            "description": "Development of Taluk Hospital, Perambra.",
+            "impact": "Healthcare infrastructure.",
+            "image": null,
+            "tags": [
+                "health",
+                "hospital"
+            ]
+        },
+        {
+            "id": "proj-037",
+            "districtId": "kozhikode",
+            "title": "Sub Registrar Offices (Cluster V)",
+            "shortTitle": "Kozhikode SROs",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹12.12 Crore",
+            "description": "Construction of Sub Registrar office at 1. Azhiyur 2. Chathamangalam 3.Chelannur 4. Feroke 5. Nadapuram 6.Naduvannoor 7. Payyoli 8.Perambra 9. Thiruvalloor 10.Villyappalli.",
+            "impact": "Administrative infrastructure.",
+            "image": null,
+            "tags": [
+                "registration",
+                "office"
+            ]
+        },
+        {
+            "id": "proj-038",
+            "districtId": "kozhikode",
+            "title": "Kuttiyadi Bypass",
+            "shortTitle": "Kuttiyadi Bypass",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹39.42 Crore",
+            "description": "Construction of Kuttiyadi Bypass.",
+            "impact": "Traffic relief.",
+            "image": null,
+            "tags": [
+                "bypass",
+                "roads"
+            ]
+        },
+        {
+            "id": "proj-039",
+            "districtId": "kozhikode",
+            "title": "Thamarassery Chungam Link Road",
+            "shortTitle": "Thamarassery Link Road",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹74.39 Crore",
+            "description": "Construction of Thamarassery Chungam Link Road.",
+            "impact": "Road connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-040",
+            "districtId": "kozhikode",
+            "title": "Anakkampoil Kalladi Meppadi Tunnel Road",
+            "shortTitle": "Tunnel Road",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹2,134.50 Crore",
+            "description": "Construction of Anakkampoil Kalladi Meppadi Tunnel road (Connecting Kozhikode and Wayanad).",
+            "impact": "Major transport infrastructure improvement.",
+            "image": null,
+            "tags": [
+                "tunnel",
+                "roads",
+                "major project"
+            ]
+        },
+        {
+            "id": "proj-041",
+            "districtId": "kozhikode",
+            "title": "Kallanthodu Koolimaud Road",
+            "shortTitle": "Kallanthodu-Koolimaud Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹42.30 Crore",
+            "description": "Improvements to kallanthodu Koolimaud road Km 0/000 to 7/000.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-042",
+            "districtId": "kozhikode",
+            "title": "220KV GIS Package - I (Kunnamangalam)",
+            "shortTitle": "Kunnamangalam GIS",
+            "category": "energy",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹224.82 Crore",
+            "description": "220KV GIS Package - I (Includes Kunnamangalam bay).",
+            "impact": "Power infrastructure.",
+            "image": null,
+            "tags": [
+                "power",
+                "substation"
+            ]
+        },
+        {
+            "id": "proj-043",
+            "districtId": "kozhikode",
+            "title": "WSS to Koyilandy Municipality Phase II",
+            "shortTitle": "WSS Koyilandy Ph II",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹119.18 Crore",
+            "description": "Laying distribution lines of Water Supply Schemes - WSS to Koyilandy Municipality Phase II.",
+            "impact": "Urban water supply.",
+            "image": null,
+            "tags": [
+                "water supply",
+                "urban"
+            ]
+        },
+        {
+            "id": "proj-044",
+            "districtId": "kozhikode",
+            "title": "Payyoli ROB",
+            "shortTitle": "Payyoli ROB",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹28.57 Crore",
+            "description": "Construction of ROB at Payyoli.",
+            "impact": "Railway crossing safety.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "railway"
+            ]
+        },
+        {
+            "id": "proj-045",
+            "districtId": "kozhikode",
+            "title": "Coastal Highway: Beypore Bridge",
+            "shortTitle": "Beypore Bridge",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹4.43 Crore",
+            "description": "Construction of Coastal highway in Kozhikode District- Beypore Bridge from Madathilpadam to BC Road across River Chaliyar.",
+            "impact": "Coastal connectivity.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "coastal highway"
+            ]
+        },
+        {
+            "id": "proj-046",
+            "districtId": "kozhikode",
+            "title": "Coastal Highway: Kolavipalam to Kottakkal kadavu",
+            "shortTitle": "Coastal Highway Kolavipalam",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹34.33 Crore",
+            "description": "Construction of Coastal highway from Kolavipalam to Kottakkal kadavu.",
+            "impact": "Coastal connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "coastal highway"
+            ]
+        },
+        {
+            "id": "proj-047",
+            "districtId": "kozhikode",
+            "title": "Muttungal - Nadapuram - Pakramthalam Road",
+            "shortTitle": "Muttungal-Pakramthalam Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹41.50 Crore",
+            "description": "Improvements to Muttungal - Nadapuram - Pakramthalam road between Km 0/000 to 11/855.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-048",
+            "districtId": "kozhikode",
+            "title": "Kollam Nelliyadi - Meppayur Road",
+            "shortTitle": "Kollam-Meppayur Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹38.96 Crore",
+            "description": "Improvements to Kollam Nelliyadi - Meppayur road.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-049",
+            "districtId": "kozhikode",
+            "title": "Coastal Highway: Kodikkal to Kolavipalam",
+            "shortTitle": "Coastal Highway Kodikkal",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹64.47 Crore",
+            "description": "Construction of Coastal Highway from Kodikkal to Kolavipalam.",
+            "impact": "Coastal connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "coastal highway"
+            ]
+        },
+        {
+            "id": "proj-050",
+            "districtId": "kozhikode",
+            "title": "Nelliyady Kadavu ROB",
+            "shortTitle": "Nelliyady Kadavu ROB",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹28.39 Crore",
+            "description": "Construction of ROB at Nelliyady kadavu (LC No. 204).",
+            "impact": "Railway crossing safety.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "railway"
+            ]
+        },
+        {
+            "id": "proj-051",
+            "districtId": "kozhikode",
+            "title": "Coastal Highway: Kunjalimarakkar Bridge",
+            "shortTitle": "Kunjalimarakkar Bridge",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹49.77 Crore",
+            "description": "Construction of Kunjalimarakkar Bridge sandbanks to Kottakkalkadvu.",
+            "impact": "Coastal connectivity.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "coastal highway"
+            ]
+        },
+        {
+            "id": "proj-052",
+            "districtId": "kozhikode",
+            "title": "Koolimadu Bridge",
+            "shortTitle": "Koolimadu Bridge",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹21.50 Crore",
+            "description": "Construction of Koolimadu Bridge across Chaliyar river.",
+            "impact": "Bridge connectivity.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "transport"
+            ]
+        },
+        {
+            "id": "proj-053",
+            "districtId": "kozhikode",
+            "title": "Thorayilkadavu Bridge",
+            "shortTitle": "Thorayilkadavu Bridge",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹23.96 Crore",
+            "description": "Construction of Thorayilkadavu Bridge across Akalapuzha.",
+            "impact": "Bridge connectivity.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "transport"
+            ]
+        },
+        {
+            "id": "proj-054",
+            "districtId": "kozhikode",
+            "title": "Akalapuzha Bridge",
+            "shortTitle": "Akalapuzha Bridge",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹30.00 Crore",
+            "description": "Construction of Akalapuzha bridge across Akalapuzha river.",
+            "impact": "Bridge connectivity.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "transport"
+            ]
+        },
+        {
+            "id": "proj-055",
+            "districtId": "kozhikode",
+            "title": "Balussery Bustand Block Bypass Road",
+            "shortTitle": "Balussery Bypass",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Construction of Balussery Bustand Block Bypass Road.",
+            "impact": "Traffic relief.",
+            "image": null,
+            "tags": [
+                "bypass",
+                "roads"
+            ]
+        },
+        {
+            "id": "proj-056",
+            "districtId": "kozhikode",
+            "title": "Model Residential School Chakkittappara",
+            "shortTitle": "MRS Chakkittappara",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹16.48 Crore",
+            "description": "Construction of Model Residential School at Kozhikode Chakkittappara.",
+            "impact": "Educational infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "school"
+            ]
+        },
+        {
+            "id": "proj-057",
+            "districtId": "kozhikode",
+            "title": "Vatakara Villiappally Chelakkad Road",
+            "shortTitle": "Vatakara-Chelakkad Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹77.21 Crore",
+            "description": "Improvements to Vatakara Villiappally Chelakkad Road between Km 0/000 to 15/984.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-058",
+            "districtId": "kozhikode",
+            "title": "Parappanpoyil Karakunnath Road",
+            "shortTitle": "Parappanpoyil Road",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹45.27 Crore",
+            "description": "Improvements of Parappanpoyil Karakunnath Road Km 0/000 To 10/000.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-059",
+            "districtId": "kozhikode",
+            "title": "Feroke IOC Bypass - Beypore",
+            "shortTitle": "Feroke IOC Bypass",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹18.21 Crore",
+            "description": "Improvement of Junctions and Bypasses - Feroke IOC Bypass - Beypore.",
+            "impact": "Traffic management.",
+            "image": null,
+            "tags": [
+                "bypass",
+                "roads"
+            ]
+        },
+        {
+            "id": "proj-060",
+            "districtId": "kozhikode",
+            "title": "Mannur - Chaliyam Road",
+            "shortTitle": "Mannur-Chaliyam Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹51.37 Crore",
+            "description": "Improvements to Mannur - Chaliyam Road.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-061",
+            "districtId": "kozhikode",
+            "title": "Azhiyur ROB",
+            "shortTitle": "Azhiyur ROB",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹29.28 Crore",
+            "description": "Construction of ROB at Azhiyur (LC No. 218).",
+            "impact": "Railway crossing safety.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "railway"
+            ]
+        },
+        {
+            "id": "proj-062",
+            "districtId": "kozhikode",
+            "title": "Temple Road ROB",
+            "shortTitle": "Temple Road ROB",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹36.84 Crore",
+            "description": "Construction of ROB at Temple Road (LC NO. 189).",
+            "impact": "Railway crossing safety.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "railway"
+            ]
+        },
+        {
+            "id": "proj-063",
+            "districtId": "kozhikode",
+            "title": "Puthiyangadi - Mavilkadavu - Krishnan Nair Road",
+            "shortTitle": "Puthiyangadi-Krishnan Nair Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹155.45 Crore",
+            "description": "Improvements to Puthiyangadi - Mavilkadavu - Krishnan Nair road.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-064",
+            "districtId": "kozhikode",
+            "title": "Feroke Petta Junction",
+            "shortTitle": "Feroke Petta Jn",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹11.96 Crore",
+            "description": "Feroke Petta Junction improvements.",
+            "impact": "Junction improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "junction"
+            ]
+        },
+        {
+            "id": "proj-065",
+            "districtId": "kozhikode",
+            "title": "Karaparamba - Thadampattuthazham- Paroppodi Road",
+            "shortTitle": "Karaparamba-Paroppodi Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹20.00 Crore",
+            "description": "Improvements to Karaparamba - Thadampattuthazham- Paroppodi road KM 1/600 to 5/300.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-066",
+            "districtId": "kozhikode",
+            "title": "Kerala School of Mathematics (CoE)",
+            "shortTitle": "Kerala School of Mathematics",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹8.35 Crore",
+            "description": "Centre of Excellence in Kerala School of Mathematics.",
+            "impact": "Academic excellence.",
+            "image": null,
+            "tags": [
+                "education",
+                "mathematics",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-067",
+            "districtId": "kozhikode",
+            "title": "Thottilpalam Kunduthode Road",
+            "shortTitle": "Thottilpalam-Kunduthode Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹29.59 Crore",
+            "description": "Improvements to Thottilpalam Kunduthode road from km 0/00 to 6/200.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-068",
+            "districtId": "kozhikode",
+            "title": "Kulangarath Nambithankund Valook Vilangad Road",
+            "shortTitle": "Kulangarath-Vilangad Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹52.79 Crore",
+            "description": "Improvements to Kulangarath Nambithankund Valook Vilangad road KM 0/000 to 21/000.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-069",
+            "districtId": "kozhikode",
+            "title": "Municipal Office Building Feroke",
+            "shortTitle": "Feroke Municipal Bldg",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹19.60 Crore",
+            "description": "Municipal Office Building for Feroke Municipality (Shared project).",
+            "impact": "Civic infrastructure.",
+            "image": null,
+            "tags": [
+                "building",
+                "municipality"
+            ]
+        },
+        {
+            "id": "proj-070",
+            "districtId": "kozhikode",
+            "title": "Improvements to Ramanattukara WSS",
+            "shortTitle": "Ramanattukara WSS",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹26.00 Crore",
+            "description": "Improvements to Ramanattukara Water Supply Scheme.",
+            "impact": "Water supply improvement.",
+            "image": null,
+            "tags": [
+                "water supply",
+                "urban"
+            ]
+        },
+        {
+            "id": "proj-071",
+            "districtId": "kozhikode",
+            "title": "Municipality Office Building for Ramanattukara",
+            "shortTitle": "Ramanattukara Municipal Bldg",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹15.48 Crore",
+            "description": "Municipality Office Building for Ramanattukara Municipality.",
+            "impact": "Civic infrastructure.",
+            "image": null,
+            "tags": [
+                "building",
+                "municipality"
+            ]
+        },
+        {
+            "id": "proj-072",
+            "districtId": "kozhikode",
+            "title": "Urban Rejuvenation - Kozhikkode City",
+            "shortTitle": "Kozhikkode Beautification",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹8.66 Crore",
+            "description": "Urban Rejuvenation and Beautification Scheme - Kozhikkode City.",
+            "impact": "City aesthetics.",
+            "image": null,
+            "tags": [
+                "urban",
+                "beautification"
+            ]
+        },
+        {
+            "id": "proj-073",
+            "districtId": "kozhikode",
+            "title": "Hill Highway: Chavaramuzhi Bridge",
+            "shortTitle": "Chavaramuzhi Bridge",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹9.29 Crore",
+            "description": "Hill Highway - Construction of Chavaramuzhi Bridge.",
+            "impact": "Bridge connectivity.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "hill highway"
+            ]
+        },
+        {
+            "id": "proj-074",
+            "districtId": "kozhikode",
+            "title": "Development of General Hospital Kozhikode",
+            "shortTitle": "GH Kozhikode",
+            "category": "health",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹95.09 Crore",
+            "description": "Development of General Hospital, Kozhikode.",
+            "impact": "Healthcare infrastructure.",
+            "image": null,
+            "tags": [
+                "health",
+                "hospital"
+            ]
+        },
+        {
+            "id": "proj-075",
+            "districtId": "kozhikode",
+            "title": "Chungam Gate ROB",
+            "shortTitle": "Chungam Gate ROB",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹37.83 Crore",
+            "description": "Construction of ROB at Chungam Gate (LC No. 190).",
+            "impact": "Railway crossing safety.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "railway"
+            ]
+        },
+        {
+            "id": "proj-076",
+            "districtId": "kozhikode",
+            "title": "Koduvally Siraj Flyover",
+            "shortTitle": "Koduvally Flyover",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹54.02 Crore",
+            "description": "Koduvally Siraj Flyover.",
+            "impact": "Traffic management.",
+            "image": null,
+            "tags": [
+                "flyover",
+                "transport"
+            ]
+        },
+        {
+            "id": "proj-077",
+            "districtId": "kozhikode",
+            "title": "Perambra - Cheruvannur - Vatakara Road",
+            "shortTitle": "Perambra-Vatakara Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹24.40 Crore",
+            "description": "Improvements to Perambra - Cheruvannur - Vatakara road between Km 0/000 to 9/800.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-078",
+            "districtId": "kozhikode",
+            "title": "Kuttoth-Attakkundukadavu Road",
+            "shortTitle": "Kuttoth-Attakkundukadavu Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹12.70 Crore",
+            "description": "Improvements to Kuttoth-Attakkundukadavu road Km 0/000 to 11/695.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-079",
+            "districtId": "kozhikode",
+            "title": "Beypore - Cheruvannur Road",
+            "shortTitle": "Beypore-Cheruvannur Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹11.50 Crore",
+            "description": "Improvements to Beypore - Cheruvannur road.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-080",
+            "districtId": "kozhikode",
+            "title": "Valiyapalam Bridge at Puthiyapalam",
+            "shortTitle": "Valiyapalam Bridge",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹59.01 Crore",
+            "description": "Construction of Valiyapalam Bridge at Puthiyapalam across Canoli Canal.",
+            "impact": "Bridge connectivity.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "transport"
+            ]
+        },
+        {
+            "id": "proj-081",
+            "districtId": "kozhikode",
+            "title": "Coastal Highway: Puthiyanirathu Beach to Korappuzha",
+            "shortTitle": "Coastal Highway Puthiyanirathu",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹0.61 Crore",
+            "description": "Coastal Highway Reach 1 - Puthiyanirathu Beach to Korappuzha.",
+            "impact": "Coastal connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "coastal highway"
+            ]
+        },
+        {
+            "id": "proj-082",
+            "districtId": "kozhikode",
+            "title": "Modernization of Market in Vatakara",
+            "shortTitle": "Vatakara Market",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹21.38 Crore",
+            "description": "Modernization of Market in Vatakara Municipality (DPR).",
+            "impact": "Market infrastructure.",
+            "image": null,
+            "tags": [
+                "market",
+                "urban"
+            ]
+        },
+        {
+            "id": "proj-083",
+            "districtId": "kozhikode",
+            "title": "Volleyball Academy Naduvannoor",
+            "shortTitle": "Volleyball Academy",
+            "category": "sports",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹9.90 Crore",
+            "description": "Volleyball Academy, Naduvannoor.",
+            "impact": "Sports development.",
+            "image": null,
+            "tags": [
+                "sports",
+                "academy"
+            ]
+        },
+        {
+            "id": "proj-084",
+            "districtId": "kozhikode",
+            "title": "Punoor Town Bridge",
+            "shortTitle": "Punoor Town Bridge",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹5.00 Crore",
+            "description": "Construction of Punoor Town Bridge.",
+            "impact": "Bridge connectivity.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "transport"
+            ]
+        },
+        {
+            "id": "proj-085",
+            "districtId": "kozhikode",
+            "title": "Elathur - Korapuzha Bridge",
+            "shortTitle": "Elathur-Korapuzha Bridge",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹28.85 Crore",
+            "description": "Re-Construction of Elathur - Korapuzha Bridge On NH-66 Old NH-17.",
+            "impact": "Highway bridge improvement.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "highway"
+            ]
+        },
+        {
+            "id": "proj-086",
+            "districtId": "kozhikode",
+            "title": "Hill Highway: Kunhome - Niravilpuzha - Thottilpalam (Stretch 2)",
+            "shortTitle": "Hill Highway Stretch 2",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹45.34 Crore",
+            "description": "Hill Highway Kunhome Niravilpuzha Thottilpalam (Stretch 2).",
+            "impact": "Hill highway connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "hill highway"
+            ]
+        },
+        {
+            "id": "proj-087",
+            "districtId": "kozhikode",
+            "title": "Puthiyangadi-Purakkattiri-Andikkode-Atholi-Ulliyeri Road",
+            "shortTitle": "Puthiyangadi-Ulliyeri Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹82.36 Crore",
+            "description": "Improvements to Puthiyangadi-Purakkattiri-Andikkode-Atholi-Ulliyeri road.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-088",
+            "districtId": "kozhikode",
+            "title": "Hill Highway: Thottilpalam - Thalayad (Stretch 3)",
+            "shortTitle": "Hill Highway Stretch 3",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹38.40 Crore",
+            "description": "Improvements to Thottilpalam Thalayad road - \"Mullankunnu to Peruvannamuzhi\"-Stretch : III.",
+            "impact": "Hill highway connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "hill highway"
+            ]
+        },
+        {
+            "id": "proj-089",
+            "districtId": "kozhikode",
+            "title": "Coastal Highway: Korapuzha to Koyilandy Harbour",
+            "shortTitle": "Coastal Highway Korapuzha",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹11.77 Crore",
+            "description": "Construction of Coastal Highway from Korapuzha to Koyilandy Harbour.",
+            "impact": "Coastal connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "coastal highway"
+            ]
+        },
+        {
+            "id": "proj-090",
+            "districtId": "kozhikode",
+            "title": "Thamarasserry Varattiakkal Road",
+            "shortTitle": "Thamarasserry Varattiakkal Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹40.57 Crore",
+            "description": "Improvements to Thamarasserry Varattiakkal road.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-091",
+            "districtId": "kozhikode",
+            "title": "Coastal Highway: Muthayam to Kodikkal",
+            "shortTitle": "Coastal Highway Muthayam",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹3.55 Crore",
+            "description": "Construction of Coastal Highway from Muthayam to Kodikkal.",
+            "impact": "Coastal connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "coastal highway"
+            ]
+        },
+        {
+            "id": "proj-092",
+            "districtId": "kozhikode",
+            "title": "Payyoli Perambra Road",
+            "shortTitle": "Payyoli Perambra Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹42.00 Crore",
+            "description": "Payyoli Perambra road between Km 0/000 & 18/105.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-093",
+            "districtId": "kozhikode",
+            "title": "Easthill - Ganapathikavu - Karaparamba Road",
+            "shortTitle": "Easthill-Karaparamba Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹21.00 Crore",
+            "description": "Improvements to Easthill - Ganapathikavu - Karaparamba road.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-094",
+            "districtId": "kozhikode",
+            "title": "Kozhikode Balusserry Road",
+            "shortTitle": "Kozhikode Balusserry Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹152.81 Crore",
+            "description": "Improvements to Kozhikode Balusserry road.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-095",
+            "districtId": "kozhikode",
+            "title": "Coastal Highway: Puthiyappa Harbour to Puthiya nirath",
+            "shortTitle": "Coastal Highway Puthiyappa",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹2.00 Crore",
+            "description": "Construction of Coastal Highway from Puthiyappa Harbour to Puthiya nirath.",
+            "impact": "Coastal connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "coastal highway"
+            ]
+        },
+        {
+            "id": "proj-096",
+            "districtId": "kozhikode",
+            "title": "Hill Highway: Thottilpalam Thalayad Road (Stretch 2)",
+            "shortTitle": "Hill Highway Thottilpalam S2",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹82.49 Crore",
+            "description": "Improvements to Thottilpalam Thalayad Road - Peruvannamuzhi to 28th Mile Junction (Phase II).",
+            "impact": "Hill highway connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "hill highway"
+            ]
+        },
+        {
+            "id": "proj-097",
+            "districtId": "kozhikode",
+            "title": "Hill Highway: Kunhome - Niravilpuzha - Thottilpalam (Stretch 1)",
+            "shortTitle": "Hill Highway Stretch 1",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹38.47 Crore",
+            "description": "Hill Highway Kunhome - Niravilpuzha - Thottilpalam (Stretch 1).",
+            "impact": "Hill highway connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "hill highway"
+            ]
+        },
+        {
+            "id": "proj-098",
+            "districtId": "kozhikode",
+            "title": "Revenue Tower Vadakara",
+            "shortTitle": "Revenue Tower Vadakara",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹26.42 Crore",
+            "description": "Construction of Revenue Tower at Vadakara.",
+            "impact": "Government office infrastructure.",
+            "image": null,
+            "tags": [
+                "building",
+                "revenue",
+                "government"
+            ]
+        },
+        {
+            "id": "proj-099",
+            "districtId": "kozhikode",
+            "title": "Vaikkom Muhammad Basheer Cultural Complex",
+            "shortTitle": "Basheer Cultural Complex",
+            "category": "culture",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹35.00 Crore",
+            "description": "Land acquisition for Proposed Vaikkom Muhammad Basheer Cultural Complex.",
+            "impact": "Cultural centre.",
+            "image": null,
+            "tags": [
+                "culture",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-100",
+            "districtId": "kozhikode",
+            "title": "Isolation Ward in GMC Kozhikode",
+            "shortTitle": "GMC Kozhikode Isolation",
+            "category": "health",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹54.69 Crore",
+            "description": "Construction of Isolation Ward in GMC Kozhikode.",
+            "impact": "Healthcare facility.",
+            "image": null,
+            "tags": [
+                "health",
+                "hospital",
+                "medical college"
+            ]
+        },
+        {
+            "id": "proj-101",
+            "districtId": "kozhikode",
+            "title": "Dermatology Hospital at Chevayur",
+            "shortTitle": "Dermatology Hospital",
+            "category": "health",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Construction of Dermatology Hospital and its allied facilities at Chevayur.",
+            "impact": "Specialized healthcare.",
+            "image": null,
+            "tags": [
+                "health",
+                "hospital"
+            ]
+        },
+        {
+            "id": "proj-102",
+            "districtId": "kozhikode",
+            "title": "Palayam Pushpa Junction Improvement",
+            "shortTitle": "Palayam Pushpa Jn",
+            "category": "transport",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Improvement of Palayam Pushpa Junction.",
+            "impact": "Urban traffic management.",
+            "image": null,
+            "tags": [
+                "roads",
+                "junction"
+            ]
+        },
+        {
+            "id": "proj-103",
+            "districtId": "kozhikode",
+            "title": "Three Star Hotel Complex at SIHMS Campus",
+            "shortTitle": "SIHMS Hotel Complex",
+            "category": "tourism",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Setting up of Three Star Hotel Complex in the SIHMS Campus, Kozhikode.",
+            "impact": "Tourism infrastructure.",
+            "image": null,
+            "tags": [
+                "tourism",
+                "hotel",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-104",
+            "districtId": "kozhikode",
+            "title": "Coastal Highway: Vengalam Poyilkavu - Koyilandy Harbour",
+            "shortTitle": "Coastal Highway Vengalam",
+            "category": "transport",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Construction of Coastal Highway in Kozhikode district Vengalam Poyilkavu - Koyilandy Fishing Harbour.",
+            "impact": "Coastal connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "coastal highway"
+            ]
+        },
+        {
+            "id": "proj-105",
+            "districtId": "kozhikode",
+            "title": "Coastal Highway: Francis Road Junction to Puthiyappa",
+            "shortTitle": "Coastal Highway Francis Rd",
+            "category": "transport",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "KIIFB Coastal Highway - Francis Road Junction Road to Puthiyappa.",
+            "impact": "Coastal connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "coastal highway"
+            ]
+        },
+        {
+            "id": "proj-106",
+            "districtId": "kozhikode",
+            "title": "Coastal Highway: Kadalundy - Chaliyam - Karuvanthuruthy",
+            "shortTitle": "Coastal Highway Kadalundy",
+            "category": "transport",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Construction of Coastal Highway in Kozhikode district Kadalundy - Chaliyam - Karuvanthuruthy.",
+            "impact": "Coastal connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "coastal highway"
+            ]
+        },
+        {
+            "id": "proj-107",
+            "districtId": "kozhikode",
+            "title": "Mathara - Palazhi - Kuttikattur Road",
+            "shortTitle": "Mathara-Kuttikattur Rd",
+            "category": "transport",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Improvements to Mathara - Palazhi - Kuttikattur Road.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-108",
+            "districtId": "kozhikode",
+            "title": "Kayappanachi - Kunnnumchira - Edacheri Road",
+            "shortTitle": "Kayappanachi-Edacheri Rd",
+            "category": "transport",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Improvements to Kayappanachi - Kunnnumchira - Edacheri (puthiyangadi) road.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-109",
+            "districtId": "kozhikode",
+            "title": "Coconut Agro Park, Vengeri",
+            "shortTitle": "Coconut Park Vengeri",
+            "category": "agriculture",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Coconut Agro Park, Vengeri.",
+            "impact": "Agricultural industry.",
+            "image": null,
+            "tags": [
+                "agriculture",
+                "park",
+                "coconut"
+            ]
+        },
+        {
+            "id": "proj-110",
+            "districtId": "kozhikode",
+            "title": "Coconut Agro Park, Koothali",
+            "shortTitle": "Coconut Park Koothali",
+            "category": "agriculture",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "COCONUT AGRO PARK at KOOTHALI.",
+            "impact": "Agricultural industry.",
+            "image": null,
+            "tags": [
+                "agriculture",
+                "park",
+                "coconut"
+            ]
+        },
+        {
+            "id": "proj-111",
+            "districtId": "kozhikode",
+            "title": "Institute for Organ and Tissue Transplant Chevayur",
+            "shortTitle": "Organ Transplant Institute",
+            "category": "health",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "CONSTRUCTION FOR ESTABLISHMENT OF INSTITUTE FOR ORGAN AND TISSUE TRANSPLANT CHEVAYUR.",
+            "impact": "Specialized medical facility.",
+            "image": null,
+            "tags": [
+                "health",
+                "institute"
+            ]
+        },
+        {
+            "id": "proj-112",
+            "districtId": "kozhikode",
+            "title": "Kozhikode Canal City Project",
+            "shortTitle": "Canal City Project",
+            "category": "infrastructure",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Kozhikode Canal City project.",
+            "impact": "Urban water infrastructure.",
+            "image": null,
+            "tags": [
+                "canal",
+                "urban",
+                "city project"
+            ]
+        },
+        {
+            "id": "proj-113",
+            "districtId": "kozhikode",
+            "title": "Kozhikode Cluster Phase 1 (General Education)",
+            "shortTitle": "Kozhikode Cluster Ph1",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹15.77 Crore",
+            "description": "Infrastructure upgradation of schools in Kozhikode Cluster 1.",
+            "impact": "School infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-114",
+            "districtId": "kozhikode",
+            "title": "Kozhikode Cluster 2 (General Education)",
+            "shortTitle": "Kozhikode Cluster 2",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹19.86 Crore",
+            "description": "Infrastructure upgradation of schools in Kozhikode Cluster 2.",
+            "impact": "School infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-115",
+            "districtId": "kozhikode",
+            "title": "Kozhikode Cluster 15 (General Education)",
+            "shortTitle": "Kozhikode Cluster 15",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹12.73 Crore",
+            "description": "Infrastructure upgradation of schools in Kozhikode Cluster 15.",
+            "impact": "School infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-116",
+            "districtId": "kozhikode",
+            "title": "Kozhikode Cluster 16 (General Education)",
+            "shortTitle": "Kozhikode Cluster 16",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹13.94 Crore",
+            "description": "Infrastructure upgradation of schools in Kozhikode Cluster 16.",
+            "impact": "School infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-117",
+            "districtId": "kozhikode",
+            "title": "Kozhikode Phase-3 Cluster 2",
+            "shortTitle": "Kozhikode Cluster Ph3-2",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹12.00 Crore",
+            "description": "Infrastructure upgradation of schools in Kozhikode Phase-3 Cluster 2.",
+            "impact": "School infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-118",
+            "districtId": "kozhikode",
+            "title": "Kozhikode Phase-3 Cluster 3",
+            "shortTitle": "Kozhikode Cluster Ph3-3",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹11.16 Crore",
+            "description": "Infrastructure upgradation of schools in Kozhikode Phase-3 Cluster 3.",
+            "impact": "School infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-119",
+            "districtId": "kozhikode",
+            "title": "Kozhikode Phase-3 Cluster 1",
+            "shortTitle": "Kozhikode Cluster Ph3-1",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹18.00 Crore",
+            "description": "Infrastructure upgradation of schools in Kozhikode Phase-3 Cluster 1.",
+            "impact": "School infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-120",
+            "districtId": "kozhikode",
+            "title": "KOZHIKODE CLUSTER Phase-7",
+            "shortTitle": "Kozhikode Cluster Ph7",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹13.67 Crore",
+            "description": "Infrastructure upgradation of schools in Kozhikode Cluster Phase 7.",
+            "impact": "School infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-121",
+            "districtId": "kozhikode",
+            "title": "Kozhikode Cluster (General Education)",
+            "shortTitle": "Kozhikode Cluster Generic",
+            "category": "education",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Infrastructure upgradation of schools in Kozhikode Cluster (Generic entry).",
+            "impact": "School infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        }
+    ]
+}

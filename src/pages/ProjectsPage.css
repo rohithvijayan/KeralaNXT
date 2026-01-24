@@ -282,6 +282,42 @@
     color: var(--color-text);
 }
 
+/* Statewide Option */
+.district-checkbox.statewide-option {
+    background: var(--color-primary-light);
+    border-radius: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.district-checkbox.statewide-option span {
+    font-weight: 600;
+    color: var(--color-primary);
+}
+
+/* Include Statewide Toggle */
+.include-statewide-toggle {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-top: 1rem;
+    padding: 0.75rem;
+    background: var(--color-background);
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+.include-statewide-toggle input {
+    width: 1rem;
+    height: 1rem;
+    accent-color: var(--color-primary);
+}
+
+.include-statewide-toggle span {
+    font-size: 0.8125rem;
+    font-weight: 500;
+    color: var(--color-text);
+}
+
 /* Status Toggles */
 .status-toggles {
     display: flex;

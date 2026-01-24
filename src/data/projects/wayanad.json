@@ -1,0 +1,672 @@
+{
+    "projects": [
+        {
+            "id": "proj-001",
+            "districtId": "wayanad",
+            "title": "Wayanad District Stadium",
+            "shortTitle": "Wayanad District Stadium",
+            "category": "sports",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹18.67 Crore",
+            "description": "Construction of District Stadium in Wayanad.",
+            "impact": "Enhances sports infrastructure in the district.",
+            "image": null,
+            "tags": [
+                "sports",
+                "stadium"
+            ]
+        },
+        {
+            "id": "proj-002",
+            "districtId": "wayanad",
+            "title": "Wayanad Cluster 25 (General Education)",
+            "shortTitle": "Wayanad Cluster 25",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹17.09 Crore",
+            "description": "Infrastructure upgradation of schools in Wayanad Cluster 25.",
+            "impact": "Improves school facilities.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-003",
+            "districtId": "wayanad",
+            "title": "Wayanad Cluster 26 (General Education)",
+            "shortTitle": "Wayanad Cluster 26",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹16.49 Crore",
+            "description": "Infrastructure upgradation of schools in Wayanad Cluster 26.",
+            "impact": "Improves school facilities.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-004",
+            "districtId": "wayanad",
+            "title": "Njettara Bridge",
+            "shortTitle": "Njettara Bridge",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹15.27 Crore",
+            "description": "Construction of Njettara Bridge across Kalinthi river in Thirunelli Panchayath.",
+            "impact": "Improves rural connectivity.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "transport"
+            ]
+        },
+        {
+            "id": "proj-005",
+            "districtId": "wayanad",
+            "title": "Thrissur - Wayanad Cluster (General Education)",
+            "shortTitle": "Thrissur-Wayanad Cluster",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹23.34 Crore",
+            "description": "Infrastructure upgradation of schools in Thrissur and Wayanad Cluster.",
+            "impact": "Educational infrastructure development.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-006",
+            "districtId": "wayanad",
+            "title": "Wayanad Cluster Phase-7",
+            "shortTitle": "Wayanad Cluster Ph7",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹12.00 Crore",
+            "description": "Infrastructure upgradation of schools in Wayanad Cluster Phase 7.",
+            "impact": "School facilities improvement.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-007",
+            "districtId": "wayanad",
+            "title": "Carbon Neutral Coffee Park",
+            "shortTitle": "Coffee Park",
+            "category": "industry",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹9.80 Crore",
+            "description": "Setting up of Carbon Neutral Coffee Park at Wayanad.",
+            "impact": "Promotes coffee industry and sustainability.",
+            "image": null,
+            "tags": [
+                "industry",
+                "agriculture",
+                "coffee"
+            ]
+        },
+        {
+            "id": "proj-008",
+            "districtId": "wayanad",
+            "title": "Mananthavady Kaithakkal Road",
+            "shortTitle": "Mananthavady-Kaithakkal Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹45.55 Crore",
+            "description": "Providing BM&BC to Mananthavady Kaithakkal road between km 0/000 to 10/415.",
+            "impact": "Road surface improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-009",
+            "districtId": "wayanad",
+            "title": "Mananthavady Pakramthalam Road",
+            "shortTitle": "Mananthavady-Pakramthalam Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹17.78 Crore",
+            "description": "Providing BM&BC in between chainage 20.540 to 25.430 of Mananthavady Pakramthalam road.",
+            "impact": "Road infrastructure upgrade.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-010",
+            "districtId": "wayanad",
+            "title": "Hill Highway Wayanad (Phase 1)",
+            "shortTitle": "Hill Highway Wayanad Ph1",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹186.65 Crore",
+            "description": "Construction of Hill Highway in Wayanad District-1st Phase: Kottiyoor Boys town road, Boys town-Valat Kunkichira road, Thalasseri Bavali Road, and Mananthavady-Kalpetta Road.",
+            "impact": "Major connectivity boost for high ranges.",
+            "image": null,
+            "tags": [
+                "roads",
+                "hill highway"
+            ]
+        },
+        {
+            "id": "proj-011",
+            "districtId": "wayanad",
+            "title": "Beenachi - Panamaram Road",
+            "shortTitle": "Beenachi-Panamaram Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹72.19 Crore",
+            "description": "Improvements and Upgradation of Beenachi - Panamaram Road between Km 0/000 - 22/200.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-012",
+            "districtId": "wayanad",
+            "title": "C.K. Omkaranadhan Indoor Stadium",
+            "shortTitle": "Omkaranadhan Stadium",
+            "category": "sports",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹36.76 Crore",
+            "description": "Construction of C.K. Omkaranadhan Indoor Stadium in Wayanad.",
+            "impact": "Sports infrastructure.",
+            "image": null,
+            "tags": [
+                "sports",
+                "stadium"
+            ]
+        },
+        {
+            "id": "proj-013",
+            "districtId": "wayanad",
+            "title": "PPE Mission - School Upgradation Wayanad",
+            "shortTitle": "PPE School Wayanad",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹10.00 Crore",
+            "description": "Upgradation of one school in each constituency - Wayanad District Phase-1.",
+            "impact": "School infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-014",
+            "districtId": "wayanad",
+            "title": "Kozhikode-Wayanad Cluster Phase-3",
+            "shortTitle": "Kozhikode-Wayanad Cluster Ph3",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹10.27 Crore",
+            "description": "Infrastructure upgradation of schools/colleges in Kozhikode-Wayanad Cluster Phase-3.",
+            "impact": "Educational facilities improvement.",
+            "image": null,
+            "tags": [
+                "education",
+                "college"
+            ]
+        },
+        {
+            "id": "proj-015",
+            "districtId": "wayanad",
+            "title": "WSS to Mananthvady, Edavaka and Nalloornadu",
+            "shortTitle": "WSS Mananthavady",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹18.00 Crore",
+            "description": "Distribution Line Extension from ongoing WSS to Mananthvady, Edavaka and Nalloornadu villages.",
+            "impact": "Water supply extension.",
+            "image": null,
+            "tags": [
+                "water supply",
+                "rural"
+            ]
+        },
+        {
+            "id": "proj-016",
+            "districtId": "wayanad",
+            "title": "Kozhikode Wayanad Cluster Engineering Colleges",
+            "shortTitle": "Engg Colleges Cluster",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹20.45 Crore",
+            "description": "Infrastructure development for Engineering colleges in Kozhikode and Wayanad cluster.",
+            "impact": "Higher education infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "college",
+                "engineering"
+            ]
+        },
+        {
+            "id": "proj-017",
+            "districtId": "wayanad",
+            "title": "Kaniyambatta-Meenanagdi Road",
+            "shortTitle": "Kaniyambatta-Meenanagdi Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹47.42 Crore",
+            "description": "Providing BM & BC to Kaniyambatta-Meenanagdi Road.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-018",
+            "districtId": "wayanad",
+            "title": "Kappiset Payyampally Road",
+            "shortTitle": "Kappiset-Payyampally Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹55.25 Crore",
+            "description": "Improvements and Upgradation of Kappiset Payyampally Road between KM 0/000 - 12/730 and 16/730-20/230.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-019",
+            "districtId": "wayanad",
+            "title": "NMSM Government College, Kalpetta",
+            "shortTitle": "NMSM College",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹13.29 Crore",
+            "description": "Augmentation of Infrastructure facilities at NMSM Goverment College, Kalpetta.",
+            "impact": "Higher education infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "college"
+            ]
+        },
+        {
+            "id": "proj-020",
+            "districtId": "wayanad",
+            "title": "Kozhikode-Wayanad Cluster Phase 2",
+            "shortTitle": "Kozhikode-Wayanad Cluster Ph2",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹30.00 Crore",
+            "description": "Phase 2 of infrastructure upgradation in Kozhikode-Wayanad Cluster.",
+            "impact": "Educational facilities improvement.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-021",
+            "districtId": "wayanad",
+            "title": "Anakkampoil Kalladi Meppadi Tunnel Road",
+            "shortTitle": "Wayanad Tunnel Road",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹2,134.50 Crore",
+            "description": "Construction of Anakkampoil Kalladi Meppadi Tunnel road connecting Kozhikode and Wayanad.",
+            "impact": "Major connectivity project to bypass Thamarassery ghat.",
+            "image": null,
+            "tags": [
+                "tunnel",
+                "transport",
+                "major project"
+            ]
+        },
+        {
+            "id": "proj-022",
+            "districtId": "wayanad",
+            "title": "Centre of Excellence in One Health (CoE-OH)",
+            "shortTitle": "CoE One Health",
+            "category": "health",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹11.94 Crore",
+            "description": "Centre of Excellence in One Health: Western Ghats Biodiversity, Wildlife-Human Interface, and Zoonotic Diseases (KVASU Pookode).",
+            "impact": "Research on zoonotic diseases and biodiversity.",
+            "image": null,
+            "tags": [
+                "health",
+                "research",
+                "veterinary"
+            ]
+        },
+        {
+            "id": "proj-023",
+            "districtId": "wayanad",
+            "title": "Wayanad Phase-3 Cluster",
+            "shortTitle": "Wayanad Cluster Ph3",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹15.70 Crore",
+            "description": "Infrastructure upgradation of schools in Wayanad Phase-3 Cluster.",
+            "impact": "School facilities improvement.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-024",
+            "districtId": "wayanad",
+            "title": "Meppadi-Chooralmala Road",
+            "shortTitle": "Meppadi-Chooralmala Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹50.15 Crore",
+            "description": "Improvements to Meppadi-Chooralmala Road.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-025",
+            "districtId": "wayanad",
+            "title": "Govt. Polytechnics (Cluster)",
+            "shortTitle": "Polytechnics Cluster",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹13.35 Crore",
+            "description": "Infrastructure for Govt. Polytechnic Meppadi, Govt. Polytechnic Mananthavady (part of multi-district cluster).",
+            "impact": "Technical education infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "polytechnic"
+            ]
+        },
+        {
+            "id": "proj-026",
+            "districtId": "wayanad",
+            "title": "Kalpetta-Varambatta Road",
+            "shortTitle": "Kalpetta-Varambatta Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹57.91 Crore",
+            "description": "Providing BM & BC to Kalpetta-Varambatta Road.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-027",
+            "districtId": "wayanad",
+            "title": "Hill Highway - Kalpetta Phase 2",
+            "shortTitle": "Hill Highway Kalpetta Ph2",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹63.78 Crore",
+            "description": "Hill Highway 2nd Phase Kalpetta Constituency: Pachilakkad-Kainatty-Kalpetta Bypass-Meppadi-Chooralmala Arunappuzha and Mananthavady-Kalpetta Road improvements.",
+            "impact": "Hill highway connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "hill highway"
+            ]
+        },
+        {
+            "id": "proj-028",
+            "districtId": "wayanad",
+            "title": "Wayanad Kozhikode Cluster Phase 4",
+            "shortTitle": "Wayanad Kozhikode Ph4",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹3.33 Crore",
+            "description": "Infrastructure upgradation in Wayanad Kozhikode Cluster Phase 4.",
+            "impact": "Educational facilities.",
+            "image": null,
+            "tags": [
+                "education",
+                "college"
+            ]
+        },
+        {
+            "id": "proj-029",
+            "districtId": "wayanad",
+            "title": "Sulthan Bathery- Cherambadi Road",
+            "shortTitle": "Sulthan Bathery-Cherambadi Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹46.93 Crore",
+            "description": "Improvements and upgradation of Sulthan Bathery- Cherambadi road.",
+            "impact": "Inter-state road connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-030",
+            "districtId": "wayanad",
+            "title": "Kalpetta Chuzhali Bridge",
+            "shortTitle": "Kalpetta Chuzhali Bridge",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹22.91 Crore",
+            "description": "Construction of Kalpetta Chuzhali Bridge.",
+            "impact": "Bridge connectivity.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "transport"
+            ]
+        },
+        {
+            "id": "proj-031",
+            "districtId": "wayanad",
+            "title": "Hill Highway: Kunhome - Niravilpuzha - Chunkakkutty",
+            "shortTitle": "Hill Highway Kunhome",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹36.52 Crore",
+            "description": "Hill Highway Kunhome - Niravilpuzha - Chunkakkutty (Ch 0/000 to Ch 8/521).",
+            "impact": "Hill highway connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "hill highway"
+            ]
+        },
+        {
+            "id": "proj-032",
+            "districtId": "wayanad",
+            "title": "Kaniyaram - Arattuthara Road",
+            "shortTitle": "Kaniyaram-Arattuthara Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹20.90 Crore",
+            "description": "Improvements to Kaniyaram- Arattuthara Road between km. 0/00 to 10/450.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-033",
+            "districtId": "wayanad",
+            "title": "Mannarkundu Bridge",
+            "shortTitle": "Mannarkundu Bridge",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹14.02 Crore",
+            "description": "Construction of Mannarkundu Bridge.",
+            "impact": "Bridge connectivity.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "transport"
+            ]
+        },
+        {
+            "id": "proj-034",
+            "districtId": "wayanad",
+            "title": "Kakkavayal Kolavayal Karyambadi Kenichira Pulpally Road",
+            "shortTitle": "Kakkavayal-Pulpally Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹41.73 Crore",
+            "description": "Providing BM&BC to Kakkavayal Kolavayal Karyambadi Kenichira Pulpally Road.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-035",
+            "districtId": "wayanad",
+            "title": "Taluk Head Quarters Hospital Vythiri",
+            "shortTitle": "THQH Vythiri",
+            "category": "health",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Development of Taluk Head Quarters Hospital Vythiri.",
+            "impact": "Healthcare infrastructure.",
+            "image": null,
+            "tags": [
+                "health",
+                "hospital"
+            ]
+        },
+        {
+            "id": "proj-036",
+            "districtId": "wayanad",
+            "title": "General Hospital Kalpetta",
+            "shortTitle": "GH Kalpetta",
+            "category": "health",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Development of General Hospital Kalpetta.",
+            "impact": "Healthcare infrastructure.",
+            "image": null,
+            "tags": [
+                "health",
+                "hospital"
+            ]
+        },
+        {
+            "id": "proj-037",
+            "districtId": "wayanad",
+            "title": "Mananthavady - Ondayangadi - Thrissilery - Scenery Road",
+            "shortTitle": "Mananthavady-Scenery Rd",
+            "category": "transport",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Improvements to Mananthavady - Ondayangadi - Thrissilery - Scenery Road km. 0/000 to 7/500.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-038",
+            "districtId": "wayanad",
+            "title": "Kottathara Dam Site Bridge",
+            "shortTitle": "Kottathara Bridge",
+            "category": "transport",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Construction of Kottathara Dam Site Bridge.",
+            "impact": "Bridge connectivity.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "transport"
+            ]
+        },
+        {
+            "id": "proj-039",
+            "districtId": "wayanad",
+            "title": "Midway Shelter at Maniyankode",
+            "shortTitle": "Midway Shelter Maniyankode",
+            "category": "infrastructure",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Construction of Midway Shelter at Maniyankode.",
+            "impact": "Pilgrim/Tourism amenities.",
+            "image": null,
+            "tags": [
+                "devaswom",
+                "tourism",
+                "shelter"
+            ]
+        }
+    ]
+}

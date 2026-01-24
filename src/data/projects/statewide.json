@@ -1,0 +1,758 @@
+{"projects":[
+  {
+    "id": "proj-001",
+    "districtId": "statewide",
+    "title": "Livelihood, Inclusion and Financial Empowerment (LIFE) Mission",
+    "shortTitle": "LIFE Mission",
+    "category": "housing",
+    "status": "ongoing",
+    "year": 2017,
+    "budget": "₹22,920 Crore",
+    "description": "Comprehensive housing scheme to provide safe housing to nearly 4.30 lakhs homeless and landless families in Kerala. Focuses on livelihood, inclusion, and financial empowerment alongside shelter. Utilizes pre-fab technology and housing complexes.",
+    "impact": "Completed construction of over 4.5 lakh homes by March 2025; aims for a state free of homelessness.",
+    "image": null,
+    "tags": [
+      "housing",
+      "welfare",
+      "poverty alleviation"
+    ]
+  },
+  {
+    "id": "proj-002",
+    "districtId": "statewide",
+    "title": "Kerala Fibre Optic Network (K-FON)",
+    "shortTitle": "K-FON",
+    "category": "IT",
+    "status": "ongoing",
+    "year": 2017,
+    "budget": "₹1,516 Crore",
+    "description": "State-wide core optical fibre network to provide high-speed internet connectivity to 30,000+ government offices and free internet to 20 lakh economically backward families. Declared internet access a basic human right.",
+    "impact": "Phase I completed; connected over 28,000 offices and thousands of BPL families; awarded Infrastructure Initiative of the Year 2024.",
+    "image": null,
+    "tags": [
+      "internet",
+      "digital infrastructure",
+      "connectivity"
+    ]
+  },
+  {
+    "id": "proj-003",
+    "districtId": "statewide",
+    "title": "Aardram Mission",
+    "shortTitle": "Aardram",
+    "category": "health",
+    "status": "ongoing",
+    "year": 2017,
+    "budget": null,
+    "description": "Transformation of Primary Health Centers (PHCs) into Family Health Centers (FHCs) with standardized facilities, extended timing, and patient-friendly outpatient services. Focuses on preventive care and lifestyle disease control.",
+    "impact": "Converted 674 out of 886 PHCs into FHCs by 2025; improved public health infrastructure significantly.",
+    "image": null,
+    "tags": [
+      "public health",
+      "primary care",
+      "infrastructure"
+    ]
+  },
+  {
+    "id": "proj-004",
+    "districtId": "statewide",
+    "title": "Haritha Keralam Mission",
+    "shortTitle": "Haritha Keralam",
+    "category": "environment",
+    "status": "ongoing",
+    "year": 2016,
+    "budget": null,
+    "description": "Umbrella mission for waste management, water conservation, and agricultural development. Initiatives include 'Pachathuruthu' (Green Islets), 'Ini Njan Ozhukatte' (river rejuvenation), and 'Net Zero Carbon Keralam'.",
+    "impact": "Rejuvenated 53,190 km of streams; created green islets; institutionalized decentralized waste management via Haritha Karma Sena.",
+    "image": null,
+    "tags": [
+      "environment",
+      "waste management",
+      "water conservation"
+    ]
+  },
+  {
+    "id": "proj-005",
+    "districtId": "statewide",
+    "title": "General Education Rejuvenation Mission (Vidyakiranam)",
+    "shortTitle": "Vidyakiranam",
+    "category": "education",
+    "status": "ongoing",
+    "year": 2017,
+    "budget": "₹5,000 Crore (Infrastructure)",
+    "description": "Modernization of public school infrastructure, converting classrooms to hi-tech digital classrooms, and enhancing academic standards. Includes 'Little KITEs' IT clubs and 'First Bell' digital classes.",
+    "impact": "Set up 45,000 hi-tech classrooms; reversed trend of student migration to private schools; highest public enrollment growth in 25 years.",
+    "image": null,
+    "tags": [
+      "education",
+      "digital",
+      "infrastructure"
+    ]
+  },
+  {
+    "id": "proj-006",
+    "districtId": "statewide",
+    "title": "SilverLine (Semi High-Speed Rail Corridor)",
+    "shortTitle": "SilverLine",
+    "category": "transport",
+    "status": "planned",
+    "year": 2020,
+    "budget": "₹63,941 Crore",
+    "description": "Proposed 529.45 km semi high-speed railway line connecting Kasaragod to Thiruvananthapuram. Designed to reduce travel time to less than 4 hours. Includes RORO services and feeder networks.",
+    "impact": "Expected to decongest highways and reduce carbon emissions; currently facing land acquisition and clearance delays.",
+    "image": null,
+    "tags": [
+      "railway",
+      "high-speed rail",
+      "infrastructure"
+    ]
+  },
+  {
+    "id": "proj-007",
+    "districtId": "statewide",
+    "title": "Transgrid 2.0",
+    "shortTitle": "Transgrid 2.0",
+    "category": "energy",
+    "status": "ongoing",
+    "year": 2017,
+    "budget": "₹5,200 Crore",
+    "description": "Comprehensive project to enhance the reliability and security of Kerala's electricity transmission system and reduce transmission losses. Involves construction of substations and high-tension lines.",
+    "impact": "Commissioned 12 substations; completed 1,746 circuit km of lines; expected to reduce peak load system loss by 107.8 MW.",
+    "image": null,
+    "tags": [
+      "power",
+      "transmission",
+      "infrastructure"
+    ]
+  },
+  {
+    "id": "proj-008",
+    "districtId": "statewide",
+    "title": "Rebuild Kerala Initiative (RKI)",
+    "shortTitle": "RKI",
+    "category": "others",
+    "status": "ongoing",
+    "year": 2019,
+    "budget": "₹36,500 Crore (Estimated Requirement)",
+    "description": "Strategic framework to rebuild the state following the 2018 floods with a focus on resilience, eco-friendly building strategies, and 'Room for River' concepts. Supported by World Bank and other agencies.",
+    "impact": "Repairing roads, restoring livelihoods, and creating resilient infrastructure across multiple sectors.",
+    "image": null,
+    "tags": [
+      "disaster recovery",
+      "resilience",
+      "infrastructure"
+    ]
+  },
+  {
+    "id": "proj-009",
+    "districtId": "statewide",
+    "title": "Coastal Highway Project",
+    "shortTitle": "Coastal Highway",
+    "category": "transport",
+    "status": "ongoing",
+    "year": 2017,
+    "budget": "₹6,500 Crore",
+    "description": "Construction of a dedicated highway along the Kerala coast from Thiruvananthapuram to Kasaragod. Features include cycle tracks and modern safety standards.",
+    "impact": "Will serve as an evacuation route and boost coastal tourism and connectivity.",
+    "image": null,
+    "tags": [
+      "roads",
+      "coastal",
+      "connectivity"
+    ]
+  },
+  {
+    "id": "proj-010",
+    "districtId": "statewide",
+    "title": "Hill Highway Project",
+    "shortTitle": "Hill Highway",
+    "category": "transport",
+    "status": "ongoing",
+    "year": 2017,
+    "budget": "₹3,500 Crore",
+    "description": "1,251 km highway network connecting the hilly eastern districts of Kerala from Nandarappadavu (Kasaragod) to Parassala (Thiruvananthapuram).",
+    "impact": "Improves connectivity in high-range areas; boosts freight movement and tourism.",
+    "image": null,
+    "tags": [
+      "roads",
+      "hill stations",
+      "connectivity"
+    ]
+  },
+  {
+    "id": "proj-011",
+    "districtId": "statewide",
+    "title": "Kerala Knowledge Economy Mission (KKEM)",
+    "shortTitle": "KKEM",
+    "category": "education",
+    "status": "ongoing",
+    "year": 2021,
+    "budget": null,
+    "description": "Initiative to transform Kerala into a knowledge economy by creating 20 lakh jobs for educated youth. Connects job seekers with global employers through a digital platform.",
+    "impact": "Facilitated employment for over 1.2 lakh individuals; created a digital platform for skill matching.",
+    "image": null,
+    "tags": [
+      "employment",
+      "skills",
+      "digital economy"
+    ]
+  },
+  {
+    "id": "proj-012",
+    "districtId": "statewide",
+    "title": "Extreme Poverty Eradication Programme (EPEP)",
+    "shortTitle": "EPEP",
+    "category": "social",
+    "status": "completed",
+    "year": 2021,
+    "budget": "₹1,000 Crore",
+    "description": "Targeted micro-plans to identify and uplift the 'poorest of the poor' families (approx 64,006) by providing food, health, housing, and income support.",
+    "impact": "Kerala declared the first extreme poverty-free state in India on November 1, 2025.",
+    "image": null,
+    "tags": [
+      "poverty",
+      "welfare",
+      "social security"
+    ]
+  },
+  {
+    "id": "proj-013",
+    "districtId": "statewide",
+    "title": "Year of Enterprises",
+    "shortTitle": "Year of Enterprises",
+    "category": "industry",
+    "status": "completed",
+    "year": 2022,
+    "budget": null,
+    "description": "Campaign to establish 1 lakh new Micro, Small, and Medium Enterprises (MSMEs) in one fiscal year. Provided subsidies, loan assistance, and simplified clearances.",
+    "impact": "Generated over 2.4 lakh jobs and investment of ₹6,667 crore; established nearly 1.4 lakh enterprises.",
+    "image": null,
+    "tags": [
+      "MSME",
+      "employment",
+      "industry"
+    ]
+  },
+  {
+    "id": "proj-014",
+    "districtId": "statewide",
+    "title": "Filament-Free Kerala",
+    "shortTitle": "Filament-Free Kerala",
+    "category": "energy",
+    "status": "ongoing",
+    "year": 2018,
+    "budget": null,
+    "description": "Project to replace inefficient filament bulbs with energy-efficient LED bulbs in all households to reduce energy consumption and carbon emissions.",
+    "impact": "Aims to reduce daily CO2 emissions by 2.5 million tonnes and mercury pollution.",
+    "image": null,
+    "tags": [
+      "energy efficiency",
+      "LED",
+      "environment"
+    ]
+  },
+  {
+    "id": "proj-015",
+    "districtId": "statewide",
+    "title": "Subhiksha Keralam",
+    "shortTitle": "Subhiksha Keralam",
+    "category": "agriculture",
+    "status": "ongoing",
+    "year": 2020,
+    "budget": null,
+    "description": "Integrated program to achieve self-sufficiency in food production post-COVID-19. Combines agriculture, animal husbandry, dairy, and fisheries to ensure food security.",
+    "impact": "Significant increase in vegetable and milk production; creation of livelihood assets like cattle sheds and farm ponds.",
+    "image": null,
+    "tags": [
+      "food security",
+      "agriculture",
+      "livelihood"
+    ]
+  },
+  {
+    "id": "proj-016",
+    "districtId": "statewide",
+    "title": "Punargeham Project",
+    "shortTitle": "Punargeham",
+    "category": "housing",
+    "status": "ongoing",
+    "year": 2019,
+    "budget": "₹2,450 Crore",
+    "description": "Rehabilitation project for fisher families living within 50 meters of the high tide line. Provides ₹10 lakh per family for relocation to safer zones.",
+    "impact": "Thousands of families rehabilitated; flats constructed in multiple coastal districts.",
+    "image": null,
+    "tags": [
+      "fisheries",
+      "rehabilitation",
+      "housing"
+    ]
+  },
+  {
+    "id": "proj-017",
+    "districtId": "statewide",
+    "title": "Jal Jeevan Mission (State Implementation)",
+    "shortTitle": "JJM Kerala",
+    "category": "infrastructure",
+    "status": "ongoing",
+    "year": 2019,
+    "budget": null,
+    "description": "Implementation of the central scheme to provide functional household tap connections (FHTC) to every rural household in Kerala.",
+    "impact": "Significantly increased rural water supply coverage.",
+    "image": null,
+    "tags": [
+      "water supply",
+      "rural",
+      "infrastructure"
+    ]
+  },
+  {
+    "id": "proj-018",
+    "districtId": "statewide",
+    "title": "Safe Kerala Project",
+    "shortTitle": "Safe Kerala",
+    "category": "transport",
+    "status": "ongoing",
+    "year": 2020,
+    "budget": "₹232 Crore",
+    "description": "Installation of Artificial Intelligence (AI) cameras and enforcement systems across state roads to detect traffic violations and reduce accidents.",
+    "impact": "Enhanced road safety monitoring and enforcement capabilities.",
+    "image": null,
+    "tags": [
+      "road safety",
+      "AI",
+      "enforcement"
+    ]
+  },
+  {
+    "id": "proj-019",
+    "districtId": "statewide",
+    "title": "K-Smart",
+    "shortTitle": "K-Smart",
+    "category": "IT",
+    "status": "ongoing",
+    "year": 2024,
+    "budget": null,
+    "description": "Digital platform to provide all services of Local Self Government Institutions (LSGIs) online. Aims for paperless and transparent local governance.",
+    "impact": "Streamlined service delivery for citizens across municipalities and corporations.",
+    "image": null,
+    "tags": [
+      "e-governance",
+      "local government",
+      "digital"
+    ]
+  },
+  {
+    "id": "proj-020",
+    "districtId": "statewide",
+    "title": "National Highway 66 Widening (State Share)",
+    "shortTitle": "NH-66 Widening",
+    "category": "transport",
+    "status": "ongoing",
+    "year": 2016,
+    "budget": "₹5,580 Crore (State Share)",
+    "description": "Widening of National Highway 66 to 45 meters from Kasaragod to Thiruvananthapuram. State government contributed 25% of land acquisition cost to expedite the project.",
+    "impact": "Rapid progress in 6-laning works across the state; expected completion by 2025.",
+    "image": null,
+    "tags": [
+      "roads",
+      "national highway",
+      "infrastructure"
+    ]
+  },
+  {
+    "id": "proj-021",
+    "districtId": "statewide",
+    "title": "GAIL Natural Gas Pipeline",
+    "shortTitle": "GAIL Pipeline",
+    "category": "energy",
+    "status": "completed",
+    "year": 2020,
+    "budget": null,
+    "description": "Completion of the Kochi-Mangaluru natural gas pipeline, connecting Kerala to the National Gas Grid. Facilitates city gas distribution and industrial usage.",
+    "impact": "Enabled piped gas supply to households and industries in northern Kerala.",
+    "image": null,
+    "tags": [
+      "energy",
+      "pipeline",
+      "infrastructure"
+    ]
+  },
+  {
+    "id": "proj-022",
+    "districtId": "statewide",
+    "title": "Anuyatra",
+    "shortTitle": "Anuyatra",
+    "category": "social",
+    "status": "ongoing",
+    "year": 2017,
+    "budget": null,
+    "description": "Comprehensive campaign to make Kerala a disability-friendly state. Includes early intervention, education, and rehabilitation programs like 'Spectrum' and 'Sruthitharangam'.",
+    "impact": "Improved accessibility and support systems for differently-abled individuals.",
+    "image": null,
+    "tags": [
+      "disability",
+      "social welfare",
+      "inclusion"
+    ]
+  },
+  {
+    "id": "proj-023",
+    "districtId": "statewide",
+    "title": "Kerala Bank",
+    "shortTitle": "Kerala Bank",
+    "category": "others",
+    "status": "completed",
+    "year": 2019,
+    "budget": null,
+    "description": "Formation of the Kerala State Co-operative Bank by merging District Co-operative Banks (except Malappuram) to create a strong banking entity for the state.",
+    "impact": "Enhanced financial inclusion and credit availability in the cooperative sector.",
+    "image": null,
+    "tags": [
+      "banking",
+      "cooperative",
+      "finance"
+    ]
+  },
+  {
+    "id": "proj-024",
+    "districtId": "statewide",
+    "title": "Digital Land Survey (Ente Bhumi)",
+    "shortTitle": "Ente Bhumi",
+    "category": "others",
+    "status": "ongoing",
+    "year": 2022,
+    "budget": "₹858 Crore",
+    "description": "Comprehensive digital resurvey of land across the state using modern technology like COR stations and drones to ensure accurate land records.",
+    "impact": "Expected to resolve land disputes and modernize revenue records.",
+    "image": null,
+    "tags": [
+      "land survey",
+      "digitization",
+      "revenue"
+    ]
+  },
+  {
+    "id": "proj-025",
+    "districtId": "statewide",
+    "title": "Kerala Solid Waste Management Project (KSWMP)",
+    "shortTitle": "KSWMP",
+    "category": "environment",
+    "status": "ongoing",
+    "year": 2022,
+    "budget": "₹2,400 Crore",
+    "description": "World Bank-assisted project to strengthen the institutional and service delivery systems for solid waste management in 93 Urban Local Bodies.",
+    "impact": "Improving waste collection, segregation, and treatment infrastructure in urban areas.",
+    "image": null,
+    "tags": [
+      "waste management",
+      "urban",
+      "world bank"
+    ]
+  },
+  {
+    "id": "proj-026",
+    "districtId": "statewide",
+    "title": "One District One Idea (ODOI)",
+    "shortTitle": "ODOI",
+    "category": "industry",
+    "status": "ongoing",
+    "year": 2023,
+    "budget": null,
+    "description": "Programme to foster innovation and development of MSME clusters in each district, focusing on unique local products and technologies.",
+    "impact": "Promoting cluster-based industrial growth.",
+    "image": null,
+    "tags": [
+      "MSME",
+      "innovation",
+      "industry"
+    ]
+  },
+  {
+    "id": "proj-027",
+    "districtId": "statewide",
+    "title": "Soura Project",
+    "shortTitle": "Soura",
+    "category": "energy",
+    "status": "ongoing",
+    "year": 2018,
+    "budget": null,
+    "description": "Rooftop solar energy project by KSEB targeting 1000 MW capacity addition by utilizing roof spaces of households and institutions.",
+    "impact": "Significant addition to renewable energy capacity.",
+    "image": null,
+    "tags": [
+      "solar energy",
+      "renewable",
+      "power"
+    ]
+  },
+  {
+    "id": "proj-028",
+    "districtId": "statewide",
+    "title": "e-Health Project",
+    "shortTitle": "e-Health",
+    "category": "health",
+    "status": "ongoing",
+    "year": 2017,
+    "budget": null,
+    "description": "Digital health database linking all government health institutions to provide seamless patient records and services. Implemented in all districts.",
+    "impact": "Digitized patient records and improved healthcare delivery efficiency.",
+    "image": null,
+    "tags": [
+      "digital health",
+      "IT",
+      "healthcare"
+    ]
+  },
+  {
+    "id": "proj-029",
+    "districtId": "statewide",
+    "title": "West Coast Canal Development",
+    "shortTitle": "West Coast Canal",
+    "category": "transport",
+    "status": "ongoing",
+    "year": 2017,
+    "budget": "₹2,472 Crore (KIIFB)",
+    "description": "Development of the inland waterway from Kovalam to Kasaragod (approx 600 km) to make it navigable for cargo and tourism.",
+    "impact": "Enhancing inland water transport and tourism potential.",
+    "image": null,
+    "tags": [
+      "waterways",
+      "transport",
+      "tourism"
+    ]
+  },
+  {
+    "id": "proj-030",
+    "districtId": "statewide",
+    "title": "Work Near Home (WNH)",
+    "shortTitle": "WNH",
+    "category": "IT",
+    "status": "ongoing",
+    "year": 2022,
+    "budget": "₹31.89 Crore (Phase 1)",
+    "description": "Establishment of remote work centres across the state to enable professionals to work for global companies from their hometowns.",
+    "impact": "Decentralizing IT employment and supporting the knowledge economy.",
+    "image": null,
+    "tags": [
+      "IT",
+      "employment",
+      "infrastructure"
+    ]
+  },
+  {
+    "id": "proj-031",
+    "districtId": "statewide",
+    "title": "Navakiranam",
+    "shortTitle": "Navakiranam",
+    "category": "environment",
+    "status": "ongoing",
+    "year": 2019,
+    "budget": null,
+    "description": "Voluntary relocation project for non-tribal settlements from forest areas to reduce human-wildlife conflict.",
+    "impact": "Facilitating safe relocation and forest conservation.",
+    "image": null,
+    "tags": [
+      "forest",
+      "rehabilitation",
+      "wildlife"
+    ]
+  },
+  {
+    "id": "proj-032",
+    "districtId": "statewide",
+    "title": "Construction of 10 bedded isolation wards in 140 LAC",
+    "shortTitle": "Isolation Wards",
+    "category": "health",
+    "status": "ongoing",
+    "year": 2020,
+    "budget": "₹236.30 Crore",
+    "description": "Project to construct 10-bedded isolation wards in hospitals across all 140 Legislative Assembly Constituencies to handle infectious diseases.",
+    "impact": "Strengthening healthcare infrastructure post-pandemic.",
+    "image": null,
+    "tags": [
+      "health infrastructure",
+      "pandemic response"
+    ]
+  },
+  {
+    "id": "proj-033",
+    "districtId": "statewide",
+    "title": "Kochi-Bengaluru Industrial Corridor (Kerala Stretch)",
+    "shortTitle": "KBIC",
+    "category": "industry",
+    "status": "ongoing",
+    "year": 2019,
+    "budget": "₹13,740 Crore (Land Acquisition)",
+    "description": "Development of industrial nodes in Palakkad and Kochi as part of the national corridor. Includes Integrated Manufacturing Clusters and GIFT City.",
+    "impact": "Expected to attract ₹10,000 crore investment and generate 1 lakh jobs.",
+    "image": null,
+    "tags": [
+      "industry",
+      "corridor",
+      "infrastructure"
+    ]
+  },
+  {
+    "id": "proj-034",
+    "districtId": "statewide",
+    "title": "10 Nos. Road Over Bridges across Kerala (Steel Concrete)",
+    "shortTitle": "10 ROBs",
+    "category": "infrastructure",
+    "status": "planned",
+    "year": 2020,
+    "budget": "₹296.51 Crore",
+    "description": "Construction of 10 Road Over Bridges using steel-concrete composite superstructure on Design Build and Transfer mode across the state.",
+    "impact": "Improving road safety and rail-road connectivity.",
+    "image": null,
+    "tags": [
+      "bridges",
+      "infrastructure",
+      "transport"
+    ]
+  },
+  {
+    "id": "proj-035",
+    "districtId": "statewide",
+    "title": "Apna Ghar",
+    "shortTitle": "Apna Ghar",
+    "category": "housing",
+    "status": "ongoing",
+    "year": 2017,
+    "budget": null,
+    "description": "Housing scheme providing high-quality dormitory accommodation for migrant workers with modern amenities.",
+    "impact": "Completed projects in Palakkad and Kozhikode; improved living conditions for migrant laborers.",
+    "image": null,
+    "tags": [
+      "migrant welfare",
+      "housing",
+      "social"
+    ]
+  },
+  {
+    "id": "proj-036",
+    "districtId": "statewide",
+    "title": "Safe to Eat",
+    "shortTitle": "Safe to Eat",
+    "category": "agriculture",
+    "status": "ongoing",
+    "year": 2017,
+    "budget": null,
+    "description": "Program to promote pesticide-free vegetable cultivation and sales, ensuring food safety.",
+    "impact": "Increased availability of safe produce.",
+    "image": null,
+    "tags": [
+      "food safety",
+      "agriculture",
+      "health"
+    ]
+  },
+  {
+    "id": "proj-037",
+    "districtId": "statewide",
+    "title": "Pink Police Patrol",
+    "shortTitle": "Pink Patrol",
+    "category": "social",
+    "status": "ongoing",
+    "year": 2016,
+    "budget": null,
+    "description": "Specialized police patrol units exclusively for the safety of women and children in public places.",
+    "impact": "Enhanced women's safety and quick response to distress calls.",
+    "image": null,
+    "tags": [
+      "women safety",
+      "police",
+      "social"
+    ]
+  },
+  {
+    "id": "proj-038",
+    "districtId": "statewide",
+    "title": "Agathirahitha Keralam (Destitute Free Kerala)",
+    "shortTitle": "Agathirahitha Keralam",
+    "category": "social",
+    "status": "ongoing",
+    "year": 2018,
+    "budget": null,
+    "description": "Scaled-up version of the Ashraya project to rehabilitate the absolute poor and destitute through micro-plans and support services.",
+    "impact": "Rehabilitating the poorest sections of society.",
+    "image": null,
+    "tags": [
+      "poverty",
+      "destitute",
+      "welfare"
+    ]
+  },
+  {
+    "id": "proj-039",
+    "districtId": "statewide",
+    "title": "Snehahastham",
+    "shortTitle": "Snehahastham",
+    "category": "social",
+    "status": "ongoing",
+    "year": 2016,
+    "budget": null,
+    "description": "Financial assistance scheme for kidney patients on dialysis, providing monthly pensions.",
+    "impact": "Supporting vulnerable patients with chronic illness.",
+    "image": null,
+    "tags": [
+      "health",
+      "pension",
+      "social security"
+    ]
+  },
+  {
+    "id": "proj-040",
+    "districtId": "statewide",
+    "title": "Creation of 45,000 Hi-Tech Classrooms",
+    "shortTitle": "Hi-Tech Classrooms",
+    "category": "education",
+    "status": "completed",
+    "year": 2018,
+    "budget": "₹493.50 Crore (Equipment)",
+    "description": "Project to equip 45,000 classrooms in public schools with computers, projectors, and internet connectivity.",
+    "impact": "Modernized public education infrastructure.",
+    "image": null,
+    "tags": [
+      "education",
+      "technology",
+      "infrastructure"
+    ]
+  },
+  {
+    "id": "proj-041",
+    "districtId": "statewide",
+    "title": "One Local Government One Idea (OLOI)",
+    "shortTitle": "OLOI",
+    "category": "others",
+    "status": "ongoing",
+    "year": 2023,
+    "budget": null,
+    "description": "Program encouraging each Local Self Government to identify and solve one core local issue through innovation and research partnerships.",
+    "impact": "Fostering local level innovation and problem solving.",
+    "image": null,
+    "tags": [
+      "governance",
+      "innovation",
+      "local government"
+    ]
+  },
+  {
+    "id": "proj-042",
+    "districtId": "statewide",
+    "title": "Kerala Genome Data Centre (KGDC)",
+    "shortTitle": "KGDC",
+    "category": "science",
+    "status": "ongoing",
+    "year": 2023,
+    "budget": "₹100 Crore",
+    "description": "Establishment of a genome data center to utilize Kerala's biodiversity for genetic research in agriculture, health, and fisheries.",
+    "impact": "Building a repository of genetic information for scientific advancement.",
+    "image": null,
+    "tags": [
+      "science",
+      "genomics",
+      "research"
+    ]
+  }
+]
+}
