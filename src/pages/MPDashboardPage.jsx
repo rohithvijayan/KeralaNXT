@@ -258,6 +258,13 @@ function MPDashboardPage() {
                                     onChange={(e) => setSearchQuery(e.target.value)}
                                 />
                             </div>
+                            <button
+                                className="compare-btn"
+                                onClick={() => navigate('/mp-comparison')}
+                            >
+                                <span className="material-symbols-outlined">compare_arrows</span>
+                                <span>Compare MPs</span>
+                            </button>
                             <button className="notification-btn">
                                 <span className="material-symbols-outlined">notifications</span>
                             </button>

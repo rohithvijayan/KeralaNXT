@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Mobile MP Comparison View - KeralaNXT</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#3c3cf6",
+                        "background-light": "#f5f5f8",
+                        "background-dark": "#101022",
+                        "mp-a": "#3B82F6",
+                        "mp-b": "#F59E0B",
+                    },
+                    fontFamily: {
+                        "display": ["Public Sans", "sans-serif"]
+                    },
+                    borderRadius: {
+                        "DEFAULT": "0.5rem",
+                        "lg": "1rem",
+                        "xl": "1.5rem",
+                        "full": "9999px"
+                    },
+                },
+            },
+        }
+    </script>
+    <style>
+        body {
+            font-family: "Public Sans", sans-serif;
+        }
+
+        .mobile-viewport {
+            width: 375px;
+            height: 812px;
+            overflow-y: auto;
+            scrollbar-width: none;
+            -ms-overflow-style: none;
+        }
+
+        .mobile-viewport::-webkit-scrollbar {
+            display: none;
+        }
+    </style>
+</head>
+
+<body class="bg-gray-200 dark:bg-gray-900 flex justify-center items-center min-h-screen py-10 font-display">
+    <!-- Mobile Container Emulator -->
+    <div
+        class="mobile-viewport relative bg-background-light dark:bg-background-dark shadow-2xl rounded-[3rem] border-[8px] border-gray-800 overflow-hidden flex flex-col">
+        <!-- Sticky Header Component -->
+        <header
+            class="sticky top-0 z-20 flex items-center justify-between bg-white/80 dark:bg-background-dark/80 backdrop-blur-md border-b border-gray-100 dark:border-gray-800 px-6 py-4">
+            <div class="flex items-center gap-3">
+                <button class="text-gray-600 dark:text-gray-300">
+                    <span class="material-symbols-outlined">arrow_back</span>
+                </button>
+                <h2 class="text-[#111118] dark:text-white text-lg font-bold leading-tight">Compare MPs</h2>
+            </div>
+            <button class="text-gray-600 dark:text-gray-300">
+                <span class="material-symbols-outlined">share</span>
+            </button>
+        </header>
+        <!-- Main Content Area -->
+        <main class="flex-1 overflow-y-auto pb-24">
+            <!-- MP Selectors Component -->
+            <div class="px-4 py-4">
+                <div class="flex gap-3">
+                    <label class="flex flex-col flex-1">
+                        <p
+                            class="text-[#60608a] dark:text-gray-400 text-xs font-semibold uppercase tracking-wider pb-1 px-1">
+                            MP A</p>
+                        <div class="relative">
+                            <select
+                                class="appearance-none w-full bg-white dark:bg-gray-800 border border-mp-a/30 dark:border-mp-a/50 rounded-xl px-3 py-2.5 text-sm font-medium focus:ring-2 focus:ring-mp-a outline-none text-[#111118] dark:text-white">
+                                <option>Shashi Tharoor</option>
+                                <option>Hibi Eden</option>
+                                <option>Rahul Gandhi</option>
+                            </select>
+                            <span
+                                class="material-symbols-outlined absolute right-2 top-2.5 text-mp-a pointer-events-none text-xl">expand_more</span>
+                        </div>
+                    </label>
+                    <label class="flex flex-col flex-1">
+                        <p
+                            class="text-[#60608a] dark:text-gray-400 text-xs font-semibold uppercase tracking-wider pb-1 px-1">
+                            MP B</p>
+                        <div class="relative">
+                            <select
+                                class="appearance-none w-full bg-white dark:bg-gray-800 border border-mp-b/30 dark:border-mp-b/50 rounded-xl px-3 py-2.5 text-sm font-medium focus:ring-2 focus:ring-mp-b outline-none text-[#111118] dark:text-white">
+                                <option>Hibi Eden</option>
+                                <option>Shashi Tharoor</option>
+                                <option>N.K. Premachandran</option>
+                            </select>
+                            <span
+                                class="material-symbols-outlined absolute right-2 top-2.5 text-mp-b pointer-events-none text-xl">expand_more</span>
+                        </div>
+                    </label>
+                </div>
+            </div>
+            <!-- Profile Cards Section -->
+            <div class="px-4 space-y-3">
+                <!-- Card A -->
+                <div
+                    class="flex items-center gap-4 rounded-xl bg-white dark:bg-gray-800 p-3 border-l-4 border-mp-a shadow-sm">
+                    <div class="size-14 rounded-full bg-center bg-cover border border-gray-100 dark:border-gray-700"
+                        data-alt="Portrait photo of MP Shashi Tharoor"
+                        style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuCoWOP-B7v6-viQJwd0IpdYxiumtZkohIhqBUukWAU0va7qzNnvDjIzosWL9CDEsbQT4-30ZngXRCOWI4wlkNCjUcmFBSnyYv8CY1QY7wFI4OR7x0rJf_WKfreE1G40jxbCZA6Scq2X8Q5y7v37VCXCLd-YjPYZJ2KbCa9CE1DlAe7M8kQ-Cx39dr2i7Tv2xKPZuNSSIWqvrDYvZAPX8Wg6JwKTTiKDeCqk4JGGEufWgsykBer6yZ1PzNBfWMmVQ26vyQAxVe88t-I");'>
+                    </div>
+                    <div class="flex flex-col">
+                        <p class="text-mp-a text-[10px] font-bold uppercase tracking-widest">INC - Thiruvananthapuram
+                        </p>
+                        <p class="text-[#111118] dark:text-white text-base font-bold">Shashi Tharoor</p>
+                        <p class="text-[#60608a] dark:text-gray-400 text-sm">Spent: <span
+                                class="font-bold text-[#111118] dark:text-white">₹4.85 Cr</span></p>
+                    </div>
+                </div>
+                <!-- Card B -->
+                <div
+                    class="flex items-center gap-4 rounded-xl bg-white dark:bg-gray-800 p-3 border-l-4 border-mp-b shadow-sm">
+                    <div class="size-14 rounded-full bg-center bg-cover border border-gray-100 dark:border-gray-700"
+                        data-alt="Portrait photo of MP Hibi Eden"
+                        style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuAFzZescJt449n0dGHM5SnlftgL_lOaXL5FFhX9VuxnENRaDAqMrlrQIPd4FPDi9Ipukt3Ln3aZauwO7369Lf8yHrctMh5xF_Xpz1STMfI7znp_dtysChL2Oits378-y7eDf8OxGZqyfVa7xLHYYgFiGYj-2PjNFnf5PIJXlNfMQPCpmPKYL9zMq-4dHpX3I2dx0n5vdeuxAgSuFRa59SskZpMI7U4NXZfvFKmlMJXKIVw0OH8PwxNmEbu2XXSZHb2nZxv3u6oVz-M");'>
+                    </div>
+                    <div class="flex flex-col">
+                        <p class="text-mp-b text-[10px] font-bold uppercase tracking-widest">INC - Ernakulam</p>
+                        <p class="text-[#111118] dark:text-white text-base font-bold">Hibi Eden</p>
+                        <p class="text-[#60608a] dark:text-gray-400 text-sm">Spent: <span
+                                class="font-bold text-[#111118] dark:text-white">₹3.92 Cr</span></p>
+                    </div>
+                </div>
+            </div>
+            <!-- Category Comparison Header -->
+            <div class="px-4 pt-8 pb-4">
+                <h3 class="text-[#111118] dark:text-white text-lg font-bold">Category Comparison</h3>
+                <p class="text-[#60608a] dark:text-gray-400 text-xs">Fund allocation across key sectors</p>
+            </div>
+            <!-- Comparison Rows -->
+            <div class="px-4 space-y-6">
+                <!-- Category: Roads -->
+                <div class="space-y-2">
+                    <div class="flex justify-between items-center px-1">
+                        <span class="text-sm font-semibold text-gray-700 dark:text-gray-300">Roads &amp;
+                            Infrastructure</span>
+                        <span class="text-[10px] text-gray-400 font-medium">LAKHS</span>
+                    </div>
+                    <div class="space-y-1.5">
+                        <div class="h-2 w-full bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
+                            <div class="h-full bg-mp-a rounded-full" style="width: 85%;"></div>
+                        </div>
+                        <div class="h-2 w-full bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
+                            <div class="h-full bg-mp-b rounded-full" style="width: 62%;"></div>
+                        </div>
+                    </div>
+                    <div class="flex justify-between text-[10px] font-bold">
+                        <span class="text-mp-a">₹182.4 L</span>
+                        <span class="text-mp-b">₹130.1 L</span>
+                    </div>
+                </div>
+                <!-- Category: Education -->
+                <div class="space-y-2">
+                    <div class="flex justify-between items-center px-1">
+                        <span class="text-sm font-semibold text-gray-700 dark:text-gray-300">Education &amp;
+                            Schools</span>
+                        <span class="text-[10px] text-gray-400 font-medium">LAKHS</span>
+                    </div>
+                    <div class="space-y-1.5">
+                        <div class="h-2 w-full bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
+                            <div class="h-full bg-mp-a rounded-full" style="width: 45%;"></div>
+                        </div>
+                        <div class="h-2 w-full bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
+                            <div class="h-full bg-mp-b rounded-full" style="width: 92%;"></div>
+                        </div>
+                    </div>
+                    <div class="flex justify-between text-[10px] font-bold">
+                        <span class="text-mp-a">₹95.0 L</span>
+                        <span class="text-mp-b">₹195.5 L</span>
+                    </div>
+                </div>
+                <!-- Category: Healthcare -->
+                <div class="space-y-2">
+                    <div class="flex justify-between items-center px-1">
+                        <span class="text-sm font-semibold text-gray-700 dark:text-gray-300">Healthcare &amp;
+                            Hygiene</span>
+                        <span class="text-[10px] text-gray-400 font-medium">LAKHS</span>
+                    </div>
+                    <div class="space-y-1.5">
+                        <div class="h-2 w-full bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
+                            <div class="h-full bg-mp-a rounded-full" style="width: 70%;"></div>
+                        </div>
+                        <div class="h-2 w-full bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
+                            <div class="h-full bg-mp-b rounded-full" style="width: 55%;"></div>
+                        </div>
+                    </div>
+                    <div class="flex justify-between text-[10px] font-bold">
+                        <span class="text-mp-a">₹142.2 L</span>
+                        <span class="text-mp-b">₹112.8 L</span>
+                    </div>
+                </div>
+                <!-- Category: Drinking Water -->
+                <div class="space-y-2">
+                    <div class="flex justify-between items-center px-1">
+                        <span class="text-sm font-semibold text-gray-700 dark:text-gray-300">Drinking Water</span>
+                        <span class="text-[10px] text-gray-400 font-medium">LAKHS</span>
+                    </div>
+                    <div class="space-y-1.5">
+                        <div class="h-2 w-full bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
+                            <div class="h-full bg-mp-a rounded-full" style="width: 30%;"></div>
+                        </div>
+                        <div class="h-2 w-full bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
+                            <div class="h-full bg-mp-b rounded-full" style="width: 40%;"></div>
+                        </div>
+                    </div>
+                    <div class="flex justify-between text-[10px] font-bold">
+                        <span class="text-mp-a">₹65.0 L</span>
+                        <span class="text-mp-b">₹82.1 L</span>
+                    </div>
+                </div>
+            </div>
+        </main>
+        <!-- Bottom Navigation Component -->
+        <nav
+            class="absolute bottom-0 w-full bg-white dark:bg-gray-900 border-t border-gray-100 dark:border-gray-800 px-6 py-3 flex justify-between items-center">
+            <button class="flex flex-col items-center gap-1 text-gray-400">
+                <span class="material-symbols-outlined">home</span>
+                <span class="text-[10px] font-medium">Home</span>
+            </button>
+            <button class="flex flex-col items-center gap-1 text-primary">
+                <span class="material-symbols-outlined fill-1">compare_arrows</span>
+                <span class="text-[10px] font-bold">Compare</span>
+            </button>
+            <button class="flex flex-col items-center gap-1 text-gray-400">
+                <span class="material-symbols-outlined">explore</span>
+                <span class="text-[10px] font-medium">News</span>
+            </button>
+            <button class="flex flex-col items-center gap-1 text-gray-400">
+                <span class="material-symbols-outlined">account_circle</span>
+                <span class="text-[10px] font-medium">Profile</span>
+            </button>
+        </nav>
+        <!-- Home Indicator (iOS style) -->
+        <div class="absolute bottom-1 left-1/2 -translate-x-1/2 w-32 h-1 bg-gray-300 dark:bg-gray-700 rounded-full">
+        </div>
+    </div>
+</body>
+
+</html>

@@ -1032,6 +1032,48 @@
     font-size: 16px;
 }
 
+.util-percent .view-more-btn span {
+    font-size: 16px;
+}
+
+/* Compare MPs Button */
+.compare-btn {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 20px;
+    background: var(--mp-primary);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.compare-btn:hover {
+    background: var(--mp-primary-dark);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(111, 98, 255, 0.3);
+}
+
+.compare-btn .material-symbols-outlined {
+    font-size: 20px;
+}
+
+@media (max-width: 768px) {
+    .compare-btn span:last-child {
+        display: none;
+    }
+
+    .compare-btn {
+        padding: 10px;
+        min-width: 44px;
+        justify-content: center;
+    }
+}
+
 @media (min-width: 1024px) {
     .util-percent {
         font-size: 18px;
