@@ -1,5 +1,5 @@
 import { useState, useEffect, useMemo } from 'react'
-import { useNavigate } from 'react-router-dom'
+import { useNavigate, useLocation } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
 import Header from '../components/Header'
 import ProjectModal from '../components/ProjectModal'
@@ -28,10 +28,14 @@ const sortOptions = [
 
 function ProjectsPage() {
     const navigate = useNavigate()
+    const location = useLocation()
+
+    // Read initial district from navigation state (from HomePage bottom sheet)
+    const initialDistrict = location.state?.selectedDistrict || 'all'
 
     // Filter states
     const [searchQuery, setSearchQuery] = useState('')
-    const [selectedDistrict, setSelectedDistrict] = useState('all')
+    const [selectedDistrict, setSelectedDistrict] = useState(initialDistrict)
     const [selectedCategory, setSelectedCategory] = useState('all')
     const [selectedStatus, setSelectedStatus] = useState('all')
     const [sortBy, setSortBy] = useState('recent')

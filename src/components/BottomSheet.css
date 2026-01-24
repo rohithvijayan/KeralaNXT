@@ -8,11 +8,12 @@
 
 .bottom-sheet {
     position: fixed;
-    bottom: 0;
+    /* Account for bottom navigation bar */
+    bottom: 70px;
     left: 0;
     right: 0;
     z-index: 50;
-    max-height: 65vh;
+    max-height: 55vh;
     background-color: var(--color-surface);
     border-radius: var(--radius-lg) var(--radius-lg) 0 0;
     box-shadow: var(--shadow-sheet);
@@ -29,6 +30,15 @@
         margin-right: auto;
         max-width: 420px;
         border-radius: var(--radius-xl) var(--radius-xl) 0 0;
+        /* On larger screens, may not need bottom offset */
+        bottom: 70px;
+    }
+}
+
+/* When there's no bottom nav (standalone/fullscreen) */
+@media (display-mode: standalone) {
+    .bottom-sheet {
+        bottom: env(safe-area-inset-bottom, 0);
     }
 }
 
@@ -96,7 +106,6 @@
 
 .bottom-sheet-footer {
     padding: 1rem 1.5rem;
-    padding-bottom: calc(1rem + env(safe-area-inset-bottom, 0));
     background-color: var(--color-surface);
     border-top: 1px solid var(--color-border);
 }

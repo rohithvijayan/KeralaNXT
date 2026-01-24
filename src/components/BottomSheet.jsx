@@ -9,7 +9,8 @@ function BottomSheet({ isOpen, onClose, district, projects }) {
     if (!district) return null
 
     const handleViewAll = () => {
-        navigate(`/district/${district.id}`)
+        // Navigate to projects page with district pre-selected
+        navigate('/projects', { state: { selectedDistrict: district.id } })
     }
 
     return (
