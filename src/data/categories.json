@@ -13,10 +13,10 @@
             "color": "#4A90A4"
         },
         {
-            "id": "healthcare",
-            "name": "Healthcare",
-            "icon": "local_hospital",
-            "color": "#6BAF92"
+            "id": "transport",
+            "name": "Transport",
+            "icon": "directions_subway",
+            "color": "#5B8DEF"
         },
         {
             "id": "education",
@@ -25,16 +25,28 @@
             "color": "#8B7EC8"
         },
         {
-            "id": "welfare",
-            "name": "Welfare",
-            "icon": "volunteer_activism",
-            "color": "#E8A87C"
+            "id": "health",
+            "name": "Healthcare",
+            "icon": "local_hospital",
+            "color": "#6BAF92"
         },
         {
-            "id": "transport",
-            "name": "Transport",
-            "icon": "directions_subway",
-            "color": "#5B8DEF"
+            "id": "energy",
+            "name": "Energy",
+            "icon": "bolt",
+            "color": "#F1C40F"
+        },
+        {
+            "id": "agriculture",
+            "name": "Agriculture",
+            "icon": "agriculture",
+            "color": "#2ECC71"
+        },
+        {
+            "id": "industry",
+            "name": "Industry",
+            "icon": "factory",
+            "color": "#E67E22"
         },
         {
             "id": "tourism",
@@ -43,22 +55,52 @@
             "color": "#7CB97C"
         },
         {
-            "id": "it",
-            "name": "IT Parks & Digital",
+            "id": "IT",
+            "name": "IT & Digital",
             "icon": "computer",
             "color": "#9B59B6"
-        },
-        {
-            "id": "agriculture_industry",
-            "name": "Agri & Industries",
-            "icon": "agriculture",
-            "color": "#e67e22"
         },
         {
             "id": "environment",
             "name": "Environment",
             "icon": "eco",
             "color": "#27ae60"
+        },
+        {
+            "id": "culture",
+            "name": "Culture",
+            "icon": "theater_comedy",
+            "color": "#E74C3C"
+        },
+        {
+            "id": "sports",
+            "name": "Sports",
+            "icon": "sports_soccer",
+            "color": "#F39C12"
+        },
+        {
+            "id": "housing",
+            "name": "Housing",
+            "icon": "home",
+            "color": "#34495E"
+        },
+        {
+            "id": "science",
+            "name": "Science",
+            "icon": "science",
+            "color": "#8E44AD"
+        },
+        {
+            "id": "social",
+            "name": "Social Welfare",
+            "icon": "groups",
+            "color": "#E8A87C"
+        },
+        {
+            "id": "others",
+            "name": "Others",
+            "icon": "more_horiz",
+            "color": "#95A5A6"
         }
     ]
 }

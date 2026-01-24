@@ -380,7 +380,10 @@ function ProjectsPage() {
                 </div>
 
                 {/* Projects Grid */}
-                <div className="projects-grid">
+                <div
+                    className="projects-grid"
+                    key={`${selectedCategory}-${selectedDistrict}-${selectedStatus}-${searchQuery}-${includeStatewide}`}
+                >
                     {filteredProjects.length > 0 ? (
                         filteredProjects.map((project, index) => (
                             <motion.article
