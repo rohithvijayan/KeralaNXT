@@ -4,13 +4,12 @@ import { motion, AnimatePresence } from 'framer-motion'
 import Header from '../components/Header'
 import ProjectModal from '../components/ProjectModal'
 import districtsData from '../data/districts.json'
-import projectsData from '../data/projects.json'
 import categoriesData from '../data/categories.json'
+import { loadAllProjects } from '../data/projectLoader'
 import './ProjectsPage.css'
 
 // Extract arrays from JSON objects
 const districts = districtsData.districts || []
-const projects = projectsData.projects || []
 const categories = (categoriesData.categories || []).filter(c => c.id !== 'all')
 
 const statusOptions = [
@@ -36,18 +35,54 @@ function ProjectsPage() {
     const [selectedCategory, setSelectedCategory] = useState('all')
     const [selectedStatus, setSelectedStatus] = useState('all')
     const [sortBy, setSortBy] = useState('recent')
+    const [includeStatewide, setIncludeStatewide] = useState(true)
 
     // UI states
     const [showFilters, setShowFilters] = useState(false)
     const [selectedProject, setSelectedProject] = useState(null)
 
-    // Get all projects from the data - handle the object format with projects array
-    const allProjects = useMemo(() => {
-        return projects.map(project => ({
-            ...project,
-            districtName: districts.find(d => d.id === project.districtId)?.name || 'Unknown'
-        }))
+    // Project loading states
+    const [allProjects, setAllProjects] = useState([])
+    const [isLoading, setIsLoading] = useState(true)
+
+    // Load all projects on mount
+    useEffect(() => {
+        const loadProjects = async () => {
+            setIsLoading(true)
+            try {
+                const projects = await loadAllProjects()
+                // Enrich with district names
+                const enrichedProjects = projects.map(project => ({
+                    ...project,
+                    districtName: project.districtId === 'statewide'
+                        ? 'Statewide'
+                        : districts.find(d => d.id === project.districtId)?.name || 'Unknown',
+                    isStatewide: project.districtId === 'statewide'
+                }))
+                setAllProjects(enrichedProjects)
+            } catch (error) {
+                console.error('Error loading projects:', error)
+                setAllProjects([])
+            } finally {
+                setIsLoading(false)
+            }
+        }
+
+        loadProjects()
     }, [])
+
+    // Helper function to parse budget string to number
+    const parseBudget = (budget) => {
+        if (!budget) return 0
+        if (typeof budget === 'number') return budget
+        // Handle strings like "₹19.43 Crore", "₹2,134.50 Crore", "₹0.00", etc.
+        const cleaned = budget.replace(/[₹,]/g, '').trim()
+        const match = cleaned.match(/^([\d.]+)/)
+        if (match) {
+            return parseFloat(match[1]) || 0
+        }
+        return 0
+    }
 
     // Filter and sort projects
     const filteredProjects = useMemo(() => {
@@ -64,8 +99,18 @@ function ProjectsPage() {
         }
 
         // District filter
-        if (selectedDistrict !== 'all') {
-            result = result.filter(p => p.districtId === selectedDistrict)
+        if (selectedDistrict === 'statewide') {
+            // Show only statewide projects
+            result = result.filter(p => p.isStatewide)
+        } else if (selectedDistrict !== 'all') {
+            // Show district projects + optionally statewide
+            result = result.filter(p =>
+                p.districtId === selectedDistrict ||
+                (includeStatewide && p.isStatewide)
+            )
+        } else if (!includeStatewide) {
+            // "All" selected but exclude statewide
+            result = result.filter(p => !p.isStatewide)
         }
 
         // Category filter - check both 'category' and 'categoryId' field names
@@ -78,24 +123,28 @@ function ProjectsPage() {
             result = result.filter(p => p.status === selectedStatus)
         }
 
-        // Sort
+        // Sort - apply sorting to a new array
+        const sortedResult = [...result]
         switch (sortBy) {
             case 'budget-high':
-                result.sort((a, b) => (b.budget || 0) - (a.budget || 0))
+                sortedResult.sort((a, b) => parseBudget(b.budget) - parseBudget(a.budget))
                 break
             case 'budget-low':
-                result.sort((a, b) => (a.budget || 0) - (b.budget || 0))
+                sortedResult.sort((a, b) => parseBudget(a.budget) - parseBudget(b.budget))
                 break
             case 'name':
-                result.sort((a, b) => a.title.localeCompare(b.title))
+                sortedResult.sort((a, b) => a.title.localeCompare(b.title))
+                break
+            case 'recent':
+                // Sort by year descending (most recent first)
+                sortedResult.sort((a, b) => (b.year || 0) - (a.year || 0))
                 break
             default:
-                // Keep original order (most recent)
                 break
         }
 
-        return result
-    }, [allProjects, searchQuery, selectedDistrict, selectedCategory, selectedStatus, sortBy])
+        return sortedResult
+    }, [allProjects, searchQuery, selectedDistrict, selectedCategory, selectedStatus, sortBy, includeStatewide])
 
     const getStatusClass = (status) => {
         switch (status) {
@@ -158,6 +207,7 @@ function ProjectsPage() {
                     onChange={(e) => setSelectedDistrict(e.target.value)}
                 >
                     <option value="all">All Districts</option>
+                    <option value="statewide">🌐 Statewide Projects</option>
                     {districts.map(d => (
                         <option key={d.id} value={d.id}>{d.name}</option>
                     ))}
@@ -237,6 +287,15 @@ function ProjectsPage() {
                                 )}
                             </div>
                             <div className="district-list">
+                                <label className="district-checkbox statewide-option">
+                                    <input
+                                        type="radio"
+                                        name="district"
+                                        checked={selectedDistrict === 'statewide'}
+                                        onChange={() => setSelectedDistrict('statewide')}
+                                    />
+                                    <span>🌐 Statewide Projects</span>
+                                </label>
                                 {districts.map(d => (
                                     <label key={d.id} className="district-checkbox">
                                         <input
@@ -249,6 +308,17 @@ function ProjectsPage() {
                                     </label>
                                 ))}
                             </div>
+                            {/* Include statewide toggle - only show when a specific district is selected */}
+                            {selectedDistrict !== 'all' && selectedDistrict !== 'statewide' && (
+                                <label className="include-statewide-toggle">
+                                    <input
+                                        type="checkbox"
+                                        checked={includeStatewide}
+                                        onChange={(e) => setIncludeStatewide(e.target.checked)}
+                                    />
+                                    <span>Include statewide projects</span>
+                                </label>
+                            )}
                         </div>
 
                         {/* Status */}

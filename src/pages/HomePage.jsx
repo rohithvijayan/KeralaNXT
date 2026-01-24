@@ -1,22 +1,45 @@
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useEffect } from 'react'
 import { motion } from 'framer-motion'
 import Header from '../components/Header'
 import KeralaMap from '../components/KeralaMap'
 import BottomSheet from '../components/BottomSheet'
 import districtsData from '../data/districts.json'
-import projectsData from '../data/projects.json'
+import { loadDistrictProjects, loadStatewideProjects } from '../data/projectLoader'
 import './HomePage.css'
 
 function HomePage() {
     const [selectedDistrict, setSelectedDistrict] = useState(null)
     const [isBottomSheetOpen, setIsBottomSheetOpen] = useState(false)
+    const [selectedProjects, setSelectedProjects] = useState([])
+    const [isLoadingProjects, setIsLoadingProjects] = useState(false)
 
     const districts = districtsData.districts
 
-    // Get projects for selected district
-    const selectedProjects = useMemo(() => {
-        if (!selectedDistrict) return []
-        return projectsData.projects.filter(p => p.districtId === selectedDistrict.id)
+    // Load projects when district is selected
+    useEffect(() => {
+        if (!selectedDistrict) {
+            setSelectedProjects([])
+            return
+        }
+
+        const loadProjects = async () => {
+            setIsLoadingProjects(true)
+            try {
+                // Load district projects and statewide projects in parallel
+                const [districtProjects, statewideProjects] = await Promise.all([
+                    loadDistrictProjects(selectedDistrict.id),
+                    loadStatewideProjects()
+                ])
+                setSelectedProjects([...districtProjects, ...statewideProjects])
+            } catch (error) {
+                console.error('Error loading projects:', error)
+                setSelectedProjects([])
+            } finally {
+                setIsLoadingProjects(false)
+            }
+        }
+
+        loadProjects()
     }, [selectedDistrict])
 
     const handleDistrictSelect = (district) => {

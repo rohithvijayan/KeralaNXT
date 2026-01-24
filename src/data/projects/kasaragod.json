@@ -1,0 +1,1369 @@
+{
+    "projects": [
+        {
+            "id": "proj-001",
+            "districtId": "kasaragod",
+            "title": "Ramanchira Bridge",
+            "shortTitle": "Ramanchira Bridge",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2016,
+            "budget": "₹19.43 Crore",
+            "description": "Construction of Ramanchira Bridge across Muttoli River in Kasaragod District.",
+            "impact": "Bridge connectivity.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "transport"
+            ]
+        },
+        {
+            "id": "proj-002",
+            "districtId": "kasaragod",
+            "title": "Improvements to Hosdurg-Panathur Road",
+            "shortTitle": "Hosdurg-Panathur Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2016,
+            "budget": "₹62.01 Crore",
+            "description": "Improvements to Hosdurg-Panathur road by providing BM and BC from 24/000 to 42/000.",
+            "impact": "Road infrastructure upgrade.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-003",
+            "districtId": "kasaragod",
+            "title": "Kasaragod Cluster - 24 (General Education)",
+            "shortTitle": "Kasaragod Cluster 24",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹12.15 Crore",
+            "description": "Infrastructure upgradation of schools in Kasaragod Cluster - 24.",
+            "impact": "School facilities improvement.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-004",
+            "districtId": "kasaragod",
+            "title": "Kottikkulam ROB",
+            "shortTitle": "Kottikkulam ROB",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹22.83 Crore",
+            "description": "Construction of Kottikkulam Railway Over Bridge.",
+            "impact": "Railway crossing safety.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "railway"
+            ]
+        },
+        {
+            "id": "proj-005",
+            "districtId": "kasaragod",
+            "title": "Kolathunadu Lines Package",
+            "shortTitle": "Kolathunadu Lines",
+            "category": "energy",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹262.54 Crore",
+            "description": "Kolathunadu Lines Package (Power Department).",
+            "impact": "Power transmission infrastructure.",
+            "image": null,
+            "tags": [
+                "power",
+                "energy"
+            ]
+        },
+        {
+            "id": "proj-006",
+            "districtId": "kasaragod",
+            "title": "Kannur-Kozhikode-Kasargode Cluster Phase-3",
+            "shortTitle": "Kannur-Kozhikode-Kasargode Ph3",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹34.82 Crore",
+            "description": "Infrastructure upgradation for Higher Education Department in Kannur-Kozhikode-Kasargode Cluster Phase-3.",
+            "impact": "Higher education infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "college"
+            ]
+        },
+        {
+            "id": "proj-007",
+            "districtId": "kasaragod",
+            "title": "Vallikadavu Bridge (Hill Highway)",
+            "shortTitle": "Vallikadavu Bridge",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Construction of Vallikadavu Bridge at Km 18/250 of Kolichal Cherupuzha reach.",
+            "impact": "Hill highway connectivity.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "hill highway"
+            ]
+        },
+        {
+            "id": "proj-008",
+            "districtId": "kasaragod",
+            "title": "Palakkad-Kannur-Kasargode Cluster Phase-7",
+            "shortTitle": "Palakkad-Kannur-Kasargode Ph7",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹11.84 Crore",
+            "description": "Infrastructure upgradation of schools in Palakkad-Kannur-Kasargode Cluster Phase-7.",
+            "impact": "School infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-009",
+            "districtId": "kasaragod",
+            "title": "Improvements to Bovikanam - Kuttikol Road",
+            "shortTitle": "Bovikanam-Kuttikol Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹58.30 Crore",
+            "description": "Improvements to Bovikanam - Kanthur - Erinjipuzha - Kuttikol road KM 0/000 to 17/000.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-010",
+            "districtId": "kasaragod",
+            "title": "Improvements to Kayyur-Chebrakanam-Palakunnu Road",
+            "shortTitle": "Kayyur-Palakunnu Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹36.64 Crore",
+            "description": "Improvements and Providing DBM & BC to Kayyur-Chebrakanam-Palakunnu Road 0/00 to 12/270.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-011",
+            "districtId": "kasaragod",
+            "title": "Kasargode Cluster Phase 2",
+            "shortTitle": "Kasargode Cluster Ph2",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹15.00 Crore",
+            "description": "Infrastructure upgradation of schools in Kasargode Cluster Phase 2.",
+            "impact": "School infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-012",
+            "districtId": "kasaragod",
+            "title": "Kasaragod Cluster 1",
+            "shortTitle": "Kasaragod Cluster 1",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹15.45 Crore",
+            "description": "Infrastructure upgradation of schools in Kasaragod Cluster 1.",
+            "impact": "School infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-013",
+            "districtId": "kasaragod",
+            "title": "Thrikkaripur ROB",
+            "shortTitle": "Thrikkaripur ROB",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹53.09 Crore",
+            "description": "Construction of ROB at Thrikkaripur (LC No. 266).",
+            "impact": "Railway crossing safety.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "railway"
+            ]
+        },
+        {
+            "id": "proj-014",
+            "districtId": "kasaragod",
+            "title": "Kannur, Kozhikode, Kasaragod Cluster",
+            "shortTitle": "Kannur-Kozhikode-Kasaragod",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹7.76 Crore",
+            "description": "Infrastructure upgradation of schools in Kannur, Kozhikode, Kasaragod Cluster.",
+            "impact": "School infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-015",
+            "districtId": "kasaragod",
+            "title": "Ernakulam, Alappuzha, Kannur, Malappuram, Kasargod Cluster",
+            "shortTitle": "Multi-District Cluster",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹10.29 Crore",
+            "description": "Infrastructure upgradation of schools in Ernakulam, Alappuzha, Kannur, Malappuram, Kasargod Cluster.",
+            "impact": "School infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-016",
+            "districtId": "kasaragod",
+            "title": "Kasaragod Cluster 2",
+            "shortTitle": "Kasaragod Cluster 2",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹15.54 Crore",
+            "description": "Infrastructure upgradation of schools in Kasaragod Cluster 2.",
+            "impact": "School infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-017",
+            "districtId": "kasaragod",
+            "title": "Valiyaparamba Bridge (Coastal Highway)",
+            "shortTitle": "Valiyaparamba Bridge",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹59.94 Crore",
+            "description": "Construction of Valiyaparamba Bridge as part of Coastal Highway.",
+            "impact": "Coastal connectivity.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "coastal highway"
+            ]
+        },
+        {
+            "id": "proj-018",
+            "districtId": "kasaragod",
+            "title": "Coastal Highway Reach 2: Valiyaparamba to Pannikunnu",
+            "shortTitle": "Coastal Highway R2",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹44.69 Crore",
+            "description": "Coastal Highway Reach 2 - Valiyaparamba Bridge to Pannikunnu (57.23km).",
+            "impact": "Coastal connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "coastal highway"
+            ]
+        },
+        {
+            "id": "proj-019",
+            "districtId": "kasaragod",
+            "title": "Improvements to Kiliyalam- Varanhoor Road",
+            "shortTitle": "Kiliyalam-Varanhoor Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹30.17 Crore",
+            "description": "Improvements and providing DBM and BC to Kiliyalam- Varanhoor road KM 0/000 to 10/000.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-020",
+            "districtId": "kasaragod",
+            "title": "Hosangadi ROB",
+            "shortTitle": "Hosangadi ROB",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹40.64 Crore",
+            "description": "Construction of ROB at Hosangadi (LC No. 289).",
+            "impact": "Railway crossing safety.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "railway"
+            ]
+        },
+        {
+            "id": "proj-021",
+            "districtId": "kasaragod",
+            "title": "Improvements to Kalladka - Perla - Ukkinadka Road",
+            "shortTitle": "Kalladka-Ukkinadka Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹27.39 Crore",
+            "description": "Improvements to Kalladka - Perla - Ukkinadka Road 23/227 to 32/827.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-022",
+            "districtId": "kasaragod",
+            "title": "Kannur & Kasargod Cluster - Phase 1",
+            "shortTitle": "Kannur-Kasargod Ph1",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹9.00 Crore",
+            "description": "Infrastructure upgradation of schools in Kannur & Kasargod Cluster - Phase 1.",
+            "impact": "School infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-023",
+            "districtId": "kasaragod",
+            "title": "Uduma ROB",
+            "shortTitle": "Uduma ROB",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹36.56 Crore",
+            "description": "Construction of ROB at Uduma (LC No. 281).",
+            "impact": "Railway crossing safety.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "railway"
+            ]
+        },
+        {
+            "id": "proj-024",
+            "districtId": "kasaragod",
+            "title": "Development of Taluk Hospital, Bedadka",
+            "shortTitle": "TH Bedadka",
+            "category": "health",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹12.97 Crore",
+            "description": "Development of Taluk Hospital, Bedadka.",
+            "impact": "Healthcare infrastructure.",
+            "image": null,
+            "tags": [
+                "health",
+                "hospital"
+            ]
+        },
+        {
+            "id": "proj-025",
+            "districtId": "kasaragod",
+            "title": "Edachakai-Nadakavu ROB",
+            "shortTitle": "Edachakai-Nadakavu ROB",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹32.24 Crore",
+            "description": "Construction of ROB at Edachakai-Nadakavu (LC No. 267).",
+            "impact": "Railway crossing safety.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "railway"
+            ]
+        },
+        {
+            "id": "proj-026",
+            "districtId": "kasaragod",
+            "title": "Hill Highway: Kolichal - Cherupuzha",
+            "shortTitle": "Hill Highway Kolichal",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹89.24 Crore",
+            "description": "Improvements to Hill Highway Kolichal- Cherupuzha - Road Km 0/000 to 30/377 BM & BC.",
+            "impact": "Hill highway connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "hill highway"
+            ]
+        },
+        {
+            "id": "proj-027",
+            "districtId": "kasaragod",
+            "title": "Hill Highway: Kolichal - Edapparamba",
+            "shortTitle": "Hill Highway Edapparamba",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹85.15 Crore",
+            "description": "Improvements to the Hill high way Kolichal Edapparamba road at KM 0/000 to 24/400.",
+            "impact": "Hill highway connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "hill highway"
+            ]
+        },
+        {
+            "id": "proj-028",
+            "districtId": "kasaragod",
+            "title": "Development of Taluk Hospital Neeleswaram",
+            "shortTitle": "TH Neeleswaram",
+            "category": "health",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹13.02 Crore",
+            "description": "Development of Taluk Hospital Neeleswaram.",
+            "impact": "Healthcare infrastructure.",
+            "image": null,
+            "tags": [
+                "health",
+                "hospital"
+            ]
+        },
+        {
+            "id": "proj-029",
+            "districtId": "kasaragod",
+            "title": "Kasargode Phase-3 Cluster (General Education)",
+            "shortTitle": "Kasargode Cluster Ph3",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹3.00 Crore",
+            "description": "Infrastructure upgradation of schools in Kasargode Phase-3 Cluster.",
+            "impact": "School infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-030",
+            "districtId": "kasaragod",
+            "title": "Hill Highway: Nandarapadvu to Chevar",
+            "shortTitle": "Hill Highway Nandarapadvu",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹54.76 Crore",
+            "description": "Improvements to the Hill high way road From Nandarapadvu to Chevar at KM 0/000 to 23/000.",
+            "impact": "Hill highway connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "hill highway"
+            ]
+        },
+        {
+            "id": "proj-031",
+            "districtId": "kasaragod",
+            "title": "GMC Kasaragod Hospital Block (Balance Works)",
+            "shortTitle": "GMC Kasaragod",
+            "category": "health",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹54.69 Crore",
+            "description": "Balance Civil, PHE and Fire protection works of Hospital block at GMC, Kasaragod.",
+            "impact": "Medical college infrastructure.",
+            "image": null,
+            "tags": [
+                "health",
+                "hospital",
+                "medical college"
+            ]
+        },
+        {
+            "id": "proj-032",
+            "districtId": "kasaragod",
+            "title": "Kannur Kasargod Cluster-Phase III",
+            "shortTitle": "Kannur-Kasargod Cluster Ph3",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹20.00 Crore",
+            "description": "Infrastructure upgradation of schools in Kannur Kasargod cluster-Phase III.",
+            "impact": "School infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-033",
+            "districtId": "kasaragod",
+            "title": "Kushal Nagar ROB",
+            "shortTitle": "Kushal Nagar ROB",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹34.71 Crore",
+            "description": "Construction of ROB at Kushal Nagar (LC No. 273).",
+            "impact": "Railway crossing safety.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "railway"
+            ]
+        },
+        {
+            "id": "proj-034",
+            "districtId": "kasaragod",
+            "title": "Kasargod Cluster Phase 1",
+            "shortTitle": "Kasargod Cluster Ph1",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹9.00 Crore",
+            "description": "Infrastructure upgradation of schools in Kasargod cluster Phase 1.",
+            "impact": "School infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-035",
+            "districtId": "kasaragod",
+            "title": "Manjeswar ROB",
+            "shortTitle": "Manjeswar ROB",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹40.40 Crore",
+            "description": "Construction of ROB at Manjeswar (LC No. 291).",
+            "impact": "Railway crossing safety.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "railway"
+            ]
+        },
+        {
+            "id": "proj-036",
+            "districtId": "kasaragod",
+            "title": "Padannakkad Over Bridge-Vellarikundu Road",
+            "shortTitle": "Padannakkad-Vellarikundu Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹9.38 Crore",
+            "description": "Improvements by providing DBM and BC Padannakkad over Bridge-Vellarikundu road Km 0/000 to 31/100.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-037",
+            "districtId": "kasaragod",
+            "title": "Upgradation of EK Nayanar Memorial ITI Kayyur",
+            "shortTitle": "ITI Kayyur",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹13.74 Crore",
+            "description": "Upgradation of EK Nayanar Memorial ITI Kayyur (Shared project).",
+            "impact": "Vocational training infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "ITI",
+                "skills"
+            ]
+        },
+        {
+            "id": "proj-038",
+            "districtId": "kasaragod",
+            "title": "Improvements to Kalladka - Cherkala Road",
+            "shortTitle": "Kalladka-Cherkala Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹39.76 Crore",
+            "description": "Improvements to Kalladka - Cherkala Road km 33/000 to 52/192.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-039",
+            "districtId": "kasaragod",
+            "title": "Alappuzha, Kasaragod Cluster",
+            "shortTitle": "Alappuzha-Kasaragod Cluster",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹17.79 Crore",
+            "description": "Infrastructure upgradation of schools in Alappuzha, Kasaragod Cluster.",
+            "impact": "School infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-040",
+            "districtId": "kasaragod",
+            "title": "Beericheri ROB",
+            "shortTitle": "Beericheri ROB",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹28.23 Crore",
+            "description": "Beericheri ROB - ROB in lieu of LC no: 265 at Km.792/600-700 in between Payyanur and Trikaripur Railway Stations.",
+            "impact": "Railway crossing safety.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "railway"
+            ]
+        },
+        {
+            "id": "proj-041",
+            "districtId": "kasaragod",
+            "title": "GMC Kasargode MEP Works",
+            "shortTitle": "GMC Kasargode MEP",
+            "category": "health",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹36.45 Crore",
+            "description": "Development of Government Medical College Kasargode (MEP Works).",
+            "impact": "Medical college infrastructure.",
+            "image": null,
+            "tags": [
+                "health",
+                "hospital",
+                "medical college"
+            ]
+        },
+        {
+            "id": "proj-042",
+            "districtId": "kasaragod",
+            "title": "Neeleswaram EMS Stadium",
+            "shortTitle": "Neeleswaram Stadium",
+            "category": "sports",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹17.04 Crore",
+            "description": "Construction of Neeleswaram EMS Stadium.",
+            "impact": "Sports infrastructure.",
+            "image": null,
+            "tags": [
+                "sports",
+                "stadium"
+            ]
+        },
+        {
+            "id": "proj-043",
+            "districtId": "kasaragod",
+            "title": "Taluk Head Quarters Hospital, Mangalpady",
+            "shortTitle": "THQH Mangalpady",
+            "category": "health",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹16.28 Crore",
+            "description": "Development of Taluk Head Quarters Hospital, Mangalpady.",
+            "impact": "Healthcare infrastructure.",
+            "image": null,
+            "tags": [
+                "health",
+                "hospital"
+            ]
+        },
+        {
+            "id": "proj-044",
+            "districtId": "kasaragod",
+            "title": "IMPROVEMENTS TO CHERUVATHUR- CHEEMENI- I T PARK- PALAVAYAL - BEEMANADY - MUKKADA ROAD",
+            "shortTitle": "Cheruvathur-Mukkada Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹121.43 Crore",
+            "description": "IMPROVEMENTS TO CHERUVATHUR- CHEEMENI- I T PARK- PALAVAYAL - BEEMANADY - MUKKADA ROAD BY PROVIDING DGBM and BC.",
+            "impact": "Major road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-045",
+            "districtId": "kasaragod",
+            "title": "WSS to Kasargod Municipality and Chemmanad Panchayath - Phase I",
+            "shortTitle": "WSS Kasargod Ph1",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹76.00 Crore",
+            "description": "Water Supply Scheme to Kasargod Municipality and Chemmanad Panchayath - Phase - I.",
+            "impact": "Urban water supply.",
+            "image": null,
+            "tags": [
+                "water supply",
+                "urban"
+            ]
+        },
+        {
+            "id": "proj-046",
+            "districtId": "kasaragod",
+            "title": "PPE Mission Schools (Kannur & Kasargod Phase 1)",
+            "shortTitle": "PPE Schools Ph1",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹20.00 Crore",
+            "description": "PPE Mission-Upgradation of one school in each constituency- Kannur & Kasargod Districts Phase-1.",
+            "impact": "School facilities improvement.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-047",
+            "districtId": "kasaragod",
+            "title": "Kalikkadavu, Madakkal & Padanna Thekkekadavu Bridges",
+            "shortTitle": "Kalikkadavu Bridges",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹9.93 Crore",
+            "description": "Construction of Kalikkadavu bridge across Chaitravahini puzha, Madakkal kadavu Bridge & Padanna Thekkekadavu Hanging bridge.",
+            "impact": "Bridge connectivity.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "transport"
+            ]
+        },
+        {
+            "id": "proj-048",
+            "districtId": "kasaragod",
+            "title": "Improvements to Nileshwar - Edathode Road",
+            "shortTitle": "Nileshwar-Edathode Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹43.27 Crore",
+            "description": "Improvements to Nileshwar - Edathode road KM 0/000 to 13/125 by providing DBM & BC.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-049",
+            "districtId": "kasaragod",
+            "title": "Sub Registrar Offices (Uduma & Thrikkarippur)",
+            "shortTitle": "SRO Kasaragod",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹10.09 Crore",
+            "description": "Construction of Sub Registrar offices at Uduma & Thrikkarippur (Shared project).",
+            "impact": "Administrative infrastructure.",
+            "image": null,
+            "tags": [
+                "registration",
+                "office"
+            ]
+        },
+        {
+            "id": "proj-050",
+            "districtId": "kasaragod",
+            "title": "Kasargode Bypass",
+            "shortTitle": "Kasargode Bypass",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹55.27 Crore",
+            "description": "Construction of Kasargode Bypass.",
+            "impact": "Traffic decongestion.",
+            "image": null,
+            "tags": [
+                "bypass",
+                "roads"
+            ]
+        },
+        {
+            "id": "proj-051",
+            "districtId": "kasaragod",
+            "title": "Subrahmanian Thirumunpu Cultural Complex",
+            "shortTitle": "Thirumunpu Cultural Complex",
+            "category": "culture",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹46.44 Crore",
+            "description": "Construction of Subrahmanian Thirumunpu Cultural Complex at Kasargod.",
+            "impact": "Cultural centre.",
+            "image": null,
+            "tags": [
+                "culture",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-052",
+            "districtId": "kasaragod",
+            "title": "Kannur & Kasaragod Cluster",
+            "shortTitle": "Kannur-Kasaragod Cluster",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹11.63 Crore",
+            "description": "Infrastructure upgradation of schools in Kannur & Kasaragod Cluster.",
+            "impact": "School infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-053",
+            "districtId": "kasaragod",
+            "title": "Kasaragod, Kannur... Trivandrum Cluster",
+            "shortTitle": "Multi-Dist Cluster",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹29.38 Crore",
+            "description": "Infrastructure upgradation of schools in Kasaragod, Kannur, Kozhikode, Palakkad, Malappuram & Trivandrum Cluster.",
+            "impact": "School infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-054",
+            "districtId": "kasaragod",
+            "title": "Improvements to Nileswar-Kacherikadavu Town-Raja Road",
+            "shortTitle": "Nileswar-Raja Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹40.91 Crore",
+            "description": "Improvements and Providing DBM & BC to Nileswar- NH- Kacherikadavu Town-Raja Road Km 0/000 to 1/680 and Kacherikadavu Bridge.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-055",
+            "districtId": "kasaragod",
+            "title": "Palakkad, Malappuram... Kasaragod Cluster",
+            "shortTitle": "North Kerala Cluster",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹38.30 Crore",
+            "description": "Infrastructure upgradation of schools in Palakkad, Malappuram, Kozhikode, Kannur & Kasaragod Cluster.",
+            "impact": "School infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-056",
+            "districtId": "kasaragod",
+            "title": "M R C Krishnan Memorial Indoor Stadium",
+            "shortTitle": "MRC Krishnan Stadium",
+            "category": "sports",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹33.80 Crore",
+            "description": "M R C Krishnan memorial Indoor stadium at Thrikkarippur, Kazargod.",
+            "impact": "Sports infrastructure.",
+            "image": null,
+            "tags": [
+                "sports",
+                "stadium"
+            ]
+        },
+        {
+            "id": "proj-057",
+            "districtId": "kasaragod",
+            "title": "Kasargod Cluster Phase 4",
+            "shortTitle": "Kasargod Cluster Ph4",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹21.03 Crore",
+            "description": "Infrastructure upgradation in KASARGOD CLUSTER PHASE 4 (Higher Education).",
+            "impact": "Higher education infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "college"
+            ]
+        },
+        {
+            "id": "proj-058",
+            "districtId": "kasaragod",
+            "title": "Improvements to Thekkil - Alatty Road",
+            "shortTitle": "Thekkil-Alatty Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹82.62 Crore",
+            "description": "Improvements to Thekkil - Alatty road between KM 0/000 to 34/555 Uduma LA Constituency.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-059",
+            "districtId": "kasaragod",
+            "title": "Kasargod Cluster - 19 (General Education)",
+            "shortTitle": "Kasargod Cluster 19",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹11.67 Crore",
+            "description": "Infrastructure upgradation of schools in Kasargod Cluster - 19.",
+            "impact": "School infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-060",
+            "districtId": "kasaragod",
+            "title": "Kasaragod Cluster - 20 (General Education)",
+            "shortTitle": "Kasaragod Cluster 20",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹13.19 Crore",
+            "description": "Infrastructure upgradation of schools in Kasaragod Cluster - 20.",
+            "impact": "School infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-061",
+            "districtId": "kasaragod",
+            "title": "Kasaragod Cluster - 21 (General Education)",
+            "shortTitle": "Kasaragod Cluster 21",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹14.99 Crore",
+            "description": "Infrastructure upgradation of schools in Kasaragod Cluster - 21.",
+            "impact": "School infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-062",
+            "districtId": "kasaragod",
+            "title": "Chotta Bridge",
+            "shortTitle": "Chotta Bridge",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹19.96 Crore",
+            "description": "Construction of Chotta Bridge across Payaswini River at Km 4/000 of Kundamkuzhi - Chotta- Iriyanni Road.",
+            "impact": "Bridge connectivity.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "transport"
+            ]
+        },
+        {
+            "id": "proj-063",
+            "districtId": "kasaragod",
+            "title": "Mini Civil Station, Vellarikundu",
+            "shortTitle": "Mini Civil Station",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹10.09 Crore",
+            "description": "Construction of Mini Civil station, Vellarikundu.",
+            "impact": "Administrative infrastructure.",
+            "image": null,
+            "tags": [
+                "building",
+                "revenue",
+                "government"
+            ]
+        },
+        {
+            "id": "proj-064",
+            "districtId": "kasaragod",
+            "title": "Educational Infrastructure Works Phase - 2 (Fisheries)",
+            "shortTitle": "Fisheries Infra Ph2",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹4.84 Crore",
+            "description": "Educational Infrastructure Works of Ernakulam and Kasargod Districts Phase -2.",
+            "impact": "Fisheries education infrastructure.",
+            "image": null,
+            "tags": [
+                "fisheries",
+                "education"
+            ]
+        },
+        {
+            "id": "proj-065",
+            "districtId": "kasaragod",
+            "title": "Educational Infrastructure Works Phase - 1 (Fisheries)",
+            "shortTitle": "Fisheries Infra Ph1",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹6.95 Crore",
+            "description": "Educational Infrastructure Works in Kasargod District Phase -1.",
+            "impact": "Fisheries education infrastructure.",
+            "image": null,
+            "tags": [
+                "fisheries",
+                "education"
+            ]
+        },
+        {
+            "id": "proj-066",
+            "districtId": "kasaragod",
+            "title": "Post Matric Hostel at Vellachal",
+            "shortTitle": "Post Matric Hostel",
+            "category": "education",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Construction of Post Matric Hostel in Vellachal at Kasargod District (Part of multi-hostel project).",
+            "impact": "Student accommodation.",
+            "image": null,
+            "tags": [
+                "education",
+                "hostel",
+                "social welfare"
+            ]
+        },
+        {
+            "id": "proj-067",
+            "districtId": "kasaragod",
+            "title": "Badiadka - Yethadka - Soolyapadhavu Road",
+            "shortTitle": "Badiadka-Soolyapadhavu Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹45.58 Crore",
+            "description": "Improvements to Badiadka - Yethadka - Soolyapadhavu Road Km 0/000 to 19/828.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-068",
+            "districtId": "kasaragod",
+            "title": "Nekrampara-Arladka-Pundoor-Narampady-Yethadka Road",
+            "shortTitle": "Nekrampara-Yethadka Rd",
+            "category": "transport",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Improvements to Nekrampara-Arladka-Pundoor-Narampady-Yethadka road Km 0/000 to 11/600.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-069",
+            "districtId": "kasaragod",
+            "title": "Mekkat-Erikkulam Road",
+            "shortTitle": "Mekkat-Erikkulam Rd",
+            "category": "transport",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Improvements to Mekkat-Erikkulam Road between Km 0/000 to 4/653.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-070",
+            "districtId": "kasaragod",
+            "title": "Coastal Highway: Azhithala to North Kottachery",
+            "shortTitle": "Coastal Highway Azhithala",
+            "category": "transport",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Construction of Coastal Highway from Azhithala to North kottachery.",
+            "impact": "Coastal connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "coastal highway"
+            ]
+        },
+        {
+            "id": "proj-071",
+            "districtId": "kasaragod",
+            "title": "Rakkol Ennapara Road",
+            "shortTitle": "Rakkol Ennapara Rd",
+            "category": "transport",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Improvements to Rakkol Ennapara Road between km 0/000 to 7/695.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-072",
+            "districtId": "kasaragod",
+            "title": "Kavungal Bridge (Hill Highway)",
+            "shortTitle": "Kavungal Bridge",
+            "category": "transport",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Construction of Kavungal Bridge in Kolichal Edaparamba Hill Highway Road.",
+            "impact": "Bridge connectivity.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "hill highway"
+            ]
+        },
+        {
+            "id": "proj-073",
+            "districtId": "kasaragod",
+            "title": "Bandharas in Chandragiri River Basin",
+            "shortTitle": "Chandragiri Bandharas",
+            "category": "infrastructure",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Construction of Bandharas in Chandragiri River Basin.",
+            "impact": "Water conservation.",
+            "image": null,
+            "tags": [
+                "water resources",
+                "bandharas"
+            ]
+        },
+        {
+            "id": "proj-074",
+            "districtId": "kasaragod",
+            "title": "Kannur-Kasargode Cluster Phase 8",
+            "shortTitle": "Kannur-Kasargode Cluster Ph8",
+            "category": "education",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Infrastructure upgradation of schools in Kannur-Kasargode Cluster Phase 8.",
+            "impact": "School infrastructure.",
+            "image": null,
+            "tags": [
+                "education",
+                "schools"
+            ]
+        },
+        {
+            "id": "proj-075",
+            "districtId": "kasaragod",
+            "title": "Maskumari Kurudapadvu Road",
+            "shortTitle": "Maskumari Kurudapadvu Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Improvements to Maskumari Kurudapadvu Road 0/000 to 7/544.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-076",
+            "districtId": "kasaragod",
+            "title": "Cheruvathur-Mukkada Road",
+            "shortTitle": "Cheruvathur-Mukkada Rd",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹121.43 Crore",
+            "description": "Improvements to Cheruvathur- Cheemeni- I T Park- Palavayal - Beemanady - Mukkada Road by providing DGBM and BC.",
+            "impact": "Road improvement.",
+            "image": null,
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-077",
+            "districtId": "kasaragod",
+            "title": "Kubanoor Bridge",
+            "shortTitle": "Kubanoor Bridge",
+            "category": "transport",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Construction of Kubanoor Bridge on Ichilangod village office Bekoor road in Manjeshwar LAC.",
+            "impact": "Bridge connectivity.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "transport"
+            ]
+        },
+        {
+            "id": "proj-078",
+            "districtId": "kasaragod",
+            "title": "Hill Highway: Chevar to Edaparamba",
+            "shortTitle": "Hill Highway Chevar",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹86.64 Crore",
+            "description": "Improvements to the Hill highway road From Chevar to Edaparamba km 49.635.",
+            "impact": "Hill highway connectivity.",
+            "image": null,
+            "tags": [
+                "roads",
+                "hill highway"
+            ]
+        },
+        {
+            "id": "proj-079",
+            "districtId": "kasaragod",
+            "title": "Minor Bridges on Kolichal - Edaparamba Hill Highway",
+            "shortTitle": "Kolichal Minor Bridges",
+            "category": "transport",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Construction of Minor Bridges (Pallanchi Bridge 1 and Pallanchi Bridge 2) on Kolichal - Edaparamba Hill high way road.",
+            "impact": "Hill highway connectivity.",
+            "image": null,
+            "tags": [
+                "bridge",
+                "hill highway"
+            ]
+        },
+        {
+            "id": "proj-080",
+            "districtId": "kasaragod",
+            "title": "Kanhangad Flyover",
+            "shortTitle": "Kanhangad Flyover",
+            "category": "transport",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Construction of Kanhangad Flyover.",
+            "impact": "Traffic decongestion.",
+            "image": null,
+            "tags": [
+                "flyover",
+                "transport"
+            ]
+        }
+    ]
+}
