@@ -1074,6 +1074,41 @@
     }
 }
 
+/* Compare MPs Button - Mobile Only */
+.compare-btn-mobile {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    padding: 10px 16px;
+    background: var(--mp-primary);
+    color: var(--mp-slate-900);
+    border: none;
+    border-radius: 9999px;
+    font-size: 13px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.compare-btn-mobile:hover {
+    background: var(--mp-primary-dark);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(19, 236, 178, 0.3);
+}
+
+.compare-btn-mobile .material-symbols-outlined {
+    font-size: 18px;
+}
+
+@media (min-width: 1024px) {
+    .compare-btn-mobile {
+        display: none;
+    }
+}
+
 @media (min-width: 1024px) {
     .util-percent {
         font-size: 18px;

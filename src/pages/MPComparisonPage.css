@@ -391,6 +391,11 @@
     font-size: 14px;
 }
 
+/* Mobile labels - hidden by default, shown on mobile */
+.mobile-label {
+    display: none;
+}
+
 /* ==================== RESPONSIVE DESIGN ==================== */
 
 /* Tablet */
@@ -497,7 +502,8 @@
         padding-left: 32px;
     }
 
-    .amount-cell::before {
+    .mobile-label {
+        display: inline;
         font-size: 11px;
         font-weight: 600;
         text-transform: uppercase;
@@ -505,24 +511,16 @@
         margin-right: 8px;
     }
 
-    .table-row .amount-cell:nth-child(2)::before {
-        content: 'MP A:';
+    .amount-a .mobile-label {
         color: var(--comparison-a);
     }
 
-    .table-row .amount-cell:nth-child(3)::before {
-        content: 'MP B:';
+    .amount-b .mobile-label {
         color: var(--comparison-b);
     }
 
-    .delta-cell::before {
-        content: 'Delta:';
-        font-size: 11px;
-        font-weight: 600;
-        text-transform: uppercase;
-        letter-spacing: 0.5px;
+    .delta-cell .mobile-label {
         color: var(--comparison-text-secondary);
-        margin-right: 8px;
     }
 }
 

@@ -283,12 +283,15 @@ const MPComparisonPage = () => {
                                             <span>{category.label}</span>
                                         </div>
                                         <div className="table-cell amount-cell amount-a">
+                                            <span className="mobile-label">{mpADetails?.name || 'MP A'}:</span>
                                             {formatLakhs(category.mpA)}
                                         </div>
                                         <div className="table-cell amount-cell amount-b">
+                                            <span className="mobile-label">{mpBDetails?.name || 'MP B'}:</span>
                                             {formatLakhs(category.mpB)}
                                         </div>
                                         <div className="table-cell delta-cell">
+                                            <span className="mobile-label">Delta:</span>
                                             <span className={`delta-badge ${isPositive ? 'positive' : 'negative'}`}>
                                                 <span className="material-symbols-outlined">
                                                     {isPositive ? 'arrow_upward' : 'arrow_downward'}
