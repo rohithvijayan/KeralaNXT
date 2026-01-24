@@ -185,11 +185,11 @@ function MPDashboardPage() {
                         {/* Navigation */}
                         <nav className="sidebar-nav">
                             <p className="section-title">Navigation</p>
-                            <a href="#" className="nav-item active">
+                            <a href="/mp-fund-dashboard" className="nav-item active">
                                 <span className="material-symbols-outlined">dashboard</span>
                                 <span>Dashboard</span>
                             </a>
-                            <a href="#" className="nav-item">
+                            <a href="/mp-analytics" className="nav-item">
                                 <span className="material-symbols-outlined">bar_chart</span>
                                 <span>Analytics</span>
                             </a>
@@ -403,6 +403,16 @@ function MPDashboardPage() {
                                                     <span className="fund-value spent">{mp.utilisedFund}</span>
                                                 </div>
                                             </div>
+                                            <button
+                                                className="view-more-btn"
+                                                onClick={(e) => {
+                                                    e.stopPropagation()
+                                                    navigate('/mp-analytics', { state: { selectedMP: mp.fullName } })
+                                                }}
+                                            >
+                                                View Analytics
+                                                <span className="material-symbols-outlined">arrow_forward</span>
+                                            </button>
                                         </div>
                                     </motion.div>
                                 ))}

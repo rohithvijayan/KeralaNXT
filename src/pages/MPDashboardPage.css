@@ -1228,3 +1228,36 @@
     opacity: 0.5;
     cursor: not-allowed;
 }
+
+/* View More Button */
+.view-more-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    width: 100%;
+    margin-top: 16px;
+    padding: 12px;
+    background: transparent;
+    border: 1px solid var(--mp-primary);
+    color: var(--mp-primary-dark);
+    font-size: 14px;
+    font-weight: 700;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.view-more-btn:hover {
+    background: var(--mp-primary);
+    color: var(--mp-text);
+}
+
+.view-more-btn .material-symbols-outlined {
+    font-size: 18px;
+    transition: transform 0.2s;
+}
+
+.view-more-btn:hover .material-symbols-outlined {
+    transform: translateX(4px);
+}

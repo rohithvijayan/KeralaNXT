@@ -149,14 +149,19 @@ const normalizeMPData = (rawMPs, house) => {
             const allocatedAmount = parseAmount(allocatedFund)
             const utilisedAmount = parseAmount(utilisedFund)
             const percentValue = parsePercentage(percentUtilised)
+            const tenure = mp.tenure || extractTenure(rawName)
+
+            // Create fullName with tenure for Rajya Sabha MPs to match MPFUND.json keys
+            const fullName = tenure ? `${name} (${tenure})` : name
 
             return {
                 Rank: mp.Rank || 0,
                 name,
+                fullName, // Full name with tenure for MPFUND.json matching
                 constituency: constituency.replace('\u00a0', '').trim(),
                 party: mp.party || '',
                 house: mp.house || house,
-                tenure: mp.tenure || extractTenure(rawName),
+                tenure,
                 allocatedFund,
                 utilisedFund,
                 percentUtilised,
