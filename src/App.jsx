@@ -4,6 +4,7 @@ import DistrictPage from './pages/DistrictPage'
 import AboutPage from './pages/AboutPage'
 import ProjectsPage from './pages/ProjectsPage'
 import InitiativesPage from './pages/InitiativesPage'
+import MPDashboardPage from './pages/MPDashboardPage'
 import BottomNav from './components/BottomNav'
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
                 <Route path="/about" element={<AboutPage />} />
                 <Route path="/projects" element={<ProjectsPage />} />
                 <Route path="/initiatives" element={<InitiativesPage />} />
+                <Route path="/mp-funds" element={<MPDashboardPage />} />
             </Routes>
             <BottomNav />
         </>

@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>KeralaNXT MP Fund Dashboard</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;600;700;900&amp;display=swap"
+        rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#13ecb2",
+                        "background-light": "#f6f8f7",
+                        "background-dark": "#10221d",
+                    },
+                    fontFamily: {
+                        "display": ["Public Sans"]
+                    },
+                    borderRadius: { "DEFAULT": "0.5rem", "lg": "1rem", "xl": "1.5rem", "full": "9999px" },
+                },
+            },
+        }
+    </script>
+    <style>
+        body {
+            font-family: 'Public Sans', sans-serif;
+        }
+
+        .sidebar-fixed {
+            width: 320px;
+            position: fixed;
+            height: 100vh;
+            top: 0;
+            left: 0;
+        }
+
+        .main-content {
+            margin-left: 320px;
+            min-height: 100vh;
+        }
+
+        .custom-scrollbar::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .custom-scrollbar::-webkit-scrollbar-track {
+            background: transparent;
+        }
+
+        .custom-scrollbar::-webkit-scrollbar-thumb {
+            background: #d1d5db;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+
+<body class="bg-background-light dark:bg-background-dark text-slate-900 dark:text-slate-100">
+    <!-- Sidebar Section -->
+    <aside
+        class="sidebar-fixed bg-white dark:bg-slate-900 border-r border-slate-200 dark:border-slate-800 flex flex-col p-6 z-20">
+        <div class="flex items-center gap-3 mb-10">
+            <div class="p-2 bg-primary rounded-lg text-white">
+                <span class="material-symbols-outlined block">analytics</span>
+            </div>
+            <h2 class="text-xl font-black tracking-tight text-slate-900 dark:text-white">KeralaNXT</h2>
+        </div>
+        <div class="flex flex-col gap-6 overflow-y-auto custom-scrollbar pr-2">
+            <div>
+                <p class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-4">Global Summary</p>
+                <div class="flex flex-col gap-4">
+                    <!-- Stat Card 1 -->
+                    <div
+                        class="bg-background-light dark:bg-slate-800 p-5 rounded-xl border border-slate-100 dark:border-slate-700">
+                        <div class="flex justify-between items-start mb-2">
+                            <span
+                                class="material-symbols-outlined text-primary p-2 bg-white dark:bg-slate-700 rounded-lg shadow-sm">account_balance_wallet</span>
+                            <span
+                                class="text-xs font-bold text-green-500 bg-green-50 dark:bg-green-900/20 px-2 py-1 rounded-full">+0.0%</span>
+                        </div>
+                        <p class="text-slate-500 dark:text-slate-400 text-sm font-medium">Total Allocated</p>
+                        <p class="text-2xl font-black text-slate-900 dark:text-white mt-1">₹247.68 Cr</p>
+                    </div>
+                    <!-- Stat Card 2 -->
+                    <div
+                        class="bg-background-light dark:bg-slate-800 p-5 rounded-xl border border-slate-100 dark:border-slate-700">
+                        <div class="flex justify-between items-start mb-2">
+                            <span
+                                class="material-symbols-outlined text-primary p-2 bg-white dark:bg-slate-700 rounded-lg shadow-sm">payments</span>
+                            <span
+                                class="text-xs font-bold text-green-500 bg-green-50 dark:bg-green-900/20 px-2 py-1 rounded-full">+2.4%</span>
+                        </div>
+                        <p class="text-slate-500 dark:text-slate-400 text-sm font-medium">Total Utilized</p>
+                        <p class="text-2xl font-black text-slate-900 dark:text-white mt-1">₹89.47 Cr</p>
+                    </div>
+                    <!-- Stat Card 3 (Progress Ring Concept) -->
+                    <div class="bg-white dark:bg-slate-800 p-5 rounded-xl border-2 border-primary/20">
+                        <div class="flex items-center gap-4">
+                            <div class="relative size-16 flex items-center justify-center">
+                                <svg class="size-full -rotate-90" viewbox="0 0 36 36">
+                                    <circle class="stroke-slate-200 dark:stroke-slate-700" cx="18" cy="18" fill="none"
+                                        r="16" stroke-width="3"></circle>
+                                    <circle class="stroke-primary" cx="18" cy="18" fill="none" r="16"
+                                        stroke-dasharray="36.1, 100" stroke-linecap="round" stroke-width="3"></circle>
+                                </svg>
+                                <span class="absolute text-xs font-bold">36%</span>
+                            </div>
+                            <div>
+                                <p class="text-slate-500 dark:text-slate-400 text-xs font-medium">Overall Rate</p>
+                                <p class="text-lg font-black text-slate-900 dark:text-white leading-tight">Utilization
+                                    Performance</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <nav class="mt-4 flex flex-col gap-1">
+                <p class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-2">Navigation</p>
+                <a class="flex items-center gap-3 px-3 py-2.5 bg-primary/10 text-primary font-bold rounded-lg" href="#">
+                    <span class="material-symbols-outlined">dashboard</span>
+                    <span>Dashboard</span>
+                </a>
+                <a class="flex items-center gap-3 px-3 py-2.5 text-slate-600 dark:text-slate-400 hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors rounded-lg"
+                    href="#">
+                    <span class="material-symbols-outlined">bar_chart</span>
+                    <span>Analytics</span>
+                </a>
+                <a class="flex items-center gap-3 px-3 py-2.5 text-slate-600 dark:text-slate-400 hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors rounded-lg"
+                    href="#">
+                    <span class="material-symbols-outlined">description</span>
+                    <span>Reports</span>
+                </a>
+                <a class="flex items-center gap-3 px-3 py-2.5 text-slate-600 dark:text-slate-400 hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors rounded-lg"
+                    href="#">
+                    <span class="material-symbols-outlined">settings</span>
+                    <span>Settings</span>
+                </a>
+            </nav>
+        </div>
+        <div class="mt-auto pt-6 border-t border-slate-100 dark:border-slate-800 flex items-center gap-3">
+            <div class="size-10 rounded-full bg-slate-200 overflow-hidden">
+                <img alt="Admin user" data-alt="Profile avatar of the dashboard administrator"
+                    src="https://lh3.googleusercontent.com/aida-public/AB6AXuB9YHXuTVFacyQpoPYqnQZyg1EhgLmvKJZOcwxRl2KKoZwN49uZwiLyO7XNsjiD7z0oJiVh1d-Fdud8TV7K_FffspwtZez3lta06H4u4uo2XwBP0khupc1nDOYvSWowpU5Y7yuFhX25dmdYd1Z_dKbEMqtmVwGL-YRv-r_bsaCS4r_L81ggCzf5zqNB4YcVp4Ssvv0AV7H_may4KshWJLzSAZ9GTt-i1ymklCle9CsoP0C5u-IiiIhEQaV_xsGyjX6t_Bo7uizS664" />
+            </div>
+            <div class="flex-1">
+                <p class="text-sm font-bold truncate">Admin User</p>
+                <p class="text-xs text-slate-500">Government Officer</p>
+            </div>
+            <span
+                class="material-symbols-outlined text-slate-400 cursor-pointer hover:text-red-500 transition-colors">logout</span>
+        </div>
+    </aside>
+    <!-- Main Content Area -->
+    <main class="main-content p-8">
+        <!-- Top Navigation / Search Header -->
+        <header class="flex flex-col md:flex-row md:items-center justify-between gap-6 mb-10">
+            <div class="flex-1">
+                <h1 class="text-4xl font-black text-slate-900 dark:text-white tracking-tight">MP Fund Utilization
+                    Dashboard</h1>
+                <p class="text-slate-500 dark:text-slate-400 mt-1">Detailed financial oversight of MP fund allocation
+                    and utilization across Kerala.</p>
+            </div>
+            <div class="flex items-center gap-4">
+                <div class="relative group">
+                    <span
+                        class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-slate-400 group-focus-within:text-primary transition-colors">search</span>
+                    <input
+                        class="pl-10 pr-4 py-2.5 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl w-64 focus:ring-primary focus:border-primary transition-all text-sm"
+                        placeholder="Search MP or Constituency..." type="text" />
+                </div>
+                <button
+                    class="bg-white dark:bg-slate-900 p-2.5 border border-slate-200 dark:border-slate-800 rounded-xl hover:border-primary transition-colors">
+                    <span class="material-symbols-outlined text-slate-600 dark:text-slate-400">notifications</span>
+                </button>
+            </div>
+        </header>
+        <!-- Filters Section -->
+        <section
+            class="flex flex-col sm:flex-row justify-between items-center bg-white dark:bg-slate-900 p-3 rounded-2xl border border-slate-100 dark:border-slate-800 mb-8 gap-4">
+            <div class="flex bg-background-light dark:bg-slate-800 p-1 rounded-xl w-full sm:w-auto">
+                <button
+                    class="flex-1 sm:flex-none px-6 py-2 rounded-lg text-sm font-bold bg-white dark:bg-slate-700 shadow-sm text-slate-900 dark:text-white">All
+                    Houses</button>
+                <button
+                    class="flex-1 sm:flex-none px-6 py-2 rounded-lg text-sm font-medium text-slate-500 hover:text-slate-900 dark:hover:text-white transition-colors">Lok
+                    Sabha</button>
+                <button
+                    class="flex-1 sm:flex-none px-6 py-2 rounded-lg text-sm font-medium text-slate-500 hover:text-slate-900 dark:hover:text-white transition-colors">Rajya
+                    Sabha</button>
+            </div>
+            <div class="flex items-center gap-2 w-full sm:w-auto">
+                <span class="text-sm font-medium text-slate-500 hidden lg:inline">Sort by:</span>
+                <select
+                    class="form-select bg-background-light dark:bg-slate-800 border-none rounded-xl text-sm font-bold focus:ring-0 cursor-pointer pr-10">
+                    <option>Performance (Rank)</option>
+                    <option>Alphabetical</option>
+                    <option>Fund Utilized</option>
+                </select>
+            </div>
+        </section>
+        <!-- MP Cards Grid -->
+        <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <!-- MP Card 1 -->
+            <div
+                class="bg-white dark:bg-slate-900 p-6 rounded-2xl border border-slate-100 dark:border-slate-800 hover:shadow-xl hover:shadow-primary/5 transition-all group relative overflow-hidden">
+                <div
+                    class="absolute top-0 right-0 w-24 h-24 bg-primary/5 -mr-8 -mt-8 rounded-full blur-2xl group-hover:bg-primary/10 transition-colors">
+                </div>
+                <div class="flex justify-between items-start mb-6">
+                    <div class="flex items-center gap-4">
+                        <div class="relative">
+                            <img alt="MP Portrait" class="size-14 rounded-full border-2 border-primary/20 p-0.5"
+                                data-alt="Portrait photo of a Member of Parliament"
+                                src="https://lh3.googleusercontent.com/aida-public/AB6AXuD6dYIYiPP1jsWNV6BusKFc0m-G2Pq-YLxpkErCvbJGf4EYs_4Q0BjVPGVkKeMeKTEH2hF3qo-1bg1aRG6z1u4AkQEO3rUQ8w0LZl6jTrRde2_yCbAXtAhmObjHAsx3Kho_NY0jJSQy5Kw5qWED1bbglrTCuW2f7_0UqrhzSCBn59lZP3Re2FGnzD1dEPeCAd-wPZU-2fIsPHqWY99rcfPXJXcDHsE5XZzVJ1NRaDD4RJvx_0IFwLNuiqOGM0IV4i5U9exbLXtZn8g" />
+                            <span
+                                class="absolute -bottom-1 -right-1 bg-primary text-white text-[10px] font-black px-2 py-0.5 rounded-full shadow-lg">#1</span>
+                        </div>
+                        <div>
+                            <h3
+                                class="font-black text-slate-900 dark:text-white group-hover:text-primary transition-colors">
+                                Dr. Shashi Tharoor</h3>
+                            <div class="flex items-center gap-1 text-slate-500 text-xs">
+                                <span class="material-symbols-outlined text-[14px]">location_on</span>
+                                Thiruvananthapuram
+                            </div>
+                        </div>
+                    </div>
+                    <span
+                        class="text-xs font-bold text-slate-400 bg-slate-50 dark:bg-slate-800 px-2 py-1 rounded">INC</span>
+                </div>
+                <div class="space-y-4">
+                    <div class="flex justify-between items-end">
+                        <p class="text-xs font-bold text-slate-400 uppercase">Utilization</p>
+                        <p class="text-lg font-black text-primary">92.4%</p>
+                    </div>
+                    <div class="h-2.5 w-full bg-slate-100 dark:bg-slate-800 rounded-full overflow-hidden">
+                        <div class="h-full bg-primary rounded-full transition-all duration-1000" style="width: 92.4%">
+                        </div>
+                    </div>
+                    <div class="grid grid-cols-2 gap-4 pt-2">
+                        <div>
+                            <p class="text-[10px] font-bold text-slate-400 uppercase">Allocated</p>
+                            <p class="text-sm font-black">₹25.00 Cr</p>
+                        </div>
+                        <div>
+                            <p class="text-[10px] font-bold text-slate-400 uppercase">Spent</p>
+                            <p class="text-sm font-black">₹23.10 Cr</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- MP Card 2 -->
+            <div
+                class="bg-white dark:bg-slate-900 p-6 rounded-2xl border border-slate-100 dark:border-slate-800 hover:shadow-xl hover:shadow-primary/5 transition-all group relative overflow-hidden">
+                <div class="flex justify-between items-start mb-6">
+                    <div class="flex items-center gap-4">
+                        <div class="relative">
+                            <img alt="MP Portrait" class="size-14 rounded-full border-2 border-primary/20 p-0.5"
+                                data-alt="Portrait photo of a Member of Parliament"
+                                src="https://lh3.googleusercontent.com/aida-public/AB6AXuCfFI9FfmQmB1OjBpNfJk46kEQV9AMRTXDTGcIMQNbdh9m1x0q_VJQCEULI-9qYrXzeq5jHpR7WSneZWmPKN40izJBsn3JqQu3cJH64O4xAflrBfQkZl8voY3Q0uXuwAEOw5bGcwhjXYJc5yH8cDm0yhx5LGJmYA6dZjns2S6L4hGToynSzRulAJTQUx2bhboM17wvf5GvzP5SwaV1V1xc4S9PUR2_ds6_59dx2edB9BlcsOEqP9gNOuSOQwcAuLIlOLpR-UwepjDc" />
+                            <span
+                                class="absolute -bottom-1 -right-1 bg-slate-800 text-white text-[10px] font-black px-2 py-0.5 rounded-full shadow-lg">#2</span>
+                        </div>
+                        <div>
+                            <h3
+                                class="font-black text-slate-900 dark:text-white group-hover:text-primary transition-colors">
+                                Hibi Eden</h3>
+                            <div class="flex items-center gap-1 text-slate-500 text-xs">
+                                <span class="material-symbols-outlined text-[14px]">location_on</span>
+                                Ernakulam
+                            </div>
+                        </div>
+                    </div>
+                    <span
+                        class="text-xs font-bold text-slate-400 bg-slate-50 dark:bg-slate-800 px-2 py-1 rounded">INC</span>
+                </div>
+                <div class="space-y-4">
+                    <div class="flex justify-between items-end">
+                        <p class="text-xs font-bold text-slate-400 uppercase">Utilization</p>
+                        <p class="text-lg font-black text-primary">88.7%</p>
+                    </div>
+                    <div class="h-2.5 w-full bg-slate-100 dark:bg-slate-800 rounded-full overflow-hidden">
+                        <div class="h-full bg-primary rounded-full" style="width: 88.7%"></div>
+                    </div>
+                    <div class="grid grid-cols-2 gap-4 pt-2">
+                        <div>
+                            <p class="text-[10px] font-bold text-slate-400 uppercase">Allocated</p>
+                            <p class="text-sm font-black">₹25.00 Cr</p>
+                        </div>
+                        <div>
+                            <p class="text-[10px] font-bold text-slate-400 uppercase">Spent</p>
+                            <p class="text-sm font-black">₹22.18 Cr</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- MP Card 3 -->
+            <div
+                class="bg-white dark:bg-slate-900 p-6 rounded-2xl border border-slate-100 dark:border-slate-800 hover:shadow-xl hover:shadow-primary/5 transition-all group relative overflow-hidden">
+                <div class="flex justify-between items-start mb-6">
+                    <div class="flex items-center gap-4">
+                        <div class="relative">
+                            <img alt="MP Portrait" class="size-14 rounded-full border-2 border-primary/20 p-0.5"
+                                data-alt="Portrait photo of a Member of Parliament"
+                                src="https://lh3.googleusercontent.com/aida-public/AB6AXuBXXAb8a0RFQhMurJi9mTpKt1xL4hAmt4jDvle4zujcQOUnA2KksRir2PMBtk7-IUQUSifCKsiKJcEA5r3ld7bLRct8pbFNskaQK_RzdRO7xglQ7848HwMwtS1Le5DcFD0nhVEMsszltHw_ZcuBQJF78b1WtFxONkMSLDy1oYwuIqwsRt-MVdsWFH4E0R8ZkWc_WJoqc6aBk1PmtTy2z-Le1Pu11KXpXOvjLFcv13Z2dh_bG3bRQlud81LkuRQAPPyFaDQJvL4lUjo" />
+                            <span
+                                class="absolute -bottom-1 -right-1 bg-slate-800 text-white text-[10px] font-black px-2 py-0.5 rounded-full shadow-lg">#3</span>
+                        </div>
+                        <div>
+                            <h3
+                                class="font-black text-slate-900 dark:text-white group-hover:text-primary transition-colors">
+                                V. Muraleedharan</h3>
+                            <div class="flex items-center gap-1 text-slate-500 text-xs">
+                                <span class="material-symbols-outlined text-[14px]">location_on</span>
+                                Rajya Sabha
+                            </div>
+                        </div>
+                    </div>
+                    <span
+                        class="text-xs font-bold text-slate-400 bg-slate-50 dark:bg-slate-800 px-2 py-1 rounded">BJP</span>
+                </div>
+                <div class="space-y-4">
+                    <div class="flex justify-between items-end">
+                        <p class="text-xs font-bold text-slate-400 uppercase">Utilization</p>
+                        <p class="text-lg font-black text-primary">81.2%</p>
+                    </div>
+                    <div class="h-2.5 w-full bg-slate-100 dark:bg-slate-800 rounded-full overflow-hidden">
+                        <div class="h-full bg-primary rounded-full" style="width: 81.2%"></div>
+                    </div>
+                    <div class="grid grid-cols-2 gap-4 pt-2">
+                        <div>
+                            <p class="text-[10px] font-bold text-slate-400 uppercase">Allocated</p>
+                            <p class="text-sm font-black">₹20.00 Cr</p>
+                        </div>
+                        <div>
+                            <p class="text-[10px] font-bold text-slate-400 uppercase">Spent</p>
+                            <p class="text-sm font-black">₹16.24 Cr</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- MP Card 4 -->
+            <div
+                class="bg-white dark:bg-slate-900 p-6 rounded-2xl border border-slate-100 dark:border-slate-800 hover:shadow-xl hover:shadow-primary/5 transition-all group relative overflow-hidden opacity-90">
+                <div class="flex justify-between items-start mb-6">
+                    <div class="flex items-center gap-4">
+                        <div class="relative">
+                            <img alt="MP Portrait" class="size-14 rounded-full border-2 border-slate-200 p-0.5"
+                                data-alt="Portrait photo of a Member of Parliament"
+                                src="https://lh3.googleusercontent.com/aida-public/AB6AXuB7Fl6C--tW1qaXNke3Fcj5-4KFPVLeVNvZNEYhjVsFTE7D1vZXRJzVqy8Bi8bnIKDoiBHOijcZyMjWOvIZImWDRzm-s-lntZwHAB5PHL0SYWJ0CNNIUGj7xdfmYDAJ3kl2vKmxTgbbXCWNPamgm2qmjZJ066nJeOQYI5x0ozX3gaCt7DcIQ9K7VeRWnt-DnN04m4qvPB5Utoz-n7Wc_W1WzzYDnmZWJemRQilBsVYaY4-IMxlaZyW3miDCiK_b614PEk_CAFuS72A" />
+                            <span
+                                class="absolute -bottom-1 -right-1 bg-slate-400 text-white text-[10px] font-black px-2 py-0.5 rounded-full shadow-lg">#14</span>
+                        </div>
+                        <div>
+                            <h3
+                                class="font-black text-slate-900 dark:text-white group-hover:text-primary transition-colors">
+                                M.K. Raghavan</h3>
+                            <div class="flex items-center gap-1 text-slate-500 text-xs">
+                                <span class="material-symbols-outlined text-[14px]">location_on</span>
+                                Kozhikode
+                            </div>
+                        </div>
+                    </div>
+                    <span
+                        class="text-xs font-bold text-slate-400 bg-slate-50 dark:bg-slate-800 px-2 py-1 rounded">INC</span>
+                </div>
+                <div class="space-y-4">
+                    <div class="flex justify-between items-end">
+                        <p class="text-xs font-bold text-slate-400 uppercase">Utilization</p>
+                        <p class="text-lg font-black text-slate-400">45.0%</p>
+                    </div>
+                    <div class="h-2.5 w-full bg-slate-100 dark:bg-slate-800 rounded-full overflow-hidden">
+                        <div class="h-full bg-slate-300 dark:bg-slate-600 rounded-full" style="width: 45%"></div>
+                    </div>
+                    <div class="grid grid-cols-2 gap-4 pt-2">
+                        <div>
+                            <p class="text-[10px] font-bold text-slate-400 uppercase">Allocated</p>
+                            <p class="text-sm font-black">₹25.00 Cr</p>
+                        </div>
+                        <div>
+                            <p class="text-[10px] font-bold text-slate-400 uppercase">Spent</p>
+                            <p class="text-sm font-black">₹11.25 Cr</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- MP Card 5 -->
+            <div
+                class="bg-white dark:bg-slate-900 p-6 rounded-2xl border border-slate-100 dark:border-slate-800 hover:shadow-xl hover:shadow-primary/5 transition-all group relative overflow-hidden">
+                <div class="flex justify-between items-start mb-6">
+                    <div class="flex items-center gap-4">
+                        <div class="relative">
+                            <img alt="MP Portrait" class="size-14 rounded-full border-2 border-primary/20 p-0.5"
+                                data-alt="Portrait photo of a Member of Parliament"
+                                src="https://lh3.googleusercontent.com/aida-public/AB6AXuCJPyA2ESivg3WAYsXMvxtiVw4Z99Vlzv_mZvPqts7CZBLfsskYZKnerPY90aO1r8gOJ9f0sDY9UMkQUaM0UOuWzXNMwKsbtl6DkkRYb0ZqoJKTOxhDpmdvPittnKl9qcJ5B9QRh6Mv-Ao0smdx6fz-fgy7kCkgwgA1h88aumcCZR3WZhoDkEc1UcQtAq6sHmPz3UCDcUe5KrMIBRGmAy1DeyvdT9hyyw9CJ5m_LKu8YbKqKEuOb3N6TwmmVOPSgFiFUHxZuFZ2rRo" />
+                            <span
+                                class="absolute -bottom-1 -right-1 bg-slate-800 text-white text-[10px] font-black px-2 py-0.5 rounded-full shadow-lg">#4</span>
+                        </div>
+                        <div>
+                            <h3
+                                class="font-black text-slate-900 dark:text-white group-hover:text-primary transition-colors">
+                                Rajmohan Unnithan</h3>
+                            <div class="flex items-center gap-1 text-slate-500 text-xs">
+                                <span class="material-symbols-outlined text-[14px]">location_on</span>
+                                Kasaragod
+                            </div>
+                        </div>
+                    </div>
+                    <span
+                        class="text-xs font-bold text-slate-400 bg-slate-50 dark:bg-slate-800 px-2 py-1 rounded">INC</span>
+                </div>
+                <div class="space-y-4">
+                    <div class="flex justify-between items-end">
+                        <p class="text-xs font-bold text-slate-400 uppercase">Utilization</p>
+                        <p class="text-lg font-black text-primary">76.5%</p>
+                    </div>
+                    <div class="h-2.5 w-full bg-slate-100 dark:bg-slate-800 rounded-full overflow-hidden">
+                        <div class="h-full bg-primary rounded-full" style="width: 76.5%"></div>
+                    </div>
+                    <div class="grid grid-cols-2 gap-4 pt-2">
+                        <div>
+                            <p class="text-[10px] font-bold text-slate-400 uppercase">Allocated</p>
+                            <p class="text-sm font-black">₹25.00 Cr</p>
+                        </div>
+                        <div>
+                            <p class="text-[10px] font-bold text-slate-400 uppercase">Spent</p>
+                            <p class="text-sm font-black">₹19.12 Cr</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- MP Card 6 -->
+            <div
+                class="bg-white dark:bg-slate-900 p-6 rounded-2xl border border-slate-100 dark:border-slate-800 hover:shadow-xl hover:shadow-primary/5 transition-all group relative overflow-hidden">
+                <div class="flex justify-between items-start mb-6">
+                    <div class="flex items-center gap-4">
+                        <div class="relative">
+                            <img alt="MP Portrait" class="size-14 rounded-full border-2 border-primary/20 p-0.5"
+                                data-alt="Portrait photo of a Member of Parliament"
+                                src="https://lh3.googleusercontent.com/aida-public/AB6AXuAReD9hWATyYc1yfBMUV9Ci374mKbAYJ0zyfajqcGO7oR2MOhE6eHXsuPsP7kGvy1UdPkmFaCuqDKA3NIFUYPcGBXmCb59lVwEzC5k_fp7cKDQFz6JA8loA3gL9avQiwzLFzNfxEsdakoQB8caiOHHXCx8DnfX7B4Gmh40D8u2NKo1fmn4mChX057O0DI2N0yvjw2ao7S5GH2LjhDR8oiS2Ay2q18aLcr8qXOtGPtReXVs2bCEuCM2m1AbQSniSWMMUzL6PuubIMq8" />
+                            <span
+                                class="absolute -bottom-1 -right-1 bg-slate-800 text-white text-[10px] font-black px-2 py-0.5 rounded-full shadow-lg">#5</span>
+                        </div>
+                        <div>
+                            <h3
+                                class="font-black text-slate-900 dark:text-white group-hover:text-primary transition-colors">
+                                E. T. Mohammed Basheer</h3>
+                            <div class="flex items-center gap-1 text-slate-500 text-xs">
+                                <span class="material-symbols-outlined text-[14px]">location_on</span>
+                                Ponnani
+                            </div>
+                        </div>
+                    </div>
+                    <span
+                        class="text-xs font-bold text-slate-400 bg-slate-50 dark:bg-slate-800 px-2 py-1 rounded">IUML</span>
+                </div>
+                <div class="space-y-4">
+                    <div class="flex justify-between items-end">
+                        <p class="text-xs font-bold text-slate-400 uppercase">Utilization</p>
+                        <p class="text-lg font-black text-primary">74.1%</p>
+                    </div>
+                    <div class="h-2.5 w-full bg-slate-100 dark:bg-slate-800 rounded-full overflow-hidden">
+                        <div class="h-full bg-primary rounded-full" style="width: 74.1%"></div>
+                    </div>
+                    <div class="grid grid-cols-2 gap-4 pt-2">
+                        <div>
+                            <p class="text-[10px] font-bold text-slate-400 uppercase">Allocated</p>
+                            <p class="text-sm font-black">₹25.00 Cr</p>
+                        </div>
+                        <div>
+                            <p class="text-[10px] font-bold text-slate-400 uppercase">Spent</p>
+                            <p class="text-sm font-black">₹18.52 Cr</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Pagination / Footer Hint -->
+        <footer class="mt-12 flex justify-between items-center pb-8">
+            <p class="text-slate-500 text-sm">Showing <span class="font-bold text-slate-900 dark:text-white">6</span> of
+                <span class="font-bold text-slate-900 dark:text-white">29</span> Members of Parliament
+            </p>
+            <div class="flex gap-2">
+                <button
+                    class="px-4 py-2 border border-slate-200 dark:border-slate-800 rounded-lg text-sm font-medium hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors disabled:opacity-50"
+                    disabled="">Previous</button>
+                <button
+                    class="px-4 py-2 bg-slate-900 dark:bg-slate-100 text-white dark:text-slate-900 rounded-lg text-sm font-medium hover:bg-slate-800 transition-colors">Next
+                    Page</button>
+            </div>
+        </footer>
+    </main>
+</body>
+
+</html>
