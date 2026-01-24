@@ -3,12 +3,13 @@ import { useNavigate } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
 import Header from '../components/Header'
 import './AboutPage.css'
-
+import keralaAssembly from '../assets/images/kerala-assembly.jpg'
+import kochiMetro from '../assets/images/kochimetro.png'
 // Stats data
 const stats = [
-    { id: 1, value: '₹45k Cr', label: 'Total Investment', icon: 'payments' },
-    { id: 2, value: '320+', label: 'Projects Launched', icon: 'rocket_launch' },
-    { id: 3, value: '14', label: 'Districts Covered', icon: 'location_on' }
+    { id: 1, value: '1,79,949 Crore', label: 'Tracked Investment', icon: 'payments' },
+    { id: 2, value: '900+', label: 'Projects Mapped', icon: 'rocket_launch' },
+    { id: 3, value: '14', label: 'Districts Monitored', icon: 'location_on' }
 ]
 
 // Leadership data
@@ -212,7 +213,14 @@ function AboutPage() {
             <Header showBack title="About" onBack={() => navigate('/')} />
 
             {/* Hero Section */}
-            <section className="about-hero">
+            <section
+                className="about-hero"
+                style={{
+                    background: ` url(${kochiMetro})`,
+                    backgroundSize: 'cover',
+                    backgroundPosition: 'center 85%'
+                }}
+            >
                 <motion.div
                     className="about-hero-content"
                     initial={{ opacity: 0, y: 20 }}
@@ -224,12 +232,12 @@ function AboutPage() {
                         <span className="material-symbols-outlined">account_balance</span>
                     </div>
 
-                    <h1 className="about-title">Kerala Development Showcase</h1>
-                    <p className="about-subtitle">2016 — 2025</p>
+                    <h1 className="about-title">Kerala Development Tracker</h1>
+                    <p className="about-subtitle">Bridging Citizens with Public Data</p>
 
                     <div className="about-badge">
                         <span className="material-symbols-outlined">verified</span>
-                        <span>Official Government Portal</span>
+                        <span>Community Driven | Open Source</span>
                     </div>
                 </motion.div>
             </section>
@@ -241,10 +249,7 @@ function AboutPage() {
                     Our Mission
                 </h2>
                 <p className="about-mission-text">
-                    Our mission is to accelerate the digital transformation of Kerala through
-                    innovative governance and citizen-centric services. We are building a future-ready
-                    infrastructure that empowers every resident, fosters innovation, and ensures
-                    transparent administration for all citizens of God's Own Country.
+                    This project is an open-source initiative dedicated to aggregating, visualizing, and simplifying access to public development data in Kerala. Built by the community for the community, we aim to foster transparency and civic engagement by transforming complex government reports into an accessible, interactive dashboard. We believe that informed citizens are the pillars of a thriving democracy
                 </p>
             </section>
 
@@ -275,7 +280,7 @@ function AboutPage() {
             <section className="about-section leadership-section">
                 <h2 className="about-section-title">
                     <span className="section-indicator"></span>
-                    Leadership
+                    Kerala's Leadership
                 </h2>
 
                 {/* Mobile View: CM Prominent Card + Others Flex Column */}
@@ -371,8 +376,8 @@ function AboutPage() {
                 <blockquote className="about-quote">
                     <span className="quote-icon">"</span>
                     <p>
-                        Our goal is not just digital growth, but inclusive development where the
-                        benefits of technology reach the last person in society.
+                        Transparency is not just about making data available; it's about making it understandable.
+                        By opening up development data, we empower every Malayali to participate in the narrative of our state's growth.
                     </p>
                 </blockquote>
             </section>
@@ -415,13 +420,13 @@ function AboutPage() {
                 </div>
 
                 <div className="footer-credits">
-                    <p className="footer-dept">Government of Kerala</p>
-                    <p className="footer-subdept">Information & Public Relations Department</p>
-                    <p className="footer-version">Version 1.0.0 • © 2025 All Rights Reserved</p>
+                    <p className="footer-dept">Open Source Community Initiative</p>
+                    <p className="footer-subdept">Data sourced from public records & official reports</p>
+                    <p className="footer-version">Disclaimer: This is a privately maintained open-source project and is not officially affiliated with the Government of Kerala. All data is sourced from public domains.</p>
                 </div>
 
                 <p className="footer-dev">
-                    Developed by <strong>IT Mission Kerala</strong>
+                    Developed by <strong>RohithVijayan</strong>
                 </p>
             </footer>
         </div>

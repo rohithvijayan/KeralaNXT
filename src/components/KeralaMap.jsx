@@ -160,10 +160,15 @@ const KeralaMap = ({ districts, onDistrictSelect, selectedDistrict }) => {
                 >
                     <h3 className="tooltip-title">{hoveredDistrict.geoName}</h3>
                     {hoveredDistrict.data && (
-                        <div className="tooltip-stats">
-                            <span>{hoveredDistrict.data.totalProjects} Projects</span>
-                            <span className="tooltip-dot">•</span>
-                            <span>{hoveredDistrict.data.totalInvestment}</span>
+                        <div className="tooltip-stats-vertical">
+                            <div className="tooltip-stat-row">
+                                <span className="material-symbols-outlined">engineering</span>
+                                <span>{hoveredDistrict.data.totalProjects} Projects</span>
+                            </div>
+                            <div className="tooltip-stat-row">
+                                <span className="material-symbols-outlined">payments</span>
+                                <span>{hoveredDistrict.data.totalInvestment}</span>
+                            </div>
                         </div>
                     )}
                 </div>

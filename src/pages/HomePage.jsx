@@ -55,20 +55,18 @@ function HomePage() {
     // Calculate total stats
     const totalStats = useMemo(() => ({
         districts: districts.length,
-        investment: "₹45,000 Cr",
-        projects: "320+"
+        investment: "₹1,79,949 Crore",
+        projects: "900+"
     }), [districts])
 
-    // Top performing districts (sorted by investment)
-    const topDistricts = useMemo(() => {
-        return [...districts]
-            .sort((a, b) => {
-                const aVal = parseInt(a.totalInvestment.replace(/[^0-9]/g, ''))
-                const bVal = parseInt(b.totalInvestment.replace(/[^0-9]/g, ''))
-                return bVal - aVal
-            })
-            .slice(0, 3)
-    }, [districts])
+    // Top categories by spending (Hardcoded)
+    const topCategories = [
+        { id: 'infra', name: 'Infrastructure', value: '₹48,000 Cr' },
+        { id: 'transport', name: 'Transport', value: '₹49,446.64 Cr' },
+        { id: 'health', name: 'Healthcare', value: '₹6,312.78 Cr' },
+        { id: 'housing', name: 'Housing', value: '₹25,559.13 Cr' },
+        { id: 'industry', name: 'Industry', value: '₹18,000 Cr' }
+    ]
 
     return (
         <div className="home-page">
@@ -86,17 +84,16 @@ function HomePage() {
                         <span className="home-live-dot"></span>
                         <span>Live Dashboard</span>
                     </div>
-                    <h1 className="home-title">Kerala Development Showcase</h1>
+                    <h1 className="home-title">Kerala Development Tracker</h1>
                     <p className="home-subtitle">2016 — 2025</p>
                     <p className="home-description">
-                        A professional overview of state-wide projects and district-wise investments
-                        helping to shape the future of God's Own Country.
+                        Bridging Citizens with Public Data
                     </p>
                 </motion.div>
 
                 {/* Main Grid Layout */}
                 <div className="home-grid">
-                    {/* Left Column - Top Performing (Desktop) */}
+                    {/* Left Column - Top Categories (Desktop) */}
                     <div className="home-sidebar home-sidebar-left">
                         <motion.div
                             className="sidebar-card"
@@ -105,14 +102,14 @@ function HomePage() {
                             transition={{ delay: 0.2 }}
                         >
                             <div className="sidebar-card-header">
-                                <span className="material-symbols-outlined">trending_up</span>
-                                <span>Top Performing</span>
+                                <span className="material-symbols-outlined">pie_chart</span>
+                                <span>Top Categories</span>
                             </div>
                             <div className="sidebar-card-list">
-                                {topDistricts.map((district) => (
-                                    <div key={district.id} className="sidebar-list-item">
-                                        <span className="sidebar-list-name">{district.name}</span>
-                                        <span className="sidebar-list-value">{district.totalInvestment}</span>
+                                {topCategories.map((category) => (
+                                    <div key={category.id} className="sidebar-list-item">
+                                        <span className="sidebar-list-name">{category.name}</span>
+                                        <span className="sidebar-list-value">{category.value}</span>
                                     </div>
                                 ))}
                             </div>
@@ -183,7 +180,7 @@ function HomePage() {
                                     <span className="material-symbols-outlined">payments</span>
                                 </div>
                             </div>
-                            <p className="stat-card-value">₹45k<span className="stat-card-suffix">Cr</span></p>
+                            <p className="stat-card-value">{totalStats.investment} <span className="stat-card-suffix"></span></p>
                             <p className="stat-card-unit">Allocated Funds</p>
                         </motion.div>
 
@@ -201,7 +198,7 @@ function HomePage() {
                                 </div>
                             </div>
                             <p className="stat-card-value">{totalStats.projects}</p>
-                            <p className="stat-card-unit">Completed Projects</p>
+                            <p className="stat-card-unit"> Projects</p>
                         </motion.div>
                     </div>
                 </div>
@@ -215,7 +212,7 @@ function HomePage() {
                         </div>
                         <div className="mobile-stat-pill">
                             <p className="mobile-stat-label">Investment</p>
-                            <p className="mobile-stat-value">₹45,000 Cr</p>
+                            <p className="mobile-stat-value">2,19,495 Crore</p>
                         </div>
                         <div className="mobile-stat-pill">
                             <p className="mobile-stat-label">Projects</p>

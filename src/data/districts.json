@@ -9,13 +9,13 @@
             "headquarters": "Thiruvananthapuram",
             "mapPath": "M150 100 L200 150 L150 200 Z",
             "highlightProjects": [
-                "Vizhinjam International Seaport",
-                "Life Science Park",
-                "K-FON Phase I",
-                "Light Metro Project"
+                "Capital City Region Development Programme (Outer Ring Road)",
+                "Vizhinjam Seaport",
+                "Smart City TVM",
+                "Medical College Hospital, Tvpm"
             ],
-            "totalProjects": 142,
-            "totalInvestment": "₹15,450 Cr"
+            "totalProjects": 82,
+            "totalInvestment": "₹39,924 Cr"
         },
         {
             "id": "kollam",
@@ -26,13 +26,13 @@
             "headquarters": "Kollam",
             "mapPath": "M150 100 L200 150 L150 200 Z",
             "highlightProjects": [
-                "Kollam Bypass Development",
-                "Cashew Industry Modernization",
-                "Ashtamudi Tourism Circuit",
-                "Coastal Highway Reach II"
+                "Augmentation of WSS to Kollam Corporation",
+                "Hill Highway (Punalur to Agasthyacode)",
+                "Kollam Thodu",
+                "Coastal Highway Reach 2"
             ],
-            "totalProjects": 85,
-            "totalInvestment": "₹6,200 Cr"
+            "totalProjects": 77,
+            "totalInvestment": "₹1,224 Cr"
         },
         {
             "id": "pathanamthitta",
@@ -43,13 +43,13 @@
             "headquarters": "Pathanamthitta",
             "mapPath": "M150 100 L200 150 L150 200 Z",
             "highlightProjects": [
+                "Konni Medical College",
                 "Sabarimala Master Plan",
-                "Konni Eco-Tourism",
-                "Pamba River Protection",
-                "Aranmula Heritage Village"
+                "Hill Highway (Plappally - Elavu)",
+                "WSS to Pathanamthitta Municipality"
             ],
-            "totalProjects": 45,
-            "totalInvestment": "₹3,150 Cr"
+            "totalProjects": 82,
+            "totalInvestment": "₹1,258 Cr"
         },
         {
             "id": "alappuzha",
@@ -60,13 +60,13 @@
             "headquarters": "Alappuzha",
             "mapPath": "M150 100 L200 150 L150 200 Z",
             "highlightProjects": [
-                "Kuttanad Package",
-                "Alappuzha Canal Rejuvenation",
-                "Houseboat Terminal Upgrade",
-                "Coir Museum Project"
+                "Kuttanad Drinking Water Project",
+                "Alappuzha Heritage",
+                "Coastal Highway Reach 1",
+                "Coastal Highway Reach 3"
             ],
-            "totalProjects": 76,
-            "totalInvestment": "₹4,800 Cr"
+            "totalProjects": 82,
+            "totalInvestment": "₹1,967 Cr"
         },
         {
             "id": "kottayam",
@@ -77,13 +77,13 @@
             "headquarters": "Kottayam",
             "mapPath": "M150 100 L200 150 L150 200 Z",
             "highlightProjects": [
-                "Science City Project",
-                "Rubber Park",
-                "Kumarakom Responsible Tourism",
-                "Sabarimala Airport (Proposed)"
+                "Kottayam Substation",
+                "Kottayam Power Lines",
+                "Sewerage Scheme to Ettumanoor Municipality",
+                "Changanassery Bypass"
             ],
-            "totalProjects": 68,
-            "totalInvestment": "₹5,100 Cr"
+            "totalProjects": 82,
+            "totalInvestment": "₹1,328 Cr"
         },
         {
             "id": "idukki",
@@ -94,13 +94,13 @@
             "headquarters": "Painavu",
             "mapPath": "M150 100 L200 150 L150 200 Z",
             "highlightProjects": [
-                "Hydel Tourism Circuit",
-                "Spice Park",
-                "Munnar Gap Road",
-                "High Range Highway"
+                "Hill Highway Idukki Reach 1",
+                "Hill Highway Kuttikkanam-Chappathu",
+                "Hill Highway Reach 2",
+                "Munnar - Bodimettu Road"
             ],
-            "totalProjects": 52,
-            "totalInvestment": "₹3,900 Cr"
+            "totalProjects": 74,
+            "totalInvestment": "₹675 Cr"
         },
         {
             "id": "ernakulam",
@@ -111,13 +111,13 @@
             "headquarters": "Kakkanad",
             "mapPath": "M150 100 L200 150 L150 200 Z",
             "highlightProjects": [
-                "Kochi Metro Phase II",
-                "Smart City Kochi",
-                "Petrochemical Park",
-                "Water Metro Project"
+                "Petrochemical Park Land Acquisition",
+                "Aluva - Munnar Road",
+                "Sewerage Scheme to Vennala Region",
+                "KBIC Land Acquisition"
             ],
-            "totalProjects": 210,
-            "totalInvestment": "₹22,500 Cr"
+            "totalProjects": 126,
+            "totalInvestment": "₹6,080 Cr"
         },
         {
             "id": "thrissur",
@@ -128,13 +128,13 @@
             "headquarters": "Thrissur",
             "mapPath": "M150 100 L200 150 L150 200 Z",
             "highlightProjects": [
-                "Thrissur Pooram Infrastructure",
-                "KILA Upgrade",
-                "Puzhakkal River Tourism",
-                "Kodungallur Heritage Project"
+                "MCH Thrissur Mother & Child Block",
+                "WSS Thrissur Corp",
+                "Puthur Zoological Park Phase 2",
+                "Chettuva Bridge"
             ],
-            "totalProjects": 95,
-            "totalInvestment": "₹7,800 Cr"
+            "totalProjects": 121,
+            "totalInvestment": "₹1,665 Cr"
         },
         {
             "id": "palakkad",
@@ -145,13 +145,13 @@
             "headquarters": "Palakkad",
             "mapPath": "M150 100 L200 150 L150 200 Z",
             "highlightProjects": [
-                "Kochi-Bangalore Industrial Corridor",
-                "IIT Palakkad Campus",
-                "Mega Food Park",
-                "Kanjikode Industrial Park"
+                "Improvements to Mannarkad-Chinnathadakam Road",
+                "MC Palakkad OP Block",
+                "Palakkad Medical College Phase 2",
+                "WSS to Chittur-Thathamangalam Municipality"
             ],
-            "totalProjects": 88,
-            "totalInvestment": "₹8,450 Cr"
+            "totalProjects": 141,
+            "totalInvestment": "₹1,600 Cr"
         },
         {
             "id": "malappuram",
@@ -162,13 +162,13 @@
             "headquarters": "Malappuram",
             "mapPath": "M150 100 L200 150 L150 200 Z",
             "highlightProjects": [
-                "Thunchan Parambu Upgrade",
-                "Nilambur Teak Museum",
-                "Coastal Highway Reach I",
-                "Coconut Bio-Park"
+                "Ponnani-Padinjarekara Bridge",
+                "Vengallur GIS Substation",
+                "Nilambur Bypass",
+                "Perinthalmanna Ring Road"
             ],
-            "totalProjects": 105,
-            "totalInvestment": "₹6,900 Cr"
+            "totalProjects": 121,
+            "totalInvestment": "₹1,885 Cr"
         },
         {
             "id": "kozhikode",
@@ -179,13 +179,13 @@
             "headquarters": "Kozhikode",
             "mapPath": "M150 100 L200 150 L150 200 Z",
             "highlightProjects": [
-                "Cyberpark Expansion",
-                "Kozhikode Light Metro",
-                "Beypore Port Development",
-                "Gender Park"
+                "Anakkampoil-Kalladi-Meppadi Tunnel Road",
+                "Flyover at Arayadathupalam",
+                "Kozhikode Bypass",
+                "Medical College Hospital (MCH) Kozhikode Phase 3"
             ],
-            "totalProjects": 115,
-            "totalInvestment": "₹9,200 Cr"
+            "totalProjects": 163,
+            "totalInvestment": "₹4,630 Cr"
         },
         {
             "id": "wayanad",
@@ -196,13 +196,13 @@
             "headquarters": "Kalpetta",
             "mapPath": "M150 100 L200 150 L150 200 Z",
             "highlightProjects": [
-                "Anakkampoyil-Kalladi Tunnel",
-                "Carbon Neutral Coffee Park",
-                "Banasura Sagar Tourism",
-                "En Uru Heritage Village"
+                "Hill Highway Phase 1",
+                "Hill Highway Reach II",
+                "Improvements to Meppady-Chooralmala Road",
+                "Kalpetta Bypass"
             ],
-            "totalProjects": 38,
-            "totalInvestment": "₹2,800 Cr"
+            "totalProjects": 81,
+            "totalInvestment": "₹775 Cr"
         },
         {
             "id": "kannur",
@@ -213,13 +213,13 @@
             "headquarters": "Kannur",
             "mapPath": "M150 100 L200 150 L150 200 Z",
             "highlightProjects": [
-                "Kannur International Airport (Expansion)",
-                "Azheekkal Port",
-                "Handloom Village",
-                "Muzhappilangad Beach Project"
+                "Industrial Infrastructure Development",
+                "Thalassery Heritage Project Phase 1",
+                "Pinarayi Education Hub",
+                "International Ayurveda Research Institute"
             ],
-            "totalProjects": 82,
-            "totalInvestment": "₹7,100 Cr"
+            "totalProjects": 167,
+            "totalInvestment": "₹3,380 Cr"
         },
         {
             "id": "kasaragod",
@@ -230,13 +230,13 @@
             "headquarters": "Kasaragod",
             "mapPath": "M150 100 L200 150 L150 200 Z",
             "highlightProjects": [
-                "Solar Park",
-                "Bekal Tourism Masterplan",
-                "Central University Infrastructure",
-                "Hill Highway North End"
+                "Power Transmission System",
+                "Hill Highway Nandarapadavu-Chevar",
+                "Medical College Kasaragod Academic Block",
+                "Hill Highway Chevar-Edaparamba"
             ],
-            "totalProjects": 40,
-            "totalInvestment": "₹3,400 Cr"
+            "totalProjects": 122,
+            "totalInvestment": "₹1,315 Cr"
         }
     ]
 }

@@ -328,6 +328,7 @@
     font-weight: 900;
     color: var(--color-text);
     transition: color var(--transition-fast);
+    word-spacing: 2px;
 }
 
 .stat-card-suffix {

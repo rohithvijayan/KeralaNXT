@@ -170,3 +170,26 @@
         transform: translateY(-3px);
     }
 }
+/* Tooltip Styling Updates */
+.tooltip-stats-vertical {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    margin-top: 0.5rem;
+    border-top: 1px solid var(--color-border);
+    padding-top: 0.5rem;
+}
+
+.tooltip-stat-row {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.8125rem;
+    font-weight: 500;
+    color: var(--color-text);
+}
+
+.tooltip-stat-row .material-symbols-outlined {
+    font-size: 1rem;
+    color: var(--color-primary);
+}
