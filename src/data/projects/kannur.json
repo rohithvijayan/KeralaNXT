@@ -11,7 +11,7 @@
             "budget": "₹10.14 Crore",
             "description": "Construction of Kallacherikkadavu Bridge across Mayyazhi river connecting Trippagottur Panchayath in Kannur District and Thonneri Panchayath in Kozhikode District.",
             "impact": "Inter-district connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -28,7 +28,7 @@
             "budget": "₹81.08 Crore",
             "description": "Development of Government Medical College, Pariyaram, Kannur District - Phase 1.",
             "impact": "Healthcare infrastructure improvement.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital",
@@ -46,7 +46,7 @@
             "budget": "₹23.12 Crore",
             "description": "Construction of Cherikkal Kottam Bridge across Anjarakandy river in Kannur District.",
             "impact": "Bridge connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -63,7 +63,7 @@
             "budget": "₹262.54 Crore",
             "description": "Power transmission lines package for Kolathunadu region.",
             "impact": "Enhanced power grid reliability.",
-            "image": "/src/assets/images/CATEGORIES/ENERGY.png",
+            "image": "ENERGY_sgjgpc",
             "tags": [
                 "power",
                 "energy",
@@ -81,7 +81,7 @@
             "budget": "₹41.07 Crore",
             "description": "Coastal Highway in Kannur district - Payyambalam to Meenkunnu Reach 5 (1A).",
             "impact": "Coastal transport infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "coastal highway"
@@ -98,7 +98,7 @@
             "budget": "₹28.30 Crore",
             "description": "Improvements to Karetta-Maloor road (Karetta-Kanchilery-Kunderipoyil-Maloor) Km 0/000 to 9/600.",
             "impact": "Road infrastructure upgrade.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -115,7 +115,7 @@
             "budget": "₹83.17 Crore",
             "description": "Improvements to Hill Highway from Vallithod to Ambayathod between Km 36/506 to 45/000, 58/450 to 60/480 and 64/700 to 90/000.",
             "impact": "Hill highway connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "hill highway"
@@ -132,7 +132,7 @@
             "budget": "₹18.60 Crore",
             "description": "Construction of Model Residential School at Aralam, Kannur.",
             "impact": "Educational infrastructure for tribal development.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "school",
@@ -150,7 +150,7 @@
             "budget": "₹27.94 Crore",
             "description": "Construction of Choolakkadavu Bridge Connecting Payyanur Municipality and Ramanthali Panchayath.",
             "impact": "Bridge connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -167,7 +167,7 @@
             "budget": "₹22.52 Crore",
             "description": "Construction of New Bridge at Pazhayangadi in Kannur District.",
             "impact": "Improved transport infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -184,7 +184,7 @@
             "budget": "₹45.62 Crore",
             "description": "Improvements to Mattanur Irikkur Road Km 0/000 to 8/350.",
             "impact": "Road connectivity improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -201,7 +201,7 @@
             "budget": "₹16.50 Crore",
             "description": "Augmentation of Water Supply Scheme to Dharmadom panchayath in Dharmadom Constituency.",
             "impact": "Water supply improvement.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "rural"
@@ -218,7 +218,7 @@
             "budget": "₹12.00 Crore",
             "description": "Strengthening of Distribution system in Thalassery Taluk of Kannur District (WSS to Kottayam Census Towns project).",
             "impact": "Water distribution upgrade.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "urban"
@@ -235,7 +235,7 @@
             "budget": "₹48.45 Crore",
             "description": "Construction of Flyover at Melechovva in Kannur District.",
             "impact": "Traffic decongestion.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "flyover",
                 "transport"
@@ -252,7 +252,7 @@
             "budget": "₹130.87 Crore",
             "description": "Flyover at South Bazar Junction in Kannur town.",
             "impact": "Urban traffic relief.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "flyover",
                 "urban transport"
@@ -269,7 +269,7 @@
             "budget": "₹16.11 Crore",
             "description": "Setting up of Cinema Theater Complex at Payyanur.",
             "impact": "Cultural infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/CULTURE.png",
+            "image": "CULTURE_vqtyfl",
             "tags": [
                 "culture",
                 "cinema"
@@ -286,7 +286,7 @@
             "budget": "₹10.12 Crore",
             "description": "Setting up of Cinema Theater Complexes at Thalassery.",
             "impact": "Cultural infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/CULTURE.png",
+            "image": "CULTURE_vqtyfl",
             "tags": [
                 "culture",
                 "cinema"
@@ -303,7 +303,7 @@
             "budget": "₹50.14 Crore",
             "description": "Construction of Court Complex at Thalassery.",
             "impact": "Judicial infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "court",
                 "building",
@@ -321,7 +321,7 @@
             "budget": "₹26.07 Crore",
             "description": "Construction of RCB across Kuppam River at Kooveri Kattampally in Chapparappadavu Panchayath.",
             "impact": "Water regulation and transport.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "bridge",
                 "regulator",
@@ -339,7 +339,7 @@
             "budget": "₹30.14 Crore",
             "description": "Construction of Court Complex at Koothuparamba in Kannur District.",
             "impact": "Judicial infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "court",
                 "building",
@@ -357,7 +357,7 @@
             "budget": "₹114.00 Crore",
             "description": "Land Acquisition of private land for International Research Institute for Ayurveda (IRIA) Phase II.",
             "impact": "Research infrastructure expansion.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "ayurveda",
                 "research",
@@ -375,7 +375,7 @@
             "budget": "₹4.15 Crore",
             "description": "Construction of Payyannur Municipal stadium and Payyannur Football stadium.",
             "impact": "Sports infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
+            "image": "SPORTS_pbz6cc",
             "tags": [
                 "sports",
                 "stadium"
@@ -392,7 +392,7 @@
             "budget": "₹90.28 Crore",
             "description": "Establishment of International Research Institute for Ayurveda - Phase 1.",
             "impact": "Ayurveda research facility.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "ayurveda",
                 "research",
@@ -410,7 +410,7 @@
             "budget": "₹40.86 Crore",
             "description": "Development of Taluk Hospital, Peravoor in Kannur District - Phase 1.",
             "impact": "Healthcare facility upgrade.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital"
@@ -427,7 +427,7 @@
             "budget": "₹6.50 Crore",
             "description": "Coastal Highway Reach 4 - Kunnaru City to Pandyalakadavu (5.13 km).",
             "impact": "Coastal connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "coastal highway"
@@ -444,7 +444,7 @@
             "budget": "₹2.44 Crore",
             "description": "Coastal Highway Reach 2 - Meenkunnu to Chal (3.53 km).",
             "impact": "Coastal connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "coastal highway"
@@ -461,7 +461,7 @@
             "budget": "₹1.25 Crore",
             "description": "Procurement of Medical Equipment for IRIA Kannur.",
             "impact": "Medical facility equipment.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "equipment"
@@ -478,7 +478,7 @@
             "budget": "₹133.83 Crore",
             "description": "Coastal Highway Reach 1 - Mahe Bridge to Payyambalam (31.21km).",
             "impact": "Major coastal road connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "coastal highway"
@@ -495,7 +495,7 @@
             "budget": "₹19.15 Crore",
             "description": "Construction of Mattannur Aquatic Complex (Shared project with Thrissur).",
             "impact": "Sports infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
+            "image": "SPORTS_pbz6cc",
             "tags": [
                 "sports",
                 "aquatic complex"
@@ -512,7 +512,7 @@
             "budget": "₹56.31 Crore",
             "description": "Development of Taluk Hospital Payyanur.",
             "impact": "Healthcare infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital"
@@ -529,7 +529,7 @@
             "budget": "₹16.89 Crore",
             "description": "Infrastructure development at Government Engineering College Kannur.",
             "impact": "Higher education facilities.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "engineering college"
@@ -546,7 +546,7 @@
             "budget": "₹50.32 Crore",
             "description": "Improvements and providing BM & BC to Manakkadavu-Moorikkadavu-Kappimala-Alakkode road Km 0/000 to 14/387.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -563,7 +563,7 @@
             "budget": "₹100.42 Crore",
             "description": "Development of Specialty Hospital at Mattannur.",
             "impact": "Advanced healthcare services.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital"
@@ -580,7 +580,7 @@
             "budget": "₹60.76 Crore",
             "description": "Improvements to Ammanappara-Pacheni-Thiruvattoor-Therandi-Chapparappadavu road km 0/000 to 14/000 and Vimalasseri to Eruvatty road.",
             "impact": "Road network enhancement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -597,7 +597,7 @@
             "budget": "₹68.97 Crore",
             "description": "Development of Women and Child Hospital Thalasseri.",
             "impact": "Specialized healthcare for women and children.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital"
@@ -614,7 +614,7 @@
             "budget": "₹47.72 Crore",
             "description": "Improvements to Sreekandapuram-Chempanthatty-Naduvil road Km 0/000 to 9/760.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -631,7 +631,7 @@
             "budget": "₹1,272.75 Crore",
             "description": "Development of Industrial Infrastructure in Kannur and Palakkad Districts-Land Acquisition.",
             "impact": "Industrial growth.",
-            "image": "/src/assets/images/CATEGORIES/INDUSTRY.png",
+            "image": "INDUSTRY_fwzd3p",
             "tags": [
                 "industry",
                 "land acquisition"
@@ -648,7 +648,7 @@
             "budget": "₹42.83 Crore",
             "description": "Improvements and Providing BM & BC to ETC Poomangalam-Mazhoor-Panniyoor-Kalikkadavu-Ladappengad-Madekkad road 0/000 to 13/945 and Karinkayam Nellipara road.",
             "impact": "Rural road upgrade.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -665,7 +665,7 @@
             "budget": "₹15.16 Crore",
             "description": "Construction of Sports facilities at Mattannur, Padiyur and Thiruvambady.",
             "impact": "Sports infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
+            "image": "SPORTS_pbz6cc",
             "tags": [
                 "sports",
                 "infrastructure"
@@ -682,7 +682,7 @@
             "budget": "₹56.42 Crore",
             "description": "Construction of Regulator with Lock across Anjarakandy River at Parapram in Pinarai Panchayath.",
             "impact": "Water resource management.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "regulator",
                 "water resources"
@@ -699,7 +699,7 @@
             "budget": "₹13.74 Crore",
             "description": "Upgradation of Govt ITI Koyilandy, Govt ITI Kannur and EK Nayanar Memorial ITI Kayyur.",
             "impact": "Vocational training facilities.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "skills",
@@ -717,7 +717,7 @@
             "budget": "₹36.16 Crore",
             "description": "Improvements including DBM and BC to Malappattamparamba Kaniyarvayal Aduvappuram Pavannurmotta Road, Km 0/000 to 12/950.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -734,7 +734,7 @@
             "budget": "₹10.17 Crore",
             "description": "Construction of Kunduchira Bridge connecting Thalassery Municipality and Kadirur Panchayath.",
             "impact": "Local connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -751,7 +751,7 @@
             "budget": "₹72.16 Crore",
             "description": "Improvement and providing DBM and BC to Kattampallikkadavu-Koovery-Chapparappadav Mangara Chanokkund-Thadikkadavu road km 0/000 to 18/150.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -768,7 +768,7 @@
             "budget": "₹37.62 Crore",
             "description": "Providing DBM and BC to Keezhmadakkan Kallikandy Thoovankunn Vadakkepoilur Kunnothparamba Road 0/000 to 12/555.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -785,7 +785,7 @@
             "budget": "₹61.27 Crore",
             "description": "Improvements including DBM & BC to Ulikkal - Thermala - Kanhilery Kaniyarvayal road km 0/00-18/00.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -802,7 +802,7 @@
             "budget": "₹10.87 Crore",
             "description": "Development of Taluk Hospital Panoor in Kannur District.",
             "impact": "Healthcare facility upgrade.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital"
@@ -819,7 +819,7 @@
             "budget": "₹24.65 Crore",
             "description": "Improvements and providing DBM&BC to Vellora-Kakkara kadukkaram mukku via-Chakkalakkunnu road vellora -Kadukkaram road KM 0/000 11/215.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -836,7 +836,7 @@
             "budget": "₹269.70 Crore",
             "description": "Laying distribution of Water Supply Schemes - WSS to Mattanur and Iritty Phase II.",
             "impact": "Water distribution system.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "urban"
@@ -853,7 +853,7 @@
             "budget": "₹650.50 Crore",
             "description": "Development of Mahe - Valapattanam stretch of West Coast Canal - Land Acquisition and Rehabilitation.",
             "impact": "Inland water transport.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "canal",
                 "water transport",
@@ -871,7 +871,7 @@
             "budget": "₹10.09 Crore",
             "description": "Construction of Sub Registrar offices at Taliparamba and Uliyil (part of cluster VI).",
             "impact": "Administrative infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "registration",
                 "office"
@@ -888,7 +888,7 @@
             "budget": "₹85.86 Crore",
             "description": "Thalassery Koothuparamba Comprehensive Drinking Water Supply Scheme.",
             "impact": "Regional drinking water project.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "urban",
@@ -906,7 +906,7 @@
             "budget": "₹17.96 Crore",
             "description": "Construction of Kidanji Thuruthimukku bridge across Mayyazhi river connecting Kannur District and Kozhikkode District.",
             "impact": "Inter-district connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -923,7 +923,7 @@
             "budget": "₹15.14 Crore",
             "description": "Construction of 3 Bridge works in Kannur District (Vattoli Bridge, Oldenthodu Bridge, Reconstruction of Chekkupalam).",
             "impact": "Bridge infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -940,7 +940,7 @@
             "budget": "₹76.60 Crore",
             "description": "WSS to Mattannur and Iritty Municipalities.",
             "impact": "Urban water supply.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "urban"
@@ -957,7 +957,7 @@
             "budget": "₹24.83 Crore",
             "description": "Construction of Education Hub at Pinarayi Kannur District.",
             "impact": "Educational facilities.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "hub"
@@ -974,7 +974,7 @@
             "budget": "₹7.14 Crore",
             "description": "Setting up of Cinema Theater Complex in Payam.",
             "impact": "Cultural infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/CULTURE.png",
+            "image": "CULTURE_vqtyfl",
             "tags": [
                 "culture",
                 "cinema"
@@ -991,7 +991,7 @@
             "budget": "₹20.36 Crore",
             "description": "Improvements and providing DBM & BC to Taliparamba-Pattuvam-Cherukunnu Road.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1008,7 +1008,7 @@
             "budget": "₹62.08 Crore",
             "description": "Kuppam- Chudala -Panapuzha & Mathamangalam Eriyam Road from Km 0/000 to 9/710 & km.0/000 to 9/500.",
             "impact": "Road connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1025,7 +1025,7 @@
             "budget": "₹22.94 Crore",
             "description": "Development of Taluk Head Quarters Hospital Thaliparamba.",
             "impact": "Healthcare infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital"
@@ -1042,7 +1042,7 @@
             "budget": "₹83.60 Crore",
             "description": "Water supply Scheme to Peravoor, Muzhakkunnu, Payam and Ayyankunnu - Phase 1.",
             "impact": "Rural water supply.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "rural"
@@ -1059,7 +1059,7 @@
             "budget": "₹10.70 Crore",
             "description": "DH Kannur- Procurement of Biomedical Equipment and Other Items.",
             "impact": "Medical facilities.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital",
@@ -1077,7 +1077,7 @@
             "budget": "₹2.41 Crore",
             "description": "Construction of Moolakkeelkadavu (Mulakizhikkadavu) bridge in Kannur District.",
             "impact": "Bridge connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -1094,7 +1094,7 @@
             "budget": "₹96.21 Crore",
             "description": "Coastal Highway - Palakkode Kunnaru city stretch (ch 0/000 to 4/665).",
             "impact": "Coastal connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "coastal highway"
@@ -1111,7 +1111,7 @@
             "budget": "₹79.51 Crore",
             "description": "Comprehensive Development of Muzhuppilangad -Dharmadom Beach in Kannur District.",
             "impact": "Tourism development.",
-            "image": "/src/assets/images/CATEGORIES/TOURISM.png",
+            "image": "TOURISM_xfsbzi",
             "tags": [
                 "tourism",
                 "beach",
@@ -1129,7 +1129,7 @@
             "budget": "₹423.72 Crore",
             "description": "Kannur Airport connectivity package roads - Thalassery Koduvally Mambaram Anjarakandy Mattannur road.",
             "impact": "Airport connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "airport",
@@ -1147,7 +1147,7 @@
             "budget": "₹22.58 Crore",
             "description": "Infrastructure upgradation of schools in Kannur Cluster 2.",
             "impact": "School infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "schools"
@@ -1164,7 +1164,7 @@
             "budget": "₹38.56 Crore",
             "description": "Construction of ROB at Punnol (LC No. 224).",
             "impact": "Railway crossing safety.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "railway"
@@ -1181,7 +1181,7 @@
             "budget": "₹16.31 Crore",
             "description": "Construction of ROB in lieu of existing LC No. 230 at Koduvally.",
             "impact": "Railway crossing safety.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "railway"
@@ -1198,7 +1198,7 @@
             "budget": "₹10.20 Crore",
             "description": "Procurement of Medical equipments & hospital furnitures for THQH Payyannur.",
             "impact": "Hospital facilities.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital",
@@ -1216,7 +1216,7 @@
             "budget": "₹41.02 Crore",
             "description": "Jimmy George Indoor Stadium and Sports Complex at Kannur Mundayad.",
             "impact": "Sports infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
+            "image": "SPORTS_pbz6cc",
             "tags": [
                 "sports",
                 "stadium"
@@ -1233,7 +1233,7 @@
             "budget": "₹6.35 Crore",
             "description": "Additional fund sanctioned by KIIFB for GHSS Munderi.",
             "impact": "School infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "school"
@@ -1250,7 +1250,7 @@
             "budget": "₹14.70 Crore",
             "description": "Construction of Model Residential School at Thaliparamba, Kannur.",
             "impact": "Educational infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "school"
@@ -1267,7 +1267,7 @@
             "budget": "₹51.86 Crore",
             "description": "Setting up of Three star Beach Resort at Muzhuppilangad.",
             "impact": "Tourism accommodation.",
-            "image": "/src/assets/images/CATEGORIES/TOURISM.png",
+            "image": "TOURISM_xfsbzi",
             "tags": [
                 "tourism",
                 "resort"
@@ -1284,7 +1284,7 @@
             "budget": "₹6.28 Crore",
             "description": "Infrastructure upgradation of schools in Kannur Phase-3 Cluster.",
             "impact": "School infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "schools"
@@ -1301,7 +1301,7 @@
             "budget": "₹291.91 Crore",
             "description": "Construction of 5 Lakh sqft IT building for proposed IT park at Kannur.",
             "impact": "IT infrastructure and employment.",
-            "image": "/src/assets/images/CATEGORIES/IT.png",
+            "image": "IT_ukwhbl",
             "tags": [
                 "IT",
                 "building",
@@ -1319,7 +1319,7 @@
             "budget": "₹40.24 Crore",
             "description": "Improvements to Kuthuparamba Ring Road in Kannur District.",
             "impact": "Traffic relief.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "ring road",
                 "roads"
@@ -1336,7 +1336,7 @@
             "budget": "₹40.95 Crore",
             "description": "Thalasseri Heritage Project including Overbury's Bridge/Plaza development.",
             "impact": "Heritage tourism.",
-            "image": "/src/assets/images/CATEGORIES/TOURISM.png",
+            "image": "TOURISM_xfsbzi",
             "tags": [
                 "tourism",
                 "heritage"
@@ -1353,7 +1353,7 @@
             "budget": "₹23.34 Crore",
             "description": "Infrastructure upgradation of schools in Kannur Cluster 1.",
             "impact": "School infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "schools"
@@ -1370,7 +1370,7 @@
             "budget": "₹20.84 Crore",
             "description": "Improvements to Madayi - Ettikkulam HS - Palakkode Road and Construction of Vengara Over Bridge - Phase I.",
             "impact": "Road and rail connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "railway",
@@ -1388,7 +1388,7 @@
             "budget": "₹1.28 Crore",
             "description": "Improvements to Chakkarakkal Junction in Kannur District.",
             "impact": "Junction improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "junction"
@@ -1405,7 +1405,7 @@
             "budget": "₹0.98 Crore",
             "description": "Improvements to Payyannur Central Bazar Junction in Kannur district.",
             "impact": "Junction improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "junction"
@@ -1422,7 +1422,7 @@
             "budget": "₹14.53 Crore",
             "description": "Arammayil Parapram road (Improvements to Parapram Olayambalam sixth mile road Km 0/000 to 5/167 and Km 5/900 to 9/405).",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1439,7 +1439,7 @@
             "budget": "₹56.90 Crore",
             "description": "WSS to Kunjimangalam, Cheruthazham, Ezhimala Naval Academy.",
             "impact": "Water supply.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "rural"
@@ -1456,7 +1456,7 @@
             "budget": "₹46.57 Crore",
             "description": "Office Building of Kannur Municipal Corporation.",
             "impact": "Civic infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "building",
                 "corporation"
@@ -1473,7 +1473,7 @@
             "budget": "₹21.97 Crore",
             "description": "Augmentation of Infrastructural Facilities at Brennan College Kannur.",
             "impact": "Higher education facilities.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "college"
@@ -1490,7 +1490,7 @@
             "budget": "₹98.20 Crore",
             "description": "To Develop Malabar Cancer Centre as Post Graduate Institute of Oncology Sciences and Research.",
             "impact": "Oncology research and education.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "cancer centre",
@@ -1508,7 +1508,7 @@
             "budget": "₹51.26 Crore",
             "description": "Augmenting Infrastructural Facilities at Kannur University.",
             "impact": "University infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "university"
@@ -1525,7 +1525,7 @@
             "budget": "₹12.96 Crore",
             "description": "Kannur cluster 1 (Higher Education Department).",
             "impact": "Higher education facilities.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "college"
@@ -1542,7 +1542,7 @@
             "budget": "₹10.64 Crore",
             "description": "Kannur Jawahar Stadium development.",
             "impact": "Sports infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
+            "image": "SPORTS_pbz6cc",
             "tags": [
                 "sports",
                 "stadium"
@@ -1559,7 +1559,7 @@
             "budget": "₹13.96 Crore",
             "description": "Office Building - Anthoor Municipality.",
             "impact": "Civic infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "building",
                 "municipality"
@@ -1576,7 +1576,7 @@
             "budget": "₹45.74 Crore",
             "description": "WRD005 - Kannur PH Circle projects.",
             "impact": "Water supply infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "maintenance"
@@ -1593,7 +1593,7 @@
             "budget": "₹6.74 Crore",
             "description": "Educational Infrastructure Works at Kannur District Phase-1 (Fisheries Dept).",
             "impact": "Fisheries education infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "fisheries",
                 "education",
@@ -1611,7 +1611,7 @@
             "budget": "₹306.50 Crore",
             "description": "Kannur Airport connectivity package roads - Upgradation of Chorukkala Bavuparamba Nanicherikkadavu Chekkiyattukavu Mayyil Kololam Road.",
             "impact": "Airport connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "airport"
@@ -1628,7 +1628,7 @@
             "budget": "₹58.53 Crore",
             "description": "Upgradation of Payyannur Ambalathara Kanayi Maniyaravayal Mathamangalam road km 0/000 to 11/350.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1645,7 +1645,7 @@
             "budget": "₹20.26 Crore",
             "description": "Improvements and Providing DBM & BC to Kankol - Cheemeni Road Km 0/000 to 10/135.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1662,7 +1662,7 @@
             "budget": "₹23.69 Crore",
             "description": "Improvements and Providing DBM& BC to Cherupuzha-Muthuvam Road Km 0/000 to 7/510.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1679,7 +1679,7 @@
             "budget": "₹24.55 Crore",
             "description": "Improvements to Mayyil - Kanhirode Road in Km 0/000 to 9/700.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1696,7 +1696,7 @@
             "budget": "₹23.50 Crore",
             "description": "Construction of a new road from Thazhe Chovva-Railway gate-Chovva Spinning Mill Road.",
             "impact": "Urban road infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1713,7 +1713,7 @@
             "budget": "₹17.23 Crore",
             "description": "Improvements and Providing DBM & BC to Punnakadavu-Puthiya puzhakkara-Ezhimala Railway station-Ezhilode Road.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1730,7 +1730,7 @@
             "budget": "₹30.97 Crore",
             "description": "Improvements to Peruvamparamba Kalluvayal-Nellicampoil road 0/000 to 6/960.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1747,7 +1747,7 @@
             "budget": "₹11.71 Crore",
             "description": "Infrastructure upgradation of schools in Kannur Cluster 18.",
             "impact": "School infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "schools"
@@ -1764,7 +1764,7 @@
             "budget": "₹10.83 Crore",
             "description": "Development of Abu Chathukutty Stadium at Dharmadom and Stadium at Koothuparamba.",
             "impact": "Sports infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
+            "image": "SPORTS_pbz6cc",
             "tags": [
                 "sports",
                 "stadium"
@@ -1781,7 +1781,7 @@
             "budget": "₹14.44 Crore",
             "description": "Infrastructure upgradation of schools in Kannur Cluster 17.",
             "impact": "School infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "schools"
@@ -1798,7 +1798,7 @@
             "budget": "₹13.05 Crore",
             "description": "Development of V.R. Krishna Iyer Stadium, Thalassery.",
             "impact": "Sports infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
+            "image": "SPORTS_pbz6cc",
             "tags": [
                 "sports",
                 "stadium"
@@ -1815,7 +1815,7 @@
             "budget": "₹96.47 Crore",
             "description": "Kannur International Airport connectivity packages roads Road-3 (Reach 3- Ambayathode to Mattannur road).",
             "impact": "Airport connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "airport"
@@ -1832,7 +1832,7 @@
             "budget": "₹221.10 Crore",
             "description": "Establishment of Science Park at Kannur.",
             "impact": "Science education and innovation.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "science",
@@ -1850,7 +1850,7 @@
             "budget": "₹59.10 Crore",
             "description": "Kannur International Airport connectivity packages roads (Road-2 Peringathur - Mekkunnu - Panoor - Kuthupramba - Mattannur Road).",
             "impact": "Airport connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "airport"
@@ -1867,7 +1867,7 @@
             "budget": "₹41.45 Crore",
             "description": "Hill Highway- Ambayathodu (Ch 0/000) To Boys Town (Ch 5/760) Road.",
             "impact": "Hill highway connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "hill highway"
@@ -1884,7 +1884,7 @@
             "budget": "₹11.07 Crore",
             "description": "Kannur District Panchayath infrastructure project.",
             "impact": "Local development.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "infrastructure",
                 "panchayat"
@@ -1901,7 +1901,7 @@
             "budget": "₹76.79 Crore",
             "description": "Construction of Kavinmunambu Bridge in Kannur District.",
             "impact": "Bridge connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -1918,7 +1918,7 @@
             "budget": "₹22.53 Crore",
             "description": "Construction of Revenue Tower, Mattanur.",
             "impact": "Government office infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "building",
                 "revenue"
@@ -1935,7 +1935,7 @@
             "budget": "₹34.15 Crore",
             "description": "Land acquisition for Vagbhatanandan Cultural Complex at Kannur.",
             "impact": "Cultural centre.",
-            "image": "/src/assets/images/CATEGORIES/CULTURE.png",
+            "image": "CULTURE_vqtyfl",
             "tags": [
                 "culture",
                 "infrastructure",
@@ -1953,7 +1953,7 @@
             "budget": "₹44.70 Crore",
             "description": "Improvements and strengthening to Chandapura - Pariyaram Medical College- Sreestha- Neruvambram Ezhome - Kottakkeel - Vellikkeel Ozhakrome - Kannapuram Road.",
             "impact": "Road network strengthening.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1970,7 +1970,7 @@
             "budget": "₹3.50 Crore",
             "description": "Construction of Pulinjolikadavu Bridge across Anjarakkandy River.",
             "impact": "Bridge connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -1987,7 +1987,7 @@
             "budget": "₹6.27 Crore",
             "description": "Educational Infrastructure Works at Kannur District Phase-2 (Fisheries Dept).",
             "impact": "Fisheries education infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "fisheries",
                 "education"
@@ -2004,7 +2004,7 @@
             "budget": "₹0.00",
             "description": "Construction of Kallurikkadavu bridge across Valapattanam river connecting Narath and Pappinissery panchayath.",
             "impact": "Bridge connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -2021,7 +2021,7 @@
             "budget": "₹63.49 Crore",
             "description": "Kannur District Hospital- Construction of Speciality Block and Renovation and upgradation of existing Infrastructure.",
             "impact": "Advanced healthcare services.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital"
@@ -2038,7 +2038,7 @@
             "budget": "₹2.41 Crore",
             "description": "Construction of Moolakkeelkadavu (Mulakizhikkadavu) bridge.",
             "impact": "Bridge connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -2055,7 +2055,7 @@
             "budget": "₹96.21 Crore",
             "description": "Coastal Highway-Palakkode Kunnaru city stretch (ch 0/000 to 4/665).",
             "impact": "Coastal connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "coastal highway"
@@ -2072,7 +2072,7 @@
             "budget": "₹0.00",
             "description": "Construction of Coastal Highway- Edakkad to Muzhappilangad km 0/000 to 3/065.",
             "impact": "Coastal connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "coastal highway"
@@ -2089,7 +2089,7 @@
             "budget": "₹0.00",
             "description": "Coastal Highway Phase -1, Construction of coastal Highway stretch between Muzhuppilangad beach - Edakkad - Kuruva - Payyambalam - Neerkkadavu - Chal Azheekkal.",
             "impact": "Major coastal road connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "coastal highway"
@@ -2106,7 +2106,7 @@
             "budget": "₹69.88 Crore",
             "description": "Improvements of Thiruvangad Champad Road (Champad Koppalam - Thalassery Road) from km 01/807 to 5/208 and 6/126 to 7/120.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -2123,7 +2123,7 @@
             "budget": "₹0.00",
             "description": "Improvements and providing BM and BC to Alakkode-Pathenpara-Vellad (First Stretch) Noolittamala to Kanakakkunnu road (second stretch).",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -2140,7 +2140,7 @@
             "budget": "₹0.00",
             "description": "Office Complex for State Goods & Service Tax Department At Kannur.",
             "impact": "Administrative infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "building",
                 "tax",

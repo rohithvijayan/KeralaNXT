@@ -11,7 +11,7 @@
             "budget": "₹208.53 Crore (Total Phases)",
             "description": "Comprehensive heritage tourism project including the conservation of the Port Museum, Yarn Museum, Coir History Museum, Living Coir Museum, and Labour Movement Museum. Includes canal beautification, sea bridge construction, and renovation of heritage structures like Saukar Masjid and Makam Masjid.",
             "impact": "Revitalizing the historic port town and boosting heritage tourism.",
-            "image": "/src/assets/images/CATEGORIES/TOURISM.png",
+            "image": "TOURISM_xfsbzi",
             "tags": [
                 "tourism",
                 "heritage",
@@ -30,7 +30,7 @@
             "budget": null,
             "description": "Reconstruction of the 24.164 km Alappuzha-Changanassery road as a semi-elevated highway using soil stabilization technology to prevent flooding during monsoons. Includes flyovers and bridges.",
             "impact": "Ensures flood-resilient connectivity through the Kuttanad region.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "flood resilience",
@@ -48,7 +48,7 @@
             "budget": "₹128.49 Crore",
             "description": "A seafood-focused industrial park at Pallippuram, Cherthala, with common infrastructure like cold storage, deep freezers, and standard design factories. Grant assistance from MoFPI.",
             "impact": "Expected to attract ₹600 crore investment and generate 3,000 jobs.",
-            "image": "/src/assets/images/CATEGORIES/INDUSTRY.png",
+            "image": "INDUSTRY_fwzd3p",
             "tags": [
                 "industry",
                 "food processing",
@@ -66,7 +66,7 @@
             "budget": "₹385.01 Crore",
             "description": "Second phase of the comprehensive drinking water supply scheme for the Kuttanad region.",
             "impact": "Providing safe drinking water to the water-logged Kuttanad region.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "infrastructure",
@@ -84,7 +84,7 @@
             "budget": "₹142.57 Crore",
             "description": "Construction of Coastal Highway stretch from Valiyazheekkal to Thottapally (22.10 km).",
             "impact": "Improving coastal connectivity and tourism.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "coastal highway",
@@ -102,7 +102,7 @@
             "budget": "₹91.02 Crore",
             "description": "Construction of Coastal Highway stretch from SH Bypass Crossing to South Chellanam (33 km).",
             "impact": "Improving coastal connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "coastal highway",
@@ -120,7 +120,7 @@
             "budget": "₹102 Crore",
             "description": "Establishment of a cancer medicine manufacturing unit (Oncology Park) at Kerala State Drugs and Pharmaceuticals (KSDP), Alappuzha.",
             "impact": "Production of affordable cancer medication.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "pharma",
@@ -138,7 +138,7 @@
             "budget": "₹182.33 Crore",
             "description": "Construction of a new fishing harbour at Chethy.",
             "impact": "Boosting fisheries sector infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "fisheries",
                 "harbour",
@@ -156,7 +156,7 @@
             "budget": "₹106.08 Crore",
             "description": "Construction of a bridge connecting Perumbalam island to the mainland.",
             "impact": "Critical connectivity for island residents.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport",
@@ -174,7 +174,7 @@
             "budget": "₹96.51 Crore",
             "description": "Renovation and modernization of Alappuzha town canals including cleaning, deepening, and beautification to improve water transport.",
             "impact": "Reviving the canal network for tourism and transport.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "water transport",
                 "canals",
@@ -192,7 +192,7 @@
             "budget": "₹102.80 Crore",
             "description": "Major infrastructure development at District Hospital Mavelikkara.",
             "impact": "Enhanced healthcare facilities.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital",
@@ -210,7 +210,7 @@
             "budget": "₹120.52 Crore",
             "description": "Construction of a new bridge near the Zilla Court in Alappuzha.",
             "impact": "Improved urban connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport",
@@ -228,7 +228,7 @@
             "budget": "₹101.10 Crore",
             "description": "Construction and development of Taluk Hospital at Chettikad.",
             "impact": "Better healthcare access for coastal communities.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital",
@@ -246,7 +246,7 @@
             "budget": "₹78.34 Crore",
             "description": "Construction of groyne fields in severely eroded coastal belts at Ottamassery, Kattoor-Pollethai, Kakkazham, and Nellanickal.",
             "impact": "Coastal protection against erosion.",
-            "image": "/src/assets/images/CATEGORIES/environment.jpg",
+            "image": "environment_wxugxx",
             "tags": [
                 "coastal protection",
                 "environment",
@@ -264,7 +264,7 @@
             "budget": "₹70.05 Crore",
             "description": "Infrastructure upgrades for District Hospital Chengannur.",
             "impact": "Improved medical services.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital"
@@ -281,7 +281,7 @@
             "budget": "₹71.20 Crore",
             "description": "Development works at Taluk Hospital Cherthala.",
             "impact": "Enhanced healthcare infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital"
@@ -298,7 +298,7 @@
             "budget": "₹34.83 Crore",
             "description": "Development of Taluk Hospital Thuravur.",
             "impact": "Improved healthcare facilities.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital"
@@ -315,7 +315,7 @@
             "budget": "₹57.41 Crore",
             "description": "Construction of Punnamada Bridge.",
             "impact": "Improved connectivity across Punnamada lake.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -332,7 +332,7 @@
             "budget": "₹60.74 Crore",
             "description": "Construction of Thottappally - Naluchira Bridge.",
             "impact": "Transport infrastructure improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -349,7 +349,7 @@
             "budget": "₹63.15 Crore",
             "description": "Construction of bridge connecting Pallathuruthi Out Post and Kainakary.",
             "impact": "Connectivity for Kainakary region.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -366,7 +366,7 @@
             "budget": "₹143.56 Crore",
             "description": "Development of Alappuzha Mobility Hub, Phase 1 includes KSRTC Bus Terminal Complex.",
             "impact": "Integrated transport facility.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "transport",
                 "bus terminal",
@@ -384,7 +384,7 @@
             "budget": "₹199.13 Crore",
             "description": "Water Supply Scheme to Ala, Puliyoor, Budhanoor, Pandanad, Mulakkuzha, Venmony Panchayaths and Chengannur Municipality.",
             "impact": "Potable water for multiple panchayats and municipality.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "infrastructure"
@@ -401,7 +401,7 @@
             "budget": "₹150.73 Crore",
             "description": "Development of Arthungal Fishing Harbour (balance work) under Fisheries and Aquaculture Infrastructure Development Fund (FIDF).",
             "impact": "Fisheries infrastructure development.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "fisheries",
                 "harbour"
@@ -418,7 +418,7 @@
             "budget": "₹21.36 Crore",
             "description": "Development and beautification of Chethy Beach.",
             "impact": "Tourism promotion.",
-            "image": "/src/assets/images/CATEGORIES/TOURISM.png",
+            "image": "TOURISM_xfsbzi",
             "tags": [
                 "tourism",
                 "beach"
@@ -435,7 +435,7 @@
             "budget": "₹77.36 Crore",
             "description": "Standardisation and Improvement of Ambalapuzha Thiruvalla Road stretch 1 and 2.",
             "impact": "Better road connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -452,7 +452,7 @@
             "budget": "₹57.05 Crore",
             "description": "Construction of a new Out Patient Block at General Hospital Alappuzha.",
             "impact": "Improved patient care facilities.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital",
@@ -470,7 +470,7 @@
             "budget": "₹94.18 Crore",
             "description": "Construction of road from NH Vayalar Junction to Pallippuram Infopark including a bridge across Vayalar Kayal.",
             "impact": "Connectivity to IT park.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "IT",
@@ -488,7 +488,7 @@
             "budget": "₹63.60 Crore",
             "description": "Construction of Thattassery Bridge.",
             "impact": "Transport infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -505,7 +505,7 @@
             "budget": "₹65.51 Crore",
             "description": "Construction of Padaharam Bridge across Pampa river.",
             "impact": "Transport infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -522,7 +522,7 @@
             "budget": "₹15.24 Crore",
             "description": "Development of Preethikulangara School Stadium and Alappuzha EMS Stadium.",
             "impact": "Sports infrastructure development.",
-            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
+            "image": "SPORTS_pbz6cc",
             "tags": [
                 "sports",
                 "stadium"
@@ -539,7 +539,7 @@
             "budget": "₹31.25 Crore",
             "description": "Balance works of construction of Udayakumar Indoor Stadium (District stadium) at Chengannur.",
             "impact": "Sports infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
+            "image": "SPORTS_pbz6cc",
             "tags": [
                 "sports",
                 "stadium"
@@ -556,7 +556,7 @@
             "budget": "₹52.88 Crore",
             "description": "Construction of a new factory for Homco (Homeopathy medicine production) conforming to WHO GMP guidelines.",
             "impact": "Center of excellence in homeopathy medicine production.",
-            "image": "/src/assets/images/CATEGORIES/INDUSTRY.png",
+            "image": "INDUSTRY_fwzd3p",
             "tags": [
                 "industry",
                 "health",
@@ -574,7 +574,7 @@
             "budget": "₹16.50 Crore",
             "description": "Construction of a modern abattoir in Cherthala.",
             "impact": "Public health and sanitation.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "infrastructure",
                 "sanitation"
@@ -591,7 +591,7 @@
             "budget": "₹126.94 Crore (Part of)",
             "description": "Construction of pilgrim shelter (Edathavalam) at Chengannur for Sabarimala pilgrims.",
             "impact": "Pilgrim amenities.",
-            "image": "/src/assets/images/CATEGORIES/TOURISM.png",
+            "image": "TOURISM_xfsbzi",
             "tags": [
                 "pilgrim tourism",
                 "infrastructure"
@@ -608,7 +608,7 @@
             "budget": "₹28.79 Crore",
             "description": "Restoration of Ecosystem of Vembanad Lake and surrounding water bodies leading to the Lake in Aroor LAC Phase 1.",
             "impact": "Environmental conservation and flood mitigation.",
-            "image": "/src/assets/images/CATEGORIES/environment.jpg",
+            "image": "environment_wxugxx",
             "tags": [
                 "environment",
                 "lake",
@@ -626,7 +626,7 @@
             "budget": "₹70 Crore",
             "description": "Clearing obstructions in leading channel, 'Room for River' project implementation, and strengthening outer bunds.",
             "impact": "Flood mitigation in the Kuttanad region.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "flood control",
                 "kuttanad",
@@ -644,7 +644,7 @@
             "budget": "₹29.93 Crore",
             "description": "Augmentation and Modernization of Water Supply Distribution system in Alappuzha Municipality - Balance works.",
             "impact": "Improved water distribution.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "urban"
@@ -661,7 +661,7 @@
             "budget": "₹48.33 Crore",
             "description": "Construction of Kallumala Railway Over Bridge (LC no:28).",
             "impact": "Traffic ease across railway crossing.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -678,7 +678,7 @@
             "budget": null,
             "description": "Reconstruction of Purakkad-Pathirapally road using German Cold-in-Place recycling technology.",
             "impact": "Eco-friendly road construction pilot.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "technology",
@@ -696,7 +696,7 @@
             "budget": "₹62.16 Crore",
             "description": "Construction of modern gas crematoriums including in Kayamkulam.",
             "impact": "Public service infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "infrastructure",
                 "public service"

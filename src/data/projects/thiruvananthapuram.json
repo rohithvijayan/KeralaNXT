@@ -11,7 +11,7 @@
             "budget": "₹7,700 Crore (approx)",
             "description": "India's first deep-water container transshipment hub located in Thiruvananthapuram. Designed to accommodate mother vessels and reduce dependency on foreign ports for transshipment. Identified as a priority project under Maritime India Vision 2030.",
             "impact": "Expected to revolutionize India's maritime landscape, attract ₹25,000 crore investment in the region, and create a commercial corridor.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "port",
                 "maritime",
@@ -30,7 +30,7 @@
             "budget": "₹1,135 Crore",
             "description": "Comprehensive urban development project under the Smart Cities Mission. Includes 79 projects such as Integrated Command and Control Centre (IC4), smart roads, multi-level car parking, water management, and e-governance solutions.",
             "impact": "Improved urban infrastructure, traffic management, and civic services.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "urban development",
                 "smart city",
@@ -48,7 +48,7 @@
             "budget": "₹1,515 Crore",
             "description": "India's first third-generation digital science park located at Technopark Phase IV (Technocity). Focuses on AI, robotics, electronics, and other deep-tech domains. Features a 'triple helix' model integrating universities, industry, and government.",
             "impact": "Expected to position Kerala as a knowledge economy hub and attract multinational partnerships.",
-            "image": "/src/assets/images/CATEGORIES/IT.png",
+            "image": "IT_ukwhbl",
             "tags": [
                 "science",
                 "technology",
@@ -67,7 +67,7 @@
             "budget": null,
             "description": "A 390-acre integrated IT township in Pallipuram. Houses the Digital Science Park, Kerala University of Digital Sciences (Digital University), TCS Aerospace Hub, and Suntec campus.",
             "impact": "Expands the IT corridor from Kazhakootam, creating a major hub for emerging technologies.",
-            "image": "/src/assets/images/CATEGORIES/IT.png",
+            "image": "IT_ukwhbl",
             "tags": [
                 "IT park",
                 "infrastructure",
@@ -85,7 +85,7 @@
             "budget": "₹1,300 Crore",
             "description": "Major expansion plan to increase the airport area from 45,000 sq m to 165,000 sq m and passenger capacity to 12 million annually.",
             "impact": "Enhanced air connectivity and passenger handling capacity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "aviation",
                 "transport",
@@ -103,7 +103,7 @@
             "budget": "₹25,000 Crore (Investment target)",
             "description": "Construction of a 78 km, 6-lane outer ring road from Vizhinjam to Navayikulam. The project includes developing special investment zones, knowledge hubs, and industrial parks along the corridor.",
             "impact": "Decongestion of the capital city and economic development of the Vizhinjam hinterland.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "roads",
                 "ring road",
@@ -121,7 +121,7 @@
             "budget": "₹717 Crore",
             "description": "Comprehensive development of the Medical College campus, including new OP blocks, surgical wards, trauma care, and road infrastructure. Funded by KIIFB.",
             "impact": "Modernization of the state's premier medical institution.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital",
@@ -139,7 +139,7 @@
             "budget": "₹162.46 Crore",
             "description": "Four-laning of the Pravachambalam to Vazhimukku stretch of the National Highway, including the Balaramapuram underpass.",
             "impact": "Reduces traffic congestion on the southern entry to the city.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "highway",
@@ -157,7 +157,7 @@
             "budget": "₹168.68 Crore",
             "description": "Construction of a flyover at Sreekariyam junction to ease traffic congestion, integrated with the proposed Light Metro alignment.",
             "impact": "Traffic decongestion in a major bottleneck area.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "flyover",
                 "urban transport",
@@ -175,7 +175,7 @@
             "budget": "₹84.61 Crore",
             "description": "Proposed flyover at Pattom junction to alleviate heavy traffic congestion.",
             "impact": "Traffic improvement in the city center.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "flyover",
                 "roads"
@@ -192,7 +192,7 @@
             "budget": "₹52.68 Crore",
             "description": "Proposed flyover at Ulloor junction, a critical intersection near the Medical College.",
             "impact": "Reduced travel time and congestion.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "flyover",
                 "roads"
@@ -209,7 +209,7 @@
             "budget": "₹93.96 Crore",
             "description": "Two-lane flyover construction at Peroorkada junction to manage high traffic volume.",
             "impact": "Improved traffic flow on the SH-2 route.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "flyover",
                 "roads"
@@ -226,7 +226,7 @@
             "budget": "₹685.83 Crore",
             "description": "Comprehensive improvement of Vattiyoorkavu Junction and connected roads, including land acquisition and rehabilitation of traders.",
             "impact": "Urban renewal and traffic decongestion.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "urban development",
                 "roads",
@@ -244,7 +244,7 @@
             "budget": "₹301.17 Crore (Phase II LA)",
             "description": "A dedicated park for life sciences and biotechnology industries at Thonnakkal. Includes the Institute of Advanced Virology and Medical Devices Park (MedSpark).",
             "impact": "Promotes research and manufacturing in biotechnology and medical devices.",
-            "image": "/src/assets/images/CATEGORIES/INDUSTRY.png",
+            "image": "INDUSTRY_fwzd3p",
             "tags": [
                 "biotech",
                 "industrial park",
@@ -262,7 +262,7 @@
             "budget": null,
             "description": "A specialized research institution established in the Bio 360 Life Sciences Park to study viral infections and develop diagnostics and vaccines.",
             "impact": "Strengthens the state's capability to handle viral outbreaks like Nipah and COVID-19.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "virology",
                 "research",
@@ -280,7 +280,7 @@
             "budget": "₹78.48 Crore",
             "description": "Construction of a Standard Design Factory (SDF) building to meet the demand from IT and ITeS industries, focusing on visual media and animation.",
             "impact": "Creates employment and infrastructure for the media and entertainment sector.",
-            "image": "/src/assets/images/CATEGORIES/INDUSTRY.png",
+            "image": "INDUSTRY_fwzd3p",
             "tags": [
                 "media",
                 "IT",
@@ -298,7 +298,7 @@
             "budget": "₹120 Crore",
             "description": "A commercial complex at Technopark to promote One District One Product (ODOP) and GI-tagged products.",
             "impact": "Boosts marketing of local artisanal and traditional products.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "commercial",
                 "ODOP",
@@ -316,7 +316,7 @@
             "budget": "₹133.79 Crore",
             "description": "Development of the Hill Highway stretches including Kallikkadu to Parassala, Peringammala to Vithura, and Vithura to Bonacaud.",
             "impact": "Improves connectivity in the high ranges and boosts tourism.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "hill highway",
@@ -334,7 +334,7 @@
             "budget": "₹550.76 Crore (Reach 1)",
             "description": "Construction of the Coastal Highway stretches: Reach 1 (Pozhiyoor to Kovalam), Reach 2 (Kumarichantha to Pallithura), and Reach 4 (Onnampalam to Kappil).",
             "impact": "Enhances coastal connectivity and tourism.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "coastal highway",
@@ -352,7 +352,7 @@
             "budget": "₹105 Crore",
             "description": "Upgradation of the elephant rehabilitation centre to international standards with modern facilities for elephant care and tourism.",
             "impact": "Conservation of elephants and promotion of eco-tourism.",
-            "image": "/src/assets/images/CATEGORIES/environment.jpg",
+            "image": "environment_wxugxx",
             "tags": [
                 "wildlife",
                 "conservation",
@@ -370,7 +370,7 @@
             "budget": "₹35.60 Crore",
             "description": "Conservation and beautification of heritage structures in Thiruvananthapuram city, including illumination.",
             "impact": "Preservation of heritage and promotion of cultural tourism.",
-            "image": "/src/assets/images/CATEGORIES/TOURISM.png",
+            "image": "TOURISM_xfsbzi",
             "tags": [
                 "heritage",
                 "tourism",
@@ -388,7 +388,7 @@
             "budget": "₹117.50 Crore",
             "description": "Comprehensive project to rejuvenate Akkulam Lake and its watershed, focusing on pollution abatement and tourism development.",
             "impact": "Ecological restoration and creation of a recreational space.",
-            "image": "/src/assets/images/CATEGORIES/environment.jpg",
+            "image": "environment_wxugxx",
             "tags": [
                 "environment",
                 "lake",
@@ -406,7 +406,7 @@
             "budget": "₹91.38 Crore",
             "description": "Infrastructure development and beautification of Kovalam and surrounding beaches to enhance tourist experience.",
             "impact": "Boosts the tourism potential of Kerala's premier beach destination.",
-            "image": "/src/assets/images/CATEGORIES/TOURISM.png",
+            "image": "TOURISM_xfsbzi",
             "tags": [
                 "tourism",
                 "beach",
@@ -424,7 +424,7 @@
             "budget": "₹206.96 Crore",
             "description": "Project to bring water from Neyyar Dam to PTP Nagar to augment the city's water supply.",
             "impact": "Ensures drinking water security for Thiruvananthapuram city.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "infrastructure",
@@ -442,7 +442,7 @@
             "budget": null,
             "description": "A cultural hub established to promote traditional arts and crafts of Kerala, providing a platform for artisans.",
             "impact": "Revitalization of traditional crafts and tourism.",
-            "image": "/src/assets/images/CATEGORIES/TOURISM.png",
+            "image": "TOURISM_xfsbzi",
             "tags": [
                 "culture",
                 "crafts",
@@ -460,7 +460,7 @@
             "budget": "₹124.74 Crore (Land Acquisition)",
             "description": "Cleaning and making the Parvathy Puthanar canal navigable as part of the West Coast Canal project.",
             "impact": "Restoration of a historic waterway for tourism and transport.",
-            "image": "/src/assets/images/CATEGORIES/environment.jpg",
+            "image": "environment_wxugxx",
             "tags": [
                 "canal",
                 "environment",
@@ -478,7 +478,7 @@
             "budget": null,
             "description": "Installation of solar panels on rooftops of households and government buildings across Thiruvananthapuram corporation to promote renewable energy.",
             "impact": "Installed 17.1 MW capacity in 514 buildings, promoting green energy.",
-            "image": "/src/assets/images/CATEGORIES/ENERGY.png",
+            "image": "ENERGY_sgjgpc",
             "tags": [
                 "energy",
                 "solar",
@@ -496,7 +496,7 @@
             "budget": "₹67.16 Crore",
             "description": "Modernization and expansion of Chitranjali Studio into a full-fledged Film City.",
             "impact": "Supports the film industry and tourism.",
-            "image": "/src/assets/images/CATEGORIES/CULTURE.png",
+            "image": "CULTURE_vqtyfl",
             "tags": [
                 "film",
                 "culture",
@@ -514,7 +514,7 @@
             "budget": "₹137.35 Crore",
             "description": "Infrastructure development including new blocks and modern equipment for General Hospital Thiruvananthapuram.",
             "impact": "Improves healthcare facilities for the public.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital",
@@ -532,7 +532,7 @@
             "budget": "₹203.93 Crore (Land)",
             "description": "Establishment of a permanent campus for the university at Vilappilsala.",
             "impact": "Provides a centralized academic hub for technical education.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "university",
@@ -550,7 +550,7 @@
             "budget": null,
             "description": "Construction of child-friendly smart anganwadis with modern amenities. The first one was constructed in Thiruvananthapuram.",
             "impact": "Improved early childhood care and education facilities.",
-            "image": "/src/assets/images/CATEGORIES/social.jpg",
+            "image": "social_lejjls",
             "tags": [
                 "child welfare",
                 "education",
@@ -568,7 +568,7 @@
             "budget": "₹95.28 Crore",
             "description": "Proposed flyover to ease traffic in the heritage zone of East Fort.",
             "impact": "Traffic decongestion in the city's commercial heart.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "flyover",
                 "urban transport"
@@ -585,7 +585,7 @@
             "budget": "₹2 Crore (Beemapally Phase)",
             "description": "Rehabilitation housing for fisher families living in coastal erosion zones. Flats constructed at Valiyathura, Karodu, and Beemapally.",
             "impact": "Safe housing for vulnerable coastal communities.",
-            "image": "/src/assets/images/CATEGORIES/housing.jpg",
+            "image": "housing_zsxd9p",
             "tags": [
                 "housing",
                 "fisheries",
@@ -603,7 +603,7 @@
             "budget": "₹56.18 Crore",
             "description": "Development of modern sports facilities at the G V Raja Sports School in Menamkulam.",
             "impact": "Promotes sports education and training.",
-            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
+            "image": "SPORTS_pbz6cc",
             "tags": [
                 "sports",
                 "education",
@@ -621,7 +621,7 @@
             "budget": "₹81 Crore",
             "description": "Construction of 400 housing units for the rehabilitation of fishermen families at Muttathara.",
             "impact": "Provides secure housing for the fishing community.",
-            "image": "/src/assets/images/CATEGORIES/housing.jpg",
+            "image": "housing_zsxd9p",
             "tags": [
                 "housing",
                 "fisheries",
@@ -639,7 +639,7 @@
             "budget": "₹10 Crore",
             "description": "Conservation and restoration of the heritage Kanakakunnu Palace and its premises.",
             "impact": "Preservation of cultural heritage.",
-            "image": "/src/assets/images/CATEGORIES/CULTURE.png",
+            "image": "CULTURE_vqtyfl",
             "tags": [
                 "heritage",
                 "culture",
@@ -657,7 +657,7 @@
             "budget": "₹96.53 Crore",
             "description": "Large scale drinking water supply scheme for Karode and surrounding areas.",
             "impact": "Ensures potable water supply to rural areas.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "rural infrastructure"
@@ -674,7 +674,7 @@
             "budget": "₹100 Crore",
             "description": "Establishment of a genome data center at Technocity to utilize Kerala's biodiversity for research.",
             "impact": "Advances research in genomics and biodiversity.",
-            "image": "/src/assets/images/CATEGORIES/SCIENCE.png",
+            "image": "SCIENCE_yuvoz6",
             "tags": [
                 "science",
                 "genomics",
@@ -692,7 +692,7 @@
             "budget": "₹25.02 Crore",
             "description": "Construction of a flyover at Venjaramoodu junction on the MC Road.",
             "impact": "Traffic relief on a major state highway.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "flyover",
                 "roads"
@@ -709,7 +709,7 @@
             "budget": "₹11.56 Crore",
             "description": "Construction of a pilgrim shelter (Edathavalam) at Kazhakootam for Sabarimala pilgrims.",
             "impact": "Improved amenities for pilgrims.",
-            "image": "/src/assets/images/CATEGORIES/TOURISM.png",
+            "image": "TOURISM_xfsbzi",
             "tags": [
                 "pilgrim tourism",
                 "infrastructure"

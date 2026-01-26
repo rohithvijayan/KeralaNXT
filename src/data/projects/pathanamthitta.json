@@ -11,7 +11,7 @@
             "budget": "₹126.94 Crore",
             "description": "Comprehensive development of infrastructure at Sabarimala and associated Edathavalams (pilgrim shelters) to improve amenities for pilgrims.",
             "impact": "Enhanced pilgrim facilities and sustainable development of the temple area.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "pilgrimage",
                 "tourism",
@@ -29,7 +29,7 @@
             "budget": null,
             "description": "Proposed greenfield airport to serve Sabarimala pilgrims and the Central Travancore region.",
             "impact": "Improved air connectivity for pilgrims and regional economic growth.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "airport",
                 "transport",
@@ -47,7 +47,7 @@
             "budget": "₹218.40 Crore (Phase II)",
             "description": "Establishment of a new Government Medical College at Konni. Includes Phase I biomedical equipment procurement and Phase II construction of the teaching hospital and allied buildings.",
             "impact": "Significant boost to tertiary healthcare in the district.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "medical college",
                 "health",
@@ -65,7 +65,7 @@
             "budget": "₹14.64 Crore",
             "description": "Infrastructure development and facility upgradation at General Hospital, Adoor.",
             "impact": "Improved healthcare delivery for Adoor taluk.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "hospital",
                 "health",
@@ -83,7 +83,7 @@
             "budget": "₹31.45 Crore",
             "description": "Modernization and infrastructure development of the District Hospital in Kozhencherry.",
             "impact": "Enhanced district-level healthcare services.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "hospital",
                 "health",
@@ -101,7 +101,7 @@
             "budget": "₹47.17 Crore",
             "description": "Construction of new blocks and upgradation of facilities at Taluk Hospital Mallappally.",
             "impact": "Better healthcare access for the Mallappally region.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "hospital",
                 "health",
@@ -119,7 +119,7 @@
             "budget": "₹17.01 Crore",
             "description": "Infrastructure development projects at Taluk Hospital Ranni.",
             "impact": "Upgraded medical facilities for Ranni taluk.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "hospital",
                 "health",
@@ -137,7 +137,7 @@
             "budget": "₹103.30 Crore",
             "description": "Major road improvement project connecting Adoor, Thumpamon, and Kozhenchery.",
             "impact": "Improved connectivity and road safety in the district.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure",
@@ -155,7 +155,7 @@
             "budget": "₹43.41 Crore",
             "description": "Development of the road connecting Achankovil and Plappally, improving access to forest areas.",
             "impact": "Better connectivity for remote areas.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "forest",
@@ -173,7 +173,7 @@
             "budget": "₹61.18 Crore",
             "description": "Upgradation of the Ezhamkulam to Kaipattor road stretch.",
             "impact": "Smoother traffic flow and reduced travel time.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -190,7 +190,7 @@
             "budget": "₹28.78 Crore",
             "description": "Construction of a bypass road for Pandalam town to alleviate traffic congestion.",
             "impact": "Decongestion of Pandalam town.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bypass",
                 "roads",
@@ -208,7 +208,7 @@
             "budget": "₹59.79 Crore",
             "description": "Construction of an overbridge at Aban Junction in Pathanamthitta town.",
             "impact": "Reduced traffic bottlenecks in the district headquarters.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "urban transport",
@@ -226,7 +226,7 @@
             "budget": "₹47.56 Crore",
             "description": "Construction of a new major bridge at Ranni.",
             "impact": "Improved connectivity across the Pamba river.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "infrastructure"
@@ -243,7 +243,7 @@
             "budget": "₹28.60 Crore",
             "description": "Construction of a new bridge across the Pamba river at Kozhencherry on T.K. Road.",
             "impact": "Enhanced river crossing capacity and connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -260,7 +260,7 @@
             "budget": "₹15.00 Crore",
             "description": "Construction of the Concord bridge across the Manimala river.",
             "impact": "Improved rural connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -277,7 +277,7 @@
             "budget": "₹58.00 Crore",
             "description": "Augmentation of 24 MLD WTP at Kalliserry and renovation of 33 MLD WTP at Thiruvalla for Thiruvalla & Changanaserry Municipalities.",
             "impact": "Safe drinking water for Thiruvalla and surrounding areas.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "public utility"
@@ -294,7 +294,7 @@
             "budget": "₹23.50 Crore",
             "description": "Construction of a modern court complex at Ranni.",
             "impact": "Improved judicial infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "judiciary",
                 "building",
@@ -312,7 +312,7 @@
             "budget": "₹47.93 Crore",
             "description": "Construction of an indoor stadium named after Blessen George in Pathanamthitta.",
             "impact": "Promotion of sports and athletic activities.",
-            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
+            "image": "SPORTS_pbz6cc",
             "tags": [
                 "sports",
                 "stadium",
@@ -330,7 +330,7 @@
             "budget": "₹11.64 Crore",
             "description": "Development of the municipal stadium at Adoor.",
             "impact": "Improved sports facilities for the municipality.",
-            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
+            "image": "SPORTS_pbz6cc",
             "tags": [
                 "sports",
                 "stadium"
@@ -347,7 +347,7 @@
             "budget": "₹14.10 Crore",
             "description": "Construction of a stadium at Koduman.",
             "impact": "Rural sports infrastructure development.",
-            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
+            "image": "SPORTS_pbz6cc",
             "tags": [
                 "sports",
                 "stadium",
@@ -365,7 +365,7 @@
             "budget": "₹54.61 Crore",
             "description": "Improvements to the Cherukolpuzha - Maniyar road.",
             "impact": "Better road infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -382,7 +382,7 @@
             "budget": "₹22.29 Crore",
             "description": "Improvement of providing BM & BC work for Kalanjoor Padam road.",
             "impact": "Road surface upgradation.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -399,7 +399,7 @@
             "budget": "₹20.49 Crore",
             "description": "Improvements by providing BM & BC to Kavumbhagom - Idinjillam Road.",
             "impact": "Road modernization.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -416,7 +416,7 @@
             "budget": "₹19.60 Crore",
             "description": "Construction of office building for Pandalam Municipality.",
             "impact": "Improved civic administration facilities.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "building",
                 "governance"
@@ -433,7 +433,7 @@
             "budget": "₹57.65 Crore",
             "description": "Replacement of old water transmission mains in the Pathanamthitta Public Health Circle.",
             "impact": "Improved water supply efficiency.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "infrastructure"
@@ -450,7 +450,7 @@
             "budget": "₹11.79 Crore",
             "description": "Construction of a bridge at Parakkadavu across Manimala river.",
             "impact": "Enhanced connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -467,7 +467,7 @@
             "budget": "₹24.33 Crore",
             "description": "Road improvements for the Manjinikkara - Mulakkuzha stretch.",
             "impact": "Better transport infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -484,7 +484,7 @@
             "budget": "₹23.01 Crore",
             "description": "Road improvements between Valankara and Ayroor.",
             "impact": "Improved road quality.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -501,7 +501,7 @@
             "budget": "₹51.65 Crore",
             "description": "Infrastructure improvements for the Madathumchal - Mukkoottuthara road.",
             "impact": "Enhanced regional connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -518,7 +518,7 @@
             "budget": "₹23.46 Crore",
             "description": "Road improvement works between Mannarakulanji and Kozhencherry.",
             "impact": "Better road infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -535,7 +535,7 @@
             "budget": "₹23.48 Crore",
             "description": "Development of infrastructure at the new Arts & Science College in Elanthoor.",
             "impact": "Higher education infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "college",
@@ -553,7 +553,7 @@
             "budget": "₹144.41 Crore",
             "description": "Improvements of Anayadi - Pazhakulam - Kurampala - Keerukuzhi - Chandanappally - Koodal road.",
             "impact": "Major road infrastructure upgrade.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -570,7 +570,7 @@
             "budget": "₹14.39 Crore",
             "description": "Construction of a multispecies modern slaughterhouse at Thiruvalla Municipality.",
             "impact": "Hygiene and public health improvement.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "abattoir",
                 "public health",
@@ -588,7 +588,7 @@
             "budget": "₹41.40 Crore",
             "description": "Phase 2 of the Water Supply Scheme to Perunadu and Athikkayam villages.",
             "impact": "Drinking water supply.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "rural"
@@ -605,7 +605,7 @@
             "budget": "₹14.06 Crore",
             "description": "Construction of a new bridge parallel to the existing Vadasserikkara Bridge across Kallar River.",
             "impact": "Traffic decongestion and improved safety.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -622,7 +622,7 @@
             "budget": "₹17.28 Crore",
             "description": "Improvement works for the 13 km Attachakkal - Kumbalampoika road.",
             "impact": "Road connectivity improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -639,7 +639,7 @@
             "budget": "₹10.00 Crore",
             "description": "Phase III of the cluster-based school upgradation project in Pathanamthitta.",
             "impact": "Educational infrastructure development.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "schools"
@@ -656,7 +656,7 @@
             "budget": null,
             "description": "Construction of a 5 MLD Sewage Treatment Plant at Pamba for Sabarimala.",
             "impact": "Pollution control and sanitation at pilgrimage site.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "sanitation",
                 "sabarimala",
@@ -674,7 +674,7 @@
             "budget": null,
             "description": "Construction of a midway shelter at Nilakkal including a water tank and biogas plant.",
             "impact": "Pilgrim amenities.",
-            "image": "/src/assets/images/CATEGORIES/TOURISM.png",
+            "image": "TOURISM_xfsbzi",
             "tags": [
                 "tourism",
                 "pilgrimage",
@@ -692,7 +692,7 @@
             "budget": null,
             "description": "Modernization of the Parakode Anantharamapuram Fish Market.",
             "impact": "Improved market facilities and hygiene.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "market",
                 "infrastructure"

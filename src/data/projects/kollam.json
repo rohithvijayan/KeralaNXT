@@ -11,7 +11,7 @@
             "budget": null,
             "description": "Development of the port including the completion of the Kollam port-Kochupilammood road and 75% of the passenger terminal.",
             "impact": "Improves port connectivity and passenger facilities.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "port",
                 "transport",
@@ -29,7 +29,7 @@
             "budget": null,
             "description": "Construction of the Kollam bypass on National Highway 66 to decongest traffic in Kollam city.",
             "impact": "Significantly reduced traffic congestion in Kollam city.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "bypass",
@@ -47,7 +47,7 @@
             "budget": "₹85.30 Crore",
             "description": "Construction of a new IT Park at Kottarakkara to boost the IT infrastructure in the district.",
             "impact": "Will create employment opportunities and promote IT industry in the region.",
-            "image": "/src/assets/images/CATEGORIES/IT.png",
+            "image": "IT_ukwhbl",
             "tags": [
                 "IT",
                 "infrastructure",
@@ -65,7 +65,7 @@
             "budget": "₹106.22 Crore",
             "description": "Comprehensive development of the Taluk Hospital in Kottarakkara including new blocks and modern facilities.",
             "impact": "Enhanced healthcare services for the taluk.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital",
@@ -83,7 +83,7 @@
             "budget": "₹143.85 Crore",
             "description": "Major upgradation and development works at the District Hospital, Kollam.",
             "impact": "Improved tertiary healthcare facilities.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital",
@@ -101,7 +101,7 @@
             "budget": "₹201.67 Crore",
             "description": "Development of the Hill Highway stretch: Punalur KSRTC Jn - Agasthyakode - Alencherry - Kulathupuzha - Madathara - Kollayil.",
             "impact": "Improves connectivity in the high ranges of the district.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "hill highway",
@@ -119,7 +119,7 @@
             "budget": "₹235.00 Crore",
             "description": "Project to augment the water supply system for Kollam Corporation to meet the increasing demand.",
             "impact": "Ensures reliable drinking water supply to the city.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "urban",
@@ -137,7 +137,7 @@
             "budget": "₹52.37 Crore",
             "description": "Construction of a bridge connecting Peruman and Munrothuruthu across the Ashtamudi lake.",
             "impact": "Improves connectivity to the island of Munrothuruthu.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport",
@@ -155,7 +155,7 @@
             "budget": "₹91.88 Crore",
             "description": "Infrastructure development and facility upgradation at Taluk Hospital, Pathanapuram.",
             "impact": "Better healthcare access for the region.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital",
@@ -173,7 +173,7 @@
             "budget": "₹110.36 Crore",
             "description": "Construction of a bypass road for Kottarakkara town to ease traffic congestion.",
             "impact": "Traffic decongestion in Kottarakkara town.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "bypass",
@@ -191,7 +191,7 @@
             "budget": "₹57.33 Crore",
             "description": "Construction of a cultural complex in Kollam dedicated to Sree Narayana Guru.",
             "impact": "Promotion of culture and heritage.",
-            "image": "/src/assets/images/CATEGORIES/CULTURE.png",
+            "image": "CULTURE_vqtyfl",
             "tags": [
                 "culture",
                 "infrastructure",
@@ -209,7 +209,7 @@
             "budget": "₹179.57 Crore",
             "description": "Construction of Coastal Highway Reach 1 from Kappil to Thangassery (17.5 km).",
             "impact": "Enhanced coastal connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "coastal highway",
@@ -227,7 +227,7 @@
             "budget": "₹122.70 Crore",
             "description": "Construction of Coastal Highway Reach 3 from Edappallikotta to Azheekkal (26.12 km).",
             "impact": "Enhanced coastal connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "coastal highway",
@@ -245,7 +245,7 @@
             "budget": "₹30 Crore",
             "description": "Setting up of a 12 MLD sewerage treatment plant at Kureepuzha under AMRUT scheme.",
             "impact": "Improved sanitation and waste management.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "sanitation",
                 "sewerage",
@@ -263,7 +263,7 @@
             "budget": null,
             "description": "Establishment of an institute at Chavara to provide higher education of international standards for ITI, diploma, B.Tech and degree holders in infrastructure and construction.",
             "impact": "Skill development and higher education in construction sector.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "skills",
@@ -281,7 +281,7 @@
             "budget": "₹45.32 Crore",
             "description": "Construction of a modern indoor stadium in Kollam city named after Olympian Suresh Babu.",
             "impact": "Promotion of sports and athletic activities.",
-            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
+            "image": "SPORTS_pbz6cc",
             "tags": [
                 "sports",
                 "infrastructure",
@@ -299,7 +299,7 @@
             "budget": "₹38.67 Crore",
             "description": "Development works at Taluk Hospital, Kundara including infrastructure and equipment.",
             "impact": "Improved healthcare services.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital",
@@ -317,7 +317,7 @@
             "budget": "₹60.00 Crore",
             "description": "Large scale drinking water project for Chathannur and surrounding areas.",
             "impact": "Safe drinking water for the constituency.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "infrastructure"
@@ -334,7 +334,7 @@
             "budget": "₹5.61 Crore",
             "description": "Direct driven model of Work Near Home initiative established at Kottarakkara.",
             "impact": "Remote working facilities for professionals.",
-            "image": "/src/assets/images/CATEGORIES/IT.png",
+            "image": "IT_ukwhbl",
             "tags": [
                 "IT",
                 "employment",
@@ -352,7 +352,7 @@
             "budget": "₹68.18 Crore",
             "description": "Construction of a new block and augmenting basic infrastructure at Punalur Taluk Hospital.",
             "impact": "Enhanced medical facilities.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital",
@@ -370,7 +370,7 @@
             "budget": "₹123.37 Crore",
             "description": "Improvement and development of the Ayoor - Anchal - Punalur road.",
             "impact": "Better road connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -387,7 +387,7 @@
             "budget": "₹12.03 Crore",
             "description": "Construction of a rail bridge at Maliyekkal.",
             "impact": "Improved transport infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "railway",
@@ -405,7 +405,7 @@
             "budget": "₹44.89 Crore",
             "description": "Construction of Kattilkkadavu bridge across TS Canal in Karunagappally constituency.",
             "impact": "Improved connectivity across the canal.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -422,7 +422,7 @@
             "budget": "₹64.93 Crore",
             "description": "Development works at Taluk Hospital, Karunagapally.",
             "impact": "Improved healthcare infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital"
@@ -439,7 +439,7 @@
             "budget": null,
             "description": "Development of breakwater tourism project at Thankassery.",
             "impact": "Tourism promotion.",
-            "image": "/src/assets/images/CATEGORIES/TOURISM.png",
+            "image": "TOURISM_xfsbzi",
             "tags": [
                 "tourism",
                 "infrastructure"
@@ -456,7 +456,7 @@
             "budget": null,
             "description": "Establishment of a transit home at Kottiyam, Mayyanad Panchayath for temporary accommodation of foreign nationals/others.",
             "impact": "Social welfare and support.",
-            "image": "/src/assets/images/CATEGORIES/social.jpg",
+            "image": "social_lejjls",
             "tags": [
                 "social justice",
                 "shelter"
@@ -473,7 +473,7 @@
             "budget": null,
             "description": "First tourism project with public-private partnership at Chadayamangalam. Phase 2 completed, Phase 3 planned.",
             "impact": "Major tourism attraction.",
-            "image": "/src/assets/images/CATEGORIES/TOURISM.png",
+            "image": "TOURISM_xfsbzi",
             "tags": [
                 "tourism",
                 "PPP"
@@ -490,7 +490,7 @@
             "budget": "₹31.76 Crore",
             "description": "Development works at Taluk Hospital, Neendakara.",
             "impact": "Improved healthcare facilities.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital"
@@ -507,7 +507,7 @@
             "budget": null,
             "description": "Upgradation of ITI Chandanathope to international standards as part of a multi-ITI project.",
             "impact": "Skill development.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "skills"
@@ -524,7 +524,7 @@
             "budget": null,
             "description": "Construction of Mini Civil Station cum Court Complex at Pathanapuram.",
             "impact": "Improved judicial and administrative infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "infrastructure",
                 "judiciary"
@@ -541,7 +541,7 @@
             "budget": "₹11.17 Crore",
             "description": "Construction of a Mini Civil Station at Chadayamangalam.",
             "impact": "Centralized administrative services.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "infrastructure",
                 "governance"
@@ -558,7 +558,7 @@
             "budget": null,
             "description": "Construction of Kallupalam bridge.",
             "impact": "Improved connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -575,7 +575,7 @@
             "budget": null,
             "description": "Setting up of a modern abattoir in Kadakkal Grama Panchayath.",
             "impact": "Hygiene and public health.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "infrastructure",
                 "sanitation"
@@ -592,7 +592,7 @@
             "budget": null,
             "description": "Completion of 1,00,000 sq ft IT building 'Ashtamudi' and arterial road at Kollam Technopark.",
             "impact": "IT sector growth and employment.",
-            "image": "/src/assets/images/CATEGORIES/IT.png",
+            "image": "IT_ukwhbl",
             "tags": [
                 "IT",
                 "infrastructure"
@@ -609,7 +609,7 @@
             "budget": "₹39.73 Crore",
             "description": "Upgradation of schools under the Kollam Cluster Phase 2.",
             "impact": "Improved educational infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "schools"

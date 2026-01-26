@@ -11,7 +11,7 @@
             "budget": "₹21.84 Crore",
             "description": "Improvement works for the Ettumanoor Town Ring Road to ease traffic congestion.",
             "impact": "Enhanced urban mobility in Ettumanoor.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure",
@@ -29,7 +29,7 @@
             "budget": "₹231.02 Crore",
             "description": "Comprehensive power substation package to improve electricity distribution infrastructure in the district.",
             "impact": "Stable power supply and reduced transmission losses.",
-            "image": "/src/assets/images/CATEGORIES/ENERGY.png",
+            "image": "ENERGY_sgjgpc",
             "tags": [
                 "power",
                 "substation",
@@ -47,7 +47,7 @@
             "budget": "₹175.58 Crore",
             "description": "Upgradation and laying of power transmission lines across Kottayam district.",
             "impact": "Strengthened electrical grid connectivity.",
-            "image": "/src/assets/images/CATEGORIES/ENERGY.png",
+            "image": "ENERGY_sgjgpc",
             "tags": [
                 "power",
                 "transmission",
@@ -65,7 +65,7 @@
             "budget": "₹23.32 Crore",
             "description": "Construction of Moolekkadavu Bridge across Moovattupuzha river.",
             "impact": "Improved connectivity across the river.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport",
@@ -83,7 +83,7 @@
             "budget": "₹38.52 Crore",
             "description": "Road improvement works for the Pathanad - Edayirikkappuzha stretch.",
             "impact": "Better road infrastructure for local commuters.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -100,7 +100,7 @@
             "budget": null,
             "description": "Construction of an indoor stadium and sports complex at Chingavanam.",
             "impact": "Promotion of sports activities in the region.",
-            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
+            "image": "SPORTS_pbz6cc",
             "tags": [
                 "sports",
                 "stadium",
@@ -118,7 +118,7 @@
             "budget": "₹25.02 Crore",
             "description": "Infrastructure improvements for Vakkethara Kapikkad road.",
             "impact": "Improved road quality.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -135,7 +135,7 @@
             "budget": "₹97.16 Crore",
             "description": "Construction of a flyover at Ettumanoor to ease traffic congestion on MC Road.",
             "impact": "Reduced traffic bottlenecks at Ettumanoor junction.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "flyover",
                 "urban transport",
@@ -153,7 +153,7 @@
             "budget": "₹156.99 Crore",
             "description": "Development of the road from Ch. 0.000km to 11.075km including the construction of Anjumana bridge.",
             "impact": "Enhanced connectivity in the Vaikom-Vechur coastal belt.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "bridge",
@@ -171,7 +171,7 @@
             "budget": "₹26.07 Crore",
             "description": "Setting up of Translational Research Centres at Mahatma Gandhi University.",
             "impact": "Advanced academic research and innovation.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "research",
@@ -189,7 +189,7 @@
             "budget": "₹54.88 Crore",
             "description": "Infrastructure development and facility upgradation at General Hospital, Changanassery.",
             "impact": "Improved healthcare facilities.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital",
@@ -207,7 +207,7 @@
             "budget": "₹34.97 Crore",
             "description": "Construction of new domestic and international hostels at Mahatma Gandhi University campus.",
             "impact": "Better accommodation facilities for students.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "hostel",
@@ -225,7 +225,7 @@
             "budget": "₹19.15 Crore",
             "description": "Construction of Akkarapadam Bridge across Moovattupuzha river.",
             "impact": "Improved connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -242,7 +242,7 @@
             "budget": "₹55.82 Crore",
             "description": "Development of infrastructure at Government Taluk Hospital, Vaikom.",
             "impact": "Enhanced medical services for Vaikom taluk.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital"
@@ -259,7 +259,7 @@
             "budget": "₹18.62 Crore",
             "description": "Establishment of a Centre of Excellence at the Institute for Climate Change Studies.",
             "impact": "Research and policy support on climate change.",
-            "image": "/src/assets/images/CATEGORIES/environment.jpg",
+            "image": "environment_wxugxx",
             "tags": [
                 "environment",
                 "research",
@@ -277,7 +277,7 @@
             "budget": "₹103.73 Crore",
             "description": "Cleaning and deepening of Pazhukkanilakayal in Vembanad Lake to improve water flow and ecosystem health.",
             "impact": "Ecological restoration of Vembanad Lake area.",
-            "image": "/src/assets/images/CATEGORIES/environment.jpg",
+            "image": "environment_wxugxx",
             "tags": [
                 "environment",
                 "water bodies",
@@ -295,7 +295,7 @@
             "budget": "₹85.68 Crore",
             "description": "Construction of a flyover at the railway junction in Changanassery Bypass.",
             "impact": "Traffic decongestion on the bypass.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "flyover",
                 "roads",
@@ -313,7 +313,7 @@
             "budget": "₹61.55 Crore",
             "description": "Establishment of a Centre of Excellence in Nanoscience & Nanotechnology at Mahatma Gandhi University.",
             "impact": "Advanced research capabilities in nanotechnology.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "research",
@@ -331,7 +331,7 @@
             "budget": "₹29.49 Crore",
             "description": "Improvements to the road including the reconstruction of Karikkathara Bridge.",
             "impact": "Better connectivity to the tourism destination of Kumarakom.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "tourism",
@@ -349,7 +349,7 @@
             "budget": "₹19.33 Crore",
             "description": "Construction of a Railway Over Bridge at Kaduthuruthy.",
             "impact": "Elimination of level crossing delays.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "railway",
@@ -367,7 +367,7 @@
             "budget": "₹78.69 Crore",
             "description": "Construction of a bypass for Kanjirappally town.",
             "impact": "Traffic relief for the busy town center.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bypass",
                 "roads"
@@ -384,7 +384,7 @@
             "budget": "₹48.30 Crore",
             "description": "Upgradation of the road connecting Changanassery to Kaviyoor.",
             "impact": "Improved inter-district connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -401,7 +401,7 @@
             "budget": "₹57.76 Crore",
             "description": "General augmentation of infrastructural facilities at Mahatma Gandhi University.",
             "impact": "Enhanced academic environment.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "university",
@@ -419,7 +419,7 @@
             "budget": null,
             "description": "Upgradation of Govt ITI Ettumanoor to international standards (part of a multi-ITI project).",
             "impact": "Skill development.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "skills"
@@ -436,7 +436,7 @@
             "budget": "₹35.02 Crore",
             "description": "Water Supply Scheme involving laying of raw water pumping main from Kattodu to Morkkulangara WTP.",
             "impact": "Safe drinking water for multiple panchayats.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "infrastructure"
@@ -453,7 +453,7 @@
             "budget": "₹50.00 Crore",
             "description": "Augmentation of the Urban Water Supply Scheme for Kottayam Municipality.",
             "impact": "Improved water availability in the town.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "urban"
@@ -470,7 +470,7 @@
             "budget": "₹30.55 Crore",
             "description": "Construction of a Railway Over Bridge at Kuruppanthara.",
             "impact": "Improved road safety and traffic flow.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "railway"
@@ -487,7 +487,7 @@
             "budget": "₹268.60 Crore",
             "description": "Phase II modernization including the construction of a Super Speciality Block.",
             "impact": "Advanced tertiary healthcare facilities.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "medical college",
@@ -505,7 +505,7 @@
             "budget": "₹129.90 Crore",
             "description": "Comprehensive development of General Hospital Kottayam.",
             "impact": "Improved district healthcare services.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital"
@@ -522,7 +522,7 @@
             "budget": "₹20.26 Crore",
             "description": "Construction of a bridge at Avalyilkadavu connecting Ettumanoor-Ernakulam road across Murinjapuzha river.",
             "impact": "Enhanced connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -539,7 +539,7 @@
             "budget": "₹85.82 Crore",
             "description": "Improvements to Kanjirappally - Manimala - Kulathoormoozhi - Karshaka Sauhruda Link Road.",
             "impact": "Better road infrastructure in the high ranges.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -556,7 +556,7 @@
             "budget": "₹2.58 Crore",
             "description": "Improvement works at Thengana Junction.",
             "impact": "Junction modernization.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "junction"
@@ -573,7 +573,7 @@
             "budget": "₹27.70 Crore",
             "description": "Development of sports infrastructure facilities at Govt. High School Kanjirapally Kunnumbhagom.",
             "impact": "Promotion of sports education.",
-            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
+            "image": "SPORTS_pbz6cc",
             "tags": [
                 "sports",
                 "education",
@@ -591,7 +591,7 @@
             "budget": "₹68.64 Crore",
             "description": "Augmentation of ARWSS to Kanjirappally, Elikkulam and Chirakkadavu Panchayaths.",
             "impact": "Safe drinking water for rural areas.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "rural"
@@ -608,7 +608,7 @@
             "budget": "₹6.48 Crore (Land)",
             "description": "Land acquisition for the cultural complex dedicated to Lalithambika Antharjanam.",
             "impact": "Cultural promotion.",
-            "image": "/src/assets/images/CATEGORIES/CULTURE.png",
+            "image": "CULTURE_vqtyfl",
             "tags": [
                 "culture",
                 "infrastructure"
@@ -625,7 +625,7 @@
             "budget": "₹39.09 Crore",
             "description": "Construction of a Railway Over Bridge at Nalukody.",
             "impact": "Improved transport infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "railway"
@@ -642,7 +642,7 @@
             "budget": "₹93.22 Crore",
             "description": "Comprehensive drinking water project for Ettumanoor.",
             "impact": "Ensures potable water supply.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "urban"
@@ -659,7 +659,7 @@
             "budget": "₹33.20 Crore",
             "description": "Improvements to portion of Hill Highway by overlaying BM and BC from Karimkallumoozhy (Erumely) to Plachery.",
             "impact": "Improved connectivity in the high ranges.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "hill highway"
@@ -676,7 +676,7 @@
             "budget": null,
             "description": "Construction of a regulator across Meenachil River at Chempilavu in Kidangoor Panchayath.",
             "impact": "Water management and irrigation.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water resources",
                 "irrigation"
@@ -693,7 +693,7 @@
             "budget": null,
             "description": "Construction of a Regulator cum Bridge across Meenachil river at Kottanal Kadavu in Bharananganam Panchayath.",
             "impact": "Connectivity and water regulation.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "bridge",
                 "water resources"

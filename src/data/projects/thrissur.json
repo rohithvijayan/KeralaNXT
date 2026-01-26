@@ -11,7 +11,7 @@
             "budget": "₹39.05 Crore",
             "description": "Improvements to Muringoor - Ezhattumugham Road from Km 0/000 to 17/205 in Thrissur District.",
             "impact": "Enhanced road connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -28,7 +28,7 @@
             "budget": "₹13.83 Crore",
             "description": "Construction of a modern abattoir in Thrissur Corporation to ensure hygienic meat production.",
             "impact": "Public health and sanitation improvement.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "abattoir",
                 "sanitation",
@@ -46,7 +46,7 @@
             "budget": "₹78.00 Crore",
             "description": "Strengthening of power transmission lines in the Thrissur district.",
             "impact": "Improved reliability of power supply.",
-            "image": "/src/assets/images/CATEGORIES/ENERGY.png",
+            "image": "ENERGY_sgjgpc",
             "tags": [
                 "power",
                 "energy",
@@ -64,7 +64,7 @@
             "budget": "₹21.37 Crore",
             "description": "Improvements to Pattikad-Vilanganur-Mannamangalam-Pulikanni-Vellikulangara-Vettilapara Road in Thrissur district (Phase II from ch 0/000 to 5/300).",
             "impact": "Enhanced high-range connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "hill highway"
@@ -81,7 +81,7 @@
             "budget": "₹50.12 Crore",
             "description": "Improvements to Nadathara - Moorkkanikkara - Kannara Road ch 0/000 to 11/636 with DBM and BC in Ollur LA constituency.",
             "impact": "Better road infrastructure in Ollur.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -98,7 +98,7 @@
             "budget": "₹16.84 Crore",
             "description": "Setting up of a cinema theater complex at Alagappanagar.",
             "impact": "Cultural and entertainment facilities.",
-            "image": "/src/assets/images/CATEGORIES/CULTURE.png",
+            "image": "CULTURE_vqtyfl",
             "tags": [
                 "culture",
                 "cinema"
@@ -115,7 +115,7 @@
             "budget": "₹30.77 Crore",
             "description": "Construction of Chinganattukadavu bridge across Chavakkad Canoli canal in Guruvayur LAC.",
             "impact": "Improved connectivity across Canoli canal.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -132,7 +132,7 @@
             "budget": "₹14.45 Crore",
             "description": "Improvements to Akkikkavu Kadangode Erumapetty road km 0/000 to 9/400.",
             "impact": "Road infrastructure upgrade.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -149,7 +149,7 @@
             "budget": "₹35.15 Crore",
             "description": "Construction of Parakkoottam Bridge and connecting road in Chalakkudy LAC.",
             "impact": "Better transport connectivity in Chalakkudy.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -166,7 +166,7 @@
             "budget": "₹29.48 Crore",
             "description": "Construction of Thriprayar Bridge across Canoli Canal in Cherppu – Thriprayar Road.",
             "impact": "Improved connectivity across Canoli canal.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -183,7 +183,7 @@
             "budget": null,
             "description": "Construction of Thrissur Aquatic Complex (part of a multi-district project with Mattannur).",
             "impact": "Sports infrastructure development.",
-            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
+            "image": "SPORTS_pbz6cc",
             "tags": [
                 "sports",
                 "aquatic complex"
@@ -200,7 +200,7 @@
             "budget": "₹124.69 Crore",
             "description": "Improvements to Hill Highway SH 59 from Vellikulangara to Vettilappara bridge.",
             "impact": "Major hill highway connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "hill highway"
@@ -217,7 +217,7 @@
             "budget": "₹43.68 Crore",
             "description": "Improvements to Karuvannur Kattoor road ch 0/000 to 11/750 km.",
             "impact": "Road upgradation.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -234,7 +234,7 @@
             "budget": "₹15.00 Crore",
             "description": "Infrastructure upgradation of schools in Thrissur Cluster 1.",
             "impact": "Enhanced school facilities.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "schools"
@@ -251,7 +251,7 @@
             "budget": "₹12.00 Crore",
             "description": "Infrastructure upgradation of schools in Thrissur Cluster 2.",
             "impact": "Enhanced school facilities.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "schools"
@@ -268,7 +268,7 @@
             "budget": "₹34.76 Crore",
             "description": "Water Supply Scheme to Chazhoor, Thanniyam and Anthikkad Panchayaths.",
             "impact": "Provision of potable water.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "rural"
@@ -285,7 +285,7 @@
             "budget": "₹58.61 Crore",
             "description": "Water Supply Scheme to Kodassery, Pariyaram and Athirappilly Panchayaths.",
             "impact": "Safe drinking water for rural communities.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "rural"
@@ -302,7 +302,7 @@
             "budget": "₹88.79 Crore",
             "description": "Augmentation of Comprehensive Water Supply Scheme to Nattika Firka Phase I.",
             "impact": "Improved water supply coverage.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "rural"
@@ -319,7 +319,7 @@
             "budget": "₹33.14 Crore",
             "description": "Construction of Kondazhy - Kuthampully bridge across Gayathri river.",
             "impact": "Better transport connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -336,7 +336,7 @@
             "budget": "₹13.93 Crore",
             "description": "Construction of Gothuruth - Pullut Bridge across Kodungallurkayal.",
             "impact": "Connectivity across Kodungallur Kayal.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -353,7 +353,7 @@
             "budget": "₹14.80 Crore",
             "description": "Sewage Treatment Plant and Septage Facility for Kunnamkulam Municipality.",
             "impact": "Improved sanitation and waste management.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "sewage",
                 "sanitation",
@@ -371,7 +371,7 @@
             "budget": "₹5.34 Crore",
             "description": "Construction of Chirangara Railway Over Bridge.",
             "impact": "Traffic ease at railway crossing.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "railway",
@@ -389,7 +389,7 @@
             "budget": "₹36.44 Crore",
             "description": "Development of Mental Health Centre, Thrissur.",
             "impact": "Improved mental health facilities.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "mental health"
@@ -406,7 +406,7 @@
             "budget": "₹5.30 Crore",
             "description": "Construction of Regulator cum Bridge across Wadakkanchery river connecting S.H.50 in Muttikkal of Thalappilly Taluk.",
             "impact": "Water regulation and transport.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "bridge",
                 "water resources",
@@ -424,7 +424,7 @@
             "budget": "₹17.39 Crore",
             "description": "Construction of Sub Registrar offices at Akkikkavu, Andathodu, Kallettumkara, Kunnamkulam, Pazhayannur, Thriprayar & Mundur in Thrissur District.",
             "impact": "Administrative infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "registration",
                 "office",
@@ -442,7 +442,7 @@
             "budget": "₹27.38 Crore",
             "description": "Construction of Kanathodu Regulator Cum Bridge in Pudukkad Panchayath.",
             "impact": "Water management and connectivity.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "bridge",
                 "water resources",
@@ -460,7 +460,7 @@
             "budget": "₹3.17 Crore",
             "description": "Construction of Chelakkara Bypass road KM 0/000 to 3/865.",
             "impact": "Traffic decongestion.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bypass",
                 "roads"
@@ -477,7 +477,7 @@
             "budget": "₹54.62 Crore",
             "description": "Improvements to Kechery-Akkikavu Bypass Road KM 0/000 to 9/880.",
             "impact": "Better bypass infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bypass",
                 "roads"
@@ -494,7 +494,7 @@
             "budget": "₹62.97 Crore",
             "description": "Development of Ring Road for Kunnamkulam Municipality.",
             "impact": "Urban traffic management.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "ring road",
                 "urban",
@@ -512,7 +512,7 @@
             "budget": "₹30.57 Crore",
             "description": "Improvements to Chalakudy Mothirakanny road.",
             "impact": "Road connectivity improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -529,7 +529,7 @@
             "budget": "₹208.58 Crore",
             "description": "Wildlife Conservation & Research Phase II of Puthur Zoological Park.",
             "impact": "Wildlife conservation and tourism.",
-            "image": "/src/assets/images/CATEGORIES/environment.jpg",
+            "image": "environment_wxugxx",
             "tags": [
                 "zoo",
                 "wildlife",
@@ -547,7 +547,7 @@
             "budget": "₹89.84 Crore",
             "description": "Junction improvement works in Kunnamkulam Municipality.",
             "impact": "Urban traffic flow improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "junction",
                 "urban",
@@ -565,7 +565,7 @@
             "budget": "₹122.21 Crore",
             "description": "Phase 1 construction of Thrissur Zoological Park.",
             "impact": "New zoological park establishment.",
-            "image": "/src/assets/images/CATEGORIES/environment.jpg",
+            "image": "environment_wxugxx",
             "tags": [
                 "zoo",
                 "wildlife",
@@ -583,7 +583,7 @@
             "budget": "₹43.05 Crore",
             "description": "Improvements to Poovathungal Velukkara Road.",
             "impact": "Road infrastructure upgrade.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -600,7 +600,7 @@
             "budget": "₹21.43 Crore",
             "description": "Establishment of a Banana and Honey Park in Thrissur.",
             "impact": "Value addition in agriculture.",
-            "image": "/src/assets/images/CATEGORIES/AGRICULTURE.png",
+            "image": "AGRICULTURE_nnbtsr",
             "tags": [
                 "agriculture",
                 "park",
@@ -618,7 +618,7 @@
             "budget": "₹32.98 Crore",
             "description": "Improvements to Edakkunny road 0/000 to 7/850 in Ollur constituency.",
             "impact": "Local road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -635,7 +635,7 @@
             "budget": "₹28.00 Crore",
             "description": "Improvements to Chalakudy - Anamala road.",
             "impact": "Better connectivity to Anamala.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -652,7 +652,7 @@
             "budget": "₹76.51 Crore",
             "description": "Development of Taluk Hospital, Kunnamkulam.",
             "impact": "Enhanced medical facilities.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital"
@@ -669,7 +669,7 @@
             "budget": "₹1.33 Crore",
             "description": "Construction of Kondayur – Ongallur bridge at Desamangalam in Chelakkara constituency.",
             "impact": "Local connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -686,7 +686,7 @@
             "budget": "₹10.28 Crore",
             "description": "Construction of Edatharakavu Kadavu Bridge across Chalakkudy river.",
             "impact": "River crossing facility.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -703,7 +703,7 @@
             "budget": "₹24.49 Crore",
             "description": "Construction of Pullut Parallel Bridge across Kodungallur Kayal.",
             "impact": "Additional capacity for river crossing.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -720,7 +720,7 @@
             "budget": "₹56.01 Crore",
             "description": "Construction of I.M. Vijayan Indoor Stadium and Sports Complex at Laloor, Thrissur.",
             "impact": "Sports development.",
-            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
+            "image": "SPORTS_pbz6cc",
             "tags": [
                 "sports",
                 "stadium",
@@ -738,7 +738,7 @@
             "budget": "₹45.03 Crore",
             "description": "Construction of ROB in lieu of existing LC No. 28 and LC No. 29 at Pudukkadu.",
             "impact": "Elimination of level crossings.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "railway"
@@ -755,7 +755,7 @@
             "budget": "₹88.65 Crore",
             "description": "Improvements with BM & BC to road from Mudikkode to Karumathra Via Chirakkekode, Ponganengad, Thanikkudam, Kundukkad km 0/000 to 18/650.",
             "impact": "Tourism connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "tourism"
@@ -772,7 +772,7 @@
             "budget": "₹34.37 Crore",
             "description": "Improvements to Chathan Master Road Km. 0/000 to 8/480.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -789,7 +789,7 @@
             "budget": "₹24.05 Crore",
             "description": "Improvements to Kodakara - Vellikulangara School Road 3rd reach from km 7/600 to 13/140.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -806,7 +806,7 @@
             "budget": "₹14.32 Crore",
             "description": "Augmentation of infrastructural facilities at Kerala Varma College Thrissur.",
             "impact": "Higher education infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "college"
@@ -823,7 +823,7 @@
             "budget": "₹12.66 Crore",
             "description": "Educational infrastructure projects in Thrissur Cluster 10.",
             "impact": "School infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "schools"
@@ -840,7 +840,7 @@
             "budget": "₹19.31 Crore",
             "description": "Development of modern markets at Wadakkancherry Municipality.",
             "impact": "Market infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "market",
                 "urban"
@@ -857,7 +857,7 @@
             "budget": "₹16.27 Crore",
             "description": "Educational infrastructure projects in Thrissur Cluster 9.",
             "impact": "School infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "schools"
@@ -874,7 +874,7 @@
             "budget": "₹182.82 Crore",
             "description": "Construction of Coastal Highway Reach 1 - Azhikode Bridge to Valappad (32 km).",
             "impact": "Coastal connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "coastal highway"
@@ -891,7 +891,7 @@
             "budget": "₹55.17 Crore",
             "description": "Improvements to Ollur Junction.",
             "impact": "Traffic management.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "junction"
@@ -908,7 +908,7 @@
             "budget": "₹136.29 Crore",
             "description": "Construction of Coastal Highway Reach 2 - Valappad to Kappirikkad (38 km).",
             "impact": "Coastal connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "coastal highway"
@@ -925,7 +925,7 @@
             "budget": "₹39.49 Crore",
             "description": "Improvements to Pallikkunnu Chimminidam Road from Km 0/000 to 8/500.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -942,7 +942,7 @@
             "budget": "₹279.19 Crore",
             "description": "Development of Mother & Child Block at Medical College, Thrissur.",
             "impact": "Specialized healthcare infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital",
@@ -960,7 +960,7 @@
             "budget": "₹10.77 Crore",
             "description": "Construction of Kuthiyathodu- Kundoor Bridge in Thrissur District.",
             "impact": "Bridge connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -977,7 +977,7 @@
             "budget": "₹200.15 Crore",
             "description": "Construction of Azhikode-Munambam Bridge connecting Thrissur and Ernakulam districts.",
             "impact": "Major inter-district connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -994,7 +994,7 @@
             "budget": "₹199.41 Crore",
             "description": "Development of Super Specialty Block at Govt. Medical College, Thrissur.",
             "impact": "Advanced healthcare services.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital",
@@ -1012,7 +1012,7 @@
             "budget": "₹10.24 Crore",
             "description": "Construction of Sreedhari Bridge across Manalippuzha.",
             "impact": "Bridge connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -1029,7 +1029,7 @@
             "budget": "₹9.58 Crore",
             "description": "Construction of Chalakkudy Municipal Stadium.",
             "impact": "Sports infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
+            "image": "SPORTS_pbz6cc",
             "tags": [
                 "sports",
                 "stadium"
@@ -1046,7 +1046,7 @@
             "budget": "₹36.23 Crore",
             "description": "Construction of Nedupuzha Rail Over Bridge.",
             "impact": "Railway crossing safety.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "railway"
@@ -1063,7 +1063,7 @@
             "budget": "₹34.90 Crore",
             "description": "Construction of Nandikkara Railway Over Bridge.",
             "impact": "Transport infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "railway"
@@ -1080,7 +1080,7 @@
             "budget": "₹74.49 Crore",
             "description": "Improvements to Pudukkad – Mupliyam – Kodali Road from Km 0/000 to 18/200.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1097,7 +1097,7 @@
             "budget": "₹32.35 Crore",
             "description": "Construction of ROB at Nellayi in Thrissur district.",
             "impact": "Railway crossing improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "railway"
@@ -1114,7 +1114,7 @@
             "budget": "₹3.10 Crore",
             "description": "Construction of Arangalikadavu (Aralikadavu) Bridge across Chalakudy River.",
             "impact": "Bridge connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -1131,7 +1131,7 @@
             "budget": "₹26.69 Crore",
             "description": "Construction of Parayankadavu Bridge across Canoli canal in Thrissur District.",
             "impact": "Bridge connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -1148,7 +1148,7 @@
             "budget": "₹136.50 Crore",
             "description": "Improvements to Hill Highway from Vilanganoor to Vellikulangara road.",
             "impact": "Hill highway development.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "hill highway"
@@ -1165,7 +1165,7 @@
             "budget": "₹0.00",
             "description": "Construction of Kanjirappilly-Kunappilly Kadavu Bridge across Chalakudy River.",
             "impact": "Bridge connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -1182,7 +1182,7 @@
             "budget": "₹0.00",
             "description": "Construction of flyovers at Kizhakkekkotta and Kokkayil Junctions in Thrissur Town.",
             "impact": "Urban traffic decongestion.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "flyover",
                 "urban transport"
@@ -1199,7 +1199,7 @@
             "budget": "₹0.00",
             "description": "Construction of Regulator cum Bridge at Keezhthandilam across Wadakkanchery River at Talappilly Taluk.",
             "impact": "Water regulation and transport.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "bridge",
                 "water resources"
@@ -1216,7 +1216,7 @@
             "budget": "₹0.00",
             "description": "Improvement works For Vanchikulam - Chettupuzha Road 0/000 to 7/180.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1233,7 +1233,7 @@
             "budget": "₹0.00",
             "description": "Construction of Revenue Tower at Chalakudy.",
             "impact": "Administrative infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "building",
                 "government"
@@ -1250,7 +1250,7 @@
             "budget": "₹0.00",
             "description": "Improvements and Fourlane works of Thrissur Kuttipuram road at Km 15/000 to 19/650.",
             "impact": "Road widening.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "four laning"
@@ -1267,7 +1267,7 @@
             "budget": "₹0.00",
             "description": "Vallathol Narayana Menon Cultural Complex at Thrissur.",
             "impact": "Cultural infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/CULTURE.png",
+            "image": "CULTURE_vqtyfl",
             "tags": [
                 "culture",
                 "infrastructure"
@@ -1284,7 +1284,7 @@
             "budget": "₹0.00",
             "description": "Improvements to Nedupuzha West Fort road Km 0/000 to 4/425 by providing DBM & BC on Ollur constituency.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1301,7 +1301,7 @@
             "budget": "₹0.00",
             "description": "Augmentation of Infrastructural Facilities at Government Arts & Science College Ollur.",
             "impact": "Educational infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "college"
@@ -1318,7 +1318,7 @@
             "budget": "₹0.00",
             "description": "Construction of Coastal Highway in Thrissur District Reach 1- Azheekodu to Dubai road junction Ch 0/000 to 9/890.",
             "impact": "Coastal connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "coastal highway"
@@ -1335,7 +1335,7 @@
             "budget": "₹236.30 Crore",
             "description": "Construction of 10 bedded isolation wards in Legislative Assembly Constituencies in Thrissur District (part of statewide project).",
             "impact": "Healthcare infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital"
@@ -1352,7 +1352,7 @@
             "budget": "₹212.09 Crore",
             "description": "Water Supply Scheme to Thrissur Corporation and adjoining panchayaths Phase -1.",
             "impact": "Urban water supply.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "urban"

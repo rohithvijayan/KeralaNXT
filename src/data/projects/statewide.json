@@ -11,7 +11,7 @@
             "budget": "₹22,920 Crore",
             "description": "Comprehensive housing scheme to provide safe housing to nearly 4.30 lakhs homeless and landless families in Kerala. Focuses on livelihood, inclusion, and financial empowerment alongside shelter. Utilizes pre-fab technology and housing complexes.",
             "impact": "Completed construction of over 4.5 lakh homes by March 2025; aims for a state free of homelessness.",
-            "image": "/src/assets/images/CATEGORIES/housing.jpg",
+            "image": "housing_zsxd9p",
             "tags": [
                 "housing",
                 "welfare",
@@ -29,7 +29,7 @@
             "budget": "₹1,516 Crore",
             "description": "State-wide core optical fibre network to provide high-speed internet connectivity to 30,000+ government offices and free internet to 20 lakh economically backward families. Declared internet access a basic human right.",
             "impact": "Phase I completed; connected over 28,000 offices and thousands of BPL families; awarded Infrastructure Initiative of the Year 2024.",
-            "image": "/src/assets/images/CATEGORIES/IT.png",
+            "image": "IT_ukwhbl",
             "tags": [
                 "internet",
                 "digital infrastructure",
@@ -47,7 +47,7 @@
             "budget": null,
             "description": "Transformation of Primary Health Centers (PHCs) into Family Health Centers (FHCs) with standardized facilities, extended timing, and patient-friendly outpatient services. Focuses on preventive care and lifestyle disease control.",
             "impact": "Converted 674 out of 886 PHCs into FHCs by 2025; improved public health infrastructure significantly.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "public health",
                 "primary care",
@@ -65,7 +65,7 @@
             "budget": null,
             "description": "Umbrella mission for waste management, water conservation, and agricultural development. Initiatives include 'Pachathuruthu' (Green Islets), 'Ini Njan Ozhukatte' (river rejuvenation), and 'Net Zero Carbon Keralam'.",
             "impact": "Rejuvenated 53,190 km of streams; created green islets; institutionalized decentralized waste management via Haritha Karma Sena.",
-            "image": "/src/assets/images/CATEGORIES/environment.jpg",
+            "image": "environment_wxugxx",
             "tags": [
                 "environment",
                 "waste management",
@@ -83,7 +83,7 @@
             "budget": "₹5,000 Crore (Infrastructure)",
             "description": "Modernization of public school infrastructure, converting classrooms to hi-tech digital classrooms, and enhancing academic standards. Includes 'Little KITEs' IT clubs and 'First Bell' digital classes.",
             "impact": "Set up 45,000 hi-tech classrooms; reversed trend of student migration to private schools; highest public enrollment growth in 25 years.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "digital",
@@ -101,7 +101,7 @@
             "budget": "₹63,941 Crore",
             "description": "Proposed 529.45 km semi high-speed railway line connecting Kasaragod to Thiruvananthapuram. Designed to reduce travel time to less than 4 hours. Includes RORO services and feeder networks.",
             "impact": "Expected to decongest highways and reduce carbon emissions; currently facing land acquisition and clearance delays.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "railway",
                 "high-speed rail",
@@ -119,7 +119,7 @@
             "budget": "₹5,200 Crore",
             "description": "Comprehensive project to enhance the reliability and security of Kerala's electricity transmission system and reduce transmission losses. Involves construction of substations and high-tension lines.",
             "impact": "Commissioned 12 substations; completed 1,746 circuit km of lines; expected to reduce peak load system loss by 107.8 MW.",
-            "image": "/src/assets/images/CATEGORIES/ENERGY.png",
+            "image": "ENERGY_sgjgpc",
             "tags": [
                 "power",
                 "transmission",
@@ -137,7 +137,7 @@
             "budget": "₹36,500 Crore (Estimated Requirement)",
             "description": "Strategic framework to rebuild the state following the 2018 floods with a focus on resilience, eco-friendly building strategies, and 'Room for River' concepts. Supported by World Bank and other agencies.",
             "impact": "Repairing roads, restoring livelihoods, and creating resilient infrastructure across multiple sectors.",
-            "image": "/src/assets/images/CATEGORIES/others.jpg",
+            "image": "others_mgh2hl",
             "tags": [
                 "disaster recovery",
                 "resilience",
@@ -155,7 +155,7 @@
             "budget": "₹6,500 Crore",
             "description": "Construction of a dedicated highway along the Kerala coast from Thiruvananthapuram to Kasaragod. Features include cycle tracks and modern safety standards.",
             "impact": "Will serve as an evacuation route and boost coastal tourism and connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "coastal",
@@ -173,7 +173,7 @@
             "budget": "₹3,500 Crore",
             "description": "1,251 km highway network connecting the hilly eastern districts of Kerala from Nandarappadavu (Kasaragod) to Parassala (Thiruvananthapuram).",
             "impact": "Improves connectivity in high-range areas; boosts freight movement and tourism.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "hill stations",
@@ -191,7 +191,7 @@
             "budget": null,
             "description": "Initiative to transform Kerala into a knowledge economy by creating 20 lakh jobs for educated youth. Connects job seekers with global employers through a digital platform.",
             "impact": "Facilitated employment for over 1.2 lakh individuals; created a digital platform for skill matching.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "employment",
                 "skills",
@@ -209,7 +209,7 @@
             "budget": "₹1,000 Crore",
             "description": "Targeted micro-plans to identify and uplift the 'poorest of the poor' families (approx 64,006) by providing food, health, housing, and income support.",
             "impact": "Kerala declared the first extreme poverty-free state in India on November 1, 2025.",
-            "image": "/src/assets/images/CATEGORIES/social.jpg",
+            "image": "social_lejjls",
             "tags": [
                 "poverty",
                 "welfare",
@@ -227,7 +227,7 @@
             "budget": null,
             "description": "Campaign to establish 1 lakh new Micro, Small, and Medium Enterprises (MSMEs) in one fiscal year. Provided subsidies, loan assistance, and simplified clearances.",
             "impact": "Generated over 2.4 lakh jobs and investment of ₹6,667 crore; established nearly 1.4 lakh enterprises.",
-            "image": "/src/assets/images/CATEGORIES/INDUSTRY.png",
+            "image": "INDUSTRY_fwzd3p",
             "tags": [
                 "MSME",
                 "employment",
@@ -245,7 +245,7 @@
             "budget": null,
             "description": "Project to replace inefficient filament bulbs with energy-efficient LED bulbs in all households to reduce energy consumption and carbon emissions.",
             "impact": "Aims to reduce daily CO2 emissions by 2.5 million tonnes and mercury pollution.",
-            "image": "/src/assets/images/CATEGORIES/ENERGY.png",
+            "image": "ENERGY_sgjgpc",
             "tags": [
                 "energy efficiency",
                 "LED",
@@ -263,7 +263,7 @@
             "budget": null,
             "description": "Integrated program to achieve self-sufficiency in food production post-COVID-19. Combines agriculture, animal husbandry, dairy, and fisheries to ensure food security.",
             "impact": "Significant increase in vegetable and milk production; creation of livelihood assets like cattle sheds and farm ponds.",
-            "image": "/src/assets/images/CATEGORIES/AGRICULTURE.png",
+            "image": "AGRICULTURE_nnbtsr",
             "tags": [
                 "food security",
                 "agriculture",
@@ -281,7 +281,7 @@
             "budget": "₹2,450 Crore",
             "description": "Rehabilitation project for fisher families living within 50 meters of the high tide line. Provides ₹10 lakh per family for relocation to safer zones.",
             "impact": "Thousands of families rehabilitated; flats constructed in multiple coastal districts.",
-            "image": "/src/assets/images/CATEGORIES/housing.jpg",
+            "image": "housing_zsxd9p",
             "tags": [
                 "fisheries",
                 "rehabilitation",
@@ -299,7 +299,7 @@
             "budget": null,
             "description": "Implementation of the central scheme to provide functional household tap connections (FHTC) to every rural household in Kerala.",
             "impact": "Significantly increased rural water supply coverage.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "rural",
@@ -317,7 +317,7 @@
             "budget": "₹232 Crore",
             "description": "Installation of Artificial Intelligence (AI) cameras and enforcement systems across state roads to detect traffic violations and reduce accidents.",
             "impact": "Enhanced road safety monitoring and enforcement capabilities.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "road safety",
                 "AI",
@@ -335,7 +335,7 @@
             "budget": null,
             "description": "Digital platform to provide all services of Local Self Government Institutions (LSGIs) online. Aims for paperless and transparent local governance.",
             "impact": "Streamlined service delivery for citizens across municipalities and corporations.",
-            "image": "/src/assets/images/CATEGORIES/IT.png",
+            "image": "IT_ukwhbl",
             "tags": [
                 "e-governance",
                 "local government",
@@ -353,7 +353,7 @@
             "budget": "₹5,580 Crore (State Share)",
             "description": "Widening of National Highway 66 to 45 meters from Kasaragod to Thiruvananthapuram. State government contributed 25% of land acquisition cost to expedite the project.",
             "impact": "Rapid progress in 6-laning works across the state; expected completion by 2025.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "national highway",
@@ -371,7 +371,7 @@
             "budget": null,
             "description": "Completion of the Kochi-Mangaluru natural gas pipeline, connecting Kerala to the National Gas Grid. Facilitates city gas distribution and industrial usage.",
             "impact": "Enabled piped gas supply to households and industries in northern Kerala.",
-            "image": "/src/assets/images/CATEGORIES/ENERGY.png",
+            "image": "ENERGY_sgjgpc",
             "tags": [
                 "energy",
                 "pipeline",
@@ -389,7 +389,7 @@
             "budget": null,
             "description": "Comprehensive campaign to make Kerala a disability-friendly state. Includes early intervention, education, and rehabilitation programs like 'Spectrum' and 'Sruthitharangam'.",
             "impact": "Improved accessibility and support systems for differently-abled individuals.",
-            "image": "/src/assets/images/CATEGORIES/social.jpg",
+            "image": "social_lejjls",
             "tags": [
                 "disability",
                 "social welfare",
@@ -407,7 +407,7 @@
             "budget": null,
             "description": "Formation of the Kerala State Co-operative Bank by merging District Co-operative Banks (except Malappuram) to create a strong banking entity for the state.",
             "impact": "Enhanced financial inclusion and credit availability in the cooperative sector.",
-            "image": "/src/assets/images/CATEGORIES/others.jpg",
+            "image": "others_mgh2hl",
             "tags": [
                 "banking",
                 "cooperative",
@@ -425,7 +425,7 @@
             "budget": "₹858 Crore",
             "description": "Comprehensive digital resurvey of land across the state using modern technology like COR stations and drones to ensure accurate land records.",
             "impact": "Expected to resolve land disputes and modernize revenue records.",
-            "image": "/src/assets/images/CATEGORIES/others.jpg",
+            "image": "others_mgh2hl",
             "tags": [
                 "land survey",
                 "digitization",
@@ -443,7 +443,7 @@
             "budget": "₹2,400 Crore",
             "description": "World Bank-assisted project to strengthen the institutional and service delivery systems for solid waste management in 93 Urban Local Bodies.",
             "impact": "Improving waste collection, segregation, and treatment infrastructure in urban areas.",
-            "image": "/src/assets/images/CATEGORIES/environment.jpg",
+            "image": "environment_wxugxx",
             "tags": [
                 "waste management",
                 "urban",
@@ -461,7 +461,7 @@
             "budget": null,
             "description": "Programme to foster innovation and development of MSME clusters in each district, focusing on unique local products and technologies.",
             "impact": "Promoting cluster-based industrial growth.",
-            "image": "/src/assets/images/CATEGORIES/INDUSTRY.png",
+            "image": "INDUSTRY_fwzd3p",
             "tags": [
                 "MSME",
                 "innovation",
@@ -479,7 +479,7 @@
             "budget": null,
             "description": "Rooftop solar energy project by KSEB targeting 1000 MW capacity addition by utilizing roof spaces of households and institutions.",
             "impact": "Significant addition to renewable energy capacity.",
-            "image": "/src/assets/images/CATEGORIES/ENERGY.png",
+            "image": "ENERGY_sgjgpc",
             "tags": [
                 "solar energy",
                 "renewable",
@@ -497,7 +497,7 @@
             "budget": null,
             "description": "Digital health database linking all government health institutions to provide seamless patient records and services. Implemented in all districts.",
             "impact": "Digitized patient records and improved healthcare delivery efficiency.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "digital health",
                 "IT",
@@ -515,7 +515,7 @@
             "budget": "₹2,472 Crore (KIIFB)",
             "description": "Development of the inland waterway from Kovalam to Kasaragod (approx 600 km) to make it navigable for cargo and tourism.",
             "impact": "Enhancing inland water transport and tourism potential.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "waterways",
                 "transport",
@@ -533,7 +533,7 @@
             "budget": "₹31.89 Crore (Phase 1)",
             "description": "Establishment of remote work centres across the state to enable professionals to work for global companies from their hometowns.",
             "impact": "Decentralizing IT employment and supporting the knowledge economy.",
-            "image": "/src/assets/images/CATEGORIES/IT.png",
+            "image": "IT_ukwhbl",
             "tags": [
                 "IT",
                 "employment",
@@ -551,7 +551,7 @@
             "budget": null,
             "description": "Voluntary relocation project for non-tribal settlements from forest areas to reduce human-wildlife conflict.",
             "impact": "Facilitating safe relocation and forest conservation.",
-            "image": "/src/assets/images/CATEGORIES/environment.jpg",
+            "image": "environment_wxugxx",
             "tags": [
                 "forest",
                 "rehabilitation",
@@ -569,7 +569,7 @@
             "budget": "₹236.30 Crore",
             "description": "Project to construct 10-bedded isolation wards in hospitals across all 140 Legislative Assembly Constituencies to handle infectious diseases.",
             "impact": "Strengthening healthcare infrastructure post-pandemic.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health infrastructure",
                 "pandemic response"
@@ -586,7 +586,7 @@
             "budget": "₹13,740 Crore (Land Acquisition)",
             "description": "Development of industrial nodes in Palakkad and Kochi as part of the national corridor. Includes Integrated Manufacturing Clusters and GIFT City.",
             "impact": "Expected to attract ₹10,000 crore investment and generate 1 lakh jobs.",
-            "image": "/src/assets/images/CATEGORIES/INDUSTRY.png",
+            "image": "INDUSTRY_fwzd3p",
             "tags": [
                 "industry",
                 "corridor",
@@ -604,7 +604,7 @@
             "budget": "₹296.51 Crore",
             "description": "Construction of 10 Road Over Bridges using steel-concrete composite superstructure on Design Build and Transfer mode across the state.",
             "impact": "Improving road safety and rail-road connectivity.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "bridges",
                 "infrastructure",
@@ -622,7 +622,7 @@
             "budget": null,
             "description": "Housing scheme providing high-quality dormitory accommodation for migrant workers with modern amenities.",
             "impact": "Completed projects in Palakkad and Kozhikode; improved living conditions for migrant laborers.",
-            "image": "/src/assets/images/CATEGORIES/housing.jpg",
+            "image": "housing_zsxd9p",
             "tags": [
                 "migrant welfare",
                 "housing",
@@ -640,7 +640,7 @@
             "budget": null,
             "description": "Program to promote pesticide-free vegetable cultivation and sales, ensuring food safety.",
             "impact": "Increased availability of safe produce.",
-            "image": "/src/assets/images/CATEGORIES/AGRICULTURE.png",
+            "image": "AGRICULTURE_nnbtsr",
             "tags": [
                 "food safety",
                 "agriculture",
@@ -658,7 +658,7 @@
             "budget": null,
             "description": "Specialized police patrol units exclusively for the safety of women and children in public places.",
             "impact": "Enhanced women's safety and quick response to distress calls.",
-            "image": "/src/assets/images/CATEGORIES/social.jpg",
+            "image": "social_lejjls",
             "tags": [
                 "women safety",
                 "police",
@@ -676,7 +676,7 @@
             "budget": null,
             "description": "Scaled-up version of the Ashraya project to rehabilitate the absolute poor and destitute through micro-plans and support services.",
             "impact": "Rehabilitating the poorest sections of society.",
-            "image": "/src/assets/images/CATEGORIES/social.jpg",
+            "image": "social_lejjls",
             "tags": [
                 "poverty",
                 "destitute",
@@ -694,7 +694,7 @@
             "budget": null,
             "description": "Financial assistance scheme for kidney patients on dialysis, providing monthly pensions.",
             "impact": "Supporting vulnerable patients with chronic illness.",
-            "image": "/src/assets/images/CATEGORIES/social.jpg",
+            "image": "social_lejjls",
             "tags": [
                 "health",
                 "pension",
@@ -712,7 +712,7 @@
             "budget": "₹493.50 Crore (Equipment)",
             "description": "Project to equip 45,000 classrooms in public schools with computers, projectors, and internet connectivity.",
             "impact": "Modernized public education infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "technology",
@@ -730,7 +730,7 @@
             "budget": null,
             "description": "Program encouraging each Local Self Government to identify and solve one core local issue through innovation and research partnerships.",
             "impact": "Fostering local level innovation and problem solving.",
-            "image": "/src/assets/images/CATEGORIES/others.jpg",
+            "image": "others_mgh2hl",
             "tags": [
                 "governance",
                 "innovation",
@@ -748,7 +748,7 @@
             "budget": "₹100 Crore",
             "description": "Establishment of a genome data center to utilize Kerala's biodiversity for genetic research in agriculture, health, and fisheries.",
             "impact": "Building a repository of genetic information for scientific advancement.",
-            "image": "/src/assets/images/CATEGORIES/SCIENCE.png",
+            "image": "SCIENCE_yuvoz6",
             "tags": [
                 "science",
                 "genomics",

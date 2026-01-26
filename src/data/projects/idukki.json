@@ -11,7 +11,7 @@
             "budget": "₹144.09 Crore",
             "description": "Improvements to Hill Highway from Peerumade to Devikulam (km 19/000 to 40/050) and Thodupuzha to Puliyanmala (km 85/500 to 92/167).",
             "impact": "Enhances connectivity in the high ranges.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "hill highway",
@@ -29,7 +29,7 @@
             "budget": "₹107.70 Crore",
             "description": "Improvements to Hill Highway between Ch: 0/000 to 19/000 from Kuttikkanam to Chappathu.",
             "impact": "Improved road infrastructure in Idukki.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "hill highway",
@@ -47,7 +47,7 @@
             "budget": "₹39.80 Crore",
             "description": "Improvements to Hill Highway stretches including Stretch 1 (Ellackal - Valiya Mullakkanam Road, 5.03 km), Stretch 2 (Iruttukanam to Anachal), and Stretch 3 (Anachal to Ellackal Jn).",
             "impact": "Better connectivity for tourism and locals.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "hill highway",
@@ -65,7 +65,7 @@
             "budget": "₹0.00",
             "description": "Improvements to Myladumpara - Puliyanmala Road in Idukki District.",
             "impact": "Planned improvement of hill highway connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "hill highway",
@@ -83,7 +83,7 @@
             "budget": "₹63.99 Crore",
             "description": "Improvement of the 23.800 km Erattupetta - Vagamon Road.",
             "impact": "Boosts tourism connectivity to Vagamon.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "tourism",
@@ -101,7 +101,7 @@
             "budget": "₹55.07 Crore",
             "description": "Upgradation of Nathukallu - Adimali Road.",
             "impact": "Improved road network.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -118,7 +118,7 @@
             "budget": "₹52.01 Crore",
             "description": "Improvements to Kuruthikkalam - Chelachuvadu road from Ch.35/483 to 62/313.",
             "impact": "Enhanced regional connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -135,7 +135,7 @@
             "budget": "₹99.82 Crore",
             "description": "Improvement to Ramakkalmedu - Cumbummedu Vannapuram Road (Part 1: Cumbummedu To Njondical - 28.1km).",
             "impact": "Improved access to Ramakkalmedu tourist site.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "tourism",
@@ -153,7 +153,7 @@
             "budget": "₹10.44 Crore",
             "description": "Improvements to Thodupuzha Karikkodu - Thekkumbhagom - Anakkayam Road.",
             "impact": "Local road development.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -170,7 +170,7 @@
             "budget": "₹178.24 Crore",
             "description": "Comprehensive improvements to the Udumbanchola - Rajakkadu - Anachal - Randammayil - Chithirapuram Road corridor.",
             "impact": "Major upgrade of key district roads.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -187,7 +187,7 @@
             "budget": "₹0.00",
             "description": "Construction of Munnar flyover bypass road.",
             "impact": "Traffic decongestion in Munnar town.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "flyover",
                 "bypass",
@@ -205,7 +205,7 @@
             "budget": "₹0.00",
             "description": "Construction of Painavu - Idukki Bypass Road.",
             "impact": "Better connectivity to district headquarters.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bypass",
                 "roads"
@@ -222,7 +222,7 @@
             "budget": "₹0.00",
             "description": "Improvements and providing BM&BC to Thookupalam - Kattappana Road.",
             "impact": "Road surface improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -239,7 +239,7 @@
             "budget": "₹70.03 Crore",
             "description": "Upgradation of Taluk Hospital Nedumkandam, including procurement of medical equipment.",
             "impact": "Improved healthcare facilities.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital",
@@ -257,7 +257,7 @@
             "budget": "₹12.54 Crore",
             "description": "Development of OP Unit, Casualty Block, and Diagnostic Facilities at TH Adimali.",
             "impact": "Enhanced medical services.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital"
@@ -274,7 +274,7 @@
             "budget": "₹2.50 Crore",
             "description": "Development of Out Patient Unit, Casualty Block & Diagnostics Facilities in Taluk Hospital, Peerumedu.",
             "impact": "Better patient care.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital"
@@ -291,7 +291,7 @@
             "budget": "₹0.00",
             "description": "Proposed Taluk Level Hospital at Munnar.",
             "impact": "Healthcare access for plantation workers and tourists.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital"
@@ -308,7 +308,7 @@
             "budget": "₹142.61 Crore",
             "description": "Augmentation of Urban Water Supply Scheme to Thodupuzha Municipality (Phase I & II).",
             "impact": "Reliable drinking water supply.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "urban"
@@ -325,7 +325,7 @@
             "budget": "₹46.42 Crore",
             "description": "Water Supply Scheme to Ayyappankovil panchayath.",
             "impact": "Rural water supply.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "rural"
@@ -342,7 +342,7 @@
             "budget": "₹5.37 Crore",
             "description": "Protecting both banks of Cheruthoni River downstream of Cheruthoni old bridge in Vazhathoppu and Mariyapuram GPs.",
             "impact": "Flood protection and riverbank stabilization.",
-            "image": "/src/assets/images/CATEGORIES/environment.jpg",
+            "image": "environment_wxugxx",
             "tags": [
                 "water resources",
                 "protection",
@@ -360,7 +360,7 @@
             "budget": "₹7.44 Crore",
             "description": "Construction of Check Dam-cum-Bridge across Palkulam Thodu near Seminarypadi.",
             "impact": "Water conservation and connectivity.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "check dam",
                 "bridge",
@@ -378,7 +378,7 @@
             "budget": "₹7.70 Crore",
             "description": "Construction of check dam-cum-bridge across Chinnar river near Madampadi.",
             "impact": "Water storage and transport.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "check dam",
                 "bridge"
@@ -395,7 +395,7 @@
             "budget": "₹33.78 Crore",
             "description": "Construction of K.P Thomas Indoor Stadium at Nedumkandom.",
             "impact": "Sports facility development.",
-            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
+            "image": "SPORTS_pbz6cc",
             "tags": [
                 "sports",
                 "stadium",
@@ -413,7 +413,7 @@
             "budget": "₹9.40 Crore",
             "description": "Construction of a stadium for Nedumkandom Gramapanchayath.",
             "impact": "Local sports infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
+            "image": "SPORTS_pbz6cc",
             "tags": [
                 "sports",
                 "stadium"
@@ -430,7 +430,7 @@
             "budget": "₹28.22 Crore",
             "description": "Construction of Court Complex at Peerumedu.",
             "impact": "Judicial infrastructure improvement.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "court",
                 "infrastructure"
@@ -447,7 +447,7 @@
             "budget": "₹32.84 Crore",
             "description": "Construction of Court Complex at Nedumkandom.",
             "impact": "Improved legal facilities.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "court",
                 "infrastructure"
@@ -464,7 +464,7 @@
             "budget": "₹18.17 Crore",
             "description": "Construction of Sub Registrar Offices at Thopramkudi, Udumbanchola (Mundiyeruma), and Thodupuzha.",
             "impact": "Administrative infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "registration",
                 "office",
@@ -482,7 +482,7 @@
             "budget": "₹41.60 Crore",
             "description": "Infrastructure development for Engineering colleges in Idukki and Thiruvananthapuram cluster.",
             "impact": "Higher education facilities.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "engineering",
@@ -500,7 +500,7 @@
             "budget": "₹19.56 Crore",
             "description": "Development of Government Polytechnic College at Vandiperiyar (shared project with Perumbavoor).",
             "impact": "Technical education.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "polytechnic"
@@ -517,7 +517,7 @@
             "budget": "₹25.53 Crore",
             "description": "Upgradation of Govt ITI Kattappana to international standards (part of multi-ITI project).",
             "impact": "Skill development.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "skills",
@@ -535,7 +535,7 @@
             "budget": "₹0.00",
             "description": "Development works for Government Engineering College Idukki.",
             "impact": "Higher education infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "college"
@@ -552,7 +552,7 @@
             "budget": "₹25.00 Crore",
             "description": "Infrastructure upgradation of schools in Idukki under various clusters (Phase 2, Phase 3).",
             "impact": "School infrastructure improvement.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "schools"

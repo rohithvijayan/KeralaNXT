@@ -3,6 +3,7 @@ import { useNavigate, useLocation } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
 import Header from '../components/Header'
 import ProjectModal from '../components/ProjectModal'
+import CldImage from '../components/CldImage'
 import districtsData from '../data/districts.json'
 import categoriesData from '../data/categories.json'
 import { loadAllProjects } from '../data/projectLoader'
@@ -435,7 +436,12 @@ function ProjectsPage() {
                                 {/* Image */}
                                 <div className="project-card-image">
                                     {project.image ? (
-                                        <img src={project.image} alt={project.title} />
+                                        <CldImage
+                                            src={project.image}
+                                            alt={project.title}
+                                            width={600}
+                                            height={338}
+                                        />
                                     ) : (
                                         <div className={`project-placeholder cat-${project.category || project.categoryId}`}>
                                             <span className="material-symbols-outlined">

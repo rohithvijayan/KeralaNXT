@@ -11,7 +11,7 @@
             "budget": "₹16.00 Crore",
             "description": "Development of CREST Campus at Cyberpark, Kozhikode - Phase 1: Academic Block.",
             "impact": "Educational infrastructure development.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "IT",
@@ -29,7 +29,7 @@
             "budget": "₹10.14 Crore",
             "description": "Construction of Kallacherikkadavu Bridge across Mayyazhi river connecting Trippagottur Panchayath in Kannur District and Thonneri Panchayath in Kozhikode District.",
             "impact": "Inter-district connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -46,7 +46,7 @@
             "budget": "₹108.16 Crore",
             "description": "Improvement works to Thiruvambadi-Pulloorampara-Edathara-Marippuzha road.",
             "impact": "Major road infrastructure upgrade.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -63,7 +63,7 @@
             "budget": "₹42.08 Crore",
             "description": "Development of Taluk Hospital Koyilandi.",
             "impact": "Healthcare infrastructure improvement.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital"
@@ -80,7 +80,7 @@
             "budget": "₹50.32 Crore",
             "description": "Improvements to Thottilpalam Thalayad Road (6.79km).",
             "impact": "Hill highway connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "hill highway"
@@ -97,7 +97,7 @@
             "budget": "₹23.20 Crore",
             "description": "Development of Taluk Hospital, Balusseri.",
             "impact": "Healthcare infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital"
@@ -114,7 +114,7 @@
             "budget": "₹17.09 Crore",
             "description": "Development of Taluk Hospital, Feroke.",
             "impact": "Healthcare infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital"
@@ -131,7 +131,7 @@
             "budget": "₹9.95 Crore",
             "description": "Construction of Gas Crematoriums for Koorachund GP (part of multi-location project).",
             "impact": "Public sanitation infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "crematorium",
                 "infrastructure"
@@ -148,7 +148,7 @@
             "budget": "₹14.27 Crore",
             "description": "Setting up of Cinema Theater Complexes at Perambra.",
             "impact": "Cultural infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/CULTURE.png",
+            "image": "CULTURE_vqtyfl",
             "tags": [
                 "culture",
                 "cinema"
@@ -165,7 +165,7 @@
             "budget": "₹72.63 Crore",
             "description": "Construction of Regulator cum Bridge u/s of Perincheri Kadavu across Kuttiyadi River Gulikapuzha.",
             "impact": "Water regulation and connectivity.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "bridge",
                 "regulator",
@@ -183,7 +183,7 @@
             "budget": "₹29.93 Crore",
             "description": "Construction of Naderikkadavu Bridge across Akalapuzha.",
             "impact": "Bridge connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -200,7 +200,7 @@
             "budget": "₹106.09 Crore",
             "description": "Construction of Hill Highway between Thalayad - Malapuram Kodenchery (18KM).",
             "impact": "Hill highway connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "hill highway"
@@ -217,7 +217,7 @@
             "budget": "₹90.09 Crore",
             "description": "Improvement of Kaithapoyil- Kodanchery-Agustiamuzhi Road Km 0/000 to 21/200.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -234,7 +234,7 @@
             "budget": "₹4.39 Crore",
             "description": "Construction of Phase II of Vadakara Narayana Nagaram Indoor Stadium.",
             "impact": "Sports infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
+            "image": "SPORTS_pbz6cc",
             "tags": [
                 "sports",
                 "stadium"
@@ -251,7 +251,7 @@
             "budget": "₹86.25 Crore",
             "description": "Coastal Highway - BC Road to Kothi Beach.",
             "impact": "Coastal connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "coastal highway"
@@ -268,7 +268,7 @@
             "budget": "₹10.11 Crore",
             "description": "Coastal Highway - Kadalundikadavu to Madathilpadam.",
             "impact": "Coastal connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "coastal highway"
@@ -285,7 +285,7 @@
             "budget": "₹221.20 Crore",
             "description": "Construction of Hill Highway between Kodanchery and Kakkadampoyil Km.83.900 to 119.250.",
             "impact": "Hill highway connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "hill highway"
@@ -302,7 +302,7 @@
             "budget": "₹105.28 Crore",
             "description": "Coastal Highway Reach 3 Koyilandy Harbour to Muthayam Beach.",
             "impact": "Coastal connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "coastal highway"
@@ -319,7 +319,7 @@
             "budget": "₹27.74 Crore",
             "description": "Construction of RCB across Poonur Puzha near KWA pumping house at Poolakkadavu in Kuruvattoor Panchayath.",
             "impact": "Water regulation.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "bridge",
                 "regulator",
@@ -337,7 +337,7 @@
             "budget": "₹13.32 Crore",
             "description": "Providing Temporary Facility for Establishing Institute of Organ & Tissue Transplant at PMSSY Block, MC Kozhikode.",
             "impact": "Advanced healthcare.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital",
@@ -355,7 +355,7 @@
             "budget": "₹15.16 Crore",
             "description": "Construction of Sports facilities at Mattannur, Padiyur and Thiruvambady (Shared project).",
             "impact": "Sports infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
+            "image": "SPORTS_pbz6cc",
             "tags": [
                 "sports",
                 "infrastructure"
@@ -372,7 +372,7 @@
             "budget": "₹2.90 Crore",
             "description": "Construction of Feroke ROB Approach Road.",
             "impact": "Railway overbridge connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "railway",
@@ -390,7 +390,7 @@
             "budget": "₹13.74 Crore",
             "description": "Upgradation of Govt ITI Koyilandy (Shared project).",
             "impact": "Skill development.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "skills"
@@ -407,7 +407,7 @@
             "budget": "₹36.80 Crore",
             "description": "Improvements to Manassery-Pulparamba-Kodiyathoor-Chullikkaparamba road.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -424,7 +424,7 @@
             "budget": "₹36.13 Crore",
             "description": "Construction of ROB at Muchukunnu (LC No. 205).",
             "impact": "Railway crossing safety.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "railway"
@@ -441,7 +441,7 @@
             "budget": "₹60.99 Crore",
             "description": "Improvements to REC Koodathai Road (11.220 Km).",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -458,7 +458,7 @@
             "budget": "₹18.00 Crore",
             "description": "Augmentation of Infrastructural facilities for CHMKM Government Arts and Science College, Koduvally.",
             "impact": "Higher education infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "college"
@@ -475,7 +475,7 @@
             "budget": "₹205.00 Crore",
             "description": "Improvements to Arayadathupalam Karanthur Road.",
             "impact": "Major city road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure",
@@ -493,7 +493,7 @@
             "budget": "₹110.67 Crore",
             "description": "Hill Highway first reach Pullavai to Thottilpalam 0/000 to 28/000.",
             "impact": "Hill highway connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "hill highway"
@@ -510,7 +510,7 @@
             "budget": "₹36.67 Crore",
             "description": "Improvements to Pulimmuttu-Vattakinar Road.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -527,7 +527,7 @@
             "budget": "₹85.00 Crore",
             "description": "Water Supply Scheme to Koyilandy & adjoining Panchayaths.",
             "impact": "Regional water supply.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "urban",
@@ -545,7 +545,7 @@
             "budget": "₹52.20 Crore",
             "description": "Improvements to Mavoor-NIT-Koduvally road Km 0/000 to 12/900.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -562,7 +562,7 @@
             "budget": "₹58.29 Crore",
             "description": "Construction of Perambra Bypass.",
             "impact": "Traffic relief.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bypass",
                 "roads"
@@ -579,7 +579,7 @@
             "budget": "₹18.65 Crore",
             "description": "Supply, laying testing and commissioning of Gravity main, pumping main & distribution system, scour line arrangement of OHSR at Perumugham for Feroke Karuvanthuruthy villages drinking water project.",
             "impact": "Water supply.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "rural"
@@ -596,7 +596,7 @@
             "budget": "₹10.09 Crore",
             "description": "Construction of Sub Registrar offices at West Hill and Registration Complex in Kozhikkode District (Shared project).",
             "impact": "Administrative infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "registration",
                 "office"
@@ -613,7 +613,7 @@
             "budget": "₹58.18 Crore",
             "description": "Development of Taluk Hospital, Perambra.",
             "impact": "Healthcare infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital"
@@ -630,7 +630,7 @@
             "budget": "₹12.12 Crore",
             "description": "Construction of Sub Registrar office at 1. Azhiyur 2. Chathamangalam 3.Chelannur 4. Feroke 5. Nadapuram 6.Naduvannoor 7. Payyoli 8.Perambra 9. Thiruvalloor 10.Villyappalli.",
             "impact": "Administrative infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "registration",
                 "office"
@@ -647,7 +647,7 @@
             "budget": "₹39.42 Crore",
             "description": "Construction of Kuttiyadi Bypass.",
             "impact": "Traffic relief.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bypass",
                 "roads"
@@ -664,7 +664,7 @@
             "budget": "₹74.39 Crore",
             "description": "Construction of Thamarassery Chungam Link Road.",
             "impact": "Road connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -681,7 +681,7 @@
             "budget": "₹2,134.50 Crore",
             "description": "Construction of Anakkampoil Kalladi Meppadi Tunnel road (Connecting Kozhikode and Wayanad).",
             "impact": "Major transport infrastructure improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "tunnel",
                 "roads",
@@ -699,7 +699,7 @@
             "budget": "₹42.30 Crore",
             "description": "Improvements to kallanthodu Koolimaud road Km 0/000 to 7/000.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -716,7 +716,7 @@
             "budget": "₹224.82 Crore",
             "description": "220KV GIS Package - I (Includes Kunnamangalam bay).",
             "impact": "Power infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/ENERGY.png",
+            "image": "ENERGY_sgjgpc",
             "tags": [
                 "power",
                 "substation"
@@ -733,7 +733,7 @@
             "budget": "₹119.18 Crore",
             "description": "Laying distribution lines of Water Supply Schemes - WSS to Koyilandy Municipality Phase II.",
             "impact": "Urban water supply.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "urban"
@@ -750,7 +750,7 @@
             "budget": "₹28.57 Crore",
             "description": "Construction of ROB at Payyoli.",
             "impact": "Railway crossing safety.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "railway"
@@ -767,7 +767,7 @@
             "budget": "₹4.43 Crore",
             "description": "Construction of Coastal highway in Kozhikode District- Beypore Bridge from Madathilpadam to BC Road across River Chaliyar.",
             "impact": "Coastal connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "coastal highway"
@@ -784,7 +784,7 @@
             "budget": "₹34.33 Crore",
             "description": "Construction of Coastal highway from Kolavipalam to Kottakkal kadavu.",
             "impact": "Coastal connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "coastal highway"
@@ -801,7 +801,7 @@
             "budget": "₹41.50 Crore",
             "description": "Improvements to Muttungal - Nadapuram - Pakramthalam road between Km 0/000 to 11/855.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -818,7 +818,7 @@
             "budget": "₹38.96 Crore",
             "description": "Improvements to Kollam Nelliyadi - Meppayur road.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -835,7 +835,7 @@
             "budget": "₹64.47 Crore",
             "description": "Construction of Coastal Highway from Kodikkal to Kolavipalam.",
             "impact": "Coastal connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "coastal highway"
@@ -852,7 +852,7 @@
             "budget": "₹28.39 Crore",
             "description": "Construction of ROB at Nelliyady kadavu (LC No. 204).",
             "impact": "Railway crossing safety.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "railway"
@@ -869,7 +869,7 @@
             "budget": "₹49.77 Crore",
             "description": "Construction of Kunjalimarakkar Bridge sandbanks to Kottakkalkadvu.",
             "impact": "Coastal connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "coastal highway"
@@ -886,7 +886,7 @@
             "budget": "₹21.50 Crore",
             "description": "Construction of Koolimadu Bridge across Chaliyar river.",
             "impact": "Bridge connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -903,7 +903,7 @@
             "budget": "₹23.96 Crore",
             "description": "Construction of Thorayilkadavu Bridge across Akalapuzha.",
             "impact": "Bridge connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -920,7 +920,7 @@
             "budget": "₹30.00 Crore",
             "description": "Construction of Akalapuzha bridge across Akalapuzha river.",
             "impact": "Bridge connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -937,7 +937,7 @@
             "budget": "₹0.00",
             "description": "Construction of Balussery Bustand Block Bypass Road.",
             "impact": "Traffic relief.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bypass",
                 "roads"
@@ -954,7 +954,7 @@
             "budget": "₹16.48 Crore",
             "description": "Construction of Model Residential School at Kozhikode Chakkittappara.",
             "impact": "Educational infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "school"
@@ -971,7 +971,7 @@
             "budget": "₹77.21 Crore",
             "description": "Improvements to Vatakara Villiappally Chelakkad Road between Km 0/000 to 15/984.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -988,7 +988,7 @@
             "budget": "₹45.27 Crore",
             "description": "Improvements of Parappanpoyil Karakunnath Road Km 0/000 To 10/000.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1005,7 +1005,7 @@
             "budget": "₹18.21 Crore",
             "description": "Improvement of Junctions and Bypasses - Feroke IOC Bypass - Beypore.",
             "impact": "Traffic management.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bypass",
                 "roads"
@@ -1022,7 +1022,7 @@
             "budget": "₹51.37 Crore",
             "description": "Improvements to Mannur - Chaliyam Road.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1039,7 +1039,7 @@
             "budget": "₹29.28 Crore",
             "description": "Construction of ROB at Azhiyur (LC No. 218).",
             "impact": "Railway crossing safety.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "railway"
@@ -1056,7 +1056,7 @@
             "budget": "₹36.84 Crore",
             "description": "Construction of ROB at Temple Road (LC NO. 189).",
             "impact": "Railway crossing safety.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "railway"
@@ -1073,7 +1073,7 @@
             "budget": "₹155.45 Crore",
             "description": "Improvements to Puthiyangadi - Mavilkadavu - Krishnan Nair road.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1090,7 +1090,7 @@
             "budget": "₹11.96 Crore",
             "description": "Feroke Petta Junction improvements.",
             "impact": "Junction improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "junction"
@@ -1107,7 +1107,7 @@
             "budget": "₹20.00 Crore",
             "description": "Improvements to Karaparamba - Thadampattuthazham- Paroppodi road KM 1/600 to 5/300.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1124,7 +1124,7 @@
             "budget": "₹8.35 Crore",
             "description": "Centre of Excellence in Kerala School of Mathematics.",
             "impact": "Academic excellence.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "mathematics",
@@ -1142,7 +1142,7 @@
             "budget": "₹29.59 Crore",
             "description": "Improvements to Thottilpalam Kunduthode road from km 0/00 to 6/200.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1159,7 +1159,7 @@
             "budget": "₹52.79 Crore",
             "description": "Improvements to Kulangarath Nambithankund Valook Vilangad road KM 0/000 to 21/000.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1176,7 +1176,7 @@
             "budget": "₹19.60 Crore",
             "description": "Municipal Office Building for Feroke Municipality (Shared project).",
             "impact": "Civic infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "building",
                 "municipality"
@@ -1193,7 +1193,7 @@
             "budget": "₹26.00 Crore",
             "description": "Improvements to Ramanattukara Water Supply Scheme.",
             "impact": "Water supply improvement.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "water supply",
                 "urban"
@@ -1210,7 +1210,7 @@
             "budget": "₹15.48 Crore",
             "description": "Municipality Office Building for Ramanattukara Municipality.",
             "impact": "Civic infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "building",
                 "municipality"
@@ -1227,7 +1227,7 @@
             "budget": "₹8.66 Crore",
             "description": "Urban Rejuvenation and Beautification Scheme - Kozhikkode City.",
             "impact": "City aesthetics.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "urban",
                 "beautification"
@@ -1244,7 +1244,7 @@
             "budget": "₹9.29 Crore",
             "description": "Hill Highway - Construction of Chavaramuzhi Bridge.",
             "impact": "Bridge connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "hill highway"
@@ -1261,7 +1261,7 @@
             "budget": "₹95.09 Crore",
             "description": "Development of General Hospital, Kozhikode.",
             "impact": "Healthcare infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital"
@@ -1278,7 +1278,7 @@
             "budget": "₹37.83 Crore",
             "description": "Construction of ROB at Chungam Gate (LC No. 190).",
             "impact": "Railway crossing safety.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "railway"
@@ -1295,7 +1295,7 @@
             "budget": "₹54.02 Crore",
             "description": "Koduvally Siraj Flyover.",
             "impact": "Traffic management.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "flyover",
                 "transport"
@@ -1312,7 +1312,7 @@
             "budget": "₹24.40 Crore",
             "description": "Improvements to Perambra - Cheruvannur - Vatakara road between Km 0/000 to 9/800.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1329,7 +1329,7 @@
             "budget": "₹12.70 Crore",
             "description": "Improvements to Kuttoth-Attakkundukadavu road Km 0/000 to 11/695.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1346,7 +1346,7 @@
             "budget": "₹11.50 Crore",
             "description": "Improvements to Beypore - Cheruvannur road.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1363,7 +1363,7 @@
             "budget": "₹59.01 Crore",
             "description": "Construction of Valiyapalam Bridge at Puthiyapalam across Canoli Canal.",
             "impact": "Bridge connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -1380,7 +1380,7 @@
             "budget": "₹0.61 Crore",
             "description": "Coastal Highway Reach 1 - Puthiyanirathu Beach to Korappuzha.",
             "impact": "Coastal connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "coastal highway"
@@ -1397,7 +1397,7 @@
             "budget": "₹21.38 Crore",
             "description": "Modernization of Market in Vatakara Municipality (DPR).",
             "impact": "Market infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "market",
                 "urban"
@@ -1414,7 +1414,7 @@
             "budget": "₹9.90 Crore",
             "description": "Volleyball Academy, Naduvannoor.",
             "impact": "Sports development.",
-            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
+            "image": "SPORTS_pbz6cc",
             "tags": [
                 "sports",
                 "academy"
@@ -1431,7 +1431,7 @@
             "budget": "₹5.00 Crore",
             "description": "Construction of Punoor Town Bridge.",
             "impact": "Bridge connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "transport"
@@ -1448,7 +1448,7 @@
             "budget": "₹28.85 Crore",
             "description": "Re-Construction of Elathur - Korapuzha Bridge On NH-66 Old NH-17.",
             "impact": "Highway bridge improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "bridge",
                 "highway"
@@ -1465,7 +1465,7 @@
             "budget": "₹45.34 Crore",
             "description": "Hill Highway Kunhome Niravilpuzha Thottilpalam (Stretch 2).",
             "impact": "Hill highway connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "hill highway"
@@ -1482,7 +1482,7 @@
             "budget": "₹82.36 Crore",
             "description": "Improvements to Puthiyangadi-Purakkattiri-Andikkode-Atholi-Ulliyeri road.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1499,7 +1499,7 @@
             "budget": "₹38.40 Crore",
             "description": "Improvements to Thottilpalam Thalayad road - \"Mullankunnu to Peruvannamuzhi\"-Stretch : III.",
             "impact": "Hill highway connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "hill highway"
@@ -1516,7 +1516,7 @@
             "budget": "₹11.77 Crore",
             "description": "Construction of Coastal Highway from Korapuzha to Koyilandy Harbour.",
             "impact": "Coastal connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "coastal highway"
@@ -1533,7 +1533,7 @@
             "budget": "₹40.57 Crore",
             "description": "Improvements to Thamarasserry Varattiakkal road.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1550,7 +1550,7 @@
             "budget": "₹3.55 Crore",
             "description": "Construction of Coastal Highway from Muthayam to Kodikkal.",
             "impact": "Coastal connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "coastal highway"
@@ -1567,7 +1567,7 @@
             "budget": "₹42.00 Crore",
             "description": "Payyoli Perambra road between Km 0/000 & 18/105.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1584,7 +1584,7 @@
             "budget": "₹21.00 Crore",
             "description": "Improvements to Easthill - Ganapathikavu - Karaparamba road.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1601,7 +1601,7 @@
             "budget": "₹152.81 Crore",
             "description": "Improvements to Kozhikode Balusserry road.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1618,7 +1618,7 @@
             "budget": "₹2.00 Crore",
             "description": "Construction of Coastal Highway from Puthiyappa Harbour to Puthiya nirath.",
             "impact": "Coastal connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "coastal highway"
@@ -1635,7 +1635,7 @@
             "budget": "₹82.49 Crore",
             "description": "Improvements to Thottilpalam Thalayad Road - Peruvannamuzhi to 28th Mile Junction (Phase II).",
             "impact": "Hill highway connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "hill highway"
@@ -1652,7 +1652,7 @@
             "budget": "₹38.47 Crore",
             "description": "Hill Highway Kunhome - Niravilpuzha - Thottilpalam (Stretch 1).",
             "impact": "Hill highway connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "hill highway"
@@ -1669,7 +1669,7 @@
             "budget": "₹26.42 Crore",
             "description": "Construction of Revenue Tower at Vadakara.",
             "impact": "Government office infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "building",
                 "revenue",
@@ -1687,7 +1687,7 @@
             "budget": "₹35.00 Crore",
             "description": "Land acquisition for Proposed Vaikkom Muhammad Basheer Cultural Complex.",
             "impact": "Cultural centre.",
-            "image": "/src/assets/images/CATEGORIES/CULTURE.png",
+            "image": "CULTURE_vqtyfl",
             "tags": [
                 "culture",
                 "infrastructure"
@@ -1704,7 +1704,7 @@
             "budget": "₹54.69 Crore",
             "description": "Construction of Isolation Ward in GMC Kozhikode.",
             "impact": "Healthcare facility.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital",
@@ -1722,7 +1722,7 @@
             "budget": "₹0.00",
             "description": "Construction of Dermatology Hospital and its allied facilities at Chevayur.",
             "impact": "Specialized healthcare.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "hospital"
@@ -1739,7 +1739,7 @@
             "budget": "₹0.00",
             "description": "Improvement of Palayam Pushpa Junction.",
             "impact": "Urban traffic management.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "junction"
@@ -1756,7 +1756,7 @@
             "budget": "₹0.00",
             "description": "Setting up of Three Star Hotel Complex in the SIHMS Campus, Kozhikode.",
             "impact": "Tourism infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/TOURISM.png",
+            "image": "TOURISM_xfsbzi",
             "tags": [
                 "tourism",
                 "hotel",
@@ -1774,7 +1774,7 @@
             "budget": "₹0.00",
             "description": "Construction of Coastal Highway in Kozhikode district Vengalam Poyilkavu - Koyilandy Fishing Harbour.",
             "impact": "Coastal connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "coastal highway"
@@ -1791,7 +1791,7 @@
             "budget": "₹0.00",
             "description": "KIIFB Coastal Highway - Francis Road Junction Road to Puthiyappa.",
             "impact": "Coastal connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "coastal highway"
@@ -1808,7 +1808,7 @@
             "budget": "₹0.00",
             "description": "Construction of Coastal Highway in Kozhikode district Kadalundy - Chaliyam - Karuvanthuruthy.",
             "impact": "Coastal connectivity.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "coastal highway"
@@ -1825,7 +1825,7 @@
             "budget": "₹0.00",
             "description": "Improvements to Mathara - Palazhi - Kuttikattur Road.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1842,7 +1842,7 @@
             "budget": "₹0.00",
             "description": "Improvements to Kayappanachi - Kunnnumchira - Edacheri (puthiyangadi) road.",
             "impact": "Road improvement.",
-            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "image": "TRANSPORT_ykgb8m",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1859,7 +1859,7 @@
             "budget": "₹0.00",
             "description": "Coconut Agro Park, Vengeri.",
             "impact": "Agricultural industry.",
-            "image": "/src/assets/images/CATEGORIES/AGRICULTURE.png",
+            "image": "AGRICULTURE_nnbtsr",
             "tags": [
                 "agriculture",
                 "park",
@@ -1877,7 +1877,7 @@
             "budget": "₹0.00",
             "description": "COCONUT AGRO PARK at KOOTHALI.",
             "impact": "Agricultural industry.",
-            "image": "/src/assets/images/CATEGORIES/AGRICULTURE.png",
+            "image": "AGRICULTURE_nnbtsr",
             "tags": [
                 "agriculture",
                 "park",
@@ -1895,7 +1895,7 @@
             "budget": "₹0.00",
             "description": "CONSTRUCTION FOR ESTABLISHMENT OF INSTITUTE FOR ORGAN AND TISSUE TRANSPLANT CHEVAYUR.",
             "impact": "Specialized medical facility.",
-            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "image": "HEALTH_wjgt4i",
             "tags": [
                 "health",
                 "institute"
@@ -1912,7 +1912,7 @@
             "budget": "₹0.00",
             "description": "Kozhikode Canal City project.",
             "impact": "Urban water infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "image": "INFRASTRUCTURE_n6hyvp",
             "tags": [
                 "canal",
                 "urban",
@@ -1930,7 +1930,7 @@
             "budget": "₹15.77 Crore",
             "description": "Infrastructure upgradation of schools in Kozhikode Cluster 1.",
             "impact": "School infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "schools"
@@ -1947,7 +1947,7 @@
             "budget": "₹19.86 Crore",
             "description": "Infrastructure upgradation of schools in Kozhikode Cluster 2.",
             "impact": "School infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "schools"
@@ -1964,7 +1964,7 @@
             "budget": "₹12.73 Crore",
             "description": "Infrastructure upgradation of schools in Kozhikode Cluster 15.",
             "impact": "School infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "schools"
@@ -1981,7 +1981,7 @@
             "budget": "₹13.94 Crore",
             "description": "Infrastructure upgradation of schools in Kozhikode Cluster 16.",
             "impact": "School infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "schools"
@@ -1998,7 +1998,7 @@
             "budget": "₹12.00 Crore",
             "description": "Infrastructure upgradation of schools in Kozhikode Phase-3 Cluster 2.",
             "impact": "School infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "schools"
@@ -2015,7 +2015,7 @@
             "budget": "₹11.16 Crore",
             "description": "Infrastructure upgradation of schools in Kozhikode Phase-3 Cluster 3.",
             "impact": "School infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "schools"
@@ -2032,7 +2032,7 @@
             "budget": "₹18.00 Crore",
             "description": "Infrastructure upgradation of schools in Kozhikode Phase-3 Cluster 1.",
             "impact": "School infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "schools"
@@ -2049,7 +2049,7 @@
             "budget": "₹13.67 Crore",
             "description": "Infrastructure upgradation of schools in Kozhikode Cluster Phase 7.",
             "impact": "School infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "schools"
@@ -2066,7 +2066,7 @@
             "budget": "₹0.00",
             "description": "Infrastructure upgradation of schools in Kozhikode Cluster (Generic entry).",
             "impact": "School infrastructure.",
-            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "image": "EDUCATION_kmkpl3",
             "tags": [
                 "education",
                 "schools"

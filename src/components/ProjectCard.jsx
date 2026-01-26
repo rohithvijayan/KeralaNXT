@@ -1,3 +1,4 @@
+import CldImage from './CldImage'
 import './ProjectCard.css'
 
 function ProjectCard({ project, size = 'large', onClick }) {
@@ -23,9 +24,12 @@ function ProjectCard({ project, size = 'large', onClick }) {
         return (
             <div className="project-card-small" onClick={onClick}>
                 <div className="project-card-small-image">
-                    <div
+                    <CldImage
+                        src={project.image}
+                        alt={project.title}
                         className="project-card-small-bg"
-                        style={{ backgroundImage: `url(${project.image})` }}
+                        width={400}
+                        height={225}
                     />
                     <div className="project-card-small-overlay" />
                     <span className={`project-card-badge ${status.className}`}>
@@ -43,9 +47,12 @@ function ProjectCard({ project, size = 'large', onClick }) {
     return (
         <article className="project-card" onClick={onClick}>
             <div className="project-card-image">
-                <div
+                <CldImage
+                    src={project.image}
+                    alt={project.title}
                     className="project-card-bg"
-                    style={{ backgroundImage: `url(${project.image})` }}
+                    width={800}
+                    height={450}
                 />
                 <div className="project-card-gradient" />
                 <span className={`project-card-badge ${status.className}`}>
