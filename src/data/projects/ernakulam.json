@@ -11,7 +11,7 @@
             "budget": "₹76.26 Crore",
             "description": "Construction of Hill Highway stretch connecting Chettinada, Panamkuzhy Junction, Payyal, and Cheranganal in Ernakulam District.",
             "impact": "Improves connectivity in the high ranges of the district.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "hill highway",
@@ -29,7 +29,7 @@
             "budget": "₹16.09 Crore",
             "description": "Construction of a modern abattoir in Kalloor to ensure hygienic meat production and waste management.",
             "impact": "Improves public health and sanitation standards.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "abattoir",
                 "public health",
@@ -47,7 +47,7 @@
             "budget": "₹10.40 Crore",
             "description": "Construction of the Nayarambalam Herbert bridge in Vypin constituency.",
             "impact": "Enhances connectivity in the coastal Vypin area.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "transport",
@@ -65,7 +65,7 @@
             "budget": "₹372.73 Crore",
             "description": "Comprehensive power transmission lines package for Kochi to upgrade the electrical grid infrastructure.",
             "impact": "Ensures reliable power supply for the metro city.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/ENERGY.png",
             "tags": [
                 "power",
                 "energy",
@@ -83,7 +83,7 @@
             "budget": "₹141.54 Crore",
             "description": "Establishment of Air Insulated Substations (AIS) as part of the power transmission upgrade in the district.",
             "impact": "Strengthens power distribution network.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/ENERGY.png",
             "tags": [
                 "power",
                 "substation",
@@ -101,7 +101,7 @@
             "budget": "₹450.00 Crore",
             "description": "Widening and four-laning of the road from SN Junction to Poothotta.",
             "impact": "Reduces traffic congestion on a major arterial route.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "four laning",
@@ -119,7 +119,7 @@
             "budget": "₹22.09 Crore",
             "description": "Road improvement works from Km 11/300 to 19/000 in Kothamangalam.",
             "impact": "Better connectivity for rural and high-range areas.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -136,7 +136,7 @@
             "budget": "₹16.36 Crore",
             "description": "Upgradation of infrastructure in various colleges under the Ernakulam cluster.",
             "impact": "Improved educational facilities.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "college",
@@ -154,7 +154,7 @@
             "budget": "₹22.66 Crore",
             "description": "Improvement works for the road stretch from Km 0/000 to 16/653.",
             "impact": "Enhanced road quality and safety.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -171,7 +171,7 @@
             "budget": "₹653.06 Crore",
             "description": "Major improvements to the Aluva - Munnar road (0/000 to 35/226) and bypass road (0/000-3/065).",
             "impact": "Critical upgrade for tourism and freight connectivity to Munnar.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "tourism",
@@ -189,7 +189,7 @@
             "budget": "₹32.63 Crore",
             "description": "Infrastructure improvements for the Manackakadavu - Kizhakkambalam - Pattimattom road.",
             "impact": "Better connectivity for suburban areas.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -206,7 +206,7 @@
             "budget": "₹97.45 Crore",
             "description": "Construction of a bridge connecting Kumbalam and Thevara, easing access to Kochi city.",
             "impact": "Reduces travel time and decongests existing routes.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "urban transport",
@@ -224,7 +224,7 @@
             "budget": "₹45.60 Crore",
             "description": "Development of Muvattupuzha town portion road (Ch 0/000 to 1/850) from Post Office Junction to Petta Road.",
             "impact": "Urban renewal and traffic management in Muvattupuzha.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "urban",
@@ -242,7 +242,7 @@
             "budget": "₹21.65 Crore",
             "description": "Strengthening of water supply distribution network in Varappuzha Panchayath.",
             "impact": "Improved potable water access.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water supply",
                 "infrastructure"
@@ -259,7 +259,7 @@
             "budget": "₹12.00 Crore",
             "description": "Strengthening of water supply distribution network in Kadamakudy Panchayath.",
             "impact": "Ensures water security for the island panchayat.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water supply",
                 "infrastructure"
@@ -276,7 +276,7 @@
             "budget": "₹29.68 Crore",
             "description": "Development and upgradation of facilities at Government Maharaja’s Taluk Hospital in Kochi.",
             "impact": "Enhanced healthcare services for West Kochi.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
             "tags": [
                 "health",
                 "hospital",
@@ -294,7 +294,7 @@
             "budget": "₹6.01 Crore",
             "description": "Infrastructure development for colleges in the Ernakulam cluster.",
             "impact": "Better academic infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "college"
@@ -311,7 +311,7 @@
             "budget": "₹26.51 Crore",
             "description": "Road improvements from Ch 0/000 to 11/500.",
             "impact": "Improved road connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -328,7 +328,7 @@
             "budget": "₹65.57 Crore",
             "description": "Improvements to Hill Highway stretch from Cheranganal to Neriamangalam (Ch 0/000 to 32/800).",
             "impact": "Boosts high-range connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "hill highway",
@@ -346,7 +346,7 @@
             "budget": "₹25.76 Crore",
             "description": "Construction of a regulator with lock across Konothupuzha River at Puthenkavu.",
             "impact": "Salinity control and water management.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water resources",
                 "regulator",
@@ -364,7 +364,7 @@
             "budget": "₹275.52 Crore",
             "description": "Construction of a bypass road connecting Angamaly to Kochi International Airport.",
             "impact": "Improves airport connectivity and reduces traffic congestion.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "bypass",
@@ -382,7 +382,7 @@
             "budget": "₹81.10 Crore",
             "description": "Improvement works to Thadiyittaparambu - Vallamkadavu Road in Aluva LAC.",
             "impact": "Improved local road infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -399,7 +399,7 @@
             "budget": "₹301.72 Crore",
             "description": "Construction of a bypass for Perumbavoor town.",
             "impact": "Decongestion of Perumbavoor town traffic.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bypass",
                 "roads",
@@ -417,7 +417,7 @@
             "budget": "₹262.75 Crore",
             "description": "Improvement works for the Perumbavoor - Aluva road corridor.",
             "impact": "Enhances connectivity between two major towns.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -434,7 +434,7 @@
             "budget": "₹48.53 Crore",
             "description": "Augmentation of Water Supply Scheme to Karumallur and Kunnukara Panchayaths.",
             "impact": "Increases drinking water availability.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water supply",
                 "infrastructure"
@@ -451,7 +451,7 @@
             "budget": "₹362.65 Crore",
             "description": "Reformation of sunken sea wall and construction of groyne fields at Chellanam to prevent coastal erosion.",
             "impact": "Critical coastal protection for Chellanam village.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "coastal protection",
                 "infrastructure",
@@ -469,7 +469,7 @@
             "budget": "₹120.24 Crore",
             "description": "Construction of Muvattupuzha Town Bypass road (Murikallu Bypass Road).",
             "impact": "Traffic relief for Muvattupuzha town.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bypass",
                 "roads"
@@ -486,7 +486,7 @@
             "budget": "₹12.36 Crore",
             "description": "Infrastructure development and equipment procurement for Taluk Hospital Kothamangalam.",
             "impact": "Enhanced healthcare facilities.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
             "tags": [
                 "health",
                 "hospital",
@@ -504,7 +504,7 @@
             "budget": "₹89.77 Crore",
             "description": "Construction of the Atlantis Railway Over Bridge.",
             "impact": "Improves connectivity across railway lines in Kochi.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "railway",
@@ -522,7 +522,7 @@
             "budget": "₹53.71 Crore",
             "description": "Construction of Purayar Railway Over Bridge.",
             "impact": "Eliminates level crossing delays.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "railway",
@@ -540,7 +540,7 @@
             "budget": "₹224.82 Crore",
             "description": "Gas Insulated Substation package covering Aluva, Kaloor, Kunnamangalam, and Brahmapuram bays.",
             "impact": "Modernizes power transmission infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/ENERGY.png",
             "tags": [
                 "power",
                 "substation",
@@ -558,7 +558,7 @@
             "budget": "₹11.81 Crore",
             "description": "Road improvement works on the Mamala - Piravom stretch.",
             "impact": "Better road connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -575,7 +575,7 @@
             "budget": "₹722.05 Crore",
             "description": "Construction and widening of the Airport Seaport Road stretch from Kalamassery to Aluva.",
             "impact": "Major freight and passenger corridor improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure",
@@ -593,7 +593,7 @@
             "budget": "₹22.34 Crore",
             "description": "Setting up of a modern cinema theater complex in Kakkanad.",
             "impact": "Cultural and entertainment infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/CULTURE.png",
             "tags": [
                 "culture",
                 "cinema",
@@ -611,7 +611,7 @@
             "budget": "₹44.85 Crore",
             "description": "Phase 2 of school infrastructure upgradation in Ernakulam cluster.",
             "impact": "Improved school facilities.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -628,7 +628,7 @@
             "budget": "₹200.60 Crore",
             "description": "Acquisition of land from Hindustan Newsprint Ltd and development of an industrial park.",
             "impact": "Industrial growth and job creation.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INDUSTRY.png",
             "tags": [
                 "industry",
                 "land acquisition",
@@ -646,7 +646,7 @@
             "budget": "₹43.88 Crore",
             "description": "Construction of a bridge connecting Kadamakkudy and Pizhala islands.",
             "impact": "Critical connectivity for islanders.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "transport",
@@ -664,7 +664,7 @@
             "budget": "₹99.48 Crore",
             "description": "Establishment of an International Center of Excellence for academics and research.",
             "impact": "Promotes high-quality research and education.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "research",
@@ -682,7 +682,7 @@
             "budget": "₹47.26 Crore",
             "description": "Construction of a bridge at the Keltron Ferry point in Kumbalangi.",
             "impact": "Improves local transport.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "transport"
@@ -699,7 +699,7 @@
             "budget": "₹115.93 Crore",
             "description": "Augmentation of the Water Supply Scheme for Angamaly constituency.",
             "impact": "Ensures water security for the region.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water supply",
                 "infrastructure"
@@ -716,7 +716,7 @@
             "budget": "₹44.22 Crore",
             "description": "Construction of an indoor stadium in Muvattupuzha named after Olympian Chandrasekharan.",
             "impact": "Sports development.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
             "tags": [
                 "sports",
                 "stadium",
@@ -734,7 +734,7 @@
             "budget": "₹26.28 Crore",
             "description": "Establishment of a Translational Research Centre at Cochin University of Science and Technology.",
             "impact": "Research innovation.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "research",
@@ -752,7 +752,7 @@
             "budget": "₹14.61 Crore",
             "description": "Activation and beautification of the Chilavannur canal front.",
             "impact": "Urban renewal and tourism.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "canal",
                 "urban development",
@@ -770,7 +770,7 @@
             "budget": "₹341.97 Crore",
             "description": "Comprehensive sewerage project for Elamkulam area.",
             "impact": "Sanitation improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "sewerage",
                 "sanitation",
@@ -788,7 +788,7 @@
             "budget": "₹465.68 Crore",
             "description": "Sewerage network development for Vennala.",
             "impact": "Sanitation improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "sewerage",
                 "sanitation"
@@ -805,7 +805,7 @@
             "budget": "₹91.90 Crore",
             "description": "Construction of a Railway Over Bridge in lieu of LC No. 69 A at Vaduthala.",
             "impact": "Traffic ease at railway crossing.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "railway",
@@ -823,7 +823,7 @@
             "budget": "₹4.51 Crore",
             "description": "Reconstruction of the bridge on Subash Chandra Bose Road across Chilavannur canal.",
             "impact": "Bridge safety and connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "transport"
@@ -840,7 +840,7 @@
             "budget": "₹312.03 Crore",
             "description": "Sewerage project for Muttar area.",
             "impact": "Improved sanitation.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "sewerage",
                 "sanitation"
@@ -857,7 +857,7 @@
             "budget": "₹3.92 Crore",
             "description": "Construction of a Pre-Metric Hostel for 100 boys at Pinavoorkudi.",
             "impact": "Support for students from marginalized communities.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/social.jpg",
             "tags": [
                 "hostel",
                 "social welfare",
@@ -875,7 +875,7 @@
             "budget": "₹36.85 Crore",
             "description": "Construction of International Students Hostel & Girls Hostel at CUSAT.",
             "impact": "Student accommodation facilities.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "hostel",
@@ -893,7 +893,7 @@
             "budget": "₹28.82 Crore",
             "description": "Water Supply Scheme for Paingotoor Panchayath.",
             "impact": "Drinking water supply.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water supply",
                 "rural"
@@ -910,7 +910,7 @@
             "budget": "₹17.71 Crore",
             "description": "Replacement of transmission mains in Moovattupuzha PH Circle.",
             "impact": "Water supply efficiency.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water supply",
                 "maintenance"
@@ -927,7 +927,7 @@
             "budget": "₹11.05 Crore",
             "description": "Improvement works to Anthakarathodu in Thripunithura Municipality.",
             "impact": "Drainage and water flow improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water resources",
                 "urban"
@@ -944,7 +944,7 @@
             "budget": "₹10.53 Crore",
             "description": "Development of Kundannur Junction.",
             "impact": "Traffic management.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "junction"
@@ -961,7 +961,7 @@
             "budget": "₹206.06 Crore",
             "description": "Sewerage project for Perandoor area.",
             "impact": "Sanitation.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "sewerage",
                 "sanitation"
@@ -978,7 +978,7 @@
             "budget": "₹39.07 Crore",
             "description": "Construction of Chilavannur Bund Road Bridge.",
             "impact": "Connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "transport"
@@ -995,7 +995,7 @@
             "budget": "₹17.43 Crore",
             "description": "Construction of Municipal Building for Koothatukulam Municipality (shared project with Pattambi, cost split or total).",
             "impact": "Civic infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "building",
                 "municipality"
@@ -1012,7 +1012,7 @@
             "budget": "₹29.77 Crore",
             "description": "Restoration/development of Market Canal.",
             "impact": "Urban water body rejuvenation.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "canal",
                 "urban"
@@ -1029,7 +1029,7 @@
             "budget": "₹12.26 Crore",
             "description": "Urban rejuvenation and beautification scheme for Kochi City.",
             "impact": "City aesthetics and amenities.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "urban",
                 "beautification"
@@ -1046,7 +1046,7 @@
             "budget": "₹20.00 Crore",
             "description": "Phase 3 of the Ernakulam school cluster development.",
             "impact": "School infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -1063,7 +1063,7 @@
             "budget": "₹332.56 Crore",
             "description": "Construction of New Block, Staff Quarters, Allied Infrastructure (286.66 Cr) and procurement of equipment (45.90 Cr) for Medical College Kochi.",
             "impact": "Major expansion of medical college facilities.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
             "tags": [
                 "health",
                 "hospital",
@@ -1081,7 +1081,7 @@
             "budget": "₹106.13 Crore",
             "description": "Slum removal and rehabilitation project.",
             "impact": "Housing for the urban poor.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/housing.jpg",
             "tags": [
                 "housing",
                 "slum",
@@ -1099,7 +1099,7 @@
             "budget": "₹449.53 Crore",
             "description": "Setting up of Hospital complex (384.34 Cr) and procurement of equipment (65.19 Cr) for Cochin Cancer Research Centre.",
             "impact": "Specialized cancer care facility.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
             "tags": [
                 "health",
                 "cancer care",
@@ -1117,7 +1117,7 @@
             "budget": "₹213.18 Crore",
             "description": "Construction of Hill Highway stretches: Vettilappara-Chettinada (105.02 Cr), Illithode-Chettinada (32.09 Cr), Eucaly Junction-Illithode (34.84 Cr), Vettilappara-Kappela (41.23 Cr).",
             "impact": "Hill highway connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "hill highway"
@@ -1134,7 +1134,7 @@
             "budget": "₹76.50 Crore",
             "description": "Construction of Super Specialty Block & Infrastructure and service Up-gradation at GH Ernakulam.",
             "impact": "Advanced healthcare services.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
             "tags": [
                 "health",
                 "hospital",
@@ -1152,7 +1152,7 @@
             "budget": "₹566.51 Crore",
             "description": "Urban Regeneration and Integrated Water Transport System in Cochin LA (Kochi Water Metro).",
             "impact": "Sustainable urban water transport network.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "transport",
                 "water metro",
@@ -1170,7 +1170,7 @@
             "budget": "₹82.74 Crore",
             "description": "Construction of a flyover at Kundannoor junction.",
             "impact": "Decongestion of NH bypass.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "flyover",
                 "transport"
@@ -1187,7 +1187,7 @@
             "budget": "₹19.50 Crore",
             "description": "Augmentation of infrastructural facilities at Maharaja's College Ernakulam.",
             "impact": "Higher education infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "college"
@@ -1204,7 +1204,7 @@
             "budget": "₹238.67 Crore",
             "description": "Construction of Coastal Highway Reach 2 - Fort Vypin to Munambam.",
             "impact": "Coastal connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "coastal highway"
@@ -1221,7 +1221,7 @@
             "budget": "₹12.87 Crore",
             "description": "Modernization of market in Kalady Grama Panchayat.",
             "impact": "Improved market facilities.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "market",
                 "infrastructure"
@@ -1238,7 +1238,7 @@
             "budget": "₹251.13 Crore",
             "description": "Construction of 3.4 Lakh sq.ft Buildings at Kochi Innovation Zone.",
             "impact": "Boosts startup ecosystem and IT infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/IT.png",
             "tags": [
                 "IT",
                 "infrastructure",
@@ -1256,7 +1256,7 @@
             "budget": "₹21.38 Crore",
             "description": "DPR for Modernization of Market in Aluva Municipality.",
             "impact": "Improved market facilities.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "market",
                 "infrastructure"
@@ -1273,7 +1273,7 @@
             "budget": "₹86.34 Crore",
             "description": "Construction of six lane flyover at Vyttila Junction.",
             "impact": "Decongestion of the busiest junction in Kerala.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "flyover",
                 "transport"
@@ -1290,7 +1290,7 @@
             "budget": "₹184.60 Crore",
             "description": "Construction of Coastal Highway Reach 1 - South Chellanam to Fort Kochi (19 km).",
             "impact": "Coastal connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "coastal highway"
@@ -1307,7 +1307,7 @@
             "budget": "₹450.33 Crore",
             "description": "Improvements and Developments to Muvattupuzha - Koothattukulam Road.",
             "impact": "Road infrastructure upgrade.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1324,7 +1324,7 @@
             "budget": "₹977.47 Crore",
             "description": "Land acquisition for Petrochemical Park.",
             "impact": "Industrial development.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INDUSTRY.png",
             "tags": [
                 "industry",
                 "land acquisition"
@@ -1341,7 +1341,7 @@
             "budget": "₹93.90 Crore",
             "description": "Improvements of Thammanam-Pullepady Road.",
             "impact": "Urban road improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1358,7 +1358,7 @@
             "budget": "₹840.00 Crore",
             "description": "Development of Global CITY as part of Kochi-Bengaluru Industrial Corridor (KBIC) - Land Acquisition.",
             "impact": "Industrial and urban development.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INDUSTRY.png",
             "tags": [
                 "industry",
                 "KBIC",
@@ -1376,7 +1376,7 @@
             "budget": "₹19.56 Crore",
             "description": "Development of Government Polytechnic College at Perumbavoor (project shared with Vandiperiyar).",
             "impact": "Technical education infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "polytechnic"
@@ -1393,7 +1393,7 @@
             "budget": "₹17.15 Crore",
             "description": "Construction of Stadium at Chelad, Kothamangalam.",
             "impact": "Sports infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
             "tags": [
                 "sports",
                 "stadium"
@@ -1410,7 +1410,7 @@
             "budget": "₹11.36 Crore",
             "description": "Construction of Mattupuram Chennamangalam Bridge in North Paravur Constituency.",
             "impact": "Transport connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "transport"
@@ -1427,7 +1427,7 @@
             "budget": "₹10.43 Crore",
             "description": "Reconstruction of 5 road bridges across Edapally Canal.",
             "impact": "Urban mobility.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "urban transport"
@@ -1444,7 +1444,7 @@
             "budget": "₹1,374.00 Crore",
             "description": "Land acquisition for the Kochi-Bengaluru Industrial Corridor Project.",
             "impact": "Major industrial development corridor.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INDUSTRY.png",
             "tags": [
                 "industry",
                 "corridor",
@@ -1462,7 +1462,7 @@
             "budget": "₹94.18 Crore",
             "description": "Construction of Road from National Highway Vayalar Junction to Pallippuram Infopark including a bridge across Vayalar Kayal.",
             "impact": "Connectivity to IT park.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "IT",

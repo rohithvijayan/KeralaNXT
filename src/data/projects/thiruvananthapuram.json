@@ -1,719 +1,719 @@
 {
-  "projects": [
-    {
-      "id": "proj-001",
-      "districtId": "thiruvananthapuram",
-      "title": "Vizhinjam International Deepwater Multipurpose Seaport",
-      "shortTitle": "Vizhinjam Seaport",
-      "category": "infrastructure",
-      "status": "ongoing",
-      "year": 2015,
-      "budget": "₹7,700 Crore (approx)",
-      "description": "India's first deep-water container transshipment hub located in Thiruvananthapuram. Designed to accommodate mother vessels and reduce dependency on foreign ports for transshipment. Identified as a priority project under Maritime India Vision 2030.",
-      "impact": "Expected to revolutionize India's maritime landscape, attract ₹25,000 crore investment in the region, and create a commercial corridor.",
-      "image": null,
-      "tags": [
-        "port",
-        "maritime",
-        "transshipment",
-        "logistics"
-      ]
-    },
-    {
-      "id": "proj-002",
-      "districtId": "thiruvananthapuram",
-      "title": "Smart City Thiruvananthapuram",
-      "shortTitle": "Smart City TVM",
-      "category": "infrastructure",
-      "status": "ongoing",
-      "year": 2017,
-      "budget": "₹1,135 Crore",
-      "description": "Comprehensive urban development project under the Smart Cities Mission. Includes 79 projects such as Integrated Command and Control Centre (IC4), smart roads, multi-level car parking, water management, and e-governance solutions.",
-      "impact": "Improved urban infrastructure, traffic management, and civic services.",
-      "image": null,
-      "tags": [
-        "urban development",
-        "smart city",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "proj-003",
-      "districtId": "thiruvananthapuram",
-      "title": "Digital Science Park",
-      "shortTitle": "Digital Science Park",
-      "category": "IT",
-      "status": "planned",
-      "year": 2023,
-      "budget": "₹1,515 Crore",
-      "description": "India's first third-generation digital science park located at Technopark Phase IV (Technocity). Focuses on AI, robotics, electronics, and other deep-tech domains. Features a 'triple helix' model integrating universities, industry, and government.",
-      "impact": "Expected to position Kerala as a knowledge economy hub and attract multinational partnerships.",
-      "image": null,
-      "tags": [
-        "science",
-        "technology",
-        "IT",
-        "innovation"
-      ]
-    },
-    {
-      "id": "proj-004",
-      "districtId": "thiruvananthapuram",
-      "title": "Technocity (Technopark Phase IV)",
-      "shortTitle": "Technocity",
-      "category": "IT",
-      "status": "ongoing",
-      "year": 2016,
-      "budget": null,
-      "description": "A 390-acre integrated IT township in Pallipuram. Houses the Digital Science Park, Kerala University of Digital Sciences (Digital University), TCS Aerospace Hub, and Suntec campus.",
-      "impact": "Expands the IT corridor from Kazhakootam, creating a major hub for emerging technologies.",
-      "image": null,
-      "tags": [
-        "IT park",
-        "infrastructure",
-        "employment"
-      ]
-    },
-    {
-      "id": "proj-005",
-      "districtId": "thiruvananthapuram",
-      "title": "Thiruvananthapuram International Airport Expansion (Project Anantha)",
-      "shortTitle": "Airport Expansion",
-      "category": "transport",
-      "status": "ongoing",
-      "year": 2024,
-      "budget": "₹1,300 Crore",
-      "description": "Major expansion plan to increase the airport area from 45,000 sq m to 165,000 sq m and passenger capacity to 12 million annually.",
-      "impact": "Enhanced air connectivity and passenger handling capacity.",
-      "image": null,
-      "tags": [
-        "aviation",
-        "transport",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "proj-006",
-      "districtId": "thiruvananthapuram",
-      "title": "Capital City Region Development Programme (Outer Ring Road)",
-      "shortTitle": "Outer Ring Road",
-      "category": "infrastructure",
-      "status": "planned",
-      "year": 2024,
-      "budget": "₹25,000 Crore (Investment target)",
-      "description": "Construction of a 78 km, 6-lane outer ring road from Vizhinjam to Navayikulam. The project includes developing special investment zones, knowledge hubs, and industrial parks along the corridor.",
-      "impact": "Decongestion of the capital city and economic development of the Vizhinjam hinterland.",
-      "image": null,
-      "tags": [
-        "roads",
-        "ring road",
-        "industrial corridor"
-      ]
-    },
-    {
-      "id": "proj-007",
-      "districtId": "thiruvananthapuram",
-      "title": "Government Medical College Thiruvananthapuram Master Plan",
-      "shortTitle": "GMC Master Plan",
-      "category": "health",
-      "status": "ongoing",
-      "year": 2018,
-      "budget": "₹717 Crore",
-      "description": "Comprehensive development of the Medical College campus, including new OP blocks, surgical wards, trauma care, and road infrastructure. Funded by KIIFB.",
-      "impact": "Modernization of the state's premier medical institution.",
-      "image": null,
-      "tags": [
-        "health",
-        "hospital",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "proj-008",
-      "districtId": "thiruvananthapuram",
-      "title": "Karamana - Kaliyikkavila Highway Widening (Phase I Reach II)",
-      "shortTitle": "NH Widening",
-      "category": "transport",
-      "status": "ongoing",
-      "year": 2016,
-      "budget": "₹162.46 Crore",
-      "description": "Four-laning of the Pravachambalam to Vazhimukku stretch of the National Highway, including the Balaramapuram underpass.",
-      "impact": "Reduces traffic congestion on the southern entry to the city.",
-      "image": null,
-      "tags": [
-        "roads",
-        "highway",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "proj-009",
-      "districtId": "thiruvananthapuram",
-      "title": "Sreekariyam Flyover",
-      "shortTitle": "Sreekariyam Flyover",
-      "category": "transport",
-      "status": "ongoing",
-      "year": 2020,
-      "budget": "₹168.68 Crore",
-      "description": "Construction of a flyover at Sreekariyam junction to ease traffic congestion, integrated with the proposed Light Metro alignment.",
-      "impact": "Traffic decongestion in a major bottleneck area.",
-      "image": null,
-      "tags": [
-        "flyover",
-        "urban transport",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "proj-010",
-      "districtId": "thiruvananthapuram",
-      "title": "Pattom Flyover",
-      "shortTitle": "Pattom Flyover",
-      "category": "transport",
-      "status": "planned",
-      "year": 2021,
-      "budget": "₹84.61 Crore",
-      "description": "Proposed flyover at Pattom junction to alleviate heavy traffic congestion.",
-      "impact": "Traffic improvement in the city center.",
-      "image": null,
-      "tags": [
-        "flyover",
-        "roads"
-      ]
-    },
-    {
-      "id": "proj-011",
-      "districtId": "thiruvananthapuram",
-      "title": "Ulloor Flyover",
-      "shortTitle": "Ulloor Flyover",
-      "category": "transport",
-      "status": "planned",
-      "year": 2021,
-      "budget": "₹52.68 Crore",
-      "description": "Proposed flyover at Ulloor junction, a critical intersection near the Medical College.",
-      "impact": "Reduced travel time and congestion.",
-      "image": null,
-      "tags": [
-        "flyover",
-        "roads"
-      ]
-    },
-    {
-      "id": "proj-012",
-      "districtId": "thiruvananthapuram",
-      "title": "Peroorkada Flyover",
-      "shortTitle": "Peroorkada Flyover",
-      "category": "transport",
-      "status": "ongoing",
-      "year": 2021,
-      "budget": "₹93.96 Crore",
-      "description": "Two-lane flyover construction at Peroorkada junction to manage high traffic volume.",
-      "impact": "Improved traffic flow on the SH-2 route.",
-      "image": null,
-      "tags": [
-        "flyover",
-        "roads"
-      ]
-    },
-    {
-      "id": "proj-013",
-      "districtId": "thiruvananthapuram",
-      "title": "Vattiyoorkavu Junction Development",
-      "shortTitle": "Vattiyoorkavu Jn Dev",
-      "category": "infrastructure",
-      "status": "ongoing",
-      "year": 2019,
-      "budget": "₹685.83 Crore",
-      "description": "Comprehensive improvement of Vattiyoorkavu Junction and connected roads, including land acquisition and rehabilitation of traders.",
-      "impact": "Urban renewal and traffic decongestion.",
-      "image": null,
-      "tags": [
-        "urban development",
-        "roads",
-        "junction improvement"
-      ]
-    },
-    {
-      "id": "proj-014",
-      "districtId": "thiruvananthapuram",
-      "title": "Bio 360 Life Sciences Park",
-      "shortTitle": "Life Sciences Park",
-      "category": "industry",
-      "status": "ongoing",
-      "year": 2017,
-      "budget": "₹301.17 Crore (Phase II LA)",
-      "description": "A dedicated park for life sciences and biotechnology industries at Thonnakkal. Includes the Institute of Advanced Virology and Medical Devices Park (MedSpark).",
-      "impact": "Promotes research and manufacturing in biotechnology and medical devices.",
-      "image": null,
-      "tags": [
-        "biotech",
-        "industrial park",
-        "science"
-      ]
-    },
-    {
-      "id": "proj-015",
-      "districtId": "thiruvananthapuram",
-      "title": "Institute of Advanced Virology (IAV)",
-      "shortTitle": "IAV",
-      "category": "health",
-      "status": "completed",
-      "year": 2019,
-      "budget": null,
-      "description": "A specialized research institution established in the Bio 360 Life Sciences Park to study viral infections and develop diagnostics and vaccines.",
-      "impact": "Strengthens the state's capability to handle viral outbreaks like Nipah and COVID-19.",
-      "image": null,
-      "tags": [
-        "virology",
-        "research",
-        "health"
-      ]
-    },
-    {
-      "id": "proj-016",
-      "districtId": "thiruvananthapuram",
-      "title": "KINFRA Film and Video Park Phase II",
-      "shortTitle": "Film Park Phase II",
-      "category": "industry",
-      "status": "ongoing",
-      "year": 2023,
-      "budget": "₹78.48 Crore",
-      "description": "Construction of a Standard Design Factory (SDF) building to meet the demand from IT and ITeS industries, focusing on visual media and animation.",
-      "impact": "Creates employment and infrastructure for the media and entertainment sector.",
-      "image": null,
-      "tags": [
-        "media",
-        "IT",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "proj-017",
-      "districtId": "thiruvananthapuram",
-      "title": "Unity Mall",
-      "shortTitle": "Unity Mall",
-      "category": "infrastructure",
-      "status": "ongoing",
-      "year": 2024,
-      "budget": "₹120 Crore",
-      "description": "A commercial complex at Technopark to promote One District One Product (ODOP) and GI-tagged products.",
-      "impact": "Boosts marketing of local artisanal and traditional products.",
-      "image": null,
-      "tags": [
-        "commercial",
-        "ODOP",
-        "marketing"
-      ]
-    },
-    {
-      "id": "proj-018",
-      "districtId": "thiruvananthapuram",
-      "title": "Hill Highway Thiruvananthapuram Reach",
-      "shortTitle": "Hill Highway TVM",
-      "category": "transport",
-      "status": "ongoing",
-      "year": 2018,
-      "budget": "₹133.79 Crore",
-      "description": "Development of the Hill Highway stretches including Kallikkadu to Parassala, Peringammala to Vithura, and Vithura to Bonacaud.",
-      "impact": "Improves connectivity in the high ranges and boosts tourism.",
-      "image": null,
-      "tags": [
-        "roads",
-        "hill highway",
-        "connectivity"
-      ]
-    },
-    {
-      "id": "proj-019",
-      "districtId": "thiruvananthapuram",
-      "title": "Coastal Highway Thiruvananthapuram Reach",
-      "shortTitle": "Coastal Highway TVM",
-      "category": "transport",
-      "status": "ongoing",
-      "year": 2019,
-      "budget": "₹550.76 Crore (Reach 1)",
-      "description": "Construction of the Coastal Highway stretches: Reach 1 (Pozhiyoor to Kovalam), Reach 2 (Kumarichantha to Pallithura), and Reach 4 (Onnampalam to Kappil).",
-      "impact": "Enhances coastal connectivity and tourism.",
-      "image": null,
-      "tags": [
-        "roads",
-        "coastal highway",
-        "tourism"
-      ]
-    },
-    {
-      "id": "proj-020",
-      "districtId": "thiruvananthapuram",
-      "title": "State-of-the-Art Elephant Rehabilitation Centre, Kottoor",
-      "shortTitle": "Elephant Rehab Centre",
-      "category": "environment",
-      "status": "ongoing",
-      "year": 2019,
-      "budget": "₹105 Crore",
-      "description": "Upgradation of the elephant rehabilitation centre to international standards with modern facilities for elephant care and tourism.",
-      "impact": "Conservation of elephants and promotion of eco-tourism.",
-      "image": null,
-      "tags": [
-        "wildlife",
-        "conservation",
-        "tourism"
-      ]
-    },
-    {
-      "id": "proj-021",
-      "districtId": "thiruvananthapuram",
-      "title": "Travancore Heritage Project",
-      "shortTitle": "Travancore Heritage",
-      "category": "tourism",
-      "status": "ongoing",
-      "year": 2020,
-      "budget": "₹35.60 Crore",
-      "description": "Conservation and beautification of heritage structures in Thiruvananthapuram city, including illumination.",
-      "impact": "Preservation of heritage and promotion of cultural tourism.",
-      "image": null,
-      "tags": [
-        "heritage",
-        "tourism",
-        "culture"
-      ]
-    },
-    {
-      "id": "proj-022",
-      "districtId": "thiruvananthapuram",
-      "title": "Akkulam Lake Rejuvenation",
-      "shortTitle": "Akkulam Rejuvenation",
-      "category": "environment",
-      "status": "ongoing",
-      "year": 2021,
-      "budget": "₹117.50 Crore",
-      "description": "Comprehensive project to rejuvenate Akkulam Lake and its watershed, focusing on pollution abatement and tourism development.",
-      "impact": "Ecological restoration and creation of a recreational space.",
-      "image": null,
-      "tags": [
-        "environment",
-        "lake",
-        "tourism"
-      ]
-    },
-    {
-      "id": "proj-023",
-      "districtId": "thiruvananthapuram",
-      "title": "Development of Kovalam and Adjacent Beaches",
-      "shortTitle": "Kovalam Development",
-      "category": "tourism",
-      "status": "ongoing",
-      "year": 2021,
-      "budget": "₹91.38 Crore",
-      "description": "Infrastructure development and beautification of Kovalam and surrounding beaches to enhance tourist experience.",
-      "impact": "Boosts the tourism potential of Kerala's premier beach destination.",
-      "image": null,
-      "tags": [
-        "tourism",
-        "beach",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "proj-024",
-      "districtId": "thiruvananthapuram",
-      "title": "Neyyar Alternative Water Source Project",
-      "shortTitle": "Neyyar Water Project",
-      "category": "infrastructure",
-      "status": "ongoing",
-      "year": 2020,
-      "budget": "₹206.96 Crore",
-      "description": "Project to bring water from Neyyar Dam to PTP Nagar to augment the city's water supply.",
-      "impact": "Ensures drinking water security for Thiruvananthapuram city.",
-      "image": null,
-      "tags": [
-        "water supply",
-        "infrastructure",
-        "public utility"
-      ]
-    },
-    {
-      "id": "proj-025",
-      "districtId": "thiruvananthapuram",
-      "title": "Kerala Arts and Crafts Village, Vellar",
-      "shortTitle": "Crafts Village",
-      "category": "tourism",
-      "status": "completed",
-      "year": 2021,
-      "budget": null,
-      "description": "A cultural hub established to promote traditional arts and crafts of Kerala, providing a platform for artisans.",
-      "impact": "Revitalization of traditional crafts and tourism.",
-      "image": null,
-      "tags": [
-        "culture",
-        "crafts",
-        "tourism"
-      ]
-    },
-    {
-      "id": "proj-026",
-      "districtId": "thiruvananthapuram",
-      "title": "Parvathy Puthanar Rejuvenation",
-      "shortTitle": "Parvathy Puthanar",
-      "category": "environment",
-      "status": "ongoing",
-      "year": 2018,
-      "budget": "₹124.74 Crore (Land Acquisition)",
-      "description": "Cleaning and making the Parvathy Puthanar canal navigable as part of the West Coast Canal project.",
-      "impact": "Restoration of a historic waterway for tourism and transport.",
-      "image": null,
-      "tags": [
-        "canal",
-        "environment",
-        "transport"
-      ]
-    },
-    {
-      "id": "proj-027",
-      "districtId": "thiruvananthapuram",
-      "title": "Solar City Project",
-      "shortTitle": "Solar City",
-      "category": "energy",
-      "status": "ongoing",
-      "year": 2022,
-      "budget": null,
-      "description": "Installation of solar panels on rooftops of households and government buildings across Thiruvananthapuram corporation to promote renewable energy.",
-      "impact": "Installed 17.1 MW capacity in 514 buildings, promoting green energy.",
-      "image": null,
-      "tags": [
-        "energy",
-        "solar",
-        "sustainability"
-      ]
-    },
-    {
-      "id": "proj-028",
-      "districtId": "thiruvananthapuram",
-      "title": "Chitranjali Studio Film City",
-      "shortTitle": "Film City",
-      "category": "culture",
-      "status": "ongoing",
-      "year": 2019,
-      "budget": "₹67.16 Crore",
-      "description": "Modernization and expansion of Chitranjali Studio into a full-fledged Film City.",
-      "impact": "Supports the film industry and tourism.",
-      "image": null,
-      "tags": [
-        "film",
-        "culture",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "proj-029",
-      "districtId": "thiruvananthapuram",
-      "title": "Development of General Hospital Thiruvananthapuram",
-      "shortTitle": "GH TVM Dev",
-      "category": "health",
-      "status": "ongoing",
-      "year": 2017,
-      "budget": "₹137.35 Crore",
-      "description": "Infrastructure development including new blocks and modern equipment for General Hospital Thiruvananthapuram.",
-      "impact": "Improves healthcare facilities for the public.",
-      "image": null,
-      "tags": [
-        "health",
-        "hospital",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "proj-030",
-      "districtId": "thiruvananthapuram",
-      "title": "APJ Abdul Kalam Technological University Campus",
-      "shortTitle": "KTU Campus",
-      "category": "education",
-      "status": "ongoing",
-      "year": 2021,
-      "budget": "₹203.93 Crore (Land)",
-      "description": "Establishment of a permanent campus for the university at Vilappilsala.",
-      "impact": "Provides a centralized academic hub for technical education.",
-      "image": null,
-      "tags": [
-        "education",
-        "university",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "proj-031",
-      "districtId": "thiruvananthapuram",
-      "title": "Smart Anganwadis",
-      "shortTitle": "Smart Anganwadis",
-      "category": "social",
-      "status": "completed",
-      "year": 2022,
-      "budget": null,
-      "description": "Construction of child-friendly smart anganwadis with modern amenities. The first one was constructed in Thiruvananthapuram.",
-      "impact": "Improved early childhood care and education facilities.",
-      "image": null,
-      "tags": [
-        "child welfare",
-        "education",
-        "social infrastructure"
-      ]
-    },
-    {
-      "id": "proj-032",
-      "districtId": "thiruvananthapuram",
-      "title": "East Fort - Manacaud Flyover",
-      "shortTitle": "East Fort Flyover",
-      "category": "transport",
-      "status": "planned",
-      "year": 2021,
-      "budget": "₹95.28 Crore",
-      "description": "Proposed flyover to ease traffic in the heritage zone of East Fort.",
-      "impact": "Traffic decongestion in the city's commercial heart.",
-      "image": null,
-      "tags": [
-        "flyover",
-        "urban transport"
-      ]
-    },
-    {
-      "id": "proj-033",
-      "districtId": "thiruvananthapuram",
-      "title": "Punargeham Project (Thiruvananthapuram)",
-      "shortTitle": "Punargeham TVM",
-      "category": "housing",
-      "status": "ongoing",
-      "year": 2019,
-      "budget": "₹2 Crore (Beemapally Phase)",
-      "description": "Rehabilitation housing for fisher families living in coastal erosion zones. Flats constructed at Valiyathura, Karodu, and Beemapally.",
-      "impact": "Safe housing for vulnerable coastal communities.",
-      "image": null,
-      "tags": [
-        "housing",
-        "fisheries",
-        "welfare"
-      ]
-    },
-    {
-      "id": "proj-034",
-      "districtId": "thiruvananthapuram",
-      "title": "G V Raja Centre of Excellence Sports Facility",
-      "shortTitle": "GV Raja Sports Centre",
-      "category": "sports",
-      "status": "ongoing",
-      "year": 2019,
-      "budget": "₹56.18 Crore",
-      "description": "Development of modern sports facilities at the G V Raja Sports School in Menamkulam.",
-      "impact": "Promotes sports education and training.",
-      "image": null,
-      "tags": [
-        "sports",
-        "education",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "proj-035",
-      "districtId": "thiruvananthapuram",
-      "title": "Muttathara Housing Project",
-      "shortTitle": "Muttathara Housing",
-      "category": "housing",
-      "status": "ongoing",
-      "year": 2022,
-      "budget": "₹81 Crore",
-      "description": "Construction of 400 housing units for the rehabilitation of fishermen families at Muttathara.",
-      "impact": "Provides secure housing for the fishing community.",
-      "image": null,
-      "tags": [
-        "housing",
-        "fisheries",
-        "rehabilitation"
-      ]
-    },
-    {
-      "id": "proj-036",
-      "districtId": "thiruvananthapuram",
-      "title": "Kanakakunnu Palace Conservation",
-      "shortTitle": "Kanakakunnu Conservation",
-      "category": "culture",
-      "status": "ongoing",
-      "year": 2019,
-      "budget": "₹10 Crore",
-      "description": "Conservation and restoration of the heritage Kanakakunnu Palace and its premises.",
-      "impact": "Preservation of cultural heritage.",
-      "image": null,
-      "tags": [
-        "heritage",
-        "culture",
-        "conservation"
-      ]
-    },
-    {
-      "id": "proj-037",
-      "districtId": "thiruvananthapuram",
-      "title": "Karode Comprehensive Drinking Water Project",
-      "shortTitle": "Karode Water Project",
-      "category": "infrastructure",
-      "status": "ongoing",
-      "year": 2018,
-      "budget": "₹96.53 Crore",
-      "description": "Large scale drinking water supply scheme for Karode and surrounding areas.",
-      "impact": "Ensures potable water supply to rural areas.",
-      "image": null,
-      "tags": [
-        "water supply",
-        "rural infrastructure"
-      ]
-    },
-    {
-      "id": "proj-038",
-      "districtId": "thiruvananthapuram",
-      "title": "Kerala Genome Data Centre",
-      "shortTitle": "Genome Data Centre",
-      "category": "science",
-      "status": "ongoing",
-      "year": 2023,
-      "budget": "₹100 Crore",
-      "description": "Establishment of a genome data center at Technocity to utilize Kerala's biodiversity for research.",
-      "impact": "Advances research in genomics and biodiversity.",
-      "image": null,
-      "tags": [
-        "science",
-        "genomics",
-        "research"
-      ]
-    },
-    {
-      "id": "proj-039",
-      "districtId": "thiruvananthapuram",
-      "title": "Venjaramoodu Flyover",
-      "shortTitle": "Venjaramoodu Flyover",
-      "category": "transport",
-      "status": "planned",
-      "year": 2021,
-      "budget": "₹25.02 Crore",
-      "description": "Construction of a flyover at Venjaramoodu junction on the MC Road.",
-      "impact": "Traffic relief on a major state highway.",
-      "image": null,
-      "tags": [
-        "flyover",
-        "roads"
-      ]
-    },
-    {
-      "id": "proj-040",
-      "districtId": "thiruvananthapuram",
-      "title": "Sabarimala Edathavalam (Kazhakootam)",
-      "shortTitle": "Sabarimala Shelter",
-      "category": "tourism",
-      "status": "ongoing",
-      "year": 2019,
-      "budget": "₹11.56 Crore",
-      "description": "Construction of a pilgrim shelter (Edathavalam) at Kazhakootam for Sabarimala pilgrims.",
-      "impact": "Improved amenities for pilgrims.",
-      "image": null,
-      "tags": [
-        "pilgrim tourism",
-        "infrastructure"
-      ]
-    }
-  ]
+    "projects": [
+        {
+            "id": "proj-001",
+            "districtId": "thiruvananthapuram",
+            "title": "Vizhinjam International Deepwater Multipurpose Seaport",
+            "shortTitle": "Vizhinjam Seaport",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2015,
+            "budget": "₹7,700 Crore (approx)",
+            "description": "India's first deep-water container transshipment hub located in Thiruvananthapuram. Designed to accommodate mother vessels and reduce dependency on foreign ports for transshipment. Identified as a priority project under Maritime India Vision 2030.",
+            "impact": "Expected to revolutionize India's maritime landscape, attract ₹25,000 crore investment in the region, and create a commercial corridor.",
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "tags": [
+                "port",
+                "maritime",
+                "transshipment",
+                "logistics"
+            ]
+        },
+        {
+            "id": "proj-002",
+            "districtId": "thiruvananthapuram",
+            "title": "Smart City Thiruvananthapuram",
+            "shortTitle": "Smart City TVM",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹1,135 Crore",
+            "description": "Comprehensive urban development project under the Smart Cities Mission. Includes 79 projects such as Integrated Command and Control Centre (IC4), smart roads, multi-level car parking, water management, and e-governance solutions.",
+            "impact": "Improved urban infrastructure, traffic management, and civic services.",
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "tags": [
+                "urban development",
+                "smart city",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-003",
+            "districtId": "thiruvananthapuram",
+            "title": "Digital Science Park",
+            "shortTitle": "Digital Science Park",
+            "category": "IT",
+            "status": "planned",
+            "year": 2023,
+            "budget": "₹1,515 Crore",
+            "description": "India's first third-generation digital science park located at Technopark Phase IV (Technocity). Focuses on AI, robotics, electronics, and other deep-tech domains. Features a 'triple helix' model integrating universities, industry, and government.",
+            "impact": "Expected to position Kerala as a knowledge economy hub and attract multinational partnerships.",
+            "image": "/src/assets/images/CATEGORIES/IT.png",
+            "tags": [
+                "science",
+                "technology",
+                "IT",
+                "innovation"
+            ]
+        },
+        {
+            "id": "proj-004",
+            "districtId": "thiruvananthapuram",
+            "title": "Technocity (Technopark Phase IV)",
+            "shortTitle": "Technocity",
+            "category": "IT",
+            "status": "ongoing",
+            "year": 2016,
+            "budget": null,
+            "description": "A 390-acre integrated IT township in Pallipuram. Houses the Digital Science Park, Kerala University of Digital Sciences (Digital University), TCS Aerospace Hub, and Suntec campus.",
+            "impact": "Expands the IT corridor from Kazhakootam, creating a major hub for emerging technologies.",
+            "image": "/src/assets/images/CATEGORIES/IT.png",
+            "tags": [
+                "IT park",
+                "infrastructure",
+                "employment"
+            ]
+        },
+        {
+            "id": "proj-005",
+            "districtId": "thiruvananthapuram",
+            "title": "Thiruvananthapuram International Airport Expansion (Project Anantha)",
+            "shortTitle": "Airport Expansion",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2024,
+            "budget": "₹1,300 Crore",
+            "description": "Major expansion plan to increase the airport area from 45,000 sq m to 165,000 sq m and passenger capacity to 12 million annually.",
+            "impact": "Enhanced air connectivity and passenger handling capacity.",
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "tags": [
+                "aviation",
+                "transport",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-006",
+            "districtId": "thiruvananthapuram",
+            "title": "Capital City Region Development Programme (Outer Ring Road)",
+            "shortTitle": "Outer Ring Road",
+            "category": "infrastructure",
+            "status": "planned",
+            "year": 2024,
+            "budget": "₹25,000 Crore (Investment target)",
+            "description": "Construction of a 78 km, 6-lane outer ring road from Vizhinjam to Navayikulam. The project includes developing special investment zones, knowledge hubs, and industrial parks along the corridor.",
+            "impact": "Decongestion of the capital city and economic development of the Vizhinjam hinterland.",
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "tags": [
+                "roads",
+                "ring road",
+                "industrial corridor"
+            ]
+        },
+        {
+            "id": "proj-007",
+            "districtId": "thiruvananthapuram",
+            "title": "Government Medical College Thiruvananthapuram Master Plan",
+            "shortTitle": "GMC Master Plan",
+            "category": "health",
+            "status": "ongoing",
+            "year": 2018,
+            "budget": "₹717 Crore",
+            "description": "Comprehensive development of the Medical College campus, including new OP blocks, surgical wards, trauma care, and road infrastructure. Funded by KIIFB.",
+            "impact": "Modernization of the state's premier medical institution.",
+            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "tags": [
+                "health",
+                "hospital",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-008",
+            "districtId": "thiruvananthapuram",
+            "title": "Karamana - Kaliyikkavila Highway Widening (Phase I Reach II)",
+            "shortTitle": "NH Widening",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2016,
+            "budget": "₹162.46 Crore",
+            "description": "Four-laning of the Pravachambalam to Vazhimukku stretch of the National Highway, including the Balaramapuram underpass.",
+            "impact": "Reduces traffic congestion on the southern entry to the city.",
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "tags": [
+                "roads",
+                "highway",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-009",
+            "districtId": "thiruvananthapuram",
+            "title": "Sreekariyam Flyover",
+            "shortTitle": "Sreekariyam Flyover",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2020,
+            "budget": "₹168.68 Crore",
+            "description": "Construction of a flyover at Sreekariyam junction to ease traffic congestion, integrated with the proposed Light Metro alignment.",
+            "impact": "Traffic decongestion in a major bottleneck area.",
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "tags": [
+                "flyover",
+                "urban transport",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-010",
+            "districtId": "thiruvananthapuram",
+            "title": "Pattom Flyover",
+            "shortTitle": "Pattom Flyover",
+            "category": "transport",
+            "status": "planned",
+            "year": 2021,
+            "budget": "₹84.61 Crore",
+            "description": "Proposed flyover at Pattom junction to alleviate heavy traffic congestion.",
+            "impact": "Traffic improvement in the city center.",
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "tags": [
+                "flyover",
+                "roads"
+            ]
+        },
+        {
+            "id": "proj-011",
+            "districtId": "thiruvananthapuram",
+            "title": "Ulloor Flyover",
+            "shortTitle": "Ulloor Flyover",
+            "category": "transport",
+            "status": "planned",
+            "year": 2021,
+            "budget": "₹52.68 Crore",
+            "description": "Proposed flyover at Ulloor junction, a critical intersection near the Medical College.",
+            "impact": "Reduced travel time and congestion.",
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "tags": [
+                "flyover",
+                "roads"
+            ]
+        },
+        {
+            "id": "proj-012",
+            "districtId": "thiruvananthapuram",
+            "title": "Peroorkada Flyover",
+            "shortTitle": "Peroorkada Flyover",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2021,
+            "budget": "₹93.96 Crore",
+            "description": "Two-lane flyover construction at Peroorkada junction to manage high traffic volume.",
+            "impact": "Improved traffic flow on the SH-2 route.",
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "tags": [
+                "flyover",
+                "roads"
+            ]
+        },
+        {
+            "id": "proj-013",
+            "districtId": "thiruvananthapuram",
+            "title": "Vattiyoorkavu Junction Development",
+            "shortTitle": "Vattiyoorkavu Jn Dev",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2019,
+            "budget": "₹685.83 Crore",
+            "description": "Comprehensive improvement of Vattiyoorkavu Junction and connected roads, including land acquisition and rehabilitation of traders.",
+            "impact": "Urban renewal and traffic decongestion.",
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "tags": [
+                "urban development",
+                "roads",
+                "junction improvement"
+            ]
+        },
+        {
+            "id": "proj-014",
+            "districtId": "thiruvananthapuram",
+            "title": "Bio 360 Life Sciences Park",
+            "shortTitle": "Life Sciences Park",
+            "category": "industry",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹301.17 Crore (Phase II LA)",
+            "description": "A dedicated park for life sciences and biotechnology industries at Thonnakkal. Includes the Institute of Advanced Virology and Medical Devices Park (MedSpark).",
+            "impact": "Promotes research and manufacturing in biotechnology and medical devices.",
+            "image": "/src/assets/images/CATEGORIES/INDUSTRY.png",
+            "tags": [
+                "biotech",
+                "industrial park",
+                "science"
+            ]
+        },
+        {
+            "id": "proj-015",
+            "districtId": "thiruvananthapuram",
+            "title": "Institute of Advanced Virology (IAV)",
+            "shortTitle": "IAV",
+            "category": "health",
+            "status": "completed",
+            "year": 2019,
+            "budget": null,
+            "description": "A specialized research institution established in the Bio 360 Life Sciences Park to study viral infections and develop diagnostics and vaccines.",
+            "impact": "Strengthens the state's capability to handle viral outbreaks like Nipah and COVID-19.",
+            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "tags": [
+                "virology",
+                "research",
+                "health"
+            ]
+        },
+        {
+            "id": "proj-016",
+            "districtId": "thiruvananthapuram",
+            "title": "KINFRA Film and Video Park Phase II",
+            "shortTitle": "Film Park Phase II",
+            "category": "industry",
+            "status": "ongoing",
+            "year": 2023,
+            "budget": "₹78.48 Crore",
+            "description": "Construction of a Standard Design Factory (SDF) building to meet the demand from IT and ITeS industries, focusing on visual media and animation.",
+            "impact": "Creates employment and infrastructure for the media and entertainment sector.",
+            "image": "/src/assets/images/CATEGORIES/INDUSTRY.png",
+            "tags": [
+                "media",
+                "IT",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-017",
+            "districtId": "thiruvananthapuram",
+            "title": "Unity Mall",
+            "shortTitle": "Unity Mall",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2024,
+            "budget": "₹120 Crore",
+            "description": "A commercial complex at Technopark to promote One District One Product (ODOP) and GI-tagged products.",
+            "impact": "Boosts marketing of local artisanal and traditional products.",
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "tags": [
+                "commercial",
+                "ODOP",
+                "marketing"
+            ]
+        },
+        {
+            "id": "proj-018",
+            "districtId": "thiruvananthapuram",
+            "title": "Hill Highway Thiruvananthapuram Reach",
+            "shortTitle": "Hill Highway TVM",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2018,
+            "budget": "₹133.79 Crore",
+            "description": "Development of the Hill Highway stretches including Kallikkadu to Parassala, Peringammala to Vithura, and Vithura to Bonacaud.",
+            "impact": "Improves connectivity in the high ranges and boosts tourism.",
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "tags": [
+                "roads",
+                "hill highway",
+                "connectivity"
+            ]
+        },
+        {
+            "id": "proj-019",
+            "districtId": "thiruvananthapuram",
+            "title": "Coastal Highway Thiruvananthapuram Reach",
+            "shortTitle": "Coastal Highway TVM",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2019,
+            "budget": "₹550.76 Crore (Reach 1)",
+            "description": "Construction of the Coastal Highway stretches: Reach 1 (Pozhiyoor to Kovalam), Reach 2 (Kumarichantha to Pallithura), and Reach 4 (Onnampalam to Kappil).",
+            "impact": "Enhances coastal connectivity and tourism.",
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "tags": [
+                "roads",
+                "coastal highway",
+                "tourism"
+            ]
+        },
+        {
+            "id": "proj-020",
+            "districtId": "thiruvananthapuram",
+            "title": "State-of-the-Art Elephant Rehabilitation Centre, Kottoor",
+            "shortTitle": "Elephant Rehab Centre",
+            "category": "environment",
+            "status": "ongoing",
+            "year": 2019,
+            "budget": "₹105 Crore",
+            "description": "Upgradation of the elephant rehabilitation centre to international standards with modern facilities for elephant care and tourism.",
+            "impact": "Conservation of elephants and promotion of eco-tourism.",
+            "image": "/src/assets/images/CATEGORIES/environment.jpg",
+            "tags": [
+                "wildlife",
+                "conservation",
+                "tourism"
+            ]
+        },
+        {
+            "id": "proj-021",
+            "districtId": "thiruvananthapuram",
+            "title": "Travancore Heritage Project",
+            "shortTitle": "Travancore Heritage",
+            "category": "tourism",
+            "status": "ongoing",
+            "year": 2020,
+            "budget": "₹35.60 Crore",
+            "description": "Conservation and beautification of heritage structures in Thiruvananthapuram city, including illumination.",
+            "impact": "Preservation of heritage and promotion of cultural tourism.",
+            "image": "/src/assets/images/CATEGORIES/TOURISM.png",
+            "tags": [
+                "heritage",
+                "tourism",
+                "culture"
+            ]
+        },
+        {
+            "id": "proj-022",
+            "districtId": "thiruvananthapuram",
+            "title": "Akkulam Lake Rejuvenation",
+            "shortTitle": "Akkulam Rejuvenation",
+            "category": "environment",
+            "status": "ongoing",
+            "year": 2021,
+            "budget": "₹117.50 Crore",
+            "description": "Comprehensive project to rejuvenate Akkulam Lake and its watershed, focusing on pollution abatement and tourism development.",
+            "impact": "Ecological restoration and creation of a recreational space.",
+            "image": "/src/assets/images/CATEGORIES/environment.jpg",
+            "tags": [
+                "environment",
+                "lake",
+                "tourism"
+            ]
+        },
+        {
+            "id": "proj-023",
+            "districtId": "thiruvananthapuram",
+            "title": "Development of Kovalam and Adjacent Beaches",
+            "shortTitle": "Kovalam Development",
+            "category": "tourism",
+            "status": "ongoing",
+            "year": 2021,
+            "budget": "₹91.38 Crore",
+            "description": "Infrastructure development and beautification of Kovalam and surrounding beaches to enhance tourist experience.",
+            "impact": "Boosts the tourism potential of Kerala's premier beach destination.",
+            "image": "/src/assets/images/CATEGORIES/TOURISM.png",
+            "tags": [
+                "tourism",
+                "beach",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-024",
+            "districtId": "thiruvananthapuram",
+            "title": "Neyyar Alternative Water Source Project",
+            "shortTitle": "Neyyar Water Project",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2020,
+            "budget": "₹206.96 Crore",
+            "description": "Project to bring water from Neyyar Dam to PTP Nagar to augment the city's water supply.",
+            "impact": "Ensures drinking water security for Thiruvananthapuram city.",
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "tags": [
+                "water supply",
+                "infrastructure",
+                "public utility"
+            ]
+        },
+        {
+            "id": "proj-025",
+            "districtId": "thiruvananthapuram",
+            "title": "Kerala Arts and Crafts Village, Vellar",
+            "shortTitle": "Crafts Village",
+            "category": "tourism",
+            "status": "completed",
+            "year": 2021,
+            "budget": null,
+            "description": "A cultural hub established to promote traditional arts and crafts of Kerala, providing a platform for artisans.",
+            "impact": "Revitalization of traditional crafts and tourism.",
+            "image": "/src/assets/images/CATEGORIES/TOURISM.png",
+            "tags": [
+                "culture",
+                "crafts",
+                "tourism"
+            ]
+        },
+        {
+            "id": "proj-026",
+            "districtId": "thiruvananthapuram",
+            "title": "Parvathy Puthanar Rejuvenation",
+            "shortTitle": "Parvathy Puthanar",
+            "category": "environment",
+            "status": "ongoing",
+            "year": 2018,
+            "budget": "₹124.74 Crore (Land Acquisition)",
+            "description": "Cleaning and making the Parvathy Puthanar canal navigable as part of the West Coast Canal project.",
+            "impact": "Restoration of a historic waterway for tourism and transport.",
+            "image": "/src/assets/images/CATEGORIES/environment.jpg",
+            "tags": [
+                "canal",
+                "environment",
+                "transport"
+            ]
+        },
+        {
+            "id": "proj-027",
+            "districtId": "thiruvananthapuram",
+            "title": "Solar City Project",
+            "shortTitle": "Solar City",
+            "category": "energy",
+            "status": "ongoing",
+            "year": 2022,
+            "budget": null,
+            "description": "Installation of solar panels on rooftops of households and government buildings across Thiruvananthapuram corporation to promote renewable energy.",
+            "impact": "Installed 17.1 MW capacity in 514 buildings, promoting green energy.",
+            "image": "/src/assets/images/CATEGORIES/ENERGY.png",
+            "tags": [
+                "energy",
+                "solar",
+                "sustainability"
+            ]
+        },
+        {
+            "id": "proj-028",
+            "districtId": "thiruvananthapuram",
+            "title": "Chitranjali Studio Film City",
+            "shortTitle": "Film City",
+            "category": "culture",
+            "status": "ongoing",
+            "year": 2019,
+            "budget": "₹67.16 Crore",
+            "description": "Modernization and expansion of Chitranjali Studio into a full-fledged Film City.",
+            "impact": "Supports the film industry and tourism.",
+            "image": "/src/assets/images/CATEGORIES/CULTURE.png",
+            "tags": [
+                "film",
+                "culture",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-029",
+            "districtId": "thiruvananthapuram",
+            "title": "Development of General Hospital Thiruvananthapuram",
+            "shortTitle": "GH TVM Dev",
+            "category": "health",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹137.35 Crore",
+            "description": "Infrastructure development including new blocks and modern equipment for General Hospital Thiruvananthapuram.",
+            "impact": "Improves healthcare facilities for the public.",
+            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "tags": [
+                "health",
+                "hospital",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-030",
+            "districtId": "thiruvananthapuram",
+            "title": "APJ Abdul Kalam Technological University Campus",
+            "shortTitle": "KTU Campus",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2021,
+            "budget": "₹203.93 Crore (Land)",
+            "description": "Establishment of a permanent campus for the university at Vilappilsala.",
+            "impact": "Provides a centralized academic hub for technical education.",
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "tags": [
+                "education",
+                "university",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-031",
+            "districtId": "thiruvananthapuram",
+            "title": "Smart Anganwadis",
+            "shortTitle": "Smart Anganwadis",
+            "category": "social",
+            "status": "completed",
+            "year": 2022,
+            "budget": null,
+            "description": "Construction of child-friendly smart anganwadis with modern amenities. The first one was constructed in Thiruvananthapuram.",
+            "impact": "Improved early childhood care and education facilities.",
+            "image": "/src/assets/images/CATEGORIES/social.jpg",
+            "tags": [
+                "child welfare",
+                "education",
+                "social infrastructure"
+            ]
+        },
+        {
+            "id": "proj-032",
+            "districtId": "thiruvananthapuram",
+            "title": "East Fort - Manacaud Flyover",
+            "shortTitle": "East Fort Flyover",
+            "category": "transport",
+            "status": "planned",
+            "year": 2021,
+            "budget": "₹95.28 Crore",
+            "description": "Proposed flyover to ease traffic in the heritage zone of East Fort.",
+            "impact": "Traffic decongestion in the city's commercial heart.",
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "tags": [
+                "flyover",
+                "urban transport"
+            ]
+        },
+        {
+            "id": "proj-033",
+            "districtId": "thiruvananthapuram",
+            "title": "Punargeham Project (Thiruvananthapuram)",
+            "shortTitle": "Punargeham TVM",
+            "category": "housing",
+            "status": "ongoing",
+            "year": 2019,
+            "budget": "₹2 Crore (Beemapally Phase)",
+            "description": "Rehabilitation housing for fisher families living in coastal erosion zones. Flats constructed at Valiyathura, Karodu, and Beemapally.",
+            "impact": "Safe housing for vulnerable coastal communities.",
+            "image": "/src/assets/images/CATEGORIES/housing.jpg",
+            "tags": [
+                "housing",
+                "fisheries",
+                "welfare"
+            ]
+        },
+        {
+            "id": "proj-034",
+            "districtId": "thiruvananthapuram",
+            "title": "G V Raja Centre of Excellence Sports Facility",
+            "shortTitle": "GV Raja Sports Centre",
+            "category": "sports",
+            "status": "ongoing",
+            "year": 2019,
+            "budget": "₹56.18 Crore",
+            "description": "Development of modern sports facilities at the G V Raja Sports School in Menamkulam.",
+            "impact": "Promotes sports education and training.",
+            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
+            "tags": [
+                "sports",
+                "education",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-035",
+            "districtId": "thiruvananthapuram",
+            "title": "Muttathara Housing Project",
+            "shortTitle": "Muttathara Housing",
+            "category": "housing",
+            "status": "ongoing",
+            "year": 2022,
+            "budget": "₹81 Crore",
+            "description": "Construction of 400 housing units for the rehabilitation of fishermen families at Muttathara.",
+            "impact": "Provides secure housing for the fishing community.",
+            "image": "/src/assets/images/CATEGORIES/housing.jpg",
+            "tags": [
+                "housing",
+                "fisheries",
+                "rehabilitation"
+            ]
+        },
+        {
+            "id": "proj-036",
+            "districtId": "thiruvananthapuram",
+            "title": "Kanakakunnu Palace Conservation",
+            "shortTitle": "Kanakakunnu Conservation",
+            "category": "culture",
+            "status": "ongoing",
+            "year": 2019,
+            "budget": "₹10 Crore",
+            "description": "Conservation and restoration of the heritage Kanakakunnu Palace and its premises.",
+            "impact": "Preservation of cultural heritage.",
+            "image": "/src/assets/images/CATEGORIES/CULTURE.png",
+            "tags": [
+                "heritage",
+                "culture",
+                "conservation"
+            ]
+        },
+        {
+            "id": "proj-037",
+            "districtId": "thiruvananthapuram",
+            "title": "Karode Comprehensive Drinking Water Project",
+            "shortTitle": "Karode Water Project",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2018,
+            "budget": "₹96.53 Crore",
+            "description": "Large scale drinking water supply scheme for Karode and surrounding areas.",
+            "impact": "Ensures potable water supply to rural areas.",
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "tags": [
+                "water supply",
+                "rural infrastructure"
+            ]
+        },
+        {
+            "id": "proj-038",
+            "districtId": "thiruvananthapuram",
+            "title": "Kerala Genome Data Centre",
+            "shortTitle": "Genome Data Centre",
+            "category": "science",
+            "status": "ongoing",
+            "year": 2023,
+            "budget": "₹100 Crore",
+            "description": "Establishment of a genome data center at Technocity to utilize Kerala's biodiversity for research.",
+            "impact": "Advances research in genomics and biodiversity.",
+            "image": "/src/assets/images/CATEGORIES/SCIENCE.png",
+            "tags": [
+                "science",
+                "genomics",
+                "research"
+            ]
+        },
+        {
+            "id": "proj-039",
+            "districtId": "thiruvananthapuram",
+            "title": "Venjaramoodu Flyover",
+            "shortTitle": "Venjaramoodu Flyover",
+            "category": "transport",
+            "status": "planned",
+            "year": 2021,
+            "budget": "₹25.02 Crore",
+            "description": "Construction of a flyover at Venjaramoodu junction on the MC Road.",
+            "impact": "Traffic relief on a major state highway.",
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "tags": [
+                "flyover",
+                "roads"
+            ]
+        },
+        {
+            "id": "proj-040",
+            "districtId": "thiruvananthapuram",
+            "title": "Sabarimala Edathavalam (Kazhakootam)",
+            "shortTitle": "Sabarimala Shelter",
+            "category": "tourism",
+            "status": "ongoing",
+            "year": 2019,
+            "budget": "₹11.56 Crore",
+            "description": "Construction of a pilgrim shelter (Edathavalam) at Kazhakootam for Sabarimala pilgrims.",
+            "impact": "Improved amenities for pilgrims.",
+            "image": "/src/assets/images/CATEGORIES/TOURISM.png",
+            "tags": [
+                "pilgrim tourism",
+                "infrastructure"
+            ]
+        }
+    ]
 }

@@ -11,7 +11,7 @@
             "budget": "₹5.05 Crore",
             "description": "Infrastructure upgradation of schools in Malappuram Cluster-2 Phase-3.",
             "impact": "Improved educational facilities.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -28,7 +28,7 @@
             "budget": "₹203.91 Crore",
             "description": "Construction of a Gas Insulated Substation at Vengallur and Thrissivaperur Line Strengthening package.",
             "impact": "Enhanced power transmission capacity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/ENERGY.png",
             "tags": [
                 "power",
                 "substation",
@@ -46,7 +46,7 @@
             "budget": "₹14.60 Crore",
             "description": "Phase 3 of the school cluster development project in Malappuram.",
             "impact": "Better school infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -63,7 +63,7 @@
             "budget": "₹85.61 Crore",
             "description": "Widening and providing BM & BC surfacing to Manjeri Olipuzha road between KM 0/000 to 16/200.",
             "impact": "Improved road connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -80,7 +80,7 @@
             "budget": "₹125.61 Crore",
             "description": "Construction of Regulator Cum Bridge at Kankakkadavu across Bharathapuzha in Kuttipuram Panchayath.",
             "impact": "Water regulation and transport connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "bridge",
                 "regulator",
@@ -98,7 +98,7 @@
             "budget": "₹15.69 Crore",
             "description": "Sports infrastructure development at Edappal Government HSS (Project shared with Thirumittacode).",
             "impact": "School sports facilities.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
             "tags": [
                 "sports",
                 "education"
@@ -115,7 +115,7 @@
             "budget": "₹67.64 Crore",
             "description": "Construction of RCB across Thoothapuzha at Kezhmurikkadavu, Moothikkayam in Moorkkanadu Panchayath.",
             "impact": "Connectivity and water management.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "bridge",
                 "regulator"
@@ -132,7 +132,7 @@
             "budget": "₹12.21 Crore",
             "description": "Construction of a flyover at Edappal junction.",
             "impact": "Traffic decongestion.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "flyover",
                 "transport"
@@ -149,7 +149,7 @@
             "budget": "₹13.03 Crore",
             "description": "Improvements and Providing BM&BC Works between km 4/350-11/900 of Poolamanna - Thaliyamkundu-Vaniyambalam Road.",
             "impact": "Road improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -166,7 +166,7 @@
             "budget": "₹12.07 Crore",
             "description": "Construction of Regulator at Puzhankavu across Kadalundi River.",
             "impact": "Water resource management.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "regulator",
                 "water resources"
@@ -183,7 +183,7 @@
             "budget": "₹16.69 Crore",
             "description": "Setting up of a cinema theater complex at Thanoor.",
             "impact": "Cultural infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/CULTURE.png",
             "tags": [
                 "culture",
                 "cinema"
@@ -200,7 +200,7 @@
             "budget": "₹36.51 Crore",
             "description": "Construction of Anjudi - Kundungal bridge across Canoli canal in Tanur LAC.",
             "impact": "Connectivity across Canoli canal.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "transport"
@@ -217,7 +217,7 @@
             "budget": "₹22.20 Crore",
             "description": "Comprehensive Water Supply Scheme to Thiruvali & Adjoining Villages - Phase I & II.",
             "impact": "Rural water supply.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water supply",
                 "rural"
@@ -234,7 +234,7 @@
             "budget": "₹280.09 Crore",
             "description": "Construction of a major bridge connecting Ponnani Harbour and Padinjarekara.",
             "impact": "Major coastal connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "transport",
@@ -252,7 +252,7 @@
             "budget": "₹89.92 Crore",
             "description": "Construction of flyover at Kizhakkethala Chethupalam near Malappuram Police Station.",
             "impact": "Urban traffic relief.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "flyover",
                 "urban transport"
@@ -269,7 +269,7 @@
             "budget": "₹131.62 Crore",
             "description": "Hill Highway 2017-2018 Pookottumpadam Kalikavu Kerala estate Kizhakkethala Karuvarakundu - Chirakkal Pulvetta Karinkanthoni Ponapara Km 47/890 to Km 74/200.",
             "impact": "Hill highway connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "hill highway"
@@ -286,7 +286,7 @@
             "budget": "₹7.05 Crore",
             "description": "Construction of Municipal Stadium at Tirur.",
             "impact": "Sports infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
             "tags": [
                 "sports",
                 "stadium"
@@ -303,7 +303,7 @@
             "budget": "₹29.48 Crore",
             "description": "Construction of Coastal Highway Reach 6 from Ariyalloor Mudhiyam Bridge to Kadalundi Bridge.",
             "impact": "Coastal connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "coastal highway"
@@ -320,7 +320,7 @@
             "budget": "₹23.92 Crore",
             "description": "Construction of Mudhiyam Beach Bridge on the Coastal Highway.",
             "impact": "Coastal transport infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "coastal highway"
@@ -337,7 +337,7 @@
             "budget": "₹72.17 Crore",
             "description": "WSS to Edayur panchayath and service level improvement of existing WSS to Irambiliyam panchayath and Valanchery Municipality.",
             "impact": "Improved water supply.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water supply",
                 "urban",
@@ -355,7 +355,7 @@
             "budget": "₹61.34 Crore",
             "description": "Construction of Thirunavaya - Thavanur River Bridge.",
             "impact": "River crossing connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "transport"
@@ -372,7 +372,7 @@
             "budget": "₹13.40 Crore",
             "description": "Construction of Panampalam Bridge in Tanur LAC.",
             "impact": "Local connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "transport"
@@ -389,7 +389,7 @@
             "budget": "₹19.16 Crore",
             "description": "Construction of Pookkaithakkadavu Bridge across Ezhapuzha.",
             "impact": "Bridge connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "transport"
@@ -406,7 +406,7 @@
             "budget": "₹41.21 Crore",
             "description": "Construction of Karma Bridges across Canoli Canal connecting with Ponnani Port and Chamravattom Regulator.",
             "impact": "Port connectivity and tourism.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "transport",
@@ -424,7 +424,7 @@
             "budget": "₹18.61 Crore",
             "description": "Augmentation of Infrastructural Facilities at Government Arts & Science College for Womens Downhill.",
             "impact": "Higher education infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "college"
@@ -441,7 +441,7 @@
             "budget": "₹74.40 Crore",
             "description": "Comprehensive Water Supply Scheme to Ponnani and adjoining Panchayaths.",
             "impact": "Regional water supply.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water supply",
                 "urban",
@@ -459,7 +459,7 @@
             "budget": "₹78.44 Crore",
             "description": "Laying distribution lines of Water Supply Schemes - WSS to Tanur phase II.",
             "impact": "Water distribution network.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water supply",
                 "urban"
@@ -476,7 +476,7 @@
             "budget": "₹4.06 Crore",
             "description": "Augmentation of Infrastructural Facilities at Government Arts & Science College Nilambur.",
             "impact": "Educational facilities.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "college"
@@ -493,7 +493,7 @@
             "budget": "₹16.09 Crore",
             "description": "Construction of Oradumpalam - Vylongara Bypass Road.",
             "impact": "Traffic relief.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bypass",
                 "roads"
@@ -510,7 +510,7 @@
             "budget": "₹26.28 Crore",
             "description": "Augmentation of Infrastructural Facilities at Government Arts & Science College Tanur.",
             "impact": "Higher education infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "college"
@@ -527,7 +527,7 @@
             "budget": "₹47.21 Crore",
             "description": "Comprehensive Drinking Water Supply Scheme to Edavanna Panchayath.",
             "impact": "Rural water supply.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water supply",
                 "rural"
@@ -544,7 +544,7 @@
             "budget": "₹92.52 Crore",
             "description": "Water Supply Scheme to Ramanchady - Aligar in Malappuram District.",
             "impact": "Major water supply project.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water supply",
                 "rural"
@@ -561,7 +561,7 @@
             "budget": "₹43.94 Crore",
             "description": "Construction of Olambakkadavu Bridge in Ponnani & Thavanur LACs.",
             "impact": "Bridge connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "transport"
@@ -578,7 +578,7 @@
             "budget": "₹80.03 Crore",
             "description": "Widening and Providing BM & BC to Nilambur - Moolepadam - Nayadampoyil - Valanthod Road km 11/000 to 26/000.",
             "impact": "Road infrastructure upgrade.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -595,7 +595,7 @@
             "budget": "₹49.94 Crore",
             "description": "Phase 2 of school infrastructure upgradation in Malappuram cluster.",
             "impact": "School facilities improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -612,7 +612,7 @@
             "budget": "₹10.74 Crore",
             "description": "Betterment of Infrastructural facilities at Govt. College Thavanur.",
             "impact": "Higher education infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "college"
@@ -629,7 +629,7 @@
             "budget": "₹36.19 Crore",
             "description": "Development of Taluk Hospital, Kondotty.",
             "impact": "Healthcare infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
             "tags": [
                 "health",
                 "hospital"
@@ -646,7 +646,7 @@
             "budget": "₹72.58 Crore",
             "description": "Improvements and augmentation of UWSS to Manjeri Municipality including Water Supply arrangements to Payyanad and Thadapparamba area.",
             "impact": "Urban water supply.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water supply",
                 "urban"
@@ -663,7 +663,7 @@
             "budget": "₹15.66 Crore",
             "description": "Infrastructure upgradation of schools in Malappuram Cluster 22.",
             "impact": "School facilities improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -680,7 +680,7 @@
             "budget": "₹27.57 Crore",
             "description": "Construction of coastal Highway in Malappuram District - Reach III: Between Tanur Mohyudhin Palli & Kettungal.",
             "impact": "Coastal connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "coastal highway"
@@ -697,7 +697,7 @@
             "budget": "₹23.39 Crore",
             "description": "Infrastructure upgradation of schools in Malappuram Cluster 4.",
             "impact": "School facilities improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -714,7 +714,7 @@
             "budget": "₹8.44 Crore",
             "description": "Construction of Thanur Town - theyyala railway over Bridge.",
             "impact": "Railway crossing safety.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "railway"
@@ -731,7 +731,7 @@
             "budget": "₹35.48 Crore",
             "description": "Construction of P. Moideenkutty Indoor Stadium.",
             "impact": "Sports infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
             "tags": [
                 "sports",
                 "stadium"
@@ -748,7 +748,7 @@
             "budget": "₹12.45 Crore",
             "description": "Construction of Chelari-Chettippady Railway Over Bridge.",
             "impact": "Railway crossing safety.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "railway"
@@ -765,7 +765,7 @@
             "budget": "₹23.26 Crore",
             "description": "Infrastructure upgradation of schools in Malappuram Cluster 3.",
             "impact": "School facilities improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -782,7 +782,7 @@
             "budget": "₹23.34 Crore",
             "description": "Infrastructure upgradation of schools in Malappuram Cluster 2.",
             "impact": "School facilities improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -799,7 +799,7 @@
             "budget": "₹24.66 Crore",
             "description": "Infrastructure upgradation of schools in Malappuram Cluster 1.",
             "impact": "School facilities improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -816,7 +816,7 @@
             "budget": "₹10.30 Crore",
             "description": "Augmenting Infrastructure facilities at TM memorial Government college, Tirur.",
             "impact": "Higher education infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "college"
@@ -833,7 +833,7 @@
             "budget": "₹57.76 Crore",
             "description": "Construction of Coastal Highway in Malappuram District Reach I - Padinjarekkara to Unniyal Junction.",
             "impact": "Coastal connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "coastal highway"
@@ -850,7 +850,7 @@
             "budget": "₹28.42 Crore",
             "description": "Replacement of Transmission Mains in Malappuram PH Circle.",
             "impact": "Water supply maintenance.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water supply",
                 "maintenance"
@@ -867,7 +867,7 @@
             "budget": "₹100.00 Crore",
             "description": "Water Supply Scheme to Tanur Municipality and adjoining 4 Panchayaths - phase 1.",
             "impact": "Major urban water supply.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water supply",
                 "urban"
@@ -884,7 +884,7 @@
             "budget": "₹0.00",
             "description": "Calicut Airport Junction Flyover (Located at Karipur, Malappuram).",
             "impact": "Airport connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "flyover",
                 "airport",
@@ -902,7 +902,7 @@
             "budget": "₹103.07 Crore",
             "description": "Improvements and Providing DBM & BC Works on Kondotty-Edavannappara - Areacode road.",
             "impact": "Road infrastructure upgrade.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -919,7 +919,7 @@
             "budget": "₹18.30 Crore",
             "description": "Construction of Nilambur Mini Stadium.",
             "impact": "Sports infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
             "tags": [
                 "sports",
                 "stadium"
@@ -936,7 +936,7 @@
             "budget": "₹102.80 Crore",
             "description": "Augmentation of Infrastructural Facilities at Calicut University.",
             "impact": "University infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "university"
@@ -953,7 +953,7 @@
             "budget": "₹57.78 Crore",
             "description": "Improvements to Perinthalmanna Junction in Malappuram District.",
             "impact": "Traffic management.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "junction"
@@ -970,7 +970,7 @@
             "budget": "₹15.24 Crore",
             "description": "Modernization of Market in Kottakkal Municipality.",
             "impact": "Market infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "market",
                 "urban"
@@ -987,7 +987,7 @@
             "budget": "₹21.01 Crore",
             "description": "Coastal Highway Reach 4 - Kettungal to Ariyalloor in Malappuram district.",
             "impact": "Coastal connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "coastal highway"
@@ -1004,7 +1004,7 @@
             "budget": "₹61.17 Crore",
             "description": "Widening and providing BM & BC surfacing to Tirur Kadalundi Road Km 0/000 14/000.",
             "impact": "Road widening.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1021,7 +1021,7 @@
             "budget": "₹18.85 Crore",
             "description": "Improvements and Providing BM & BC surfacing to Kottakkal-Kottapadi road.",
             "impact": "Road improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1038,7 +1038,7 @@
             "budget": "₹11.14 Crore",
             "description": "Construction of Office Building for Valancherry Municipality.",
             "impact": "Civic infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "building",
                 "municipality"
@@ -1055,7 +1055,7 @@
             "budget": "₹50.58 Crore",
             "description": "Improvement to Hill Highway Chirakkal - Melattur (11.215km) & Ucharakadavu-Kanjirampara (1.060km) in Malappuram District.",
             "impact": "Hill highway connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "hill highway"
@@ -1072,7 +1072,7 @@
             "budget": "₹36.25 Crore",
             "description": "Construction of New Hostels in University of Calicut by utilizing KIIFB Fund.",
             "impact": "Student accommodation.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "hostel",
@@ -1090,7 +1090,7 @@
             "budget": "₹15.93 Crore",
             "description": "Infrastructure upgradation of schools in Malappuram Cluster.",
             "impact": "School facilities improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -1107,7 +1107,7 @@
             "budget": "₹112.22 Crore",
             "description": "Construction of Parappanangadi Fishing Harbour.",
             "impact": "Fisheries infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "fisheries",
                 "harbour"
@@ -1124,7 +1124,7 @@
             "budget": "₹16.41 Crore",
             "description": "Improvements and Providing BM&BC surfacing to Kadungallur-Vilayil-Chaliyapuram road.",
             "impact": "Road improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1141,7 +1141,7 @@
             "budget": "₹18.86 Crore",
             "description": "Infrastructure upgradation of schools in Malappuram Cluster 14.",
             "impact": "School facilities improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -1158,7 +1158,7 @@
             "budget": "₹15.90 Crore",
             "description": "Infrastructure upgradation of schools in Malappuram Cluster 13.",
             "impact": "School facilities improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -1175,7 +1175,7 @@
             "budget": "₹28.24 Crore",
             "description": "Infrastructure upgradation of schools in Malappuram Cluster 5.",
             "impact": "School facilities improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -1192,7 +1192,7 @@
             "budget": "₹56.86 Crore",
             "description": "Construction of Nayarthodu Bridge in Malappuram district.",
             "impact": "Bridge connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "transport"
@@ -1209,7 +1209,7 @@
             "budget": "₹2.99 Crore",
             "description": "Infrastructure upgradation of schools in Malappuram Phase-3 Cluster-4.",
             "impact": "School facilities improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -1226,7 +1226,7 @@
             "budget": "₹5.73 Crore",
             "description": "Infrastructure upgradation of schools in Malappuram Phase-3 Cluster 3.",
             "impact": "School facilities improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -1243,7 +1243,7 @@
             "budget": "₹10.07 Crore",
             "description": "Construction of Thanoor Stadium.",
             "impact": "Sports infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
             "tags": [
                 "sports",
                 "stadium"
@@ -1260,7 +1260,7 @@
             "budget": "₹18.01 Crore",
             "description": "Construction of Ponnani Nilatheeram indoor and aquatic complex.",
             "impact": "Sports and aquatic facilities.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
             "tags": [
                 "sports",
                 "aquatic complex"
@@ -1277,7 +1277,7 @@
             "budget": "₹10.26 Crore",
             "description": "Infrastructure projects for Perinthalmanna Municipality.",
             "impact": "Urban development.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "urban",
                 "infrastructure"
@@ -1294,7 +1294,7 @@
             "budget": "₹108.70 Crore",
             "description": "Improvements to Water Supply Scheme of Kondotty Municipality.",
             "impact": "Urban water supply improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water supply",
                 "urban"
@@ -1311,7 +1311,7 @@
             "budget": "₹39.68 Crore",
             "description": "Construction of Abdur Rahiman Sahib Cultural Complex at Malappuram.",
             "impact": "Cultural centre.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/CULTURE.png",
             "tags": [
                 "culture",
                 "infrastructure"
@@ -1328,7 +1328,7 @@
             "budget": "₹13.79 Crore",
             "description": "Development of Taluk Head Quarters Hospital, Tirurangadi.",
             "impact": "Healthcare infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
             "tags": [
                 "health",
                 "hospital"
@@ -1345,7 +1345,7 @@
             "budget": "₹11.85 Crore",
             "description": "Development of Taluk Hospital, Ponnani.",
             "impact": "Healthcare infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
             "tags": [
                 "health",
                 "hospital"

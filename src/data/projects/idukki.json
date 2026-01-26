@@ -1,453 +1,562 @@
 {
-	"projects":
-	[
-  {
-    "id": "proj-001",
-    "districtId": "idukki",
-    "title": "Hill Highway: Peerumade - Devikulam and Thodupuzha - Puliyanmala",
-    "shortTitle": "Hill Highway Idukki Reach 1",
-    "category": "transport",
-    "status": "ongoing",
-    "year": 2017,
-    "budget": "₹144.09 Crore",
-    "description": "Improvements to Hill Highway from Peerumade to Devikulam (km 19/000 to 40/050) and Thodupuzha to Puliyanmala (km 85/500 to 92/167).",
-    "impact": "Enhances connectivity in the high ranges.",
-    "image": null,
-    "tags": ["roads", "hill highway", "infrastructure"]
-  },
-  {
-    "id": "proj-002",
-    "districtId": "idukki",
-    "title": "Hill Highway: Kuttikkanam to Chappathu",
-    "shortTitle": "Hill Highway Kuttikkanam-Chappathu",
-    "category": "transport",
-    "status": "ongoing",
-    "year": 2017,
-    "budget": "₹107.70 Crore",
-    "description": "Improvements to Hill Highway between Ch: 0/000 to 19/000 from Kuttikkanam to Chappathu.",
-    "impact": "Improved road infrastructure in Idukki.",
-    "image": null,
-    "tags": ["roads", "hill highway", "infrastructure"]
-  },
-  {
-    "id": "proj-003",
-    "districtId": "idukki",
-    "title": "Hill Highway: Iruttukanam - Anachal - Ellackal - Rajakkadu - Myladumpara",
-    "shortTitle": "Hill Highway Iruttukanam-Myladumpara",
-    "category": "transport",
-    "status": "ongoing",
-    "year": 2017,
-    "budget": "₹39.80 Crore",
-    "description": "Improvements to Hill Highway stretches including Stretch 1 (Ellackal - Valiya Mullakkanam Road, 5.03 km), Stretch 2 (Iruttukanam to Anachal), and Stretch 3 (Anachal to Ellackal Jn).",
-    "impact": "Better connectivity for tourism and locals.",
-    "image": null,
-    "tags": ["roads", "hill highway", "infrastructure"]
-  },
-  {
-    "id": "proj-004",
-    "districtId": "idukki",
-    "title": "Hill Highway: Myladumpara - Puliyanmala Road",
-    "shortTitle": "Hill Highway Myladumpara-Puliyanmala",
-    "category": "transport",
-    "status": "planned",
-    "year": 2017,
-    "budget": "₹0.00",
-    "description": "Improvements to Myladumpara - Puliyanmala Road in Idukki District.",
-    "impact": "Planned improvement of hill highway connectivity.",
-    "image": null,
-    "tags": ["roads", "hill highway", "infrastructure"]
-  },
-  {
-    "id": "proj-005",
-    "districtId": "idukki",
-    "title": "Erattupetta - Vagamon Road",
-    "shortTitle": "Erattupetta-Vagamon Road",
-    "category": "transport",
-    "status": "ongoing",
-    "year": 2017,
-    "budget": "₹63.99 Crore",
-    "description": "Improvement of the 23.800 km Erattupetta - Vagamon Road.",
-    "impact": "Boosts tourism connectivity to Vagamon.",
-    "image": null,
-    "tags": ["roads", "tourism", "infrastructure"]
-  },
-  {
-    "id": "proj-006",
-    "districtId": "idukki",
-    "title": "Nathukallu - Adimali Road Upgradation",
-    "shortTitle": "Nathukallu-Adimali Road",
-    "category": "transport",
-    "status": "ongoing",
-    "year": 2017,
-    "budget": "₹55.07 Crore",
-    "description": "Upgradation of Nathukallu - Adimali Road.",
-    "impact": "Improved road network.",
-    "image": null,
-    "tags": ["roads", "infrastructure"]
-  },
-  {
-    "id": "proj-007",
-    "districtId": "idukki",
-    "title": "Kuruthikkalam - Chelachuvadu Road Improvements",
-    "shortTitle": "Kuruthikkalam-Chelachuvadu Road",
-    "category": "transport",
-    "status": "ongoing",
-    "year": 2017,
-    "budget": "₹52.01 Crore",
-    "description": "Improvements to Kuruthikkalam - Chelachuvadu road from Ch.35/483 to 62/313.",
-    "impact": "Enhanced regional connectivity.",
-    "image": null,
-    "tags": ["roads", "infrastructure"]
-  },
-  {
-    "id": "proj-008",
-    "districtId": "idukki",
-    "title": "Ramakkalmedu - Cumbummedu Vannapuram Road",
-    "shortTitle": "Ramakkalmedu Road",
-    "category": "transport",
-    "status": "ongoing",
-    "year": 2017,
-    "budget": "₹99.82 Crore",
-    "description": "Improvement to Ramakkalmedu - Cumbummedu Vannapuram Road (Part 1: Cumbummedu To Njondical - 28.1km).",
-    "impact": "Improved access to Ramakkalmedu tourist site.",
-    "image": null,
-    "tags": ["roads", "tourism", "infrastructure"]
-  },
-  {
-    "id": "proj-009",
-    "districtId": "idukki",
-    "title": "Thodupuzha Karikkodu - Thekkumbhagom - Anakkayam Road",
-    "shortTitle": "Thodupuzha-Anakkayam Road",
-    "category": "transport",
-    "status": "ongoing",
-    "year": 2017,
-    "budget": "₹10.44 Crore",
-    "description": "Improvements to Thodupuzha Karikkodu - Thekkumbhagom - Anakkayam Road.",
-    "impact": "Local road development.",
-    "image": null,
-    "tags": ["roads", "infrastructure"]
-  },
-  {
-    "id": "proj-010",
-    "districtId": "idukki",
-    "title": "Improvements to Udumbanchola - Rajakkadu - Anachal - Randammayil - Chithirapuram Road",
-    "shortTitle": "Udumbanchola-Chithirapuram Road",
-    "category": "transport",
-    "status": "ongoing",
-    "year": 2017,
-    "budget": "₹178.24 Crore",
-    "description": "Comprehensive improvements to the Udumbanchola - Rajakkadu - Anachal - Randammayil - Chithirapuram Road corridor.",
-    "impact": "Major upgrade of key district roads.",
-    "image": null,
-    "tags": ["roads", "infrastructure"]
-  },
-  {
-    "id": "proj-011",
-    "districtId": "idukki",
-    "title": "Munnar Flyover Bypass Road",
-    "shortTitle": "Munnar Flyover",
-    "category": "transport",
-    "status": "planned",
-    "year": 2017,
-    "budget": "₹0.00",
-    "description": "Construction of Munnar flyover bypass road.",
-    "impact": "Traffic decongestion in Munnar town.",
-    "image": null,
-    "tags": ["flyover", "bypass", "tourism"]
-  },
-  {
-    "id": "proj-012",
-    "districtId": "idukki",
-    "title": "Painavu - Idukki Bypass Road",
-    "shortTitle": "Painavu Bypass",
-    "category": "transport",
-    "status": "planned",
-    "year": 2017,
-    "budget": "₹0.00",
-    "description": "Construction of Painavu - Idukki Bypass Road.",
-    "impact": "Better connectivity to district headquarters.",
-    "image": null,
-    "tags": ["bypass", "roads"]
-  },
-  {
-    "id": "proj-013",
-    "districtId": "idukki",
-    "title": "Thookupalam - Kattappana Road",
-    "shortTitle": "Thookupalam-Kattappana Road",
-    "category": "transport",
-    "status": "planned",
-    "year": 2017,
-    "budget": "₹0.00",
-    "description": "Improvements and providing BM&BC to Thookupalam - Kattappana Road.",
-    "impact": "Road surface improvement.",
-    "image": null,
-    "tags": ["roads", "infrastructure"]
-  },
-  {
-    "id": "proj-014",
-    "districtId": "idukki",
-    "title": "Upgradation of Taluk Hospital Nedumkandam (Phase I)",
-    "shortTitle": "TH Nedumkandam",
-    "category": "health",
-    "status": "ongoing",
-    "year": 2017,
-    "budget": "₹70.03 Crore",
-    "description": "Upgradation of Taluk Hospital Nedumkandam, including procurement of medical equipment.",
-    "impact": "Improved healthcare facilities.",
-    "image": null,
-    "tags": ["health", "hospital", "infrastructure"]
-  },
-  {
-    "id": "proj-015",
-    "districtId": "idukki",
-    "title": "Development of Taluk Hospital Adimali",
-    "shortTitle": "TH Adimali",
-    "category": "health",
-    "status": "ongoing",
-    "year": 2017,
-    "budget": "₹12.54 Crore",
-    "description": "Development of OP Unit, Casualty Block, and Diagnostic Facilities at TH Adimali.",
-    "impact": "Enhanced medical services.",
-    "image": null,
-    "tags": ["health", "hospital"]
-  },
-  {
-    "id": "proj-016",
-    "districtId": "idukki",
-    "title": "Development of Taluk Hospital Peerumedu",
-    "shortTitle": "TH Peerumedu",
-    "category": "health",
-    "status": "ongoing",
-    "year": 2017,
-    "budget": "₹2.50 Crore",
-    "description": "Development of Out Patient Unit, Casualty Block & Diagnostics Facilities in Taluk Hospital, Peerumedu.",
-    "impact": "Better patient care.",
-    "image": null,
-    "tags": ["health", "hospital"]
-  },
-  {
-    "id": "proj-017",
-    "districtId": "idukki",
-    "title": "Taluk Level Hospital at Munnar",
-    "shortTitle": "Munnar Hospital",
-    "category": "health",
-    "status": "planned",
-    "year": 2018,
-    "budget": "₹0.00",
-    "description": "Proposed Taluk Level Hospital at Munnar.",
-    "impact": "Healthcare access for plantation workers and tourists.",
-    "image": null,
-    "tags": ["health", "hospital"]
-  },
-  {
-    "id": "proj-018",
-    "districtId": "idukki",
-    "title": "Augmentation of Urban WSS to Thodupuzha Municipality",
-    "shortTitle": "Thodupuzha WSS",
-    "category": "infrastructure",
-    "status": "ongoing",
-    "year": 2017,
-    "budget": "₹142.61 Crore",
-    "description": "Augmentation of Urban Water Supply Scheme to Thodupuzha Municipality (Phase I & II).",
-    "impact": "Reliable drinking water supply.",
-    "image": null,
-    "tags": ["water supply", "urban"]
-  },
-  {
-    "id": "proj-019",
-    "districtId": "idukki",
-    "title": "WSS to Ayyappankovil Panchayath",
-    "shortTitle": "Ayyappankovil WSS",
-    "category": "infrastructure",
-    "status": "ongoing",
-    "year": 2017,
-    "budget": "₹46.42 Crore",
-    "description": "Water Supply Scheme to Ayyappankovil panchayath.",
-    "impact": "Rural water supply.",
-    "image": null,
-    "tags": ["water supply", "rural"]
-  },
-  {
-    "id": "proj-020",
-    "districtId": "idukki",
-    "title": "Cheruthoni River Bank Protection",
-    "shortTitle": "Cheruthoni Protection",
-    "category": "environment",
-    "status": "ongoing",
-    "year": 2017,
-    "budget": "₹5.37 Crore",
-    "description": "Protecting both banks of Cheruthoni River downstream of Cheruthoni old bridge in Vazhathoppu and Mariyapuram GPs.",
-    "impact": "Flood protection and riverbank stabilization.",
-    "image": null,
-    "tags": ["water resources", "protection", "river"]
-  },
-  {
-    "id": "proj-021",
-    "districtId": "idukki",
-    "title": "Check Dam cum Bridge across Palkulam Thodu",
-    "shortTitle": "Palkulam Check Dam",
-    "category": "infrastructure",
-    "status": "ongoing",
-    "year": 2017,
-    "budget": "₹7.44 Crore",
-    "description": "Construction of Check Dam-cum-Bridge across Palkulam Thodu near Seminarypadi.",
-    "impact": "Water conservation and connectivity.",
-    "image": null,
-    "tags": ["check dam", "bridge", "water"]
-  },
-  {
-    "id": "proj-022",
-    "districtId": "idukki",
-    "title": "Check Dam cum Bridge across Chinnar River",
-    "shortTitle": "Chinnar Check Dam",
-    "category": "infrastructure",
-    "status": "ongoing",
-    "year": 2017,
-    "budget": "₹7.70 Crore",
-    "description": "Construction of check dam-cum-bridge across Chinnar river near Madampadi.",
-    "impact": "Water storage and transport.",
-    "image": null,
-    "tags": ["check dam", "bridge"]
-  },
-  {
-    "id": "proj-023",
-    "districtId": "idukki",
-    "title": "K.P Thomas Indoor Stadium, Nedumkandom",
-    "shortTitle": "Nedumkandom Stadium",
-    "category": "sports",
-    "status": "ongoing",
-    "year": 2017,
-    "budget": "₹33.78 Crore",
-    "description": "Construction of K.P Thomas Indoor Stadium at Nedumkandom.",
-    "impact": "Sports facility development.",
-    "image": null,
-    "tags": ["sports", "stadium", "infrastructure"]
-  },
-  {
-    "id": "proj-024",
-    "districtId": "idukki",
-    "title": "Construction of Nedumkandom Gramapanchayath Stadium",
-    "shortTitle": "Nedumkandom GP Stadium",
-    "category": "sports",
-    "status": "ongoing",
-    "year": 2017,
-    "budget": "₹9.40 Crore",
-    "description": "Construction of a stadium for Nedumkandom Gramapanchayath.",
-    "impact": "Local sports infrastructure.",
-    "image": null,
-    "tags": ["sports", "stadium"]
-  },
-  {
-    "id": "proj-025",
-    "districtId": "idukki",
-    "title": "Construction of Court Complex at Peerumedu",
-    "shortTitle": "Peerumedu Court",
-    "category": "infrastructure",
-    "status": "ongoing",
-    "year": 2017,
-    "budget": "₹28.22 Crore",
-    "description": "Construction of Court Complex at Peerumedu.",
-    "impact": "Judicial infrastructure improvement.",
-    "image": null,
-    "tags": ["court", "infrastructure"]
-  },
-  {
-    "id": "proj-026",
-    "districtId": "idukki",
-    "title": "Construction of Court Complex at Nedumkandom",
-    "shortTitle": "Nedumkandom Court",
-    "category": "infrastructure",
-    "status": "ongoing",
-    "year": 2017,
-    "budget": "₹32.84 Crore",
-    "description": "Construction of Court Complex at Nedumkandom.",
-    "impact": "Improved legal facilities.",
-    "image": null,
-    "tags": ["court", "infrastructure"]
-  },
-  {
-    "id": "proj-027",
-    "districtId": "idukki",
-    "title": "Sub Registrar Offices Construction (Cluster III)",
-    "shortTitle": "Idukki SROs",
-    "category": "infrastructure",
-    "status": "ongoing",
-    "year": 2017,
-    "budget": "₹18.17 Crore",
-    "description": "Construction of Sub Registrar Offices at Thopramkudi, Udumbanchola (Mundiyeruma), and Thodupuzha.",
-    "impact": "Administrative infrastructure.",
-    "image": null,
-    "tags": ["registration", "office", "infrastructure"]
-  },
-  {
-    "id": "proj-028",
-    "districtId": "idukki",
-    "title": "Idukki-Thiruvananthapuram Cluster Engineering Colleges",
-    "shortTitle": "Engineering Colleges Cluster",
-    "category": "education",
-    "status": "ongoing",
-    "year": 2017,
-    "budget": "₹41.60 Crore",
-    "description": "Infrastructure development for Engineering colleges in Idukki and Thiruvananthapuram cluster.",
-    "impact": "Higher education facilities.",
-    "image": null,
-    "tags": ["education", "engineering", "college"]
-  },
-  {
-    "id": "proj-029",
-    "districtId": "idukki",
-    "title": "Govt. Polytechnic Vandiperiyar & Perumbavoor",
-    "shortTitle": "Polytechnic Vandiperiyar",
-    "category": "education",
-    "status": "ongoing",
-    "year": 2017,
-    "budget": "₹19.56 Crore",
-    "description": "Development of Government Polytechnic College at Vandiperiyar (shared project with Perumbavoor).",
-    "impact": "Technical education.",
-    "image": null,
-    "tags": ["education", "polytechnic"]
-  },
-  {
-    "id": "proj-030",
-    "districtId": "idukki",
-    "title": "Govt ITI Kattappana Upgradation",
-    "shortTitle": "ITI Kattappana",
-    "category": "education",
-    "status": "ongoing",
-    "year": 2017,
-    "budget": "₹25.53 Crore",
-    "description": "Upgradation of Govt ITI Kattappana to international standards (part of multi-ITI project).",
-    "impact": "Skill development.",
-    "image": null,
-    "tags": ["education", "skills", "ITI"]
-  },
-  {
-    "id": "proj-031",
-    "districtId": "idukki",
-    "title": "GEC Idukki Development",
-    "shortTitle": "GEC Idukki",
-    "category": "education",
-    "status": "planned",
-    "year": 2018,
-    "budget": "₹0.00",
-    "description": "Development works for Government Engineering College Idukki.",
-    "impact": "Higher education infrastructure.",
-    "image": null,
-    "tags": ["education", "college"]
-  },
-  {
-    "id": "proj-032",
-    "districtId": "idukki",
-    "title": "Idukki Cluster (General Education)",
-    "shortTitle": "Idukki Schools",
-    "category": "education",
-    "status": "ongoing",
-    "year": 2017,
-    "budget": "₹25.00 Crore",
-    "description": "Infrastructure upgradation of schools in Idukki under various clusters (Phase 2, Phase 3).",
-    "impact": "School infrastructure improvement.",
-    "image": null,
-    "tags": ["education", "schools"]
-  }
-]
+    "projects": [
+        {
+            "id": "proj-001",
+            "districtId": "idukki",
+            "title": "Hill Highway: Peerumade - Devikulam and Thodupuzha - Puliyanmala",
+            "shortTitle": "Hill Highway Idukki Reach 1",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹144.09 Crore",
+            "description": "Improvements to Hill Highway from Peerumade to Devikulam (km 19/000 to 40/050) and Thodupuzha to Puliyanmala (km 85/500 to 92/167).",
+            "impact": "Enhances connectivity in the high ranges.",
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "tags": [
+                "roads",
+                "hill highway",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-002",
+            "districtId": "idukki",
+            "title": "Hill Highway: Kuttikkanam to Chappathu",
+            "shortTitle": "Hill Highway Kuttikkanam-Chappathu",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹107.70 Crore",
+            "description": "Improvements to Hill Highway between Ch: 0/000 to 19/000 from Kuttikkanam to Chappathu.",
+            "impact": "Improved road infrastructure in Idukki.",
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "tags": [
+                "roads",
+                "hill highway",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-003",
+            "districtId": "idukki",
+            "title": "Hill Highway: Iruttukanam - Anachal - Ellackal - Rajakkadu - Myladumpara",
+            "shortTitle": "Hill Highway Iruttukanam-Myladumpara",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹39.80 Crore",
+            "description": "Improvements to Hill Highway stretches including Stretch 1 (Ellackal - Valiya Mullakkanam Road, 5.03 km), Stretch 2 (Iruttukanam to Anachal), and Stretch 3 (Anachal to Ellackal Jn).",
+            "impact": "Better connectivity for tourism and locals.",
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "tags": [
+                "roads",
+                "hill highway",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-004",
+            "districtId": "idukki",
+            "title": "Hill Highway: Myladumpara - Puliyanmala Road",
+            "shortTitle": "Hill Highway Myladumpara-Puliyanmala",
+            "category": "transport",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Improvements to Myladumpara - Puliyanmala Road in Idukki District.",
+            "impact": "Planned improvement of hill highway connectivity.",
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "tags": [
+                "roads",
+                "hill highway",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-005",
+            "districtId": "idukki",
+            "title": "Erattupetta - Vagamon Road",
+            "shortTitle": "Erattupetta-Vagamon Road",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹63.99 Crore",
+            "description": "Improvement of the 23.800 km Erattupetta - Vagamon Road.",
+            "impact": "Boosts tourism connectivity to Vagamon.",
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "tags": [
+                "roads",
+                "tourism",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-006",
+            "districtId": "idukki",
+            "title": "Nathukallu - Adimali Road Upgradation",
+            "shortTitle": "Nathukallu-Adimali Road",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹55.07 Crore",
+            "description": "Upgradation of Nathukallu - Adimali Road.",
+            "impact": "Improved road network.",
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-007",
+            "districtId": "idukki",
+            "title": "Kuruthikkalam - Chelachuvadu Road Improvements",
+            "shortTitle": "Kuruthikkalam-Chelachuvadu Road",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹52.01 Crore",
+            "description": "Improvements to Kuruthikkalam - Chelachuvadu road from Ch.35/483 to 62/313.",
+            "impact": "Enhanced regional connectivity.",
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-008",
+            "districtId": "idukki",
+            "title": "Ramakkalmedu - Cumbummedu Vannapuram Road",
+            "shortTitle": "Ramakkalmedu Road",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹99.82 Crore",
+            "description": "Improvement to Ramakkalmedu - Cumbummedu Vannapuram Road (Part 1: Cumbummedu To Njondical - 28.1km).",
+            "impact": "Improved access to Ramakkalmedu tourist site.",
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "tags": [
+                "roads",
+                "tourism",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-009",
+            "districtId": "idukki",
+            "title": "Thodupuzha Karikkodu - Thekkumbhagom - Anakkayam Road",
+            "shortTitle": "Thodupuzha-Anakkayam Road",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹10.44 Crore",
+            "description": "Improvements to Thodupuzha Karikkodu - Thekkumbhagom - Anakkayam Road.",
+            "impact": "Local road development.",
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-010",
+            "districtId": "idukki",
+            "title": "Improvements to Udumbanchola - Rajakkadu - Anachal - Randammayil - Chithirapuram Road",
+            "shortTitle": "Udumbanchola-Chithirapuram Road",
+            "category": "transport",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹178.24 Crore",
+            "description": "Comprehensive improvements to the Udumbanchola - Rajakkadu - Anachal - Randammayil - Chithirapuram Road corridor.",
+            "impact": "Major upgrade of key district roads.",
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-011",
+            "districtId": "idukki",
+            "title": "Munnar Flyover Bypass Road",
+            "shortTitle": "Munnar Flyover",
+            "category": "transport",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Construction of Munnar flyover bypass road.",
+            "impact": "Traffic decongestion in Munnar town.",
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "tags": [
+                "flyover",
+                "bypass",
+                "tourism"
+            ]
+        },
+        {
+            "id": "proj-012",
+            "districtId": "idukki",
+            "title": "Painavu - Idukki Bypass Road",
+            "shortTitle": "Painavu Bypass",
+            "category": "transport",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Construction of Painavu - Idukki Bypass Road.",
+            "impact": "Better connectivity to district headquarters.",
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "tags": [
+                "bypass",
+                "roads"
+            ]
+        },
+        {
+            "id": "proj-013",
+            "districtId": "idukki",
+            "title": "Thookupalam - Kattappana Road",
+            "shortTitle": "Thookupalam-Kattappana Road",
+            "category": "transport",
+            "status": "planned",
+            "year": 2017,
+            "budget": "₹0.00",
+            "description": "Improvements and providing BM&BC to Thookupalam - Kattappana Road.",
+            "impact": "Road surface improvement.",
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
+            "tags": [
+                "roads",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-014",
+            "districtId": "idukki",
+            "title": "Upgradation of Taluk Hospital Nedumkandam (Phase I)",
+            "shortTitle": "TH Nedumkandam",
+            "category": "health",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹70.03 Crore",
+            "description": "Upgradation of Taluk Hospital Nedumkandam, including procurement of medical equipment.",
+            "impact": "Improved healthcare facilities.",
+            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "tags": [
+                "health",
+                "hospital",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-015",
+            "districtId": "idukki",
+            "title": "Development of Taluk Hospital Adimali",
+            "shortTitle": "TH Adimali",
+            "category": "health",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹12.54 Crore",
+            "description": "Development of OP Unit, Casualty Block, and Diagnostic Facilities at TH Adimali.",
+            "impact": "Enhanced medical services.",
+            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "tags": [
+                "health",
+                "hospital"
+            ]
+        },
+        {
+            "id": "proj-016",
+            "districtId": "idukki",
+            "title": "Development of Taluk Hospital Peerumedu",
+            "shortTitle": "TH Peerumedu",
+            "category": "health",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹2.50 Crore",
+            "description": "Development of Out Patient Unit, Casualty Block & Diagnostics Facilities in Taluk Hospital, Peerumedu.",
+            "impact": "Better patient care.",
+            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "tags": [
+                "health",
+                "hospital"
+            ]
+        },
+        {
+            "id": "proj-017",
+            "districtId": "idukki",
+            "title": "Taluk Level Hospital at Munnar",
+            "shortTitle": "Munnar Hospital",
+            "category": "health",
+            "status": "planned",
+            "year": 2018,
+            "budget": "₹0.00",
+            "description": "Proposed Taluk Level Hospital at Munnar.",
+            "impact": "Healthcare access for plantation workers and tourists.",
+            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
+            "tags": [
+                "health",
+                "hospital"
+            ]
+        },
+        {
+            "id": "proj-018",
+            "districtId": "idukki",
+            "title": "Augmentation of Urban WSS to Thodupuzha Municipality",
+            "shortTitle": "Thodupuzha WSS",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹142.61 Crore",
+            "description": "Augmentation of Urban Water Supply Scheme to Thodupuzha Municipality (Phase I & II).",
+            "impact": "Reliable drinking water supply.",
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "tags": [
+                "water supply",
+                "urban"
+            ]
+        },
+        {
+            "id": "proj-019",
+            "districtId": "idukki",
+            "title": "WSS to Ayyappankovil Panchayath",
+            "shortTitle": "Ayyappankovil WSS",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹46.42 Crore",
+            "description": "Water Supply Scheme to Ayyappankovil panchayath.",
+            "impact": "Rural water supply.",
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "tags": [
+                "water supply",
+                "rural"
+            ]
+        },
+        {
+            "id": "proj-020",
+            "districtId": "idukki",
+            "title": "Cheruthoni River Bank Protection",
+            "shortTitle": "Cheruthoni Protection",
+            "category": "environment",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹5.37 Crore",
+            "description": "Protecting both banks of Cheruthoni River downstream of Cheruthoni old bridge in Vazhathoppu and Mariyapuram GPs.",
+            "impact": "Flood protection and riverbank stabilization.",
+            "image": "/src/assets/images/CATEGORIES/environment.jpg",
+            "tags": [
+                "water resources",
+                "protection",
+                "river"
+            ]
+        },
+        {
+            "id": "proj-021",
+            "districtId": "idukki",
+            "title": "Check Dam cum Bridge across Palkulam Thodu",
+            "shortTitle": "Palkulam Check Dam",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹7.44 Crore",
+            "description": "Construction of Check Dam-cum-Bridge across Palkulam Thodu near Seminarypadi.",
+            "impact": "Water conservation and connectivity.",
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "tags": [
+                "check dam",
+                "bridge",
+                "water"
+            ]
+        },
+        {
+            "id": "proj-022",
+            "districtId": "idukki",
+            "title": "Check Dam cum Bridge across Chinnar River",
+            "shortTitle": "Chinnar Check Dam",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹7.70 Crore",
+            "description": "Construction of check dam-cum-bridge across Chinnar river near Madampadi.",
+            "impact": "Water storage and transport.",
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "tags": [
+                "check dam",
+                "bridge"
+            ]
+        },
+        {
+            "id": "proj-023",
+            "districtId": "idukki",
+            "title": "K.P Thomas Indoor Stadium, Nedumkandom",
+            "shortTitle": "Nedumkandom Stadium",
+            "category": "sports",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹33.78 Crore",
+            "description": "Construction of K.P Thomas Indoor Stadium at Nedumkandom.",
+            "impact": "Sports facility development.",
+            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
+            "tags": [
+                "sports",
+                "stadium",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-024",
+            "districtId": "idukki",
+            "title": "Construction of Nedumkandom Gramapanchayath Stadium",
+            "shortTitle": "Nedumkandom GP Stadium",
+            "category": "sports",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹9.40 Crore",
+            "description": "Construction of a stadium for Nedumkandom Gramapanchayath.",
+            "impact": "Local sports infrastructure.",
+            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
+            "tags": [
+                "sports",
+                "stadium"
+            ]
+        },
+        {
+            "id": "proj-025",
+            "districtId": "idukki",
+            "title": "Construction of Court Complex at Peerumedu",
+            "shortTitle": "Peerumedu Court",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹28.22 Crore",
+            "description": "Construction of Court Complex at Peerumedu.",
+            "impact": "Judicial infrastructure improvement.",
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "tags": [
+                "court",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-026",
+            "districtId": "idukki",
+            "title": "Construction of Court Complex at Nedumkandom",
+            "shortTitle": "Nedumkandom Court",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹32.84 Crore",
+            "description": "Construction of Court Complex at Nedumkandom.",
+            "impact": "Improved legal facilities.",
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "tags": [
+                "court",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-027",
+            "districtId": "idukki",
+            "title": "Sub Registrar Offices Construction (Cluster III)",
+            "shortTitle": "Idukki SROs",
+            "category": "infrastructure",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹18.17 Crore",
+            "description": "Construction of Sub Registrar Offices at Thopramkudi, Udumbanchola (Mundiyeruma), and Thodupuzha.",
+            "impact": "Administrative infrastructure.",
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
+            "tags": [
+                "registration",
+                "office",
+                "infrastructure"
+            ]
+        },
+        {
+            "id": "proj-028",
+            "districtId": "idukki",
+            "title": "Idukki-Thiruvananthapuram Cluster Engineering Colleges",
+            "shortTitle": "Engineering Colleges Cluster",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹41.60 Crore",
+            "description": "Infrastructure development for Engineering colleges in Idukki and Thiruvananthapuram cluster.",
+            "impact": "Higher education facilities.",
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "tags": [
+                "education",
+                "engineering",
+                "college"
+            ]
+        },
+        {
+            "id": "proj-029",
+            "districtId": "idukki",
+            "title": "Govt. Polytechnic Vandiperiyar & Perumbavoor",
+            "shortTitle": "Polytechnic Vandiperiyar",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹19.56 Crore",
+            "description": "Development of Government Polytechnic College at Vandiperiyar (shared project with Perumbavoor).",
+            "impact": "Technical education.",
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "tags": [
+                "education",
+                "polytechnic"
+            ]
+        },
+        {
+            "id": "proj-030",
+            "districtId": "idukki",
+            "title": "Govt ITI Kattappana Upgradation",
+            "shortTitle": "ITI Kattappana",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹25.53 Crore",
+            "description": "Upgradation of Govt ITI Kattappana to international standards (part of multi-ITI project).",
+            "impact": "Skill development.",
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "tags": [
+                "education",
+                "skills",
+                "ITI"
+            ]
+        },
+        {
+            "id": "proj-031",
+            "districtId": "idukki",
+            "title": "GEC Idukki Development",
+            "shortTitle": "GEC Idukki",
+            "category": "education",
+            "status": "planned",
+            "year": 2018,
+            "budget": "₹0.00",
+            "description": "Development works for Government Engineering College Idukki.",
+            "impact": "Higher education infrastructure.",
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "tags": [
+                "education",
+                "college"
+            ]
+        },
+        {
+            "id": "proj-032",
+            "districtId": "idukki",
+            "title": "Idukki Cluster (General Education)",
+            "shortTitle": "Idukki Schools",
+            "category": "education",
+            "status": "ongoing",
+            "year": 2017,
+            "budget": "₹25.00 Crore",
+            "description": "Infrastructure upgradation of schools in Idukki under various clusters (Phase 2, Phase 3).",
+            "impact": "School infrastructure improvement.",
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
+            "tags": [
+                "education",
+                "schools"
+            ]
+        }
+    ]
 }

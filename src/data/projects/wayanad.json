@@ -11,7 +11,7 @@
             "budget": "₹18.67 Crore",
             "description": "Construction of District Stadium in Wayanad.",
             "impact": "Enhances sports infrastructure in the district.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
             "tags": [
                 "sports",
                 "stadium"
@@ -28,7 +28,7 @@
             "budget": "₹17.09 Crore",
             "description": "Infrastructure upgradation of schools in Wayanad Cluster 25.",
             "impact": "Improves school facilities.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -45,7 +45,7 @@
             "budget": "₹16.49 Crore",
             "description": "Infrastructure upgradation of schools in Wayanad Cluster 26.",
             "impact": "Improves school facilities.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -62,7 +62,7 @@
             "budget": "₹15.27 Crore",
             "description": "Construction of Njettara Bridge across Kalinthi river in Thirunelli Panchayath.",
             "impact": "Improves rural connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "transport"
@@ -79,7 +79,7 @@
             "budget": "₹23.34 Crore",
             "description": "Infrastructure upgradation of schools in Thrissur and Wayanad Cluster.",
             "impact": "Educational infrastructure development.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -96,7 +96,7 @@
             "budget": "₹12.00 Crore",
             "description": "Infrastructure upgradation of schools in Wayanad Cluster Phase 7.",
             "impact": "School facilities improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -113,7 +113,7 @@
             "budget": "₹9.80 Crore",
             "description": "Setting up of Carbon Neutral Coffee Park at Wayanad.",
             "impact": "Promotes coffee industry and sustainability.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INDUSTRY.png",
             "tags": [
                 "industry",
                 "agriculture",
@@ -131,7 +131,7 @@
             "budget": "₹45.55 Crore",
             "description": "Providing BM&BC to Mananthavady Kaithakkal road between km 0/000 to 10/415.",
             "impact": "Road surface improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -148,7 +148,7 @@
             "budget": "₹17.78 Crore",
             "description": "Providing BM&BC in between chainage 20.540 to 25.430 of Mananthavady Pakramthalam road.",
             "impact": "Road infrastructure upgrade.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -165,7 +165,7 @@
             "budget": "₹186.65 Crore",
             "description": "Construction of Hill Highway in Wayanad District-1st Phase: Kottiyoor Boys town road, Boys town-Valat Kunkichira road, Thalasseri Bavali Road, and Mananthavady-Kalpetta Road.",
             "impact": "Major connectivity boost for high ranges.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "hill highway"
@@ -182,7 +182,7 @@
             "budget": "₹72.19 Crore",
             "description": "Improvements and Upgradation of Beenachi - Panamaram Road between Km 0/000 - 22/200.",
             "impact": "Road improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -199,7 +199,7 @@
             "budget": "₹36.76 Crore",
             "description": "Construction of C.K. Omkaranadhan Indoor Stadium in Wayanad.",
             "impact": "Sports infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
             "tags": [
                 "sports",
                 "stadium"
@@ -216,7 +216,7 @@
             "budget": "₹10.00 Crore",
             "description": "Upgradation of one school in each constituency - Wayanad District Phase-1.",
             "impact": "School infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -233,7 +233,7 @@
             "budget": "₹10.27 Crore",
             "description": "Infrastructure upgradation of schools/colleges in Kozhikode-Wayanad Cluster Phase-3.",
             "impact": "Educational facilities improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "college"
@@ -250,7 +250,7 @@
             "budget": "₹18.00 Crore",
             "description": "Distribution Line Extension from ongoing WSS to Mananthvady, Edavaka and Nalloornadu villages.",
             "impact": "Water supply extension.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water supply",
                 "rural"
@@ -267,7 +267,7 @@
             "budget": "₹20.45 Crore",
             "description": "Infrastructure development for Engineering colleges in Kozhikode and Wayanad cluster.",
             "impact": "Higher education infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "college",
@@ -285,7 +285,7 @@
             "budget": "₹47.42 Crore",
             "description": "Providing BM & BC to Kaniyambatta-Meenanagdi Road.",
             "impact": "Road improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -302,7 +302,7 @@
             "budget": "₹55.25 Crore",
             "description": "Improvements and Upgradation of Kappiset Payyampally Road between KM 0/000 - 12/730 and 16/730-20/230.",
             "impact": "Road improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -319,7 +319,7 @@
             "budget": "₹13.29 Crore",
             "description": "Augmentation of Infrastructure facilities at NMSM Goverment College, Kalpetta.",
             "impact": "Higher education infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "college"
@@ -336,7 +336,7 @@
             "budget": "₹30.00 Crore",
             "description": "Phase 2 of infrastructure upgradation in Kozhikode-Wayanad Cluster.",
             "impact": "Educational facilities improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -353,7 +353,7 @@
             "budget": "₹2,134.50 Crore",
             "description": "Construction of Anakkampoil Kalladi Meppadi Tunnel road connecting Kozhikode and Wayanad.",
             "impact": "Major connectivity project to bypass Thamarassery ghat.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "tunnel",
                 "transport",
@@ -371,7 +371,7 @@
             "budget": "₹11.94 Crore",
             "description": "Centre of Excellence in One Health: Western Ghats Biodiversity, Wildlife-Human Interface, and Zoonotic Diseases (KVASU Pookode).",
             "impact": "Research on zoonotic diseases and biodiversity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
             "tags": [
                 "health",
                 "research",
@@ -389,7 +389,7 @@
             "budget": "₹15.70 Crore",
             "description": "Infrastructure upgradation of schools in Wayanad Phase-3 Cluster.",
             "impact": "School facilities improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -406,7 +406,7 @@
             "budget": "₹50.15 Crore",
             "description": "Improvements to Meppadi-Chooralmala Road.",
             "impact": "Road improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -423,7 +423,7 @@
             "budget": "₹13.35 Crore",
             "description": "Infrastructure for Govt. Polytechnic Meppadi, Govt. Polytechnic Mananthavady (part of multi-district cluster).",
             "impact": "Technical education infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "polytechnic"
@@ -440,7 +440,7 @@
             "budget": "₹57.91 Crore",
             "description": "Providing BM & BC to Kalpetta-Varambatta Road.",
             "impact": "Road improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -457,7 +457,7 @@
             "budget": "₹63.78 Crore",
             "description": "Hill Highway 2nd Phase Kalpetta Constituency: Pachilakkad-Kainatty-Kalpetta Bypass-Meppadi-Chooralmala Arunappuzha and Mananthavady-Kalpetta Road improvements.",
             "impact": "Hill highway connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "hill highway"
@@ -474,7 +474,7 @@
             "budget": "₹3.33 Crore",
             "description": "Infrastructure upgradation in Wayanad Kozhikode Cluster Phase 4.",
             "impact": "Educational facilities.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "college"
@@ -491,7 +491,7 @@
             "budget": "₹46.93 Crore",
             "description": "Improvements and upgradation of Sulthan Bathery- Cherambadi road.",
             "impact": "Inter-state road connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -508,7 +508,7 @@
             "budget": "₹22.91 Crore",
             "description": "Construction of Kalpetta Chuzhali Bridge.",
             "impact": "Bridge connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "transport"
@@ -525,7 +525,7 @@
             "budget": "₹36.52 Crore",
             "description": "Hill Highway Kunhome - Niravilpuzha - Chunkakkutty (Ch 0/000 to Ch 8/521).",
             "impact": "Hill highway connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "hill highway"
@@ -542,7 +542,7 @@
             "budget": "₹20.90 Crore",
             "description": "Improvements to Kaniyaram- Arattuthara Road between km. 0/00 to 10/450.",
             "impact": "Road improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -559,7 +559,7 @@
             "budget": "₹14.02 Crore",
             "description": "Construction of Mannarkundu Bridge.",
             "impact": "Bridge connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "transport"
@@ -576,7 +576,7 @@
             "budget": "₹41.73 Crore",
             "description": "Providing BM&BC to Kakkavayal Kolavayal Karyambadi Kenichira Pulpally Road.",
             "impact": "Road improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -593,7 +593,7 @@
             "budget": "₹0.00",
             "description": "Development of Taluk Head Quarters Hospital Vythiri.",
             "impact": "Healthcare infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
             "tags": [
                 "health",
                 "hospital"
@@ -610,7 +610,7 @@
             "budget": "₹0.00",
             "description": "Development of General Hospital Kalpetta.",
             "impact": "Healthcare infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
             "tags": [
                 "health",
                 "hospital"
@@ -627,7 +627,7 @@
             "budget": "₹0.00",
             "description": "Improvements to Mananthavady - Ondayangadi - Thrissilery - Scenery Road km. 0/000 to 7/500.",
             "impact": "Road improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -644,7 +644,7 @@
             "budget": "₹0.00",
             "description": "Construction of Kottathara Dam Site Bridge.",
             "impact": "Bridge connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "transport"
@@ -661,7 +661,7 @@
             "budget": "₹0.00",
             "description": "Construction of Midway Shelter at Maniyankode.",
             "impact": "Pilgrim/Tourism amenities.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "devaswom",
                 "tourism",

@@ -11,7 +11,7 @@
             "budget": "₹34.32 Crore",
             "description": "Construction of Malampuzha Ring Road Bridge across Mayiladi River in Malampuzha constituency.",
             "impact": "Improves connectivity in the Malampuzha tourism and residential area.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "transport",
@@ -29,7 +29,7 @@
             "budget": "₹15.84 Crore",
             "description": "Construction of Pazhampalakkode Pandikkadavu Kodathur Bridge and Road.",
             "impact": "Enhances rural connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "roads",
@@ -47,7 +47,7 @@
             "budget": "₹161.22 Crore",
             "description": "Improvements to Mannarkad-Chinnathadakam road Phase I chainage 0/000 to 8/000.",
             "impact": "Upgrades a key inter-state connector road.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -64,7 +64,7 @@
             "budget": "₹21.40 Crore",
             "description": "Construction of Regulator Cum Bridge across Chittur Puzha at Vadakarappally Palthulli Grama Panchayath.",
             "impact": "Water resource management and transport.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "bridge",
                 "regulator",
@@ -82,7 +82,7 @@
             "budget": "₹52.59 Crore",
             "description": "Construction of a new bridge at Pattambi.",
             "impact": "Relieves traffic congestion in Pattambi town.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "transport"
@@ -99,7 +99,7 @@
             "budget": "₹24.50 Crore",
             "description": "Augmentation of Nenmara, Ayilur & Melarcode Water Scheme in Chittur & Alathur Taluks.",
             "impact": "Improves water supply in Chittur and Alathur taluks.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water supply",
                 "rural"
@@ -116,7 +116,7 @@
             "budget": "₹65.76 Crore",
             "description": "Construction of a modern Court Complex at Palakkad.",
             "impact": "Improves judicial infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "court",
                 "building",
@@ -134,7 +134,7 @@
             "budget": "₹53.95 Crore",
             "description": "Development and infrastructure upgradation of Taluk Hospital Chittur.",
             "impact": "Enhanced healthcare services for Chittur taluk.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
             "tags": [
                 "health",
                 "hospital"
@@ -151,7 +151,7 @@
             "budget": "₹11.16 Crore",
             "description": "Construction of Chullimadu Bridge in Palakkad District.",
             "impact": "Local connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "transport"
@@ -168,7 +168,7 @@
             "budget": "₹98.89 Crore",
             "description": "Comprehensive development of District Hospital Palakkad.",
             "impact": "Boosts tertiary healthcare facilities in the district.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
             "tags": [
                 "health",
                 "hospital",
@@ -186,7 +186,7 @@
             "budget": "₹15.99 Crore",
             "description": "Construction of Uttara Bridge and Uttara Railway Over Bridge.",
             "impact": "Improves rail and river crossing connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "railway",
@@ -204,7 +204,7 @@
             "budget": "₹38.20 Crore",
             "description": "Construction of Koduvayoor Bypass.",
             "impact": "Reduces traffic congestion in Koduvayoor town.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bypass",
                 "roads"
@@ -221,7 +221,7 @@
             "budget": "₹29.48 Crore",
             "description": "Construction of Regulator Cum Bridge across Thoothapuzha at the downstream of Kaladikunnu LIS in Thiruvegapura Panchayath.",
             "impact": "Water regulation and connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "bridge",
                 "regulator",
@@ -239,7 +239,7 @@
             "budget": "₹78.06 Crore",
             "description": "Construction of Ottappalam Bypass.",
             "impact": "Major traffic relief for Ottappalam town.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bypass",
                 "roads"
@@ -256,7 +256,7 @@
             "budget": "₹35.00 Crore",
             "description": "Augmentation of Urban Water Supply to Shoranur Municipality and Vaniyamkulam Panchayath.",
             "impact": "Ensures drinking water supply to urban and rural areas.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water supply",
                 "urban"
@@ -273,7 +273,7 @@
             "budget": "₹16.36 Crore",
             "description": "Improvements to Adakkaputhur Kalluvazhi Road km 0/000 to 5/550.",
             "impact": "Road infrastructure upgrade.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -290,7 +290,7 @@
             "budget": "₹15.22 Crore",
             "description": "Improvements to Pathamkulam Vaniyamkulam road Km 0/000 to 6/050 and Vaniyamkulam - Kothakurussi road.",
             "impact": "Road connectivity improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -307,7 +307,7 @@
             "budget": "₹23.28 Crore",
             "description": "Construction of Vallapuzha Railway Over Bridge.",
             "impact": "Eliminates level crossing bottleneck.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "railway"
@@ -324,7 +324,7 @@
             "budget": "₹14.28 Crore",
             "description": "Upgradation of Govt ITI Malampuzha to international standards.",
             "impact": "Skill development infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "skills"
@@ -341,7 +341,7 @@
             "budget": "₹13.56 Crore",
             "description": "Infrastructure development for Government Arts & Science College, Pathiripala.",
             "impact": "Higher education facilities.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "college"
@@ -358,7 +358,7 @@
             "budget": "₹5.52 Crore",
             "description": "Construction of Akathethara-Nadakkavil Railway Over Bridge.",
             "impact": "Improves transport across railway lines.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "railway"
@@ -375,7 +375,7 @@
             "budget": "₹0.00",
             "description": "Improvements to Hill Highway 2nd reach from Kuttupatha to Kollengode km 72/600 to 100/500.",
             "impact": "Hill highway connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "hill highway"
@@ -392,7 +392,7 @@
             "budget": "₹8.00 Crore",
             "description": "Improvements of Karimannu-KulukkaparaKalliyampara-Ozhalapathy road in between km 0/000 to 10/400 in Chittur LA Constituency.",
             "impact": "Rural road improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -409,7 +409,7 @@
             "budget": "₹0.00",
             "description": "Construction of Hill highway First reach in Palakkad district from Kollengode to Vadakkencheri Km 100/500 to 129/000.",
             "impact": "Hill highway connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "hill highway"
@@ -426,7 +426,7 @@
             "budget": "₹12.26 Crore",
             "description": "Development of Out Patient Department, Casualty & Diagnostic Facilities in Taluk Hospital Pattambi.",
             "impact": "Improved healthcare facilities.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
             "tags": [
                 "health",
                 "hospital"
@@ -443,7 +443,7 @@
             "budget": "₹13.52 Crore",
             "description": "Development of Out Patient Department, Casualty & Diagnostic Facilities in Taluk Head Quarters Hospital Ottapalam.",
             "impact": "Enhanced medical services.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
             "tags": [
                 "health",
                 "hospital"
@@ -460,7 +460,7 @@
             "budget": "₹0.00",
             "description": "Improvements to Kambilichungam - Peruvembu Road Km 0/000 to 11/000.",
             "impact": "Road upgradation.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -477,7 +477,7 @@
             "budget": "₹15.07 Crore",
             "description": "Development of Out Patient Department, Casualty & Diagnostic Facilities in Taluk Hospital Alathur.",
             "impact": "Better patient care.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
             "tags": [
                 "health",
                 "hospital"
@@ -494,7 +494,7 @@
             "budget": "₹12.10 Crore",
             "description": "Development of Out Patient Department, Casualty & Diagnostic Facilities in Taluk Head Quarters Hospital Mannarkkad.",
             "impact": "Healthcare infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/HEALTH.png",
             "tags": [
                 "health",
                 "hospital"
@@ -511,7 +511,7 @@
             "budget": "₹28.30 Crore",
             "description": "Comprehensive Drinking Water projects in Karimba and Kongad Panchayaths.",
             "impact": "Drinking water supply.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water supply",
                 "rural"
@@ -528,7 +528,7 @@
             "budget": "₹35.65 Crore",
             "description": "Improvements to Pudunagaram Kinassery Road Km 0/000 to 7/791.",
             "impact": "Road improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -545,7 +545,7 @@
             "budget": "₹8.55 Crore",
             "description": "Augmentation of Infrastructural facilities at Sree Neelakanta Government Sanskrit College, Pattambi.",
             "impact": "Educational facilities upgrade.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "college"
@@ -562,7 +562,7 @@
             "budget": "₹17.58 Crore",
             "description": "Elevenchery- Pallassana Comprehensive Drinking water project.",
             "impact": "Potable water supply.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water supply",
                 "rural"
@@ -579,7 +579,7 @@
             "budget": "₹28.07 Crore",
             "description": "Construction of Odannur Bridge and Ezhuthumpara (Ezhuthumchira) Bridge.",
             "impact": "Bridge connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "transport"
@@ -596,7 +596,7 @@
             "budget": "₹20.36 Crore",
             "description": "1. Bridge over Thonnalippuzha in Erattakulam Vaniyampara road and 2. Arangattukadavu Bridge.",
             "impact": "Transport infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "transport"
@@ -613,7 +613,7 @@
             "budget": "₹32.89 Crore",
             "description": "Improvements and providing BM & BC to Kazhani Pazhambalacode Road from Km 0/000 to 8/718.",
             "impact": "Road surface improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -630,7 +630,7 @@
             "budget": "₹7.70 Crore",
             "description": "Improvements to Kannanore-Chungamannam Road Km 0/000 to 5/200.",
             "impact": "Road improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -647,7 +647,7 @@
             "budget": "₹25.51 Crore",
             "description": "Laying distribution of Water Supply Schemes - Augmentation of WSS to Shornur Municipality and Vaniyamkulam Panchayath Phase II.",
             "impact": "Water distribution improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water supply",
                 "urban"
@@ -664,7 +664,7 @@
             "budget": "₹39.02 Crore",
             "description": "Construction of Bypass and improvements to Cherpulasseri Town.",
             "impact": "Traffic decongestion.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bypass",
                 "urban transport"
@@ -681,7 +681,7 @@
             "budget": "₹69.54 Crore",
             "description": "Vandazhi, Kizhakkencherry, Vadakkencherry & Kannambra Comprehensive Fresh Water distribution project Phase II.",
             "impact": "Rural water supply.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water supply",
                 "rural"
@@ -698,7 +698,7 @@
             "budget": "₹60.75 Crore",
             "description": "CWSS to resolve the scarcity of drinking water in various grama panchayaths in Malampuzha.",
             "impact": "Drinking water security.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water supply",
                 "rural"
@@ -715,7 +715,7 @@
             "budget": "₹82.21 Crore",
             "description": "Improvements to Nila Hospital Shornur IPT Road.",
             "impact": "Road connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -732,7 +732,7 @@
             "budget": "₹9.57 Crore",
             "description": "Construction of Para Mannukad Panampully Road Bridge across Korayar in Malampuzha constituency.",
             "impact": "Bridge connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "transport"
@@ -749,7 +749,7 @@
             "budget": "₹25.45 Crore",
             "description": "Improvements to Kanjikode Industrial Estate - Mupana Road Km 0/000-5/080.",
             "impact": "Industrial area connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "industrial"
@@ -766,7 +766,7 @@
             "budget": "₹5.35 Crore",
             "description": "Construction of Vadanamkurissi Railway Over Bridge.",
             "impact": "Railway crossing safety.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "railway"
@@ -783,7 +783,7 @@
             "budget": "₹7.50 Crore",
             "description": "Chitturpuzha Palam - Vilayodi - Vandithavalam Road.",
             "impact": "Road connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -800,7 +800,7 @@
             "budget": "₹33.19 Crore",
             "description": "Construction of ROB at Moru glass Gate near IIT Palakkad in lieu of LC No. 156.",
             "impact": "Access to IIT Palakkad.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "railway",
@@ -818,7 +818,7 @@
             "budget": "₹54.72 Crore",
             "description": "Improvements to Sreekrishnapuram Muriyamkanni Chethallur Road 0/000 12/450.",
             "impact": "Road infrastructure upgrade.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -835,7 +835,7 @@
             "budget": "₹17.65 Crore",
             "description": "Improvements to Para- Pollachi road.",
             "impact": "Inter-state connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -852,7 +852,7 @@
             "budget": "₹1.29 Crore",
             "description": "Improvements to Koottanad Junction.",
             "impact": "Traffic management.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "junction"
@@ -869,7 +869,7 @@
             "budget": "₹11.14 Crore",
             "description": "Water Supply Scheme to Ambalappara Panchayath in Ottapalam Taluk.",
             "impact": "Rural water supply.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water supply",
                 "rural"
@@ -886,7 +886,7 @@
             "budget": "₹66.81 Crore",
             "description": "Improvement works to Kongad-Mannarkkad Tippu Sulthan Road from Km 0/000-16/990.",
             "impact": "Historical road improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -903,7 +903,7 @@
             "budget": "₹106.32 Crore",
             "description": "Comprehensive drinking water supply schemes to Perumatty, Pattenchery, Elappully, Nallepilly panchayaths (Phase II 29.10 Cr, Phase III 77.22 Cr).",
             "impact": "Major water supply project.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water supply",
                 "rural"
@@ -920,7 +920,7 @@
             "budget": "₹28.33 Crore",
             "description": "Ottapalam - Perinthalmanna Road CH 11/000 to 16/850 Widening and Improvement.",
             "impact": "Road widening.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -937,7 +937,7 @@
             "budget": "₹21.57 Crore",
             "description": "Widening & Providing BM& BC to MES College Payyanadam Road KM 0/000-8/000.",
             "impact": "Educational institution connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "education"
@@ -954,7 +954,7 @@
             "budget": "₹24.70 Crore",
             "description": "Comprehensive Water Supply Scheme to Kozhinjampara, Vadakarapathy and Eruthempathy.",
             "impact": "Drought prone area water supply.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water supply",
                 "rural"
@@ -971,7 +971,7 @@
             "budget": "₹37.53 Crore",
             "description": "Improvements & Providing BM and BC to Chirakkalpadi Kanhirappuzha Road from Km 0/00 to 8/00.",
             "impact": "Road quality improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -988,7 +988,7 @@
             "budget": "₹12.66 Crore",
             "description": "Improvements to Railway Colony- Dhoni- Muttikkulangara road.",
             "impact": "Local connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1005,7 +1005,7 @@
             "budget": "₹31.31 Crore",
             "description": "Construction of Kodamunda Flyover at Pattambi.",
             "impact": "Traffic ease.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "flyover",
                 "transport"
@@ -1022,7 +1022,7 @@
             "budget": "₹255.18 Crore",
             "description": "Extension of Moolathara Right Bank Canal from Korayar to Varattayar.",
             "impact": "Irrigation expansion.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "irrigation",
                 "agriculture"
@@ -1039,7 +1039,7 @@
             "budget": "₹22.00 Crore",
             "description": "Comprehensive WSS to Thachanattukara, Alanallur and Kottopadam panchayaths in Mannarkkad taluk.",
             "impact": "Water supply.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "water supply",
                 "rural"
@@ -1056,7 +1056,7 @@
             "budget": "₹17.43 Crore",
             "description": "Construction of Municipal Building for Pattambi Municipality (shared project with Koothatukulam).",
             "impact": "Civic infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "building",
                 "municipality"
@@ -1073,7 +1073,7 @@
             "budget": "₹14.53 Crore",
             "description": "Construction of Alathur Parakkunam Bridge and approach road.",
             "impact": "Bridge connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "transport"
@@ -1090,7 +1090,7 @@
             "budget": "₹73.21 Crore",
             "description": "Hill Highway from Kannimari Medu to Nedumani CH: 14/860 TO CH: 30/590.",
             "impact": "Hill highway connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "hill highway"
@@ -1107,7 +1107,7 @@
             "budget": "₹10.73 Crore",
             "description": "Kamba Chalikadavu Bridge across Kalpathy River Bharathpuzha.",
             "impact": "River crossing.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "transport"
@@ -1124,7 +1124,7 @@
             "budget": "₹62.43 Crore",
             "description": "Construction/Improvement of Ottappalam - Cherpulassery Road.",
             "impact": "Road connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1141,7 +1141,7 @@
             "budget": "₹75.83 Crore",
             "description": "Upgradation of Kollenkode - Vadakkancherry road - Nenmara Bypass end to Thankom Junction Stretch 3B.",
             "impact": "Hill highway connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "hill highway"
@@ -1158,7 +1158,7 @@
             "budget": "₹91.41 Crore",
             "description": "Construction of Hill Highway section Kanjirampara Masjid-Kumaramputhur.",
             "impact": "Hill highway connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "hill highway"
@@ -1175,7 +1175,7 @@
             "budget": "₹73.21 Crore",
             "description": "Hill Highway from Gopalapuram to Kannimari Medu CH 0/000 TO CH 14/860.",
             "impact": "Hill highway connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "hill highway"
@@ -1192,7 +1192,7 @@
             "budget": "₹68.81 Crore",
             "description": "Construction of V.T. Bhattathirappad Cultural Complex at Palakkad.",
             "impact": "Cultural centre.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/CULTURE.png",
             "tags": [
                 "culture",
                 "infrastructure"
@@ -1209,7 +1209,7 @@
             "budget": "₹33.18 Crore",
             "description": "Improvements to Kollengode-Vadakkancherry Road - Stretch-3A from Panangattiri to Vithanassery.",
             "impact": "Hill highway connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "hill highway"
@@ -1226,7 +1226,7 @@
             "budget": "₹14.56 Crore",
             "description": "Construction of Indoor Stadium in Palakkad.",
             "impact": "Sports infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
             "tags": [
                 "sports",
                 "stadium"
@@ -1243,7 +1243,7 @@
             "budget": "₹9.94 Crore",
             "description": "Construction of Indoor Stadium at Sree Neelakanta Govt. Sanskrit College, Pattambi.",
             "impact": "Sports infrastructure for education.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
             "tags": [
                 "sports",
                 "stadium",
@@ -1261,7 +1261,7 @@
             "budget": "₹25.45 Crore",
             "description": "Construction of Revenue Tower at Pattambi.",
             "impact": "Government office infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "building",
                 "revenue",
@@ -1279,7 +1279,7 @@
             "budget": null,
             "description": "Development of Mango Park at Muthalamada.",
             "impact": "Agricultural value addition.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/AGRICULTURE.png",
             "tags": [
                 "agriculture",
                 "park"
@@ -1296,7 +1296,7 @@
             "budget": "₹17.73 Crore",
             "description": "Establishment of a Craft Village (Backward Classes Development Department).",
             "impact": "Promotion of traditional crafts.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/CULTURE.png",
             "tags": [
                 "crafts",
                 "culture",
@@ -1314,7 +1314,7 @@
             "budget": "₹0.00",
             "description": "Improvements to Pattambi - Cherpullasery road.",
             "impact": "Road connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1331,7 +1331,7 @@
             "budget": "₹0.00",
             "description": "Improvements to Padinjarangadi Manniyamperumpalam road km 0/000 to 6/020.",
             "impact": "Road connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1348,7 +1348,7 @@
             "budget": "₹21.87 Crore",
             "description": "Construction of Alathur ROB (LC no: 33 at KM 51/600-700).",
             "impact": "Railway crossing safety.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "railway"
@@ -1365,7 +1365,7 @@
             "budget": "₹10.30 Crore",
             "description": "Infrastructure development at Government College Kozhinjampara and Chittoor.",
             "impact": "Higher education infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "college"
@@ -1382,7 +1382,7 @@
             "budget": "₹5.54 Crore",
             "description": "Construction of Sports Complex at Chittoor Govt. College.",
             "impact": "Sports facilities.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
             "tags": [
                 "sports",
                 "college",
@@ -1400,7 +1400,7 @@
             "budget": "₹0.00",
             "description": "Cut and Cover IMA Junction Malampuzha Canal Civil Station Road.",
             "impact": "Urban infrastructure improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "canal",
                 "urban",
@@ -1418,7 +1418,7 @@
             "budget": "₹0.00",
             "description": "Improvements to Pattambi Amayoor Road.",
             "impact": "Road connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1435,7 +1435,7 @@
             "budget": "₹0.00",
             "description": "Improvements to Kambilichungam - Peruvembu Road KM 0/000 TO 11/000.",
             "impact": "Road connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "roads",
                 "infrastructure"
@@ -1452,7 +1452,7 @@
             "budget": "₹0.00",
             "description": "Construction of L B Canal Aqueduct Puzhappalm Bridge and Approach Road.",
             "impact": "Irrigation infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "irrigation",
                 "bridge"
@@ -1469,7 +1469,7 @@
             "budget": "₹0.00",
             "description": "Construction of Parali bridge across Bharathapuzha at Km 12/0000 of Palakkad Ponnani road.",
             "impact": "Bridge connectivity.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bridge",
                 "transport"
@@ -1486,7 +1486,7 @@
             "budget": "₹0.00",
             "description": "Mangalam Tower Market Road Bypass (ch 0/000 to ch 1/658.11).",
             "impact": "Urban traffic relief.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/TRANSPORT.png",
             "tags": [
                 "bypass",
                 "roads"
@@ -1503,7 +1503,7 @@
             "budget": "₹15.69 Crore",
             "description": "Sports infrastructure development at Thirumittacode Chathannoor HSS (Palakkad) and Edappal Government HSS (Malappuram).",
             "impact": "School sports infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/SPORTS.png",
             "tags": [
                 "sports",
                 "school",
@@ -1521,7 +1521,7 @@
             "budget": "₹24.17 Crore",
             "description": "DPR for Palakkad Slaughter house (shared with Punalur).",
             "impact": "Public health infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/INFRASTRUCTURE.png",
             "tags": [
                 "abattoir",
                 "sanitation"
@@ -1538,7 +1538,7 @@
             "budget": "₹23.35 Crore",
             "description": "Infrastructure upgradation of schools in Palakkad Cluster 1.",
             "impact": "School facilities improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -1555,7 +1555,7 @@
             "budget": "₹19.34 Crore",
             "description": "Infrastructure upgradation of schools in Palakkad Cluster 2.",
             "impact": "School facilities improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -1572,7 +1572,7 @@
             "budget": "₹23.29 Crore",
             "description": "Infrastructure upgradation of schools in Palakkad Cluster 3.",
             "impact": "School facilities improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -1589,7 +1589,7 @@
             "budget": "₹18.05 Crore",
             "description": "Infrastructure upgradation of schools in Palakkad Cluster 11.",
             "impact": "School facilities improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -1606,7 +1606,7 @@
             "budget": "₹16.65 Crore",
             "description": "Infrastructure upgradation of schools in Palakkad Cluster 12.",
             "impact": "School facilities improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -1623,7 +1623,7 @@
             "budget": "₹29.66 Crore",
             "description": "Phase 2 of school infrastructure upgradation in Palakkad cluster.",
             "impact": "School facilities improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -1640,7 +1640,7 @@
             "budget": "₹20.00 Crore",
             "description": "Phase 3 of school infrastructure upgradation in Palakkad cluster.",
             "impact": "School facilities improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -1657,7 +1657,7 @@
             "budget": "₹0.00",
             "description": "Phase 8 of school infrastructure upgradation in Palakkad cluster.",
             "impact": "School facilities improvement.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "schools"
@@ -1674,7 +1674,7 @@
             "budget": "₹8.26 Crore",
             "description": "Phase 4 of infrastructure upgradation in Palakkad Cluster 1.",
             "impact": "Higher education infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "college"
@@ -1691,7 +1691,7 @@
             "budget": "₹12.32 Crore",
             "description": "Phase 4 of infrastructure upgradation in Palakkad Cluster 2.",
             "impact": "Higher education infrastructure.",
-            "image": null,
+            "image": "/src/assets/images/CATEGORIES/EDUCATION.png",
             "tags": [
                 "education",
                 "college"
