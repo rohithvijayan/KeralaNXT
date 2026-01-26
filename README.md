@@ -25,7 +25,7 @@ Explore the stunning interface and powerful analytics tools of KeralaNXT.
 *Detailed performance metrics and expenditure breakdowns for individual MPs.*
 
 ### ⚖️ MP Comparison
-![MP Comparison](src/assets/images/pageScreenshot/MPAnalytics.png)
+![MP Comparison](src/assets/images/pageScreenshot/CompareMp.png)
 *Side-by-side comparison tool for evaluating relative performance and fund utilization across constituencies.*
 
 ### ℹ️ About KeralaNXT
