@@ -33,7 +33,7 @@ function ProjectsPage() {
     // Filter states
     const [searchQuery, setSearchQuery] = useState('')
     const [selectedDistrict, setSelectedDistrict] = useState('all')
-    const [selectedCategory, setSelectedCategory] = useState('all')
+    const [selectedCategories, setSelectedCategories] = useState(['all'])
     const [selectedStatus, setSelectedStatus] = useState('all')
     const [sortBy, setSortBy] = useState('recent')
     const [includeStatewide, setIncludeStatewide] = useState(true)
@@ -95,6 +95,28 @@ function ProjectsPage() {
     }
 
     // Filter and sort projects
+    const handleCategoryToggle = (categoryId) => {
+        if (categoryId === 'all') {
+            setSelectedCategories(['all'])
+            return
+        }
+
+        setSelectedCategories(prev => {
+            const isAll = prev.includes('all')
+            const filtered = isAll ? [] : [...prev]
+
+            if (filtered.includes(categoryId)) {
+                const updated = filtered.filter(c => c !== categoryId)
+                return updated.length === 0 ? ['all'] : updated
+            } else {
+                if (filtered.length < 3) {
+                    return [...filtered, categoryId]
+                }
+                return prev // Limit reached
+            }
+        })
+    }
+
     const filteredProjects = useMemo(() => {
         let result = [...allProjects]
 
@@ -123,9 +145,12 @@ function ProjectsPage() {
             result = result.filter(p => !p.isStatewide)
         }
 
-        // Category filter - check both 'category' and 'categoryId' field names
-        if (selectedCategory !== 'all') {
-            result = result.filter(p => (p.category === selectedCategory || p.categoryId === selectedCategory))
+        // Category filter - support multiple categories (up to 3)
+        if (!selectedCategories.includes('all')) {
+            result = result.filter(p => (
+                selectedCategories.includes(p.category) ||
+                selectedCategories.includes(p.categoryId)
+            ))
         }
 
         // Status filter
@@ -154,7 +179,7 @@ function ProjectsPage() {
         }
 
         return sortedResult
-    }, [allProjects, searchQuery, selectedDistrict, selectedCategory, selectedStatus, sortBy, includeStatewide])
+    }, [allProjects, searchQuery, selectedDistrict, selectedCategories, selectedStatus, sortBy, includeStatewide])
 
     const getStatusClass = (status) => {
         switch (status) {
@@ -223,16 +248,27 @@ function ProjectsPage() {
                     ))}
                 </select>
 
-                <select
-                    className="filter-chip"
-                    value={selectedCategory}
-                    onChange={(e) => setSelectedCategory(e.target.value)}
-                >
-                    <option value="all">All Categories</option>
-                    {categories.map(c => (
-                        <option key={c.id} value={c.id}>{c.name}</option>
-                    ))}
-                </select>
+                <div className="filter-chip-wrapper">
+                    <span className="filter-label-mobile">Categories:</span>
+                    <div className="horizontal-chips-mobile">
+                        <button
+                            className={`mobile-category-chip ${selectedCategories.includes('all') ? 'active' : ''}`}
+                            onClick={() => handleCategoryToggle('all')}
+                        >
+                            All
+                        </button>
+                        {categories.map(c => (
+                            <button
+                                key={c.id}
+                                className={`mobile-category-chip ${selectedCategories.includes(c.id) ? 'active' : ''}`}
+                                onClick={() => handleCategoryToggle(c.id)}
+                                disabled={!selectedCategories.includes(c.id) && selectedCategories.length >= 3 && !selectedCategories.includes('all')}
+                            >
+                                {c.name}
+                            </button>
+                        ))}
+                    </div>
+                </div>
 
                 <select
                     className="filter-chip"
@@ -267,8 +303,8 @@ function ProjectsPage() {
                             <h4>Category</h4>
                             <div className="category-chips">
                                 <button
-                                    className={`category-chip ${selectedCategory === 'all' ? 'active' : ''}`}
-                                    onClick={() => setSelectedCategory('all')}
+                                    className={`category-chip ${selectedCategories.includes('all') ? 'active' : ''}`}
+                                    onClick={() => handleCategoryToggle('all')}
                                 >
                                     <span className="material-symbols-outlined">apps</span>
                                     All
@@ -276,14 +312,16 @@ function ProjectsPage() {
                                 {categories.map(cat => (
                                     <button
                                         key={cat.id}
-                                        className={`category-chip ${selectedCategory === cat.id ? 'active' : ''}`}
-                                        onClick={() => setSelectedCategory(cat.id)}
+                                        className={`category-chip ${selectedCategories.includes(cat.id) ? 'active' : ''}`}
+                                        onClick={() => handleCategoryToggle(cat.id)}
+                                        disabled={!selectedCategories.includes(cat.id) && selectedCategories.length >= 3 && !selectedCategories.includes('all')}
                                     >
                                         <span className="material-symbols-outlined">{cat.icon}</span>
                                         {cat.name.split(' ')[0]}
                                     </button>
                                 ))}
                             </div>
+                            <p className="filter-limit-hint">Select up to 3 categories</p>
                         </div>
 
                         {/* Districts */}
@@ -382,7 +420,7 @@ function ProjectsPage() {
                 {/* Projects Grid */}
                 <div
                     className="projects-grid"
-                    key={`${selectedCategory}-${selectedDistrict}-${selectedStatus}-${searchQuery}-${includeStatewide}`}
+                    key={`${selectedCategories.join('-')}-${selectedDistrict}-${selectedStatus}-${searchQuery}-${includeStatewide}`}
                 >
                     {filteredProjects.length > 0 ? (
                         filteredProjects.map((project, index) => (
@@ -439,7 +477,7 @@ function ProjectsPage() {
                             <button onClick={() => {
                                 setSearchQuery('')
                                 setSelectedDistrict('all')
-                                setSelectedCategory('all')
+                                setSelectedCategories(['all'])
                                 setSelectedStatus('all')
                             }}>
                                 Clear All Filters

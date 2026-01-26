@@ -34,7 +34,7 @@ function MPDashboardPage() {
     // State
     const [searchQuery, setSearchQuery] = useState('')
     const [selectedHouse, setSelectedHouse] = useState('all')
-    const [sortBy, setSortBy] = useState('rank')
+    const [sortBy, setSortBy] = useState('percent')
     const [currentPage, setCurrentPage] = useState(1)
     const itemsPerPage = 9
 
