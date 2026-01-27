@@ -182,6 +182,20 @@ function ProjectsPage() {
         return sortedResult
     }, [allProjects, searchQuery, selectedDistrict, selectedCategories, selectedStatus, sortBy, includeStatewide])
 
+    const handleShare = (e, project) => {
+        e.stopPropagation()
+        if (navigator.share) {
+            navigator.share({
+                title: project.title,
+                text: `${project.title} - Kerala Development Showcase\n💰 Budget: ${project.budget}\n📅 Year: ${project.year}`,
+                url: window.location.href,
+            }).catch(console.error)
+        } else {
+            navigator.clipboard.writeText(`${project.title} - ${window.location.href}`)
+            alert('Link copied to clipboard!')
+        }
+    }
+
     const getStatusClass = (status) => {
         switch (status) {
             case 'completed': return 'status-completed'
@@ -464,13 +478,20 @@ function ProjectsPage() {
                                     <h3 className="project-title">{project.title}</h3>
 
                                     <div className="project-meta">
-                                        <div className="project-budget">
-                                            <span className="budget-label">Budget</span>
-                                            <span className="budget-value">{formatBudget(project.budget)}</span>
+                                        {project.budget && (
+                                            <div className="project-budget">
+                                                <span className="budget-label">Budget</span>
+                                                <span className="budget-value">{formatBudget(project.budget)}</span>
+                                            </div>
+                                        )}
+                                        <div className="project-card-actions">
+                                            <button className="project-share-btn" onClick={(e) => handleShare(e, project)}>
+                                                <span className="material-symbols-outlined">share</span>
+                                            </button>
+                                            <button className="project-arrow">
+                                                <span className="material-symbols-outlined">arrow_forward</span>
+                                            </button>
                                         </div>
-                                        <button className="project-arrow">
-                                            <span className="material-symbols-outlined">arrow_forward</span>
-                                        </button>
                                     </div>
                                 </div>
                             </motion.article>

@@ -1,0 +1,66 @@
+[
+    {
+        "category": "health",
+        "imageUrl": "HEALTH_wjgt4i"
+    },
+    {
+        "category": "education",
+        "imageUrl": "EDUCATION_kmkpl3"
+    },
+    {
+        "category": "transport",
+        "imageUrl": "TRANSPORT_ykgb8m"
+    },
+    {
+        "category": "infrastructure",
+        "imageUrl": "INFRASTRUCTURE_n6hyvp"
+    },
+    {
+        "category": "energy",
+        "imageUrl": "ENERGY_sgjgpc"
+    },
+    {
+        "category": "agriculture",
+        "imageUrl": "AGRICULTURE_nnbtsr"
+    },
+    {
+        "category": "industry",
+        "imageUrl": "INDUSTRY_fwzd3p"
+    },
+    {
+        "category": "tourism",
+        "imageUrl": "TOURISM_xfsbzi"
+    },
+    {
+        "category": "IT",
+        "imageUrl": "IT_ukwhbl"
+    },
+    {
+        "category": "environment",
+        "imageUrl": "environment_wxugxx"
+    },
+    {
+        "category": "culture",
+        "imageUrl": "CULTURE_vqtyfl"
+    },
+    {
+        "category": "sports",
+        "imageUrl": "SPORTS_pbz6cc"
+    },
+    {
+        "category": "housing",
+        "imageUrl": "housing_zsxd9p"
+    },
+    {
+        "category": "science",
+        "imageUrl": "SCIENCE_yuvoz6"
+    },
+    {
+        "category": "social",
+        "imageUrl": "social_lejjls"
+    },
+    {
+        "category": "others",
+        "imageUrl": "others_mgh2hl"
+    }
+]

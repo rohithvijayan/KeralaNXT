@@ -20,6 +20,21 @@ function ProjectCard({ project, size = 'large', onClick }) {
         it: 'computer'
     }
 
+    const handleShare = (e) => {
+        e.stopPropagation()
+        if (navigator.share) {
+            navigator.share({
+                title: project.title,
+                text: `${project.title} - Kerala Development Showcase\n💰 Budget: ${project.budget}\n📅 Year: ${project.year}`,
+                url: window.location.href,
+            }).catch(console.error)
+        } else {
+            // Fallback: Copy to clipboard
+            navigator.clipboard.writeText(`${project.title} - ${window.location.href}`)
+            alert('Link copied to clipboard!')
+        }
+    }
+
     if (size === 'small') {
         return (
             <div className="project-card-small" onClick={onClick}>
@@ -35,10 +50,13 @@ function ProjectCard({ project, size = 'large', onClick }) {
                     <span className={`project-card-badge ${status.className}`}>
                         {status.label}
                     </span>
+                    <button className="project-card-share-btn small" onClick={handleShare}>
+                        <span className="material-symbols-outlined">share</span>
+                    </button>
                 </div>
                 <div className="project-card-small-content">
                     <h3 className="project-card-small-title">{project.shortTitle || project.title}</h3>
-                    <p className="project-card-small-budget">{project.budget}</p>
+                    {project.budget && <p className="project-card-small-budget">{project.budget}</p>}
                 </div>
             </div>
         )
@@ -59,6 +77,9 @@ function ProjectCard({ project, size = 'large', onClick }) {
                     <span className="material-symbols-outlined">{status.icon}</span>
                     {status.label}
                 </span>
+                <button className="project-card-share-btn" onClick={handleShare}>
+                    <span className="material-symbols-outlined">share</span>
+                </button>
             </div>
             <div className="project-card-content">
                 <h2 className="project-card-title">{project.title}</h2>
@@ -71,9 +92,11 @@ function ProjectCard({ project, size = 'large', onClick }) {
                             {project.category.charAt(0).toUpperCase() + project.category.slice(1)}
                         </span>
                     </div>
-                    <div className="project-card-budget">
-                        <span>{project.budget}</span>
-                    </div>
+                    {project.budget && (
+                        <div className="project-card-budget">
+                            <span>{project.budget}</span>
+                        </div>
+                    )}
                 </div>
             </div>
         </article>

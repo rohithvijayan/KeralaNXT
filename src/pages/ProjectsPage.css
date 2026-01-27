@@ -633,6 +633,13 @@
     color: var(--color-text);
 }
 
+.project-card-actions {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.project-share-btn,
 .project-arrow {
     display: flex;
     align-items: center;
@@ -647,9 +654,15 @@
     transition: all var(--transition-fast);
 }
 
+.project-share-btn:hover,
 .project-arrow:hover {
     background: var(--color-primary);
     color: white;
+}
+
+.project-share-btn .material-symbols-outlined,
+.project-arrow .material-symbols-outlined {
+    font-size: 1.125rem;
 }
 
 /* No Projects */
