@@ -34,15 +34,6 @@ function Header({ showBack = false, title = "Kerala Development Tracker", onBack
                     </nav>
                 )}
 
-                <div className="header-actions">
-                    {!showBack && (
-                        <button className="header-search-btn">
-                            <span className="material-symbols-outlined">search</span>
-                            <span className="header-search-text">Search</span>
-                        </button>
-                    )}
-                    {showBack && <div className="header-spacer"></div>}
-                </div>
             </div>
         </header>
     )

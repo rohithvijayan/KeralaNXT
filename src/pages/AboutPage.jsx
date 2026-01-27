@@ -251,6 +251,20 @@ function AboutPage() {
                 <p className="about-mission-text">
                     This project is an open-source initiative dedicated to aggregating, visualizing, and simplifying access to public development data in Kerala. Built by the community for the community, we aim to foster transparency and civic engagement by transforming complex government reports into an accessible, interactive dashboard. We believe that informed citizens are the pillars of a thriving democracy
                 </p>
+
+                {/* Data Disclosure Section */}
+                <div className="disclaimer-card" style={{ marginTop: '2rem' }}>
+                    <span className="material-symbols-outlined">database</span>
+                    <div className="disclaimer-content">
+                        <h3>Data Sources & Disclaimer</h3>
+                        <p>Project data presented in this dashboard is curated from official and public records:</p>
+                        <ul>
+                            <li><strong>KIIFB Official Website</strong> (Infrastructure & Funding Data)</li>
+                            <li><strong>Kerala Government Annual Progress Reports</strong></li>
+                            <li>Official data available on various <strong>public government websites</strong></li>
+                        </ul>
+                    </div>
+                </div>
             </section>
 
             {/* Stats Section */}
@@ -421,8 +435,8 @@ function AboutPage() {
 
                 <div className="footer-credits">
                     <p className="footer-dept">Open Source Community Initiative</p>
-                    <p className="footer-subdept">Data sourced from public records & official reports</p>
-                    <p className="footer-version">Disclaimer: This is a privately maintained open-source project and is not officially affiliated with the Government of Kerala. All data is sourced from public domains.</p>
+                    <p className="footer-subdept">Data sourced from KIIFB, Govt Reports & Public Websites</p>
+                    <p className="footer-version">Disclaimer: This is a privately maintained open-source project and is not officially affiliated with the Government of Kerala.</p>
                 </div>
 
                 <p className="footer-dev">
