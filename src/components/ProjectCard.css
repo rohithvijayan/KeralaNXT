@@ -87,6 +87,49 @@
     color: white;
 }
 
+.project-card-share-btn {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.25rem;
+    height: 2.25rem;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    color: white;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+    z-index: 2;
+}
+
+.project-card-share-btn:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+    transform: scale(1.1);
+}
+
+.project-card-share-btn:active {
+    transform: scale(0.9);
+}
+
+.project-card-share-btn.small {
+    top: 0.5rem;
+    left: 0.5rem;
+    width: 1.75rem;
+    height: 1.75rem;
+}
+
+.project-card-share-btn .material-symbols-outlined {
+    font-size: 1.125rem;
+}
+
+.project-card-share-btn.small .material-symbols-outlined {
+    font-size: 0.875rem;
+}
+
 .project-card-content {
     padding: 1.25rem;
     display: flex;

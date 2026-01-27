@@ -1,6 +1,7 @@
 import { useState, useRef } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import html2canvas from 'html2canvas'
+import CldImage from './CldImage'
 import './ProjectModal.css'
 
 function ProjectModal({ project, isOpen, onClose }) {
@@ -234,9 +235,12 @@ function ProjectModal({ project, isOpen, onClose }) {
                             {/* Hero Image */}
                             <div className="modal-hero">
                                 {project.image ? (
-                                    <div
+                                    <CldImage
+                                        src={project.image}
+                                        alt={project.title}
                                         className="modal-hero-image"
-                                        style={{ backgroundImage: `url(${project.image})` }}
+                                        width={1200}
+                                        height={675}
                                     />
                                 ) : (
                                     <div className="modal-hero-gradient" />
@@ -257,13 +261,15 @@ function ProjectModal({ project, isOpen, onClose }) {
 
                                 {/* Stats Grid */}
                                 <div className="modal-stats-grid">
-                                    <div className="modal-stat-card">
-                                        <div className="modal-stat-header">
-                                            <span className="material-symbols-outlined">payments</span>
-                                            <span>Budget</span>
+                                    {project.budget && (
+                                        <div className="modal-stat-card">
+                                            <div className="modal-stat-header">
+                                                <span className="material-symbols-outlined">payments</span>
+                                                <span>Budget</span>
+                                            </div>
+                                            <p className="modal-stat-value">{project.budget}</p>
                                         </div>
-                                        <p className="modal-stat-value">{project.budget}</p>
-                                    </div>
+                                    )}
 
                                     <div className="modal-stat-card">
                                         <div className="modal-stat-header">
@@ -326,6 +332,7 @@ function ProjectModal({ project, isOpen, onClose }) {
                                     <span className="material-symbols-outlined">
                                         {isGenerating ? 'hourglass_empty' : 'share'}
                                     </span>
+                                    <span className="share-btn-text">Share</span>
                                 </button>
 
                                 {/* Share Menu */}
@@ -466,14 +473,16 @@ function ProjectModal({ project, isOpen, onClose }) {
                             gap: '16px',
                             marginBottom: '40px'
                         }}>
-                            <div style={{
-                                background: 'rgba(255,255,255,0.1)',
-                                borderRadius: '16px',
-                                padding: '20px'
-                            }}>
-                                <p style={{ fontSize: '12px', opacity: 0.7, margin: '0 0 8px 0' }}>Budget</p>
-                                <p style={{ fontSize: '24px', fontWeight: 700, margin: 0 }}>{project.budget}</p>
-                            </div>
+                            {project.budget && (
+                                <div style={{
+                                    background: 'rgba(255,255,255,0.1)',
+                                    borderRadius: '16px',
+                                    padding: '20px'
+                                }}>
+                                    <p style={{ fontSize: '12px', opacity: 0.7, margin: '0 0 8px 0' }}>Budget</p>
+                                    <p style={{ fontSize: '24px', fontWeight: 700, margin: 0 }}>{project.budget}</p>
+                                </div>
+                            )}
                             <div style={{
                                 background: 'rgba(255,255,255,0.1)',
                                 borderRadius: '16px',
@@ -496,8 +505,9 @@ function ProjectModal({ project, isOpen, onClose }) {
                         </div>
                     </div>
                 </>
-            )}
-        </AnimatePresence>
+            )
+            }
+        </AnimatePresence >
     )
 }
 
