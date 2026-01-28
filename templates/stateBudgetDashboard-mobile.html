@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>KeralaNXT Budget Hero</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&amp;family=Noto+Sans:wght@400;700&amp;display=swap"
+        rel="stylesheet" />
+    <!-- Material Symbols -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#3d665b",
+                        "background-light": "#f6f7f7",
+                        "background-dark": "#161c1a",
+                    },
+                    fontFamily: {
+                        "display": ["Plus Jakarta Sans", "sans-serif"]
+                    },
+                    borderRadius: { "DEFAULT": "0.5rem", "lg": "1rem", "xl": "1.5rem", "full": "9999px" },
+                },
+            },
+        }
+    </script>
+    <style>
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+        }
+
+        .hero-gradient {
+            background: linear-gradient(135deg, #f0f5f3 0%, #e2edea 100%);
+        }
+
+        .dark .hero-gradient {
+            background: linear-gradient(135deg, #1e2926 0%, #161c1a 100%);
+        }
+    </style>
+</head>
+
+<body
+    class="bg-background-light dark:bg-background-dark font-display text-[#131515] dark:text-white transition-colors duration-300">
+    <div class="layout-container flex h-full grow flex-col">
+        <!-- Top Navigation -->
+        <header
+            class="flex items-center justify-between whitespace-nowrap border-b border-solid border-b-[#dfe2e1] dark:border-b-[#2d3633] px-10 py-3 bg-white dark:bg-background-dark">
+            <div class="flex items-center gap-4 text-primary">
+                <div class="size-6">
+                    <svg fill="currentColor" viewbox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+                        <path
+                            d="M4 42.4379C4 42.4379 14.0962 36.0744 24 41.1692C35.0664 46.8624 44 42.2078 44 42.2078L44 7.01134C44 7.01134 35.068 11.6577 24.0031 5.96913C14.0971 0.876274 4 7.27094 4 7.27094L4 42.4379Z">
+                        </path>
+                    </svg>
+                </div>
+                <h2 class="text-primary text-xl font-extrabold leading-tight tracking-[-0.015em]">KeralaNXT</h2>
+            </div>
+            <div class="flex gap-3">
+                <button
+                    class="flex size-10 items-center justify-center rounded-xl bg-primary/10 text-primary dark:bg-primary/20 hover:bg-primary/20 transition-all">
+                    <span class="material-symbols-outlined text-[20px]">notifications</span>
+                </button>
+                <button
+                    class="flex size-10 items-center justify-center rounded-xl bg-primary/10 text-primary dark:bg-primary/20 hover:bg-primary/20 transition-all">
+                    <span class="material-symbols-outlined text-[20px]">account_circle</span>
+                </button>
+            </div>
+        </header>
+        <main class="flex flex-1 justify-center py-8 px-4 sm:px-10 lg:px-40">
+            <div class="layout-content-container flex flex-col max-w-[960px] flex-1">
+                <!-- Headline Text -->
+                <div class="flex flex-col gap-1 pb-6">
+                    <h1 class="text-[#131515] dark:text-white tracking-tight text-[32px] font-extrabold leading-tight">
+                        Dashboard Overview</h1>
+                    <p class="text-[#6f7b78] dark:text-gray-400 text-base">Real-time fiscal tracking and analytics</p>
+                </div>
+                <!-- Premium Mobile Budget Hero Card -->
+                <div
+                    class="relative w-full h-[200px] hero-gradient rounded-[20px] shadow-[0_8px_30px_rgb(0,0,0,0.04)] dark:shadow-[0_8px_30px_rgb(0,0,0,0.2)] overflow-hidden p-6 flex flex-col justify-between border border-[#e2edea]/50 dark:border-[#2d3633]">
+                    <!-- Top Section: Badge & Action -->
+                    <div class="flex justify-between items-start w-full">
+                        <div
+                            class="flex items-center gap-2 bg-white/80 dark:bg-background-dark/60 backdrop-blur-sm px-3 py-1 rounded-full border border-primary/10">
+                            <span class="flex h-2 w-2 rounded-full bg-[#07882e] animate-pulse"></span>
+                            <span class="text-primary text-[11px] font-bold tracking-wider uppercase">FY 2024-25</span>
+                        </div>
+                        <button
+                            class="size-8 flex items-center justify-center rounded-full bg-white/50 dark:bg-white/10 text-primary dark:text-white hover:bg-white transition-all shadow-sm">
+                            <span class="material-symbols-outlined text-[18px]">share</span>
+                        </button>
+                    </div>
+                    <!-- Middle Section: Key Figure -->
+                    <div class="flex flex-col mt-2">
+                        <h2
+                            class="text-[#131515] dark:text-white text-[32px] font-extrabold leading-none tracking-tight">
+                            ₹1,79,949 Cr</h2>
+                        <p class="text-[#6f7b78] dark:text-gray-400 text-sm font-medium mt-1">Total State Budget</p>
+                    </div>
+                    <!-- Bottom Section: Mini Trend Bar Chart (7 Bars) -->
+                    <div class="flex items-end gap-[6px] h-12 w-full max-w-[140px]">
+                        <div class="w-2.5 bg-primary rounded-t-[2px]" style="height: 35%;"></div>
+                        <div class="w-2.5 bg-primary rounded-t-[2px]" style="height: 55%;"></div>
+                        <div class="w-2.5 bg-primary rounded-t-[2px]" style="height: 75%;"></div>
+                        <div class="w-2.5 bg-primary rounded-t-[2px]" style="height: 60%;"></div>
+                        <div class="w-2.5 bg-primary rounded-t-[2px]" style="height: 85%;"></div>
+                        <div class="w-2.5 bg-primary rounded-t-[2px]" style="height: 70%;"></div>
+                        <div class="w-2.5 bg-primary rounded-t-[2px]" style="height: 100%;"></div>
+                    </div>
+                    <!-- Visual Accent Decor -->
+                    <div class="absolute -right-4 -bottom-4 size-32 opacity-10 dark:opacity-20 pointer-events-none">
+                        <svg class="w-full h-full fill-primary" viewbox="0 0 100 100">
+                            <circle cx="50" cy="50" r="50"></circle>
+                        </svg>
+                    </div>
+                </div>
+                <!-- Secondary Stats Section -->
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-4 py-8">
+                    <div
+                        class="flex flex-col gap-2 rounded-xl p-6 border border-[#dfe2e1] dark:border-[#2d3633] bg-white dark:bg-[#1c2321]">
+                        <p class="text-[#6f7b78] dark:text-gray-400 text-sm font-medium leading-normal">Revenue Receipt
+                        </p>
+                        <p class="text-[#131515] dark:text-white tracking-tight text-2xl font-bold">₹1.35L Cr</p>
+                        <div class="flex items-center gap-1">
+                            <span class="material-symbols-outlined text-[#07882e] text-sm">trending_up</span>
+                            <p class="text-[#07882e] text-sm font-bold leading-normal">+8.2%</p>
+                        </div>
+                    </div>
+                    <div
+                        class="flex flex-col gap-2 rounded-xl p-6 border border-[#dfe2e1] dark:border-[#2d3633] bg-white dark:bg-[#1c2321]">
+                        <p class="text-[#6f7b78] dark:text-gray-400 text-sm font-medium leading-normal">Capital
+                            Expenditure</p>
+                        <p class="text-[#131515] dark:text-white tracking-tight text-2xl font-bold">₹21,245 Cr</p>
+                        <div class="flex items-center gap-1">
+                            <span class="material-symbols-outlined text-[#07882e] text-sm">trending_up</span>
+                            <p class="text-[#07882e] text-sm font-bold leading-normal">+12.1%</p>
+                        </div>
+                    </div>
+                    <div
+                        class="flex flex-col gap-2 rounded-xl p-6 border border-[#dfe2e1] dark:border-[#2d3633] bg-white dark:bg-[#1c2321]">
+                        <p class="text-[#6f7b78] dark:text-gray-400 text-sm font-medium leading-normal">Fiscal Deficit
+                        </p>
+                        <p class="text-[#131515] dark:text-white tracking-tight text-2xl font-bold">3.4%</p>
+                        <div class="flex items-center gap-1">
+                            <span class="material-symbols-outlined text-[#e72e08] text-sm">trending_down</span>
+                            <p class="text-[#e72e08] text-sm font-bold leading-normal">-0.2%</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Trend Chart Section -->
+                <div class="p-6 bg-white dark:bg-[#1c2321] rounded-xl border border-[#dfe2e1] dark:border-[#2d3633]">
+                    <div class="flex items-center justify-between mb-8">
+                        <div>
+                            <p class="text-[#131515] dark:text-white text-lg font-bold">Budget Allocation Trend</p>
+                            <p class="text-[#6f7b78] dark:text-gray-400 text-sm font-normal">Last 7 fiscal years
+                                comparative analysis</p>
+                        </div>
+                        <div class="text-right">
+                            <p class="text-primary text-2xl font-extrabold">₹1.79T</p>
+                            <p class="text-[#07882e] text-sm font-medium">+5.4% YoY</p>
+                        </div>
+                    </div>
+                    <div class="grid h-[180px] grid-cols-7 gap-4 items-end justify-items-center">
+                        <div class="flex flex-col items-center w-full h-full justify-end group">
+                            <div class="bg-primary/20 dark:bg-primary/10 w-full rounded-t-md group-hover:bg-primary/40 transition-all cursor-pointer"
+                                style="height: 50%;"></div>
+                            <p class="text-[#6f7b78] text-[11px] font-bold mt-2">2018</p>
+                        </div>
+                        <div class="flex flex-col items-center w-full h-full justify-end group">
+                            <div class="bg-primary/20 dark:bg-primary/10 w-full rounded-t-md group-hover:bg-primary/40 transition-all cursor-pointer"
+                                style="height: 60%;"></div>
+                            <p class="text-[#6f7b78] text-[11px] font-bold mt-2">2019</p>
+                        </div>
+                        <div class="flex flex-col items-center w-full h-full justify-end group">
+                            <div class="bg-primary/20 dark:bg-primary/10 w-full rounded-t-md group-hover:bg-primary/40 transition-all cursor-pointer"
+                                style="height: 45%;"></div>
+                            <p class="text-[#6f7b78] text-[11px] font-bold mt-2">2020</p>
+                        </div>
+                        <div class="flex flex-col items-center w-full h-full justify-end group">
+                            <div class="bg-primary/20 dark:bg-primary/10 w-full rounded-t-md group-hover:bg-primary/40 transition-all cursor-pointer"
+                                style="height: 75%;"></div>
+                            <p class="text-[#6f7b78] text-[11px] font-bold mt-2">2021</p>
+                        </div>
+                        <div class="flex flex-col items-center w-full h-full justify-end group">
+                            <div class="bg-primary/20 dark:bg-primary/10 w-full rounded-t-md group-hover:bg-primary/40 transition-all cursor-pointer"
+                                style="height: 65%;"></div>
+                            <p class="text-[#6f7b78] text-[11px] font-bold mt-2">2022</p>
+                        </div>
+                        <div class="flex flex-col items-center w-full h-full justify-end group">
+                            <div class="bg-primary/20 dark:bg-primary/10 w-full rounded-t-md group-hover:bg-primary/40 transition-all cursor-pointer"
+                                style="height: 85%;"></div>
+                            <p class="text-[#6f7b78] text-[11px] font-bold mt-2">2023</p>
+                        </div>
+                        <div class="flex flex-col items-center w-full h-full justify-end group">
+                            <div class="bg-primary w-full rounded-t-md group-hover:bg-primary/90 transition-all cursor-pointer shadow-lg"
+                                style="height: 95%;"></div>
+                            <p class="text-primary text-[11px] font-extrabold mt-2">2024</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Footer Card -->
+                <div class="mt-8 p-4 bg-primary/5 dark:bg-primary/10 rounded-xl flex items-center gap-4">
+                    <div class="size-10 flex items-center justify-center rounded-lg bg-primary text-white">
+                        <span class="material-symbols-outlined">info</span>
+                    </div>
+                    <div>
+                        <p class="text-sm font-bold text-primary">Data Integrity Note</p>
+                        <p class="text-xs text-[#6f7b78] dark:text-gray-400">All figures shown are provisional estimates
+                            verified by the Department of Finance, Government of Kerala.</p>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,131 @@
+{
+    "Budget_2025_26_Policy_and_Strategy": {
+        "Strategic_Vision_and_Overview": {
+            "Economic_Takeoff": {
+                "id": 1,
+                "statement": "Kerala is in a stage of 'take-off' due to investments in human capital and the filling of physical infrastructure vacuums.",
+                "context": "Preface (Para 4-5) [cite: 28-34]"
+            },
+            "Fiscal_Recovery_Narrative": {
+                "id": 2,
+                "statement": "The State has overcome severe fiscal constraints and is poised for a better fiscal position.",
+                "context": "Preface (Para 1-2) [cite: 19-23]"
+            },
+            "Political_Stance_on_Communalism": {
+                "id": 3,
+                "statement": "Uncompromising stance against narrow-minded divisive policies and communalism (majority or minority) to ensure peace essential for development.",
+                "context": "Preface (Para 11) [cite: 58-60]"
+            }
+        },
+        "Fiscal_Federalism_and_Central_Relations": {
+            "Central_Negligence_Critique": {
+                "id": 4,
+                "statement": "Fiscal constraints are attributed primarily to 'Central negligence', specifically the reduction in divisible tax pool and borrowing limits.",
+                "context": "Part I (Para 54) [cite: 197-199]"
+            },
+            "Tax_Share_Decline": {
+                "id": 5,
+                "data_point": "State's share of central taxes declined from 3.88% (10th Finance Commission) to a historical low of 1.92% (15th Finance Commission).",
+                "context": "Part I (Para 55) [cite: 200-202]"
+            },
+            "Borrowing_Limit_Constraint": {
+                "id": 6,
+                "policy_issue": "Loans by state entities like KIIFB and KSSPL are being deducted from the State's borrowing limit, unlike Central agencies (NHAI).",
+                "context": "Part I (Para 61-62) [cite: 219-222]"
+            },
+            "GST_Sovereignty_Loss": {
+                "id": 7,
+                "statement": "Introduction of GST resulted in the loss of sovereign power to fix rates; expected revenue boom did not happen.",
+                "context": "Part I (Para 58) [cite: 209-213]"
+            }
+        },
+        "Development_Policy_Frameworks": {
+            "Spatial_Planning_Reform": {
+                "id": 8,
+                "policy_shift": "Moving away from 'Everything Everywhere' construction to scientific spatial planning based on 'what can be constructed where'.",
+                "context": "Environment (Para 26) [cite: 111-114]"
+            },
+            "Urbanization_Strategy": {
+                "id": 9,
+                "policy": "Constitution of an 'Urban Commission' (first in the country) to address the rapid urbanization (expected 70% by 2031).",
+                "context": "Part I (Para 30-31) [cite: 124-128]"
+            },
+            "Knowledge_Economy_Focus": {
+                "id": 10,
+                "strategy": "Leveraging higher education and research to transition Kerala into a global knowledge hub.",
+                "context": "Part II (Para 112) [cite: 349-350]"
+            },
+            "Demographic_Response": {
+                "id": 11,
+                "policy": "Addressing the 'Care Economy' needs due to an aging population and declining birth rate (3.48 lakh births in 2024 vs 5.34 lakh in 2014).",
+                "context": "Preface & Part II (Para 13, 35) [cite: 66, 141-143]"
+            }
+        },
+        "Investment_Roadmap_4_Pillars": {
+            "Pillar_1_Focus_Sectors": {
+                "id": 12,
+                "details": "Prioritizing IT, MSMEs, Tourism, Wellness, Logistics, EVs, and Green Energy.",
+                "context": "Part II (Para 120-121) [cite: 370-371]"
+            },
+            "Pillar_2_Leveraging_Assets": {
+                "id": 13,
+                "details": "Unlocking land assets held by Government departments and LSGIs to overcome land scarcity.",
+                "context": "Part II (Para 122-123) [cite: 372-375]"
+            },
+            "Pillar_3_Investor_Confidence": {
+                "id": 14,
+                "details": "Establishing financing channels like KFC Venture Fund and KIFML Alternate Investment Funds.",
+                "context": "Part II (Para 124-125) [cite: 377-380]"
+            },
+            "Pillar_4_Policy_Formulation": {
+                "id": 15,
+                "details": "Rolling out investor-friendly regulations and modifying land allocation rules (KINFRA/KSIDC).",
+                "context": "Part II (Para 126-127) [cite: 381-385]"
+            }
+        },
+        "Sectoral_Strategic_Shifts": {
+            "Ports_and_Logistics": {
+                "id": 16,
+                "policy_goal": "Transform Vizhinjam into a major 'EXIM Hub' (like Singapore/Dubai), moving beyond just a transshipment port.",
+                "context": "Part II (Para 129) [cite: 394]"
+            },
+            "Tourism_Global_Wellness_Hub": {
+                "id": 17,
+                "policy_goal": "Branding Kerala as the 'Wellness Tourism Hub of the World' by integrating healthcare and tourism.",
+                "context": "Part II (Para 117) [cite: 362-364]"
+            },
+            "Migration_Policy": {
+                "id": 18,
+                "stance": "Rectifying 'blind support' for all out-migration; focusing on proper job market assessment to prevent exploitation.",
+                "context": "Part I (Para 36-37) [cite: 144-148]"
+            },
+            "Construction_Sector_Reform": {
+                "id": 19,
+                "policy": "Eliminating 'Over-design' and 'Over-estimates' in public works; adopting pre-fab and steel structures for speed.",
+                "context": "New Approaches (Para 219-221) [cite: 688-694]"
+            }
+        },
+        "Governance_Reforms": {
+            "Citizen_Engagement": {
+                "id": 20,
+                "initiative": "Introduction of a 'Citizen Budget' to make financial data accessible to the common public.",
+                "context": "New Approaches (Para 218) [cite: 684-685]"
+            },
+            "Municipal_Bonds": {
+                "id": 21,
+                "reform": "Empowering Urban Local Governments to raise funds via Municipal Bonds and Green Bonds.",
+                "context": "Part II (Para 180) [cite: 568-570]"
+            },
+            "KIIFB_Revenue_Model": {
+                "id": 22,
+                "reform": "Transitioning KIIFB from a purely funding agency to a 'Revenue Generating Entity'.",
+                "context": "Part II (Para 200) [cite: 628-630]"
+            },
+            "Anti_Cyber_Bullying": {
+                "id": 23,
+                "policy": "Strengthening the 'Cyber Wing' to tackle fake news and cyberattacks, particularly against women.",
+                "context": "New Approaches (Para 224) [cite: 703-704]"
+            }
+        }
+    }
+}

@@ -7,6 +7,9 @@ import InitiativesPage from './pages/InitiativesPage'
 import MPDashboardPage from './pages/MPDashboardPage'
 import MPAnalyticsPage from './pages/MPAnalyticsPage'
 import MPComparisonPage from './pages/MPComparisonPage'
+import BudgetPage from './pages/BudgetPage'
+import PolicyInsightsPage from './pages/PolicyInsightsPage'
+import BudgetProjectsPage from './pages/BudgetProjectsPage'
 import BottomNav from './components/BottomNav'
 
 function App() {
@@ -21,6 +24,9 @@ function App() {
                 <Route path="/mp-fund-dashboard" element={<MPDashboardPage />} />
                 <Route path="/mp-analytics" element={<MPAnalyticsPage />} />
                 <Route path="/mp-comparison" element={<MPComparisonPage />} />
+                <Route path="/state-budget" element={<BudgetPage />} />
+                <Route path="/policy-insights" element={<PolicyInsightsPage />} />
+                <Route path="/budget-projects" element={<BudgetProjectsPage />} />
             </Routes>
             <BottomNav />
         </>
