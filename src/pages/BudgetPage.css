@@ -1227,6 +1227,8 @@
 }
 
 .cta-button {
+    position: relative;
+    z-index: 5;
     display: inline-flex;
     align-items: center;
     gap: 8px;
@@ -1263,6 +1265,8 @@
     flex-direction: column;
     gap: 12px;
     opacity: 0.15;
+    pointer-events: none;
+    z-index: 1;
 }
 
 .cta-decoration .material-symbols-outlined {
