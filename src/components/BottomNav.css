@@ -38,12 +38,12 @@
 }
 
 .bottom-nav-item .material-symbols-outlined {
-    font-size: 1.5rem;
+    font-size: 1.rem;
     transition: transform 0.2s ease;
 }
 
 .bottom-nav-item .bottom-nav-label {
-    font-size: 0.6875rem;
+    font-size: 0.56rem;
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.3px;

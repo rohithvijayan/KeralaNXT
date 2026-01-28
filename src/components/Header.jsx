@@ -28,6 +28,7 @@ function Header({ showBack = false, title = "Kerala Development Tracker", onBack
                     <nav className="header-nav">
                         <Link to="/" className="header-nav-link active">Home</Link>
                         <Link to="/projects" className="header-nav-link">Projects</Link>
+                        <Link to="/state-budget" className="header-nav-link">Budget</Link>
                         <Link to="/initiatives" className="header-nav-link">Policies & Initiatives</Link>
                         <Link to="/mp-fund-dashboard" className="header-nav-link">MP Fund Dashboard</Link>
                         <Link to="/about" className="header-nav-link">About</Link>
