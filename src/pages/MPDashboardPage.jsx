@@ -13,6 +13,7 @@ import {
     formatAmount,
     formatPercentage
 } from '../data/mpFundLoader'
+import { shareElementAsImage } from '../utils/shareUtils'
 import './MPDashboardPage.css'
 
 const houseOptions = [
@@ -80,6 +81,14 @@ function MPDashboardPage() {
             rajya: calculateTotals(rajyaMPs)
         }
     }, [])
+
+    const handleShareClick = (elementId, title, text) => {
+        shareElementAsImage(elementId, {
+            title,
+            text,
+            fileName: `${elementId}.png`
+        })
+    }
 
     return (
         <div className="mp-dashboard">
@@ -216,14 +225,22 @@ function MPDashboardPage() {
                 {/* Main Content */}
                 <main className="mp-main">
                     {/* Mobile Hero Card */}
-                    <div className="mp-hero-card">
+                    <div className="mp-hero-card" id="hero-summary-card">
                         <div className="hero-header">
                             <div>
                                 <p className="hero-label">{currentHouseLabel} Fund Overview</p>
                                 <h1 className="hero-amount">{formatAmount(currentStats.totalAllocated)}</h1>
                             </div>
-                            <div className="hero-icon-wrapper">
-                                <span className="material-symbols-outlined">trending_up</span>
+                            <div className="hero-actions">
+                                <button
+                                    className="hero-share-btn"
+                                    onClick={() => handleShareClick('hero-summary-card', 'KeralaNXT MJPLADS Overview', `Overall fund utilization for ${currentHouseLabel} in Kerala.`)}
+                                >
+                                    <span className="material-symbols-outlined">share</span>
+                                </button>
+                                <div className="hero-icon-wrapper">
+                                    <span className="material-symbols-outlined">trending_up</span>
+                                </div>
                             </div>
                         </div>
                         <div className="hero-progress-section">
@@ -348,6 +365,7 @@ function MPDashboardPage() {
                                 {paginatedMPs.map((mp, index) => (
                                     <motion.div
                                         key={mp.name}
+                                        id={`mp-card-${mp.name.replace(/\s+/g, '-')}`}
                                         className={`mp-card ${mp.performanceLevel}`}
                                         initial={{ opacity: 0, y: 20 }}
                                         animate={{ opacity: 1, y: 0 }}
@@ -419,16 +437,27 @@ function MPDashboardPage() {
                                                     <span className="fund-value spent">{mp.utilisedFund}</span>
                                                 </div>
                                             </div>
-                                            <button
-                                                className="view-more-btn"
-                                                onClick={(e) => {
-                                                    e.stopPropagation()
-                                                    navigate('/mp-analytics', { state: { selectedMP: mp.fullName } })
-                                                }}
-                                            >
-                                                View Analytics
-                                                <span className="material-symbols-outlined">arrow_forward</span>
-                                            </button>
+                                            <div className="card-footer-actions">
+                                                <button
+                                                    className="view-more-btn"
+                                                    onClick={(e) => {
+                                                        e.stopPropagation()
+                                                        navigate('/mp-analytics', { state: { selectedMP: mp.fullName } })
+                                                    }}
+                                                >
+                                                    View Analytics
+                                                    <span className="material-symbols-outlined">arrow_forward</span>
+                                                </button>
+                                                <button
+                                                    className="card-share-btn"
+                                                    onClick={(e) => {
+                                                        e.stopPropagation()
+                                                        handleShareClick(`mp-card-${mp.name.replace(/\s+/g, '-')}`, `MP Performance: ${mp.name}`, `Check out the MPLADS fund utilization for ${mp.name} (${mp.constituency}).`)
+                                                    }}
+                                                >
+                                                    <span className="material-symbols-outlined">share</span>
+                                                </button>
+                                            </div>
                                         </div>
                                     </motion.div>
                                 ))}
