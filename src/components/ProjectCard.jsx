@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import CldImage from './CldImage'
 import { shareElementAsImage } from '../utils/shareUtils'
 import './ProjectCard.css'
@@ -94,6 +95,16 @@ function ProjectCard({ project, size = 'large', onClick }) {
                         </div>
                     )}
                 </div>
+
+                {/* Loud CTA to Budget Projects */}
+                <Link
+                    to="/budget-projects"
+                    className="project-budget-cta"
+                    onClick={(e) => e.stopPropagation()}
+                >
+                    <span>View State Budget</span>
+                    <span className="material-symbols-outlined">payments</span>
+                </Link>
             </div>
         </article>
     )
