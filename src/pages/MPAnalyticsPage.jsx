@@ -198,6 +198,23 @@ const MPAnalyticsPage = () => {
 
                     {/* Desktop Header */}
                     <div className="content-header desktop-only">
+                        <nav className="breadcrumb">
+                            <Link to="/">Dashboard</Link>
+                            <span className="material-symbols-outlined">chevron_right</span>
+                            <Link to="/mp-fund-dashboard">MP Dashboard</Link>
+                            <span className="material-symbols-outlined">chevron_right</span>
+                            <span className={mpData ? '' : 'current'}>
+                                {mpData ? (
+                                    <Link to="/mp-analytics" onClick={() => setSelectedMP('')}>Analytics</Link>
+                                ) : 'Analytics'}
+                            </span>
+                            {mpData && (
+                                <>
+                                    <span className="material-symbols-outlined">chevron_right</span>
+                                    <span className="current">{mpData.displayName}</span>
+                                </>
+                            )}
+                        </nav>
                         <div>
                             <h2>MP Fund Analytics</h2>
                             <p>Detailed spending overview for the selected MP</p>

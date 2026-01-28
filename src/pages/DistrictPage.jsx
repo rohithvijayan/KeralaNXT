@@ -1,5 +1,5 @@
 import { useState, useMemo, useEffect, useRef } from 'react'
-import { useParams, useNavigate } from 'react-router-dom'
+import { useParams, useNavigate, Link } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
 import Header from '../components/Header'
 import ProjectCard from '../components/ProjectCard'
@@ -84,6 +84,14 @@ function DistrictPage() {
                 title={district.name}
                 onBack={() => navigate('/')}
             />
+
+            <div className="district-header-desktop desktop-only">
+                <nav className="breadcrumb">
+                    <Link to="/">Dashboard</Link>
+                    <span className="material-symbols-outlined">chevron_right</span>
+                    <span className="current">{district.name}</span>
+                </nav>
+            </div>
 
             {/* Stats Bar */}
             <div className="district-stats-bar">

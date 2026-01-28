@@ -1,5 +1,5 @@
 import { useState, useEffect, useMemo } from 'react'
-import { useNavigate, useLocation } from 'react-router-dom'
+import { useNavigate, useLocation, Link } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
 import Header from '../components/Header'
 import ProjectModal from '../components/ProjectModal'
@@ -222,6 +222,14 @@ function ProjectsPage() {
     return (
         <div className="projects-page">
             <Header showBack title="All Projects" onBack={() => navigate('/')} />
+
+            <div className="projects-header-desktop desktop-only">
+                <nav className="breadcrumb">
+                    <Link to="/">Dashboard</Link>
+                    <span className="material-symbols-outlined">chevron_right</span>
+                    <span className="current">All Projects</span>
+                </nav>
+            </div>
 
             {/* Search & Filter Bar */}
             <div className="projects-controls">

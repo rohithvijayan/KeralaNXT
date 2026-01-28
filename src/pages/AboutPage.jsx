@@ -1,5 +1,5 @@
 import { useState, useMemo } from 'react'
-import { useNavigate } from 'react-router-dom'
+import { useNavigate, Link } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
 import Header from '../components/Header'
 import './AboutPage.css'
@@ -211,6 +211,14 @@ function AboutPage() {
     return (
         <div className="about-page">
             <Header showBack title="About" onBack={() => navigate('/')} />
+
+            <div className="about-header-desktop desktop-only">
+                <nav className="breadcrumb">
+                    <Link to="/">Dashboard</Link>
+                    <span className="material-symbols-outlined">chevron_right</span>
+                    <span className="current">About KeralaNXT</span>
+                </nav>
+            </div>
 
             {/* Hero Section */}
             <section
