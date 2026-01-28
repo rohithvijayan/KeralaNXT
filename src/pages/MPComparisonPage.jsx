@@ -4,6 +4,7 @@ import { motion, AnimatePresence } from 'framer-motion'
 import Header from '../components/Header'
 import { getAllMPs } from '../data/mpFundLoader'
 import { getMPSpendingBreakdown } from '../data/mpAnalyticsLoader'
+import { shareElementAsImage } from '../utils/shareUtils'
 import './MPComparisonPage.css'
 
 const MPComparisonPage = () => {
@@ -112,6 +113,14 @@ const MPComparisonPage = () => {
         return 'category'
     }
 
+    const handleShare = () => {
+        shareElementAsImage('comparison-card', {
+            title: 'MP Fiscal Comparison',
+            text: `Comparing the fund utilization of ${mpADetails?.name} and ${mpBDetails?.name} via KeralaNXT.`,
+            fileName: `comparison-${mpADetails?.name}-${mpBDetails?.name}.png`.replace(/\s+/g, '-').toLowerCase()
+        })
+    }
+
     return (
         <div className="comparison-page">
             <Header
@@ -127,191 +136,195 @@ const MPComparisonPage = () => {
                     initial={{ opacity: 0, y: -20 }}
                     animate={{ opacity: 1, y: 0 }}
                 >
-                    <nav className="breadcrumb desktop-only">
-                        <Link to="/">Dashboard</Link>
-                        <span className="material-symbols-outlined">chevron_right</span>
-                        <Link to="/mp-fund-dashboard">MP Dashboard</Link>
-                        <span className="material-symbols-outlined">chevron_right</span>
-                        <span className="current">Comparison</span>
-                    </nav>
-                    <h1>MP Fiscal Comparison</h1>
-                    <p>High-density performance analysis and fund utilization breakdown</p>
-                </motion.div>
-
-                {/* Comparison Split View */}
-                <motion.div
-                    className="comparison-split"
-                    initial={{ opacity: 0, y: 20 }}
-                    animate={{ opacity: 1, y: 0 }}
-                    transition={{ delay: 0.1 }}
-                >
-                    {/* MP A Panel */}
-                    <div className="comparison-panel panel-a">
-                        <div className="panel-content">
-                            {/* Selector */}
-                            <div className="mp-selector">
-                                <label>Select Member A</label>
-                                <select value={mpA} onChange={(e) => setMpA(e.target.value)}>
-                                    {mpsData.map(mp => (
-                                        <option key={mp.fullName} value={mp.fullName}>
-                                            {mp.name}
-                                        </option>
-                                    ))}
-                                </select>
-                            </div>
-
-                            {/* Profile Card */}
-                            {mpADetails && (
-                                <div className="profile-card card-a">
-                                    <div className="profile-image">
-                                        {mpADetails.image ? (
-                                            <img src={mpADetails.image} alt={mpADetails.name} />
-                                        ) : (
-                                            <span className="material-symbols-outlined">person</span>
-                                        )}
-                                    </div>
-                                    <div className="profile-info">
-                                        <h3>{mpADetails.name}</h3>
-                                        <p className="constituency">{mpADetails.constituency}</p>
-                                        <div className="badges">
-                                            <span className="badge badge-primary">{mpADetails.house}</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            )}
-
-                            {/* Spending Stats */}
-                            {mpAData && mpADetails && (
-                                <div className="spending-stats">
-                                    <div className="stats-info">
-                                        <p className="stats-label">Total Spending</p>
-                                        <p className="stats-amount amount-a">{formatCrores(mpAData.totalExpenditure)}</p>
-                                        <p className="stats-utilization">
-                                            <span className="material-symbols-outlined">analytics</span>
-                                            {calculateUtilization(mpADetails)}% Utilized
-                                        </p>
-                                    </div>
-                                </div>
-                            )}
+                    <div className="header-top">
+                        <div className="title-group">
+                            <h1>MP Fiscal Comparison</h1>
+                            <p>High-density performance analysis and fund utilization breakdown</p>
                         </div>
-                    </div>
-
-                    {/* MP B Panel */}
-                    <div className="comparison-panel panel-b">
-                        <div className="panel-content">
-                            {/* Selector */}
-                            <div className="mp-selector">
-                                <label>Select Member B</label>
-                                <select value={mpB} onChange={(e) => setMpB(e.target.value)}>
-                                    {mpsData.map(mp => (
-                                        <option key={mp.fullName} value={mp.fullName}>
-                                            {mp.name}
-                                        </option>
-                                    ))}
-                                </select>
-                            </div>
-
-                            {/* Profile Card */}
-                            {mpBDetails && (
-                                <div className="profile-card card-b">
-                                    <div className="profile-image">
-                                        {mpBDetails.image ? (
-                                            <img src={mpBDetails.image} alt={mpBDetails.name} />
-                                        ) : (
-                                            <span className="material-symbols-outlined">person</span>
-                                        )}
-                                    </div>
-                                    <div className="profile-info">
-                                        <h3>{mpBDetails.name}</h3>
-                                        <p className="constituency">{mpBDetails.constituency}</p>
-                                        <div className="badges">
-                                            <span className="badge badge-secondary">{mpBDetails.house}</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            )}
-
-                            {/* Spending Stats */}
-                            {mpBData && mpBDetails && (
-                                <div className="spending-stats">
-                                    <div className="stats-info">
-                                        <p className="stats-label">Total Spending</p>
-                                        <p className="stats-amount amount-b">{formatCrores(mpBData.totalExpenditure)}</p>
-                                        <p className="stats-utilization">
-                                            <span className="material-symbols-outlined">analytics</span>
-                                            {calculateUtilization(mpBDetails)}% Utilized
-                                        </p>
-                                    </div>
-                                </div>
-                            )}
-                        </div>
+                        <button className="share-comparison-btn" onClick={handleShare}>
+                            <span className="material-symbols-outlined">share</span>
+                            <span>Share Comparison</span>
+                        </button>
                     </div>
                 </motion.div>
 
-                {/* Category Comparison */}
-                <motion.div
-                    className="category-comparison"
-                    initial={{ opacity: 0, y: 20 }}
-                    animate={{ opacity: 1, y: 0 }}
-                    transition={{ delay: 0.2 }}
-                >
-                    <div className="section-header">
-                        <h2>Category Comparison</h2>
-                        <p>Fund allocation across key sectors</p>
-                    </div>
+                <div id="comparison-card">
 
-                    <div className="comparison-table">
-                        <div className="table-header">
-                            <div className="header-cell category-header">Expenditure Category</div>
-                            <div className="header-cell mp-header mp-a-header">
-                                {mpADetails?.name || 'MP A'}
+                    {/* Comparison Split View */}
+                    <motion.div
+                        className="comparison-split"
+                        initial={{ opacity: 0, y: 20 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        transition={{ delay: 0.1 }}
+                    >
+                        {/* MP A Panel */}
+                        <div className="comparison-panel panel-a">
+                            <div className="panel-content">
+                                {/* Selector */}
+                                <div className="mp-selector">
+                                    <label>Select Member A</label>
+                                    <select value={mpA} onChange={(e) => setMpA(e.target.value)}>
+                                        {mpsData.map(mp => (
+                                            <option key={mp.fullName} value={mp.fullName}>
+                                                {mp.name}
+                                            </option>
+                                        ))}
+                                    </select>
+                                </div>
+
+                                {/* Profile Card */}
+                                {mpADetails && (
+                                    <div className="profile-card card-a">
+                                        <div className="profile-image">
+                                            {mpADetails.image ? (
+                                                <img src={mpADetails.image} alt={mpADetails.name} />
+                                            ) : (
+                                                <span className="material-symbols-outlined">person</span>
+                                            )}
+                                        </div>
+                                        <div className="profile-info">
+                                            <h3>{mpADetails.name}</h3>
+                                            <p className="constituency">{mpADetails.constituency}</p>
+                                            <div className="badges">
+                                                <span className="badge badge-primary">{mpADetails.house}</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                )}
+
+                                {/* Spending Stats */}
+                                {mpAData && mpADetails && (
+                                    <div className="spending-stats">
+                                        <div className="stats-info">
+                                            <p className="stats-label">Total Spending</p>
+                                            <p className="stats-amount amount-a">{formatCrores(mpAData.totalExpenditure)}</p>
+                                            <p className="stats-utilization">
+                                                <span className="material-symbols-outlined">analytics</span>
+                                                {calculateUtilization(mpADetails)}% Utilized
+                                            </p>
+                                        </div>
+                                    </div>
+                                )}
                             </div>
-                            <div className="header-cell mp-header mp-b-header">
-                                {mpBDetails?.name || 'MP B'}
-                            </div>
-                            <div className="header-cell delta-header">Delta (%)</div>
                         </div>
 
-                        <AnimatePresence>
-                            {comparisonData.map((category, index) => {
-                                const delta = calculateDelta(category.mpA, category.mpB)
-                                const isPositive = delta > 0
+                        {/* MP B Panel */}
+                        <div className="comparison-panel panel-b">
+                            <div className="panel-content">
+                                {/* Selector */}
+                                <div className="mp-selector">
+                                    <label>Select Member B</label>
+                                    <select value={mpB} onChange={(e) => setMpB(e.target.value)}>
+                                        {mpsData.map(mp => (
+                                            <option key={mp.fullName} value={mp.fullName}>
+                                                {mp.name}
+                                            </option>
+                                        ))}
+                                    </select>
+                                </div>
 
-                                return (
-                                    <motion.div
-                                        key={category.label}
-                                        className="table-row"
-                                        initial={{ opacity: 0, x: -20 }}
-                                        animate={{ opacity: 1, x: 0 }}
-                                        transition={{ delay: index * 0.05 }}
-                                    >
-                                        <div className="table-cell category-cell">
-                                            <span className="material-symbols-outlined">{getCategoryIcon(category.label)}</span>
-                                            <span>{category.label}</span>
+                                {/* Profile Card */}
+                                {mpBDetails && (
+                                    <div className="profile-card card-b">
+                                        <div className="profile-image">
+                                            {mpBDetails.image ? (
+                                                <img src={mpBDetails.image} alt={mpBDetails.name} />
+                                            ) : (
+                                                <span className="material-symbols-outlined">person</span>
+                                            )}
                                         </div>
-                                        <div className="table-cell amount-cell amount-a">
-                                            <span className="mobile-label">{mpADetails?.name || 'MP A'}:</span>
-                                            {formatLakhs(category.mpA)}
+                                        <div className="profile-info">
+                                            <h3>{mpBDetails.name}</h3>
+                                            <p className="constituency">{mpBDetails.constituency}</p>
+                                            <div className="badges">
+                                                <span className="badge badge-secondary">{mpBDetails.house}</span>
+                                            </div>
                                         </div>
-                                        <div className="table-cell amount-cell amount-b">
-                                            <span className="mobile-label">{mpBDetails?.name || 'MP B'}:</span>
-                                            {formatLakhs(category.mpB)}
+                                    </div>
+                                )}
+
+                                {/* Spending Stats */}
+                                {mpBData && mpBDetails && (
+                                    <div className="spending-stats">
+                                        <div className="stats-info">
+                                            <p className="stats-label">Total Spending</p>
+                                            <p className="stats-amount amount-b">{formatCrores(mpBData.totalExpenditure)}</p>
+                                            <p className="stats-utilization">
+                                                <span className="material-symbols-outlined">analytics</span>
+                                                {calculateUtilization(mpBDetails)}% Utilized
+                                            </p>
                                         </div>
-                                        <div className="table-cell delta-cell">
-                                            <span className="mobile-label">Delta:</span>
-                                            <span className={`delta-badge ${isPositive ? 'positive' : 'negative'}`}>
-                                                <span className="material-symbols-outlined">
-                                                    {isPositive ? 'arrow_upward' : 'arrow_downward'}
+                                    </div>
+                                )}
+                            </div>
+                        </div>
+                    </motion.div>
+
+                    {/* Category Comparison */}
+                    <motion.div
+                        className="category-comparison"
+                        initial={{ opacity: 0, y: 20 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        transition={{ delay: 0.2 }}
+                    >
+                        <div className="section-header">
+                            <h2>Category Comparison</h2>
+                            <p>Fund allocation across key sectors</p>
+                        </div>
+
+                        <div className="comparison-table">
+                            <div className="table-header">
+                                <div className="header-cell category-header">Expenditure Category</div>
+                                <div className="header-cell mp-header mp-a-header">
+                                    {mpADetails?.name || 'MP A'}
+                                </div>
+                                <div className="header-cell mp-header mp-b-header">
+                                    {mpBDetails?.name || 'MP B'}
+                                </div>
+                                <div className="header-cell delta-header">Delta (%)</div>
+                            </div>
+
+                            <AnimatePresence>
+                                {comparisonData.map((category, index) => {
+                                    const delta = calculateDelta(category.mpA, category.mpB)
+                                    const isPositive = delta > 0
+
+                                    return (
+                                        <motion.div
+                                            key={category.label}
+                                            className="table-row"
+                                            initial={{ opacity: 0, x: -20 }}
+                                            animate={{ opacity: 1, x: 0 }}
+                                            transition={{ delay: index * 0.05 }}
+                                        >
+                                            <div className="table-cell category-cell">
+                                                <span className="material-symbols-outlined">{getCategoryIcon(category.label)}</span>
+                                                <span>{category.label}</span>
+                                            </div>
+                                            <div className="table-cell amount-cell amount-a">
+                                                <span className="mobile-label">{mpADetails?.name || 'MP A'}:</span>
+                                                {formatLakhs(category.mpA)}
+                                            </div>
+                                            <div className="table-cell amount-cell amount-b">
+                                                <span className="mobile-label">{mpBDetails?.name || 'MP B'}:</span>
+                                                {formatLakhs(category.mpB)}
+                                            </div>
+                                            <div className="table-cell delta-cell">
+                                                <span className="mobile-label">Delta:</span>
+                                                <span className={`delta-badge ${isPositive ? 'positive' : 'negative'}`}>
+                                                    <span className="material-symbols-outlined">
+                                                        {isPositive ? 'arrow_upward' : 'arrow_downward'}
+                                                    </span>
+                                                    {Math.abs(delta)}%
                                                 </span>
-                                                {Math.abs(delta)}%
-                                            </span>
-                                        </div>
-                                    </motion.div>
-                                )
-                            })}
-                        </AnimatePresence>
-                    </div>
-                </motion.div>
+                                            </div>
+                                        </motion.div>
+                                    )
+                                })}
+                            </AnimatePresence>
+                        </div>
+                    </motion.div>
+                </div>
             </div>
         </div>
     )

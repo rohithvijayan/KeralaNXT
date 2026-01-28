@@ -1338,3 +1338,61 @@
 .view-more-btn:hover .material-symbols-outlined {
     transform: translateX(4px);
 }
+
+/* Share Buttons Styling */
+.hero-actions {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.hero-share-btn,
+.card-share-btn {
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: white;
+    width: 36px;
+    height: 36px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    backdrop-filter: blur(4px);
+}
+
+.hero-share-btn:hover,
+.card-share-btn:hover {
+    background: rgba(255, 255, 255, 0.2);
+    transform: scale(1.05);
+}
+
+.card-footer-actions {
+    display: flex;
+    gap: 8px;
+    margin-top: 12px;
+}
+
+.card-share-btn {
+    flex-shrink: 0;
+    color: var(--mp-slate-600);
+    border: 1px solid var(--mp-slate-200);
+    background: var(--mp-slate-50);
+}
+
+.card-share-btn:hover {
+    background: var(--mp-slate-100);
+    border-color: var(--mp-primary);
+    color: var(--mp-primary);
+}
+
+.view-more-btn {
+    flex: 1;
+}
+
+/* Override for specific card styles during capture */
+.mp-card {
+    position: relative;
+    overflow: hidden;
+}
