@@ -35,11 +35,39 @@ export const shareElementAsImage = async (elementId, options = {}) => {
                     clonedElement.style.padding = '32px';
                     clonedElement.style.boxShadow = 'none';
 
-                    // Hide buttons that shouldn't be in the share image
-                    const buttonsToHide = clonedElement.querySelectorAll('button, .compare-btn-mobile, .card-share-btn, .hero-share-btn');
-                    buttonsToHide.forEach(btn => btn.style.display = 'none');
+                    // Hide buttons, selectors, and labels that shouldn't be in the share image
+                    const elementsToHide = clonedElement.querySelectorAll('button, select, label, .compare-btn-mobile, .card-share-btn, .hero-share-btn, .share-comparison-btn');
+                    elementsToHide.forEach(el => el.style.display = 'none');
 
-                    // Add a watermark if desired
+                    // Force vertical stacking for comparison cards in the share image
+                    const splitView = clonedElement.querySelector('.comparison-split');
+                    if (splitView) {
+                        splitView.style.display = 'grid';
+                        splitView.style.gridTemplateColumns = '1fr';
+                        splitView.style.gap = '0';
+
+                        // Fix borders for vertical stacking
+                        const panelA = splitView.querySelector('.panel-a');
+                        if (panelA) {
+                            panelA.style.borderRight = 'none';
+                            panelA.style.borderBottom = '1px solid #e2e8f0';
+                        }
+                    }
+
+                    // Force profile cards to stack vertically for a cleaner share look
+                    const profileCards = clonedElement.querySelectorAll('.profile-card');
+                    profileCards.forEach(card => {
+                        card.style.flexDirection = 'column';
+                        card.style.textAlign = 'center';
+                        const info = card.querySelector('.profile-info');
+                        if (info) {
+                            info.style.alignItems = 'center';
+                            const badges = info.querySelector('.badges');
+                            if (badges) badges.style.justifyContent = 'center';
+                        }
+                    });
+
+                    // Add a watermark
                     const watermark = clonedDoc.createElement('div');
                     watermark.innerText = 'KeralaNXT Development Tracker';
                     watermark.style.position = 'absolute';
@@ -47,7 +75,7 @@ export const shareElementAsImage = async (elementId, options = {}) => {
                     watermark.style.right = '20px';
                     watermark.style.opacity = '0.3';
                     watermark.style.fontSize = '12px';
-                    watermark.style.color = 'inherit';
+                    watermark.style.color = '#ffffff';
                     clonedElement.style.position = 'relative';
                     clonedElement.appendChild(watermark);
                 }

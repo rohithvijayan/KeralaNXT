@@ -39,6 +39,7 @@ const CldImage = ({ src, alt, className, style, width = 800, height = 450 }) => 
             className={className}
             style={style}
             loading="lazy"
+            crossOrigin="anonymous"
         />
     );
 };

@@ -7,6 +7,7 @@ import CldImage from '../components/CldImage'
 import districtsData from '../data/districts.json'
 import categoriesData from '../data/categories.json'
 import { loadAllProjects } from '../data/projectLoader'
+import { shareElementAsImage } from '../utils/shareUtils'
 import './ProjectsPage.css'
 
 // Extract arrays from JSON objects
@@ -184,16 +185,12 @@ function ProjectsPage() {
 
     const handleShare = (e, project) => {
         e.stopPropagation()
-        if (navigator.share) {
-            navigator.share({
-                title: project.title,
-                text: `${project.title} - Kerala Development Showcase\n💰 Budget: ${project.budget}\n📅 Year: ${project.year}`,
-                url: window.location.href,
-            }).catch(console.error)
-        } else {
-            navigator.clipboard.writeText(`${project.title} - ${window.location.href}`)
-            alert('Link copied to clipboard!')
-        }
+        const elementId = `project-card-${project.id}`
+        shareElementAsImage(elementId, {
+            title: project.title,
+            text: `${project.title} - Kerala Development Showcase\n💰 Budget: ${project.budget}\n📅 Year: ${project.year}`,
+            fileName: `project-${project.title.replace(/\s+/g, '-').toLowerCase()}.png`
+        })
     }
 
     const getStatusClass = (status) => {
@@ -449,6 +446,7 @@ function ProjectsPage() {
                         filteredProjects.map((project, index) => (
                             <motion.article
                                 key={project.id}
+                                id={`project-card-${project.id}`}
                                 className="project-card-grid"
                                 initial={{ opacity: 0, y: 20 }}
                                 animate={{ opacity: 1, y: 0 }}
