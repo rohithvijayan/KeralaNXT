@@ -1,0 +1,230 @@
+{
+    "budget_metadata": {
+        "title": "Citizen's Guide to Budget 2025-2026",
+        "state": "Kerala",
+        "currency": "INR",
+        "unit": "Crore"
+    },
+    "key_fiscal_indicators_2025_26": {
+        "total_expenditure": 198582.40,
+        "total_receipts": 198582.40,
+        "revenue_deficit": 27124.52,
+        "revenue_deficit_gsdp_percentage": 1.90,
+        "fiscal_deficit": 45038.52,
+        "fiscal_deficit_gsdp_percentage": 3.16,
+        "primary_deficit": 13214.80,
+        "primary_deficit_gsdp_percentage": 0.93,
+        "gsdp_estimate": 1427145.23,
+        "total_debt_gsdp_percentage": 33.77
+    },
+    "revenue_insights": {
+        "total_revenue_receipts": 152351.67,
+        "sources": [
+            {
+                "category": "State's Own Tax Revenue",
+                "amount": 91514.75,
+                "percentage_of_total_revenue": 60.07,
+                "major_components": [
+                    {
+                        "item": "State GST (SGST)",
+                        "amount": 37763.18,
+                        "percentage": 41.26
+                    },
+                    {
+                        "item": "Sales Tax",
+                        "amount": 33591.44,
+                        "percentage": 36.71
+                    },
+                    {
+                        "item": "Motor Vehicle Tax",
+                        "amount": 7396.78,
+                        "percentage": 8.08
+                    },
+                    {
+                        "item": "Stamps and Registration Fees",
+                        "amount": 7343.24,
+                        "percentage": 8.02
+                    },
+                    {
+                        "item": "State Excise",
+                        "amount": 3150.00,
+                        "percentage": 3.44
+                    }
+                ]
+            },
+            {
+                "category": "Central Tax Share",
+                "amount": 28616.50,
+                "percentage_of_total_revenue": 18.78
+            },
+            {
+                "category": "State's Own Non-Tax Revenue",
+                "amount": 19145.53,
+                "percentage_of_total_revenue": 12.57,
+                "major_components": [
+                    {
+                        "item": "State Lotteries",
+                        "amount": 14121.14
+                    },
+                    {
+                        "item": "Non-Ferrous Mining and Metallurgical Industries",
+                        "amount": 753.72
+                    }
+                ]
+            },
+            {
+                "category": "Grants-in-Aid from Centre",
+                "amount": 13074.90,
+                "percentage_of_total_revenue": 8.58
+            }
+        ]
+    },
+    "expenditure_insights": {
+        "revenue_expenditure": {
+            "total": 179476.20,
+            "major_allocations": [
+                {
+                    "sector": "Interest Payments",
+                    "amount": 31823.72
+                },
+                {
+                    "sector": "Pensions and Other Retirement Benefits",
+                    "amount": 29459.83
+                },
+                {
+                    "sector": "Education",
+                    "amount": 25390.05
+                },
+                {
+                    "sector": "Devolution to Local Self Governments",
+                    "amount": 15980.49
+                },
+                {
+                    "sector": "Social Security and Welfare",
+                    "amount": 15468.42
+                },
+                {
+                    "sector": "Medical and Public Health",
+                    "amount": 10580.22
+                },
+                {
+                    "sector": "Agriculture and Allied Services",
+                    "amount": 7702.09
+                }
+            ]
+        },
+        "capital_expenditure": {
+            "total_outlay": 16938.10,
+            "major_allocations": [
+                {
+                    "sector": "General Economic Services",
+                    "amount": 5293.51
+                },
+                {
+                    "sector": "Roads and Bridges",
+                    "amount": 2870.05
+                },
+                {
+                    "sector": "Rural Development",
+                    "amount": 2072.01
+                },
+                {
+                    "sector": "Water Supply and Sanitation",
+                    "amount": 881.99
+                }
+            ]
+        }
+    },
+    "major_project_highlights": {
+        "social_welfare": [
+            {
+                "project": "Social Security Pension",
+                "allocation": 13340.00
+            },
+            {
+                "project": "LIFE Mission (State Plan)",
+                "allocation": 1494.05
+            },
+            {
+                "project": "Kudumbashree",
+                "allocation": 270.00
+            },
+            {
+                "project": "School Mid-day Meal Scheme",
+                "allocation": 252.00
+            }
+        ],
+        "agriculture": [
+            {
+                "project": "Paddy Procurement (Non-Plan)",
+                "allocation": 606.38
+            },
+            {
+                "project": "Rubber Production Incentive (Non-Plan)",
+                "allocation": 600.00
+            },
+            {
+                "project": "Crop Husbandry",
+                "allocation": 535.90
+            },
+            {
+                "project": "Paddy Production (Plan)",
+                "allocation": 93.60
+            }
+        ],
+        "infrastructure_and_industry": [
+            {
+                "project": "Public Works Department (Plan & Non-Plan Total)",
+                "allocation": 5159.62
+            },
+            {
+                "project": "KSRTC",
+                "allocation": 1059.70
+            },
+            {
+                "project": "IT Sector",
+                "allocation": 517.64
+            },
+            {
+                "project": "KINFRA",
+                "allocation": 346.31
+            }
+        ],
+        "regional_development": [
+            {
+                "project": "Wayanad Development Package",
+                "allocation": 85.00
+            },
+            {
+                "project": "Idukki Development Package",
+                "allocation": 75.00
+            },
+            {
+                "project": "Kasargod Development Package",
+                "allocation": 75.00
+            }
+        ]
+    },
+    "citations": {
+        "source_document": "CitizensGuidetoBudget.pdf",
+        "pages_referenced": [
+            1,
+            9,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    }
+}

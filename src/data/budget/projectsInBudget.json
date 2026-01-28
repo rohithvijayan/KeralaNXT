@@ -1,0 +1,1433 @@
+{
+    "Budget_2025_26_Spending_Only": {
+        "Part_I_and_II_Strategic_and_New_Initiatives": {
+            "Disaster_Rehabilitation": {
+                "Mundakkai_Chooralmala_Rehabilitation_Package": {
+                    "id": 1,
+                    "allocation": "₹750 Crore (First Phase)",
+                    "source": "CMDRF, SDMA, Central Grants, CSR, Sponsorships"
+                },
+                "KaWaCHaM_System": {
+                    "id": 2,
+                    "description": "Kerala Warnings Crisis and Hazards Management System for forecasting",
+                    "allocation": "Not specified"
+                }
+            },
+            "Knowledge_Economy_and_Research": {
+                "Research_Projects_Initiative": {
+                    "id": 3,
+                    "description": "50 research projects for institutions to create development perspectives",
+                    "allocation": "₹10 Lakhs each (approx total ₹5 Cr)"
+                },
+                "Digital_Science_Park": {
+                    "id": 4,
+                    "allocation": "₹212 Crore",
+                    "purpose": "Permanent campus establishment"
+                },
+                "Graphene_Aurora": {
+                    "id": 5,
+                    "allocation": "₹3.80 Crore",
+                    "purpose": "Commercialization of Graphene technology"
+                },
+                "India_Innovation_Center_for_Graphene": {
+                    "id": 6,
+                    "allocation": "₹4.50 Crore (State Share)"
+                },
+                "Science_Parks": {
+                    "id": 7,
+                    "locations": "Kannur, Kochi, Thiruvananthapuram",
+                    "status": "Land acquisition in progress"
+                }
+            },
+            "AI_and_Emerging_Tech": {
+                "GPU_Cluster": {
+                    "id": 8,
+                    "allocation": "₹10 Crore",
+                    "location": "Thiruvananthapuram",
+                    "focus": "AI and AVGC sectors"
+                },
+                "Agentic_AI_Hackathon": {
+                    "id": 9,
+                    "allocation": "₹1 Crore total (₹20 Lakhs per selected idea)",
+                    "executor": "Kerala Startup Mission"
+                },
+                "Freedom_Square_Workplaces": {
+                    "id": 10,
+                    "allocation": "₹2 Crore",
+                    "purpose": "IEDC co-working spaces in all 14 districts"
+                },
+                "Emerging_Technology_Hub": {
+                    "id": 11,
+                    "allocation": "₹5 Crore"
+                }
+            },
+            "Infrastructure_Growth_Corridors": {
+                "Vizhinjam_Kollam_Punalur_Growth_Triangle_VKP_GT": {
+                    "id": 12,
+                    "land_acquisition_fund": "₹1,000 Crore (via KIIFB)",
+                    "components": "Logistics centres, manufacturing hubs, multi-modal parks"
+                },
+                "West_Coast_Canal_Development": {
+                    "id": 13,
+                    "allocation": "₹500 Crore (via KIIFB)",
+                    "zones": "Kovalam to Bekal rejuvenation"
+                },
+                "Coastal_Highway_Amenities": {
+                    "id": 14,
+                    "components": "Promenades, EV charging, Hydrogen stations (Private investment)"
+                },
+                "Outer_Area_Growth_Corridor_OAGC": {
+                    "id": 15,
+                    "location": "Along Outer Ring Road (Vizhinjam-Navaikulam)",
+                    "method": "Land pooling for economic zones"
+                },
+                "Global_Capability_Centres_GCC": {
+                    "id": 16,
+                    "allocation": "₹5 Crore (Parks) + ₹2 Crore (Conclave)"
+                },
+                "Kannur_IT_Park": {
+                    "id": 17,
+                    "allocation": "₹293.22 Crore (via KIIFB)"
+                },
+                "IT_Park_Pilots": {
+                    "id": 18,
+                    "Kollam_City": "Land owned by Kollam Corporation",
+                    "Kottarakkara": "Kallada Irrigation Project campus (97,370 sq.ft)"
+                },
+                "LSGI_Revenue_Projects": {
+                    "id": 19,
+                    "seed_fund": "₹1000 Crore",
+                    "purpose": "For LSGIs to build revenue projects/municipal bonds"
+                }
+            },
+            "Tourism_Projects": {
+                "Health_Tourism_Hub": {
+                    "id": 20,
+                    "allocation": "₹50 Crore"
+                },
+                "Diaspora_Tourism": {
+                    "id": 21,
+                    "incentives": "Special incentives for diaspora tour groups",
+                    "allocation": "₹5 Crore"
+                },
+                "Loka_Kerala_Kendram": {
+                    "id": 22,
+                    "allocation": "₹5 Crore"
+                },
+                "Hotel_Construction_Loans": {
+                    "id": 23,
+                    "allocation": "₹20 Crore (Interest Subvention)",
+                    "loan_cap": "Up to ₹50 Crore per project via KFC"
+                },
+                "Kochi_Muziris_Biennale": {
+                    "id": 24,
+                    "allocation": "₹7 Crore"
+                },
+                "K_Homes": {
+                    "id": 25,
+                    "allocation": "₹5 Crore",
+                    "description": "Using unoccupied homes for tourism (Pilot in Fort Kochi, Munnar, etc.)"
+                }
+            },
+            "Green_Energy": {
+                "Green_Hydrogen_Valley": {
+                    "id": 26,
+                    "allocation": "₹5 Crore (Phase 1, PPP mode)"
+                },
+                "Bio_Ethanol_Production": {
+                    "id": 27,
+                    "allocation": "₹10 Crore (Research support)"
+                }
+            },
+            "Social_and_Demographic": {
+                "New_Innings": {
+                    "id": 28,
+                    "allocation": "₹5 Crore",
+                    "purpose": "Startups by senior citizens"
+                },
+                "Expand_Your_Office_EYO": {
+                    "id": 29,
+                    "allocation": "₹10 Crore (Interest Subvention)",
+                    "purpose": "Loans for MSMEs/Startups to build co-working spaces"
+                },
+                "Co_operative_Housing_Project": {
+                    "id": 30,
+                    "allocation": "₹20 Crore (Interest Subvention)",
+                    "target": "1 lakh houses for middle class"
+                },
+                "Old_Age_Friendly_Kerala": {
+                    "id": 31,
+                    "bedridden_care": "₹50 Crore (Additional assistance)",
+                    "elderly_parks": "₹5 Crore (Open-air exercise equipment)"
+                }
+            },
+            "Miscellaneous_Strategic": {
+                "Kochi_Sustainable_Urban_Restructuring": {
+                    "id": 32,
+                    "allocation": "₹10 Crore"
+                },
+                "Municipal_Bonds": {
+                    "id": 33,
+                    "target": "₹1000 Crore mobilization"
+                },
+                "Vehicle_Replacement": {
+                    "id": 34,
+                    "allocation": "₹100 Crore (For replacing old Govt vehicles)"
+                },
+                "Vijnana_Keralam_Skilling": {
+                    "id": 35,
+                    "allocation": "₹20 Crore (Matching grant to LSGIs)"
+                },
+                "Job_Expos": {
+                    "id": 36,
+                    "allocation": "₹20 Crore (Additional)"
+                },
+                "Fintech_Development": {
+                    "id": 37,
+                    "allocation": "₹10 Crore"
+                },
+                "Cyber_Wing_Strengthening": {
+                    "id": 38,
+                    "allocation": "₹2 Crore (Anti-cyber bullying)"
+                },
+                "Financial_Literacy_Campaign": {
+                    "id": 39,
+                    "allocation": "₹2 Crore"
+                },
+                "Wildlife_Conflict_Mitigation": {
+                    "id": 40,
+                    "allocation": "₹50 Crore (Special Package)"
+                },
+                "Indigenous_Medicine_Institute": {
+                    "id": 41,
+                    "allocation": "₹1 Crore (Initial expense)"
+                }
+            }
+        },
+        "Part_III_Sectoral_Allocations": {
+            "Agriculture": {
+                "Rice_Development_Programme": {
+                    "id": 42,
+                    "allocation": "₹150 Crore"
+                },
+                "Vegetable_Development": {
+                    "id": 43,
+                    "allocation": "₹78.45 Crore"
+                },
+                "Coconut_Development": {
+                    "id": 44,
+                    "allocation": "₹73 Crore"
+                },
+                "Spices_Development": {
+                    "id": 45,
+                    "allocation": "₹7.60 Crore"
+                },
+                "Fruits_Flowers_Medicinal": {
+                    "id": 46,
+                    "allocation": "₹18.92 Crore"
+                },
+                "High_Value_Horticulture_Hub": {
+                    "id": 47,
+                    "allocation": "₹30 Crore"
+                },
+                "Perumatty_Agro_Innovation_Park": {
+                    "id": 48,
+                    "allocation": "₹1 Crore"
+                },
+                "Agro_Service_Centres": {
+                    "id": 49,
+                    "allocation": "₹10 Crore"
+                },
+                "Crop_Insurance": {
+                    "id": 50,
+                    "allocation": "₹33.14 Crore"
+                },
+                "Marketing_Storage": {
+                    "id": 51,
+                    "allocation": "₹157.31 Crore"
+                },
+                "KERA_Project": {
+                    "id": 52,
+                    "allocation": "₹100 Crore"
+                },
+                "Manchadi_Math_Scheme": {
+                    "id": 53,
+                    "allocation": "₹2.8 Crore"
+                }
+            },
+            "Animal_Husbandry_Dairy": {
+                "Veterinary_Services": {
+                    "id": 54,
+                    "allocation": "₹41.18 Crore"
+                },
+                "Cross_Breeding": {
+                    "id": 55,
+                    "allocation": "₹9.20 Crore"
+                },
+                "Special_Livestock_Breeding": {
+                    "id": 56,
+                    "allocation": "₹48.50 Crore"
+                },
+                "KLDB": {
+                    "id": 57,
+                    "allocation": "₹32.46 Crore"
+                },
+                "Meat_Products_of_India": {
+                    "id": 58,
+                    "allocation": "₹17.14 Crore"
+                },
+                "Stray_Dog_ABC_Centres": {
+                    "id": 59,
+                    "allocation": "₹2 Crore"
+                },
+                "Fodder_Farm_Nettukaltheri": {
+                    "id": 60,
+                    "allocation": "₹10 Crore"
+                },
+                "Global_Dairy_Village_Dharmadom": {
+                    "id": 61,
+                    "allocation": "₹10 Crore"
+                }
+            },
+            "Fisheries": {
+                "Coastal_Area_Package": {
+                    "id": 62,
+                    "allocation": "₹75 Crore"
+                },
+                "Marine_Fisheries": {
+                    "id": 63,
+                    "allocation": "₹41.10 Crore"
+                },
+                "Inland_Fisheries": {
+                    "id": 64,
+                    "allocation": "₹80.91 Crore"
+                },
+                "Aqua_Culture": {
+                    "id": 65,
+                    "allocation": "₹67.50 Crore"
+                },
+                "Coastal_Infrastructure": {
+                    "id": 66,
+                    "allocation": "₹139 Crore"
+                },
+                "Fishermen_Scholarship": {
+                    "id": 67,
+                    "allocation": "₹9 Crore"
+                },
+                "Yarn_Twisting_Unit_Kollam": {
+                    "id": 68,
+                    "allocation": "₹5 Crore"
+                },
+                "Punargeham_Rehabilitation": {
+                    "id": 69,
+                    "allocation": "₹60 Crore"
+                },
+                "House_Renovation_Fisherfolk": {
+                    "id": 70,
+                    "allocation": "₹10 Crore"
+                },
+                "Fishermen_Group_Insurance": {
+                    "id": 71,
+                    "allocation": "₹10 Crore"
+                },
+                "Harbour_Modernization": {
+                    "id": 72,
+                    "allocation": "₹20 Crore"
+                },
+                "Geo_Tube_Breakwater": {
+                    "id": 73,
+                    "allocation": "₹100 Crore"
+                },
+                "Oceanarium_Land_Acquisition": {
+                    "id": 74,
+                    "allocation": "₹20 Crore"
+                }
+            },
+            "Forestry": {
+                "Human_Animal_Conflict": {
+                    "id": 75,
+                    "allocation": "₹70.40 Crore"
+                },
+                "Snake_Bite_Zero_Mortality": {
+                    "id": 76,
+                    "allocation": "Project announced"
+                },
+                "Forest_Protection": {
+                    "id": 77,
+                    "allocation": "₹25 Crore"
+                },
+                "Elephant_Sanctuaries": {
+                    "id": 78,
+                    "allocation": "₹3.50 Crore"
+                },
+                "Kottur_Elephant_Rehab": {
+                    "id": 79,
+                    "allocation": "₹2 Crore"
+                }
+            },
+            "Rural_Development": {
+                "MGNREGS_Wages": {
+                    "id": 80,
+                    "allocation": "₹3875.76 Crore"
+                },
+                "PMGSY_Roads": {
+                    "id": 81,
+                    "allocation": "₹80 Crore (State share) + ₹23.60 Crore (Excess)"
+                },
+                "Extreme_Poverty_Gap_Fund": {
+                    "id": 82,
+                    "allocation": "₹60 Crore"
+                },
+                "Literacy_Mission_LEAP": {
+                    "id": 83,
+                    "allocation": "₹20.20 Crore"
+                }
+            },
+            "Local_Self_Government": {
+                "Operation_Breakthrough_Ernakulam": {
+                    "id": 84,
+                    "allocation": "₹10 Crore"
+                },
+                "Kudumbashree_Mission": {
+                    "id": 85,
+                    "allocation": "₹270 Crore"
+                },
+                "Suchitwa_Keralam": {
+                    "id": 86,
+                    "allocation": "₹30 Crore"
+                },
+                "Wayanad_Development_Package": {
+                    "id": 87,
+                    "allocation": "₹85 Crore"
+                }
+            },
+            "Irrigation": {
+                "Idamalayar_Project": {
+                    "id": 88,
+                    "allocation": "₹30 Crore"
+                },
+                "Muvattupuzha_Valley_Project": {
+                    "id": 89,
+                    "allocation": "₹10 Crore"
+                },
+                "Karappuzha_Project": {
+                    "id": 90,
+                    "allocation": "₹27 Crore"
+                },
+                "Kallada_Project": {
+                    "id": 91,
+                    "allocation": "₹10 Crore"
+                },
+                "Cauvery_Basin": {
+                    "id": 92,
+                    "allocation": "₹77.22 Crore"
+                },
+                "Banasura_Sagar": {
+                    "id": 93,
+                    "allocation": "₹20 Crore"
+                },
+                "Pattissery_Dam_Chengalar": {
+                    "id": 94,
+                    "allocation": "₹17 Crore"
+                },
+                "Dam_Rehabilitation_DRIP_II": {
+                    "id": 95,
+                    "allocation": "₹30 Crore"
+                },
+                "Kuttiyadi_Renovation": {
+                    "id": 96,
+                    "allocation": "₹5 Crore"
+                },
+                "Chitturpuzha_Renovation": {
+                    "id": 97,
+                    "allocation": "₹12 Crore"
+                },
+                "Pazhassi_Project_Renovation": {
+                    "id": 98,
+                    "allocation": "₹13 Crore"
+                },
+                "Thottappally_Spillway": {
+                    "id": 99,
+                    "allocation": "₹5 Crore"
+                },
+                "Arunapuram_Mini_Dam": {
+                    "id": 100,
+                    "allocation": "₹3 Crore"
+                },
+                "Vembanad_Dredging": {
+                    "id": 101,
+                    "allocation": "₹10 Crore"
+                },
+                "Ground_Water_Assessment": {
+                    "id": 102,
+                    "allocation": "₹22 Crore"
+                },
+                "Micro_Irrigation": {
+                    "id": 103,
+                    "allocation": "₹30.68 Crore"
+                },
+                "Kuttanad_Infrastructure": {
+                    "id": 104,
+                    "allocation": "₹100 Crore"
+                },
+                "Kuttanad_Flood_Control": {
+                    "id": 105,
+                    "allocation": "₹57 Crore"
+                }
+            },
+            "Energy": {
+                "Pumps_and_Storage": {
+                    "id": 106,
+                    "allocation": "₹100 Crore"
+                },
+                "Pazhassi_Sagar_Hydro": {
+                    "id": 107,
+                    "allocation": "₹10 Crore"
+                },
+                "Maripuzha_Hydro": {
+                    "id": 108,
+                    "allocation": "₹2 Crore"
+                },
+                "Transmission_Network": {
+                    "id": 109,
+                    "allocation": "₹370 Crore"
+                },
+                "Dyuthi_Project": {
+                    "id": 110,
+                    "allocation": "₹430 Crore"
+                },
+                "Battery_Energy_Storage_Mylatti": {
+                    "id": 111,
+                    "allocation": "₹5 Crore"
+                },
+                "Tribal_Electrification": {
+                    "id": 112,
+                    "allocation": "₹5 Crore"
+                },
+                "SC_ST_Solar_Panels": {
+                    "id": 113,
+                    "allocation": "₹5 Crore"
+                }
+            },
+            "Industries": {
+                "KSDP_Alappuzha": {
+                    "id": 114,
+                    "allocation": "₹20 Crore"
+                },
+                "Entrepreneur_Support": {
+                    "id": 115,
+                    "allocation": "₹80 Crore"
+                },
+                "Nano_Enterprises_Margin_Money": {
+                    "id": 116,
+                    "allocation": "₹17.06 Crore"
+                },
+                "Climate_Smart_Coffee_Wayanad": {
+                    "id": 117,
+                    "allocation": "₹3 Crore"
+                },
+                "Tourism_Souvenirs": {
+                    "id": 118,
+                    "allocation": "₹25 Lakh"
+                },
+                "Handloom_Product_Promotion": {
+                    "id": 119,
+                    "allocation": "₹5 Crore"
+                },
+                "HANTEX_Rejuvenation": {
+                    "id": 120,
+                    "allocation": "₹20 Crore"
+                },
+                "Coop_Spinning_Mills": {
+                    "id": 121,
+                    "allocation": "₹6 Crore"
+                },
+                "Coco_Peat_Industry": {
+                    "id": 122,
+                    "allocation": "₹5 Crore"
+                },
+                "Cashew_Board": {
+                    "id": 123,
+                    "allocation": "₹41 Crore"
+                },
+                "Cashew_Sector_Revival_Fund": {
+                    "id": 124,
+                    "allocation": "₹30 Crore"
+                },
+                "Maritime_Cluster_Kochi": {
+                    "id": 125,
+                    "allocation": "₹4 Crore"
+                },
+                "Investment_Friendly_Project": {
+                    "id": 126,
+                    "allocation": "₹22 Crore"
+                },
+                "Sick_Industries_Revival": {
+                    "id": 127,
+                    "allocation": "₹4 Crore"
+                },
+                "Life_Science_Park": {
+                    "id": 128,
+                    "allocation": "₹16 Crore"
+                },
+                "Medical_Devices_Park": {
+                    "id": 129,
+                    "allocation": "₹21.92 Crore"
+                },
+                "Kerala_Rubber_Limited": {
+                    "id": 130,
+                    "allocation": "₹9 Crore"
+                },
+                "KINFRA_Film_Video_Park": {
+                    "id": 131,
+                    "allocation": "₹19.50 Crore"
+                },
+                "Kochi_Petrochemical_Park": {
+                    "id": 132,
+                    "allocation": "₹30 Crore"
+                },
+                "KINFRA_Exhibition_Centre_Kakkanad": {
+                    "id": 133,
+                    "allocation": "₹20 Crore"
+                },
+                "Kochi_Palakkad_Corridor": {
+                    "id": 134,
+                    "allocation": "₹200 Crore"
+                },
+                "KELTRON_Testing_Facility": {
+                    "id": 135,
+                    "allocation": "₹20 Crore"
+                },
+                "Industrial_Food_Park_Kollam": {
+                    "id": 136,
+                    "allocation": "₹5 Crore"
+                }
+            },
+            "Information_Technology": {
+                "Kerala_State_IT_Mission": {
+                    "id": 137,
+                    "allocation": "₹134.03 Crore"
+                },
+                "WiFi_Hotspots": {
+                    "id": 138,
+                    "allocation": "₹15 Crore"
+                },
+                "CERT_Kerala": {
+                    "id": 139,
+                    "allocation": "₹10.80 Crore"
+                },
+                "New_IT_Policy_Implementation": {
+                    "id": 140,
+                    "allocation": "₹20 Crore"
+                },
+                "Startup_Mission_Fund_of_Funds": {
+                    "id": 141,
+                    "allocation": "₹10 Crore"
+                },
+                "Digital_Arts_School": {
+                    "id": 142,
+                    "allocation": "₹2 Crore"
+                },
+                "Digital_Museum_Kerala": {
+                    "id": 143,
+                    "allocation": "₹3 Crore"
+                },
+                "Digital_University_Oxford_Collab": {
+                    "id": 144,
+                    "allocation": "₹2 Crore"
+                },
+                "ICFOSS": {
+                    "id": 145,
+                    "allocation": "₹7.45 Crore"
+                },
+                "Technopark_TVM": {
+                    "id": 146,
+                    "allocation": "₹21 Crore"
+                },
+                "Infopark_Kochi": {
+                    "id": 147,
+                    "allocation": "₹21.60 Crore"
+                },
+                "Cyberpark_Kozhikode": {
+                    "id": 148,
+                    "allocation": "₹11.50 Crore"
+                },
+                "Kerala_Space_Park": {
+                    "id": 149,
+                    "allocation": "₹52.50 Crore"
+                },
+                "KFON": {
+                    "id": 150,
+                    "allocation": "₹100 Crore"
+                }
+            },
+            "Transport": {
+                "Non_Major_Ports_Development": {
+                    "id": 151,
+                    "allocation": "₹65 Crore"
+                },
+                "Passenger_Ship_Viability_Gap": {
+                    "id": 152,
+                    "allocation": "₹10 Crore"
+                },
+                "Beypore_Port": {
+                    "id": 153,
+                    "allocation": "₹150 Crore (Dredging + Wharf)"
+                },
+                "Kollam_Port": {
+                    "id": 154,
+                    "allocation": "₹280 Crore (Drydock + Wharf)"
+                },
+                "Floating_Jetties": {
+                    "id": 155,
+                    "allocation": "₹115.20 Crore (Chellanam, etc.)"
+                },
+                "Wayanad_Tunnel_Project": {
+                    "id": 156,
+                    "allocation": "₹2134.50 Crore"
+                },
+                "Sabarimala_Roads": {
+                    "id": 157,
+                    "allocation": "₹545.13 Crore (Already expended)"
+                },
+                "KSTP_Phase_II": {
+                    "id": 158,
+                    "allocation": "₹100 Crore"
+                },
+                "Railway_Over_Bridges": {
+                    "id": 159,
+                    "allocation": "₹16 Crore"
+                },
+                "Tribal_Bridges": {
+                    "id": 160,
+                    "allocation": "₹20 Crore"
+                },
+                "KSRTC_Modernization": {
+                    "id": 161,
+                    "allocation": "₹38.70 Crore"
+                },
+                "KSRTC_New_Buses": {
+                    "id": 162,
+                    "allocation": "₹107 Crore"
+                },
+                "Cheruthoni_Bus_Depot": {
+                    "id": 163,
+                    "allocation": "₹2 Crore"
+                },
+                "Chittur_Private_Bus_Stand": {
+                    "id": 164,
+                    "allocation": "₹2 Crore"
+                },
+                "E_Mobility_Fund": {
+                    "id": 165,
+                    "allocation": "₹8.56 Crore"
+                },
+                "New_Boats_Ferries": {
+                    "id": 166,
+                    "allocation": "₹25.11 Crore"
+                },
+                "Cruise_Vessel": {
+                    "id": 167,
+                    "allocation": "₹3 Crore"
+                },
+                "Kannur_Airport_Dev": {
+                    "id": 168,
+                    "allocation": "₹75.51 Crore"
+                },
+                "Kochi_Metro": {
+                    "id": 169,
+                    "allocation": "₹289 Crore"
+                },
+                "Kochi_Water_Metro": {
+                    "id": 170,
+                    "allocation": "₹159.60 Crore"
+                },
+                "Helipads_Feasibility": {
+                    "id": 171,
+                    "allocation": "₹10 Crore"
+                },
+                "Airstrips_Idukki_Wayanad_Kasaragod": {
+                    "id": 172,
+                    "allocation": "₹1.50 Crore"
+                },
+                "Seaplane_Facilities": {
+                    "id": 173,
+                    "allocation": "₹50 Crore"
+                },
+                "Sabarimala_Greenfield_Airport": {
+                    "id": 174,
+                    "allocation": "₹4.96 Crore"
+                }
+            },
+            "Tourism_Infrastructure": {
+                "Resort_Renovation_KTDC": {
+                    "id": 175,
+                    "allocation": "₹13 Crore"
+                },
+                "Kerala_House_Hyderabad": {
+                    "id": 176,
+                    "allocation": "₹5 Crore"
+                },
+                "Tourism_Marketing": {
+                    "id": 177,
+                    "allocation": "₹80 Crore"
+                },
+                "Cultural_Fetes": {
+                    "id": 178,
+                    "allocation": "₹26.6 Crore"
+                },
+                "Destination_Infrastructure": {
+                    "id": 179,
+                    "allocation": "₹149 Crore"
+                },
+                "Idukki_Cable_Cart": {
+                    "id": 180,
+                    "allocation": "₹3 Crore"
+                },
+                "Guest_House_Renovation": {
+                    "id": 181,
+                    "allocation": "₹30 Crore"
+                },
+                "Muziris_Spice_Route": {
+                    "id": 182,
+                    "allocation": "₹14 Crore"
+                },
+                "Kollam_Marina": {
+                    "id": 183,
+                    "allocation": "₹5 Crore"
+                },
+                "Toilet_Construction": {
+                    "id": 184,
+                    "allocation": "₹2 Crore"
+                },
+                "Night_Life_Locations": {
+                    "id": 185,
+                    "allocation": "₹1 Crore"
+                },
+                "Champions_Boat_League": {
+                    "id": 186,
+                    "allocation": "₹8.96 Crore"
+                },
+                "Zoological_Park_Puthoor": {
+                    "id": 187,
+                    "allocation": "₹6 Crore"
+                },
+                "Biological_Park_Kozhikode": {
+                    "id": 188,
+                    "allocation": "₹5 Crore"
+                },
+                "Ponmudi_Ropeway_Study": {
+                    "id": 189,
+                    "allocation": "₹50 Lakh"
+                },
+                "Vanayathra_Trekking": {
+                    "id": 190,
+                    "allocation": "₹3 Crore"
+                },
+                "Model_Tourism_Destination": {
+                    "id": 191,
+                    "allocation": "₹5 Crore"
+                }
+            },
+            "Education": {
+                "Supercomputing_Centre": {
+                    "id": 192,
+                    "allocation": "₹10 Crore"
+                },
+                "Institute_of_Advanced_Virology": {
+                    "id": 193,
+                    "allocation": "₹50 Crore"
+                },
+                "Institute_of_Advanced_Crop_Breeding": {
+                    "id": 194,
+                    "allocation": "₹2 Crore"
+                },
+                "School_Infrastructure": {
+                    "id": 195,
+                    "allocation": "₹84.28 Crore"
+                },
+                "Smart_Classrooms_Blocks": {
+                    "id": 196,
+                    "allocation": "₹60 Crore"
+                },
+                "CM_KID_Scholarship": {
+                    "id": 197,
+                    "description": "Renaming of LSS/USS Scholarship"
+                },
+                "Barrier_Free_Schools": {
+                    "id": 198,
+                    "allocation": "₹10 Crore"
+                },
+                "Heritage_School_Conservation": {
+                    "id": 199,
+                    "allocation": "₹2.8 Crore"
+                },
+                "Free_Uniforms": {
+                    "id": 200,
+                    "allocation": "₹150.34 Crore"
+                },
+                "Mentally_Challenged_Schools_Aid": {
+                    "id": 201,
+                    "allocation": "₹62 Crore"
+                },
+                "KITE": {
+                    "id": 202,
+                    "allocation": "₹38.5 Crore"
+                },
+                "Mid_Day_Meal_PM_Poshan": {
+                    "id": 203,
+                    "allocation": "₹402.14 Crore"
+                },
+                "Teacher_Training_SCERT": {
+                    "id": 204,
+                    "allocation": "₹5 Crore"
+                },
+                "University_Centres_of_Excellence": {
+                    "id": 205,
+                    "allocation": "₹13.40 Crore"
+                },
+                "CM_Researchers_Scholarship": {
+                    "id": 206,
+                    "allocation": "₹20 Crore"
+                },
+                "K_R_Narayanan_Institute": {
+                    "id": 207,
+                    "allocation": "₹11 Crore"
+                },
+                "Sree_Narayana_Guru_Open_University": {
+                    "id": 208,
+                    "allocation": "₹30 Crore"
+                },
+                "CUSAT": {
+                    "id": 209,
+                    "allocation": "₹31.25 Crore"
+                },
+                "Science_City_Kottayam": {
+                    "id": 210,
+                    "allocation": "₹25 Crore (Total for 2025-26), ₹10 Crore Phase 1"
+                },
+                "Science_Museum_Kottarakkara": {
+                    "id": 211,
+                    "allocation": "₹5 Crore"
+                },
+                "IHRD_Campus_Parks": {
+                    "id": 212,
+                    "allocation": "₹10 Crore"
+                }
+            },
+            "Art_and_Culture": {
+                "Archaeology_Museum_Conservation": {
+                    "id": 213,
+                    "allocation": "₹6 Crore"
+                },
+                "Buddhist_Centres_Conservation": {
+                    "id": 214,
+                    "allocation": "₹5 Crore"
+                },
+                "AKG_Museum": {
+                    "id": 215,
+                    "allocation": "₹3.5 Crore"
+                },
+                "Ayyankali_Hall_Modernisation": {
+                    "id": 216,
+                    "allocation": "₹1 Crore"
+                },
+                "Zoo_Cum_Safari_Park_Thaliparamba": {
+                    "id": 217,
+                    "allocation": "₹1 Crore"
+                },
+                "Arteria_Project": {
+                    "id": 218,
+                    "allocation": "₹2 Crore"
+                },
+                "Photography_Museum": {
+                    "id": 219,
+                    "allocation": "₹50 Lakh"
+                },
+                "Thrissur_Pooram_Infra": {
+                    "id": 220,
+                    "allocation": "₹5 Crore"
+                },
+                "History_Maritime_Museum_Kollam": {
+                    "id": 221,
+                    "allocation": "₹5 Crore"
+                },
+                "KSFDC_New_Theatres": {
+                    "id": 222,
+                    "allocation": "₹3 Crore (Palayad, Munnar)"
+                },
+                "E_Ticketing_System": {
+                    "id": 223,
+                    "allocation": "₹2 Crore"
+                },
+                "Chalachithra_Museum": {
+                    "id": 224,
+                    "status": "Steps underway"
+                },
+                "Bala_Bhavan_Kollam_Building": {
+                    "id": 225,
+                    "allocation": "₹2 Crore"
+                },
+                "Kerala_Kalamandalam": {
+                    "id": 226,
+                    "allocation": "₹24.50 Crore"
+                },
+                "Diamond_Jubilee_Fellowship": {
+                    "id": 227,
+                    "allocation": "₹13 Crore"
+                },
+                "Rural_Art_Hub": {
+                    "id": 228,
+                    "allocation": "₹5 Crore"
+                },
+                "Cultural_Centre_Pinarayi": {
+                    "id": 229,
+                    "allocation": "₹50 Lakh"
+                },
+                "MT_Vasudevan_Nair_Memorial": {
+                    "id": 230,
+                    "allocation": "₹5 Crore"
+                },
+                "Vaikkom_Sathyagraha_Memorial": {
+                    "id": 231,
+                    "allocation": "₹5 Crore"
+                }
+            },
+            "Sports": {
+                "Sports_Development_Fund": {
+                    "id": 232,
+                    "allocation": "₹8.40 Crore"
+                },
+                "Kerala_University_Synthetic_Track": {
+                    "id": 233,
+                    "allocation": "₹5 Crore"
+                },
+                "Healthy_Kids": {
+                    "id": 234,
+                    "allocation": "₹6.50 Crore"
+                },
+                "Rural_Playgrounds": {
+                    "id": 235,
+                    "allocation": "₹18 Crore"
+                },
+                "Model_Sports_Academies": {
+                    "id": 236,
+                    "allocation": "₹1.20 Crore"
+                },
+                "Sports_Equipment_Industry": {
+                    "id": 237,
+                    "allocation": "₹5 Crore"
+                }
+            },
+            "Health_Sector": {
+                "Palliative_Care_Grid": {
+                    "id": 238,
+                    "allocation": "₹1 Crore"
+                },
+                "Infertility_Clinics": {
+                    "id": 239,
+                    "allocation": "₹8 Crore"
+                },
+                "108_Ambulances": {
+                    "id": 240,
+                    "allocation": "₹80 Crore"
+                },
+                "Cath_Labs_Medical_Colleges": {
+                    "id": 241,
+                    "allocation": "₹45 Crore (Alappuzha, Kozhikode, Ernakulam)"
+                },
+                "Trivandrum_Heart_Foundation_Cath_Lab": {
+                    "id": 242,
+                    "allocation": "₹10 Crore"
+                },
+                "Dialysis_Units_Expansion": {
+                    "id": 243,
+                    "allocation": "₹13.98 Crore"
+                },
+                "Stroke_Care_Units": {
+                    "id": 244,
+                    "allocation": "₹21 Crore"
+                },
+                "Newborn_Screening": {
+                    "id": 245,
+                    "allocation": "₹2.4 Crore"
+                },
+                "ICCONS": {
+                    "id": 246,
+                    "allocation": "₹7.34 Crore"
+                },
+                "National_Health_Mission_State_Share": {
+                    "id": 247,
+                    "allocation": "₹465.20 Crore"
+                },
+                "E_Health": {
+                    "id": 248,
+                    "allocation": "₹27.60 Crore"
+                },
+                "KASP_Insurance": {
+                    "id": 249,
+                    "allocation": "₹700 Crore"
+                },
+                "Chemical_Examiners_Lab": {
+                    "id": 250,
+                    "allocation": "₹5 Crore"
+                },
+                "Medical_College_Waste_Management": {
+                    "id": 251,
+                    "allocation": "₹17.23 Crore"
+                },
+                "Oncology_Equipment": {
+                    "id": 252,
+                    "allocation": "₹20 Crore"
+                },
+                "Imaging_Facilities": {
+                    "id": 253,
+                    "allocation": "₹15 Crore"
+                },
+                "Bone_Marrow_Transplant_Kottayam": {
+                    "id": 254,
+                    "allocation": "₹1.75 Crore"
+                },
+                "Cancer_Detection_Treatment": {
+                    "id": 255,
+                    "allocation": "₹152.50 Crore Total (RCC: ₹75Cr, MCC: ₹35Cr, Cochin: ₹18Cr)"
+                },
+                "Model_Cancer_Care_Centres": {
+                    "id": 256,
+                    "allocation": "₹2.5 Crore"
+                },
+                "RCC_Building_Completion": {
+                    "id": 257,
+                    "allocation": "₹28 Crore"
+                },
+                "International_Ayurveda_Research_Institute": {
+                    "id": 258,
+                    "allocation": "₹2 Crore"
+                }
+            },
+            "Water_Supply": {
+                "Sewage_Treatment": {
+                    "id": 259,
+                    "allocation": "₹70 Crore"
+                },
+                "Decentralized_Sewage_Robotic_Cleaning": {
+                    "id": 260,
+                    "allocation": "₹30 Crore"
+                },
+                "Rural_Water_Supply": {
+                    "id": 261,
+                    "allocation": "₹15 Crore"
+                },
+                "Disaster_Water_Supply": {
+                    "id": 262,
+                    "allocation": "₹7.5 Crore"
+                },
+                "Jal_Jeevan_Mission_State_Share": {
+                    "id": 263,
+                    "allocation": "₹560 Crore"
+                },
+                "ADB_Urban_Water_Project": {
+                    "id": 264,
+                    "allocation": "₹75 Crore"
+                },
+                "Sashtamkotta_Lake_Conservation": {
+                    "id": 265,
+                    "allocation": "₹1 Crore"
+                }
+            },
+            "Housing_Schemes": {
+                "Marine_Eco_City_Kochi": {
+                    "id": 266,
+                    "project_cost": "₹2400 Crore (Income exp ₹3650 Cr)"
+                },
+                "Grihasree_Housing": {
+                    "id": 267,
+                    "allocation": "₹24 Crore"
+                },
+                "Senior_Citizen_Homes": {
+                    "id": 268,
+                    "allocation": "₹5 Crore"
+                },
+                "Lakshamveedu_Reconstruction": {
+                    "id": 269,
+                    "allocation": "₹10 Crore"
+                },
+                "Life_Mission_Total": {
+                    "id": 270,
+                    "allocation": "₹1160 Crore"
+                },
+                "PMAY_Grameen_State_Share": {
+                    "id": 271,
+                    "allocation": "₹55 Crore"
+                }
+            },
+            "Urban_Development": {
+                "Ayyankali_Employment_Scheme": {
+                    "id": 272,
+                    "allocation": "₹180 Crore"
+                },
+                "KSWMP_Solid_Waste": {
+                    "id": 273,
+                    "allocation": "₹185 Crore"
+                },
+                "TRIDA_Vattiyoorkavu_Dev": {
+                    "id": 274,
+                    "allocation": "₹7 Crore"
+                },
+                "She_Hostel_GCDA": {
+                    "id": 275,
+                    "allocation": "₹5 Crore"
+                },
+                "Amrit_2_0_State_Share": {
+                    "id": 276,
+                    "allocation": "₹300 Crore"
+                },
+                "PMAY_Urban_State_Share": {
+                    "id": 277,
+                    "allocation": "₹30 Crore"
+                }
+            },
+            "Media": {
+                "State_Media_Awards": {
+                    "id": 278,
+                    "prize_money": "Doubled"
+                },
+                "Swadeshabhimani_Kesari_Award": {
+                    "id": 279,
+                    "increase": "From ₹1 Lakh to ₹1.5 Lakh"
+                }
+            },
+            "Labour_Welfare": {
+                "Income_Support_Traditional_Sector": {
+                    "id": 280,
+                    "allocation": "₹100 Crore"
+                },
+                "Guest_Worker_Schemes_Apna_Ghar": {
+                    "id": 281,
+                    "allocation": "₹5.50 Crore"
+                },
+                "ITI_Modernization": {
+                    "id": 282,
+                    "allocation": "₹25 Crore"
+                },
+                "ITI_Noon_Meal": {
+                    "id": 283,
+                    "allocation": "₹15 Crore"
+                },
+                "SARANYA": {
+                    "id": 284,
+                    "allocation": "₹17 Crore"
+                },
+                "NORKA_Rehabilitation": {
+                    "id": 285,
+                    "allocation": "₹77.50 Crore"
+                }
+            },
+            "SC_ST_Development": {
+                "Unnathi_Overseas_Scholarship": {
+                    "id": 286,
+                    "status": "Ongoing"
+                },
+                "Palakkad_Medical_College_Construction": {
+                    "id": 287,
+                    "allocation": "₹25 Crore"
+                },
+                "Ambedkar_Village_Dev_SC": {
+                    "id": 288,
+                    "allocation": "₹55 Crore"
+                },
+                "SC_Land_Purchase": {
+                    "id": 289,
+                    "allocation": "₹170 Crore"
+                },
+                "SAFE_Housing_SC": {
+                    "id": 290,
+                    "allocation": "₹240 Crore"
+                },
+                "SC_Girl_Marriage_Assistance": {
+                    "id": 291,
+                    "allocation": "₹88 Crore"
+                },
+                "Vidyavahini_ST": {
+                    "id": 292,
+                    "allocation": "₹30 Crore"
+                },
+                "Kerala_Tribal_Plus": {
+                    "id": 293,
+                    "allocation": "₹35 Crore"
+                },
+                "ST_MRS_Schools": {
+                    "id": 294,
+                    "allocation": "₹60 Crore"
+                },
+                "Janani_Janma_Rakha": {
+                    "id": 295,
+                    "allocation": "₹17 Crore"
+                },
+                "Comprehensive_Tribal_Healthcare": {
+                    "id": 296,
+                    "allocation": "₹32 Crore"
+                },
+                "Landless_Tribal_Resettlement": {
+                    "id": 297,
+                    "allocation": "₹42 Crore"
+                },
+                "Paniya_Package": {
+                    "id": 298,
+                    "allocation": "₹3 Crore"
+                }
+            },
+            "Minority_OBC_Welfare": {
+                "Kedavilakku_Scholarship": {
+                    "id": 299,
+                    "allocation": "₹15 Crore"
+                },
+                "Hajj_Terminal_Kannur": {
+                    "id": 300,
+                    "status": "Land agreed"
+                },
+                "Imbichi_Bhava_Housing": {
+                    "id": 301,
+                    "allocation": "₹5 Crore"
+                }
+            },
+            "Social_Security": {
+                "Pension_Arrears": {
+                    "id": 302,
+                    "plan": "2 installments in current FY, 3 in next FY"
+                },
+                "Barrier_Free_Kerala": {
+                    "id": 303,
+                    "allocation": "₹8 Crore"
+                },
+                "Sayamprabha": {
+                    "id": 304,
+                    "allocation": "₹14 Crore"
+                },
+                "Mazhavillu_Transgenders": {
+                    "id": 305,
+                    "allocation": "₹5.50 Crore"
+                },
+                "Transit_Home_Foreigners": {
+                    "id": 306,
+                    "allocation": "₹1 Crore"
+                },
+                "Endosulfan_Relief": {
+                    "id": 307,
+                    "allocation": "₹17 Crore"
+                },
+                "Vayomithram": {
+                    "id": 308,
+                    "allocation": "₹27.50 Crore"
+                },
+                "Anuyatra": {
+                    "id": 309,
+                    "allocation": "₹21 Crore"
+                },
+                "Samashwasm": {
+                    "id": 310,
+                    "allocation": "₹6 Crore"
+                },
+                "Aswasakiranam": {
+                    "id": 311,
+                    "allocation": "₹50 Crore"
+                },
+                "Snehapoorvam": {
+                    "id": 312,
+                    "allocation": "₹20 Crore"
+                },
+                "Mittayi_Juvenile_Diabetes": {
+                    "id": 313,
+                    "allocation": "₹3.80 Crore"
+                },
+                "Nirbhaya": {
+                    "id": 314,
+                    "allocation": "₹12 Crore"
+                },
+                "Psychosocial_Adolescent_Girls": {
+                    "id": 315,
+                    "allocation": "₹51 Crore"
+                },
+                "Gender_Park": {
+                    "id": 316,
+                    "allocation": "₹9 Crore"
+                },
+                "After_Care_Homes": {
+                    "id": 317,
+                    "allocation": "₹11 Crore"
+                },
+                "Govt_Care_Home_Idukki": {
+                    "id": 318,
+                    "allocation": "₹3 Crore"
+                },
+                "Creches_Workplace": {
+                    "id": 319,
+                    "allocation": "₹2.50 Crore"
+                },
+                "POCSO_Fast_Track_Court": {
+                    "id": 320,
+                    "allocation": "₹5 Crore"
+                }
+            },
+            "Admin_and_Governance": {
+                "Nava_Kerala_Sadas_Projects": {
+                    "id": 321,
+                    "allocation": "₹210 Crore (Max ₹7 Cr per constituency)"
+                },
+                "Treasury_Computerization_Building": {
+                    "id": 322,
+                    "allocation": "₹7.50 Crore + ₹10 Crore"
+                },
+                "Solar_UPS_Treasuries": {
+                    "id": 323,
+                    "status": "Pilot in Annamanada"
+                },
+                "Priority_Counters_Treasuries": {
+                    "id": 324,
+                    "plan": "Phased implementation"
+                },
+                "Revenue_E_Services_Portal": {
+                    "id": 325,
+                    "allocation": "₹26.50 Crore"
+                },
+                "Digital_Survey": {
+                    "id": 326,
+                    "status": "Ongoing"
+                }
+            },
+            "Miscellaneous_Projects": {
+                "Manchadi_Maths": {
+                    "id": 327,
+                    "allocation": "₹2.8 Crore"
+                },
+                "Margadeepam_Scholarship": {
+                    "id": 328,
+                    "allocation": "₹20 Crore"
+                },
+                "Fellowship_Scheme_Research": {
+                    "id": 329,
+                    "allocation": "₹6 Crore"
+                },
+                "Pilgrim_Centres_Specifics": {
+                    "id": 330,
+                    "Pilgrim_House_Kottarakkara": "₹5 Crore",
+                    "Aranmula_Boat_Pavilion": "₹2 Crore",
+                    "Kozhanchery_Pilgrim_Amenities": "₹3 Crore",
+                    "Hajj_House_Kannur": "₹5 Crore"
+                },
+                "Regional_Connectivity_UDAN": {
+                    "id": 331,
+                    "allocation": "₹20 Crore"
+                },
+                "Toy_Production_Hub": {
+                    "id": 332,
+                    "allocation": "₹5 Crore"
+                },
+                "Jackfruit_Powder_Nutrition": {
+                    "id": 333,
+                    "status": "Initiative to include in central programs"
+                }
+            }
+        }
+    }
+}

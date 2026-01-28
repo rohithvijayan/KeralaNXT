@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html class="light" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Budget Project Detail Card - KeralaNXT</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#3d665b",
+                        "accent-green": "#13ecb2",
+                        "background-light": "#f6f8f7",
+                        "background-dark": "#10221d",
+                    },
+                    fontFamily: {
+                        "display": ["Plus Jakarta Sans", "sans-serif"]
+                    },
+                    borderRadius: {
+                        "DEFAULT": "0.5rem",
+                        "lg": "1rem",
+                        "xl": "1.5rem",
+                        "full": "9999px"
+                    },
+                },
+            },
+        }
+    </script>
+    <style type="text/tailwindcss">
+        body {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+        }
+        .card-shadow {
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+        }
+        :root {
+            --forest-green: #3d665b;
+        }
+    </style>
+</head>
+
+<body class="bg-background-light dark:bg-background-dark min-h-screen flex items-center justify-center p-6">
+    <div
+        class="w-[380px] h-[240px] bg-white dark:bg-[#1a2e28] rounded-xl overflow-hidden flex flex-col card-shadow transition-transform duration-300 hover:-translate-y-1 border border-gray-100 dark:border-gray-800">
+        <div class="bg-[var(--forest-green)] px-5 py-3 flex items-center justify-between">
+            <div class="flex gap-2">
+                <div class="flex h-6 items-center justify-center rounded-full bg-amber-400 px-2.5 shadow-sm">
+                    <p class="text-[#111816] text-[10px] font-bold uppercase tracking-wider">Ongoing</p>
+                </div>
+                <div
+                    class="flex h-6 items-center justify-center rounded-full bg-white/15 backdrop-blur-md px-2.5 border border-white/20">
+                    <p class="text-white text-[11px] font-semibold tracking-wide">₹7,700 Cr</p>
+                </div>
+            </div>
+            <span class="material-symbols-outlined text-white/40 text-[18px]">account_balance_wallet</span>
+        </div>
+        <div class="flex-1 flex flex-col p-5 justify-between">
+            <div>
+                <div class="flex items-center gap-1 mb-1">
+                    <span
+                        class="material-symbols-outlined text-[14px] text-gray-500 dark:text-gray-400">location_on</span>
+                    <p class="text-gray-500 dark:text-gray-400 text-[11px] font-semibold uppercase tracking-wider">
+                        Thiruvananthapuram • Infrastructure
+                    </p>
+                </div>
+                <h1 class="text-[#111816] dark:text-white text-lg font-bold leading-snug tracking-tight mb-3">
+                    Vizhinjam International Seaport
+                </h1>
+                <div class="flex flex-col gap-1.5">
+                    <div class="flex justify-between items-end">
+                        <p class="text-gray-500 dark:text-gray-400 text-[11px] font-medium uppercase">Utilization</p>
+                        <p class="text-[var(--forest-green)] dark:text-accent-green text-[12px] font-bold">70% utilized
+                        </p>
+                    </div>
+                    <div class="w-full h-2 rounded-full bg-gray-100 dark:bg-gray-700 overflow-hidden">
+                        <div class="h-full bg-[var(--forest-green)] dark:bg-accent-green rounded-full"
+                            style="width: 70%;"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="flex items-center justify-between mt-2 pt-2 border-t border-gray-50 dark:border-gray-800">
+                <a class="group flex items-center gap-1 text-[var(--forest-green)] dark:text-accent-green text-sm font-bold transition-all hover:gap-2"
+                    href="#">
+                    <span>View Details</span>
+                    <span class="material-symbols-outlined text-[18px]">arrow_right_alt</span>
+                </a>
+                <div class="flex gap-1">
+                    <button
+                        class="p-1.5 rounded-full hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-400 transition-colors">
+                        <span class="material-symbols-outlined text-[18px]">share</span>
+                    </button>
+                    <button
+                        class="p-1.5 rounded-full hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-400 transition-colors">
+                        <span class="material-symbols-outlined text-[18px]">bookmark</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Desktop State Budget Dashboard | KeralaNXT</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;600;700;800;900&amp;display=swap"
+        rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#3d665b",
+                        "background-light": "#f8faf9",
+                        "background-dark": "#161c1a",
+                        "accent-green": "#07882e",
+                        "accent-red": "#e72e08",
+                    },
+                    fontFamily: {
+                        "display": ["Public Sans", "sans-serif"]
+                    },
+                    borderRadius: {
+                        "DEFAULT": "0.5rem",
+                        "lg": "1rem",
+                        "xl": "1.5rem",
+                        "full": "9999px"
+                    },
+                },
+            },
+        }
+    </script>
+    <style>
+        body {
+            font-family: 'Public Sans', sans-serif;
+        }
+
+        .custom-scrollbar::-webkit-scrollbar {
+            width: 4px;
+        }
+
+        .custom-scrollbar::-webkit-scrollbar-track {
+            background: transparent;
+        }
+
+        .custom-scrollbar::-webkit-scrollbar-thumb {
+            background: #dfe2e1;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+
+<body class="bg-background-light dark:bg-background-dark text-[#131515] dark:text-white antialiased">
+    <div class="flex min-h-screen">
+        <!-- Sidebar (280px) -->
+        <aside
+            class="w-[280px] bg-white dark:bg-black border-r border-[#dfe2e1] dark:border-zinc-800 flex flex-col fixed h-full z-50">
+            <div class="p-6 flex flex-col h-full">
+                <!-- Logo & Brand -->
+                <div class="flex items-center gap-3 mb-8">
+                    <div class="bg-primary rounded-lg size-10 flex items-center justify-center text-white">
+                        <span class="material-symbols-outlined">account_balance</span>
+                    </div>
+                    <div class="flex flex-col">
+                        <h1 class="text-[#131515] dark:text-white text-lg font-bold leading-tight">KeralaNXT</h1>
+                        <p class="text-[#6f7b78] dark:text-zinc-400 text-xs font-medium">Government Portal</p>
+                    </div>
+                </div>
+                <!-- Fiscal Year Dropdown -->
+                <div class="mb-8">
+                    <label class="text-[#6f7b78] text-[10px] font-bold uppercase tracking-wider mb-2 block">Fiscal
+                        Year</label>
+                    <div class="relative">
+                        <select
+                            class="w-full bg-[#f2f3f3] dark:bg-zinc-900 border-none rounded-lg py-2 px-3 text-sm font-medium focus:ring-2 focus:ring-primary appearance-none cursor-pointer">
+                            <option>FY 2024-25</option>
+                            <option>FY 2023-24</option>
+                            <option>FY 2022-23</option>
+                        </select>
+                        <span
+                            class="material-symbols-outlined absolute right-2 top-1/2 -translate-y-1/2 pointer-events-none text-sm">expand_more</span>
+                    </div>
+                </div>
+                <!-- Navigation -->
+                <nav class="flex flex-col gap-1.5 flex-1">
+                    <a class="flex items-center gap-3 px-3 py-2.5 rounded-lg bg-primary/10 text-primary font-semibold"
+                        href="#">
+                        <span class="material-symbols-outlined text-[22px] fill-1">dashboard</span>
+                        <span class="text-sm">Overview</span>
+                    </a>
+                    <a class="flex items-center gap-3 px-3 py-2.5 rounded-lg text-[#131515] dark:text-zinc-300 hover:bg-[#f2f3f3] dark:hover:bg-zinc-800 transition-colors"
+                        href="#">
+                        <span class="material-symbols-outlined text-[22px]">bar_chart</span>
+                        <span class="text-sm font-medium">Sectors</span>
+                    </a>
+                    <a class="flex items-center gap-3 px-3 py-2.5 rounded-lg text-[#131515] dark:text-zinc-300 hover:bg-[#f2f3f3] dark:hover:bg-zinc-800 transition-colors"
+                        href="#">
+                        <span class="material-symbols-outlined text-[22px]">work</span>
+                        <span class="text-sm font-medium">Projects</span>
+                    </a>
+                    <a class="flex items-center gap-3 px-3 py-2.5 rounded-lg text-[#131515] dark:text-zinc-300 hover:bg-[#f2f3f3] dark:hover:bg-zinc-800 transition-colors"
+                        href="#">
+                        <span class="material-symbols-outlined text-[22px]">description</span>
+                        <span class="text-sm font-medium">Reports</span>
+                    </a>
+                    <a class="flex items-center gap-3 px-3 py-2.5 rounded-lg text-[#131515] dark:text-zinc-300 hover:bg-[#f2f3f3] dark:hover:bg-zinc-800 transition-colors"
+                        href="#">
+                        <span class="material-symbols-outlined text-[22px]">settings</span>
+                        <span class="text-sm font-medium">Settings</span>
+                    </a>
+                </nav>
+                <!-- Footer Sidebar Button -->
+                <button
+                    class="mt-auto w-full flex items-center justify-center gap-2 bg-primary hover:bg-[#2d4d44] text-white py-3 rounded-xl text-sm font-bold transition-all shadow-sm">
+                    <span class="material-symbols-outlined text-lg">download</span>
+                    <span>Download PDF</span>
+                </button>
+            </div>
+        </aside>
+        <!-- Main Content (1440px - 280px = 1160px container approx) -->
+        <main class="flex-1 ml-[280px] p-8 max-w-[1160px] mx-auto w-full">
+            <!-- Breadcrumbs -->
+            <div class="flex items-center gap-2 mb-4 text-sm font-medium">
+                <a class="text-[#6f7b78] dark:text-zinc-500 hover:text-primary transition-colors" href="#">Dashboard</a>
+                <span class="text-[#6f7b78] dark:text-zinc-500">/</span>
+                <span class="text-[#131515] dark:text-white">State Budget</span>
+            </div>
+            <!-- Page Header -->
+            <div class="flex flex-wrap items-end justify-between gap-6 mb-8">
+                <div class="flex flex-col gap-2">
+                    <h2 class="text-[#131515] dark:text-white text-4xl font-black tracking-tight leading-tight">Kerala
+                        State Budget 2024-25</h2>
+                    <p class="text-[#6f7b78] dark:text-zinc-400 flex items-center gap-1.5 text-sm">
+                        <span class="material-symbols-outlined text-sm">schedule</span>
+                        Last updated: Oct 24, 2023 • Live Data Feed
+                    </p>
+                </div>
+                <div class="flex gap-3">
+                    <button
+                        class="flex items-center gap-2 px-4 py-2 bg-white dark:bg-zinc-900 border border-[#dfe2e1] dark:border-zinc-800 rounded-lg text-sm font-semibold hover:bg-gray-50 transition-colors">
+                        <span class="material-symbols-outlined text-lg">filter_list</span>
+                        Filter View
+                    </button>
+                    <button
+                        class="flex items-center gap-2 px-4 py-2 bg-primary text-white rounded-lg text-sm font-semibold hover:opacity-90 transition-opacity">
+                        <span class="material-symbols-outlined text-lg">share</span>
+                        Share Insights
+                    </button>
+                </div>
+            </div>
+            <!-- KPI Row -->
+            <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-6 mb-8">
+                <div
+                    class="bg-white dark:bg-zinc-900 p-6 rounded-xl border border-[#dfe2e1] dark:border-zinc-800 flex flex-col gap-2 shadow-sm">
+                    <div class="flex justify-between items-start">
+                        <p class="text-[#6f7b78] dark:text-zinc-400 text-sm font-semibold">Total Allocated</p>
+                        <div class="bg-primary/10 text-primary p-1.5 rounded-lg">
+                            <span class="material-symbols-outlined text-lg">payments</span>
+                        </div>
+                    </div>
+                    <p class="text-[#131515] dark:text-white text-3xl font-bold tracking-tight">₹1.5L Cr</p>
+                    <div class="flex items-center gap-1 text-accent-green text-sm font-bold">
+                        <span class="material-symbols-outlined text-sm">trending_up</span>
+                        <span>+5.2%</span>
+                        <span class="text-[#6f7b78] dark:text-zinc-500 font-normal ml-1">vs prev. year</span>
+                    </div>
+                </div>
+                <div
+                    class="bg-white dark:bg-zinc-900 p-6 rounded-xl border border-[#dfe2e1] dark:border-zinc-800 flex flex-col gap-2 shadow-sm">
+                    <div class="flex justify-between items-start">
+                        <p class="text-[#6f7b78] dark:text-zinc-400 text-sm font-semibold">CAPEX</p>
+                        <div class="bg-primary/10 text-primary p-1.5 rounded-lg">
+                            <span class="material-symbols-outlined text-lg">architecture</span>
+                        </div>
+                    </div>
+                    <p class="text-[#131515] dark:text-white text-3xl font-bold tracking-tight">₹45K Cr</p>
+                    <div class="flex items-center gap-1 text-accent-red text-sm font-bold">
+                        <span class="material-symbols-outlined text-sm">trending_down</span>
+                        <span>-2.1%</span>
+                        <span class="text-[#6f7b78] dark:text-zinc-500 font-normal ml-1">adjustment</span>
+                    </div>
+                </div>
+                <div
+                    class="bg-white dark:bg-zinc-900 p-6 rounded-xl border border-[#dfe2e1] dark:border-zinc-800 flex flex-col gap-2 shadow-sm">
+                    <div class="flex justify-between items-start">
+                        <p class="text-[#6f7b78] dark:text-zinc-400 text-sm font-semibold">REVEX</p>
+                        <div class="bg-primary/10 text-primary p-1.5 rounded-lg">
+                            <span class="material-symbols-outlined text-lg">sync_alt</span>
+                        </div>
+                    </div>
+                    <p class="text-[#131515] dark:text-white text-3xl font-bold tracking-tight">₹1.05L Cr</p>
+                    <div class="flex items-center gap-1 text-accent-green text-sm font-bold">
+                        <span class="material-symbols-outlined text-sm">trending_up</span>
+                        <span>+4.8%</span>
+                        <span class="text-[#6f7b78] dark:text-zinc-500 font-normal ml-1">operational</span>
+                    </div>
+                </div>
+                <div
+                    class="bg-white dark:bg-zinc-900 p-6 rounded-xl border border-[#dfe2e1] dark:border-zinc-800 flex flex-col gap-2 shadow-sm">
+                    <div class="flex justify-between items-start">
+                        <p class="text-[#6f7b78] dark:text-zinc-400 text-sm font-semibold">Active Projects</p>
+                        <div class="bg-primary/10 text-primary p-1.5 rounded-lg">
+                            <span class="material-symbols-outlined text-lg">inventory_2</span>
+                        </div>
+                    </div>
+                    <p class="text-[#131515] dark:text-white text-3xl font-bold tracking-tight">1,240</p>
+                    <div class="flex items-center gap-1 text-accent-green text-sm font-bold">
+                        <span class="material-symbols-outlined text-sm">trending_up</span>
+                        <span>+12%</span>
+                        <span class="text-[#6f7b78] dark:text-zinc-500 font-normal ml-1">growth</span>
+                    </div>
+                </div>
+            </div>
+            <!-- Charts Section -->
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-12">
+                <!-- Sector-wise Allocation (Horizontal Bar) -->
+                <div
+                    class="bg-white dark:bg-zinc-900 rounded-xl border border-[#dfe2e1] dark:border-zinc-800 p-6 shadow-sm">
+                    <div class="flex justify-between items-center mb-6">
+                        <div>
+                            <h3 class="text-[#131515] dark:text-white font-bold text-lg">Sector-wise Allocation</h3>
+                            <p class="text-[#6f7b78] dark:text-zinc-500 text-sm">Distribution by Department (FY 2024-25)
+                            </p>
+                        </div>
+                        <span
+                            class="material-symbols-outlined text-[#6f7b78] cursor-pointer hover:text-primary">info</span>
+                    </div>
+                    <div class="space-y-6 py-4">
+                        <div class="flex flex-col gap-2">
+                            <div
+                                class="flex justify-between text-xs font-bold text-[#6f7b78] dark:text-zinc-400 uppercase tracking-wide">
+                                <span>Infrastructure &amp; PWD</span>
+                                <span>₹32,400 Cr</span>
+                            </div>
+                            <div class="h-2.5 w-full bg-[#f2f3f3] dark:bg-zinc-800 rounded-full overflow-hidden">
+                                <div class="h-full bg-primary rounded-full" style="width: 85%"></div>
+                            </div>
+                        </div>
+                        <div class="flex flex-col gap-2">
+                            <div
+                                class="flex justify-between text-xs font-bold text-[#6f7b78] dark:text-zinc-400 uppercase tracking-wide">
+                                <span>Health &amp; Family Welfare</span>
+                                <span>₹28,150 Cr</span>
+                            </div>
+                            <div class="h-2.5 w-full bg-[#f2f3f3] dark:bg-zinc-800 rounded-full overflow-hidden">
+                                <div class="h-full bg-primary/70 rounded-full" style="width: 72%"></div>
+                            </div>
+                        </div>
+                        <div class="flex flex-col gap-2">
+                            <div
+                                class="flex justify-between text-xs font-bold text-[#6f7b78] dark:text-zinc-400 uppercase tracking-wide">
+                                <span>Education &amp; Sports</span>
+                                <span>₹24,900 Cr</span>
+                            </div>
+                            <div class="h-2.5 w-full bg-[#f2f3f3] dark:bg-zinc-800 rounded-full overflow-hidden">
+                                <div class="h-full bg-primary/50 rounded-full" style="width: 65%"></div>
+                            </div>
+                        </div>
+                        <div class="flex flex-col gap-2">
+                            <div
+                                class="flex justify-between text-xs font-bold text-[#6f7b78] dark:text-zinc-400 uppercase tracking-wide">
+                                <span>IT &amp; Electronics</span>
+                                <span>₹18,200 Cr</span>
+                            </div>
+                            <div class="h-2.5 w-full bg-[#f2f3f3] dark:bg-zinc-800 rounded-full overflow-hidden">
+                                <div class="h-full bg-primary/40 rounded-full" style="width: 45%"></div>
+                            </div>
+                        </div>
+                        <div class="flex flex-col gap-2">
+                            <div
+                                class="flex justify-between text-xs font-bold text-[#6f7b78] dark:text-zinc-400 uppercase tracking-wide">
+                                <span>Agriculture &amp; Tourism</span>
+                                <span>₹15,400 Cr</span>
+                            </div>
+                            <div class="h-2.5 w-full bg-[#f2f3f3] dark:bg-zinc-800 rounded-full overflow-hidden">
+                                <div class="h-full bg-primary/20 rounded-full" style="width: 38%"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CAPEX vs REVEX split (Donut Style Visual) -->
+                <div
+                    class="bg-white dark:bg-zinc-900 rounded-xl border border-[#dfe2e1] dark:border-zinc-800 p-6 shadow-sm">
+                    <div class="flex justify-between items-center mb-6">
+                        <div>
+                            <h3 class="text-[#131515] dark:text-white font-bold text-lg">CAPEX vs REVEX Split</h3>
+                            <p class="text-[#6f7b78] dark:text-zinc-500 text-sm">Capital vs Revenue Expenditure</p>
+                        </div>
+                    </div>
+                    <div class="flex flex-col items-center justify-center h-full min-h-[250px] py-4">
+                        <div class="relative size-48 flex items-center justify-center">
+                            <!-- SVG Donut Chart Simulation -->
+                            <svg class="w-full h-full -rotate-90" viewbox="0 0 36 36">
+                                <path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"
+                                    fill="none" stroke="#f2f3f3" stroke-dasharray="100, 100" stroke-width="3"></path>
+                                <path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"
+                                    fill="none" stroke="#3d665b" stroke-dasharray="30, 100" stroke-width="3"></path>
+                                <path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"
+                                    fill="none" stroke="#90b4ab" stroke-dasharray="70, 100" stroke-dashoffset="-30"
+                                    stroke-width="3"></path>
+                            </svg>
+                            <div class="absolute inset-0 flex flex-col items-center justify-center">
+                                <p class="text-[#131515] dark:text-white text-2xl font-black">₹1.5L</p>
+                                <p class="text-[#6f7b78] dark:text-zinc-500 text-[10px] font-bold uppercase">Total
+                                    Budget</p>
+                            </div>
+                        </div>
+                        <div class="grid grid-cols-2 gap-8 mt-8 w-full px-6">
+                            <div class="flex items-center gap-2">
+                                <div class="size-3 rounded-full bg-primary"></div>
+                                <div>
+                                    <p class="text-[#131515] dark:text-white text-sm font-bold">30% CAPEX</p>
+                                    <p class="text-[#6f7b78] dark:text-zinc-500 text-xs">Infrastructure</p>
+                                </div>
+                            </div>
+                            <div class="flex items-center gap-2">
+                                <div class="size-3 rounded-full bg-[#90b4ab]"></div>
+                                <div>
+                                    <p class="text-[#131515] dark:text-white text-sm font-bold">70% REVEX</p>
+                                    <p class="text-[#6f7b78] dark:text-zinc-500 text-xs">Operations</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Project Grid Section -->
+            <div
+                class="bg-white dark:bg-zinc-900 rounded-xl border border-[#dfe2e1] dark:border-zinc-800 p-6 shadow-sm">
+                <div class="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-6">
+                    <h3 class="text-[#131515] dark:text-white font-bold text-lg">Project Breakdown</h3>
+                    <div class="flex flex-1 max-w-md items-center bg-[#f2f3f3] dark:bg-zinc-800 rounded-lg px-3 py-2">
+                        <span class="material-symbols-outlined text-[#6f7b78]">search</span>
+                        <input class="bg-transparent border-none focus:ring-0 text-sm w-full placeholder:text-[#6f7b78]"
+                            placeholder="Search project or department..." type="text" />
+                    </div>
+                </div>
+                <!-- Filter Pills -->
+                <div class="flex flex-wrap gap-2 mb-6">
+                    <button class="px-4 py-1.5 rounded-full bg-primary text-white text-xs font-bold">All
+                        Projects</button>
+                    <button
+                        class="px-4 py-1.5 rounded-full bg-[#f2f3f3] dark:bg-zinc-800 text-[#131515] dark:text-zinc-300 text-xs font-bold hover:bg-gray-200 transition-colors">Infrastructure</button>
+                    <button
+                        class="px-4 py-1.5 rounded-full bg-[#f2f3f3] dark:bg-zinc-800 text-[#131515] dark:text-zinc-300 text-xs font-bold hover:bg-gray-200 transition-colors">Healthcare</button>
+                    <button
+                        class="px-4 py-1.5 rounded-full bg-[#f2f3f3] dark:bg-zinc-800 text-[#131515] dark:text-zinc-300 text-xs font-bold hover:bg-gray-200 transition-colors">Education</button>
+                    <button
+                        class="px-4 py-1.5 rounded-full bg-[#f2f3f3] dark:bg-zinc-800 text-[#131515] dark:text-zinc-300 text-xs font-bold hover:bg-gray-200 transition-colors">Technology</button>
+                    <button
+                        class="px-4 py-1.5 rounded-full bg-[#f2f3f3] dark:bg-zinc-800 text-[#131515] dark:text-zinc-300 text-xs font-bold hover:bg-gray-200 transition-colors">Agriculture</button>
+                </div>
+                <!-- Table Simulation -->
+                <div class="overflow-x-auto custom-scrollbar">
+                    <table class="w-full text-left border-collapse">
+                        <thead>
+                            <tr class="border-b border-[#dfe2e1] dark:border-zinc-800">
+                                <th class="py-4 px-2 text-[10px] font-black uppercase text-[#6f7b78] tracking-widest">
+                                    Project Name</th>
+                                <th class="py-4 px-2 text-[10px] font-black uppercase text-[#6f7b78] tracking-widest">
+                                    Department</th>
+                                <th
+                                    class="py-4 px-2 text-[10px] font-black uppercase text-[#6f7b78] tracking-widest text-right">
+                                    Allocation</th>
+                                <th
+                                    class="py-4 px-2 text-[10px] font-black uppercase text-[#6f7b78] tracking-widest text-center">
+                                    Status</th>
+                                <th
+                                    class="py-4 px-2 text-[10px] font-black uppercase text-[#6f7b78] tracking-widest text-right">
+                                    Action</th>
+                            </tr>
+                        </thead>
+                        <tbody class="divide-y divide-[#f2f3f3] dark:divide-zinc-800">
+                            <tr class="hover:bg-[#f8faf9] dark:hover:bg-zinc-800 transition-colors">
+                                <td class="py-4 px-2">
+                                    <div class="flex flex-col">
+                                        <span class="text-sm font-bold text-[#131515] dark:text-white">National Highway
+                                            66 Expansion</span>
+                                        <span class="text-xs text-[#6f7b78] dark:text-zinc-500">ID: PRJ-00124</span>
+                                    </div>
+                                </td>
+                                <td class="py-4 px-2">
+                                    <span
+                                        class="text-xs font-semibold px-2 py-1 rounded bg-blue-50 text-blue-700 dark:bg-blue-900/20 dark:text-blue-400">Public
+                                        Works</span>
+                                </td>
+                                <td class="py-4 px-2 text-right">
+                                    <span class="text-sm font-bold text-[#131515] dark:text-white">₹12,450 Cr</span>
+                                </td>
+                                <td class="py-4 px-2 text-center">
+                                    <span
+                                        class="text-[11px] font-bold px-3 py-1 rounded-full bg-accent-green/10 text-accent-green">Ongoing</span>
+                                </td>
+                                <td class="py-4 px-2 text-right">
+                                    <button class="text-primary hover:text-[#2d4d44]"><span
+                                            class="material-symbols-outlined">chevron_right</span></button>
+                                </td>
+                            </tr>
+                            <tr class="hover:bg-[#f8faf9] dark:hover:bg-zinc-800 transition-colors">
+                                <td class="py-4 px-2">
+                                    <div class="flex flex-col">
+                                        <span class="text-sm font-bold text-[#131515] dark:text-white">Digital Health
+                                            Hub Thiruvananthapuram</span>
+                                        <span class="text-xs text-[#6f7b78] dark:text-zinc-500">ID: PRJ-00892</span>
+                                    </div>
+                                </td>
+                                <td class="py-4 px-2">
+                                    <span
+                                        class="text-xs font-semibold px-2 py-1 rounded bg-emerald-50 text-emerald-700 dark:bg-emerald-900/20 dark:text-emerald-400">Health</span>
+                                </td>
+                                <td class="py-4 px-2 text-right">
+                                    <span class="text-sm font-bold text-[#131515] dark:text-white">₹4,200 Cr</span>
+                                </td>
+                                <td class="py-4 px-2 text-center">
+                                    <span
+                                        class="text-[11px] font-bold px-3 py-1 rounded-full bg-amber-100 text-amber-700">Proposed</span>
+                                </td>
+                                <td class="py-4 px-2 text-right">
+                                    <button class="text-primary hover:text-[#2d4d44]"><span
+                                            class="material-symbols-outlined">chevron_right</span></button>
+                                </td>
+                            </tr>
+                            <tr class="hover:bg-[#f8faf9] dark:hover:bg-zinc-800 transition-colors">
+                                <td class="py-4 px-2">
+                                    <div class="flex flex-col">
+                                        <span class="text-sm font-bold text-[#131515] dark:text-white">Smart Classroom
+                                            Initiative (2000 Schools)</span>
+                                        <span class="text-xs text-[#6f7b78] dark:text-zinc-500">ID: PRJ-00451</span>
+                                    </div>
+                                </td>
+                                <td class="py-4 px-2">
+                                    <span
+                                        class="text-xs font-semibold px-2 py-1 rounded bg-indigo-50 text-indigo-700 dark:bg-indigo-900/20 dark:text-indigo-400">Education</span>
+                                </td>
+                                <td class="py-4 px-2 text-right">
+                                    <span class="text-sm font-bold text-[#131515] dark:text-white">₹8,900 Cr</span>
+                                </td>
+                                <td class="py-4 px-2 text-center">
+                                    <span
+                                        class="text-[11px] font-bold px-3 py-1 rounded-full bg-accent-green/10 text-accent-green">Ongoing</span>
+                                </td>
+                                <td class="py-4 px-2 text-right">
+                                    <button class="text-primary hover:text-[#2d4d44]"><span
+                                            class="material-symbols-outlined">chevron_right</span></button>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="mt-8 flex items-center justify-between">
+                    <p class="text-xs text-[#6f7b78] dark:text-zinc-500 font-medium">Showing 1-10 of 1,240 projects</p>
+                    <div class="flex gap-2">
+                        <button
+                            class="size-8 flex items-center justify-center rounded border border-[#dfe2e1] dark:border-zinc-800 text-[#131515] dark:text-white hover:bg-gray-50"><span
+                                class="material-symbols-outlined text-sm">chevron_left</span></button>
+                        <button
+                            class="size-8 flex items-center justify-center rounded border border-primary bg-primary/5 text-primary text-xs font-bold">1</button>
+                        <button
+                            class="size-8 flex items-center justify-center rounded border border-[#dfe2e1] dark:border-zinc-800 text-[#131515] dark:text-white hover:bg-gray-50 text-xs">2</button>
+                        <button
+                            class="size-8 flex items-center justify-center rounded border border-[#dfe2e1] dark:border-zinc-800 text-[#131515] dark:text-white hover:bg-gray-50 text-xs">3</button>
+                        <button
+                            class="size-8 flex items-center justify-center rounded border border-[#dfe2e1] dark:border-zinc-800 text-[#131515] dark:text-white hover:bg-gray-50"><span
+                                class="material-symbols-outlined text-sm">chevron_right</span></button>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+</body>
+
+</html>
