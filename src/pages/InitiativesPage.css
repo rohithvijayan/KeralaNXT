@@ -192,79 +192,7 @@
     display: none;
 }
 
-@media (min-width: 1024px) {
-    .desktop-header {
-        display: block;
-        padding: 2.5rem 3rem 2rem;
-    }
-
-    .breadcrumb {
-        display: flex;
-        align-items: center;
-        gap: 0.5rem;
-        font-size: 0.75rem;
-        font-weight: 600;
-        color: var(--color-text-muted);
-        margin-bottom: 1rem;
-    }
-
-    .breadcrumb a {
-        color: var(--color-text-muted);
-        text-decoration: none;
-        transition: color var(--transition-fast);
-    }
-
-    .breadcrumb a:hover {
-        color: var(--color-primary);
-    }
-
-    .breadcrumb .material-symbols-outlined {
-        font-size: 0.875rem;
-    }
-
-    .breadcrumb .current {
-        color: var(--color-primary);
-    }
-
-    .page-title {
-        font-size: 2.5rem;
-        font-weight: 900;
-        color: var(--color-text);
-        letter-spacing: -0.025em;
-        margin-bottom: 0.75rem;
-    }
-
-    .year-highlight {
-        color: var(--color-primary);
-    }
-
-    .page-subtitle {
-        font-size: 1.125rem;
-        font-weight: 500;
-        color: var(--color-text-muted);
-        line-height: 1.6;
-        max-width: 600px;
-    }
-}
-
-/* Mobile-only and Desktop-only helpers */
-.mobile-only {
-    display: flex;
-}
-
-.desktop-only {
-    display: none;
-}
-
-@media (min-width: 1024px) {
-    .mobile-only {
-        display: none !important;
-    }
-
-    .desktop-only {
-        display: flex !important;
-    }
-}
+/* Mobile-only and Desktop-only helpers - Centralized in index.css */
 
 /* ===============================================
    MOBILE HERO SECTION
@@ -786,6 +714,7 @@
     margin-bottom: 0.75rem;
     display: -webkit-box;
     -webkit-line-clamp: 2;
+    line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
 }
@@ -794,6 +723,7 @@
     .initiative-description {
         font-size: 0.875rem;
         -webkit-line-clamp: 3;
+        line-clamp: 3;
         margin-bottom: 1rem;
     }
 }

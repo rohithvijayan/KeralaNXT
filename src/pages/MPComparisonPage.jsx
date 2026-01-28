@@ -1,5 +1,5 @@
 import { useState, useMemo, useEffect } from 'react'
-import { useNavigate } from 'react-router-dom'
+import { useNavigate, Link } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
 import Header from '../components/Header'
 import { getAllMPs } from '../data/mpFundLoader'
@@ -127,6 +127,13 @@ const MPComparisonPage = () => {
                     initial={{ opacity: 0, y: -20 }}
                     animate={{ opacity: 1, y: 0 }}
                 >
+                    <nav className="breadcrumb desktop-only">
+                        <Link to="/">Dashboard</Link>
+                        <span className="material-symbols-outlined">chevron_right</span>
+                        <Link to="/mp-fund-dashboard">MP Dashboard</Link>
+                        <span className="material-symbols-outlined">chevron_right</span>
+                        <span className="current">Comparison</span>
+                    </nav>
                     <h1>MP Fiscal Comparison</h1>
                     <p>High-density performance analysis and fund utilization breakdown</p>
                 </motion.div>

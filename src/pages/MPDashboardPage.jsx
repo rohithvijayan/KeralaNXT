@@ -1,5 +1,5 @@
 import { useState, useMemo } from 'react'
-import { useNavigate } from 'react-router-dom'
+import { useNavigate, Link } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
 import Header from '../components/Header'
 import {
@@ -200,17 +200,6 @@ function MPDashboardPage() {
                         </nav>
                     </div>
 
-                    {/* User Profile */}
-                    <div className="sidebar-footer">
-                        <div className="user-avatar">
-                            <span className="material-symbols-outlined">person</span>
-                        </div>
-                        <div className="user-info">
-                            <p className="user-name">Admin User</p>
-                            <p className="user-role">Government Officer</p>
-                        </div>
-                        <span className="material-symbols-outlined logout-icon">logout</span>
-                    </div>
                 </aside>
 
                 {/* Main Content */}
@@ -243,6 +232,11 @@ function MPDashboardPage() {
 
                     {/* Desktop Page Header */}
                     <header className="page-header">
+                        <nav className="breadcrumb">
+                            <Link to="/">Dashboard</Link>
+                            <span className="material-symbols-outlined">chevron_right</span>
+                            <span className="current">MP Fund Dashboard</span>
+                        </nav>
                         <div className="page-header-content">
                             <h1 className="page-title">MP Fund Utilization Dashboard</h1>
                             <p className="page-subtitle">Detailed financial oversight of MP fund allocation and utilization across Kerala.</p>
@@ -264,9 +258,6 @@ function MPDashboardPage() {
                             >
                                 <span className="material-symbols-outlined">compare_arrows</span>
                                 <span>Compare MPs</span>
-                            </button>
-                            <button className="notification-btn">
-                                <span className="material-symbols-outlined">notifications</span>
                             </button>
                         </div>
                     </header>
