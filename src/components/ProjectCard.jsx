@@ -1,4 +1,5 @@
 import CldImage from './CldImage'
+import { shareElementAsImage } from '../utils/shareUtils'
 import './ProjectCard.css'
 
 function ProjectCard({ project, size = 'large', onClick }) {
@@ -22,22 +23,17 @@ function ProjectCard({ project, size = 'large', onClick }) {
 
     const handleShare = (e) => {
         e.stopPropagation()
-        if (navigator.share) {
-            navigator.share({
-                title: project.title,
-                text: `${project.title} - Kerala Development Showcase\n💰 Budget: ${project.budget}\n📅 Year: ${project.year}`,
-                url: window.location.href,
-            }).catch(console.error)
-        } else {
-            // Fallback: Copy to clipboard
-            navigator.clipboard.writeText(`${project.title} - ${window.location.href}`)
-            alert('Link copied to clipboard!')
-        }
+        const elementId = `project-card-${project.id}-${size}`
+        shareElementAsImage(elementId, {
+            title: project.title,
+            text: `${project.title} - Kerala Development Showcase\n💰 Budget: ${project.budget}\n📅 Year: ${project.year}`,
+            fileName: `project-${project.title.replace(/\s+/g, '-').toLowerCase()}.png`
+        })
     }
 
     if (size === 'small') {
         return (
-            <div className="project-card-small" onClick={onClick}>
+            <div className="project-card-small" id={`project-card-${project.id}-${size}`} onClick={onClick}>
                 <div className="project-card-small-image">
                     <CldImage
                         src={project.image}
@@ -63,7 +59,7 @@ function ProjectCard({ project, size = 'large', onClick }) {
     }
 
     return (
-        <article className="project-card" onClick={onClick}>
+        <article className="project-card" id={`project-card-${project.id}-${size}`} onClick={onClick}>
             <div className="project-card-image">
                 <CldImage
                     src={project.image}

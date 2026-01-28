@@ -148,9 +148,8 @@ const MPComparisonPage = () => {
                     </div>
                 </motion.div>
 
+                {/* Comparison Split View */}
                 <div id="comparison-card">
-
-                    {/* Comparison Split View */}
                     <motion.div
                         className="comparison-split"
                         initial={{ opacity: 0, y: 20 }}
@@ -177,7 +176,11 @@ const MPComparisonPage = () => {
                                     <div className="profile-card card-a">
                                         <div className="profile-image">
                                             {mpADetails.image ? (
-                                                <img src={mpADetails.image} alt={mpADetails.name} />
+                                                <img
+                                                    src={mpADetails.image}
+                                                    alt={mpADetails.name}
+                                                    crossOrigin="anonymous"
+                                                />
                                             ) : (
                                                 <span className="material-symbols-outlined">person</span>
                                             )}
@@ -228,7 +231,11 @@ const MPComparisonPage = () => {
                                     <div className="profile-card card-b">
                                         <div className="profile-image">
                                             {mpBDetails.image ? (
-                                                <img src={mpBDetails.image} alt={mpBDetails.name} />
+                                                <img
+                                                    src={mpBDetails.image}
+                                                    alt={mpBDetails.name}
+                                                    crossOrigin="anonymous"
+                                                />
                                             ) : (
                                                 <span className="material-symbols-outlined">person</span>
                                             )}
@@ -259,72 +266,72 @@ const MPComparisonPage = () => {
                             </div>
                         </div>
                     </motion.div>
-
-                    {/* Category Comparison */}
-                    <motion.div
-                        className="category-comparison"
-                        initial={{ opacity: 0, y: 20 }}
-                        animate={{ opacity: 1, y: 0 }}
-                        transition={{ delay: 0.2 }}
-                    >
-                        <div className="section-header">
-                            <h2>Category Comparison</h2>
-                            <p>Fund allocation across key sectors</p>
-                        </div>
-
-                        <div className="comparison-table">
-                            <div className="table-header">
-                                <div className="header-cell category-header">Expenditure Category</div>
-                                <div className="header-cell mp-header mp-a-header">
-                                    {mpADetails?.name || 'MP A'}
-                                </div>
-                                <div className="header-cell mp-header mp-b-header">
-                                    {mpBDetails?.name || 'MP B'}
-                                </div>
-                                <div className="header-cell delta-header">Delta (%)</div>
-                            </div>
-
-                            <AnimatePresence>
-                                {comparisonData.map((category, index) => {
-                                    const delta = calculateDelta(category.mpA, category.mpB)
-                                    const isPositive = delta > 0
-
-                                    return (
-                                        <motion.div
-                                            key={category.label}
-                                            className="table-row"
-                                            initial={{ opacity: 0, x: -20 }}
-                                            animate={{ opacity: 1, x: 0 }}
-                                            transition={{ delay: index * 0.05 }}
-                                        >
-                                            <div className="table-cell category-cell">
-                                                <span className="material-symbols-outlined">{getCategoryIcon(category.label)}</span>
-                                                <span>{category.label}</span>
-                                            </div>
-                                            <div className="table-cell amount-cell amount-a">
-                                                <span className="mobile-label">{mpADetails?.name || 'MP A'}:</span>
-                                                {formatLakhs(category.mpA)}
-                                            </div>
-                                            <div className="table-cell amount-cell amount-b">
-                                                <span className="mobile-label">{mpBDetails?.name || 'MP B'}:</span>
-                                                {formatLakhs(category.mpB)}
-                                            </div>
-                                            <div className="table-cell delta-cell">
-                                                <span className="mobile-label">Delta:</span>
-                                                <span className={`delta-badge ${isPositive ? 'positive' : 'negative'}`}>
-                                                    <span className="material-symbols-outlined">
-                                                        {isPositive ? 'arrow_upward' : 'arrow_downward'}
-                                                    </span>
-                                                    {Math.abs(delta)}%
-                                                </span>
-                                            </div>
-                                        </motion.div>
-                                    )
-                                })}
-                            </AnimatePresence>
-                        </div>
-                    </motion.div>
                 </div>
+
+                {/* Category Comparison */}
+                <motion.div
+                    className="category-comparison"
+                    initial={{ opacity: 0, y: 20 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ delay: 0.2 }}
+                >
+                    <div className="section-header">
+                        <h2>Category Comparison</h2>
+                        <p>Fund allocation across key sectors</p>
+                    </div>
+
+                    <div className="comparison-table">
+                        <div className="table-header">
+                            <div className="header-cell category-header">Expenditure Category</div>
+                            <div className="header-cell mp-header mp-a-header">
+                                {mpADetails?.name || 'MP A'}
+                            </div>
+                            <div className="header-cell mp-header mp-b-header">
+                                {mpBDetails?.name || 'MP B'}
+                            </div>
+                            <div className="header-cell delta-header">Delta (%)</div>
+                        </div>
+
+                        <AnimatePresence>
+                            {comparisonData.map((category, index) => {
+                                const delta = calculateDelta(category.mpA, category.mpB)
+                                const isPositive = delta > 0
+
+                                return (
+                                    <motion.div
+                                        key={category.label}
+                                        className="table-row"
+                                        initial={{ opacity: 0, x: -20 }}
+                                        animate={{ opacity: 1, x: 0 }}
+                                        transition={{ delay: index * 0.05 }}
+                                    >
+                                        <div className="table-cell category-cell">
+                                            <span className="material-symbols-outlined">{getCategoryIcon(category.label)}</span>
+                                            <span>{category.label}</span>
+                                        </div>
+                                        <div className="table-cell amount-cell amount-a">
+                                            <span className="mobile-label">{mpADetails?.name || 'MP A'}:</span>
+                                            {formatLakhs(category.mpA)}
+                                        </div>
+                                        <div className="table-cell amount-cell amount-b">
+                                            <span className="mobile-label">{mpBDetails?.name || 'MP B'}:</span>
+                                            {formatLakhs(category.mpB)}
+                                        </div>
+                                        <div className="table-cell delta-cell">
+                                            <span className="mobile-label">Delta:</span>
+                                            <span className={`delta-badge ${isPositive ? 'positive' : 'negative'}`}>
+                                                <span className="material-symbols-outlined">
+                                                    {isPositive ? 'arrow_upward' : 'arrow_downward'}
+                                                </span>
+                                                {Math.abs(delta)}%
+                                            </span>
+                                        </div>
+                                    </motion.div>
+                                )
+                            })}
+                        </AnimatePresence>
+                    </div>
+                </motion.div>
             </div>
         </div>
     )

@@ -373,6 +373,7 @@ function MPDashboardPage() {
                                                             src={mp.image}
                                                             alt={mp.name}
                                                             className="mp-avatar"
+                                                            crossOrigin="anonymous"
                                                         />
                                                     ) : (
                                                         <div className="mp-avatar-placeholder">
