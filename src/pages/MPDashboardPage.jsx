@@ -14,6 +14,7 @@ import {
     formatPercentage
 } from '../data/mpFundLoader'
 import { shareElementAsImage } from '../utils/shareUtils'
+import CldImage from '../components/CldImage'
 import './MPDashboardPage.css'
 
 const houseOptions = [
@@ -369,11 +370,12 @@ function MPDashboardPage() {
                                             <div className="mp-info">
                                                 <div className="mp-avatar-wrapper">
                                                     {mp.image ? (
-                                                        <img
+                                                        <CldImage
                                                             src={mp.image}
                                                             alt={mp.name}
                                                             className="mp-avatar"
-                                                            crossOrigin="anonymous"
+                                                            width={300}
+                                                            height={300}
                                                         />
                                                     ) : (
                                                         <div className="mp-avatar-placeholder">

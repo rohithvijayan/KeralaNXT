@@ -36,8 +36,67 @@ export const shareElementAsImage = async (elementId, options = {}) => {
                     clonedElement.style.boxShadow = 'none';
 
                     // Hide buttons, selectors, and labels that shouldn't be in the share image
-                    const elementsToHide = clonedElement.querySelectorAll('button, select, label, .compare-btn-mobile, .card-share-btn, .hero-share-btn, .share-comparison-btn');
+                    const elementsToHide = clonedElement.querySelectorAll('button, select, label, .compare-btn-mobile, .card-share-btn, .hero-share-btn, .share-comparison-btn, .nav-actions, .primary-actions, .budget-breadcrumb');
                     elementsToHide.forEach(el => el.style.display = 'none');
+
+                    // Special handling for Budget Landing Share (9:16 Optimization)
+                    if (elementId === 'budget-share-card') {
+                        clonedElement.style.padding = '60px 40px';
+                        clonedElement.style.minHeight = '1600px'; // Force vertical Story ratio
+                        clonedElement.style.display = 'flex';
+                        clonedElement.style.flexDirection = 'column';
+                        clonedElement.style.justifyContent = 'center';
+                        clonedElement.style.background = 'linear-gradient(180deg, #06120f 0%, #0c1a16 100%)';
+                        clonedElement.style.color = '#ffffff';
+
+                        // Ensure stats are horizontally stacked in the share image
+                        const statsGrid = clonedElement.querySelector('.stats-grid');
+                        if (statsGrid) {
+                            statsGrid.style.display = 'grid';
+                            statsGrid.style.gridTemplateColumns = 'repeat(3, 1fr)';
+                            statsGrid.style.gap = '15px';
+                            statsGrid.style.marginTop = '40px';
+
+                            const statCards = statsGrid.querySelectorAll('.stat-card');
+                            statCards.forEach(card => {
+                                card.style.background = 'rgba(255, 255, 255, 0.05)';
+                                card.style.padding = '15px';
+                                card.style.borderRadius = '16px';
+                                card.style.textAlign = 'center';
+                                card.style.display = 'flex';
+                                card.style.flexDirection = 'column';
+                                card.style.alignItems = 'center';
+
+                                const iconBox = card.querySelector('.icon-box');
+                                if (iconBox) iconBox.style.width = '40px'; // Smaller icons for grid
+
+                                const cardValue = card.querySelector('.card-value');
+                                if (cardValue) cardValue.style.fontSize = '1.2rem';
+
+                                const cardLabel = card.querySelector('.card-label');
+                                if (cardLabel) cardLabel.style.fontSize = '0.7rem';
+
+                                const progress = card.querySelector('.progress-bar-container');
+                                if (progress) progress.style.display = 'none';
+
+                                const hint = card.querySelector('.card-hint');
+                                if (hint) hint.style.display = 'none';
+
+                                const delta = card.querySelector('.delta-badge');
+                                if (delta) delta.style.fontSize = '0.6rem';
+                            });
+                        }
+
+                        const heroTitle = clonedElement.querySelector('.hero-title');
+                        if (heroTitle) heroTitle.style.color = 'rgba(255,255,255,0.6)';
+
+                        const heroAmount = clonedElement.querySelector('.hero-amount');
+                        if (heroAmount) {
+                            heroAmount.style.fontSize = '5rem';
+                            heroAmount.style.background = 'none';
+                            heroAmount.style.webkitTextFillColor = '#ffffff';
+                        }
+                    }
 
                     // Force vertical stacking for comparison cards in the share image
                     const splitView = clonedElement.querySelector('.comparison-split');

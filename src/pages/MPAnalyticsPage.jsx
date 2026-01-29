@@ -1,5 +1,5 @@
 import { useState, useMemo, useEffect } from 'react'
-import { useNavigate, useLocation } from 'react-router-dom'
+import { useNavigate, useLocation, Link } from 'react-router-dom'
 import { PieChart, Pie, Cell, ResponsiveContainer, Tooltip } from 'recharts'
 import { motion, AnimatePresence } from 'framer-motion'
 import {
@@ -11,6 +11,8 @@ import {
     formatAmountCr
 } from '../data/mpAnalyticsLoader'
 import Header from '../components/Header'
+import CldImage from '../components/CldImage'
+import { shareElementAsImage } from '../utils/shareUtils'
 import './MPAnalyticsPage.css'
 
 const MPAnalyticsPage = () => {
@@ -79,6 +81,16 @@ const MPAnalyticsPage = () => {
     // Handle MP change
     const handleMPChange = (e) => {
         setSelectedMP(e.target.value)
+    }
+
+    // Handle Share
+    const handleShare = () => {
+        if (!mpData) return
+        shareElementAsImage('analytics-chart-section', {
+            title: 'MP Spending Analytics',
+            text: `Detailed spending breakdown for ${mpData.displayName} via KeralaNXT.`,
+            fileName: `analytics-${mpData.displayName}.png`.replace(/\s+/g, '-').toLowerCase()
+        })
     }
 
     // Custom tooltip for pie chart
@@ -194,6 +206,10 @@ const MPAnalyticsPage = () => {
                                 <span className="material-symbols-outlined">person_search</span>
                             </div>
                         </div>
+                        <button className="mobile-share-btn" onClick={handleShare}>
+                            <span className="material-symbols-outlined">share</span>
+                            <span>Share Analytics</span>
+                        </button>
                     </section>
 
                     {/* Desktop Header */}
@@ -215,9 +231,15 @@ const MPAnalyticsPage = () => {
                                 </>
                             )}
                         </nav>
-                        <div>
-                            <h2>MP Fund Analytics</h2>
-                            <p>Detailed spending overview for the selected MP</p>
+                        <div className="header-flex">
+                            <div>
+                                <h2>MP Fund Analytics</h2>
+                                <p>Detailed spending overview for the selected MP</p>
+                            </div>
+                            <button className="share-analytics-btn" onClick={handleShare}>
+                                <span className="material-symbols-outlined">share</span>
+                                <span>Share Analytics</span>
+                            </button>
                         </div>
                     </div>
 
@@ -231,12 +253,17 @@ const MPAnalyticsPage = () => {
                                 transition={{ duration: 0.3 }}
                             >
                                 {/* Chart Section with MP Profile */}
-                                <section className="chart-section">
+                                <section className="chart-section" id="analytics-chart-section">
                                     {/* MP Profile Card */}
                                     <div className="mp-profile-card">
                                         <div className="profile-avatar">
                                             {mpData.image ? (
-                                                <img src={mpData.image} alt={mpData.displayName} />
+                                                <CldImage
+                                                    src={mpData.image}
+                                                    alt={mpData.displayName}
+                                                    width={400}
+                                                    height={400}
+                                                />
                                             ) : (
                                                 <span className="material-symbols-outlined">person</span>
                                             )}

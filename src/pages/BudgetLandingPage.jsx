@@ -9,6 +9,7 @@ import {
     DEFAULT_YEAR,
     BASELINE_YEAR
 } from '../data/budgetLoader'
+import { shareElementAsImage } from '../utils/shareUtils'
 import './BudgetLandingPage.css'
 
 const BudgetLandingPage = () => {
@@ -48,6 +49,15 @@ const BudgetLandingPage = () => {
         setSearchParams({ year })
     }
 
+    const handleShare = () => {
+        shareElementAsImage('budget-share-card', {
+            title: `Kerala State Budget ${selectedYear}`,
+            text: `Check out the Kerala State Budget allocation for ${selectedYear} on KeralaNXT!`,
+            fileName: `kerala-budget-${selectedYear}.png`,
+            backgroundColor: '#0c1613'
+        });
+    };
+
     if (!stats || !overview) return null
 
     return (
@@ -82,7 +92,10 @@ const BudgetLandingPage = () => {
                         </button>
                     </div>
 
-                    <div className="nav-actions">
+                    <div className="nav-actions desktop-only">
+                        <button className="icon-btn share-nav-btn" onClick={handleShare} title="Share Budget Overview">
+                            <span className="material-symbols-outlined">share</span>
+                        </button>
                         <button className="icon-btn">
                             <span className="material-symbols-outlined">notifications</span>
                         </button>
@@ -90,6 +103,10 @@ const BudgetLandingPage = () => {
                             <span className="material-symbols-outlined">settings</span>
                         </button>
                     </div>
+
+                    <button className="icon-btn share-nav-btn mobile-only" onClick={handleShare} aria-label="Share Budget">
+                        <span className="material-symbols-outlined">share</span>
+                    </button>
                 </div>
             </nav>
 
@@ -103,121 +120,123 @@ const BudgetLandingPage = () => {
                     <span className="current">State Budget</span>
                 </nav>
 
-                <section className="hero-section">
-                    <motion.div
-                        initial={{ opacity: 0, y: 20 }}
-                        animate={{ opacity: 1, y: 0 }}
-                        className="verified-badge"
-                    >
-                        <span className="material-symbols-outlined">verified</span>
-                        State Fiscal Overview {selectedYear}
-                    </motion.div>
-
-                    <h1 className="hero-title">Total Expenditure Allocation</h1>
-
-                    <motion.div
-                        initial={{ opacity: 0, scale: 0.9 }}
-                        animate={{ opacity: 1, scale: 1 }}
-                        key={selectedYear}
-                        className="hero-amount-wrapper"
-                    >
-                        <p className="hero-amount">
-                            {formatAmount(stats.totalBudget, false)}
-                        </p>
-                        {comparison && (
-                            <div className={`trend-indicator ${parseFloat(comparison.totalBudgetDelta) >= 0 ? 'positive' : 'negative'}`}>
-                                <span className="material-symbols-outlined">
-                                    {parseFloat(comparison.totalBudgetDelta) >= 0 ? 'trending_up' : 'trending_down'}
-                                </span>
-                                <span>{comparison.totalBudgetDelta}%</span>
-                                <span className="vs-label">vs Last Fiscal Year</span>
-                            </div>
-                        )}
-                    </motion.div>
-                </section>
-
-                <div className="landing-stats-container">
-                    <div className="primary-actions">
-                        <button className="btn-primary-lrg" onClick={() => navigate(`/budget-details?year=${selectedYear}`)}>
-                            View Full Report
-                            <span className="material-symbols-outlined">arrow_forward</span>
-                        </button>
-                        <button className="btn-secondary-lrg" onClick={() => navigate('/budget-comparison')}>
-                            Compare Budgets
-                        </button>
-                    </div>
-
-                    <div className="stats-grid">
+                <div id="budget-share-card">
+                    <section className="hero-section">
                         <motion.div
-                            whileHover={{ y: -5 }}
-                            className="glass-card stat-card"
+                            initial={{ opacity: 0, y: 20 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            className="verified-badge"
                         >
-                            <div className="card-header">
-                                <div className="icon-box revenue">
-                                    <span className="material-symbols-outlined">payments</span>
-                                </div>
-                                {comparison && (
-                                    <span className={`delta-badge ${parseFloat(comparison.revexDelta) >= 0 ? 'positive' : 'negative'}`}>
-                                        {parseFloat(comparison.revexDelta) > 0 ? '+' : ''}{comparison.revexDelta}%
+                            <span className="material-symbols-outlined">verified</span>
+                            State Fiscal Overview {selectedYear}
+                        </motion.div>
+
+                        <h1 className="hero-title">Total Expenditure Allocation</h1>
+
+                        <motion.div
+                            initial={{ opacity: 0, scale: 0.9 }}
+                            animate={{ opacity: 1, scale: 1 }}
+                            key={selectedYear}
+                            className="hero-amount-wrapper"
+                        >
+                            <p className="hero-amount">
+                                {formatAmount(stats.totalBudget, false)}
+                            </p>
+                            {comparison && (
+                                <div className={`trend-indicator ${parseFloat(comparison.totalBudgetDelta) >= 0 ? 'positive' : 'negative'}`}>
+                                    <span className="material-symbols-outlined">
+                                        {parseFloat(comparison.totalBudgetDelta) >= 0 ? 'trending_up' : 'trending_down'}
                                     </span>
-                                )}
-                            </div>
-                            <h3 className="card-label">Revenue Expenditure</h3>
-                            <p className="card-value">
-                                {formatAmount(stats.revenueExpenditure, true)}
-                            </p>
-                            <div className="progress-bar-container">
-                                <div className="progress-bar" style={{ width: `${stats.revexPercent}%` }}></div>
-                            </div>
-                            <p className="card-hint">Consumes {stats.revexPercent}% of annual allocation</p>
-                        </motion.div>
-
-                        <motion.div
-                            whileHover={{ y: -5 }}
-                            className="glass-card stat-card highlight"
-                        >
-                            <div className="card-header">
-                                <div className="icon-box capex">
-                                    <span className="material-symbols-outlined">domain</span>
+                                    <span>{comparison.totalBudgetDelta}%</span>
+                                    <span className="vs-label">vs Last Fiscal Year</span>
                                 </div>
-                                {comparison && (
-                                    <span className={`delta-badge ${parseFloat(comparison.capexDelta) >= 0 ? 'positive' : 'negative'}`}>
-                                        {parseFloat(comparison.capexDelta) > 0 ? '+' : ''}{comparison.capexDelta}%
-                                    </span>
-                                )}
-                            </div>
-                            <h3 className="card-label">Capital Expenditure</h3>
-                            <p className="card-value">
-                                {formatAmount(stats.capitalExpenditure, true)}
-                            </p>
-                            <div className="progress-bar-container">
-                                <div className="progress-bar highlight" style={{ width: `${stats.capexPercent}%` }}></div>
-                            </div>
-                            <p className="card-hint">High growth infrastructure focus</p>
+                            )}
                         </motion.div>
+                    </section>
 
-                        <motion.div
-                            whileHover={{ y: -5 }}
-                            className="glass-card stat-card"
-                        >
-                            <div className="card-header">
-                                <div className="icon-box projects">
-                                    <span className="material-symbols-outlined">construction</span>
+                    <div className="landing-stats-container">
+                        <div className="primary-actions">
+                            <button className="btn-primary-lrg" onClick={() => navigate(`/budget-details?year=${selectedYear}`)}>
+                                View Full Report
+                                <span className="material-symbols-outlined">arrow_forward</span>
+                            </button>
+                            <button className="btn-secondary-lrg" onClick={() => navigate('/budget-comparison')}>
+                                Compare Budgets
+                            </button>
+                        </div>
+
+                        <div className="stats-grid">
+                            <motion.div
+                                whileHover={{ y: -5 }}
+                                className="glass-card stat-card"
+                            >
+                                <div className="card-header">
+                                    <div className="icon-box revenue">
+                                        <span className="material-symbols-outlined">payments</span>
+                                    </div>
+                                    {comparison && (
+                                        <span className={`delta-badge ${parseFloat(comparison.revexDelta) >= 0 ? 'positive' : 'negative'}`}>
+                                            {parseFloat(comparison.revexDelta) > 0 ? '+' : ''}{comparison.revexDelta}%
+                                        </span>
+                                    )}
                                 </div>
-                                <span className="delta-badge">+5.1%</span>
-                            </div>
-                            <h3 className="card-label">Active Infrastructure</h3>
-                            <p className="card-value">
-                                {stats.projectCount} <span className="value-unit">Projects</span>
-                            </p>
-                            <div className="project-segments">
-                                <div className="segment filled"></div>
-                                <div className="segment filled partial"></div>
-                                <div className="segment empty"></div>
-                                <div className="segment empty"></div>
-                            </div>
-                            <p className="card-hint">72% currently on schedule</p>
-                        </motion.div>
+                                <h3 className="card-label">Revenue Expenditure</h3>
+                                <p className="card-value">
+                                    {formatAmount(stats.revenueExpenditure, true)}
+                                </p>
+                                <div className="progress-bar-container">
+                                    <div className="progress-bar" style={{ width: `${stats.revexPercent}%` }}></div>
+                                </div>
+                                <p className="card-hint">Consumes {stats.revexPercent}% of annual allocation</p>
+                            </motion.div>
+
+                            <motion.div
+                                whileHover={{ y: -5 }}
+                                className="glass-card stat-card highlight"
+                            >
+                                <div className="card-header">
+                                    <div className="icon-box capex">
+                                        <span className="material-symbols-outlined">domain</span>
+                                    </div>
+                                    {comparison && (
+                                        <span className={`delta-badge ${parseFloat(comparison.capexDelta) >= 0 ? 'positive' : 'negative'}`}>
+                                            {parseFloat(comparison.capexDelta) > 0 ? '+' : ''}{comparison.capexDelta}%
+                                        </span>
+                                    )}
+                                </div>
+                                <h3 className="card-label">Capital Expenditure</h3>
+                                <p className="card-value">
+                                    {formatAmount(stats.capitalExpenditure, true)}
+                                </p>
+                                <div className="progress-bar-container">
+                                    <div className="progress-bar highlight" style={{ width: `${stats.capexPercent}%` }}></div>
+                                </div>
+                                <p className="card-hint">High growth infrastructure focus</p>
+                            </motion.div>
+
+                            <motion.div
+                                whileHover={{ y: -5 }}
+                                className="glass-card stat-card"
+                            >
+                                <div className="card-header">
+                                    <div className="icon-box projects">
+                                        <span className="material-symbols-outlined">construction</span>
+                                    </div>
+                                    <span className="delta-badge">+5.1%</span>
+                                </div>
+                                <h3 className="card-label">Active Infrastructure</h3>
+                                <p className="card-value">
+                                    {stats.projectCount} <span className="value-unit">Projects</span>
+                                </p>
+                                <div className="project-segments">
+                                    <div className="segment filled"></div>
+                                    <div className="segment filled partial"></div>
+                                    <div className="segment empty"></div>
+                                    <div className="segment empty"></div>
+                                </div>
+                                <p className="card-hint">72% currently on schedule</p>
+                            </motion.div>
+                        </div>
                     </div>
                 </div>
 

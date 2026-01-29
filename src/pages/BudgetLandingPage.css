@@ -11,6 +11,25 @@
     font-family: 'Plus Jakarta Sans', sans-serif;
 }
 
+/* Visibility Utilities */
+.desktop-only {
+    display: flex;
+}
+
+.mobile-only {
+    display: none;
+}
+
+@media (max-width: 1024px) {
+    .desktop-only {
+        display: none !important;
+    }
+
+    .mobile-only {
+        display: flex !important;
+    }
+}
+
 .dark .budget-landing-container {
     background-color: #0c1613;
     /* Rich darker green-black for budget */
@@ -147,6 +166,18 @@
 .icon-btn:hover {
     color: #10b77f;
     background: rgba(16, 183, 127, 0.1);
+}
+
+.share-nav-btn {
+    border: 1px solid rgba(16, 183, 127, 0.3);
+    background: rgba(16, 183, 127, 0.05);
+    color: #10b77f;
+}
+
+.share-nav-btn:hover {
+    background: #10b77f !important;
+    color: #0c1613 !important;
+    transform: scale(1.1);
 }
 
 /* Hero Section */

@@ -464,19 +464,19 @@
 }
 
 .sector-nav-btn {
-    width: 36px;
-    height: 36px;
-    border-radius: 50%;
-    border: none;
+    width: 44px;
+    height: 48px;
+    border-radius: 12px;
+    border: 1px solid var(--budget-border);
     background: white;
-    color: var(--budget-primary);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    color: var(--budget-primary-dark);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
     display: flex;
     align-items: center;
     justify-content: center;
     cursor: pointer;
     z-index: 2;
-    transition: all 0.2s ease;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     flex-shrink: 0;
 }
 
@@ -492,15 +492,23 @@
     transform: scale(1.1);
 }
 
-.sector-grid-mobile {
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
+.sector-grid-unified {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 12px;
     width: 100%;
 }
 
-.sector-grid-desktop {
-    display: none;
+@media (min-width: 640px) {
+    .sector-grid-unified {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 1024px) {
+    .sector-grid-unified {
+        grid-template-columns: repeat(4, 1fr);
+    }
 }
 
 .sector-list {
@@ -511,24 +519,12 @@
 @media (min-width: 768px) {
     .sector-list-wrapper {
         padding: 0 24px;
-        gap: 0;
+        max-width: 1400px;
+        margin: 0 auto;
     }
 
     .sector-nav-btn {
-        display: none;
-    }
-
-    .sector-grid-mobile {
-        display: none;
-    }
-
-    .sector-grid-desktop {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        gap: 12px;
-        width: 100%;
-        max-width: 1400px;
-        margin: 0 auto;
+        display: flex;
     }
 }
 
@@ -1114,25 +1110,25 @@
 .projects-cta-card {
     position: relative;
     background: linear-gradient(135deg, #065f46 0%, #10b981 100%);
-    border-radius: var(--budget-radius-lg);
-    padding: 32px 24px;
+    border-radius: var(--budget-radius);
+    padding: 16px;
     color: #ffffff;
     overflow: hidden;
     max-width: 1360px;
     margin: 0 auto;
-    box-shadow: 0 20px 40px rgba(6, 95, 70, 0.15);
+    box-shadow: 0 8px 16px rgba(6, 95, 70, 0.15);
 }
 
 .cta-icon-wrap {
-    width: 56px;
-    height: 56px;
+    width: 36px;
+    height: 36px;
     background: rgba(255, 255, 255, 0.2);
     backdrop-filter: blur(8px);
-    border-radius: 14px;
+    border-radius: 8px;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 16px;
+    margin-bottom: 12px;
 }
 
 .cta-icon-wrap.policy {
@@ -1144,22 +1140,22 @@
 }
 
 .cta-icon-wrap .material-symbols-outlined {
-    font-size: 28px;
+    font-size: 24px;
 }
 
 .projects-cta-card .cta-content h2 {
-    font-size: 22px;
+    font-size: 16px;
     font-weight: 700;
-    margin: 0 0 8px;
+    margin: 0 0 4px;
     color: #ffffff;
 }
 
 .projects-cta-card .cta-content p {
-    font-size: 14px;
+    font-size: 12px;
     opacity: 0.9;
-    line-height: 1.5;
-    margin: 0 0 20px;
-    max-width: 450px;
+    line-height: 1.4;
+    margin: 0 0 12px;
+    max-width: 100%;
 }
 
 .cta-stats-inline {
@@ -1188,12 +1184,12 @@
 .cta-action-btn {
     display: inline-flex;
     align-items: center;
-    gap: 8px;
-    padding: 14px 24px;
+    gap: 6px;
+    padding: 8px 16px;
     background: #ffffff;
     color: #065f46;
-    border-radius: 12px;
-    font-size: 15px;
+    border-radius: 8px;
+    font-size: 13px;
     font-weight: 600;
     text-decoration: none;
     transition: all 0.2s;

@@ -28,6 +28,22 @@ Explore the stunning interface and powerful analytics tools of KeralamEvide.
 ![MP Comparison](src/assets/images/pageScreenshot/CompareMp.png)
 *Side-by-side comparison tool for evaluating relative performance and fund utilization across constituencies.*
 
+### 📂 Budget & Fiscal Analytics
+![Budget Overview](src/assets/images/pageScreenshot/budgetDashboardLandingPage.png)
+*Visual overview of state budget allocations and fiscal performance.*
+
+![Budget Details](src/assets/images/pageScreenshot/budgetPage.png)
+*Drill-down views into specific departmental allocations and spending trends.*
+
+![Budget Comparison](src/assets/images/pageScreenshot/budgetComparison.png)
+*Comparative analysis of budget allocations across different fiscal years.*
+
+![Major Projects in Budget](src/assets/images/pageScreenshot/majorProjectsinBudget.png)
+*Tracking major infrastructure projects and their budget utilization.*
+
+![Policy Initiatives](src/assets/images/pageScreenshot/policiesinBudget.png)
+*Budgetary impact and progress tracking of key state policy initiatives.*
+
 ### ℹ️ About KeralamEvide
 ![About Page](src/assets/images/pageScreenshot/about.png)
 *In-depth look at the KeralamEvide mission, data sources, and the vision for transparent development tracking.*

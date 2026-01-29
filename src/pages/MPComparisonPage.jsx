@@ -5,6 +5,7 @@ import Header from '../components/Header'
 import { getAllMPs } from '../data/mpFundLoader'
 import { getMPSpendingBreakdown } from '../data/mpAnalyticsLoader'
 import { shareElementAsImage } from '../utils/shareUtils'
+import CldImage from '../components/CldImage'
 import './MPComparisonPage.css'
 
 const MPComparisonPage = () => {
@@ -176,10 +177,11 @@ const MPComparisonPage = () => {
                                     <div className="profile-card card-a">
                                         <div className="profile-image">
                                             {mpADetails.image ? (
-                                                <img
+                                                <CldImage
                                                     src={mpADetails.image}
                                                     alt={mpADetails.name}
-                                                    crossOrigin="anonymous"
+                                                    width={300}
+                                                    height={300}
                                                 />
                                             ) : (
                                                 <span className="material-symbols-outlined">person</span>
@@ -231,10 +233,11 @@ const MPComparisonPage = () => {
                                     <div className="profile-card card-b">
                                         <div className="profile-image">
                                             {mpBDetails.image ? (
-                                                <img
+                                                <CldImage
                                                     src={mpBDetails.image}
                                                     alt={mpBDetails.name}
-                                                    crossOrigin="anonymous"
+                                                    width={300}
+                                                    height={300}
                                                 />
                                             ) : (
                                                 <span className="material-symbols-outlined">person</span>

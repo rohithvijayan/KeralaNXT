@@ -145,48 +145,59 @@ const BudgetPage = () => {
                 <div className="sector-list-wrapper">
                     <button
                         className="sector-nav-btn prev"
-                        onClick={() => setSectorPage(0)}
+                        onClick={() => setSectorPage(prev => Math.max(0, prev - 1))}
                         disabled={sectorPage === 0}
+                        aria-label="Previous sectors"
                     >
                         <span className="material-symbols-outlined">chevron_left</span>
                     </button>
 
                     <div className="sector-list">
-                        <div className="sector-grid-desktop">
-                            {sectors.slice(0, 8).map((sector) => (
-                                <button
-                                    key={sector.key}
-                                    className={`sector-card ${activeSector === sector.key ? 'active' : ''}`}
-                                    onClick={() => setActiveSector(sector.key)}
-                                >
-                                    <div className="sector-icon" style={{ background: getSectorColor(sector.key) }}>
-                                        <span className="material-symbols-outlined">{getSectorIcon(sector.key)}</span>
-                                    </div>
-                                    <div className="sector-info">
-                                        <span className="sector-name">{sector.name}</span>
-                                        <span className="sector-amount">{formatAmount(sector.totalAllocation)}</span>
-                                    </div>
-                                    <div className="sector-meta">
-                                        <span className="sector-projects">{sector.count} projects</span>
-                                        <div className="sector-bar">
-                                            <div
-                                                className="sector-bar-fill"
-                                                style={{
-                                                    width: `${(sector.totalAllocation / sectors[0].totalAllocation) * 100}%`,
-                                                    background: getSectorColor(sector.key)
-                                                }}
-                                            />
+                        <AnimatePresence mode="wait">
+                            <motion.div
+                                key={sectorPage}
+                                initial={{ opacity: 0, x: 20 }}
+                                animate={{ opacity: 1, x: 0 }}
+                                exit={{ opacity: 0, x: -20 }}
+                                transition={{ duration: 0.3, ease: "easeInOut" }}
+                                className="sector-grid-unified"
+                            >
+                                {sectors.slice(sectorPage * 4, (sectorPage + 1) * 4).map((sector) => (
+                                    <button
+                                        key={sector.key}
+                                        className={`sector-card ${activeSector === sector.key ? 'active' : ''}`}
+                                        onClick={() => setActiveSector(sector.key)}
+                                    >
+                                        <div className="sector-icon" style={{ background: getSectorColor(sector.key) }}>
+                                            <span className="material-symbols-outlined">{getSectorIcon(sector.key)}</span>
                                         </div>
-                                    </div>
-                                </button>
-                            ))}
-                        </div>
+                                        <div className="sector-info">
+                                            <span className="sector-name">{sector.name}</span>
+                                            <span className="sector-amount">{formatAmount(sector.totalAllocation)}</span>
+                                        </div>
+                                        <div className="sector-meta">
+                                            <span className="sector-projects">{sector.count} projects</span>
+                                            <div className="sector-bar">
+                                                <div
+                                                    className="sector-bar-fill"
+                                                    style={{
+                                                        width: `${(sector.totalAllocation / sectors[0].totalAllocation) * 100}%`,
+                                                        background: getSectorColor(sector.key)
+                                                    }}
+                                                />
+                                            </div>
+                                        </div>
+                                    </button>
+                                ))}
+                            </motion.div>
+                        </AnimatePresence>
                     </div>
 
                     <button
                         className="sector-nav-btn next"
-                        onClick={() => setSectorPage(1)}
-                        disabled={sectorPage === 1}
+                        onClick={() => setSectorPage(prev => (prev + 1) * 4 < sectors.length ? prev + 1 : prev)}
+                        disabled={(sectorPage + 1) * 4 >= sectors.length}
+                        aria-label="Next sectors"
                     >
                         <span className="material-symbols-outlined">chevron_right</span>
                     </button>
