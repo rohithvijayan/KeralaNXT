@@ -1,0 +1,97 @@
+{
+    "Kerala_Budget_2026_27_Policies": {
+        "Strategic_and_Macro_Economic_Policies": {
+            "Federal_Fiscal_Stance": {
+                "policy_name": "Resistance to Fiscal Centralization",
+                "description": "A strategic stance to resist the Central Government's reduction of the State's borrowing limits and tax devolution.",
+                "objective": "To protect the 'Kerala Model of Development' and ensure alternative funding mechanisms despite central squeezes."
+            },
+            "Knowledge_Economy_Transition": {
+                "policy_name": "Knowledge Economy Mission",
+                "description": "A comprehensive policy to transition Kerala from a consumer state to a knowledge-production hub.",
+                "objective": "To create high-quality employment by linking higher education with modern industrial needs and skill development."
+            },
+            "Investment_Promotion_Policy": {
+                "policy_name": "Pro-Active Global Investment Strategy",
+                "description": "Shift towards aggressively courting global private investment, highlighted by the delegation to the World Economic Forum (Davos).",
+                "objective": "To attract investments in ESG (Environmental, Social, and Governance), Green Hydrogen, and IT sectors, moving beyond traditional dependency on remittances."
+            },
+            "Care_Economy_Framework": {
+                "policy_name": "Care Economy Focus",
+                "description": "A policy framework addressing the demographic shift towards an aging population.",
+                "objective": "To professionalize care-giving and expand geriatric care facilities, turning the 'burden' of an aging population into an economic opportunity."
+            }
+        },
+        "Fiscal_and_Tax_Reforms": {
+            "Resource_Mobilization_Strategy": {
+                "policy_name": "Non-Tax Revenue Enhancement",
+                "description": "Policy to maximize revenue from non-tax sources such as revising lease rents on government lands and user fees.",
+                "objective": "To reduce the fiscal deficit by augmenting state's own revenue sources."
+            },
+            "Tax_Amnesty_Policy": {
+                "policy_name": "Traders Amnesty Scheme 2026",
+                "description": "A new amnesty scheme for traders to settle past tax arrears with waived penalties.",
+                "objective": "To clear the backlog of tax litigations and improve immediate cash flow for the exchequer."
+            },
+            "Green_Taxation": {
+                "policy_name": "Green Tax on Old Vehicles",
+                "description": "Policy to impose higher taxes on older, polluting vehicles.",
+                "objective": "To discourage the use of high-emission vehicles and promote EV adoption."
+            },
+            "Land_Tax_Reform": {
+                "policy_name": "Rationalization of Land Tax",
+                "description": "Policy to revise the slab rates for land tax based on the usage and location (Panchayat/Municipality/Corporation).",
+                "objective": "To make land tax progressive and increase local body revenues."
+            }
+        },
+        "Sectoral_Development_Policies": {
+            "Agriculture_Policy": {
+                "policy_name": "Climate Resilient Agri-Value Chain (KERA)",
+                "description": "A shift from traditional farming to 'Smart Agriculture' using precision farming and value addition.",
+                "objective": "To modernize the agricultural chain to withstand climate change and increase farmer income through the KERA project."
+            },
+            "Higher_Education_Reform": {
+                "policy_name": "Curriculum Internationalization (FYUGP)",
+                "description": "Implementation of the Four Year Undergraduate Programme (FYUGP) and allowing foreign university collaborations.",
+                "objective": "To stem the outflow of students to foreign countries and raise academic standards to global levels."
+            },
+            "Energy_Policy": {
+                "policy_name": "Green Hydrogen & Renewable Energy Shift",
+                "description": "Policy to establish Kerala as a Green Hydrogen Hub (Kochi and Vizhinjam).",
+                "objective": "To achieve Net Zero carbon emissions and attract green energy investments."
+            },
+            "Industrial_Policy": {
+                "policy_name": "Private Industrial Park Policy",
+                "description": "Liberalizing rules to allow private entities to set up industrial parks with government status.",
+                "objective": "To overcome land scarcity and accelerate industrial infrastructure development."
+            },
+            "Transport_Policy": {
+                "policy_name": "Integrated Multi-Modal Transport",
+                "description": "Integration of Water Metro, Kochi Metro, and KSRTC into a single seamless network.",
+                "objective": "To reduce traffic congestion and promote public transport usage."
+            }
+        },
+        "Governance_and_Social_Welfare_Policies": {
+            "Extreme_Poverty_Eradication": {
+                "policy_name": "Micro-Targeted Poverty Alleviation",
+                "description": "A policy to identify and uplift the 'extremely poor' families (approx 64,006 identified) through specific micro-plans.",
+                "objective": "To make Kerala the first state in India to completely eradicate extreme poverty."
+            },
+            "Gender_Policy": {
+                "policy_name": "Gender Budgeting",
+                "description": "Mandatory allocation of a specific percentage of plan funds for women-centric schemes.",
+                "objective": "To ensure financial empowerment of women and transgender communities (Mazhavillu scheme)."
+            },
+            "Digital_Governance": {
+                "policy_name": "e-Governance & Digital Survey",
+                "description": "Completing the digital re-survey of land and moving all government services to digital platforms (e-Sevanam).",
+                "objective": "To ensure transparency in land records and ease of doing business."
+            },
+            "Urban_Policy": {
+                "policy_name": "Scientific Waste Management",
+                "description": "Moving from decentralized waste dumping to scientific processing via KSWMP (Kerala Solid Waste Management Project).",
+                "objective": "To solve the waste crisis in urban local bodies and prevent environmental degradation."
+            }
+        }
+    }
+}

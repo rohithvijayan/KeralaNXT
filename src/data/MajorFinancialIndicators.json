@@ -1,0 +1,36 @@
+{
+    "financial_indicators": {
+        "2025-26": {
+            "budget_estimates": {
+                "total_revenue_receipts_cr": 152351.67,
+                "state_own_tax_revenue_cr": 91514.75,
+                "central_tax_share_cr": 28616.50,
+                "central_grants_cr": 13074.90,
+                "total_expenditure_cr": 198582.40,
+                "revenue_expenditure_cr": 179476.20,
+                "capital_expenditure_cr": 19106.21,
+                "revenue_deficit_cr": 27124.52,
+                "fiscal_deficit_cr": 45038.52,
+                "revenue_deficit_percent_gsdp": 1.90,
+                "fiscal_deficit_percent_gsdp": 3.16
+            },
+            "source_reference": "CitizensGuidetoBudget.pdf (Pages 9, 21)"
+        },
+        "2026-27": {
+            "budget_estimates": {
+                "total_revenue_receipts_cr": 182972.10,
+                "state_own_tax_revenue_cr": 94002.47,
+                "central_tax_share_cr": 42114.32,
+                "central_grants_cr": 26499.54,
+                "total_expenditure_cr": 239907.14,
+                "revenue_expenditure_cr": 217558.76,
+                "capital_expenditure_cr": 22348.38,
+                "revenue_deficit_cr": 34586.66,
+                "fiscal_deficit_cr": 55419.51,
+                "revenue_deficit_percent_gsdp": 2.12,
+                "fiscal_deficit_percent_gsdp": 3.40
+            },
+            "source_reference": "CitizensGuidetoBudget (1).pdf (Pages 9, 22)"
+        }
+    }
+}

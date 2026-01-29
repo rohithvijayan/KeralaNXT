@@ -1,5 +1,5 @@
 import { useState, useMemo, useCallback } from 'react'
-import { useNavigate, Link } from 'react-router-dom'
+import { useNavigate, Link, useSearchParams } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
 import Header from '../components/Header'
 import {
@@ -7,15 +7,18 @@ import {
     filterProjects,
     formatAmount,
     getSectorIcon,
-    getSectorColor
+    getSectorColor,
+    DEFAULT_YEAR
 } from '../data/budgetLoader'
 import './BudgetProjectsPage.css'
 
 function BudgetProjectsPage() {
     const navigate = useNavigate()
+    const [searchParams] = useSearchParams()
+    const selectedYear = searchParams.get('year') || DEFAULT_YEAR
 
     // Data
-    const sectors = useMemo(() => getSectors(), [])
+    const sectors = useMemo(() => getSectors(selectedYear), [selectedYear])
 
     // State
     const [activeSector, setActiveSector] = useState('all')
@@ -25,12 +28,13 @@ function BudgetProjectsPage() {
     // Filtered projects
     const { projects, pagination } = useMemo(() => {
         return filterProjects({
+            fiscalYear: selectedYear,
             sector: activeSector,
             search: searchQuery,
             page: currentPage,
             perPage: 20
         })
-    }, [activeSector, searchQuery, currentPage])
+    }, [selectedYear, activeSector, searchQuery, currentPage])
 
     // Handlers
     const handleSectorClick = useCallback((sectorKey) => {
@@ -48,7 +52,7 @@ function BudgetProjectsPage() {
             <Header
                 showBack
                 title="Budget Projects"
-                onBack={() => navigate('/state-budget')}
+                onBack={() => navigate(`/state-budget?year=${selectedYear}`)}
             />
 
             {/* Desktop Breadcrumb */}
@@ -65,8 +69,8 @@ function BudgetProjectsPage() {
                 <div className="hero-icon-wrap">
                     <span className="material-symbols-outlined">engineering</span>
                 </div>
-                <h1>Major Projects 2025-26</h1>
-                <p>Detailed view of 333 infrastructure and development initiatives introduced in the latest State Budget</p>
+                <h1>Major Projects {selectedYear}</h1>
+                <p>Detailed view of {pagination.total} infrastructure and development initiatives introduced in the {selectedYear} State Budget</p>
                 <div className="hero-stats">
                     <div className="stat">
                         <span className="stat-value">{pagination.total}</span>
@@ -219,7 +223,7 @@ function BudgetProjectsPage() {
                     <span className="material-symbols-outlined">info</span>
                     <div>
                         <strong>State Budget Initiatives</strong>
-                        <p>Showing major projects and financial allocations for the fiscal year 2025-26.</p>
+                        <p>Showing major projects and financial allocations for the fiscal year {selectedYear}.</p>
                     </div>
                 </div>
             </footer>

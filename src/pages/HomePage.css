@@ -486,3 +486,103 @@
         opacity: 0.5;
     }
 }
+
+/* Mobile Budget Popup Styles */
+.budget-popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(4px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5rem;
+    z-index: 2000;
+}
+
+.budget-popup-card {
+    background-color: var(--color-surface);
+    border-radius: 2rem;
+    padding: 2.5rem 1.5rem;
+    position: relative;
+    max-width: 22rem;
+    width: 100%;
+    box-shadow: 0 25px 50px -12px rgba(16, 183, 127, 0.25);
+    border: 1px solid rgba(16, 183, 127, 0.2);
+    text-align: center;
+}
+
+.popup-close-btn {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    background-color: var(--color-primary-light);
+    color: var(--color-primary);
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.popup-icon {
+    width: 3.5rem;
+    height: 3.5rem;
+    background-color: var(--color-primary);
+    color: white;
+    border-radius: 1.25rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 1.5rem;
+}
+
+.popup-icon .material-symbols-outlined {
+    font-size: 2rem;
+}
+
+.popup-content h2 {
+    font-size: 1.5rem;
+    font-weight: 800;
+    line-height: 1.2;
+    margin-bottom: 1rem;
+    color: var(--color-text);
+}
+
+.popup-content p {
+    font-size: 1rem;
+    color: var(--color-text-muted);
+    margin-bottom: 2rem;
+    line-height: 1.5;
+}
+
+.popup-cta-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
+    background-color: #10B981;
+    color: white;
+    padding: 1rem 1.5rem;
+    border-radius: 1rem;
+    text-decoration: none;
+    font-weight: 700;
+    transition: all var(--transition-base);
+}
+
+.popup-cta-btn:hover {
+    background-color: #059669;
+    transform: translateY(-2px);
+}
+
+@media (min-width: 769px) {
+    .budget-popup-overlay {
+        display: none;
+    }
+}
