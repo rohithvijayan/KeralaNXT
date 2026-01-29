@@ -548,6 +548,27 @@
     transform: scale(1.05);
 }
 
+.btn-highlight-lrg {
+    padding: 1rem 2rem;
+    background: linear-gradient(135deg, #13ecb2 0%, #38bdf8 100%);
+    color: #0c1613;
+    border: none;
+    border-radius: 100px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(19, 236, 178, 0.2);
+}
+
+.btn-highlight-lrg:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 25px rgba(19, 236, 178, 0.4);
+}
+
 .btn-secondary-lrg:hover {
     background: rgba(255, 255, 255, 0.1);
 }

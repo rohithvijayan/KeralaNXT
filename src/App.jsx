@@ -12,6 +12,7 @@ import BudgetPage from './pages/BudgetPage'
 import BudgetComparisonPage from './pages/BudgetComparisonPage'
 import PolicyInsightsPage from './pages/PolicyInsightsPage'
 import BudgetProjectsPage from './pages/BudgetProjectsPage'
+import BudgetHighlightsPage from './pages/BudgetHighlightsPage'
 import BottomNav from './components/BottomNav'
 
 function App() {
@@ -31,6 +32,7 @@ function App() {
                 <Route path="/budget-comparison" element={<BudgetComparisonPage />} />
                 <Route path="/policy-insights" element={<PolicyInsightsPage />} />
                 <Route path="/budget-projects" element={<BudgetProjectsPage />} />
+                <Route path="/budget-highlights" element={<BudgetHighlightsPage />} />
             </Routes>
             <BottomNav />
         </>
