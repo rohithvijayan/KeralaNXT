@@ -160,6 +160,12 @@ const BudgetLandingPage = () => {
                                 View Full Report
                                 <span className="material-symbols-outlined">arrow_forward</span>
                             </button>
+                            {selectedYear === '2026-27' && (
+                                <button className="btn-highlight-lrg" onClick={() => navigate('/budget-highlights')}>
+                                    <span className="material-symbols-outlined">auto_awesome</span>
+                                    Top Highlights
+                                </button>
+                            )}
                             <button className="btn-secondary-lrg" onClick={() => navigate('/budget-comparison')}>
                                 Compare Budgets
                             </button>

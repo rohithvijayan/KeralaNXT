@@ -130,6 +130,13 @@ function HomePage() {
 
                         <div className="sidebar-actions">
                             <h3 className="sidebar-actions-title">Quick Actions</h3>
+                            <button className="sidebar-action-btn" onClick={() => navigate('/budget-highlights')}>
+                                <div className="sidebar-action-icon">
+                                    <span className="material-symbols-outlined">auto_awesome</span>
+                                </div>
+                                <span>Budget Highlights</span>
+                                <span className="material-symbols-outlined sidebar-action-arrow">chevron_right</span>
+                            </button>
                             <button className="sidebar-action-btn">
                                 <div className="sidebar-action-icon">
                                     <span className="material-symbols-outlined">description</span>
@@ -298,10 +305,16 @@ function HomePage() {
                                 </div>
                                 <h2>Kerala Budget — real Kerala story 🔍</h2>
                                 <p>evide paisa kitti , evide paisa poyi,— ellam njan paranj theram .</p>
-                                <Link to="/state-budget?year=2026-27" className="popup-cta-btn">
-                                    Check Budget Details
-                                    <span className="material-symbols-outlined">arrow_forward</span>
-                                </Link>
+                                <div className="popup-btn-group">
+                                    <Link to="/budget-highlights" className="popup-cta-btn highlight">
+                                        <span className="material-symbols-outlined">auto_awesome</span>
+                                        Top Highlights
+                                    </Link>
+                                    <Link to="/state-budget?year=2026-27" className="popup-cta-btn secondary">
+                                        Check Budget Details
+                                        <span className="material-symbols-outlined">arrow_forward</span>
+                                    </Link>
+                                </div>
                             </div>
                         </motion.div>
                     </motion.div>

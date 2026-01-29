@@ -562,13 +562,17 @@
     line-height: 1.5;
 }
 
+.popup-btn-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
 .popup-cta-btn {
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 0.75rem;
-    background-color: #10B981;
-    color: white;
     padding: 1rem 1.5rem;
     border-radius: 1rem;
     text-decoration: none;
@@ -576,9 +580,21 @@
     transition: all var(--transition-base);
 }
 
+.popup-cta-btn.highlight {
+    background: linear-gradient(135deg, #10b77f 0%, #38bdf8 100%);
+    color: #fff;
+    box-shadow: 0 4px 15px rgba(16, 183, 127, 0.3);
+}
+
+.popup-cta-btn.secondary {
+    background-color: var(--color-primary-light);
+    color: var(--color-primary);
+    border: 1px solid rgba(16, 183, 127, 0.2);
+}
+
 .popup-cta-btn:hover {
-    background-color: #059669;
     transform: translateY(-2px);
+    opacity: 0.9;
 }
 
 @media (min-width: 769px) {
