@@ -1,0 +1,36 @@
+{
+    "sector_allocation_revenue_expenditure": {
+        "2025-26": {
+            "allocations_cr": {
+                "transport": 1813.84,
+                "rural_development": 5948.74,
+                "agriculture_and_allied_services": 7702.09,
+                "lsgd_share_local_bodies": 15980.49,
+                "social_services_other": 6998.66,
+                "social_security_welfare_nutrition": 15468.42,
+                "public_health_and_family_welfare": 10580.22,
+                "education_sports_arts_culture": 25390.05,
+                "police": 5044.67,
+                "interest_payments": 31823.72,
+                "pension_and_retirement_benefits": 29459.83
+            },
+            "source_reference": "CitizensGuidetoBudget.pdf (Page 16)"
+        },
+        "2026-27": {
+            "allocations_cr": {
+                "transport": 2079.01,
+                "rural_development": 6399.65,
+                "agriculture_and_allied_services": 8921.78,
+                "lsgd_share_local_bodies": 17901.45,
+                "social_services_other": 6905.47,
+                "social_security_welfare_nutrition": 20694.16,
+                "public_health_and_family_welfare": 12832.44,
+                "education_sports_arts_culture": 33330.59,
+                "police": 6579.53,
+                "interest_payments": 34376.02,
+                "pension_and_retirement_benefits": 38669.12
+            },
+            "source_reference": "CitizensGuidetoBudget (1).pdf (Page 16)"
+        }
+    }
+}

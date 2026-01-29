@@ -1,5 +1,6 @@
 import { useState, useMemo, useEffect } from 'react'
-import { motion } from 'framer-motion'
+import { Link } from 'react-router-dom'
+import { motion, AnimatePresence } from 'framer-motion'
 import Header from '../components/Header'
 import KeralaMap from '../components/KeralaMap'
 import BottomSheet from '../components/BottomSheet'
@@ -12,6 +13,18 @@ function HomePage() {
     const [isBottomSheetOpen, setIsBottomSheetOpen] = useState(false)
     const [selectedProjects, setSelectedProjects] = useState([])
     const [isLoadingProjects, setIsLoadingProjects] = useState(false)
+    const [showBudgetPopup, setShowBudgetPopup] = useState(false)
+
+    // Show popup after a delay on mobile
+    useEffect(() => {
+        const isMobile = window.innerWidth <= 768
+        if (isMobile) {
+            const timer = setTimeout(() => {
+                setShowBudgetPopup(true)
+            }, 800)
+            return () => clearTimeout(timer)
+        }
+    }, [])
 
     const districts = districtsData.districts
 
@@ -250,6 +263,50 @@ function HomePage() {
                 district={selectedDistrict}
                 projects={selectedProjects}
             />
+
+            {/* Mobile Budget Popup */}
+            <AnimatePresence>
+                {showBudgetPopup && (
+                    <motion.div
+                        className="budget-popup-overlay"
+                        initial={{ opacity: 0 }}
+                        animate={{ opacity: 1 }}
+                        exit={{ opacity: 0 }}
+                    >
+                        <motion.div
+                            className="budget-popup-card"
+                            initial={{ opacity: 0, scale: 0.3, y: 0 }}
+                            animate={{ opacity: 1, scale: 1, y: 0 }}
+                            exit={{ opacity: 0, scale: 0.5 }}
+                            transition={{
+                                type: "spring",
+                                damping: 15,
+                                stiffness: 200,
+                                mass: 0.8
+                            }}
+                        >
+                            <button
+                                className="popup-close-btn"
+                                onClick={() => setShowBudgetPopup(false)}
+                                aria-label="Close"
+                            >
+                                <span className="material-symbols-outlined">close</span>
+                            </button>
+                            <div className="popup-content">
+                                <div className="popup-icon">
+                                    <span className="material-symbols-outlined">search</span>
+                                </div>
+                                <h2>Kerala Budget — real Kerala story 🔍</h2>
+                                <p>evide paisa kitti , evide paisa poyi,— ellam njan paranj theram .</p>
+                                <Link to="/state-budget?year=2026-27" className="popup-cta-btn">
+                                    Check Budget Details
+                                    <span className="material-symbols-outlined">arrow_forward</span>
+                                </Link>
+                            </div>
+                        </motion.div>
+                    </motion.div>
+                )}
+            </AnimatePresence>
         </div>
     )
 }

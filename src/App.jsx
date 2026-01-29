@@ -7,7 +7,9 @@ import InitiativesPage from './pages/InitiativesPage'
 import MPDashboardPage from './pages/MPDashboardPage'
 import MPAnalyticsPage from './pages/MPAnalyticsPage'
 import MPComparisonPage from './pages/MPComparisonPage'
+import BudgetLandingPage from './pages/BudgetLandingPage'
 import BudgetPage from './pages/BudgetPage'
+import BudgetComparisonPage from './pages/BudgetComparisonPage'
 import PolicyInsightsPage from './pages/PolicyInsightsPage'
 import BudgetProjectsPage from './pages/BudgetProjectsPage'
 import BottomNav from './components/BottomNav'
@@ -24,7 +26,9 @@ function App() {
                 <Route path="/mp-fund-dashboard" element={<MPDashboardPage />} />
                 <Route path="/mp-analytics" element={<MPAnalyticsPage />} />
                 <Route path="/mp-comparison" element={<MPComparisonPage />} />
-                <Route path="/state-budget" element={<BudgetPage />} />
+                <Route path="/state-budget" element={<BudgetLandingPage />} />
+                <Route path="/budget-details" element={<BudgetPage />} />
+                <Route path="/budget-comparison" element={<BudgetComparisonPage />} />
                 <Route path="/policy-insights" element={<PolicyInsightsPage />} />
                 <Route path="/budget-projects" element={<BudgetProjectsPage />} />
             </Routes>

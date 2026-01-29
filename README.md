@@ -1,4 +1,4 @@
-# 🌴 KeralaNXT: Development Visualization Dashboard
+# 🌴 KeralamEvide: Development Visualization Dashboard
 
 A premium, data-driven platform designed to visualize and track development projects and MP fund utilization across Kerala (2016-2025).
 
@@ -6,7 +6,7 @@ A premium, data-driven platform designed to visualize and track development proj
 
 ## ✨ Project Showcase
 
-Explore the stunning interface and powerful analytics tools of KeralaNXT.
+Explore the stunning interface and powerful analytics tools of KeralamEvide.
 
 ### 🏠 Interactive Map Home
 ![Home Page](src/assets/images/pageScreenshot/home.png)
@@ -28,9 +28,9 @@ Explore the stunning interface and powerful analytics tools of KeralaNXT.
 ![MP Comparison](src/assets/images/pageScreenshot/CompareMp.png)
 *Side-by-side comparison tool for evaluating relative performance and fund utilization across constituencies.*
 
-### ℹ️ About KeralaNXT
+### ℹ️ About KeralamEvide
 ![About Page](src/assets/images/pageScreenshot/about.png)
-*In-depth look at the KeralaNXT mission, data sources, and the vision for transparent development tracking.*
+*In-depth look at the KeralamEvide mission, data sources, and the vision for transparent development tracking.*
 
 ---
 

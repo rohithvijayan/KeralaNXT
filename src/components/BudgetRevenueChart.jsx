@@ -5,8 +5,8 @@ import { getRevenueBreakdown } from '../data/budgetLoader'
 
 ChartJS.register(ArcElement, Tooltip, Legend)
 
-function BudgetRevenueChart() {
-    const { sources } = useMemo(() => getRevenueBreakdown(), [])
+const BudgetRevenueChart = ({ fiscalYear }) => {
+    const { total, sources } = useMemo(() => getRevenueBreakdown(fiscalYear), [fiscalYear])
 
     const data = {
         labels: sources.map(s => s.category),

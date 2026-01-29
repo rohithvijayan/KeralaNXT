@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>KeralaNXT Modern Budget Dashboard</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&amp;display=swap"
+        rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#10b77f",
+                        "background-light": "#f6f8f7",
+                        "background-dark": "#10221c",
+                        "slate-custom": "#1a1f1e",
+                    },
+                    fontFamily: {
+                        "display": ["Plus Jakarta Sans", "sans-serif"]
+                    },
+                    borderRadius: {
+                        "DEFAULT": "1rem",
+                        "lg": "2rem",
+                        "xl": "3rem",
+                        "full": "9999px"
+                    },
+                },
+            },
+        }
+    </script>
+    <style>
+        body {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+        }
+
+        .glass-card {
+            background: rgba(40, 57, 51, 0.4);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+        }
+
+        .hero-glow {
+            text-shadow: 0 0 30px rgba(16, 183, 127, 0.3);
+        }
+
+        .map-overlay {
+            mask-image: linear-gradient(to bottom, black 50%, transparent 100%);
+        }
+    </style>
+</head>
+
+<body
+    class="bg-background-light dark:bg-background-dark text-slate-900 dark:text-white min-h-screen selection:bg-primary/30">
+    <!-- Top Navigation Bar -->
+    <nav
+        class="sticky top-0 z-50 w-full border-b border-white/5 bg-background-light/80 dark:bg-background-dark/80 backdrop-blur-md px-6 lg:px-20 py-4">
+        <div class="max-w-7xl mx-auto flex items-center justify-between">
+            <div class="flex items-center gap-3">
+                <div
+                    class="size-10 bg-primary/20 rounded-xl flex items-center justify-center text-primary border border-primary/30">
+                    <span class="material-symbols-outlined text-2xl font-bold">account_balance</span>
+                </div>
+                <h2 class="text-xl font-extrabold tracking-tight">Kerala<span class="text-primary">NXT</span></h2>
+            </div>
+            <!-- Segmented Control Year Switcher -->
+            <div class="hidden md:flex bg-slate-200 dark:bg-white/5 p-1 rounded-full border border-white/5">
+                <label class="relative flex items-center">
+                    <input class="peer absolute opacity-0" name="fiscal_year" type="radio" value="2024" />
+                    <span
+                        class="px-6 py-1.5 rounded-full text-sm font-semibold cursor-pointer transition-all peer-checked:bg-primary peer-checked:text-background-dark text-slate-500 dark:text-slate-400">2024-25</span>
+                </label>
+                <label class="relative flex items-center">
+                    <input checked="" class="peer absolute opacity-0" name="fiscal_year" type="radio" value="2025" />
+                    <span
+                        class="px-6 py-1.5 rounded-full text-sm font-semibold cursor-pointer transition-all peer-checked:bg-primary peer-checked:text-background-dark text-slate-500 dark:text-slate-400">2025-26</span>
+                </label>
+                <label class="relative flex items-center">
+                    <input class="peer absolute opacity-0" name="fiscal_year" type="radio" value="2026" />
+                    <span
+                        class="px-6 py-1.5 rounded-full text-sm font-semibold cursor-pointer transition-all peer-checked:bg-primary peer-checked:text-background-dark text-slate-500 dark:text-slate-400">2026-27</span>
+                </label>
+            </div>
+            <div class="flex items-center gap-4">
+                <button
+                    class="p-2.5 rounded-full bg-slate-200 dark:bg-white/5 text-slate-600 dark:text-slate-300 hover:bg-primary/20 hover:text-primary transition-colors">
+                    <span class="material-symbols-outlined">notifications</span>
+                </button>
+                <button
+                    class="p-2.5 rounded-full bg-slate-200 dark:bg-white/5 text-slate-600 dark:text-slate-300 hover:bg-primary/20 hover:text-primary transition-colors">
+                    <span class="material-symbols-outlined">settings</span>
+                </button>
+                <div class="h-10 w-10 rounded-full border-2 border-primary/30 overflow-hidden">
+                    <img alt="User avatar" class="w-full h-full object-cover" data-alt="Official user profile photo"
+                        src="https://lh3.googleusercontent.com/aida-public/AB6AXuA0t4vpVdSM0rWUUOQpgepHODzToOmkr_HQcJdxhrI3DL322pN4ZaQc68zdmJTFEr8NwSsNeOzFiMrAm10ekz7pmovijCtUXqC7ukIfZWD_We4I_bLiLyYGO44DRtXFDxnBQvLndTb82_CKKBL9LPVcy7pNTCQiH2aWabbPm1BdSsRHs7--j1pWwojl9Z4EVQs1MUZM5rpHfQ9qBNs7BoRkbsFrn2EwTFVimLAl81jshotkjGrBFhjxaWiiAU2uGgNoUO5SU-shTws" />
+                </div>
+            </div>
+        </div>
+    </nav>
+    <main class="relative px-6 lg:px-20 py-12 max-w-7xl mx-auto">
+        <!-- Abstract Background Accent -->
+        <div
+            class="absolute top-0 right-0 -z-10 w-[500px] h-[500px] bg-primary/10 rounded-full blur-[120px] pointer-events-none">
+        </div>
+        <div
+            class="absolute bottom-0 left-0 -z-10 w-[400px] h-[400px] bg-emerald-900/20 rounded-full blur-[100px] pointer-events-none">
+        </div>
+        <!-- Hero Section -->
+        <section class="text-center mb-16 relative">
+            <div
+                class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-primary/10 text-primary border border-primary/20 text-sm font-medium mb-6">
+                <span class="material-symbols-outlined text-[18px]">verified</span>
+                State Fiscal Overview 2025-26
+            </div>
+            <h1
+                class="text-slate-500 dark:text-slate-400 text-lg md:text-xl font-medium mb-4 uppercase tracking-[0.2em]">
+                Total Expenditure Allocation</h1>
+            <div class="relative inline-block">
+                <p class="text-6xl md:text-9xl font-black tracking-tight dark:text-white hero-glow mb-4">
+                    ₹2,10,000<span class="text-primary text-4xl md:text-6xl ml-2">Cr</span>
+                </p>
+                <div class="flex items-center justify-center gap-2 text-emerald-500 font-bold text-xl">
+                    <span class="material-symbols-outlined">trending_up</span>
+                    <span>12.5%</span>
+                    <span class="text-slate-400 font-normal text-sm ml-1 uppercase">vs Last Fiscal Year</span>
+                </div>
+            </div>
+        </section>
+        <!-- Stats Grid -->
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-16">
+            <!-- Card 1: Revenue -->
+            <div class="glass-card rounded-2xl p-8 group hover:border-primary/40 transition-all">
+                <div class="flex justify-between items-start mb-6">
+                    <div class="p-3 bg-primary/10 rounded-xl text-primary">
+                        <span class="material-symbols-outlined text-3xl">payments</span>
+                    </div>
+                    <span
+                        class="text-emerald-500 bg-emerald-500/10 px-3 py-1 rounded-full text-xs font-bold tracking-wider">+8.2%</span>
+                </div>
+                <h3 class="text-slate-400 text-sm font-semibold uppercase tracking-wider mb-2">Revenue Expenditure</h3>
+                <div class="flex items-baseline gap-2">
+                    <p class="text-3xl font-bold">₹1,45,000<span class="text-lg font-medium text-slate-500">Cr</span>
+                    </p>
+                </div>
+                <div class="mt-6 w-full h-1 bg-white/5 rounded-full overflow-hidden">
+                    <div class="bg-primary h-full w-[69%]" title="69% of total budget"></div>
+                </div>
+                <p class="mt-2 text-xs text-slate-500 font-medium italic">Consumes 69% of annual allocation</p>
+            </div>
+            <!-- Card 2: Capex -->
+            <div
+                class="glass-card rounded-2xl p-8 group border-primary/20 shadow-[0_0_20px_rgba(16,183,127,0.1)] hover:border-primary/40 transition-all">
+                <div class="flex justify-between items-start mb-6">
+                    <div class="p-3 bg-primary rounded-xl text-background-dark shadow-lg shadow-primary/20">
+                        <span class="material-symbols-outlined text-3xl">domain</span>
+                    </div>
+                    <span
+                        class="text-emerald-500 bg-emerald-500/10 px-3 py-1 rounded-full text-xs font-bold tracking-wider">+15.4%</span>
+                </div>
+                <h3 class="text-slate-400 text-sm font-semibold uppercase tracking-wider mb-2">Capital Expenditure</h3>
+                <div class="flex items-baseline gap-2">
+                    <p class="text-3xl font-bold">₹65,000<span class="text-lg font-medium text-slate-500">Cr</span></p>
+                </div>
+                <div class="mt-6 w-full h-1 bg-white/5 rounded-full overflow-hidden">
+                    <div class="bg-primary h-full w-[31%]" title="31% of total budget"></div>
+                </div>
+                <p class="mt-2 text-xs text-slate-500 font-medium italic">High growth infrastructure focus</p>
+            </div>
+            <!-- Card 3: Projects -->
+            <div class="glass-card rounded-2xl p-8 group hover:border-primary/40 transition-all">
+                <div class="flex justify-between items-start mb-6">
+                    <div class="p-3 bg-primary/10 rounded-xl text-primary">
+                        <span class="material-symbols-outlined text-3xl">construction</span>
+                    </div>
+                    <span
+                        class="text-emerald-500 bg-emerald-500/10 px-3 py-1 rounded-full text-xs font-bold tracking-wider">+5.1%</span>
+                </div>
+                <h3 class="text-slate-400 text-sm font-semibold uppercase tracking-wider mb-2">Active Infrastructure
+                </h3>
+                <div class="flex items-baseline gap-2">
+                    <p class="text-3xl font-bold">124<span
+                            class="text-lg font-medium text-slate-500 ml-1">Projects</span></p>
+                </div>
+                <div class="flex gap-2 mt-6">
+                    <div class="flex-1 h-1.5 rounded-full bg-primary"></div>
+                    <div class="flex-1 h-1.5 rounded-full bg-primary/60"></div>
+                    <div class="flex-1 h-1.5 rounded-full bg-primary/30"></div>
+                    <div class="flex-1 h-1.5 rounded-full bg-white/5"></div>
+                </div>
+                <p class="mt-2 text-xs text-slate-500 font-medium italic">72% currently on schedule</p>
+            </div>
+        </div>
+        <!-- Secondary Information / Map Teaser -->
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
+            <div class="space-y-6">
+                <h2 class="text-3xl font-bold leading-tight">Strategic Regional Development <br /> &amp; Sustainability
+                    Goals</h2>
+                <p class="text-slate-400 max-w-lg leading-relaxed">
+                    The 2025-26 budget focuses heavily on digital infrastructure and sustainable agricultural practices,
+                    aiming to increase the state's GDP contribution by 14% through technological intervention.
+                </p>
+                <div class="flex flex-wrap gap-4">
+                    <button
+                        class="bg-primary text-background-dark font-bold px-8 py-3.5 rounded-full hover:scale-105 transition-transform flex items-center gap-2">
+                        View Full Report
+                        <span class="material-symbols-outlined">arrow_forward</span>
+                    </button>
+                    <button
+                        class="bg-white/5 hover:bg-white/10 text-white font-bold px-8 py-3.5 rounded-full border border-white/10 transition-colors">
+                        Download PDF
+                    </button>
+                </div>
+            </div>
+            <div
+                class="relative glass-card rounded-3xl p-4 overflow-hidden h-[300px] flex items-center justify-center border border-primary/10">
+                <div class="absolute inset-0 opacity-10 map-overlay" data-alt="Stylized map outline of Kerala"
+                    data-location="Kerala"
+                    style="background: url('https://placeholder.pics/svg/600x400') center/cover no-repeat;"></div>
+                <div class="relative z-10 flex flex-col items-center gap-4 text-center">
+                    <div class="size-16 rounded-full bg-primary/20 flex items-center justify-center text-primary">
+                        <span class="material-symbols-outlined text-4xl">map</span>
+                    </div>
+                    <div>
+                        <p class="text-primary font-bold text-lg">Geospatial Insights</p>
+                        <p class="text-slate-400 text-sm">Explore regional budget allocations across 14 districts</p>
+                    </div>
+                    <button class="text-primary text-sm font-bold flex items-center gap-1 hover:underline">
+                        Launch Interactive Map <span class="material-symbols-outlined text-sm">open_in_new</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </main>
+    <!-- Footer Stats / Marquee Style -->
+    <footer class="mt-12 border-t border-white/5 py-8 px-6 lg:px-20 bg-background-dark">
+        <div
+            class="max-w-7xl mx-auto flex flex-wrap justify-between items-center gap-8 opacity-60 grayscale hover:grayscale-0 transition-all duration-500">
+            <div class="flex items-center gap-4">
+                <span class="text-xs uppercase tracking-widest text-slate-500">Debt to GSDP</span>
+                <span class="text-lg font-bold">34.2%</span>
+            </div>
+            <div class="flex items-center gap-4">
+                <span class="text-xs uppercase tracking-widest text-slate-500">Fiscal Deficit</span>
+                <span class="text-lg font-bold">3.5%</span>
+            </div>
+            <div class="flex items-center gap-4">
+                <span class="text-xs uppercase tracking-widest text-slate-500">Social Sector</span>
+                <span class="text-lg font-bold">₹28,400 Cr</span>
+            </div>
+            <div class="flex items-center gap-4">
+                <span class="text-xs uppercase tracking-widest text-slate-500">Health Index</span>
+                <span class="text-lg font-bold text-primary">#1 National</span>
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>

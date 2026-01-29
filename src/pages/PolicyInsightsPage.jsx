@@ -1,13 +1,16 @@
 import { useState, useMemo } from 'react'
-import { useNavigate, Link } from 'react-router-dom'
+import { useNavigate, Link, useSearchParams } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
 import Header from '../components/Header'
-import { getPolicies } from '../data/budgetLoader'
+import { getPolicies, DEFAULT_YEAR } from '../data/budgetLoader'
 import './PolicyInsightsPage.css'
 
 function PolicyInsightsPage() {
     const navigate = useNavigate()
-    const policies = useMemo(() => getPolicies(), [])
+    const [searchParams] = useSearchParams()
+    const selectedYear = searchParams.get('year') || DEFAULT_YEAR
+
+    const policies = useMemo(() => getPolicies(selectedYear), [selectedYear])
 
     const [expandedItems, setExpandedItems] = useState(new Set())
     const [activeCategory, setActiveCategory] = useState('all')
@@ -58,7 +61,12 @@ function PolicyInsightsPage() {
             'Strategic_Vision_and_Overview': 'visibility',
             'Development_Policy_Frameworks': 'developer_board',
             'Fiscal_Federalism_and_Central_Relations': 'account_balance',
-            'Investment_Roadmap_4_Pillars': 'trending_up'
+            'Investment_Roadmap_4_Pillars': 'trending_up',
+            // 2026-27 keys
+            'Strategic_and_Macro_Economic_Policies': 'analytics',
+            'Fiscal_and_Tax_Reforms': 'payments',
+            'Sectoral_Development_Policies': 'domain',
+            'Governance_and_Social_Welfare_Policies': 'diversity_3'
         }
         return iconMap[key] || 'policy'
     }
@@ -68,7 +76,7 @@ function PolicyInsightsPage() {
             <Header
                 showBack
                 title="Policy Insights"
-                onBack={() => navigate('/state-budget')}
+                onBack={() => navigate(`/state-budget?year=${selectedYear}`)}
             />
 
             {/* Desktop Breadcrumb */}
@@ -85,8 +93,8 @@ function PolicyInsightsPage() {
                 <div className="hero-icon-wrap">
                     <span className="material-symbols-outlined">lightbulb</span>
                 </div>
-                <h1>Budget Policy Insights</h1>
-                <p>Strategic vision and policy frameworks guiding Kerala's development trajectory for 2025-26</p>
+                <h1>Budget Policy Insights {selectedYear}</h1>
+                <p>Strategic vision and policy frameworks guiding Kerala's development trajectory for {selectedYear}</p>
                 <div className="hero-stats">
                     <div className="stat">
                         <span className="stat-value">{totalPolicies}</span>
@@ -236,7 +244,7 @@ function PolicyInsightsPage() {
                     <span className="material-symbols-outlined">info</span>
                     <div>
                         <strong>Source</strong>
-                        <p>Citizen's Guide to Budget 2025-26, Government of Kerala</p>
+                        <p>Citizen's Guide to Budget {selectedYear}, Government of Kerala</p>
                     </div>
                 </div>
             </footer>

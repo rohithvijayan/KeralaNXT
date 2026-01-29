@@ -202,6 +202,78 @@
 }
 
 /* ============================================
+   COMPARE CTA SECTION
+   ============================================ */
+.compare-cta-section {
+    padding: 0 16px 24px;
+}
+
+.compare-cta-btn {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 16px 20px;
+    background: linear-gradient(135deg, rgba(19, 236, 178, 0.1) 0%, rgba(13, 155, 118, 0.1) 100%);
+    border: 1px solid var(--budget-primary);
+    border-radius: var(--budget-radius);
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.compare-cta-btn:hover {
+    background: linear-gradient(135deg, rgba(19, 236, 178, 0.2) 0%, rgba(13, 155, 118, 0.2) 100%);
+    box-shadow: 0 4px 20px rgba(19, 236, 178, 0.25);
+    transform: translateY(-2px);
+}
+
+.compare-cta-content {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    text-align: left;
+}
+
+.compare-cta-content>.material-symbols-outlined {
+    font-size: 32px;
+    color: var(--budget-primary-dark);
+    background: var(--budget-primary-light);
+    padding: 10px;
+    border-radius: 12px;
+}
+
+.compare-cta-content h3 {
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--budget-text);
+    margin: 0 0 4px 0;
+}
+
+.compare-cta-content p {
+    font-size: 13px;
+    color: var(--budget-text-muted);
+    margin: 0;
+}
+
+.compare-arrow {
+    font-size: 24px;
+    color: var(--budget-primary-dark);
+    transition: transform 0.2s ease;
+}
+
+.compare-cta-btn:hover .compare-arrow {
+    transform: translateX(4px);
+}
+
+@media (min-width: 768px) {
+    .compare-cta-section {
+        padding: 0 24px 32px;
+        max-width: 1400px;
+        margin: 0 auto;
+    }
+}
+
+/* ============================================
    KPI SECTION - Horizontal Scroll on Mobile
    ============================================ */
 .kpi-section {
@@ -1061,6 +1133,14 @@
     align-items: center;
     justify-content: center;
     margin-bottom: 16px;
+}
+
+.cta-icon-wrap.policy {
+    background: rgba(255, 255, 255, 0.15);
+}
+
+.projects-cta-card.policy-card {
+    background: linear-gradient(135deg, #047857 0%, #10b981 100%);
 }
 
 .cta-icon-wrap .material-symbols-outlined {

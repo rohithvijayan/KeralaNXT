@@ -1,0 +1,1278 @@
+{
+    "Budget_2026_27_Detailed_Allocations": {
+        "Batch_2": [
+            {
+                "id": 301,
+                "project_name": "Rural Art Hub / Livelihood of Artists",
+                "allocation": "₹5 Crore",
+                "description": "Support for artists' livelihood"
+            },
+            {
+                "id": 302,
+                "project_name": "Cultural Directorate Complex",
+                "allocation": "₹1 Crore",
+                "description": "Construction fund"
+            },
+            {
+                "id": 303,
+                "project_name": "Mazhamizhi",
+                "allocation": "₹2 Crore",
+                "description": "New Media Art Programme"
+            },
+            {
+                "id": 304,
+                "project_name": "Nadakagriham",
+                "allocation": "₹2.5 Crore",
+                "description": "Permanent drama theaters for Thoppil Bhasi, P.J. Antony, K.T Muhammed"
+            },
+            {
+                "id": 305,
+                "project_name": "Museum and Zoo Department",
+                "allocation": "₹36.20 Crore",
+                "description": "Strengthening activities"
+            },
+            {
+                "id": 306,
+                "project_name": "Mar Ivanios Museum",
+                "allocation": "₹1.50 Crore",
+                "description": "Museum project"
+            },
+            {
+                "id": 307,
+                "project_name": "International Archives and Heritage Centre",
+                "allocation": "₹5 Crore",
+                "description": "Completion of construction at Kariavattom Campus"
+            },
+            {
+                "id": 308,
+                "project_name": "Sports and Youth Affairs Department",
+                "allocation": "₹220.86 Crore",
+                "description": "Total plan allocation"
+            },
+            {
+                "id": 309,
+                "project_name": "Sports Infrastructure Development",
+                "allocation": "₹30.50 Crore",
+                "description": "New facilities and upkeeping existing ones"
+            },
+            {
+                "id": 310,
+                "project_name": "College Sports League",
+                "allocation": "₹2 Crore",
+                "description": "To identify talent for 2036 Olympics"
+            },
+            {
+                "id": 311,
+                "project_name": "Leveraging Sports Science and Technology",
+                "allocation": "₹6.90 Crore",
+                "description": "Scientific support for athletes"
+            },
+            {
+                "id": 312,
+                "project_name": "Paralympics & Differently Abled Sports",
+                "allocation": "₹1 Crore",
+                "description": "Promotion of sports for differently abled"
+            },
+            {
+                "id": 313,
+                "project_name": "G.V. Raja Sports School / Kannur Sports Division",
+                "allocation": "₹17 Crore",
+                "description": "Infrastructure and support"
+            },
+            {
+                "id": 314,
+                "project_name": "Thrissur Sports Division (Kunnamkulam)",
+                "allocation": "₹7.50 Crore",
+                "description": "Transformation into residential sports school"
+            },
+            {
+                "id": 315,
+                "project_name": "Sports Academies (District/College/School)",
+                "allocation": "₹17 Crore",
+                "description": "Establishment and expenses"
+            },
+            {
+                "id": 316,
+                "project_name": "Sports Culture Promotion",
+                "allocation": "₹12 Crore",
+                "description": "Grassroot level with LSGIs"
+            },
+            {
+                "id": 317,
+                "project_name": "Brennen Sports Science Academy",
+                "allocation": "₹2 Crore",
+                "description": "Preliminary activities"
+            },
+            {
+                "id": 318,
+                "project_name": "Integrated International Sports Hub, Kannur",
+                "allocation": "₹10 Crore",
+                "description": "FIFA stadium, hockey arena, mall (PPP Model)"
+            },
+            {
+                "id": 319,
+                "project_name": "Sports Development Fund",
+                "allocation": "₹15 Crore",
+                "description": "PPP model sports development"
+            },
+            {
+                "id": 320,
+                "project_name": "Healthy Kids-Play for Health",
+                "allocation": "₹7.50 Crore",
+                "description": "New scheme for primary schools"
+            },
+            {
+                "id": 321,
+                "project_name": "Kerala State Sports Council",
+                "allocation": "₹45.60 Crore",
+                "description": "Various activities"
+            },
+            {
+                "id": 322,
+                "project_name": "School Sports Culture (DGE)",
+                "allocation": "₹12 Crore",
+                "description": "Sports culture in schools"
+            },
+            {
+                "id": 323,
+                "project_name": "Keralotsavam",
+                "allocation": "₹6.50 Crore",
+                "description": "Youth arts and sports festival"
+            },
+            {
+                "id": 324,
+                "project_name": "Devikulam National Adventure Academy",
+                "allocation": "₹8 Crore",
+                "description": "Construction activities"
+            },
+            {
+                "id": 325,
+                "project_name": "Dialysis Units (Taluk Level)",
+                "allocation": "₹14.20 Crore",
+                "description": "Setting up dialysis in all Taluk hospitals"
+            },
+            {
+                "id": 326,
+                "project_name": "Cancer Diagnosis & Treatment (Total)",
+                "allocation": "₹203 Crore",
+                "description": "Total allocation for cancer sector"
+            },
+            {
+                "id": 327,
+                "project_name": "Malabar Cancer Centre (MCC)",
+                "allocation": "₹50 Crore",
+                "description": "Development grant"
+            },
+            {
+                "id": 328,
+                "project_name": "Cancer Treatment (Medical Colleges)",
+                "allocation": "₹30 Crore",
+                "description": "Treatment support"
+            },
+            {
+                "id": 329,
+                "project_name": "Cancer Treatment (District/Taluk Hospitals)",
+                "allocation": "₹3 Crore",
+                "description": "Treatment support"
+            },
+            {
+                "id": 330,
+                "project_name": "Pain and Palliative Activities",
+                "allocation": "₹6.50 Crore",
+                "description": "State plan share"
+            },
+            {
+                "id": 331,
+                "project_name": "Surgical Robot (Tvpm Medical College)",
+                "allocation": "₹12 Crore",
+                "description": "Installation project"
+            },
+            {
+                "id": 332,
+                "project_name": "Kerala Digital Health Mission",
+                "allocation": "₹27.60 Crore",
+                "description": "Digital health initiatives"
+            },
+            {
+                "id": 333,
+                "project_name": "Insurance Medical Services Dept",
+                "allocation": "₹2.25 Crore",
+                "description": "Department allocation"
+            },
+            {
+                "id": 334,
+                "project_name": "Oushadhi",
+                "allocation": "₹2.30 Crore",
+                "description": "Support for pharmaceutical corporation"
+            },
+            {
+                "id": 335,
+                "project_name": "HOMCO",
+                "allocation": "₹1 Crore",
+                "description": "Support for Homeopathic manufacturing"
+            },
+            {
+                "id": 336,
+                "project_name": "Aardram Mission (Phase II)",
+                "allocation": "₹70.92 Crore",
+                "description": "FHCs and Janakeeya health centres"
+            },
+            {
+                "id": 337,
+                "project_name": "Hospital Waste Management (Medical Colleges)",
+                "allocation": "₹22 Crore",
+                "description": "Waste management systems"
+            },
+            {
+                "id": 338,
+                "project_name": "Hospital Waste Management (Health Services)",
+                "allocation": "₹3.10 Crore",
+                "description": "DHS waste management"
+            },
+            {
+                "id": 339,
+                "project_name": "Medical/Paramedical Hostels",
+                "allocation": "₹10 Crore",
+                "description": "Construction and renovation"
+            },
+            {
+                "id": 340,
+                "project_name": "Cath Lab and ICU (DHS)",
+                "allocation": "₹7 Crore",
+                "description": "Setting up in DHS hospitals"
+            },
+            {
+                "id": 341,
+                "project_name": "Coastal/Tribal Area Hospitals",
+                "allocation": "₹13 Crore",
+                "description": "Developing facilities in isolated areas"
+            },
+            {
+                "id": 342,
+                "project_name": "Medical Colleges (DME Allocation)",
+                "allocation": "₹259.93 Crore",
+                "description": "Total allocation"
+            },
+            {
+                "id": 343,
+                "project_name": "New Medical Colleges (Idukki, Konni, Wayanad, Kasaragod)",
+                "allocation": "₹57.09 Crore",
+                "description": "Strengthening new colleges"
+            },
+            {
+                "id": 344,
+                "project_name": "International Research Institute of Ayurveda",
+                "allocation": "₹2.50 Crore",
+                "description": "Research & Development"
+            },
+            {
+                "id": 345,
+                "project_name": "Govt Ayurveda College (Idukki)",
+                "allocation": "₹1.5 Crore",
+                "description": "New college at Udumbanchola"
+            },
+            {
+                "id": 346,
+                "project_name": "Pain-Palliative-Elderly Health Care Centres",
+                "allocation": "₹5 Crore",
+                "description": "Care centres"
+            },
+            {
+                "id": 347,
+                "project_name": "Communicable Diseases Control",
+                "allocation": "₹12 Crore",
+                "description": "Containment measures"
+            },
+            {
+                "id": 348,
+                "project_name": "Non-Communicable Diseases Prevention",
+                "allocation": "₹13 Crore",
+                "description": "Prevention programs"
+            },
+            {
+                "id": 349,
+                "project_name": "Women and Children Hospitals",
+                "allocation": "₹9 Crore",
+                "description": "Various activities"
+            },
+            {
+                "id": 350,
+                "project_name": "Kanivu (108 Ambulance)",
+                "allocation": "₹38 Crore",
+                "description": "Emergency Medical Services"
+            },
+            {
+                "id": 351,
+                "project_name": "Public Health Laboratories",
+                "allocation": "₹6 Crore",
+                "description": "Various activities"
+            },
+            {
+                "id": 352,
+                "project_name": "National Health Mission (State Share)",
+                "allocation": "₹465.20 Crore",
+                "description": "40% State share"
+            },
+            {
+                "id": 353,
+                "project_name": "PM-ABHIM",
+                "allocation": "₹25 Crore",
+                "description": "Infrastructure mission activities"
+            },
+            {
+                "id": 354,
+                "project_name": "Mritasanjeevani",
+                "allocation": "₹2.50 Crore",
+                "description": "Organ transplantation scheme"
+            },
+            {
+                "id": 355,
+                "project_name": "Grey Water Management",
+                "allocation": "₹11.56 Crore",
+                "description": "Water quality monitoring"
+            },
+            {
+                "id": 356,
+                "project_name": "Water Supply Efficiency Improvement",
+                "allocation": "₹58 Crore",
+                "description": "Innovation and modern management"
+            },
+            {
+                "id": 357,
+                "project_name": "Underground Water Level Improvement",
+                "allocation": "₹21 Crore",
+                "description": "Sustainability of water resources"
+            },
+            {
+                "id": 358,
+                "project_name": "Waste Water Management (KWA)",
+                "allocation": "₹31 Crore",
+                "description": "KWA programmes"
+            },
+            {
+                "id": 359,
+                "project_name": "Jalanidhi Phase II",
+                "allocation": "₹32.35 Crore",
+                "description": "Completion and support"
+            },
+            {
+                "id": 360,
+                "project_name": "Rural Water Supply (NABARD RIDF)",
+                "allocation": "₹70 Crore",
+                "description": "Rural sewage and water projects"
+            },
+            {
+                "id": 361,
+                "project_name": "New Water Supply Projects",
+                "allocation": "₹24 Crore",
+                "description": "For areas with insufficient service"
+            },
+            {
+                "id": 362,
+                "project_name": "Pipeline Replacement & Pump Revival",
+                "allocation": "₹48 Crore",
+                "description": "Maintenance of distribution system"
+            },
+            {
+                "id": 363,
+                "project_name": "Rain Water Harvesting",
+                "allocation": "₹12 Crore",
+                "description": "Ground water recharging"
+            },
+            {
+                "id": 364,
+                "project_name": "Housing Subsidy (Non-LIFE)",
+                "allocation": "₹33.19 Crore",
+                "description": "For EWS/LIG not under LIFE"
+            },
+            {
+                "id": 365,
+                "project_name": "MN Lakshamveedu Scheme",
+                "allocation": "₹10 Crore",
+                "description": "Renovation of old houses"
+            },
+            {
+                "id": 366,
+                "project_name": "Thanteyidam",
+                "allocation": "₹2 Crore",
+                "description": "Women's housing support"
+            },
+            {
+                "id": 367,
+                "project_name": "Kerala Nirmiti Kendra",
+                "allocation": "₹13.25 Crore",
+                "description": "Technology Hub strengthening"
+            },
+            {
+                "id": 368,
+                "project_name": "Grihasree Housing Scheme",
+                "allocation": "₹24 Crore",
+                "description": "Housing scheme"
+            },
+            {
+                "id": 369,
+                "project_name": "Labour & Labour Welfare",
+                "allocation": "₹950.89 Crore",
+                "description": "Total sector allocation"
+            },
+            {
+                "id": 370,
+                "project_name": "Traditional Labourers Assistance",
+                "allocation": "₹107 Crore",
+                "description": "₹1250/month for beedi, khadi, coir etc."
+            },
+            {
+                "id": 371,
+                "project_name": "Migrant Labourers Welfare",
+                "allocation": "₹5.75 Crore",
+                "description": "Upliftment schemes"
+            },
+            {
+                "id": 372,
+                "project_name": "KASE (Skill Development)",
+                "allocation": "₹36 Crore",
+                "description": "Skill development activities"
+            },
+            {
+                "id": 373,
+                "project_name": "ITI Modernization",
+                "allocation": "₹44.60 Crore",
+                "description": "Upgradation and new ITIs"
+            },
+            {
+                "id": 374,
+                "project_name": "Sharanya Scheme",
+                "allocation": "₹17.50 Crore",
+                "description": "Self-employment for women"
+            },
+            {
+                "id": 375,
+                "project_name": "Kaivalya Scheme",
+                "allocation": "₹7 Crore",
+                "description": "Employment for differently abled"
+            },
+            {
+                "id": 376,
+                "project_name": "NORKA Rehabilitation",
+                "allocation": "₹65 Crore",
+                "description": "For reverse migrants (NDPREM)"
+            },
+            {
+                "id": 377,
+                "project_name": "NORKA Welfare Board",
+                "allocation": "₹18 Crore",
+                "description": "Functioning grant"
+            },
+            {
+                "id": 378,
+                "project_name": "Pravasi Dividend Scheme",
+                "allocation": "₹6.50 Crore",
+                "description": "Welfare board scheme"
+            },
+            {
+                "id": 379,
+                "project_name": "Loka Kerala Sabha",
+                "allocation": "₹7.30 Crore",
+                "description": "Event and secretariat"
+            },
+            {
+                "id": 380,
+                "project_name": "Global Kerala Cultural Festival",
+                "allocation": "₹1 Crore",
+                "description": "Cultural exchange"
+            },
+            {
+                "id": 381,
+                "project_name": "Welfare of Differently Abled",
+                "allocation": "₹209.25 Crore",
+                "description": "Total allocation"
+            },
+            {
+                "id": 382,
+                "project_name": "Anpu Veedu",
+                "allocation": "₹3 Crore",
+                "description": "Care homes for intellectually challenged"
+            },
+            {
+                "id": 383,
+                "project_name": "Assistance to Institutions (Disabled)",
+                "allocation": "₹64 Crore",
+                "description": "For rehabilitation and training"
+            },
+            {
+                "id": 384,
+                "project_name": "NIPMR",
+                "allocation": "₹22.50 Crore",
+                "description": "National Institute of Physical Medicine and Rehabilitation"
+            },
+            {
+                "id": 385,
+                "project_name": "NISH",
+                "allocation": "₹27.50 Crore",
+                "description": "National Institute of Speech and Hearing"
+            },
+            {
+                "id": 386,
+                "project_name": "Child Development Centre",
+                "allocation": "₹4 Crore",
+                "description": "Grant"
+            },
+            {
+                "id": 387,
+                "project_name": "ICCONS",
+                "allocation": "₹10 Crore",
+                "description": "Grant"
+            },
+            {
+                "id": 388,
+                "project_name": "IMHANS",
+                "allocation": "₹5 Crore",
+                "description": "Grant"
+            },
+            {
+                "id": 389,
+                "project_name": "Sayam Prapha Homes",
+                "allocation": "₹14 Crore",
+                "description": "Day care for elderly"
+            },
+            {
+                "id": 390,
+                "project_name": "Vayojana Commission",
+                "allocation": "₹50 Lakh",
+                "description": "Commission activities"
+            },
+            {
+                "id": 391,
+                "project_name": "Anuyathra",
+                "allocation": "₹5 Lakh",
+                "description": "Charity group support"
+            },
+            {
+                "id": 392,
+                "project_name": "Mazhavillu (Transgender)",
+                "allocation": "₹6 Crore",
+                "description": "Welfare scheme"
+            },
+            {
+                "id": 393,
+                "project_name": "Drug Demand Reduction Plan",
+                "allocation": "₹2 Crore",
+                "description": "De-addiction and rehab"
+            },
+            {
+                "id": 394,
+                "project_name": "Anganwadi Nutrition (Milk/Egg)",
+                "allocation": "₹80.90 Crore",
+                "description": "Supplementary nutrition"
+            },
+            {
+                "id": 395,
+                "project_name": "Creches (Maternity Benefit Act)",
+                "allocation": "₹8 Crore",
+                "description": "Establishment"
+            },
+            {
+                "id": 396,
+                "project_name": "Nirbhaya & Protection Homes",
+                "allocation": "₹13 Crore",
+                "description": "Shelter and legal aid"
+            },
+            {
+                "id": 397,
+                "project_name": "Jails Modernization",
+                "allocation": "₹47 Crore",
+                "description": "Infrastructure and surveillance"
+            },
+            {
+                "id": 398,
+                "project_name": "Urban Development (Total)",
+                "allocation": "₹1,094.58 Crore",
+                "description": "State plan allocation"
+            },
+            {
+                "id": 399,
+                "project_name": "Ayyankali Urban Employment Guarantee Scheme",
+                "allocation": "₹200 Crore",
+                "description": "Urban job scheme"
+            },
+            {
+                "id": 400,
+                "project_name": "Solid Waste Management (Total)",
+                "allocation": "₹537.48 Crore",
+                "description": "Urban and Rural projects"
+            },
+            {
+                "id": 401,
+                "project_name": "Urban Waste Management Projects",
+                "allocation": "₹326.48 Crore",
+                "description": "Various agencies"
+            },
+            {
+                "id": 402,
+                "project_name": "Suchitwa Keralam (Urban)",
+                "allocation": "₹20 Crore",
+                "description": "Mission allocation"
+            },
+            {
+                "id": 403,
+                "project_name": "Swach Bharat Mission (Urban)",
+                "allocation": "₹25.62 Crore",
+                "description": "State share"
+            },
+            {
+                "id": 404,
+                "project_name": "Cluster-Level Waste Management (Urban)",
+                "allocation": "₹2 Crore",
+                "description": "PPP model initial activities"
+            },
+            {
+                "id": 405,
+                "project_name": "Kerala Solid Waste Management Project (EAP)",
+                "allocation": "₹240 Crore",
+                "description": "World Bank aided"
+            },
+            {
+                "id": 406,
+                "project_name": "ULB Grant (KSWMP)",
+                "allocation": "₹160 Crore",
+                "description": "Share for Urban Local Bodies"
+            },
+            {
+                "id": 407,
+                "project_name": "Waste to Energy Plant (Palakkad)",
+                "allocation": "₹29.11 Crore",
+                "description": "Viability gap funding"
+            },
+            {
+                "id": 408,
+                "project_name": "Tvpm Solid Waste Management (CITIIS 2.0)",
+                "allocation": "₹9.75 Crore",
+                "description": "State share"
+            },
+            {
+                "id": 409,
+                "project_name": "Rural Waste Management Projects",
+                "allocation": "₹51 Crore",
+                "description": "Suchitwa Mission & SBM Grameen"
+            },
+            {
+                "id": 410,
+                "project_name": "AMRUT 2.0",
+                "allocation": "₹299.62 Crore",
+                "description": "State share"
+            },
+            {
+                "id": 411,
+                "project_name": "Spatial Planning",
+                "allocation": "₹6.17 Crore",
+                "description": "LSGD activities"
+            },
+            {
+                "id": 412,
+                "project_name": "Development Authorities (TRIDA/GCDA)",
+                "allocation": "₹12 Crore",
+                "description": "Vattiyoorkavu & She-Hostel"
+            },
+            {
+                "id": 413,
+                "project_name": "Scheduled Castes Sub Plan (Total)",
+                "allocation": "₹3,507 Crore",
+                "description": "Total allocation"
+            },
+            {
+                "id": 414,
+                "project_name": "SC Education Sector",
+                "allocation": "₹677.11 Crore",
+                "description": "Various schemes"
+            },
+            {
+                "id": 415,
+                "project_name": "Palakkad Medical College",
+                "allocation": "₹20 Crore",
+                "description": "Construction completion"
+            },
+            {
+                "id": 416,
+                "project_name": "Model Residential Schools (SC) Running",
+                "allocation": "₹22 Crore",
+                "description": "Operations"
+            },
+            {
+                "id": 417,
+                "project_name": "Post-Matric Scholarships (SC)",
+                "allocation": "₹370 Crore",
+                "description": "Higher education support"
+            },
+            {
+                "id": 418,
+                "project_name": "SC ITI Modernization",
+                "allocation": "₹15 Crore",
+                "description": "44 ITIs"
+            },
+            {
+                "id": 419,
+                "project_name": "SC Housing & Land (Total)",
+                "allocation": "₹746 Crore",
+                "description": "Housing and land purchase"
+            },
+            {
+                "id": 420,
+                "project_name": "LIFE Mission (SC Housing)",
+                "allocation": "₹300 Crore",
+                "description": "House construction"
+            },
+            {
+                "id": 421,
+                "project_name": "SAFE & Padanamuri (SC)",
+                "allocation": "₹254 Crore",
+                "description": "House renovation and study rooms"
+            },
+            {
+                "id": 422,
+                "project_name": "Land for Landless (SC)",
+                "allocation": "₹177 Crore",
+                "description": "Land purchase"
+            },
+            {
+                "id": 423,
+                "project_name": "SC Employment & Skilling (Total)",
+                "allocation": "₹109.41 Crore",
+                "description": "Skill and job schemes"
+            },
+            {
+                "id": 424,
+                "project_name": "Assistance for Employment/Skilling (SC)",
+                "allocation": "₹75 Crore",
+                "description": "Direct assistance"
+            },
+            {
+                "id": 425,
+                "project_name": "SC Entrepreneurship Development",
+                "allocation": "₹10 Crore",
+                "description": "Existing business support"
+            },
+            {
+                "id": 426,
+                "project_name": "K-BIZ SC Entrepreneurship Mission",
+                "allocation": "₹5 Crore",
+                "description": "New mission"
+            },
+            {
+                "id": 427,
+                "project_name": "Vanitha Samrudhi (SC Women)",
+                "allocation": "₹10 Crore",
+                "description": "With Kudumbashree"
+            },
+            {
+                "id": 428,
+                "project_name": "SC Co-operative Societies Revival",
+                "allocation": "₹1 Crore",
+                "description": "Revival package"
+            },
+            {
+                "id": 429,
+                "project_name": "SC Nagar Infrastructure",
+                "allocation": "₹138 Crore",
+                "description": "Roads, water, electricity"
+            },
+            {
+                "id": 430,
+                "project_name": "Dr. Ambedkar Village Development",
+                "allocation": "₹65 Crore",
+                "description": "Comprehensive colony development"
+            },
+            {
+                "id": 431,
+                "project_name": "SC Corpus Fund",
+                "allocation": "₹53 Crore",
+                "description": "Critical gap filling"
+            },
+            {
+                "id": 432,
+                "project_name": "Aishwarya Gramam (SC)",
+                "allocation": "₹20 Crore",
+                "description": "Small settlement development"
+            },
+            {
+                "id": 433,
+                "project_name": "Vulnerable Communities (Vedar/Nayadi etc.)",
+                "allocation": "₹52 Crore",
+                "description": "Special intervention"
+            },
+            {
+                "id": 434,
+                "project_name": "SC Health Care Scheme",
+                "allocation": "₹70 Crore",
+                "description": "Medical assistance"
+            },
+            {
+                "id": 435,
+                "project_name": "SC Marriage Assistance",
+                "allocation": "₹90 Crore",
+                "description": "For girls"
+            },
+            {
+                "id": 436,
+                "project_name": "SC/ST Development Corp (State Share)",
+                "allocation": "₹10 Crore",
+                "description": "Budgetary support"
+            },
+            {
+                "id": 437,
+                "project_name": "Scheduled Tribes Sub Plan (Total)",
+                "allocation": "₹1,012 Crore",
+                "description": "Total allocation"
+            },
+            {
+                "id": 438,
+                "project_name": "LIFE Mission (ST Housing)",
+                "allocation": "₹140 Crore",
+                "description": "House construction"
+            },
+            {
+                "id": 439,
+                "project_name": "SAFE Scheme (ST)",
+                "allocation": "₹80 Crore",
+                "description": "Renovation and maintenance"
+            },
+            {
+                "id": 440,
+                "project_name": "Smart Study Rooms (ST)",
+                "allocation": "₹5 Crore",
+                "description": "Part of SAFE"
+            },
+            {
+                "id": 441,
+                "project_name": "Tribal Resettlement Mission (Land)",
+                "allocation": "₹42 Crore",
+                "description": "Rehabilitation of landless"
+            },
+            {
+                "id": 442,
+                "project_name": "ST Land Registration Assistance",
+                "allocation": "₹1 Crore",
+                "description": "Legal and financial support"
+            },
+            {
+                "id": 443,
+                "project_name": "ST Education Promotion",
+                "allocation": "₹163.06 Crore",
+                "description": "Various schemes"
+            },
+            {
+                "id": 444,
+                "project_name": "ST Scholarships (Pre/Post Matric)",
+                "allocation": "₹13 Crore",
+                "description": "Scholarships"
+            },
+            {
+                "id": 445,
+                "project_name": "ST School/Hostel Buildings",
+                "allocation": "₹6 Crore",
+                "description": "Construction"
+            },
+            {
+                "id": 446,
+                "project_name": "ST Foreign Scholarship",
+                "allocation": "₹6 Crore",
+                "description": "Overseas studies"
+            },
+            {
+                "id": 447,
+                "project_name": "ST Skilling & Employment",
+                "allocation": "₹91 Crore",
+                "description": "Job training"
+            },
+            {
+                "id": 448,
+                "project_name": "Agriculture Income Initiative (ST)",
+                "allocation": "₹12 Crore",
+                "description": "Millet village, Namuth Vellame etc."
+            },
+            {
+                "id": 449,
+                "project_name": "Kerala Tribal Plus",
+                "allocation": "₹49.82 Crore",
+                "description": "Additional 100 days employment"
+            },
+            {
+                "id": 450,
+                "project_name": "ST Critical Gap Filling (Unnathis)",
+                "allocation": "₹13 Crore",
+                "description": "Basic amenities"
+            },
+            {
+                "id": 451,
+                "project_name": "ST Livelihood Mission",
+                "allocation": "₹11 Crore",
+                "description": "Livelihood projects"
+            },
+            {
+                "id": 452,
+                "project_name": "Multipurpose Women Hostel (ST)",
+                "allocation": "₹2 Crore",
+                "description": "Hostels in cities"
+            },
+            {
+                "id": 453,
+                "project_name": "Ambedkar Settlement Development (ST)",
+                "allocation": "₹42 Crore",
+                "description": "Hamlet development"
+            },
+            {
+                "id": 454,
+                "project_name": "ST Corpus Fund",
+                "allocation": "₹52 Crore",
+                "description": "Critical gap filling"
+            },
+            {
+                "id": 455,
+                "project_name": "Residential/Ashram Schools (Running)",
+                "allocation": "₹60 Crore",
+                "description": "Running costs"
+            },
+            {
+                "id": 456,
+                "project_name": "ST Marriage Assistance",
+                "allocation": "₹6 Crore",
+                "description": "For girls"
+            },
+            {
+                "id": 457,
+                "project_name": "Sickle Cell Anemia Assistance",
+                "allocation": "₹4 Crore",
+                "description": "Patient support"
+            },
+            {
+                "id": 458,
+                "project_name": "Janani-Janma Raksha",
+                "allocation": "₹20 Crore",
+                "description": "Nutritional support for mothers/kids"
+            },
+            {
+                "id": 459,
+                "project_name": "Tribal Food Security",
+                "allocation": "₹22 Crore",
+                "description": "Food grains distribution"
+            },
+            {
+                "id": 460,
+                "project_name": "Tribal Relief Fund",
+                "allocation": "₹40 Crore",
+                "description": "Comprehensive health care"
+            },
+            {
+                "id": 461,
+                "project_name": "Tribal Promoters/Teachers Honorarium",
+                "allocation": "₹30.68 Crore",
+                "description": "Wages for staff"
+            },
+            {
+                "id": 462,
+                "project_name": "OBC Welfare (Total)",
+                "allocation": "₹200.94 Crore",
+                "description": "Total allocation"
+            },
+            {
+                "id": 463,
+                "project_name": "OBC Educational Scholarships",
+                "allocation": "₹130.78 Crore",
+                "description": "Various scholarships"
+            },
+            {
+                "id": 464,
+                "project_name": "PM YASASVI Scholarship",
+                "allocation": "₹28 Crore",
+                "description": "Pre/Post matric"
+            },
+            {
+                "id": 465,
+                "project_name": "Kedavilakku Scholarship",
+                "allocation": "₹15 Crore",
+                "description": "Pre-matric"
+            },
+            {
+                "id": 466,
+                "project_name": "OBC Overseas Scholarship",
+                "allocation": "₹2.50 Crore",
+                "description": "Foreign studies"
+            },
+            {
+                "id": 467,
+                "project_name": "OEC Post Matric Support",
+                "allocation": "₹80 Crore",
+                "description": "Educational assistance"
+            },
+            {
+                "id": 468,
+                "project_name": "OBC Skill & Entrepreneurship",
+                "allocation": "₹25 Crore",
+                "description": "Job training"
+            },
+            {
+                "id": 469,
+                "project_name": "OBC Widows Self-Employment",
+                "allocation": "₹3 Crore",
+                "description": "Livelihood support"
+            },
+            {
+                "id": 470,
+                "project_name": "Livelihood Support (Converted Christians)",
+                "allocation": "₹10 Crore",
+                "description": "New scheme"
+            },
+            {
+                "id": 471,
+                "project_name": "Corp. for Converted Christians (Share Capital)",
+                "allocation": "₹10 Crore",
+                "description": "Capital infusion"
+            },
+            {
+                "id": 472,
+                "project_name": "KSBCDC Share Capital",
+                "allocation": "₹20 Crore",
+                "description": "Backward Classes Corp"
+            },
+            {
+                "id": 473,
+                "project_name": "Pottery Corp Share Capital",
+                "allocation": "₹2 Crore",
+                "description": "Capital infusion"
+            },
+            {
+                "id": 474,
+                "project_name": "Minority Welfare (Total)",
+                "allocation": "₹94.69 Crore",
+                "description": "Total allocation"
+            },
+            {
+                "id": 475,
+                "project_name": "CM's Research Fellowship (Minorities)",
+                "allocation": "₹11 Crore",
+                "description": "Research support"
+            },
+            {
+                "id": 476,
+                "project_name": "Overseas Scholarship for Minorities",
+                "allocation": "₹4 Crore",
+                "description": "New scheme"
+            },
+            {
+                "id": 477,
+                "project_name": "Prof. Joseph Mundassery Scholarship",
+                "allocation": "₹8 Crore",
+                "description": "Merit award"
+            },
+            {
+                "id": 478,
+                "project_name": "Imbichi Bawa Housing Scheme",
+                "allocation": "₹5 Crore",
+                "description": "Housing for minority women"
+            },
+            {
+                "id": 479,
+                "project_name": "Minority Widows Self-Employment",
+                "allocation": "₹5 Crore",
+                "description": "Livelihood support"
+            },
+            {
+                "id": 480,
+                "project_name": "PMJVK (State Share)",
+                "allocation": "₹16 Crore",
+                "description": "Jan Vikas Karyakram"
+            },
+            {
+                "id": 481,
+                "project_name": "KSMDFC Share Capital",
+                "allocation": "₹12 Crore",
+                "description": "Minority Finance Corp"
+            },
+            {
+                "id": 482,
+                "project_name": "Forward Communities Welfare Corp",
+                "allocation": "₹39.77 Crore",
+                "description": "Samunnathi allocation"
+            },
+            {
+                "id": 483,
+                "project_name": "State Planning Board Modernization",
+                "allocation": "₹2.27 Crore",
+                "description": "Strengthening"
+            },
+            {
+                "id": 484,
+                "project_name": "District Planning Committee Building",
+                "allocation": "₹13.40 Crore",
+                "description": "Construction"
+            },
+            {
+                "id": 485,
+                "project_name": "Plan Space / Monitoring",
+                "allocation": "₹9.15 Crore",
+                "description": "Surveys and studies"
+            },
+            {
+                "id": 486,
+                "project_name": "Police Department Schemes",
+                "allocation": "₹185.80 Crore",
+                "description": "Total allocation"
+            },
+            {
+                "id": 487,
+                "project_name": "Digital Survey (Ente Bhoomi)",
+                "allocation": "₹26.80 Crore",
+                "description": "Survey department activities"
+            },
+            {
+                "id": 488,
+                "project_name": "Registration Department Modernization",
+                "allocation": "₹32 Crore",
+                "description": "Digitization and infrastructure"
+            },
+            {
+                "id": 489,
+                "project_name": "Revenue Department",
+                "allocation": "₹95.85 Crore",
+                "description": "Smart village offices etc."
+            },
+            {
+                "id": 490,
+                "project_name": "Food & Civil Supplies (Total)",
+                "allocation": "₹2,333.64 Crore",
+                "description": "Including market intervention"
+            },
+            {
+                "id": 491,
+                "project_name": "Consumerfed Market Intervention",
+                "allocation": "₹75 Crore",
+                "description": "Price control"
+            },
+            {
+                "id": 492,
+                "project_name": "Supplyco Modernization",
+                "allocation": "₹17.80 Crore",
+                "description": "Outlet upgrades and ERP"
+            },
+            {
+                "id": 493,
+                "project_name": "Civil Supplies Department Schemes",
+                "allocation": "₹95.55 Crore",
+                "description": "Departmental activities"
+            },
+            {
+                "id": 494,
+                "project_name": "K-DISC",
+                "allocation": "₹60 Crore",
+                "description": "Innovation and knowledge mission"
+            },
+            {
+                "id": 495,
+                "project_name": "Institute of Parliamentary Affairs Building",
+                "allocation": "₹5 Crore",
+                "description": "Construction"
+            },
+            {
+                "id": 496,
+                "project_name": "Finance Department Modernization",
+                "allocation": "₹5.40 Crore",
+                "description": "IT and training"
+            },
+            {
+                "id": 497,
+                "project_name": "GST Department",
+                "allocation": "₹26.15 Crore",
+                "description": "Department activities"
+            },
+            {
+                "id": 498,
+                "project_name": "GIFT (Gulati Institute)",
+                "allocation": "₹6.50 Crore",
+                "description": "Includes hostel construction"
+            },
+            {
+                "id": 499,
+                "project_name": "Economics & Statistics Modernization",
+                "allocation": "₹8.02 Crore",
+                "description": "Department activities"
+            },
+            {
+                "id": 500,
+                "project_name": "Periodic Labour Force Survey (State)",
+                "allocation": "₹45 Lakh",
+                "description": "Data collection"
+            },
+            {
+                "id": 501,
+                "project_name": "Unorganized Sector Survey",
+                "allocation": "₹1 Crore",
+                "description": "Data collection"
+            },
+            {
+                "id": 502,
+                "project_name": "Excise Department (Vimukthi)",
+                "allocation": "₹23.31 Crore",
+                "description": "Anti-drug mission"
+            },
+            {
+                "id": 503,
+                "project_name": "Judiciary Modernization",
+                "allocation": "₹24.65 Crore",
+                "description": "Court infrastructure"
+            },
+            {
+                "id": 504,
+                "project_name": "PWD Buildings",
+                "allocation": "₹76.41 Crore",
+                "description": "Public offices and MLA flats"
+            },
+            {
+                "id": 505,
+                "project_name": "Legislature Secretariat",
+                "allocation": "₹1.93 Crore",
+                "description": "Modernization"
+            },
+            {
+                "id": 506,
+                "project_name": "Kerala Administrative Tribunal (Kannur Bench)",
+                "allocation": "₹28.01 Lakh",
+                "description": "New bench"
+            },
+            {
+                "id": 507,
+                "project_name": "Nava Kerala Sadass Projects",
+                "allocation": "₹210 Crore",
+                "description": "Infrastructure in constituencies"
+            },
+            {
+                "id": 508,
+                "project_name": "Kerala Public Service Commission",
+                "allocation": "₹9.65 Crore",
+                "description": "Infrastructure"
+            },
+            {
+                "id": 509,
+                "project_name": "Legal Metrology",
+                "allocation": "₹4.10 Crore",
+                "description": "Department allocation"
+            },
+            {
+                "id": 510,
+                "project_name": "Treasury Department",
+                "allocation": "₹23.75 Crore",
+                "description": "Modernization"
+            },
+            {
+                "id": 511,
+                "project_name": "KFC Senior Citizens Housing Loan Subsidy",
+                "allocation": "₹3 Crore",
+                "description": "Interest subsidy"
+            },
+            {
+                "id": 512,
+                "project_name": "State Audit Department",
+                "allocation": "₹2.42 Crore",
+                "description": "Modernization"
+            }
+        ]
+    }
+}
