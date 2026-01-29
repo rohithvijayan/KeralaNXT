@@ -39,8 +39,8 @@ export const shareElementAsImage = async (elementId, options = {}) => {
                     const elementsToHide = clonedElement.querySelectorAll('button, select, label, .compare-btn-mobile, .card-share-btn, .hero-share-btn, .share-comparison-btn, .nav-actions, .primary-actions, .budget-breadcrumb');
                     elementsToHide.forEach(el => el.style.display = 'none');
 
-                    // Special handling for Budget Landing Share (9:16 Optimization)
-                    if (elementId === 'budget-share-card') {
+                    // Special handling for Budget Landing & Details Share (9:16 Optimization)
+                    if (elementId === 'budget-share-card' || elementId === 'budget-details-share') {
                         clonedElement.style.padding = '60px 40px';
                         clonedElement.style.minHeight = '1600px'; // Force vertical Story ratio
                         clonedElement.style.display = 'flex';
@@ -49,7 +49,26 @@ export const shareElementAsImage = async (elementId, options = {}) => {
                         clonedElement.style.background = 'linear-gradient(180deg, #06120f 0%, #0c1a16 100%)';
                         clonedElement.style.color = '#ffffff';
 
-                        // Ensure stats are horizontally stacked in the share image
+                        // Hide unnecessary sections for Budget Details share
+                        const sectionsToHide = clonedElement.querySelectorAll('.compare-cta-section, .kpi-section');
+                        sectionsToHide.forEach(el => el.style.display = 'none');
+
+                        // Ensure chart title is visible and white in share image
+                        const vizCard = clonedElement.querySelector('.viz-card');
+                        if (vizCard) {
+                            vizCard.style.background = 'transparent';
+                            vizCard.style.border = 'none';
+                            vizCard.style.boxShadow = 'none';
+
+                            const chartHeader = clonedElement.querySelector('.revenue-viz-section .section-header h2');
+                            if (chartHeader) {
+                                chartHeader.style.color = '#ffffff';
+                                chartHeader.style.textAlign = 'center';
+                                chartHeader.style.marginBottom = '20px';
+                            }
+                        }
+
+                        // Ensure stats are horizontally stacked in the share image (for Landing Page)
                         const statsGrid = clonedElement.querySelector('.stats-grid');
                         if (statsGrid) {
                             statsGrid.style.display = 'grid';

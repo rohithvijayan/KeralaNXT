@@ -167,15 +167,6 @@ function BudgetProjectsPage() {
                                     <p className="card-description">
                                         {project.description || project.purpose || 'No description available for this initiative.'}
                                     </p>
-                                    <div className="card-footer">
-                                        <button className="card-action">
-                                            <span>Details</span>
-                                            <span className="material-symbols-outlined">arrow_forward</span>
-                                        </button>
-                                        <button className="card-share" aria-label="Share">
-                                            <span className="material-symbols-outlined">share</span>
-                                        </button>
-                                    </div>
                                 </motion.article>
                             ))}
                         </AnimatePresence>

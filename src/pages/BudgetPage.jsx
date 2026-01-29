@@ -16,6 +16,7 @@ import {
     DEFAULT_YEAR,
     getDashboardStats
 } from '../data/budgetLoader'
+import { shareElementAsImage } from '../utils/shareUtils'
 import BudgetRevenueChart from '../components/BudgetRevenueChart'
 import './BudgetPage.css'
 
@@ -50,6 +51,15 @@ const BudgetPage = () => {
         }, 300)
     }, [selectedYear])
 
+    const handleShare = () => {
+        shareElementAsImage('budget-details-share', {
+            title: `Kerala Budget ${selectedYear} Highlights`,
+            text: `Check out the Kerala State Budget highlights for ${selectedYear} on KeralaNXT!`,
+            fileName: `kerala-budget-details-${selectedYear}.png`,
+            backgroundColor: '#0c1613'
+        });
+    };
+
     if (loading || !stats) {
         return <div className="loading-container">Loading Budget Details...</div>
     }
@@ -68,71 +78,73 @@ const BudgetPage = () => {
                 <span className="current">Details {selectedYear}</span>
             </nav>
 
-            <section className="budget-hero">
-                <div className="hero-badge">
-                    <span className="live-dot" aria-hidden="true"></span>
-                    <span>FY {selectedYear}</span>
-                </div>
-                <h1 className="hero-amount">{formatAmount(stats.totalBudget)}</h1>
-                <p className="hero-label">Total State Budget</p>
-
-                <div className="header-actions-inline">
-                    <button className="hero-share-btn">
-                        <span className="material-symbols-outlined">share</span>
-                    </button>
-                </div>
-            </section>
-
-            <section className="compare-cta-section">
-                <button className="compare-cta-btn" onClick={() => navigate('/budget-comparison')}>
-                    <div className="compare-cta-content">
-                        <span className="material-symbols-outlined">compare_arrows</span>
-                        <div>
-                            <h3>Compare Budget Years</h3>
-                            <p>Analyze spending differences between FY 2025-26 and 2026-27</p>
-                        </div>
+            <div id="budget-details-share">
+                <section className="budget-hero">
+                    <div className="hero-badge">
+                        <span className="live-dot" aria-hidden="true"></span>
+                        <span>FY {selectedYear}</span>
                     </div>
-                    <span className="material-symbols-outlined compare-arrow">arrow_forward</span>
-                </button>
-            </section>
+                    <h1 className="hero-amount">{formatAmount(stats.totalBudget)}</h1>
+                    <p className="hero-label">Total State Budget</p>
 
-            <section className="kpi-section">
-                <div className="kpi-scroll">
-                    <article className="kpi-card">
-                        <div className="kpi-icon"><span className="material-symbols-outlined">payments</span></div>
-                        <div className="kpi-content">
-                            <span className="kpi-value">{formatAmount(stats.totalBudget)}</span>
-                            <span className="kpi-label">Total Allocated</span>
+                    <div className="header-actions-inline">
+                        <button className="hero-share-btn" onClick={handleShare}>
+                            <span className="material-symbols-outlined">share</span>
+                        </button>
+                    </div>
+                </section>
+
+                <section className="compare-cta-section">
+                    <button className="compare-cta-btn" onClick={() => navigate('/budget-comparison')}>
+                        <div className="compare-cta-content">
+                            <span className="material-symbols-outlined">compare_arrows</span>
+                            <div>
+                                <h3>Compare Budget Years</h3>
+                                <p>Analyze spending differences between FY 2025-26 and 2026-27</p>
+                            </div>
                         </div>
-                    </article>
+                        <span className="material-symbols-outlined compare-arrow">arrow_forward</span>
+                    </button>
+                </section>
 
-                    <article className="kpi-card">
-                        <div className="kpi-icon"><span className="material-symbols-outlined">architecture</span></div>
-                        <div className="kpi-content">
-                            <span className="kpi-value">{formatAmount(stats.capitalExpenditure)}</span>
-                            <span className="kpi-label">Capital Exp. ({stats.capexPercent}%)</span>
-                        </div>
-                    </article>
+                <section className="kpi-section">
+                    <div className="kpi-scroll">
+                        <article className="kpi-card">
+                            <div className="kpi-icon"><span className="material-symbols-outlined">payments</span></div>
+                            <div className="kpi-content">
+                                <span className="kpi-value">{formatAmount(stats.totalBudget)}</span>
+                                <span className="kpi-label">Total Allocated</span>
+                            </div>
+                        </article>
 
-                    <article className="kpi-card">
-                        <div className="kpi-icon"><span className="material-symbols-outlined">sync_alt</span></div>
-                        <div className="kpi-content">
-                            <span className="kpi-value">{formatAmount(stats.revenueExpenditure)}</span>
-                            <span className="kpi-label">Revenue Exp. ({stats.revexPercent}%)</span>
-                        </div>
-                    </article>
+                        <article className="kpi-card">
+                            <div className="kpi-icon"><span className="material-symbols-outlined">architecture</span></div>
+                            <div className="kpi-content">
+                                <span className="kpi-value">{formatAmount(stats.capitalExpenditure)}</span>
+                                <span className="kpi-label">Capital Exp. ({stats.capexPercent}%)</span>
+                            </div>
+                        </article>
 
-                    <article className="kpi-card">
-                        <div className="kpi-icon"><span className="material-symbols-outlined">inventory_2</span></div>
-                        <div className="kpi-content">
-                            <span className="kpi-value">{stats.projectCount}</span>
-                            <span className="kpi-label">Active Projects</span>
-                        </div>
-                    </article>
-                </div>
-            </section>
+                        <article className="kpi-card">
+                            <div className="kpi-icon"><span className="material-symbols-outlined">sync_alt</span></div>
+                            <div className="kpi-content">
+                                <span className="kpi-value">{formatAmount(stats.revenueExpenditure)}</span>
+                                <span className="kpi-label">Revenue Exp. ({stats.revexPercent}%)</span>
+                            </div>
+                        </article>
 
-            <BudgetRevenueChart fiscalYear={selectedYear} />
+                        <article className="kpi-card">
+                            <div className="kpi-icon"><span className="material-symbols-outlined">inventory_2</span></div>
+                            <div className="kpi-content">
+                                <span className="kpi-value">{stats.projectCount}</span>
+                                <span className="kpi-label">Active Projects</span>
+                            </div>
+                        </article>
+                    </div>
+                </section>
+
+                <BudgetRevenueChart fiscalYear={selectedYear} />
+            </div>
 
             <section className="sector-section">
                 <div className="section-header">

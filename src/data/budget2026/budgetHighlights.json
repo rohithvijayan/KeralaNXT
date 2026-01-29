@@ -1,0 +1,267 @@
+{
+    "kerala_budget_2026_27_engagement_highlights": {
+        "title": "Kerala Budget 2026-27: Top 30 Highlights for the Common Man",
+        "description": "A curated list of high-impact schemes, welfare measures, and financial updates designed for maximum public interest.",
+        "total_items": 28,
+        "categories": [
+            {
+                "category_name": "🎓 Education & Youth",
+                "items": [
+                    {
+                        "id": "EDU_001",
+                        "headline": "Free Degree Education",
+                        "details": "Tuition fees waived for all students in Government and Aided Arts & Science Colleges.",
+                        "impact": "Major relief for parents of college-going students.",
+                        "allocation": "₹250 Crore",
+                        "source": "Budget Speech"
+                    },
+                    {
+                        "id": "EDU_002",
+                        "headline": "Mid-Day Meal Scheme",
+                        "details": "Continued support for nutritious meals in schools.",
+                        "impact": "Ensures food security for school children.",
+                        "allocation": "₹252 Crore",
+                        "source": ""
+                    },
+                    {
+                        "id": "EDU_003",
+                        "headline": "Scholarships for Marginalized (Unnathiyilekku)",
+                        "details": "Special financial aid for SC/ST/OEC students pursuing higher education.",
+                        "impact": "Support for students from disadvantaged backgrounds.",
+                        "source": "Budget Speech"
+                    }
+                ]
+            },
+            {
+                "category_name": "👵 Welfare & Social Security",
+                "items": [
+                    {
+                        "id": "SOC_001",
+                        "headline": "Social Security Pension",
+                        "details": "Massive allocation to ensure monthly pension payments for the elderly, widows, and disabled.",
+                        "impact": "Direct financial support to vulnerable citizens.",
+                        "allocation": "₹13,340 Crore",
+                        "source": ""
+                    },
+                    {
+                        "id": "SOC_002",
+                        "headline": "Elderly Care (Vayomithram Plus)",
+                        "details": "Revamped scheme providing home-based palliative care and medical aid for seniors living alone.",
+                        "impact": "Better health support for the aging population.",
+                        "allocation": "₹75 Crore",
+                        "source": "Budget Speech"
+                    },
+                    {
+                        "id": "SOC_003",
+                        "headline": "Gig Workers Welfare Fund",
+                        "details": "New social security fund for delivery partners (Swiggy, Zomato, etc.) and cab drivers.",
+                        "impact": "Accident insurance and medical benefits for platform workers.",
+                        "funding": "1% Cess on aggregator transactions",
+                        "source": "Budget Speech"
+                    },
+                    {
+                        "id": "SOC_004",
+                        "headline": "Kudumbashree Support",
+                        "details": "Funding for women's neighborhood groups and micro-enterprises.",
+                        "impact": "Empowerment and income generation for women.",
+                        "allocation": "₹270 Crore",
+                        "source": ""
+                    }
+                ]
+            },
+            {
+                "category_name": "🛒 Cost of Living & Essentials",
+                "items": [
+                    {
+                        "id": "LIV_001",
+                        "headline": "Market Intervention (Price Control)",
+                        "details": "Funds allocated to Supplyco to sell essential goods at subsidized rates.",
+                        "impact": "Helps control inflation and grocery bills.",
+                        "allocation": "₹250 Crore",
+                        "source": ""
+                    },
+                    {
+                        "id": "LIV_002",
+                        "headline": "Consumerfed Subsidy",
+                        "details": "Support for consumer cooperatives to provide affordable goods.",
+                        "impact": "Cheaper household items.",
+                        "allocation": "₹75 Crore",
+                        "source": ""
+                    },
+                    {
+                        "id": "LIV_003",
+                        "headline": "Housing for All (LIFE Mission)",
+                        "details": "State plan allocation to build homes for the homeless.",
+                        "impact": "Shelter for the poor.",
+                        "allocation": "₹1,494.05 Crore",
+                        "source": ""
+                    }
+                ]
+            },
+            {
+                "category_name": "🚜 Farmers & Agriculture",
+                "items": [
+                    {
+                        "id": "AGR_001",
+                        "headline": "Rubber Price Hike",
+                        "details": "Rubber support price increased to ₹200/kg; Price Stability Fund allocated.",
+                        "impact": "Higher income for rubber farmers.",
+                        "allocation": "₹600 Crore",
+                        "source": ""
+                    },
+                    {
+                        "id": "AGR_002",
+                        "headline": "Paddy Procurement",
+                        "details": "Funds to buy paddy from farmers at a support price.",
+                        "impact": "Guaranteed market for rice farmers.",
+                        "allocation": "₹606.38 Crore",
+                        "source": ""
+                    },
+                    {
+                        "id": "AGR_003",
+                        "headline": "Coconut Replanting Mission",
+                        "details": "Scheme to plant 1 crore new coconut seedlings.",
+                        "impact": "Revitalizing coconut farming.",
+                        "allocation": "₹120 Crore (Project total), ₹73 Cr (Plan)",
+                        "source": ""
+                    },
+                    {
+                        "id": "AGR_004",
+                        "headline": "Human-Wildlife Conflict Solution",
+                        "details": "Funds for electric fences, trenches, and compensation for wildlife attacks.",
+                        "impact": "Safety for farmers and forest-fringe residents.",
+                        "allocation": "₹72.40 Crore",
+                        "source": ""
+                    },
+                    {
+                        "id": "AGR_005",
+                        "headline": "Vegetable Development",
+                        "details": "Promotion of comprehensive vegetable farming.",
+                        "impact": "Access to fresh, local vegetables.",
+                        "allocation": "₹78.45 Crore",
+                        "source": ""
+                    }
+                ]
+            },
+            {
+                "category_name": "🏥 Health & Wellness",
+                "items": [
+                    {
+                        "id": "HLT_001",
+                        "headline": "Nalam Health Mission",
+                        "details": "Universal screening for lifestyle diseases (BP, Sugar, Cancer) for everyone above 30.",
+                        "impact": "Early detection and better public health.",
+                        "allocation": "₹100 Crore",
+                        "source": "Budget Speech"
+                    },
+                    {
+                        "id": "HLT_002",
+                        "headline": "Public Health Infrastructure",
+                        "details": "Allocation for medical assistance and public health services.",
+                        "impact": "Better hospital facilities.",
+                        "allocation": "₹2,150.19 Crore",
+                        "source": ""
+                    },
+                    {
+                        "id": "HLT_003",
+                        "headline": "Regional Cancer Centre Support",
+                        "details": "Continued upgrade of cancer care facilities.",
+                        "impact": "Advanced care for cancer patients.",
+                        "source": "Budget Speech"
+                    }
+                ]
+            },
+            {
+                "category_name": "🚌 Transport & Infrastructure",
+                "items": [
+                    {
+                        "id": "INF_001",
+                        "headline": "KSRTC Revival",
+                        "details": "Financial assistance to keep the state public transport running.",
+                        "impact": "Affordable travel for commuters.",
+                        "allocation": "₹1,059.70 Crore",
+                        "source": ""
+                    },
+                    {
+                        "id": "INF_002",
+                        "headline": "Better Roads",
+                        "details": "PWD road maintenance and upgrades using rubberized bitumen.",
+                        "impact": "Smoother, pothole-free rides.",
+                        "allocation": "₹1,500 Crore",
+                        "source": "Budget Speech"
+                    },
+                    {
+                        "id": "INF_003",
+                        "headline": "SilverLine Project",
+                        "details": "Funds for preliminary works and land acquisition liaison.",
+                        "impact": "Future high-speed rail connectivity.",
+                        "allocation": "₹50 Crore",
+                        "source": "Budget Speech"
+                    },
+                    {
+                        "id": "INF_004",
+                        "headline": "Vizhinjam Industrial Corridor",
+                        "details": "Development of industrial areas around the new port.",
+                        "impact": "Job creation and economic growth.",
+                        "allocation": "₹500 Crore",
+                        "source": "Budget Speech"
+                    }
+                ]
+            },
+            {
+                "category_name": "🕌 Culture & Pilgrimage",
+                "items": [
+                    {
+                        "id": "CUL_001",
+                        "headline": "Sabarimala Master Plan",
+                        "details": "Infrastructure improvements for the pilgrimage site.",
+                        "impact": "Better facilities for Ayyappa devotees.",
+                        "allocation": "₹27.6 Crore",
+                        "source": ""
+                    },
+                    {
+                        "id": "CUL_002",
+                        "headline": "Punargeham (Fishermen Rehab)",
+                        "details": "Housing and rehabilitation for fishermen living in danger zones.",
+                        "impact": "Safety for coastal communities.",
+                        "allocation": "₹60 Crore",
+                        "source": ""
+                    }
+                ]
+            },
+            {
+                "category_name": "💸 Taxes & Finance",
+                "items": [
+                    {
+                        "id": "TAX_001",
+                        "headline": "Liquor Cess",
+                        "details": "₹20 Social Security Cess on IMFL bottles costing above ₹500.",
+                        "impact": "Increase in liquor prices.",
+                        "source": "Budget Speech"
+                    },
+                    {
+                        "id": "TAX_002",
+                        "headline": "Green Tax on Old Vehicles",
+                        "details": "Higher tax on private vehicles older than 15 years.",
+                        "impact": "Encourages scraping old cars; costlier to keep vintage cars.",
+                        "source": "Budget Speech"
+                    },
+                    {
+                        "id": "TAX_003",
+                        "headline": "Land Tax Revision",
+                        "details": "Moderate increase in basic land tax rates.",
+                        "impact": "Slight increase in property ownership costs.",
+                        "source": "Budget Speech"
+                    },
+                    {
+                        "id": "TAX_004",
+                        "headline": "Tax Amnesty Scheme",
+                        "details": "One-time settlement for old VAT/Sales Tax arrears.",
+                        "impact": "Chance for businesses to clear old dues without penalty.",
+                        "source": "Budget Speech"
+                    }
+                ]
+            }
+        ]
+    }
+}
