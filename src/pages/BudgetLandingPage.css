@@ -62,6 +62,13 @@
     transition: all 0.3s ease;
 }
 
+@media (max-width: 640px) {
+    .pill-btn {
+        padding: 0.4rem 0.8rem;
+        font-size: 0.75rem;
+    }
+}
+
 .pill-btn.active {
     background: #10b77f;
     color: #0c1613;
@@ -609,42 +616,11 @@
 }
 
 @media (max-width: 768px) {
-    .budget-nav {
-        padding: 0.75rem 1rem;
-    }
-
-    .nav-left {
-        gap: 0.75rem;
-    }
-
-    .brand {
-        gap: 0.5rem;
-    }
-
-    .brand h2 {
-        font-size: 1.1rem;
-    }
-
-    .logo-icon {
-        width: 32px;
-        height: 32px;
-    }
-
-    .logo-icon .material-symbols-outlined {
-        font-size: 20px;
-    }
-
-    .nav-actions {
-        display: none;
-    }
-
-    .pill-btn {
-        padding: 0.4rem 0.75rem;
-        font-size: 0.75rem;
-    }
+    /* Handled by Global Header */
 
     .year-switcher-pills {
         padding: 3px;
+        gap: 2px;
     }
 
     .landing-content {

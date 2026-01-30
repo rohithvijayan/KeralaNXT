@@ -53,7 +53,7 @@ export const shareElementAsImage = async (elementId, options = {}) => {
                     brandName.innerText = 'KeralaStory';
                     brandName.style.fontSize = '2.5rem';
                     brandName.style.fontWeight = '900';
-                    brandName.style.color = '#0f172a'; // Default dark color for visibility
+                    brandName.style.color = '#ffffff';
                     brandName.style.letterSpacing = '-0.02em';
                     brandName.style.marginBottom = '4px';
                     brandName.style.textAlign = 'center';
@@ -152,6 +152,11 @@ export const shareElementAsImage = async (elementId, options = {}) => {
                             heroAmount.style.background = 'none';
                             heroAmount.style.webkitTextFillColor = '#ffffff';
                         }
+                    }
+
+                    // For MP Dashboard related cards, make brand name black for visibility
+                    if (elementId === 'hero-summary-card' || elementId.startsWith('mp-card-')) {
+                        brandName.style.color = '#000000';
                     }
 
                     // Force vertical stacking for comparison cards in the share image

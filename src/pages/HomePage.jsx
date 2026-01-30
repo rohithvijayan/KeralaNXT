@@ -84,7 +84,28 @@ function HomePage() {
 
     return (
         <div className="home-page">
-            <Header />
+            <Header
+                rightContent={
+                    <>
+                        <nav className="header-nav desktop-only">
+                            <Link to="/projects" className="header-nav-link">Projects</Link>
+                            <Link to="/state-budget" className="header-nav-link">Budget</Link>
+                            <Link to="/initiatives" className="header-nav-link">Policies</Link>
+                            <Link to="/mp-fund-dashboard" className="header-nav-link">MP Fund</Link>
+                            <Link to="/about" className="header-nav-link">About</Link>
+                        </nav>
+                        <a
+                            href="https://forms.gle/9qW7iq5XYHV76A1R6"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="header-feedback-btn"
+                        >
+                            <span className="material-symbols-outlined">forum</span>
+                            <span>FeedBack</span>
+                        </a>
+                    </>
+                }
+            />
 
             <main className="home-main">
                 {/* Hero Header */}
@@ -247,11 +268,11 @@ function HomePage() {
                         <p className="footer-department">Rohith Vijayan</p>
                     </div>
                     <div className="footer-links">
-                        <a href="https://rohithvijayan.vercel.app">Contact Us</a>
+                        <a href="https://www.linkedin.com/in/rohithvijayan/">Contact Us</a>
                     </div>
                     <div className="footer-social">
-                        <a href="https://rohithvijayan.vercel.app" aria-label="Website">
-                            <span className="material-symbols-outlined">public</span>
+                        <a href="https://github.com/rohithvijayan/KeralaNXT" aria-label="Website">
+                            <span className="material-symbols-outlined">code</span>
                         </a>
                         <a href="mailto:rohithvij20@gmail.com" aria-label="Email">
                             <span className="material-symbols-outlined">mail</span>
