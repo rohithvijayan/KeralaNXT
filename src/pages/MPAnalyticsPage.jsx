@@ -88,7 +88,7 @@ const MPAnalyticsPage = () => {
         if (!mpData) return
         shareElementAsImage('analytics-chart-section', {
             title: 'MP Spending Analytics',
-            text: `Detailed spending breakdown for ${mpData.displayName} via KeralaNXT.`,
+            text: `Detailed spending breakdown for ${mpData.displayName} via keralaStory.`,
             fileName: `analytics-${mpData.displayName}.png`.replace(/\s+/g, '-').toLowerCase()
         })
     }
@@ -126,7 +126,7 @@ const MPAnalyticsPage = () => {
                             <span className="material-symbols-outlined">analytics</span>
                         </div>
                         <div className="brand-text">
-                            <h2>KeralaNXT</h2>
+                            <h2>keralaStory</h2>
                             <p>MP Fund Analytics</p>
                         </div>
                     </div>

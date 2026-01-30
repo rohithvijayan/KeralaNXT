@@ -9,9 +9,9 @@ import html2canvas from 'html2canvas';
  */
 export const shareElementAsImage = async (elementId, options = {}) => {
     const {
-        fileName = 'kerala-nxt-snapshot.png',
-        title = 'KeralaNXT Development Tracker',
-        text = 'Check out these development stats from KeralaNXT!',
+        fileName = 'kerala-story-snapshot.png',
+        title = 'KeralaStory',
+        text = 'Check out these development stats from keralaStory!',
         backgroundColor = '#0f172a'
     } = options;
 
@@ -39,8 +39,45 @@ export const shareElementAsImage = async (elementId, options = {}) => {
                     const elementsToHide = clonedElement.querySelectorAll('button, select, label, .compare-btn-mobile, .card-share-btn, .hero-share-btn, .share-comparison-btn, .nav-actions, .primary-actions, .budget-breadcrumb');
                     elementsToHide.forEach(el => el.style.display = 'none');
 
+                    // Add KeralaStory Branding at the top
+                    const brandHeader = clonedDoc.createElement('div');
+                    brandHeader.className = 'share-brand-header';
+                    brandHeader.style.display = 'flex';
+                    brandHeader.style.flexDirection = 'column';
+                    brandHeader.style.alignItems = 'center';
+                    brandHeader.style.marginBottom = '32px';
+                    brandHeader.style.width = '100%';
+                    brandHeader.style.padding = '0 20px';
+
+                    const brandName = clonedDoc.createElement('div');
+                    brandName.innerText = 'KeralaStory';
+                    brandName.style.fontSize = '2.5rem';
+                    brandName.style.fontWeight = '900';
+                    brandName.style.color = '#0f172a'; // Default dark color for visibility
+                    brandName.style.letterSpacing = '-0.02em';
+                    brandName.style.marginBottom = '4px';
+                    brandName.style.textAlign = 'center';
+
+                    const brandTagline = clonedDoc.createElement('div');
+                    brandTagline.innerText = 'Not The Propaganda, only facts & data';
+                    brandTagline.style.fontSize = '1.125rem';
+                    brandTagline.style.fontWeight = '600';
+                    brandTagline.style.color = '#10b77f';
+                    brandTagline.style.opacity = '0.9';
+                    brandTagline.style.fontStyle = 'italic';
+                    brandTagline.style.textAlign = 'center';
+                    brandTagline.style.maxWidth = '80%';
+
+                    brandHeader.appendChild(brandName);
+                    brandHeader.appendChild(brandTagline);
+
+                    // Insert at the very beginning of the shared element
+                    clonedElement.insertBefore(brandHeader, clonedElement.firstChild);
+
                     // Special handling for Budget Landing & Details Share (9:16 Optimization)
-                    if (elementId === 'budget-share-card' || elementId === 'budget-details-share') {
+                    if (elementId === 'budget-share-card' || elementId === 'budget-details-share' || elementId.includes('highlight-')) {
+                        // For dark themed cards, make brand name white
+                        brandName.style.color = '#ffffff';
                         clonedElement.style.padding = '60px 40px';
                         clonedElement.style.minHeight = '1600px'; // Force vertical Story ratio
                         clonedElement.style.display = 'flex';
@@ -68,32 +105,32 @@ export const shareElementAsImage = async (elementId, options = {}) => {
                             }
                         }
 
-                        // Ensure stats are horizontally stacked in the share image (for Landing Page)
+                        // Stack stats vertically for better visibility in the share image
                         const statsGrid = clonedElement.querySelector('.stats-grid');
                         if (statsGrid) {
                             statsGrid.style.display = 'grid';
-                            statsGrid.style.gridTemplateColumns = 'repeat(3, 1fr)';
-                            statsGrid.style.gap = '15px';
+                            statsGrid.style.gridTemplateColumns = '1fr';
+                            statsGrid.style.gap = '20px';
                             statsGrid.style.marginTop = '40px';
 
                             const statCards = statsGrid.querySelectorAll('.stat-card');
                             statCards.forEach(card => {
                                 card.style.background = 'rgba(255, 255, 255, 0.05)';
-                                card.style.padding = '15px';
-                                card.style.borderRadius = '16px';
+                                card.style.padding = '20px';
+                                card.style.borderRadius = '24px';
                                 card.style.textAlign = 'center';
                                 card.style.display = 'flex';
                                 card.style.flexDirection = 'column';
                                 card.style.alignItems = 'center';
 
                                 const iconBox = card.querySelector('.icon-box');
-                                if (iconBox) iconBox.style.width = '40px'; // Smaller icons for grid
+                                if (iconBox) iconBox.style.width = '50px';
 
                                 const cardValue = card.querySelector('.card-value');
-                                if (cardValue) cardValue.style.fontSize = '1.2rem';
+                                if (cardValue) cardValue.style.fontSize = '2rem';
 
                                 const cardLabel = card.querySelector('.card-label');
-                                if (cardLabel) cardLabel.style.fontSize = '0.7rem';
+                                if (cardLabel) cardLabel.style.fontSize = '1rem';
 
                                 const progress = card.querySelector('.progress-bar-container');
                                 if (progress) progress.style.display = 'none';
@@ -102,7 +139,7 @@ export const shareElementAsImage = async (elementId, options = {}) => {
                                 if (hint) hint.style.display = 'none';
 
                                 const delta = card.querySelector('.delta-badge');
-                                if (delta) delta.style.fontSize = '0.6rem';
+                                if (delta) delta.style.fontSize = '0.8rem';
                             });
                         }
 
@@ -147,7 +184,7 @@ export const shareElementAsImage = async (elementId, options = {}) => {
 
                     // Add a watermark
                     const watermark = clonedDoc.createElement('div');
-                    watermark.innerText = 'KeralaNXT Development Tracker';
+                    watermark.innerText = 'KeralaStory';
                     watermark.style.position = 'absolute';
                     watermark.style.bottom = '12px';
                     watermark.style.right = '20px';

@@ -9,8 +9,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'mask-icon.svg'],
       manifest: {
-        name: 'Kerala Development Showcase',
-        short_name: 'Kerala NXT',
+        name: 'KeralaStory',
+        short_name: 'keralaStory',
         description: 'Showcasing Kerala Government Development Projects 2016-2025',
         theme_color: '#4b7c6f',
         background_color: '#FAFBF9',

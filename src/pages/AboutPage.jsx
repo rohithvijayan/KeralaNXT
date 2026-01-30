@@ -216,7 +216,7 @@ function AboutPage() {
                 <nav className="breadcrumb">
                     <Link to="/">Dashboard</Link>
                     <span className="material-symbols-outlined">chevron_right</span>
-                    <span className="current">About KeralaNXT</span>
+                    <span className="current">About keralaStory</span>
                 </nav>
             </div>
 
@@ -240,7 +240,7 @@ function AboutPage() {
                         <span className="material-symbols-outlined">account_balance</span>
                     </div>
 
-                    <h1 className="about-title">Kerala Development Tracker</h1>
+                    <h1 className="about-title">KeralaStory</h1>
                     <p className="about-subtitle">Bridging Citizens with Public Data</p>
 
                     <div className="about-badge">

@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import './Header.css'
 
-function Header({ showBack = false, title = "Kerala Development Tracker", onBack }) {
+function Header({ showBack = false, title = "KeralaStory", onBack }) {
     return (
         <header className="header">
             <div className="header-content">

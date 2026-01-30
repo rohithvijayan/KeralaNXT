@@ -96,6 +96,15 @@
     margin-right: auto;
 }
 
+.home-tagline {
+    margin-top: 0.75rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--color-primary);
+    font-style: italic;
+    opacity: 0.9;
+}
+
 /* Main Grid */
 .home-grid {
     display: grid;

@@ -97,10 +97,13 @@ function HomePage() {
                         <span className="home-live-dot"></span>
                         <span>Live Dashboard</span>
                     </div>
-                    <h1 className="home-title">Kerala Development Tracker</h1>
+                    <h1 className="home-title">KeralaStory</h1>
                     <p className="home-subtitle">2016 — 2025</p>
                     <p className="home-description">
                         Bridging Citizens with Public Data
+                    </p>
+                    <p className="home-tagline">
+                        Spoiler alert: It has data instead of propaganda.
                     </p>
                 </motion.div>
 
@@ -246,7 +249,7 @@ function HomePage() {
             <footer className="home-footer">
                 <div className="footer-content">
                     <div className="footer-info">
-                        <p className="footer-copyright">© KeralaNXT</p>
+                        <p className="footer-copyright">© keralaStory</p>
                         <p className="footer-department">Rohith Vijayan</p>
                     </div>
                     <div className="footer-links">

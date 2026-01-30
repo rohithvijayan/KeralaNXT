@@ -117,7 +117,7 @@ const MPComparisonPage = () => {
     const handleShare = () => {
         shareElementAsImage('comparison-card', {
             title: 'MP Fiscal Comparison',
-            text: `Comparing the fund utilization of ${mpADetails?.name} and ${mpBDetails?.name} via KeralaNXT.`,
+            text: `Comparing the fund utilization of ${mpADetails?.name} and ${mpBDetails?.name} via keralaStory.`,
             fileName: `comparison-${mpADetails?.name}-${mpBDetails?.name}.png`.replace(/\s+/g, '-').toLowerCase()
         })
     }

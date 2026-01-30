@@ -72,7 +72,7 @@ function ProjectModal({ project, isOpen, onClose }) {
                 await navigator.share({
                     files: [file],
                     title: project.title,
-                    text: `${project.title} - Kerala Development Showcase\n${project.budget} | ${project.year}`,
+                    text: `${project.title} - KeralaStory Showcase\n${project.budget} | ${project.year}`,
                 })
                 setShowShareMenu(false)
                 return
@@ -141,7 +141,7 @@ function ProjectModal({ project, isOpen, onClose }) {
                     await navigator.share({
                         files: [file],
                         title: project.title,
-                        text: `${project.title} - Kerala Development Showcase`,
+                        text: `${project.title} - KeralaStory Showcase`,
                     })
                     setShowShareMenu(false)
                     return
@@ -170,7 +170,7 @@ function ProjectModal({ project, isOpen, onClose }) {
             try {
                 await navigator.share({
                     title: project.title,
-                    text: `${project.title} - Kerala Development Showcase\n💰 Budget: ${project.budget}\n📅 Year: ${project.year}\n\nExplore more at:`,
+                    text: `${project.title} - KeralaStory Showcase\n💰 Budget: ${project.budget}\n📅 Year: ${project.year}\n\nExplore more at:`,
                     url: window.location.href,
                 })
             } catch (err) {
@@ -412,27 +412,35 @@ function ProjectModal({ project, isOpen, onClose }) {
                     >
                         {/* Top Section */}
                         <div>
+                            {/* Top Branding Section */}
                             <div style={{
                                 display: 'flex',
+                                flexDirection: 'column',
                                 alignItems: 'center',
-                                gap: '12px',
-                                marginBottom: '40px'
+                                marginBottom: '32px',
+                                width: '100%'
                             }}>
-                                <div style={{
-                                    width: '48px',
-                                    height: '48px',
-                                    borderRadius: '12px',
-                                    background: 'rgba(255,255,255,0.2)',
-                                    display: 'flex',
-                                    alignItems: 'center',
-                                    justifyContent: 'center'
+                                <p style={{
+                                    fontSize: '40px',
+                                    fontWeight: 900,
+                                    color: '#ffffff',
+                                    letterSpacing: '-0.02em',
+                                    margin: '0 0 4px 0',
+                                    textAlign: 'center'
                                 }}>
-                                    <span style={{ fontSize: '24px' }}>🌴</span>
-                                </div>
-                                <div>
-                                    <p style={{ fontSize: '14px', opacity: 0.8, margin: 0 }}>Kerala Development</p>
-                                    <p style={{ fontSize: '18px', fontWeight: 700, margin: 0 }}>Showcase</p>
-                                </div>
+                                    KeralaStory
+                                </p>
+                                <p style={{
+                                    fontSize: '18px',
+                                    fontWeight: 600,
+                                    color: '#10b77f',
+                                    opacity: 0.9,
+                                    fontStyle: 'italic',
+                                    margin: 0,
+                                    textAlign: 'center'
+                                }}>
+                                    Not The Propaganda, only facts & data
+                                </p>
                             </div>
 
                             <div style={{
@@ -505,9 +513,8 @@ function ProjectModal({ project, isOpen, onClose }) {
                         </div>
                     </div>
                 </>
-            )
-            }
-        </AnimatePresence >
+            )}
+        </AnimatePresence>
     )
 }
 
