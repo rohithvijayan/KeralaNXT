@@ -1,4 +1,4 @@
-import { useMemo } from 'react'
+import { useState, useEffect, useMemo } from 'react'
 import { Chart as ChartJS, ArcElement, Tooltip, Legend } from 'chart.js'
 import { Doughnut } from 'react-chartjs-2'
 import { getRevenueBreakdown } from '../data/budgetLoader'
@@ -6,9 +6,27 @@ import { getRevenueBreakdown } from '../data/budgetLoader'
 ChartJS.register(ArcElement, Tooltip, Legend)
 
 const BudgetRevenueChart = ({ fiscalYear }) => {
-    const { total, sources } = useMemo(() => getRevenueBreakdown(fiscalYear), [fiscalYear])
+    const [revenueData, setRevenueData] = useState(null)
+    const [loading, setLoading] = useState(true)
 
-    const data = {
+    useEffect(() => {
+        const loadRevenueData = async () => {
+            setLoading(true)
+            try {
+                const data = await getRevenueBreakdown(fiscalYear)
+                setRevenueData(data)
+            } catch (error) {
+                console.error('Error loading revenue breakdown:', error)
+            } finally {
+                setLoading(false)
+            }
+        }
+        loadRevenueData()
+    }, [fiscalYear])
+
+    const sources = revenueData?.sources || []
+
+    const data = useMemo(() => ({
         labels: sources.map(s => s.category),
         datasets: [
             {
@@ -25,7 +43,7 @@ const BudgetRevenueChart = ({ fiscalYear }) => {
                 cutout: '75%'
             },
         ],
-    }
+    }), [sources])
 
     const options = {
         responsive: true,
@@ -51,6 +69,12 @@ const BudgetRevenueChart = ({ fiscalYear }) => {
         maintainAspectRatio: false
     }
 
+    if (loading) {
+        return <div className="chart-loading-placeholder" style={{ height: '300px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>Loading Chart...</div>
+    }
+
+    if (!revenueData) return null
+
     return (
         <section className="revenue-viz-section">
             <div className="section-header">
@@ -62,7 +86,7 @@ const BudgetRevenueChart = ({ fiscalYear }) => {
                     <Doughnut data={data} options={options} />
                     <div className="chart-center-label">
                         <span className="label-text">Revenue</span>
-                        <span className="label-year">2025-26</span>
+                        <span className="label-year">{fiscalYear}</span>
                     </div>
                 </div>
 

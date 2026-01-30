@@ -4,8 +4,8 @@ import { motion, AnimatePresence } from 'framer-motion'
 import Header from '../components/Header'
 import ProjectCard from '../components/ProjectCard'
 import ProjectModal from '../components/ProjectModal'
+import { loadDistrictProjects } from '../data/projectLoader'
 import districtsData from '../data/districts.json'
-import projectsData from '../data/projects.json'
 import categoriesData from '../data/categories.json'
 import './DistrictPage.css'
 
@@ -14,6 +14,8 @@ function DistrictPage() {
     const navigate = useNavigate()
     const [selectedCategory, setSelectedCategory] = useState('all')
     const [selectedProject, setSelectedProject] = useState(null)
+    const [allProjects, setAllProjects] = useState([])
+    const [loading, setLoading] = useState(true)
     const [scrollPosition, setScrollPosition] = useState('top') // 'top', 'middle', 'bottom'
     const contentRef = useRef(null)
 
@@ -22,9 +24,21 @@ function DistrictPage() {
         return districtsData.districts.find(d => d.id === districtId)
     }, [districtId])
 
-    // Get projects for this district
-    const allProjects = useMemo(() => {
-        return projectsData.projects.filter(p => p.districtId === districtId)
+    // Load projects for this district
+    useEffect(() => {
+        const loadProjects = async () => {
+            if (!districtId) return
+            setLoading(true)
+            try {
+                const data = await loadDistrictProjects(districtId)
+                setAllProjects(data)
+            } catch (error) {
+                console.error('Error loading projects for district:', error)
+            } finally {
+                setLoading(false)
+            }
+        }
+        loadProjects()
     }, [districtId])
 
     // Filter by category
@@ -66,6 +80,10 @@ function DistrictPage() {
 
     const scrollToBottom = () => {
         window.scrollTo({ top: document.documentElement.scrollHeight, behavior: 'smooth' })
+    }
+
+    if (loading) {
+        return <div className="loading-container">Loading District Projects...</div>
     }
 
     if (!district) {

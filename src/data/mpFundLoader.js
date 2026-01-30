@@ -4,8 +4,43 @@
  * Updated to handle the actual data format from government sources
  */
 
-import lokSabhaMPsRaw from './lok_sabha_mps.json'
-import rajyaSabhaMPsRaw from './rajya_sabha_mps.json'
+// Cache for normalized MP data
+let mpDataCache = {
+    lokSabha: null,
+    rajyaSabha: null,
+    stats: null
+}
+
+/**
+ * Load and normalize MP data dynamically
+ */
+const loadMPData = async () => {
+    if (mpDataCache.lokSabha && mpDataCache.rajyaSabha) return
+
+    try {
+        const [lokSabhaModule, rajyaSabhaModule] = await Promise.all([
+            import('./lok_sabha_mps.json'),
+            import('./rajya_sabha_mps.json')
+        ])
+
+        const lokSabhaRaw = lokSabhaModule.default || lokSabhaModule
+        const rajyaSabhaRaw = rajyaSabhaModule.default || rajyaSabhaModule
+
+        // Normalize the raw data
+        mpDataCache.lokSabha = normalizeMPData(lokSabhaRaw, 'Lok Sabha')
+        mpDataCache.rajyaSabha = normalizeMPData(rajyaSabhaRaw, 'Rajya Sabha')
+
+        // Calculate stats
+        const allPercentages = [
+            ...preNormalize(lokSabhaRaw),
+            ...preNormalize(rajyaSabhaRaw)
+        ]
+
+        mpDataCache.stats = calculateMeanStats(allPercentages)
+    } catch (error) {
+        console.error('Error loading MP data:', error)
+    }
+}
 
 /**
  * Parse amount string to number (e.g., "25.00 Cr" -> 25.00)
@@ -68,13 +103,10 @@ const preNormalize = (rawMPs) => {
         .filter(p => p !== null)
 }
 
-// Get all percentages for mean calculation
-const allPercentages = [...preNormalize(lokSabhaMPsRaw), ...preNormalize(rajyaSabhaMPsRaw)]
-
 /**
  * Calculate mean and standard deviation of utilization percentages
  */
-const getMeanStats = () => {
+const calculateMeanStats = (allPercentages) => {
     if (allPercentages.length === 0) return { mean: 15, stdDev: 5 }
 
     const mean = allPercentages.reduce((sum, p) => sum + p, 0) / allPercentages.length
@@ -84,9 +116,6 @@ const getMeanStats = () => {
     return { mean, stdDev }
 }
 
-// Calculate stats once at module load
-const { mean: meanPercent, stdDev: stdDevPercent } = getMeanStats()
-
 /**
  * Get performance level based on mean utilization percentage
  * - High: Above mean (above average performers)
@@ -95,6 +124,10 @@ const { mean: meanPercent, stdDev: stdDevPercent } = getMeanStats()
  * @returns 'high' | 'medium' | 'low'
  */
 export const getPerformanceLevel = (percent) => {
+    const stats = mpDataCache.stats || { mean: 15, stdDev: 5 }
+    const meanPercent = stats.mean
+    const stdDevPercent = stats.stdDev
+
     const value = typeof percent === 'string' ? parsePercentage(percent) : percent
 
     // High: Above mean
@@ -175,17 +208,17 @@ const normalizeMPData = (rawMPs, house) => {
         .filter(mp => mp !== null) // Remove null entries (aggregate rows)
 }
 
-// Normalize the raw data
-const lokSabhaMPs = normalizeMPData(lokSabhaMPsRaw, 'Lok Sabha')
-const rajyaSabhaMPs = normalizeMPData(rajyaSabhaMPsRaw, 'Rajya Sabha')
-
 // Export mean stats for debugging/display
-export const getPerformanceThresholds = () => ({
-    mean: meanPercent.toFixed(1),
-    stdDev: stdDevPercent.toFixed(1),
-    highThreshold: meanPercent.toFixed(1),
-    mediumThreshold: (meanPercent - stdDevPercent * 0.5).toFixed(1)
-})
+export const getPerformanceThresholds = async () => {
+    await loadMPData()
+    const { mean, stdDev } = mpDataCache.stats
+    return {
+        mean: mean.toFixed(1),
+        stdDev: stdDev.toFixed(1),
+        highThreshold: mean.toFixed(1),
+        mediumThreshold: (mean - stdDev * 0.5).toFixed(1)
+    }
+}
 
 /**
  * Calculate totals from MP data array
@@ -214,21 +247,23 @@ export const calculateTotals = (mps) => {
 /**
  * Get all MPs combined (Lok Sabha + Rajya Sabha)
  */
-export const getAllMPs = () => {
-    return [...lokSabhaMPs, ...rajyaSabhaMPs]
+export const getAllMPs = async () => {
+    await loadMPData()
+    return [...mpDataCache.lokSabha, ...mpDataCache.rajyaSabha]
 }
 
 /**
  * Get MPs filtered by house
  * @param {'all' | 'lok' | 'rajya'} house
  */
-export const getMPsByHouse = (house = 'all') => {
-    const allMPs = getAllMPs()
+export const getMPsByHouse = async (house = 'all') => {
+    await loadMPData()
+    const allMPs = await getAllMPs()
     switch (house) {
         case 'lok':
-            return allMPs.filter(mp => mp.house === 'Lok Sabha')
+            return mpDataCache.lokSabha
         case 'rajya':
-            return allMPs.filter(mp => mp.house === 'Rajya Sabha')
+            return mpDataCache.rajyaSabha
         default:
             return allMPs
     }

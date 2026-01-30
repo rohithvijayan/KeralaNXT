@@ -3,17 +3,39 @@
  * Centralizes data access for all budget-related components
  */
 
-import quickGlance from './budget/quickGlanceBudget.json'
-import projectsData from './budget/projectsInBudget.json'
-import policiesData from './budget/budgetPolicies.json'
-import budget2026Data from './budget2026/budgetAtAGlance2026.json'
-import projects2026Data from './budget2026/projectsinBudget2026.json'
-import policies2026Data from './budget2026/budgetPolicies2026.json'
-import majorFinancials from './MajorFinancialIndicators.json'
-import sectorAllocations from './sectorwiseallocation.json'
-import projects2026_1 from './budget2026/projectInBudget-1.json'
-import projects2026_2 from './budget2026/projectInBudget-2.json'
-import projects2026_3 from './budget2026/projectInBudget-3.json'
+// Cache for loaded modules to avoid repeated dynamic imports
+const moduleCache = new Map()
+
+/**
+ * Dynamic JSON loader with caching
+ */
+const loadModule = async (path) => {
+    if (moduleCache.has(path)) return moduleCache.get(path)
+
+    try {
+        let module;
+        switch (path) {
+            case './budget/quickGlanceBudget.json': module = await import('./budget/quickGlanceBudget.json'); break;
+            case './budget/projectsInBudget.json': module = await import('./budget/projectsInBudget.json'); break;
+            case './budget/budgetPolicies.json': module = await import('./budget/budgetPolicies.json'); break;
+            case './budget2026/budgetAtAGlance2026.json': module = await import('./budget2026/budgetAtAGlance2026.json'); break;
+            case './budget2026/projectsinBudget2026.json': module = await import('./budget2026/projectsinBudget2026.json'); break;
+            case './budget2026/budgetPolicies2026.json': module = await import('./budget2026/budgetPolicies2026.json'); break;
+            case './MajorFinancialIndicators.json': module = await import('./MajorFinancialIndicators.json'); break;
+            case './sectorwiseallocation.json': module = await import('./sectorwiseallocation.json'); break;
+            case './budget2026/projectInBudget-1.json': module = await import('./budget2026/projectInBudget-1.json'); break;
+            case './budget2026/projectInBudget-2.json': module = await import('./budget2026/projectInBudget-2.json'); break;
+            case './budget2026/projectInBudget-3.json': module = await import('./budget2026/projectInBudget-3.json'); break;
+            default: throw new Error(`Unknown module path: ${path}`);
+        }
+        const data = module.default || module
+        moduleCache.set(path, data)
+        return data
+    } catch (error) {
+        console.error(`Error loading module ${path}:`, error)
+        return null
+    }
+}
 
 // ============== FORMAT HELPERS ==============
 
@@ -85,11 +107,14 @@ export const BASELINE_YEAR = '2025-26'
 /**
  * Internal helper to get data source based on fiscal year
  */
-function getDataSourceForYear(year) {
+/**
+ * Internal helper to get data source based on fiscal year
+ */
+async function getDataSourceForYear(year) {
     if (year === '2026-27') {
-        return budget2026Data
+        return await loadModule('./budget2026/budgetAtAGlance2026.json')
     }
-    return quickGlance
+    return await loadModule('./budget/quickGlanceBudget.json')
 }
 
 /**
@@ -97,7 +122,8 @@ function getDataSourceForYear(year) {
  * @param {string} fiscalYear - The fiscal year (e.g., '2025-26')
  * @returns {Object} Key fiscal indicators
  */
-export function getFiscalOverview(fiscalYear = DEFAULT_YEAR) {
+export async function getFiscalOverview(fiscalYear = DEFAULT_YEAR) {
+    const majorFinancials = await loadModule('./MajorFinancialIndicators.json')
     const financials = majorFinancials.financial_indicators[fiscalYear]?.budget_estimates
 
     if (financials) {
@@ -115,7 +141,7 @@ export function getFiscalOverview(fiscalYear = DEFAULT_YEAR) {
     }
 
     // Fallback to existing logic if year not found in indicators
-    const data = getDataSourceForYear(fiscalYear)
+    const data = await getDataSourceForYear(fiscalYear)
     const kpiKey = fiscalYear === '2026-27' ? 'key_fiscal_indicators_2026_27' : 'key_fiscal_indicators_2025_26'
     const kpi = data[kpiKey] || {}
 
@@ -137,7 +163,8 @@ export function getFiscalOverview(fiscalYear = DEFAULT_YEAR) {
  * @param {string} fiscalYear - The fiscal year
  * @returns {Object} Revenue sources with percentages
  */
-export function getRevenueBreakdown(fiscalYear = DEFAULT_YEAR) {
+export async function getRevenueBreakdown(fiscalYear = DEFAULT_YEAR) {
+    const majorFinancials = await loadModule('./MajorFinancialIndicators.json')
     const financials = majorFinancials.financial_indicators[fiscalYear]?.budget_estimates
 
     if (financials) {
@@ -173,7 +200,7 @@ export function getRevenueBreakdown(fiscalYear = DEFAULT_YEAR) {
         }
     }
 
-    const data = getDataSourceForYear(fiscalYear)
+    const data = await getDataSourceForYear(fiscalYear)
     const revenue = data.revenue_insights || {}
 
     // Original fallback logic
@@ -194,7 +221,8 @@ export function getRevenueBreakdown(fiscalYear = DEFAULT_YEAR) {
  * @param {string} fiscalYear - The fiscal year
  * @returns {Object} Capital and revenue expenditure data
  */
-export function getExpenditureBreakdown(fiscalYear = DEFAULT_YEAR) {
+export async function getExpenditureBreakdown(fiscalYear = DEFAULT_YEAR) {
+    const majorFinancials = await loadModule('./MajorFinancialIndicators.json')
     const financials = majorFinancials.financial_indicators[fiscalYear]?.budget_estimates
 
     if (financials) {
@@ -217,7 +245,7 @@ export function getExpenditureBreakdown(fiscalYear = DEFAULT_YEAR) {
         }
     }
 
-    const data = getDataSourceForYear(fiscalYear)
+    const data = await getDataSourceForYear(fiscalYear)
     const kpiKey = fiscalYear === '2026-27' ? 'key_fiscal_indicators_2026_27' : 'key_fiscal_indicators_2025_26'
     const kpi = data[kpiKey] || {}
 
@@ -247,8 +275,8 @@ export function getExpenditureBreakdown(fiscalYear = DEFAULT_YEAR) {
  * @param {string} fiscalYear - The fiscal year
  * @returns {Object} Projects by sector
  */
-export function getProjectHighlights(fiscalYear = DEFAULT_YEAR) {
-    const data = getDataSourceForYear(fiscalYear)
+export async function getProjectHighlights(fiscalYear = DEFAULT_YEAR) {
+    const data = await getDataSourceForYear(fiscalYear)
     return data.major_project_highlights
 }
 
@@ -257,11 +285,11 @@ export function getProjectHighlights(fiscalYear = DEFAULT_YEAR) {
 /**
  * Get projects data source based on year
  */
-function getProjectsDataSource(year) {
+async function getProjectsDataSource(year) {
     if (year === '2026-27') {
-        return projects2026Data
+        return await loadModule('./budget2026/projectsinBudget2026.json')
     }
-    return projectsData
+    return await loadModule('./budget/projectsInBudget.json')
 }
 
 /**
@@ -269,12 +297,16 @@ function getProjectsDataSource(year) {
  * @param {string} fiscalYear - The fiscal year
  * @returns {Array} Flat array of all projects with sector info
  */
-export function getAllProjects(fiscalYear = DEFAULT_YEAR) {
+export async function getAllProjects(fiscalYear = DEFAULT_YEAR) {
     const projects = []
 
     // Handle 2026-27 data format (Multiple files with Batches)
     if (fiscalYear === '2026-27') {
-        const dataSources = [projects2026_1, projects2026_2, projects2026_3]
+        const dataSources = await Promise.all([
+            loadModule('./budget2026/projectInBudget-1.json'),
+            loadModule('./budget2026/projectInBudget-2.json'),
+            loadModule('./budget2026/projectInBudget-3.json')
+        ])
 
         dataSources.forEach(source => {
             const allocations = source.Budget_2026_27_Detailed_Allocations || {}
@@ -362,6 +394,7 @@ export function getAllProjects(fiscalYear = DEFAULT_YEAR) {
     }
 
     // Handle 2025-26 data format (nested structure)
+    const projectsData = await getProjectsDataSource(fiscalYear)
     const budgetData = projectsData.Budget_2025_26_Spending_Only
 
     // Process Part I and II (Strategic)
@@ -414,8 +447,8 @@ export function getAllProjects(fiscalYear = DEFAULT_YEAR) {
  * @param {string} fiscalYear - The fiscal year
  * @returns {Array} Sectors with counts and total allocations
  */
-export function getSectors(fiscalYear = DEFAULT_YEAR) {
-    const projects = getAllProjects(fiscalYear)
+export async function getSectors(fiscalYear = DEFAULT_YEAR) {
+    const projects = await getAllProjects(fiscalYear)
     const sectorMap = new Map()
 
     projects.forEach(project => {
@@ -439,8 +472,8 @@ export function getSectors(fiscalYear = DEFAULT_YEAR) {
  * @param {Object} options - Filter options
  * @returns {Object} Filtered projects with pagination
  */
-export function filterProjects({ fiscalYear = DEFAULT_YEAR, sector, search, page = 1, perPage = 12 } = {}) {
-    let projects = getAllProjects(fiscalYear)
+export async function filterProjects({ fiscalYear = DEFAULT_YEAR, sector, search, page = 1, perPage = 12 } = {}) {
+    let projects = await getAllProjects(fiscalYear)
 
     // Filter by sector
     if (sector && sector !== 'all') {
@@ -492,11 +525,13 @@ function getPoliciesYearKey(year) {
  * @param {string} fiscalYear - The fiscal year
  * @returns {Array} Policy categories with items
  */
-export function getPolicies(fiscalYear = DEFAULT_YEAR) {
+export async function getPolicies(fiscalYear = DEFAULT_YEAR) {
     let policyData;
     if (fiscalYear === '2026-27') {
+        const policies2026Data = await loadModule('./budget2026/budgetPolicies2026.json')
         policyData = policies2026Data.Kerala_Budget_2026_27_Policies;
     } else {
+        const policiesData = await loadModule('./budget/budgetPolicies.json')
         policyData = policiesData.Budget_2025_26_Policy_and_Strategy;
     }
 
@@ -524,8 +559,8 @@ export function getPolicies(fiscalYear = DEFAULT_YEAR) {
  * @param {string} fiscalYear - The fiscal year
  * @returns {number} Total policy count
  */
-export function getPolicyCount(fiscalYear = DEFAULT_YEAR) {
-    const categories = getPolicies(fiscalYear)
+export async function getPolicyCount(fiscalYear = DEFAULT_YEAR) {
+    const categories = await getPolicies(fiscalYear)
     return categories.reduce((sum, cat) => sum + cat.policies.length, 0)
 }
 
@@ -534,11 +569,13 @@ export function getPolicyCount(fiscalYear = DEFAULT_YEAR) {
  * @param {string} fiscalYear - The fiscal year
  * @returns {Object} Dashboard stats
  */
-export function getDashboardStats(fiscalYear = DEFAULT_YEAR) {
-    const fiscal = getFiscalOverview(fiscalYear)
-    const expenditure = getExpenditureBreakdown(fiscalYear)
-    const projects = getAllProjects(fiscalYear)
-    const sectors = getSectors(fiscalYear)
+export async function getDashboardStats(fiscalYear = DEFAULT_YEAR) {
+    const [fiscal, expenditure, projects, sectors] = await Promise.all([
+        getFiscalOverview(fiscalYear),
+        getExpenditureBreakdown(fiscalYear),
+        getAllProjects(fiscalYear),
+        getSectors(fiscalYear)
+    ])
 
     return {
         year: fiscalYear,
@@ -565,9 +602,12 @@ export function getDashboardStats(fiscalYear = DEFAULT_YEAR) {
  * @param {string} yearB - Comparison year
  * @returns {Object} Comparison deltas
  */
-export function getBudgetComparison(yearA = BASELINE_YEAR, yearB = DEFAULT_YEAR) {
-    const statsA = getDashboardStats(yearA)
-    const statsB = getDashboardStats(yearB)
+export async function getBudgetComparison(yearA = BASELINE_YEAR, yearB = DEFAULT_YEAR) {
+    const sectorAllocations = await loadModule('./sectorwiseallocation.json')
+    const [statsA, statsB] = await Promise.all([
+        getDashboardStats(yearA),
+        getDashboardStats(yearB)
+    ])
 
     // Calculate deltas
     const calculateDelta = (a, b) => {
@@ -600,7 +640,7 @@ export function getBudgetComparison(yearA = BASELINE_YEAR, yearB = DEFAULT_YEAR)
         return 'General / Others'
     }
 
-    const aggregateSectors = (year) => {
+    const aggregateSectors = async (year) => {
         // PRIORITY 1: Authoritative sectoral data from Citizen's Guide
         const authoritative = sectorAllocations.sector_allocation_revenue_expenditure[year]?.allocations_cr
         if (authoritative) {
@@ -616,7 +656,7 @@ export function getBudgetComparison(yearA = BASELINE_YEAR, yearB = DEFAULT_YEAR)
         }
 
         // PRIORITY 2: Fallback to project-based aggregation
-        const rawSectors = getSectors(year)
+        const rawSectors = await getSectors(year)
         const aggregated = {}
 
         rawSectors.forEach(s => {
@@ -629,8 +669,10 @@ export function getBudgetComparison(yearA = BASELINE_YEAR, yearB = DEFAULT_YEAR)
         return aggregated
     }
 
-    const aggA = aggregateSectors(yearA)
-    const aggB = aggregateSectors(yearB)
+    const [aggA, aggB] = await Promise.all([
+        aggregateSectors(yearA),
+        aggregateSectors(yearB)
+    ])
 
     // Form list using all unique normalized keys
     const allKeys = Array.from(new Set([...Object.keys(aggA), ...Object.keys(aggB)]))

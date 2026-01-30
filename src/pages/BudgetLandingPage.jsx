@@ -9,6 +9,7 @@ import {
     DEFAULT_YEAR,
     BASELINE_YEAR
 } from '../data/budgetLoader'
+import Header from '../components/Header'
 import { shareElementAsImage } from '../utils/shareUtils'
 import './BudgetLandingPage.css'
 
@@ -23,6 +24,7 @@ const BudgetLandingPage = () => {
     const [stats, setStats] = useState(null)
     const [overview, setOverview] = useState(null)
     const [comparison, setComparison] = useState(null)
+    const [loading, setLoading] = useState(true)
 
     // Sync year from URL if it changes
     useEffect(() => {
@@ -33,15 +35,30 @@ const BudgetLandingPage = () => {
     }, [searchParams])
 
     useEffect(() => {
-        const dashboardStats = getDashboardStats(selectedYear)
-        setStats(dashboardStats)
-        setOverview(getFiscalOverview(selectedYear))
+        const loadBudgetSummary = async () => {
+            setLoading(true)
+            try {
+                const [dashboardStats, fiscalOverview] = await Promise.all([
+                    getDashboardStats(selectedYear),
+                    getFiscalOverview(selectedYear)
+                ])
 
-        if (selectedYear === DEFAULT_YEAR) {
-            setComparison(getBudgetComparison(BASELINE_YEAR, DEFAULT_YEAR))
-        } else {
-            setComparison(null)
+                setStats(dashboardStats)
+                setOverview(fiscalOverview)
+
+                if (selectedYear === DEFAULT_YEAR) {
+                    const compData = await getBudgetComparison(BASELINE_YEAR, DEFAULT_YEAR)
+                    setComparison(compData)
+                } else {
+                    setComparison(null)
+                }
+            } catch (error) {
+                console.error('Error loading budget data:', error)
+            } finally {
+                setLoading(false)
+            }
         }
+        loadBudgetSummary()
     }, [selectedYear])
 
     const handleYearToggle = (year) => {
@@ -58,25 +75,14 @@ const BudgetLandingPage = () => {
         });
     };
 
-    if (!stats || !overview) return null
+    if (loading || !stats || !overview) return <div className="loading-container">Loading Budget Overview...</div>
 
     return (
         <div className="budget-landing-container">
-            {/* Top Navigation / Hero Area */}
-            <nav className="budget-nav">
-                <div className="nav-content">
-                    <div className="nav-left">
-                        <button className="back-btn" onClick={() => navigate('/')} aria-label="Back to Dashboard">
-                            <span className="material-symbols-outlined">arrow_back</span>
-                        </button>
-                        <div className="brand" onClick={() => navigate('/')}>
-                            <div className="logo-icon">
-                                <span className="material-symbols-outlined">account_balance</span>
-                            </div>
-                            <h2>kerala<span>Story</span></h2>
-                        </div>
-                    </div>
-
+            <Header
+                showBack
+                onBack={() => navigate('/')}
+                centerContent={
                     <div className="year-switcher-pills">
                         <button
                             className={`pill-btn ${selectedYear === BASELINE_YEAR ? 'active' : ''}`}
@@ -91,24 +97,21 @@ const BudgetLandingPage = () => {
                             2026-27
                         </button>
                     </div>
+                }
+                rightContent={
+                    <>
+                        <div className="nav-actions desktop-only">
+                            <button className="icon-btn share-nav-btn" onClick={handleShare} title="Share Budget Overview">
+                                <span className="material-symbols-outlined">share</span>
+                            </button>
 
-                    <div className="nav-actions desktop-only">
-                        <button className="icon-btn share-nav-btn" onClick={handleShare} title="Share Budget Overview">
+                        </div>
+                        <button className="icon-btn share-nav-btn mobile-only" onClick={handleShare} aria-label="Share Budget">
                             <span className="material-symbols-outlined">share</span>
                         </button>
-                        <button className="icon-btn">
-                            <span className="material-symbols-outlined">notifications</span>
-                        </button>
-                        <button className="icon-btn">
-                            <span className="material-symbols-outlined">settings</span>
-                        </button>
-                    </div>
-
-                    <button className="icon-btn share-nav-btn mobile-only" onClick={handleShare} aria-label="Share Budget">
-                        <span className="material-symbols-outlined">share</span>
-                    </button>
-                </div>
-            </nav>
+                    </>
+                }
+            />
 
             <main className="landing-content">
                 <div className="hero-glow-effect"></div>

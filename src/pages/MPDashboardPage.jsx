@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useEffect } from 'react'
 import { useNavigate, Link } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
 import Header from '../components/Header'
@@ -38,28 +38,59 @@ function MPDashboardPage() {
     const [selectedHouse, setSelectedHouse] = useState('all')
     const [sortBy, setSortBy] = useState('percent')
     const [currentPage, setCurrentPage] = useState(1)
+    const [loading, setLoading] = useState(true)
+    const [allMPs, setAllMPs] = useState([])
+    const [globalStats, setGlobalStats] = useState({ totalAllocated: 0, totalUtilised: 0, overallPercent: 0, totalMPs: 0 })
+    const [houseStats, setHouseStats] = useState({ lok: { totalMPs: 0, overallPercent: 0 }, rajya: { totalMPs: 0, overallPercent: 0 } })
+
     const itemsPerPage = 9
 
-    // Get all MPs and calculate totals
-    const allMPs = useMemo(() => getAllMPs(), [])
-    const globalStats = useMemo(() => calculateTotals(allMPs), [allMPs])
+    // Load initial data
+    useEffect(() => {
+        const loadInitialData = async () => {
+            setLoading(true)
+            try {
+                const mps = await getAllMPs()
+                const stats = calculateTotals(mps)
+
+                const lokMPs = mps.filter(mp => mp.house === 'Lok Sabha')
+                const rajyaMPs = mps.filter(mp => mp.house === 'Rajya Sabha')
+
+                setAllMPs(mps)
+                setGlobalStats(stats)
+                setHouseStats({
+                    lok: calculateTotals(lokMPs),
+                    rajya: calculateTotals(rajyaMPs)
+                })
+            } catch (error) {
+                console.error('Error loading MP data:', error)
+            } finally {
+                setLoading(false)
+            }
+        }
+        loadInitialData()
+    }, [])
 
     // Current stats based on selected house filter
     const currentStats = useMemo(() => {
-        const mps = getMPsByHouse(selectedHouse)
+        const mps = selectedHouse === 'all'
+            ? allMPs
+            : allMPs.filter(mp => mp.house === (selectedHouse === 'lok' ? 'Lok Sabha' : 'Rajya Sabha'))
         return calculateTotals(mps)
-    }, [selectedHouse])
+    }, [selectedHouse, allMPs])
 
     // Get label for current view
     const currentHouseLabel = houseOptions.find(h => h.id === selectedHouse)?.label || 'All Houses'
 
     // Filter and sort MPs
     const filteredMPs = useMemo(() => {
-        let mps = getMPsByHouse(selectedHouse)
+        let mps = selectedHouse === 'all'
+            ? allMPs
+            : allMPs.filter(mp => mp.house === (selectedHouse === 'lok' ? 'Lok Sabha' : 'Rajya Sabha'))
         mps = searchMPs(mps, searchQuery)
         mps = sortMPs(mps, sortBy)
         return mps
-    }, [selectedHouse, searchQuery, sortBy])
+    }, [selectedHouse, searchQuery, sortBy, allMPs])
 
     // Pagination
     const totalPages = Math.ceil(filteredMPs.length / itemsPerPage)
@@ -69,19 +100,9 @@ function MPDashboardPage() {
     }, [filteredMPs, currentPage])
 
     // Reset to page 1 when filters change
-    useMemo(() => {
+    useEffect(() => {
         setCurrentPage(1)
     }, [selectedHouse, searchQuery, sortBy])
-
-    // House-specific stats
-    const houseStats = useMemo(() => {
-        const lokMPs = getMPsByHouse('lok')
-        const rajyaMPs = getMPsByHouse('rajya')
-        return {
-            lok: calculateTotals(lokMPs),
-            rajya: calculateTotals(rajyaMPs)
-        }
-    }, [])
 
     const handleShareClick = (elementId, title, text) => {
         shareElementAsImage(elementId, {
@@ -89,6 +110,10 @@ function MPDashboardPage() {
             text,
             fileName: `${elementId}.png`
         })
+    }
+
+    if (loading) {
+        return <div className="loading-container">Loading MP Fund Data...</div>
     }
 
     return (
