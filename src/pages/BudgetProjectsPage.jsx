@@ -18,22 +18,49 @@ function BudgetProjectsPage() {
     const selectedYear = searchParams.get('year') || DEFAULT_YEAR
 
     // Data
-    const sectors = useMemo(() => getSectors(selectedYear), [selectedYear])
-
     // State
+    const [sectors, setSectors] = useState([])
+    const [projects, setProjects] = useState([])
+    const [pagination, setPagination] = useState({ total: 0, totalPages: 0 })
+    const [loading, setLoading] = useState(true)
     const [activeSector, setActiveSector] = useState('all')
     const [searchQuery, setSearchQuery] = useState('')
     const [currentPage, setCurrentPage] = useState(1)
 
-    // Filtered projects
-    const { projects, pagination } = useMemo(() => {
-        return filterProjects({
-            fiscalYear: selectedYear,
-            sector: activeSector,
-            search: searchQuery,
-            page: currentPage,
-            perPage: 20
-        })
+    // Load initial sectors
+    useEffect(() => {
+        const loadInitialSectors = async () => {
+            try {
+                const data = await getSectors(selectedYear)
+                setSectors(data)
+            } catch (error) {
+                console.error('Error loading sectors:', error)
+            }
+        }
+        loadInitialSectors()
+    }, [selectedYear])
+
+    // Load filtered projects
+    useEffect(() => {
+        const loadFilteredProjects = async () => {
+            setLoading(true)
+            try {
+                const result = await filterProjects({
+                    fiscalYear: selectedYear,
+                    sector: activeSector,
+                    search: searchQuery,
+                    page: currentPage,
+                    perPage: 20
+                })
+                setProjects(result.projects)
+                setPagination(result.pagination)
+            } catch (error) {
+                console.error('Error filtering projects:', error)
+            } finally {
+                setLoading(false)
+            }
+        }
+        loadFilteredProjects()
     }, [selectedYear, activeSector, searchQuery, currentPage])
 
     // Handlers
@@ -46,6 +73,10 @@ function BudgetProjectsPage() {
         setSearchQuery(e.target.value)
         setCurrentPage(1)
     }, [])
+
+    if (loading && projects.length === 0) {
+        return <div className="loading-container">Loading Budget Projects...</div>
+    }
 
     return (
         <div className="budget-projects-page">

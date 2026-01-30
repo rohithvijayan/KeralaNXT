@@ -1,28 +1,40 @@
-/**
- * MP Fund Analytics Data Loader
- * Loads and processes spending breakdown data from MPFUND.json
- */
+// Cache for loaded MP fund data
+let mpFundDataCache = null
 
-import mpFundData from './MPFUND.json'
+/**
+ * Load MP fund data dynamically
+ */
+const loadMPFundData = async () => {
+    if (mpFundDataCache) return mpFundDataCache
+    try {
+        const module = await import('./MPFUND.json')
+        mpFundDataCache = module.default || module
+        return mpFundDataCache
+    } catch (error) {
+        console.error('Error loading MP Analytics data:', error)
+        return {}
+    }
+}
 
 /**
  * Get list of all MPs with their house
  */
-export const getAllMPsForAnalytics = () => {
-    return Object.entries(mpFundData).map(([name, data]) => ({
+export const getAllMPsForAnalytics = async () => {
+    const data = await loadMPFundData()
+    return Object.entries(data).map(([name, mpData]) => ({
         name,
         displayName: name.replace(/\s*\([^)]*\)$/, ''), // Remove tenure from display
-        house: data.house,
-        totalExpenditure: data.total_expenditure,
-        image: data.image || ''
+        house: mpData.house,
+        totalExpenditure: mpData.total_expenditure,
+        image: mpData.image || ''
     })).sort((a, b) => b.totalExpenditure - a.totalExpenditure)
 }
 
 /**
  * Get MPs filtered by house
  */
-export const getMPsByHouseForAnalytics = (house = 'all') => {
-    const allMPs = getAllMPsForAnalytics()
+export const getMPsByHouseForAnalytics = async (house = 'all') => {
+    const allMPs = await getAllMPsForAnalytics()
     if (house === 'all') return allMPs
     return allMPs.filter(mp =>
         house === 'lok' ? mp.house === 'Lok Sabha' : mp.house === 'Rajya Sabha'
@@ -32,13 +44,13 @@ export const getMPsByHouseForAnalytics = (house = 'all') => {
 /**
  * Get spending breakdown for a specific MP
  */
-export const getMPSpendingBreakdown = (mpName) => {
-    const mpData = mpFundData[mpName]
+export const getMPSpendingBreakdown = async (mpName) => {
+    const data = await loadMPFundData()
+    const mpData = data[mpName]
     if (!mpData) return null
 
     return {
         name: mpName,
-        displayName: mpName.replace(/\s*\([^)]*\)$/, ''),
         displayName: mpName.replace(/\s*\([^)]*\)$/, ''),
         house: mpData.house,
         totalExpenditure: mpData.total_expenditure,

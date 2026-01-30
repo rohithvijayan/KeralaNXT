@@ -12,19 +12,32 @@ const MPComparisonPage = () => {
     const navigate = useNavigate()
     const [mpA, setMpA] = useState('')
     const [mpB, setMpB] = useState('')
+    const [mpsData, setMpsData] = useState([])
+    const [loading, setLoading] = useState(true)
 
-    // Get all MPs data
-    const mpsData = useMemo(() => getAllMPs(), [])
-
-    // Set initial selections
+    // Load all MPs data
     useEffect(() => {
-        if (mpsData.length > 0 && !mpA) {
-            setMpA(mpsData[0].fullName)
+        const loadMPs = async () => {
+            setLoading(true)
+            try {
+                const data = await getAllMPs()
+                setMpsData(data)
+
+                // Set initial selections once data is loaded
+                if (data.length > 0) {
+                    setMpA(data[0].fullName)
+                }
+                if (data.length > 1) {
+                    setMpB(data[1].fullName)
+                }
+            } catch (error) {
+                console.error('Error loading MPs for comparison:', error)
+            } finally {
+                setLoading(false)
+            }
         }
-        if (mpsData.length > 1 && !mpB) {
-            setMpB(mpsData[1].fullName)
-        }
-    }, [mpsData, mpA, mpB])
+        loadMPs()
+    }, [])
 
     // Get spending data for both MPs
     const mpAData = useMemo(() => {
@@ -121,6 +134,8 @@ const MPComparisonPage = () => {
             fileName: `comparison-${mpADetails?.name}-${mpBDetails?.name}.png`.replace(/\s+/g, '-').toLowerCase()
         })
     }
+
+    if (loading) return <div className="loading-container">Loading MP Fund Data...</div>
 
     return (
         <div className="comparison-page">

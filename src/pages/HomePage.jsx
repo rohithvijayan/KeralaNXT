@@ -1,5 +1,5 @@
 import { useState, useMemo, useEffect } from 'react'
-import { Link } from 'react-router-dom'
+import { useNavigate, Link } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
 import Header from '../components/Header'
 import KeralaMap from '../components/KeralaMap'
@@ -9,6 +9,7 @@ import { loadDistrictProjects, loadStatewideProjects } from '../data/projectLoad
 import './HomePage.css'
 
 function HomePage() {
+    const navigate = useNavigate()
     const [selectedDistrict, setSelectedDistrict] = useState(null)
     const [isBottomSheetOpen, setIsBottomSheetOpen] = useState(false)
     const [selectedProjects, setSelectedProjects] = useState([])
@@ -95,12 +96,11 @@ function HomePage() {
                 >
                     <div className="home-live-badge">
                         <span className="home-live-dot"></span>
-                        <span>Live Dashboard</span>
+                        <span>State Development Tracker</span>
                     </div>
-                    <h1 className="home-title">KeralaStory</h1>
-                    <p className="home-subtitle">2016 — 2025</p>
+                    <h1 className="home-title">Bridging Citizens with Public Data</h1>
                     <p className="home-description">
-                        Bridging Citizens with Public Data
+                        Comprehensive insights into Kerala's development, public spending, and policy outcomes since 2016.
                     </p>
                     <p className="home-tagline">
                         Spoiler alert: It has data instead of propaganda.
@@ -140,18 +140,12 @@ function HomePage() {
                                 <span>Budget Highlights</span>
                                 <span className="material-symbols-outlined sidebar-action-arrow">chevron_right</span>
                             </button>
-                            <button className="sidebar-action-btn">
-                                <div className="sidebar-action-icon">
-                                    <span className="material-symbols-outlined">description</span>
-                                </div>
-                                <span>Download Reports</span>
-                                <span className="material-symbols-outlined sidebar-action-arrow">chevron_right</span>
-                            </button>
-                            <button className="sidebar-action-btn">
+
+                            <button className="sidebar-action-btn" onClick={() => navigate('/projects')}>
                                 <div className="sidebar-action-icon">
                                     <span className="material-symbols-outlined">filter_alt</span>
                                 </div>
-                                <a href="/projects">Filter Projects</a>
+                                <span>Filter Projects</span>
                                 <span className="material-symbols-outlined sidebar-action-arrow">chevron_right</span>
                             </button>
                         </div>

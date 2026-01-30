@@ -36,19 +36,27 @@ const BudgetPage = () => {
     const [sectorPage, setSectorPage] = useState(0)
 
     useEffect(() => {
-        setLoading(true)
-        setTimeout(() => {
-            const overview = getFiscalOverview(selectedYear)
-            const dashboardStats = getDashboardStats(selectedYear)
-            const sectorData = getSectors(selectedYear)
-            const policyData = getPolicies(selectedYear)
+        const loadBudgetData = async () => {
+            setLoading(true)
+            try {
+                const [overview, dashboardStats, sectorData, policyData] = await Promise.all([
+                    getFiscalOverview(selectedYear),
+                    getDashboardStats(selectedYear),
+                    getSectors(selectedYear),
+                    getPolicies(selectedYear)
+                ])
 
-            setFiscalData(overview)
-            setStats(dashboardStats)
-            setSectors(sectorData)
-            setPolicies(policyData)
-            setLoading(false)
-        }, 300)
+                setFiscalData(overview)
+                setStats(dashboardStats)
+                setSectors(sectorData)
+                setPolicies(policyData)
+            } catch (error) {
+                console.error('Error loading budget details:', error)
+            } finally {
+                setLoading(false)
+            }
+        }
+        loadBudgetData()
     }, [selectedYear])
 
     const handleShare = () => {

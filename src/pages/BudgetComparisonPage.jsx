@@ -15,13 +15,24 @@ import './BudgetComparisonPage.css'
 const BudgetComparisonPage = () => {
     const navigate = useNavigate()
     const [comparison, setComparison] = useState(null)
+    const [loading, setLoading] = useState(true)
 
     useEffect(() => {
-        const data = getBudgetComparison(BASELINE_YEAR, DEFAULT_YEAR)
-        setComparison(data)
+        const loadComparisonData = async () => {
+            setLoading(true)
+            try {
+                const data = await getBudgetComparison(BASELINE_YEAR, DEFAULT_YEAR)
+                setComparison(data)
+            } catch (error) {
+                console.error('Error loading budget comparison:', error)
+            } finally {
+                setLoading(false)
+            }
+        }
+        loadComparisonData()
     }, [])
 
-    if (!comparison) return <div className="loading-container">Loading Comparison...</div>
+    if (loading || !comparison) return <div className="loading-container">Loading Comparison Data...</div>
 
     return (
         <div className="comparison-page">

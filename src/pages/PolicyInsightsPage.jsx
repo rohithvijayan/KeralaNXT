@@ -10,7 +10,23 @@ function PolicyInsightsPage() {
     const [searchParams] = useSearchParams()
     const selectedYear = searchParams.get('year') || DEFAULT_YEAR
 
-    const policies = useMemo(() => getPolicies(selectedYear), [selectedYear])
+    const [policies, setPolicies] = useState([])
+    const [loading, setLoading] = useState(true)
+
+    useEffect(() => {
+        const loadPolicyData = async () => {
+            setLoading(true)
+            try {
+                const data = await getPolicies(selectedYear)
+                setPolicies(data)
+            } catch (error) {
+                console.error('Error loading policies:', error)
+            } finally {
+                setLoading(false)
+            }
+        }
+        loadPolicyData()
+    }, [selectedYear])
 
     const [expandedItems, setExpandedItems] = useState(new Set())
     const [activeCategory, setActiveCategory] = useState('all')
@@ -18,6 +34,10 @@ function PolicyInsightsPage() {
 
     // Get total policy count
     const totalPolicies = policies.reduce((acc, cat) => acc + cat.policies.length, 0)
+
+    if (loading) {
+        return <div className="loading-container">Loading Policy Insights...</div>
+    }
 
     // Filter policies based on category and search
     const filteredPolicies = useMemo(() => {
