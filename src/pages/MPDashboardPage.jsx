@@ -107,7 +107,7 @@ function MPDashboardPage() {
                         <div className="brand-icon">
                             <span className="material-symbols-outlined">analytics</span>
                         </div>
-                        <h2>KeralaNXT</h2>
+                        <h2>keralaStory</h2>
                     </div>
 
                     <div className="sidebar-content">
@@ -224,7 +224,7 @@ function MPDashboardPage() {
                             <div className="hero-actions">
                                 <button
                                     className="hero-share-btn"
-                                    onClick={() => handleShareClick('hero-summary-card', 'KeralaNXT MJPLADS Overview', `Overall fund utilization for ${currentHouseLabel} in Kerala.`)}
+                                    onClick={() => handleShareClick('hero-summary-card', 'keralaStory MJPLADS Overview', `Overall fund utilization for ${currentHouseLabel} in Kerala.`)}
                                 >
                                     <span className="material-symbols-outlined">share</span>
                                 </button>

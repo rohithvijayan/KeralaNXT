@@ -52,7 +52,7 @@ const BudgetLandingPage = () => {
     const handleShare = () => {
         shareElementAsImage('budget-share-card', {
             title: `Kerala State Budget ${selectedYear}`,
-            text: `Check out the Kerala State Budget allocation for ${selectedYear} on KeralaNXT!`,
+            text: `Check out the Kerala State Budget allocation for ${selectedYear} on keralaStory!`,
             fileName: `kerala-budget-${selectedYear}.png`,
             backgroundColor: '#0c1613'
         });
@@ -73,7 +73,7 @@ const BudgetLandingPage = () => {
                             <div className="logo-icon">
                                 <span className="material-symbols-outlined">account_balance</span>
                             </div>
-                            <h2>Kerala<span>NXT</span></h2>
+                            <h2>kerala<span>Story</span></h2>
                         </div>
                     </div>
 

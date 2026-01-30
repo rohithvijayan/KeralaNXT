@@ -27,7 +27,7 @@ function ProjectCard({ project, size = 'large', onClick }) {
         const elementId = `project-card-${project.id}-${size}`
         shareElementAsImage(elementId, {
             title: project.title,
-            text: `${project.title} - Kerala Development Showcase\n💰 Budget: ${project.budget}\n📅 Year: ${project.year}`,
+            text: `${project.title} - KeralaStory Showcase\n💰 Budget: ${project.budget}\n📅 Year: ${project.year}`,
             fileName: `project-${project.title.replace(/\s+/g, '-').toLowerCase()}.png`
         })
     }

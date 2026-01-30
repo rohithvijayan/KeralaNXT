@@ -54,7 +54,7 @@ const BudgetPage = () => {
     const handleShare = () => {
         shareElementAsImage('budget-details-share', {
             title: `Kerala Budget ${selectedYear} Highlights`,
-            text: `Check out the Kerala State Budget highlights for ${selectedYear} on KeralaNXT!`,
+            text: `Check out the Kerala State Budget highlights for ${selectedYear} on keralaStory!`,
             fileName: `kerala-budget-details-${selectedYear}.png`,
             backgroundColor: '#0c1613'
         });

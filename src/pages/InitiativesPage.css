@@ -227,11 +227,13 @@
     flex: 1;
 }
 
-.hero-title {
+.hero-stats-card .hero-title {
     font-size: 1.75rem;
     font-weight: 800;
     line-height: 1.2;
     margin-bottom: 0.5rem;
+    color: #ffffff !important;
+    text-transform: uppercase;
 }
 
 .hero-subtitle {
