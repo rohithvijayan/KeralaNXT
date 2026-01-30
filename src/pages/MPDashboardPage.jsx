@@ -359,12 +359,18 @@ function MPDashboardPage() {
                     {/* Performance Methodology Disclaimer */}
                     <div className="methodology-disclaimer">
                         <span className="material-symbols-outlined disclaimer-icon">info</span>
-                        <p>
-                            <strong>Performance Indicator:</strong> MPs are rated relative to the group average.
-                            <span className="perf-legend high">✓ Above average</span>
-                            <span className="perf-legend medium">→ Near average</span>
-                            <span className="perf-legend low">⚠ Below average</span>
-                        </p>
+                        <div className="disclaimer-content">
+                            <p>
+                                <strong>Performance Indicator:</strong> MPs are rated relative to the group average.
+                                <span className="perf-legend high">✓ Above average</span>
+                                <span className="perf-legend medium">→ Near average</span>
+                                <span className="perf-legend low">⚠ Below average</span>
+                            </p>
+                            <p className="update-disclaimer">
+                                <span className="material-symbols-outlined">update</span>
+                                Data is updated till 30 Jan 2026. Updated every 4 months.
+                            </p>
+                        </div>
                     </div>
 
                     {/* MP Cards Grid */}

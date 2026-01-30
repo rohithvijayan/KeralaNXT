@@ -404,6 +404,30 @@ function AboutPage() {
                 </blockquote>
             </section>
 
+            {/* Feedback CTA Section */}
+            <section className="about-section feedback-section">
+                <motion.div
+                    className="feedback-cta-card"
+                    whileHover={{ scale: 1.02 }}
+                    whileTap={{ scale: 0.98 }}
+                    onClick={() => window.open('https://forms.gle/9qW7iq5XYHV76A1R6', '_blank')}
+                >
+                    <div className="feedback-content">
+                        <div className="feedback-icon-wrapper">
+                            <span className="material-symbols-outlined">forum</span>
+                        </div>
+                        <div className="feedback-text">
+                            <h3>How is the Real KeralaStory?</h3>
+                            <p>Your feedback Matters a lot</p>
+                        </div>
+                    </div>
+                    <button className="feedback-action-btn">
+                        <span>Share Feedback</span>
+                        <span className="material-symbols-outlined">arrow_forward</span>
+                    </button>
+                </motion.div>
+            </section>
+
             {/* Quick Links */}
             <section className="about-section">
                 <h2 className="about-section-title">

@@ -453,7 +453,22 @@
     padding: 0 0.5rem;
 }
 
+@media (max-width: 640px) {
+    .projects-header-bar {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 1.25rem;
+        margin-bottom: 1.5rem;
+    }
+}
+
 .projects-count {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.count-main {
     display: flex;
     align-items: baseline;
     gap: 0.5rem;
@@ -468,6 +483,21 @@
 .count-label {
     font-size: 0.875rem;
     color: var(--color-text-muted);
+}
+
+.projects-disclaimer {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+    font-style: italic;
+    opacity: 0.8;
+}
+
+.projects-disclaimer .material-symbols-outlined {
+    font-size: 1rem;
+    color: var(--color-primary);
 }
 
 .sort-control {
@@ -603,6 +633,7 @@
     line-height: 1.3;
     display: -webkit-box;
     -webkit-line-clamp: 2;
+    line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
 }

@@ -29,6 +29,15 @@
     display: flex;
     align-items: center;
     gap: 1rem;
+    flex-shrink: 0;
+}
+
+@media (max-width: 480px) {
+
+    .header-left,
+    .header-right {
+        gap: 0.5rem;
+    }
 }
 
 /* Brand/Logo */
@@ -63,6 +72,28 @@
     letter-spacing: -0.02em;
     color: var(--color-text);
     margin: 0;
+    transition: font-size 0.2s ease;
+}
+
+@media (max-width: 768px) {
+    .header-logo-text {
+        font-size: 1.25rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .header-logo-text {
+        font-size: 1.1rem;
+    }
+
+    .header-logo-icon {
+        width: 32px;
+        height: 32px;
+    }
+
+    .header-content {
+        padding: 0.5rem 1rem;
+    }
 }
 
 .header-logo-text span {
@@ -139,4 +170,50 @@
     .desktop-only {
         display: flex;
     }
+}
+
+/* Feedback Glowing Button */
+.header-feedback-btn {
+    padding: 0.5rem 1.25rem;
+    background: #10b77f;
+    color: white !important;
+    border-radius: 9999px;
+    font-size: 0.75rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(16, 183, 127, 0.4);
+    transition: all 0.3s ease;
+    animation: header-glow-pulse 2.5s infinite;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+@keyframes header-glow-pulse {
+    0% {
+        box-shadow: 0 0 5px rgba(16, 183, 127, 0.4);
+    }
+
+    50% {
+        box-shadow: 0 0 15px rgba(16, 183, 127, 0.7), 0 0 25px rgba(16, 183, 127, 0.3);
+    }
+
+    100% {
+        box-shadow: 0 0 5px rgba(16, 183, 127, 0.4);
+    }
+}
+
+.header-feedback-btn:hover {
+    background: #0d9b76;
+    transform: scale(1.05);
+    box-shadow: 0 0 20px rgba(16, 183, 127, 0.8);
+    animation-play-state: paused;
+}
+
+.header-feedback-btn .material-symbols-outlined {
+    font-size: 16px;
 }

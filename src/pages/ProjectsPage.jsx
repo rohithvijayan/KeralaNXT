@@ -421,10 +421,16 @@ function ProjectsPage() {
                 {/* Header Bar */}
                 <div className="projects-header-bar">
                     <div className="projects-count">
-                        <span className="count-number">{filteredProjects.length}</span>
-                        <span className="count-label">
-                            {filteredProjects.length === 1 ? 'project' : 'projects'} found
-                        </span>
+                        <div className="count-main">
+                            <span className="count-number">{filteredProjects.length}</span>
+                            <span className="count-label">
+                                {filteredProjects.length === 1 ? 'project' : 'projects'} found
+                            </span>
+                        </div>
+                        <p className="projects-disclaimer">
+                            <span className="material-symbols-outlined">info</span>
+                            There are many more projects, this list contains the one's tracked from public sources
+                        </p>
                     </div>
 
                     <div className="sort-control">
