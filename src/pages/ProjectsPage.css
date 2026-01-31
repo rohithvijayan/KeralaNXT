@@ -924,6 +924,10 @@
     .count-number {
         font-size: 2rem;
     }
+
+    .back-to-map-fab {
+        display: none;
+    }
 }
 
 @media (min-width: 1400px) {
