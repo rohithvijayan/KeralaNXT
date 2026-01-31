@@ -758,30 +758,48 @@
     display: flex;
     align-items: center;
     gap: 0.5rem;
+    margin-left: auto;
+    /* Push to the right */
 }
 
-.project-share-btn,
+
+
+.project-share,
 .project-arrow {
     display: flex;
     align-items: center;
     justify-content: center;
     width: 2.25rem;
     height: 2.25rem;
-    background: var(--color-background);
     border: none;
     border-radius: 0.5rem;
-    color: var(--color-text-muted);
     cursor: pointer;
     transition: all var(--transition-fast);
 }
 
-.project-share-btn:hover,
+.project-share {
+    background: var(--color-primary);
+    color: white;
+    box-shadow: 0 2px 8px rgba(19, 236, 178, 0.2);
+}
+
+.project-share:hover {
+    background: var(--color-primary-dark);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(19, 236, 178, 0.3);
+}
+
+.project-arrow {
+    background: var(--color-background);
+    color: var(--color-text-muted);
+}
+
 .project-arrow:hover {
     background: var(--color-primary);
     color: white;
 }
 
-.project-share-btn .material-symbols-outlined,
+.project-share .material-symbols-outlined,
 .project-arrow .material-symbols-outlined {
     font-size: 1.125rem;
 }
