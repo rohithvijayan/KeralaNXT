@@ -594,31 +594,59 @@ function ProjectsPage() {
                         </button>
 
                         <div className="pagination-pages">
-                            {Array.from({ length: totalPages }, (_, i) => i + 1).map(page => {
-                                // Show first page, last page, current page, and pages around current
-                                const showPage = page === 1 ||
-                                    page === totalPages ||
-                                    (page >= currentPage - 1 && page <= currentPage + 1)
+                            {(() => {
+                                const pages = []
 
-                                // Show ellipsis when there's a gap
-                                const showEllipsisBefore = page === currentPage - 1 && page > 2
-                                const showEllipsisAfter = page === currentPage + 1 && page < totalPages - 1
+                                for (let page = 1; page <= totalPages; page++) {
+                                    // Always show first page, last page, current page, and pages around current
+                                    const showPage = page === 1 ||
+                                        page === totalPages ||
+                                        (page >= currentPage - 1 && page <= currentPage + 1)
 
-                                return (
-                                    <div key={page}>
-                                        {showEllipsisBefore && <span className="pagination-ellipsis">...</span>}
-                                        {showPage && (
-                                            <button
-                                                className={`pagination-page ${page === currentPage ? 'active' : ''}`}
-                                                onClick={() => setCurrentPage(page)}
-                                            >
-                                                {page}
-                                            </button>
-                                        )}
-                                        {showEllipsisAfter && <span className="pagination-ellipsis">...</span>}
-                                    </div>
-                                )
-                            })}
+                                    if (showPage) {
+                                        // Add ellipsis after page 1 if there's a gap
+                                        if (page === 1 && currentPage > 3) {
+                                            pages.push(
+                                                <button
+                                                    key={page}
+                                                    className={`pagination-page ${page === currentPage ? 'active' : ''}`}
+                                                    onClick={() => setCurrentPage(page)}
+                                                >
+                                                    {page}
+                                                </button>
+                                            )
+                                            pages.push(<span key="ellipsis-1" className="pagination-ellipsis">...</span>)
+                                        }
+                                        // Add ellipsis before last page if there's a gap
+                                        else if (page === totalPages && currentPage < totalPages - 2) {
+                                            pages.push(<span key="ellipsis-2" className="pagination-ellipsis">...</span>)
+                                            pages.push(
+                                                <button
+                                                    key={page}
+                                                    className={`pagination-page ${page === currentPage ? 'active' : ''}`}
+                                                    onClick={() => setCurrentPage(page)}
+                                                >
+                                                    {page}
+                                                </button>
+                                            )
+                                        }
+                                        // Regular page button
+                                        else {
+                                            pages.push(
+                                                <button
+                                                    key={page}
+                                                    className={`pagination-page ${page === currentPage ? 'active' : ''}`}
+                                                    onClick={() => setCurrentPage(page)}
+                                                >
+                                                    {page}
+                                                </button>
+                                            )
+                                        }
+                                    }
+                                }
+
+                                return pages
+                            })()}
                         </div>
 
                         <button
