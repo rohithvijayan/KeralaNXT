@@ -1,8 +1,9 @@
-import { useState, useMemo } from 'react'
+import { useState, useEffect, useMemo } from 'react'
 import { useNavigate, Link, useSearchParams } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
 import Header from '../components/Header'
 import { getPolicies, DEFAULT_YEAR } from '../data/budgetLoader'
+import { shareElementAsImage } from '../utils/shareUtils'
 import './PolicyInsightsPage.css'
 
 function PolicyInsightsPage() {
@@ -10,9 +11,14 @@ function PolicyInsightsPage() {
     const [searchParams] = useSearchParams()
     const selectedYear = searchParams.get('year') || DEFAULT_YEAR
 
+    // All state hooks must be at the top
     const [policies, setPolicies] = useState([])
     const [loading, setLoading] = useState(true)
+    const [expandedItems, setExpandedItems] = useState(new Set())
+    const [activeCategory, setActiveCategory] = useState('all')
+    const [searchQuery, setSearchQuery] = useState('')
 
+    // All useEffect hooks
     useEffect(() => {
         const loadPolicyData = async () => {
             setLoading(true)
@@ -28,18 +34,11 @@ function PolicyInsightsPage() {
         loadPolicyData()
     }, [selectedYear])
 
-    const [expandedItems, setExpandedItems] = useState(new Set())
-    const [activeCategory, setActiveCategory] = useState('all')
-    const [searchQuery, setSearchQuery] = useState('')
+    // All useMemo hooks - MUST be before any conditional returns
+    const totalPolicies = useMemo(() => {
+        return policies.reduce((acc, cat) => acc + cat.policies.length, 0)
+    }, [policies])
 
-    // Get total policy count
-    const totalPolicies = policies.reduce((acc, cat) => acc + cat.policies.length, 0)
-
-    if (loading) {
-        return <div className="loading-container">Loading Policy Insights...</div>
-    }
-
-    // Filter policies based on category and search
     const filteredPolicies = useMemo(() => {
         let result = policies
 
@@ -63,6 +62,11 @@ function PolicyInsightsPage() {
         return result
     }, [policies, activeCategory, searchQuery])
 
+    // NOW we can have conditional returns after all hooks
+    if (loading) {
+        return <div className="loading-container">Loading Policy Insights...</div>
+    }
+
     const toggleItem = (policyId) => {
         setExpandedItems(prev => {
             const next = new Set(prev)
@@ -72,6 +76,16 @@ function PolicyInsightsPage() {
                 next.add(policyId)
             }
             return next
+        })
+    }
+
+    const handleShare = async (policy) => {
+        const elementId = `policy-card-${policy.id}`
+        await shareElementAsImage(elementId, {
+            title: `${policy.title} - KeralaStory`,
+            text: `Policy Insight from Kerala Budget ${selectedYear}`,
+            fileName: `policy-${policy.title.replace(/\s+/g, '-').toLowerCase()}-${selectedYear}.png`,
+            backgroundColor: '#0f172a'
         })
     }
 
@@ -96,7 +110,7 @@ function PolicyInsightsPage() {
             <Header
                 showBack
                 title="Policy Insights"
-                onBack={() => navigate(`/state-budget?year=${selectedYear}`)}
+                onBack={() => navigate(-1)}
             />
 
             {/* Desktop Breadcrumb */}
@@ -201,7 +215,8 @@ function PolicyInsightsPage() {
 
                                 return (
                                     <motion.article
-                                        key={policy.id}
+                                        id={`policy-card-${policy.id || index}`}
+                                        key={`${category.key}-${policy.id || index}`}
                                         className={`policy-card ${isExpanded ? 'expanded' : ''}`}
                                         initial={{ opacity: 0, y: 10 }}
                                         animate={{ opacity: 1, y: 0 }}
@@ -231,7 +246,11 @@ function PolicyInsightsPage() {
                                         )}
 
                                         <div className="policy-card-footer">
-                                            <button className="share-btn" aria-label={`Share ${policy.title}`}>
+                                            <button
+                                                className="share-btn"
+                                                onClick={() => handleShare(policy)}
+                                                aria-label={`Share ${policy.title}`}
+                                            >
                                                 <span className="material-symbols-outlined">share</span>
                                             </button>
                                             <button className="bookmark-btn" aria-label={`Bookmark ${policy.title}`}>

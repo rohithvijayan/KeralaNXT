@@ -59,7 +59,7 @@ const MPComparisonPage = () => {
 
     // Calculate comparison data
     const comparisonData = useMemo(() => {
-        if (!mpAData || !mpBData) return []
+        if (!mpAData || !mpBData || !mpAData.breakdown || !mpBData.breakdown) return []
 
         // Group categories from both MPs
         const categories = new Map()

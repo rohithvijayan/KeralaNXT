@@ -1,13 +1,13 @@
-import { useState, useEffect, useMemo } from 'react'
+import { useState, useEffect, useMemo, useRef } from 'react'
 import { useNavigate, useLocation, Link } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
 import Header from '../components/Header'
 import ProjectModal from '../components/ProjectModal'
 import CldImage from '../components/CldImage'
+import { shareElementAsImage } from '../utils/shareUtils'
 import districtsData from '../data/districts.json'
 import categoriesData from '../data/categories.json'
 import { loadAllProjects } from '../data/projectLoader'
-import { shareElementAsImage } from '../utils/shareUtils'
 import './ProjectsPage.css'
 
 // Extract arrays from JSON objects
@@ -44,6 +44,10 @@ function ProjectsPage() {
     const [showFilters, setShowFilters] = useState(false)
     const [selectedProject, setSelectedProject] = useState(null)
 
+    // Pagination states
+    const [currentPage, setCurrentPage] = useState(1)
+    const ITEMS_PER_PAGE = 20
+
     // Project loading states
     const [allProjects, setAllProjects] = useState([])
     const [isLoading, setIsLoading] = useState(true)
@@ -56,6 +60,35 @@ function ProjectsPage() {
             setIncludeStatewide(true)
         }
     }, [location.state])
+
+    // Handle browser back button for modal
+    const modalHistoryRef = useRef(false)
+
+    useEffect(() => {
+        if (selectedProject && !modalHistoryRef.current) {
+            // Push a new history state when modal opens
+            window.history.pushState({ modal: true }, '')
+            modalHistoryRef.current = true
+        }
+    }, [selectedProject])
+
+    useEffect(() => {
+        const handlePopState = (event) => {
+            if (selectedProject) {
+                // Close modal when back button is pressed
+                setSelectedProject(null)
+                modalHistoryRef.current = false
+            }
+        }
+
+        window.addEventListener('popstate', handlePopState)
+        return () => window.removeEventListener('popstate', handlePopState)
+    }, [selectedProject])
+
+    // Reset pagination when filters change
+    useEffect(() => {
+        setCurrentPage(1)
+    }, [searchQuery, selectedDistrict, selectedCategories, selectedStatus, sortBy, includeStatewide])
 
     // Load all projects on mount
     useEffect(() => {
@@ -94,6 +127,18 @@ function ProjectsPage() {
             return parseFloat(match[1]) || 0
         }
         return 0
+    }
+
+    // Handle share for project cards
+    const handleShare = (e, project) => {
+        e.stopPropagation() // Prevent card click
+        const elementId = `project-card-${project.id}`
+        shareElementAsImage(elementId, {
+            title: `${project.title} - KeralaStory`,
+            text: `${project.title} in ${project.districtName}${project.budget ? ` | Budget: ${project.budget}` : ''}${project.year ? ` | Year: ${project.year}` : ''} via KeralaStory`,
+            fileName: `project-${project.title.replace(/\s+/g, '-').toLowerCase()}.png`,
+            backgroundColor: '#0f172a'
+        })
     }
 
     // Filter and sort projects
@@ -183,15 +228,13 @@ function ProjectsPage() {
         return sortedResult
     }, [allProjects, searchQuery, selectedDistrict, selectedCategories, selectedStatus, sortBy, includeStatewide])
 
-    const handleShare = (e, project) => {
-        e.stopPropagation()
-        const elementId = `project-card-${project.id}`
-        shareElementAsImage(elementId, {
-            title: project.title,
-            text: `${project.title} - KeralaStory Showcase\n💰 Budget: ${project.budget}\n📅 Year: ${project.year}`,
-            fileName: `project-${project.title.replace(/\s+/g, '-').toLowerCase()}.png`
-        })
-    }
+    // Pagination calculations
+    const totalPages = Math.ceil(filteredProjects.length / ITEMS_PER_PAGE)
+    const startIndex = (currentPage - 1) * ITEMS_PER_PAGE
+    const endIndex = startIndex + ITEMS_PER_PAGE
+    const displayedProjects = filteredProjects.slice(startIndex, endIndex)
+
+
 
     const getStatusClass = (status) => {
         switch (status) {
@@ -218,7 +261,24 @@ function ProjectsPage() {
 
     return (
         <div className="projects-page">
-            <Header showBack title="All Projects" onBack={() => navigate('/')} />
+            <Header
+                showBack
+                title="All Projects"
+                onBack={() => {
+                    if (selectedProject) {
+                        // Close modal if it's open
+                        setSelectedProject(null)
+                        modalHistoryRef.current = false
+                        // Remove the history state we added
+                        if (window.history.state?.modal) {
+                            window.history.back()
+                        }
+                    } else {
+                        // Navigate to home if modal is not open
+                        navigate('/')
+                    }
+                }}
+            />
 
             <div className="projects-header-desktop desktop-only">
                 <nav className="breadcrumb">
@@ -448,8 +508,8 @@ function ProjectsPage() {
                     className="projects-grid"
                     key={`${selectedCategories.join('-')}-${selectedDistrict}-${selectedStatus}-${searchQuery}-${includeStatewide}`}
                 >
-                    {filteredProjects.length > 0 ? (
-                        filteredProjects.map((project, index) => (
+                    {displayedProjects.length > 0 ? (
+                        displayedProjects.map((project, index) => (
                             <motion.article
                                 key={project.id}
                                 id={`project-card-${project.id}`}
@@ -497,7 +557,11 @@ function ProjectsPage() {
                                             </div>
                                         )}
                                         <div className="project-card-actions">
-                                            <button className="project-share-btn" onClick={(e) => handleShare(e, project)}>
+                                            <button
+                                                className="project-share"
+                                                onClick={(e) => handleShare(e, project)}
+                                                aria-label="Share project"
+                                            >
                                                 <span className="material-symbols-outlined">share</span>
                                             </button>
                                             <button className="project-arrow">
@@ -524,6 +588,85 @@ function ProjectsPage() {
                         </div>
                     )}
                 </div>
+
+                {/* Pagination Controls */}
+                {filteredProjects.length > ITEMS_PER_PAGE && (
+                    <div className="pagination-controls">
+                        <button
+                            className="pagination-btn"
+                            onClick={() => setCurrentPage(prev => Math.max(1, prev - 1))}
+                            disabled={currentPage === 1}
+                        >
+                            <span className="material-symbols-outlined">chevron_left</span>
+                            <span className="pagination-btn-text">Previous</span>
+                        </button>
+
+                        <div className="pagination-pages">
+                            {(() => {
+                                const pages = []
+
+                                for (let page = 1; page <= totalPages; page++) {
+                                    // Always show first page, last page, current page, and pages around current
+                                    const showPage = page === 1 ||
+                                        page === totalPages ||
+                                        (page >= currentPage - 1 && page <= currentPage + 1)
+
+                                    if (showPage) {
+                                        // Add ellipsis after page 1 if there's a gap
+                                        if (page === 1 && currentPage > 3) {
+                                            pages.push(
+                                                <button
+                                                    key={page}
+                                                    className={`pagination-page ${page === currentPage ? 'active' : ''}`}
+                                                    onClick={() => setCurrentPage(page)}
+                                                >
+                                                    {page}
+                                                </button>
+                                            )
+                                            pages.push(<span key="ellipsis-1" className="pagination-ellipsis">...</span>)
+                                        }
+                                        // Add ellipsis before last page if there's a gap
+                                        else if (page === totalPages && currentPage < totalPages - 2) {
+                                            pages.push(<span key="ellipsis-2" className="pagination-ellipsis">...</span>)
+                                            pages.push(
+                                                <button
+                                                    key={page}
+                                                    className={`pagination-page ${page === currentPage ? 'active' : ''}`}
+                                                    onClick={() => setCurrentPage(page)}
+                                                >
+                                                    {page}
+                                                </button>
+                                            )
+                                        }
+                                        // Regular page button
+                                        else {
+                                            pages.push(
+                                                <button
+                                                    key={page}
+                                                    className={`pagination-page ${page === currentPage ? 'active' : ''}`}
+                                                    onClick={() => setCurrentPage(page)}
+                                                >
+                                                    {page}
+                                                </button>
+                                            )
+                                        }
+                                    }
+                                }
+
+                                return pages
+                            })()}
+                        </div>
+
+                        <button
+                            className="pagination-btn"
+                            onClick={() => setCurrentPage(prev => Math.min(totalPages, prev + 1))}
+                            disabled={currentPage === totalPages}
+                        >
+                            <span className="pagination-btn-text">Next</span>
+                            <span className="material-symbols-outlined">chevron_right</span>
+                        </button>
+                    </div>
+                )}
             </main>
 
             {/* Floating Back to Map Button */}
@@ -541,7 +684,14 @@ function ProjectsPage() {
             <ProjectModal
                 project={selectedProject}
                 isOpen={!!selectedProject}
-                onClose={() => setSelectedProject(null)}
+                onClose={() => {
+                    if (modalHistoryRef.current) {
+                        // Go back to close modal (removes the history state we added)
+                        window.history.back()
+                    } else {
+                        setSelectedProject(null)
+                    }
+                }}
             />
         </div>
     )
