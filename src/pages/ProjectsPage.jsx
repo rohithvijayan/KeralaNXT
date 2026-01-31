@@ -4,6 +4,7 @@ import { motion, AnimatePresence } from 'framer-motion'
 import Header from '../components/Header'
 import ProjectModal from '../components/ProjectModal'
 import CldImage from '../components/CldImage'
+import { shareElementAsImage } from '../utils/shareUtils'
 import districtsData from '../data/districts.json'
 import categoriesData from '../data/categories.json'
 import { loadAllProjects } from '../data/projectLoader'
@@ -126,6 +127,18 @@ function ProjectsPage() {
             return parseFloat(match[1]) || 0
         }
         return 0
+    }
+
+    // Handle share for project cards
+    const handleShare = (e, project) => {
+        e.stopPropagation() // Prevent card click
+        const elementId = `project-card-${project.id}`
+        shareElementAsImage(elementId, {
+            title: `${project.title} - KeralaStory`,
+            text: `${project.title} in ${project.districtName}${project.budget ? ` | Budget: ${project.budget}` : ''}${project.year ? ` | Year: ${project.year}` : ''} via KeralaStory`,
+            fileName: `project-${project.title.replace(/\s+/g, '-').toLowerCase()}.png`,
+            backgroundColor: '#0f172a'
+        })
     }
 
     // Filter and sort projects
@@ -544,6 +557,13 @@ function ProjectsPage() {
                                             </div>
                                         )}
                                         <div className="project-card-actions">
+                                            <button
+                                                className="project-share"
+                                                onClick={(e) => handleShare(e, project)}
+                                                aria-label="Share project"
+                                            >
+                                                <span className="material-symbols-outlined">share</span>
+                                            </button>
                                             <button className="project-arrow">
                                                 <span className="material-symbols-outlined">arrow_forward</span>
                                             </button>
