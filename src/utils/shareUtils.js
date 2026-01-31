@@ -53,7 +53,7 @@ export const shareElementAsImage = async (elementId, options = {}) => {
                     brandName.innerText = 'KeralaStory';
                     brandName.style.fontSize = '2.5rem';
                     brandName.style.fontWeight = '900';
-                    brandName.style.color = '#ffffff';
+                    brandName.style.color = '#080808ff';
                     brandName.style.letterSpacing = '-0.02em';
                     brandName.style.marginBottom = '4px';
                     brandName.style.textAlign = 'center';
