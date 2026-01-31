@@ -7,7 +7,6 @@ import CldImage from '../components/CldImage'
 import districtsData from '../data/districts.json'
 import categoriesData from '../data/categories.json'
 import { loadAllProjects } from '../data/projectLoader'
-import { shareElementAsImage } from '../utils/shareUtils'
 import './ProjectsPage.css'
 
 // Extract arrays from JSON objects
@@ -222,15 +221,7 @@ function ProjectsPage() {
     const endIndex = startIndex + ITEMS_PER_PAGE
     const displayedProjects = filteredProjects.slice(startIndex, endIndex)
 
-    const handleShare = (e, project) => {
-        e.stopPropagation()
-        const elementId = `project-card-${project.id}`
-        shareElementAsImage(elementId, {
-            title: project.title,
-            text: `${project.title} - KeralaStory Showcase\n💰 Budget: ${project.budget}\n📅 Year: ${project.year}`,
-            fileName: `project-${project.title.replace(/\s+/g, '-').toLowerCase()}.png`
-        })
-    }
+
 
     const getStatusClass = (status) => {
         switch (status) {
@@ -553,9 +544,6 @@ function ProjectsPage() {
                                             </div>
                                         )}
                                         <div className="project-card-actions">
-                                            <button className="project-share-btn" onClick={(e) => handleShare(e, project)}>
-                                                <span className="material-symbols-outlined">share</span>
-                                            </button>
                                             <button className="project-arrow">
                                                 <span className="material-symbols-outlined">arrow_forward</span>
                                             </button>
