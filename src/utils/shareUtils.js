@@ -75,7 +75,7 @@ export const shareElementAsImage = async (elementId, options = {}) => {
                     clonedElement.insertBefore(brandHeader, clonedElement.firstChild);
 
                     // Special handling for Budget Landing & Details Share (9:16 Optimization)
-                    if (elementId === 'budget-share-card' || elementId === 'budget-details-share' || elementId.includes('highlight-')) {
+                    if (elementId === 'budget-share-card' || elementId === 'budget-details-share' || elementId === 'comparison-card' || elementId.includes('highlight-') || elementId === 'analytics-chart-section') {
                         // For dark themed cards, make brand name white
                         brandName.style.color = '#ffffff';
                         clonedElement.style.padding = '60px 40px';
