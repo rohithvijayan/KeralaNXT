@@ -110,7 +110,7 @@ function PolicyInsightsPage() {
             <Header
                 showBack
                 title="Policy Insights"
-                onBack={() => navigate(`/state-budget?year=${selectedYear}`)}
+                onBack={() => navigate(-1)}
             />
 
             {/* Desktop Breadcrumb */}
@@ -215,8 +215,8 @@ function PolicyInsightsPage() {
 
                                 return (
                                     <motion.article
-                                        id={`policy-card-${policy.id}`}
-                                        key={policy.id}
+                                        id={`policy-card-${policy.id || index}`}
+                                        key={`${category.key}-${policy.id || index}`}
                                         className={`policy-card ${isExpanded ? 'expanded' : ''}`}
                                         initial={{ opacity: 0, y: 10 }}
                                         animate={{ opacity: 1, y: 0 }}

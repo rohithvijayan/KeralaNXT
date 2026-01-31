@@ -83,7 +83,7 @@ function BudgetProjectsPage() {
             <Header
                 showBack
                 title="Budget Projects"
-                onBack={() => navigate(`/state-budget?year=${selectedYear}`)}
+                onBack={() => navigate(-1)}
             />
 
             {/* Desktop Breadcrumb */}
