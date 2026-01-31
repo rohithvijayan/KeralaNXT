@@ -44,6 +44,10 @@ function ProjectsPage() {
     const [showFilters, setShowFilters] = useState(false)
     const [selectedProject, setSelectedProject] = useState(null)
 
+    // Pagination states
+    const [currentPage, setCurrentPage] = useState(1)
+    const ITEMS_PER_PAGE = 20
+
     // Project loading states
     const [allProjects, setAllProjects] = useState([])
     const [isLoading, setIsLoading] = useState(true)
@@ -56,6 +60,11 @@ function ProjectsPage() {
             setIncludeStatewide(true)
         }
     }, [location.state])
+
+    // Reset pagination when filters change
+    useEffect(() => {
+        setCurrentPage(1)
+    }, [searchQuery, selectedDistrict, selectedCategories, selectedStatus, sortBy, includeStatewide])
 
     // Load all projects on mount
     useEffect(() => {
@@ -182,6 +191,12 @@ function ProjectsPage() {
 
         return sortedResult
     }, [allProjects, searchQuery, selectedDistrict, selectedCategories, selectedStatus, sortBy, includeStatewide])
+
+    // Pagination calculations
+    const totalPages = Math.ceil(filteredProjects.length / ITEMS_PER_PAGE)
+    const startIndex = (currentPage - 1) * ITEMS_PER_PAGE
+    const endIndex = startIndex + ITEMS_PER_PAGE
+    const displayedProjects = filteredProjects.slice(startIndex, endIndex)
 
     const handleShare = (e, project) => {
         e.stopPropagation()
@@ -448,8 +463,8 @@ function ProjectsPage() {
                     className="projects-grid"
                     key={`${selectedCategories.join('-')}-${selectedDistrict}-${selectedStatus}-${searchQuery}-${includeStatewide}`}
                 >
-                    {filteredProjects.length > 0 ? (
-                        filteredProjects.map((project, index) => (
+                    {displayedProjects.length > 0 ? (
+                        displayedProjects.map((project, index) => (
                             <motion.article
                                 key={project.id}
                                 id={`project-card-${project.id}`}
@@ -524,6 +539,57 @@ function ProjectsPage() {
                         </div>
                     )}
                 </div>
+
+                {/* Pagination Controls */}
+                {filteredProjects.length > ITEMS_PER_PAGE && (
+                    <div className="pagination-controls">
+                        <button
+                            className="pagination-btn"
+                            onClick={() => setCurrentPage(prev => Math.max(1, prev - 1))}
+                            disabled={currentPage === 1}
+                        >
+                            <span className="material-symbols-outlined">chevron_left</span>
+                            <span className="pagination-btn-text">Previous</span>
+                        </button>
+
+                        <div className="pagination-pages">
+                            {Array.from({ length: totalPages }, (_, i) => i + 1).map(page => {
+                                // Show first page, last page, current page, and pages around current
+                                const showPage = page === 1 ||
+                                    page === totalPages ||
+                                    (page >= currentPage - 1 && page <= currentPage + 1)
+
+                                // Show ellipsis when there's a gap
+                                const showEllipsisBefore = page === currentPage - 1 && page > 2
+                                const showEllipsisAfter = page === currentPage + 1 && page < totalPages - 1
+
+                                return (
+                                    <div key={page}>
+                                        {showEllipsisBefore && <span className="pagination-ellipsis">...</span>}
+                                        {showPage && (
+                                            <button
+                                                className={`pagination-page ${page === currentPage ? 'active' : ''}`}
+                                                onClick={() => setCurrentPage(page)}
+                                            >
+                                                {page}
+                                            </button>
+                                        )}
+                                        {showEllipsisAfter && <span className="pagination-ellipsis">...</span>}
+                                    </div>
+                                )
+                            })}
+                        </div>
+
+                        <button
+                            className="pagination-btn"
+                            onClick={() => setCurrentPage(prev => Math.min(totalPages, prev + 1))}
+                            disabled={currentPage === totalPages}
+                        >
+                            <span className="pagination-btn-text">Next</span>
+                            <span className="material-symbols-outlined">chevron_right</span>
+                        </button>
+                    </div>
+                )}
             </main>
 
             {/* Floating Back to Map Button */}
