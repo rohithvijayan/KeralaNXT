@@ -1,4 +1,4 @@
-import { useState, useEffect, useMemo } from 'react'
+import { useState, useEffect, useMemo, useRef } from 'react'
 import { useNavigate, useLocation, Link } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
 import Header from '../components/Header'
@@ -60,6 +60,30 @@ function ProjectsPage() {
             setIncludeStatewide(true)
         }
     }, [location.state])
+
+    // Handle browser back button for modal
+    const modalHistoryRef = useRef(false)
+
+    useEffect(() => {
+        if (selectedProject && !modalHistoryRef.current) {
+            // Push a new history state when modal opens
+            window.history.pushState({ modal: true }, '')
+            modalHistoryRef.current = true
+        }
+    }, [selectedProject])
+
+    useEffect(() => {
+        const handlePopState = (event) => {
+            if (selectedProject) {
+                // Close modal when back button is pressed
+                setSelectedProject(null)
+                modalHistoryRef.current = false
+            }
+        }
+
+        window.addEventListener('popstate', handlePopState)
+        return () => window.removeEventListener('popstate', handlePopState)
+    }, [selectedProject])
 
     // Reset pagination when filters change
     useEffect(() => {
@@ -233,7 +257,24 @@ function ProjectsPage() {
 
     return (
         <div className="projects-page">
-            <Header showBack title="All Projects" onBack={() => navigate('/')} />
+            <Header
+                showBack
+                title="All Projects"
+                onBack={() => {
+                    if (selectedProject) {
+                        // Close modal if it's open
+                        setSelectedProject(null)
+                        modalHistoryRef.current = false
+                        // Remove the history state we added
+                        if (window.history.state?.modal) {
+                            window.history.back()
+                        }
+                    } else {
+                        // Navigate to home if modal is not open
+                        navigate('/')
+                    }
+                }}
+            />
 
             <div className="projects-header-desktop desktop-only">
                 <nav className="breadcrumb">
@@ -607,7 +648,14 @@ function ProjectsPage() {
             <ProjectModal
                 project={selectedProject}
                 isOpen={!!selectedProject}
-                onClose={() => setSelectedProject(null)}
+                onClose={() => {
+                    if (modalHistoryRef.current) {
+                        // Go back to close modal (removes the history state we added)
+                        window.history.back()
+                    } else {
+                        setSelectedProject(null)
+                    }
+                }}
             />
         </div>
     )
