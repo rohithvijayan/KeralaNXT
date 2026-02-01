@@ -344,19 +344,204 @@
     font-size: 18px;
 }
 
+.hero-actions {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 24px;
+}
+
+.btn-hero {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 0 24px;
+    height: 60px;
+    border-radius: 14px;
+    font-weight: 700;
+    font-size: 15px;
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    color: #ffffff;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.btn-cta.keral-highlight {
+    background: #ffffff;
+    color: #10221d;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
+    justify-content: space-between;
+    padding: 0 24px;
+    width: auto;
+    min-width: 240px;
+    height: 60px;
+    border-radius: 16px;
+    border: 1px solid #ffffff;
+}
+
+.btn-cta.keral-highlight .cta-kerala-content {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+}
+
+.btn-cta.keral-highlight .kerala-label {
+    font-size: 9px;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: #0fb48c;
+    letter-spacing: 1px;
+}
+
+.btn-cta.keral-highlight h3 {
+    margin: 0;
+    font-size: 16px;
+    font-weight: 800;
+}
+
+.btn-cta.keral-highlight .material-symbols-outlined {
+    font-size: 26px;
+    color: #10221d;
+}
+
+.btn-cta.keral-highlight:hover {
+    background: #f0fdf9;
+    transform: translateY(-4px);
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.2);
+}
+
+/* Kerala Insight Modal */
+.kerala-modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(10px);
+    z-index: 2000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.kerala-modal-card {
+    background: #ffffff;
+    width: 100%;
+    max-width: 440px;
+    border-radius: 28px;
+    position: relative;
+    padding: 40px 32px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.25);
+    text-align: center;
+}
+
+.modal-close-btn {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background: #f8faf9;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #666;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.modal-close-btn:hover {
+    background: #ffeded;
+    color: #ff4d4d;
+}
+
+.kerala-modal-header {
+    margin-bottom: 24px;
+}
+
+.kerala-modal-header h2 {
+    font-size: 24px;
+    font-weight: 800;
+    color: #10221d;
+    margin: 4px 0 0;
+}
+
+.egg-image-container {
+    width: 180px;
+    height: 180px;
+    margin: 0 auto 24px;
+    background: radial-gradient(circle, #f0fdf9 0%, #ffffff 100%);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.egg-image {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    filter: drop-shadow(0 8px 16px rgba(0, 0, 0, 0.1));
+}
+
+.insight-message {
+    margin-bottom: 32px;
+}
+
+.insight-image {
+    width: 100%;
+    max-width: 360px;
+    height: auto;
+    margin-bottom: 16px;
+    border-radius: 12px;
+}
+
+.insight-tag {
+    font-size: 11px;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: #0fb48c;
+    background: #f0fdf9;
+    padding: 4px 12px;
+    border-radius: 6px;
+}
+
+.modal-cta-btn {
+    width: 100%;
+    height: 54px;
+    background: #10221d;
+    color: #ffffff;
+    border: none;
+    border-radius: 14px;
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.modal-cta-btn:hover {
+    background: #1e463a;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(16, 34, 29, 0.3);
+}
+
 /* Responsive */
 @media (min-width: 768px) {
-    .sector-cta-wrap {
-        flex-direction: row;
-        justify-content: center;
-        gap: 24px;
+    .hero-actions {
+        gap: 20px;
     }
 
-    .btn-cta {
-        width: 280px;
-        height: 64px;
-        padding: 0 40px;
-        font-size: 16px;
-        border-radius: 18px;
+    .btn-cta.keral-highlight {
+        min-width: 280px;
     }
 }

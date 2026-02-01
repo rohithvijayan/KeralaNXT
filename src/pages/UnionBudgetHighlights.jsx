@@ -1,5 +1,5 @@
-import { useState, useMemo } from 'react'
-import { useNavigate } from 'react-router-dom'
+import { useState, useMemo, useEffect } from 'react'
+import { useNavigate, useLocation } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
 import Header from '../components/Header'
 import { getUnionMajorAnnouncements } from '../data/unionBudgetLoader'
@@ -7,6 +7,7 @@ import './UnionBudgetHighlights.css'
 
 const UnionBudgetHighlights = () => {
     const navigate = useNavigate()
+    const location = useLocation()
     const allAnnouncements = getUnionMajorAnnouncements()
 
     const [searchTerm, setSearchTerm] = useState('')
@@ -14,6 +15,15 @@ const UnionBudgetHighlights = () => {
     const [currentPage, setCurrentPage] = useState(1)
     const [selectedAcc, setSelectedAcc] = useState(null)
     const itemsPerPage = 20
+
+    // Check for target filter in URL on mount
+    useEffect(() => {
+        const params = new URLSearchParams(location.search)
+        const target = params.get('target')
+        if (target === 'Kerala') {
+            setSearchTerm('Kerala')
+        }
+    }, [location])
 
     const sectors = useMemo(() => {
         const set = new Set(allAnnouncements.map(a => a.sector.split(' / ')[0]))

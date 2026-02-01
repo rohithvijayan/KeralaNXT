@@ -1,6 +1,6 @@
 import React from 'react';
 import { AdvancedImage } from '@cloudinary/react';
-import { fill } from "@cloudinary/url-gen/actions/resize";
+import { fill, fit } from "@cloudinary/url-gen/actions/resize";
 import { autoGravity } from "@cloudinary/url-gen/qualifiers/gravity";
 import { cld, isCloudinaryId } from '../utils/cloudinary';
 
@@ -8,16 +8,20 @@ import { cld, isCloudinaryId } from '../utils/cloudinary';
  * A reusable Image component that handles both Cloudinary IDs and standard URLs.
  * It provides automatic optimization and resizing for Cloudinary assets.
  */
-const CldImage = ({ src, alt, className, style, width = 800, height = 450 }) => {
+const CldImage = ({ src, alt, className, style, width = 800, height = 450, mode = 'fill' }) => {
     if (!src) return null;
 
     // If it's a Cloudinary public ID, use AdvancedImage
     if (isCloudinaryId(src)) {
         const myImage = cld.image(src);
 
-        // Apply shared transformations (optimization and intelligent cropping)
+        // Apply transformations
+        const resizeAction = mode === 'fit'
+            ? fit().width(width).height(height)
+            : fill().width(width).height(height).gravity(autoGravity());
+
         myImage
-            .resize(fill().width(width).height(height).gravity(autoGravity()))
+            .resize(resizeAction)
             .format('auto')
             .quality('auto');
 
