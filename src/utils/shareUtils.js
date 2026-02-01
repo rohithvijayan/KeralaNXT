@@ -165,6 +165,14 @@ export const shareElementAsImage = async (elementId, options = {}) => {
                         clonedElement.style.background = 'linear-gradient(180deg, #06120f 0%, #0c1a16 100%)';
                         clonedElement.style.color = '#ffffff';
 
+                        // Target the center amount for MP Analytics share to be white
+                        if (elementId === 'analytics-chart-section') {
+                            const centerAmount = clonedElement.querySelector('.center-amount');
+                            if (centerAmount) {
+                                centerAmount.style.color = '#ffffff';
+                            }
+                        }
+
                         // Hide unnecessary sections for Budget Details share
                         const sectionsToHide = clonedElement.querySelectorAll('.compare-cta-section, .kpi-section');
                         sectionsToHide.forEach(el => el.style.display = 'none');

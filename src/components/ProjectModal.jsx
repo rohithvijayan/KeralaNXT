@@ -265,9 +265,12 @@ function ProjectModal({ project, isOpen, onClose }) {
                                         <div className="modal-stat-card">
                                             <div className="modal-stat-header">
                                                 <span className="material-symbols-outlined">payments</span>
-                                                <span>Budget</span>
+                                                <span>Total Budget</span>
                                             </div>
                                             <p className="modal-stat-value">{project.budget}</p>
+                                            <p className="modal-stat-disclaimer" style={{ fontSize: '10px', marginTop: '4px', opacity: 0.7, fontStyle: 'italic', color: 'var(--color-text-muted)' }}>
+                                                Budget Is Total Expenditure(For Joint Ventures It Includes Investment Of All Parties Involved)
+                                            </p>
                                         </div>
                                     )}
 
@@ -519,6 +522,16 @@ function ProjectModal({ project, isOpen, onClose }) {
                                 borderRadius: '20px',
                                 padding: '24px'
                             }}>
+                                <div style={{
+                                    fontSize: '8px',
+                                    color: '#ffffff',
+                                    opacity: 0.6,
+                                    marginBottom: '4px',
+                                    fontStyle: 'italic',
+                                    lineHeight: '1.2'
+                                }}>
+                                    Budget Is Total Expenditure(For JV It Includes Total Investment)
+                                </div>
                                 <div style={{
                                     fontSize: '11px',
                                     color: '#ffffff',

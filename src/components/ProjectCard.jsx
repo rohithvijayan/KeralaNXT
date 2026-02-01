@@ -53,7 +53,7 @@ function ProjectCard({ project, size = 'large', onClick }) {
                 </div>
                 <div className="project-card-small-content">
                     <h3 className="project-card-small-title">{project.shortTitle || project.title}</h3>
-                    {project.budget && <p className="project-card-small-budget">{project.budget}</p>}
+                    {project.budget && <p className="project-card-small-budget" title="Budget Is Total Expenditure(For Joint Ventures It Includes Investment Of All Parties Involved)">{project.budget}</p>}
                 </div>
             </div>
         )
@@ -90,7 +90,7 @@ function ProjectCard({ project, size = 'large', onClick }) {
                         </span>
                     </div>
                     {project.budget && (
-                        <div className="project-card-budget">
+                        <div className="project-card-budget" title="Budget Is Total Expenditure(For Joint Ventures It Includes Investment Of All Parties Involved)">
                             <span>{project.budget}</span>
                         </div>
                     )}
