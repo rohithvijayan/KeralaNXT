@@ -282,7 +282,6 @@ function HomePage() {
                 <div className="footer-content">
                     <div className="footer-info">
                         <p className="footer-copyright">© keralaStory</p>
-                        <p className="footer-department">Rohith Vijayan</p>
                     </div>
                     <div className="footer-social">
                         <a href="https://github.com/rohithvijayan/KeralaNXT" aria-label="Website">
