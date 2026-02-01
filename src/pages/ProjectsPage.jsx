@@ -489,7 +489,9 @@ function ProjectsPage() {
                         </div>
                         <p className="projects-disclaimer">
                             <span className="material-symbols-outlined">info</span>
-                            There are many more projects, this list contains the one's tracked from public sources
+                            There are many more projects, this list contains the one's tracked from public sources.
+                            <br />
+                            Budget Is Total Expenditure(For Joint Ventures It Includes Investment Of All Parties Involved).
                         </p>
                     </div>
 
@@ -553,7 +555,7 @@ function ProjectsPage() {
                                         {project.budget && (
                                             <div className="project-budget">
                                                 <span className="budget-label">Budget</span>
-                                                <span className="budget-value">{formatBudget(project.budget)}</span>
+                                                <span className="budget-value" title="Budget Is Total Expenditure(For Joint Ventures It Includes Investment Of All Parties Involved)">{formatBudget(project.budget)}</span>
                                             </div>
                                         )}
                                         <div className="project-card-actions">

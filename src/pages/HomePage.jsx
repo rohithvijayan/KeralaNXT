@@ -282,6 +282,10 @@ function HomePage() {
                 <div className="footer-content">
                     <div className="footer-info">
                         <p className="footer-copyright">© keralaStory</p>
+                        <p className="footer-disclaimer">
+                            Data sources: Aggregated from official public reports and disclosures.
+                            In case of data mismatch, inform via feedback.
+                        </p>
                     </div>
                     <div className="footer-social">
                         <a href="https://github.com/rohithvijayan/KeralaNXT" aria-label="Website">

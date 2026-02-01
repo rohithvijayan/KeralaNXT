@@ -443,6 +443,15 @@
     color: var(--color-text);
 }
 
+.footer-disclaimer {
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+    opacity: 0.8;
+    margin-top: 0.5rem;
+    max-width: 30rem;
+    line-height: 1.4;
+}
+
 .footer-department {
     font-size: 0.75rem;
     color: var(--color-text-muted);
