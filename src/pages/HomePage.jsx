@@ -284,15 +284,9 @@ function HomePage() {
                         <p className="footer-copyright">© keralaStory</p>
                         <p className="footer-department">Rohith Vijayan</p>
                     </div>
-                    <div className="footer-links">
-                        <a href="https://www.linkedin.com/in/rohithvijayan/">Contact Us</a>
-                    </div>
                     <div className="footer-social">
                         <a href="https://github.com/rohithvijayan/KeralaNXT" aria-label="Website">
                             <span className="material-symbols-outlined">code</span>
-                        </a>
-                        <a href="mailto:rohithvij20@gmail.com" aria-label="Email">
-                            <span className="material-symbols-outlined">mail</span>
                         </a>
                     </div>
                 </div>
