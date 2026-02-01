@@ -1,0 +1,213 @@
+{
+    "budget_metadata": {
+        "financial_year": "2026-2027",
+        "document_title": "Budget at a Glance",
+        "currency": "INR Crore",
+        "source_document_citation": "[cite: 1, 6, 52]"
+    },
+    "budget_aggregates": {
+        "description": "Summary of Receipts and Expenditure [cite: 51]",
+        "data": [
+            {
+                "category": "Revenue Receipts",
+                "2024_25_actuals": 3036619,
+                "2025_26_budget_estimates": 3420409,
+                "2025_26_revised_estimates": 3342323,
+                "2026_27_budget_estimates": 3533150
+            },
+            {
+                "category": "Capital Receipts",
+                "2024_25_actuals": 1616249,
+                "2025_26_budget_estimates": 1644936,
+                "2025_26_revised_estimates": 1622519,
+                "2026_27_budget_estimates": 1814165
+            },
+            {
+                "category": "Total Receipts",
+                "2024_25_actuals": 4652867,
+                "2025_26_budget_estimates": 5065345,
+                "2025_26_revised_estimates": 4964842,
+                "2026_27_budget_estimates": 5347315
+            },
+            {
+                "category": "Total Expenditure",
+                "2024_25_actuals": 4652867,
+                "2025_26_budget_estimates": 5065345,
+                "2025_26_revised_estimates": 4964842,
+                "2026_27_budget_estimates": 5347315
+            },
+            {
+                "category": "Effective Capital Expenditure",
+                "2024_25_actuals": 1324609,
+                "2025_26_budget_estimates": 1548282,
+                "2025_26_revised_estimates": 1403906,
+                "2026_27_budget_estimates": 1714523
+            }
+        ]
+    },
+    "deficit_indicators": {
+        "description": "Deficit statistics as percentage of GDP in parentheses [cite: 150]",
+        "data": [
+            {
+                "indicator": "Fiscal Deficit",
+                "2026_27_amount": 1695768,
+                "2026_27_percent_gdp": 4.3
+            },
+            {
+                "indicator": "Revenue Deficit",
+                "2026_27_amount": 592344,
+                "2026_27_percent_gdp": 1.5
+            },
+            {
+                "indicator": "Effective Revenue Deficit",
+                "2026_27_amount": 99642,
+                "2026_27_percent_gdp": 0.3
+            },
+            {
+                "indicator": "Primary Deficit",
+                "2026_27_amount": 291796,
+                "2026_27_percent_gdp": 0.7
+            }
+        ]
+    },
+    "rupee_profile_2026_27": {
+        "comes_from_percent": {
+            "Borrowings & Other Liabilities": 24,
+            "Income Tax": 21,
+            "Corporation Tax": 18,
+            "GST & Other Taxes": 15,
+            "Non Tax Revenue": 10,
+            "Union Excise Duties": 6,
+            "Customs": 4,
+            "Non Debt Capital Receipts": 2,
+            "source": "[cite: 81, 82, 84, 86, 88, 89, 90, 91, 93]"
+        },
+        "goes_to_percent": {
+            "States Share of Taxes": 22,
+            "Interest Payment": 20,
+            "Central Sector Scheme": 17,
+            "Defence": 11,
+            "Centrally Sponsored Scheme": 8,
+            "Finance Commission & Other transfers": 7,
+            "Other Expenditures": 7,
+            "Major Subsidies": 6,
+            "Civil Pension": 2,
+            "source": "[cite: 118, 119, 120, 124, 126, 128, 133, 136, 138, 140]"
+        }
+    },
+    "major_expenditure_items": {
+        "description": "Sector-wise allocation in Crore [cite: 632]",
+        "2026_27_estimates": [
+            {
+                "item": "Interest Payments",
+                "amount": 1403972
+            },
+            {
+                "item": "Defence",
+                "amount": 594585
+            },
+            {
+                "item": "Transport",
+                "amount": 598520
+            },
+            {
+                "item": "Rural Development",
+                "amount": 273108
+            },
+            {
+                "item": "Pension",
+                "amount": 296214
+            },
+            {
+                "item": "Chemicals & Fertilisers Subsidy",
+                "amount": 170781
+            },
+            {
+                "item": "Food Subsidy",
+                "amount": 227629
+            },
+            {
+                "item": "Agriculture and Allied Activities",
+                "amount": 162671
+            },
+            {
+                "item": "Education",
+                "amount": 139289
+            },
+            {
+                "item": "Health",
+                "amount": 104599
+            },
+            {
+                "item": "IT and Telecom",
+                "amount": 74560
+            }
+        ]
+    },
+    "key_schemes_allocation": {
+        "description": "Selected high-impact and new schemes (BE 2026-27) [cite: 702, 704, 707, 709, 711, 713]",
+        "schemes": [
+            {
+                "name": "MGNREGA",
+                "category": "Rural Development",
+                "2025_26_be": 86000,
+                "2026_27_be": 30000,
+                "note": "Significant reduction from previous BE"
+            },
+            {
+                "name": "PM-KISAN",
+                "category": "Agriculture",
+                "2025_26_be": 63500,
+                "2026_27_be": 63500
+            },
+            {
+                "name": "Jal Jeevan Mission (JJM)",
+                "category": "Water",
+                "2025_26_be": 67000,
+                "2026_27_be": 67670
+            },
+            {
+                "name": "National Highways Authority of India (Investment)",
+                "category": "Infrastructure",
+                "2025_26_be": 170266,
+                "2026_27_be": 187293
+            },
+            {
+                "name": "Railways (Rolling Stock)",
+                "category": "Infrastructure",
+                "2025_26_be": 45530,
+                "2026_27_be": 52109
+            },
+            {
+                "name": "Semiconductors and Display Ecosystem",
+                "category": "Technology",
+                "2025_26_be": 7000,
+                "2026_27_be": 8000
+            },
+            {
+                "name": "IndiaAI Mission",
+                "category": "Technology",
+                "2025_26_be": 2000,
+                "2026_27_be": 1000
+            },
+            {
+                "name": "PM Surya Ghar Muft Bijli Yojana",
+                "category": "Energy",
+                "2025_26_be": 20000,
+                "2026_27_be": 22000
+            },
+            {
+                "name": "PM Internship Scheme",
+                "category": "Employment",
+                "2025_26_be": 10831,
+                "2026_27_be": 4788
+            },
+            {
+                "name": "Mission Mausam",
+                "category": "Science/Tech",
+                "2025_26_be": 1329,
+                "2026_27_be": 1342
+            }
+        ]
+    }
+}

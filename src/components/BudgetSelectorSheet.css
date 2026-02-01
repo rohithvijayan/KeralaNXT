@@ -1,0 +1,152 @@
+.budget-sheet-backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(4px);
+    z-index: 1000;
+}
+
+.budget-sheet {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #ffffff;
+    border-radius: 24px 24px 0 0;
+    padding: 24px;
+    z-index: 1001;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    box-shadow: 0 -10px 40px rgba(0, 0, 0, 0.1);
+}
+
+.budget-sheet-close {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: #f0f4f3;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #61897f;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    z-index: 2;
+}
+
+.budget-sheet-close:active {
+    background: #e0e6e4;
+    transform: scale(0.9);
+}
+
+.budget-sheet-close .material-symbols-outlined {
+    font-size: 20px;
+}
+
+.budget-sheet-handle {
+    width: 40px;
+    height: 4px;
+    background: #e0e0e0;
+    border-radius: 2px;
+    align-self: center;
+    margin-bottom: 8px;
+}
+
+.budget-sheet-title {
+    font-size: 18px;
+    font-weight: 800;
+    color: #10221d;
+    text-align: center;
+    margin: 0;
+}
+
+.budget-options {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+}
+
+.budget-option-card {
+    background: #f8faf9;
+    border: 1px solid #e8f0ed;
+    border-radius: 16px;
+    padding: 20px 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.budget-option-card:active {
+    transform: scale(0.95);
+    background: #eef2f1;
+}
+
+.budget-option-card .icon-box {
+    width: 48px;
+    height: 48px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #ffffff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.budget-option-card .icon-box .material-symbols-outlined {
+    font-size: 24px;
+}
+
+.budget-option-card.state .icon-box {
+    color: #e65100;
+}
+
+.budget-option-card.union .icon-box {
+    color: #13ecb2;
+}
+
+.budget-option-card span:last-child {
+    font-size: 14px;
+    font-weight: 700;
+    color: #10221d;
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    .budget-sheet {
+        width: 450px;
+        bottom: auto;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%) !important;
+        border-radius: 24px;
+        padding: 40px 32px;
+    }
+
+    .budget-sheet-handle {
+        display: none;
+    }
+
+    .budget-sheet-title {
+        font-size: 22px;
+        margin-bottom: 8px;
+    }
+
+    .budget-options {
+        gap: 24px;
+    }
+
+    .budget-option-card {
+        padding: 28px 20px;
+    }
+}

@@ -1,0 +1,594 @@
+[
+    {
+        "id": 1,
+        "title": "Biopharma SHAKTI",
+        "description": "Strategy for Healthcare Advancement through Knowledge, Technology and Innovation to develop India as a global Biopharma manufacturing hub. Includes 3 new NIPERs and upgrading 7 existing ones.",
+        "sector": "Healthcare / Pharmaceuticals",
+        "state": "Pan-India",
+        "Budget": "₹10,000 Crore"
+    },
+    {
+        "id": 2,
+        "title": "India Semiconductor Mission (ISM) 2.0",
+        "description": "Expanded mission to produce equipment and materials, design full-stack Indian IP, and fortify supply chains.",
+        "sector": "Technology / Electronics",
+        "state": "Pan-India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 3,
+        "title": "Electronics Components Manufacturing Scheme",
+        "description": "Increased outlay to capitalise on the momentum of electronics component manufacturing.",
+        "sector": "Electronics",
+        "state": "Pan-India",
+        "Budget": "₹40,000 Crore"
+    },
+    {
+        "id": 4,
+        "title": "Rare Earth Corridors",
+        "description": "Establishment of dedicated corridors to promote mining, processing, research, and manufacturing of rare earths.",
+        "sector": "Mining / Strategic Minerals",
+        "state": "Odisha, Kerala, Andhra Pradesh, Tamil Nadu",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 5,
+        "title": "Dedicated Chemical Parks",
+        "description": "Scheme to support States in establishing 3 dedicated Chemical Parks through the challenge route on a cluster-based plug-and-play model.",
+        "sector": "Chemicals",
+        "state": "TBD (Challenge Route)",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 6,
+        "title": "Hi-Tech Tool Rooms",
+        "description": "Establishment of digitally enabled automated service bureaus at 2 locations by CPSEs for high-precision component manufacturing.",
+        "sector": "Manufacturing",
+        "state": "TBD",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 7,
+        "title": "Construction and Infrastructure Equipment (CIE) Scheme",
+        "description": "Scheme to strengthen domestic manufacturing of high-value and technologically-advanced construction equipment.",
+        "sector": "Manufacturing",
+        "state": "Pan-India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 8,
+        "title": "Container Manufacturing Scheme",
+        "description": "Scheme to create a globally competitive container manufacturing ecosystem.",
+        "sector": "Manufacturing",
+        "state": "Pan-India",
+        "Budget": "₹10,000 Crore"
+    },
+    {
+        "id": 9,
+        "title": "Textile Expansion and Employment Scheme",
+        "description": "Modernization of traditional clusters with capital support for machinery, technology upgradation, and testing centres.",
+        "sector": "Textiles",
+        "state": "Pan-India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 10,
+        "title": "National Handloom and Handicraft Programme",
+        "description": "Integration of existing schemes to ensure targeted support for weavers and artisans.",
+        "sector": "Textiles / Handicrafts",
+        "state": "Pan-India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 11,
+        "title": "Tex-Eco Initiative",
+        "description": "Initiative to promote globally competitive and sustainable textiles and apparels.",
+        "sector": "Textiles",
+        "state": "Pan-India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 12,
+        "title": "Samarth 2.0",
+        "description": "Upgrading the textile skilling ecosystem through collaboration with industry and academic institutions.",
+        "sector": "Skill Development / Textiles",
+        "state": "Pan-India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 13,
+        "title": "Mega Textile Parks",
+        "description": "Setting up of Mega Textile Parks in challenge mode focusing on value addition to technical textiles.",
+        "sector": "Textiles",
+        "state": "TBD (Challenge Route)",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 14,
+        "title": "Mahatma Gandhi Gram Swaraj Initiative",
+        "description": "Initiative to strengthen khadi, handloom, and handicrafts for global market linkage and branding.",
+        "sector": "Rural Development / Textiles",
+        "state": "Pan-India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 15,
+        "title": "Sports Goods Manufacturing Initiative",
+        "description": "Dedicated initiative to promote manufacturing, research, and innovation in sports equipment design.",
+        "sector": "Manufacturing / Sports",
+        "state": "Pan-India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 16,
+        "title": "Legacy Industrial Clusters Revival",
+        "description": "Scheme to revive 200 legacy industrial clusters to improve cost competitiveness and efficiency.",
+        "sector": "Industry",
+        "state": "Pan-India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 17,
+        "title": "SME Growth Fund",
+        "description": "Dedicated fund to create future 'Champion' MSMEs by incentivizing enterprises based on select criteria.",
+        "sector": "MSME",
+        "state": "Pan-India",
+        "Budget": "₹10,000 Crore"
+    },
+    {
+        "id": 18,
+        "title": "Self-Reliant India Fund (Top-up)",
+        "description": "Additional funding to continue support for micro enterprises and maintain their access to risk capital.",
+        "sector": "MSME",
+        "state": "Pan-India",
+        "Budget": "₹2,000 Crore"
+    },
+    {
+        "id": 19,
+        "title": "Corporate Mitras",
+        "description": "Development of a cadre of accredited para-professionals to help MSMEs meet compliance requirements.",
+        "sector": "Professional Services / MSME",
+        "state": "Tier-II and Tier-III Towns",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 20,
+        "title": "Public Capital Expenditure (Capex)",
+        "description": "Central government allocation for capital expenditure in FY2026-27.",
+        "sector": "Infrastructure",
+        "state": "Pan-India",
+        "Budget": "₹12.2 Lakh Crore"
+    },
+    {
+        "id": 21,
+        "title": "Infrastructure Risk Guarantee Fund",
+        "description": "Fund to provide prudently calibrated partial credit guarantees to lenders for infrastructure projects.",
+        "sector": "Infrastructure / Finance",
+        "state": "Pan-India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 22,
+        "title": "Dedicated Freight Corridors (New)",
+        "description": "Establishment of new corridors connecting Dankuni in the East to Surat in the West.",
+        "sector": "Railways / Logistics",
+        "state": "West Bengal to Gujarat (East-West)",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 23,
+        "title": "National Waterways Operationalization",
+        "description": "Operationalising 20 new National Waterways starting with NW-5 and connecting mineral rich areas to ports.",
+        "sector": "Transport / Logistics",
+        "state": "Odisha (NW-5) and others",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 24,
+        "title": "Ship Repair Ecosystem",
+        "description": "Setting up of ship repair ecosystems catering to inland waterways.",
+        "sector": "Transport / Infrastructure",
+        "state": "Uttar Pradesh (Varanasi), Bihar (Patna)",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 25,
+        "title": "Coastal Cargo Promotion Scheme",
+        "description": "Incentivising modal shift to increase share of inland waterways and coastal shipping from 6% to 12%.",
+        "sector": "Transport / Logistics",
+        "state": "Coastal States",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 26,
+        "title": "Seaplane VGF Scheme",
+        "description": "Viability Gap Funding scheme to provide support for seaplane operations and indigenize manufacturing.",
+        "sector": "Aviation / Tourism",
+        "state": "Pan-India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 27,
+        "title": "Carbon Capture Utilization and Storage (CCUS)",
+        "description": "Scheme to adopt CCUS technologies in power, steel, cement, refineries, and chemicals sectors.",
+        "sector": "Energy / Environment",
+        "state": "Pan-India",
+        "Budget": "₹20,000 Crore"
+    },
+    {
+        "id": 28,
+        "title": "City Economic Regions (CER)",
+        "description": "Allocation for implementing plans of City Economic Regions based on specific growth drivers.",
+        "sector": "Urban Development",
+        "state": "Selected Cities (Tier II/III)",
+        "Budget": "₹5,000 Crore per CER"
+    },
+    {
+        "id": 29,
+        "title": "High-Speed Rail Corridors",
+        "description": "Development of 7 corridors: Mumbai-Pune, Pune-Hyderabad, Hyderabad-Bengaluru, Hyderabad-Chennai, Chennai-Bengaluru, Delhi-Varanasi, Varanasi-Siliguri.",
+        "sector": "Railways",
+        "state": "Multiple States (MH, TS, KA, TN, DL, UP, WB)",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 30,
+        "title": "Municipal Bonds Incentive",
+        "description": "Incentive for single issuance of municipal bonds of more than ₹1000 crore.",
+        "sector": "Finance / Urban Dev",
+        "state": "Large Cities",
+        "Budget": "₹100 Crore (Incentive)"
+    },
+    {
+        "id": 31,
+        "title": "Allied Health Professionals (AHP) Institutes",
+        "description": "Upgrading existing and establishing new AHP institutions in 10 selected disciplines to add 100,000 AHPs.",
+        "sector": "Healthcare / Education",
+        "state": "Pan-India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 32,
+        "title": "Caregiver Training Programme",
+        "description": "NSQF-aligned programmes to train 1.5 lakh multiskilled caregivers.",
+        "sector": "Skill Development / Healthcare",
+        "state": "Pan-India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 33,
+        "title": "Regional Medical Hubs",
+        "description": "Scheme to support States in establishing 5 Regional Medical Hubs for Medical Value Tourism.",
+        "sector": "Healthcare / Tourism",
+        "state": "TBD (State Partnership)",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 34,
+        "title": "All India Institutes of Ayurveda",
+        "description": "Setting up 3 new All India Institutes of Ayurveda.",
+        "sector": "AYUSH / Healthcare",
+        "state": "TBD",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 35,
+        "title": "Veterinary College Subsidy Scheme",
+        "description": "Loan-linked capital subsidy support for establishment of veterinary colleges, hospitals, and labs.",
+        "sector": "Animal Husbandry",
+        "state": "Pan-India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 36,
+        "title": "AVGC Content Creator Labs",
+        "description": "Setting up AVGC Content Creator Labs in 15,000 secondary schools and 500 colleges.",
+        "sector": "Education / Media",
+        "state": "Pan-India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 37,
+        "title": "National Institute of Design (New)",
+        "description": "Establishment of a new NID in the eastern region of India.",
+        "sector": "Education / Design",
+        "state": "Eastern India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 38,
+        "title": "University Townships",
+        "description": "Creating 5 University Townships in the vicinity of major industrial and logistic corridors.",
+        "sector": "Education / Infrastructure",
+        "state": "TBD (Challenge Route)",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 39,
+        "title": "Girls' Hostels Scheme",
+        "description": "Establishment of 1 girls' hostel in Higher Education STEM institutions in every district.",
+        "sector": "Education / Women Empowerment",
+        "state": "All Districts",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 40,
+        "title": "Telescope Infrastructure Facilities",
+        "description": "Setting up or upgrading 4 facilities: National Large Solar Telescope, National Large Optical-infrared Telescope, Himalayan Chandra Telescope, and COSMOS-2 Planetarium.",
+        "sector": "Science & Technology",
+        "state": "Pan-India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 41,
+        "title": "National Institute of Hospitality",
+        "description": "Upgrading the existing National Council for Hotel Management and Catering Technology.",
+        "sector": "Tourism / Education",
+        "state": "Not Specified",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 42,
+        "title": "Tourist Guide Upskilling Scheme",
+        "description": "Pilot scheme for upskilling 10,000 guides in 20 iconic tourist sites.",
+        "sector": "Tourism / Skill Development",
+        "state": "Pan-India (20 Sites)",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 43,
+        "title": "National Destination Digital Knowledge Grid",
+        "description": "Digital documentation of all places of cultural, spiritual, and heritage significance.",
+        "sector": "Tourism / Digital",
+        "state": "Pan-India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 44,
+        "title": "Mountain Trails Development",
+        "description": "Development of ecologically sustainable trails in HP, UK, J&K, Araku Valley (AP), and Podhigai Malai (TN/KL border).",
+        "sector": "Tourism",
+        "state": "Himachal, Uttarakhand, J&K, AP, TN",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 45,
+        "title": "Turtle Trails",
+        "description": "Development of trails along key nesting sites in coastal areas.",
+        "sector": "Tourism",
+        "state": "Odisha, Karnataka, Kerala",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 46,
+        "title": "Bird Watching Trails",
+        "description": "Development of bird watching trails along Pulikat lake.",
+        "sector": "Tourism",
+        "state": "Andhra Pradesh, Tamil Nadu",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 47,
+        "title": "Archaeological Sites Development",
+        "description": "Developing 15 archeological sites (e.g., Lothal, Dholavira, Rakhigarhi, Adichanallur, Sarnath, Hastinapur, Leh Palace) into vibrant cultural destinations.",
+        "sector": "Tourism / Culture",
+        "state": "Pan-India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 48,
+        "title": "Global Big Cat Summit",
+        "description": "India to host the first-ever Global Big Cat Summit for conservation strategies.",
+        "sector": "Environment",
+        "state": "Pan-India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 49,
+        "title": "Khelo India Mission (Expanded)",
+        "description": "Transformation of the Sports sector over the next decade with integrated talent development.",
+        "sector": "Sports",
+        "state": "Pan-India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 50,
+        "title": "Fisheries Reservoir Development",
+        "description": "Integrated development of 500 reservoirs and Amrit Sarovars.",
+        "sector": "Fisheries",
+        "state": "Pan-India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 51,
+        "title": "Animal Husbandry Entrepreneurship",
+        "description": "Credit-Linked Subsidy Programme and support for Livestock Farmer Producers Organisations.",
+        "sector": "Animal Husbandry",
+        "state": "Pan-India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 52,
+        "title": "Coconut Promotion Scheme",
+        "description": "Scheme to increase production and replace old trees with new saplings.",
+        "sector": "Agriculture",
+        "state": "Major Coconut Growing States",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 53,
+        "title": "Indian Cashew and Cocoa Programme",
+        "description": "Programme to make India self-reliant in raw cashew/cocoa and build global brands.",
+        "sector": "Agriculture",
+        "state": "Coastal States",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 54,
+        "title": "Sandalwood Cultivation Programme",
+        "description": "Partnering with States to promote focused cultivation and post-harvest processing.",
+        "sector": "Agriculture / Forestry",
+        "state": "TBD",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 55,
+        "title": "High-Density Orchards Programme",
+        "description": "Rejuvenation of old orchards and expansion of walnuts, almonds, and pine nuts.",
+        "sector": "Agriculture / Horticulture",
+        "state": "Hilly Regions",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 56,
+        "title": "Bharat-VISTAAR",
+        "description": "Virtually Integrated System to Access Agricultural Resources - AI tool integrating AgriStack.",
+        "sector": "Agriculture / Technology",
+        "state": "Pan-India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 57,
+        "title": "SHE Marts",
+        "description": "Self-Help Entrepreneur Marts set up as community-owned retail outlets for women within cluster level federations.",
+        "sector": "Rural Development / Women Empowerment",
+        "state": "Pan-India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 58,
+        "title": "Divyangjan Kaushal Yojana",
+        "description": "Livelihood training for Divyangjans in IT, AVGC, Hospitality, and F&B sectors.",
+        "sector": "Skill Development / Social Welfare",
+        "state": "Pan-India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 59,
+        "title": "Divyang Sahara Yojana",
+        "description": "Scheme for timely access to high-quality assistive devices and setting up Assistive Technology Marts.",
+        "sector": "Social Welfare",
+        "state": "Pan-India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 60,
+        "title": "NIMHANS-2",
+        "description": "Setting up a new National Institute for Mental Health in North India.",
+        "sector": "Healthcare",
+        "state": "North India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 61,
+        "title": "Emergency and Trauma Care Centres",
+        "description": "Establishing centres in District Hospitals to increase capacity by 50%.",
+        "sector": "Healthcare",
+        "state": "All Districts",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 62,
+        "title": "Purvodaya: East Coast Industrial Corridor",
+        "description": "Development of an integrated corridor with a node at Durgapur.",
+        "sector": "Infrastructure",
+        "state": "West Bengal, Odisha, Andhra Pradesh",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 63,
+        "title": "Purvodaya: E-Buses",
+        "description": "Provision of 4,000 e-buses for the Purvodaya States.",
+        "sector": "Transport",
+        "state": "Purvodaya States",
+        "Budget": "Allocated (4,000 Buses)"
+    },
+    {
+        "id": 64,
+        "title": "Buddhist Circuits Development (NE)",
+        "description": "Development of circuits in Arunachal Pradesh, Sikkim, Assam, Manipur, Mizoram, and Tripura.",
+        "sector": "Tourism / Culture",
+        "state": "North-Eastern States",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 65,
+        "title": "Finance Commission Grants",
+        "description": "Grants provided to states for FY 27 including Rural/Urban Local Body Grants.",
+        "sector": "State Support",
+        "state": "All States",
+        "Budget": "₹1.4 Lakh Crore"
+    },
+    {
+        "id": 66,
+        "title": "SASCI Scheme",
+        "description": "Support to states under the SASCI Scheme.",
+        "sector": "State Support",
+        "state": "All States",
+        "Budget": "₹2 Lakh Crore"
+    },
+    {
+        "id": 67,
+        "title": "CPSE REITs",
+        "description": "Setting up dedicated REITs to recycle real estate assets of CPSEs.",
+        "sector": "Finance / Infrastructure",
+        "state": "Pan-India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 68,
+        "title": "WHO Global Traditional Medicine Centre Upgrade",
+        "description": "Upgrading the centre in Jamnagar to bolster evidence-based research.",
+        "sector": "AYUSH / Healthcare",
+        "state": "Gujarat (Jamnagar)",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 69,
+        "title": "Upgrade of AYUSH Pharmacies",
+        "description": "Upgrading AYUSH pharmacies and Drug Testing Labs for higher certification standards.",
+        "sector": "AYUSH",
+        "state": "Pan-India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 70,
+        "title": "TReDS Measures",
+        "description": "Mandating TReDS for CPSEs and introducing credit guarantee support.",
+        "sector": "MSME / Finance",
+        "state": "Pan-India",
+        "Budget": "Not Specified"
+    },
+    {
+        "id": 71,
+        "title": "High Level Committee on Banking",
+        "description": "Committee to review the banking sector and align it with India's growth phase.",
+        "sector": "Finance / Banking",
+        "state": "Pan-India",
+        "Budget": "N/A"
+    },
+    {
+        "id": 72,
+        "title": "PFC & REC Restructuring",
+        "description": "Restructuring Power Finance Corporation and Rural Electrification Corporation.",
+        "sector": "Energy / Finance",
+        "state": "Pan-India",
+        "Budget": "N/A"
+    },
+    {
+        "id": 73,
+        "title": "Education to Employment Committee",
+        "description": "High-Powered Standing Committee to focus on Services Sector as a core driver.",
+        "sector": "Education / Employment",
+        "state": "Pan-India",
+        "Budget": "N/A"
+    },
+    {
+        "id": 74,
+        "title": "Foreign Assets of Small Taxpayers Disclosure Scheme",
+        "description": "One-time 6-month foreign asset disclosure scheme for small taxpayers.",
+        "sector": "Finance / Tax",
+        "state": "Pan-India",
+        "Budget": "N/A (Revenue Measure)"
+    }
+]

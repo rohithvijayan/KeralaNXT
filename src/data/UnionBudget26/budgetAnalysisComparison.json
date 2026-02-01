@@ -1,0 +1,482 @@
+{
+    "budget_comparison_analysis": {
+        "metadata": {
+            "fiscal_years_compared": [
+                "2025-2026",
+                "2026-2027"
+            ],
+            "document_sources": {
+                "2025_26": "unionbudget_at_a_glance2025.pdf",
+                "2026_27": "UNIONbudget_at_a_glance.pdf"
+            },
+            "currency_units": [
+                "INR Crore",
+                "Lakh Crore INR",
+                "Percentage of GDP"
+            ]
+        },
+        "macro_fiscal_framework": [
+            {
+                "metric": "Total Budget Size",
+                "unit": "Lakh Crore INR",
+                "be_2025_26": 50.65,
+                "be_2026_27": 53.47,
+                "change_analysis": "+5.6%",
+                "citations": [
+                    "[cite: 32]",
+                    "[cite: 859]"
+                ]
+            },
+            {
+                "metric": "Nominal GDP Assumption",
+                "unit": "Crore INR",
+                "be_2025_26": 35697923,
+                "be_2026_27": 39300393,
+                "change_analysis": "+10.1%",
+                "citations": [
+                    "[cite: 42]",
+                    "[cite: 870]"
+                ]
+            },
+            {
+                "metric": "Fiscal Deficit",
+                "unit": "Percentage of GDP",
+                "be_2025_26": 4.4,
+                "be_2026_27": 4.3,
+                "change_analysis": "-10 bps",
+                "citations": [
+                    "[cite: 129]",
+                    "[cite: 964]"
+                ]
+            },
+            {
+                "metric": "Revenue Deficit",
+                "unit": "Percentage of GDP",
+                "be_2025_26": 1.5,
+                "be_2026_27": 1.5,
+                "change_analysis": "Stable",
+                "citations": [
+                    "[cite: 129]",
+                    "[cite: 964]"
+                ]
+            },
+            {
+                "metric": "Primary Deficit",
+                "unit": "Percentage of GDP",
+                "be_2025_26": 0.8,
+                "be_2026_27": 0.7,
+                "change_analysis": "-10 bps",
+                "citations": [
+                    "[cite: 129]",
+                    "[cite: 964]"
+                ]
+            }
+        ],
+        "receipts": [
+            {
+                "metric": "Revenue Receipts",
+                "unit": "Crore INR",
+                "be_2025_26": 3420409,
+                "be_2026_27": 3533150,
+                "change_analysis": "Moderate Growth",
+                "citations": [
+                    "[cite: 39]",
+                    "[cite: 865]"
+                ]
+            },
+            {
+                "metric": "Net Tax Revenue (to Centre)",
+                "unit": "Crore INR",
+                "be_2025_26": 2837409,
+                "be_2026_27": 2866922,
+                "change_analysis": "Slight Increase",
+                "citations": [
+                    "[cite: 39]",
+                    "[cite: 865]"
+                ]
+            },
+            {
+                "metric": "Non-Tax Revenue",
+                "unit": "Crore INR",
+                "be_2025_26": 583000,
+                "be_2026_27": 666228,
+                "change_analysis": "Significant Increase",
+                "citations": [
+                    "[cite: 39]",
+                    "[cite: 865]"
+                ]
+            },
+            {
+                "metric": "Capital Receipts",
+                "unit": "Crore INR",
+                "be_2025_26": 1644936,
+                "be_2026_27": 1814165,
+                "change_analysis": "High Growth",
+                "citations": [
+                    "[cite: 39]",
+                    "[cite: 865]"
+                ]
+            },
+            {
+                "metric": "Borrowings (Fiscal Deficit)",
+                "unit": "Crore INR",
+                "be_2025_26": 1568936,
+                "be_2026_27": 1695768,
+                "change_analysis": "Increase in absolute terms",
+                "citations": [
+                    "[cite: 39]",
+                    "[cite: 865]"
+                ]
+            }
+        ],
+        "expenditure": [
+            {
+                "metric": "Total Expenditure",
+                "unit": "Crore INR",
+                "be_2025_26": 5065345,
+                "be_2026_27": 5347315,
+                "change_analysis": "+5.6%",
+                "citations": [
+                    "[cite: 39]",
+                    "[cite: 865]"
+                ]
+            },
+            {
+                "metric": "Interest Payments",
+                "unit": "Crore INR",
+                "be_2025_26": 1276338,
+                "be_2026_27": 1403972,
+                "change_analysis": "+10% (Major Burden)",
+                "citations": [
+                    "[cite: 39]",
+                    "[cite: 865]"
+                ]
+            },
+            {
+                "metric": "Capital Expenditure",
+                "unit": "Crore INR",
+                "be_2025_26": 1121090,
+                "be_2026_27": 1221821,
+                "change_analysis": "+9% (Infra Push)",
+                "citations": [
+                    "[cite: 39]",
+                    "[cite: 865]"
+                ]
+            },
+            {
+                "metric": "Effective Capital Expenditure",
+                "unit": "Crore INR",
+                "be_2025_26": 1548282,
+                "be_2026_27": 1714523,
+                "change_analysis": "+10.7%",
+                "citations": [
+                    "[cite: 39]",
+                    "[cite: 865]"
+                ]
+            },
+            {
+                "metric": "Grants for Capital Assets",
+                "unit": "Crore INR",
+                "be_2025_26": 427192,
+                "be_2026_27": 492702,
+                "change_analysis": "+15.3%",
+                "citations": [
+                    "[cite: 39]",
+                    "[cite: 865]"
+                ]
+            }
+        ],
+        "major_schemes_allocation": [
+            {
+                "scheme": "Defence",
+                "unit": "Crore INR",
+                "be_2025_26": 491732,
+                "be_2026_27": 594585,
+                "change_analysis": "Significant Increase (+21%)",
+                "citations": [
+                    "[cite: 628]",
+                    "[cite: 1446]"
+                ]
+            },
+            {
+                "scheme": "MGNREGA",
+                "unit": "Crore INR",
+                "be_2025_26": 86000,
+                "be_2026_27": 30000,
+                "change_analysis": "Drastic Cut (-65%)",
+                "citations": [
+                    "[cite: 736]",
+                    "[cite: 1518]"
+                ]
+            },
+            {
+                "scheme": "Food Subsidy",
+                "unit": "Crore INR",
+                "be_2025_26": 205250,
+                "be_2026_27": 227629,
+                "change_analysis": "Increased",
+                "citations": [
+                    "[cite: 628]",
+                    "[cite: 1446]"
+                ]
+            },
+            {
+                "scheme": "Fertilizer Subsidy",
+                "unit": "Crore INR",
+                "be_2025_26": 167887,
+                "be_2026_27": 170781,
+                "change_analysis": "Marginal Increase",
+                "citations": [
+                    "[cite: 628]",
+                    "[cite: 1446]"
+                ]
+            },
+            {
+                "scheme": "PM-KISAN",
+                "unit": "Crore INR",
+                "be_2025_26": 60000,
+                "be_2026_27": 63500,
+                "change_analysis": "Increased",
+                "citations": [
+                    "[cite: 738]",
+                    "[cite: 1518]"
+                ]
+            },
+            {
+                "scheme": "Jal Jeevan Mission",
+                "unit": "Crore INR",
+                "be_2025_26": 70163,
+                "be_2026_27": 67670,
+                "change_analysis": "Decreased",
+                "citations": [
+                    "[cite: 735]",
+                    "[cite: 1518]"
+                ]
+            },
+            {
+                "scheme": "PM Awas Yojana (Rural)",
+                "unit": "Crore INR",
+                "be_2025_26": 54500,
+                "be_2026_27": 54917,
+                "change_analysis": "Stable",
+                "citations": [
+                    "[cite: 735]",
+                    "[cite: 1518]"
+                ]
+            },
+            {
+                "scheme": "Semiconductor Mission",
+                "unit": "Crore INR",
+                "be_2025_26": 6903,
+                "be_2026_27": 8000,
+                "change_analysis": "Increased Support",
+                "citations": [
+                    "[cite: 744]",
+                    "[cite: 1521]"
+                ]
+            }
+        ],
+        "transfers_to_states": [
+            {
+                "metric": "Devolution of Taxes",
+                "unit": "Crore INR",
+                "be_2025_26": 1422444,
+                "be_2026_27": 1526255,
+                "change_analysis": "Increased",
+                "citations": [
+                    "[cite: 640]",
+                    "[cite: 1463]"
+                ]
+            },
+            {
+                "metric": "Finance Commission Grants",
+                "unit": "Crore INR",
+                "be_2025_26": 132767,
+                "be_2026_27": 129397,
+                "change_analysis": "Decreased",
+                "citations": [
+                    "[cite: 640]",
+                    "[cite: 1463]"
+                ]
+            },
+            {
+                "metric": "Total Transfers to States",
+                "unit": "Crore INR",
+                "be_2025_26": 2501284,
+                "be_2026_27": 2543769,
+                "change_analysis": "Net Increase",
+                "citations": [
+                    "[cite: 33]",
+                    "[cite: 861]"
+                ]
+            }
+        ],
+        "sector_wise_allocation_comparison": [
+            {
+                "sector": "Defence",
+                "be_2025_26": 491732,
+                "be_2026_27": 594585,
+                "difference": 102853,
+                "change_percent": "+20.9%",
+                "citations": [
+                    "[cite: 628]",
+                    "[cite: 1446]"
+                ]
+            },
+            {
+                "sector": "Energy",
+                "be_2025_26": 81174,
+                "be_2026_27": 109029,
+                "difference": 27855,
+                "change_percent": "+34.3%",
+                "citations": [
+                    "[cite: 628]",
+                    "[cite: 1446]"
+                ]
+            },
+            {
+                "sector": "Transport",
+                "be_2025_26": 544128,
+                "be_2026_27": 598520,
+                "difference": 54392,
+                "change_percent": "+10.0%",
+                "citations": [
+                    "[cite: 628]",
+                    "[cite: 1446]"
+                ]
+            },
+            {
+                "sector": "Education",
+                "be_2025_26": 128650,
+                "be_2026_27": 139289,
+                "difference": 10639,
+                "change_percent": "+8.3%",
+                "citations": [
+                    "[cite: 628]",
+                    "[cite: 1446]"
+                ]
+            },
+            {
+                "sector": "Commerce & Industry",
+                "be_2025_26": 65553,
+                "be_2026_27": 70296,
+                "difference": 4743,
+                "change_percent": "+7.2%",
+                "citations": [
+                    "[cite: 628]",
+                    "[cite: 1446]"
+                ]
+            },
+            {
+                "sector": "Health",
+                "be_2025_26": 98311,
+                "be_2026_27": 104599,
+                "difference": 6288,
+                "change_percent": "+6.4%",
+                "citations": [
+                    "[cite: 628]",
+                    "[cite: 1446]"
+                ]
+            },
+            {
+                "sector": "Social Welfare",
+                "be_2025_26": 60052,
+                "be_2026_27": 62362,
+                "difference": 2310,
+                "change_percent": "+3.8%",
+                "citations": [
+                    "[cite: 628]",
+                    "[cite: 1446]"
+                ]
+            },
+            {
+                "sector": "Rural Development",
+                "be_2025_26": 266817,
+                "be_2026_27": 273108,
+                "difference": 6291,
+                "change_percent": "+2.4%",
+                "citations": [
+                    "[cite: 628]",
+                    "[cite: 1446]"
+                ]
+            },
+            {
+                "sector": "Scientific Departments",
+                "be_2025_26": 55679,
+                "be_2026_27": 55756,
+                "difference": 77,
+                "change_percent": "+0.1%",
+                "citations": [
+                    "[cite: 628]",
+                    "[cite: 1446]"
+                ]
+            },
+            {
+                "sector": "Agriculture & Allied Activities",
+                "be_2025_26": 171437,
+                "be_2026_27": 162671,
+                "difference": -8766,
+                "change_percent": "-5.1%",
+                "citations": [
+                    "[cite: 628]",
+                    "[cite: 1446]"
+                ]
+            },
+            {
+                "sector": "IT and Telecom",
+                "be_2025_26": 95298,
+                "be_2026_27": 74560,
+                "difference": -20738,
+                "change_percent": "-21.8%",
+                "citations": [
+                    "[cite: 628]",
+                    "[cite: 1446]"
+                ]
+            }
+        ],
+        "key_insights_compressed": [
+            {
+                "insight": "Defense sector sees largest absolute hike (+₹1.03L Cr, +21%), signaling national security priority",
+                "citations": [
+                    "[cite: 628]",
+                    "[cite: 1446]"
+                ]
+            },
+            {
+                "insight": "Energy sector records highest percentage growth (+34.3%), driven by renewable focus",
+                "citations": [
+                    "[cite: 628]",
+                    "[cite: 1446]"
+                ]
+            },
+            {
+                "insight": "IT & Telecom faces sharp rationalization (-22%), likely due to project saturation or efficiency measures",
+                "citations": [
+                    "[cite: 628]",
+                    "[cite: 1446]"
+                ]
+            },
+            {
+                "insight": "Agriculture allocation contracts by 5%, contrasting with growth in allied welfare schemes",
+                "citations": [
+                    "[cite: 628]",
+                    "[cite: 1446]"
+                ]
+            },
+            {
+                "insight": "Transport infrastructure retains momentum with steady 10% allocation increase",
+                "citations": [
+                    "[cite: 628]",
+                    "[cite: 1446]"
+                ]
+            },
+            {
+                "insight": "Interest payments remain the largest single expenditure head, growing by 10%",
+                "citations": [
+                    "[cite: 628]",
+                    "[cite: 1446]"
+                ]
+            }
+        ]
+    }
+}

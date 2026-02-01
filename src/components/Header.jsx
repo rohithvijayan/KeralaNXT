@@ -1,4 +1,6 @@
-import { Link, useNavigate } from 'react-router-dom'
+import { useState } from 'react'
+import { Link, useNavigate, useLocation } from 'react-router-dom'
+import BudgetSelectorSheet from './BudgetSelectorSheet'
 import './Header.css'
 
 function Header({
@@ -10,11 +12,15 @@ function Header({
     showActions = true
 }) {
     const navigate = useNavigate()
+    const location = useLocation()
+    const [isBudgetPopupOpen, setIsBudgetPopupOpen] = useState(false)
 
     const handleBack = () => {
         if (onBack) onBack()
         else navigate(-1)
     }
+
+    const isBudgetActive = location.pathname.includes('budget')
 
     return (
         <header className="header">
@@ -53,7 +59,13 @@ function Header({
                     {showActions && !rightContent && (
                         <nav className="header-nav desktop-only">
                             <Link to="/projects" className="header-nav-link">Projects</Link>
-                            <Link to="/state-budget" className="header-nav-link">Budget</Link>
+                            <div
+                                className={`header-nav-link ${isBudgetActive ? 'active' : ''}`}
+                                onClick={() => setIsBudgetPopupOpen(true)}
+                                style={{ cursor: 'pointer' }}
+                            >
+                                Budget
+                            </div>
                             <Link to="/initiatives" className="header-nav-link">Policies</Link>
                             <Link to="/mp-fund-dashboard" className="header-nav-link">MP Fund</Link>
                             <Link to="/about" className="header-nav-link">About</Link>
@@ -61,6 +73,11 @@ function Header({
                     )}
                 </div>
             </div>
+
+            <BudgetSelectorSheet
+                isOpen={isBudgetPopupOpen}
+                onClose={() => setIsBudgetPopupOpen(false)}
+            />
         </header>
     )
 }
