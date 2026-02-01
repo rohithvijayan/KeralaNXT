@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Union Budget 2026 Summary Dashboard</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;600;700;900&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#13ecb2",
+                        "background-light": "#f6f8f7",
+                        "background-dark": "#10221d",
+                    },
+                    fontFamily: {
+                        "display": ["Public Sans"]
+                    },
+                    borderRadius: { "DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px" },
+                },
+            },
+        }
+    </script>
+    <style>
+        .glass-hero {
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .pulse-dot {
+            box-shadow: 0 0 0 0 rgba(19, 236, 178, 0.7);
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0% {
+                transform: scale(0.95);
+                box-shadow: 0 0 0 0 rgba(19, 236, 178, 0.7);
+            }
+
+            70% {
+                transform: scale(1);
+                box-shadow: 0 0 0 10px rgba(19, 236, 178, 0);
+            }
+
+            100% {
+                transform: scale(0.95);
+                box-shadow: 0 0 0 0 rgba(19, 236, 178, 0);
+            }
+        }
+    </style>
+</head>
+
+<body
+    class="bg-background-light dark:bg-background-dark font-display text-[#111816] dark:text-white transition-colors duration-300">
+    <div class="relative flex h-auto min-h-screen w-full flex-col group/design-root overflow-x-hidden">
+        <div class="layout-container flex h-full grow flex-col">
+            <!-- Navigation Bar -->
+            <header
+                class="flex items-center justify-between whitespace-nowrap border-b border-solid border-[#dbe6e3] dark:border-[#1e3a34] bg-white/80 dark:bg-background-dark/80 backdrop-blur-md px-10 py-3 sticky top-0 z-50">
+                <div class="flex items-center gap-8">
+                    <div class="flex items-center gap-4 text-[#111816] dark:text-white">
+                        <div class="size-6 text-primary">
+                            <span class="material-symbols-outlined text-3xl">account_balance</span>
+                        </div>
+                        <h2 class="text-[#111816] dark:text-white text-xl font-bold leading-tight tracking-[-0.015em]">
+                            Union Budget 2026</h2>
+                    </div>
+                    <nav class="hidden lg:flex items-center gap-9">
+                        <a class="text-[#111816] dark:text-gray-300 text-sm font-medium leading-normal hover:text-primary transition-colors"
+                            href="#">Overview</a>
+                        <a class="text-[#111816] dark:text-gray-300 text-sm font-medium leading-normal hover:text-primary transition-colors"
+                            href="#">Deficits</a>
+                        <a class="text-[#111816] dark:text-gray-300 text-sm font-medium leading-normal hover:text-primary transition-colors"
+                            href="#">Rupee Profile</a>
+                        <a class="text-[#111816] dark:text-gray-300 text-sm font-medium leading-normal hover:text-primary transition-colors"
+                            href="#">Schemes</a>
+                    </nav>
+                </div>
+                <div class="flex flex-1 justify-end gap-6 items-center">
+                    <label class="flex flex-col min-w-40 h-10 max-w-64">
+                        <div
+                            class="flex w-full flex-1 items-stretch rounded-lg h-full overflow-hidden bg-[#f0f4f3] dark:bg-[#1e3a34]">
+                            <div class="text-[#61897f] flex items-center justify-center pl-4">
+                                <span class="material-symbols-outlined text-lg">search</span>
+                            </div>
+                            <input
+                                class="form-input flex w-full border-none bg-transparent focus:ring-0 text-sm font-normal placeholder:text-[#61897f] px-2"
+                                placeholder="Search data points..." value="" />
+                        </div>
+                    </label>
+                    <button
+                        class="flex min-w-[84px] cursor-pointer items-center justify-center rounded-lg h-10 px-4 bg-primary text-[#111816] text-sm font-bold transition-transform active:scale-95">
+                        <span class="truncate">Export Report</span>
+                    </button>
+                    <div class="bg-center bg-no-repeat aspect-square bg-cover rounded-full size-10 border-2 border-primary/20"
+                        data-alt="User profile avatar"
+                        style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuDB8RgYAEmEofyv-r1DjESKZGQEvGkXlHRIo-Xk2dcG2ZKz2yOXmLzXjU9K4SHTxbjhyGfUHH7Hj8TrsFFh2hvX2efwEJRDYXUWx_ZK2GbECNRuaoxAejadQbmA-s_tsFDHLBDTTbyr6LRQPDp5Xo2xVXWLed58s2g2JNzXgRest01SWZyaTXHOw0bHrhARtAK-S7844y5jB0X0s2E4jWvlU14iEyjkobCdPrFylt-bA0WoQ155u_NUTxOOLFgQBkzxsZmt6X_EAis");'>
+                    </div>
+                </div>
+            </header>
+            <main class="flex-1 max-w-[1280px] mx-auto w-full px-6 py-8 space-y-8">
+                <!-- Hero Section -->
+                <section class="relative overflow-hidden rounded-xl bg-[#10221d] dark:bg-black">
+                    <div class="absolute inset-0 z-0 opacity-40 bg-cover bg-center"
+                        data-alt="Abstract fiscal data visualization pattern"
+                        style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuByjU0R-vxOWFKOZ2VXkREPkegRjvDAeS-O20R-GuTg2-lwBEAPbmRC_CvThSWbH-6D91ygkQENYy7xk6NIzWYjkFycNS0q-TTu0zA1etFHS1G9W8AREQdLMkCzMwopFBBoaSIbQrRpl9uYpcu5uVfIKqtZK6gc8hjGDShk8WxCPLhHWgmTGGQlouYVi-Nby1ftLVm0HN3EwmGnP0w4qBcRi25MDLZ60E_mbTg_m3AMuXDtmu0cKdhTaEp8hIz_zc6RNe70l3-iUZA");'>
+                    </div>
+                    <div
+                        class="relative z-10 glass-hero m-4 p-8 lg:p-12 rounded-lg flex flex-col md:flex-row items-center justify-between gap-8">
+                        <div class="max-w-2xl">
+                            <div class="flex items-center gap-3 mb-4">
+                                <span class="pulse-dot size-3 bg-primary rounded-full"></span>
+                                <span class="text-primary font-bold tracking-widest text-xs uppercase">FY 2026-27 Live
+                                    Pulse</span>
+                            </div>
+                            <h1 class="text-white text-4xl lg:text-5xl font-black leading-tight tracking-tight">
+                                At a Glance: The Path to <br /><span class="text-primary">Fiscal Stability</span>
+                            </h1>
+                            <p class="mt-4 text-gray-300 text-lg">
+                                Real-time analysis of the 2026 Union Budget. Tracking 48 indicators across ministries,
+                                public debt profiles, and infrastructure allocations.
+                            </p>
+                        </div>
+                        <div class="flex flex-col gap-3 min-w-[200px]">
+                            <div class="bg-white/10 p-4 rounded-lg backdrop-blur-md border border-white/10">
+                                <p class="text-gray-400 text-xs font-semibold uppercase">Total Expenditure</p>
+                                <p class="text-white text-2xl font-bold">₹48,20,512 Cr</p>
+                            </div>
+                            <button
+                                class="flex items-center justify-center gap-2 bg-primary text-[#111816] font-bold py-3 rounded-lg hover:bg-primary/90 transition-colors">
+                                <span class="material-symbols-outlined">description</span>
+                                View Budget Speech
+                            </button>
+                        </div>
+                    </div>
+                </section>
+                <!-- Estimates Toggle -->
+                <div class="flex justify-between items-center">
+                    <h3 class="text-xl font-bold flex items-center gap-2">
+                        <span class="material-symbols-outlined text-primary">analytics</span>
+                        Key Deficit Indicators
+                    </h3>
+                    <div class="flex bg-[#f0f4f3] dark:bg-[#1e3a34] p-1 rounded-lg">
+                        <button
+                            class="px-4 py-1.5 rounded-md text-sm font-semibold bg-white dark:bg-[#10221d] shadow-sm text-[#111816] dark:text-white">Budget
+                            Estimates</button>
+                        <button
+                            class="px-4 py-1.5 rounded-md text-sm font-semibold text-[#61897f] hover:text-[#111816] dark:hover:text-white transition-colors">Revised</button>
+                        <button
+                            class="px-4 py-1.5 rounded-md text-sm font-semibold text-[#61897f] hover:text-[#111816] dark:hover:text-white transition-colors">Actuals</button>
+                    </div>
+                </div>
+                <!-- Stats Grid -->
+                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+                    <div
+                        class="flex flex-col gap-3 rounded-xl p-6 bg-white dark:bg-background-dark border border-[#dbe6e3] dark:border-[#1e3a34] shadow-sm hover:border-primary/50 transition-all group">
+                        <div class="flex justify-between items-start">
+                            <p class="text-[#61897f] dark:text-gray-400 text-sm font-medium">Fiscal Deficit</p>
+                            <span class="material-symbols-outlined text-red-500 text-sm">trending_down</span>
+                        </div>
+                        <p class="text-[#111816] dark:text-white text-2xl font-black">₹16,85,494 Cr</p>
+                        <div class="flex items-center gap-2">
+                            <span class="text-red-500 text-sm font-bold">4.5% GDP</span>
+                            <span class="text-[#61897f] text-xs">Target: 4.1%</span>
+                        </div>
+                        <div class="mt-4 h-1 w-full bg-gray-100 dark:bg-gray-800 rounded-full overflow-hidden">
+                            <div class="h-full bg-red-500 w-[75%]"></div>
+                        </div>
+                    </div>
+                    <div
+                        class="flex flex-col gap-3 rounded-xl p-6 bg-white dark:bg-background-dark border border-[#dbe6e3] dark:border-[#1e3a34] shadow-sm hover:border-primary/50 transition-all group">
+                        <div class="flex justify-between items-start">
+                            <p class="text-[#61897f] dark:text-gray-400 text-sm font-medium">Revenue Deficit</p>
+                            <span class="material-symbols-outlined text-primary text-sm">trending_up</span>
+                        </div>
+                        <p class="text-[#111816] dark:text-white text-2xl font-black">₹6,53,383 Cr</p>
+                        <div class="flex items-center gap-2">
+                            <span class="text-primary text-sm font-bold">1.8% GDP</span>
+                            <span class="text-[#61897f] text-xs">Target: 1.5%</span>
+                        </div>
+                        <div class="mt-4 h-1 w-full bg-gray-100 dark:bg-gray-800 rounded-full overflow-hidden">
+                            <div class="h-full bg-primary w-[45%]"></div>
+                        </div>
+                    </div>
+                    <div
+                        class="flex flex-col gap-3 rounded-xl p-6 bg-white dark:bg-background-dark border border-[#dbe6e3] dark:border-[#1e3a34] shadow-sm hover:border-primary/50 transition-all group">
+                        <div class="flex justify-between items-start">
+                            <p class="text-[#61897f] dark:text-gray-400 text-sm font-medium">Effective Revenue Deficit
+                            </p>
+                            <span class="material-symbols-outlined text-primary text-sm">arrow_outward</span>
+                        </div>
+                        <p class="text-[#111816] dark:text-white text-2xl font-black">₹4,67,201 Cr</p>
+                        <div class="flex items-center gap-2">
+                            <span class="text-primary text-sm font-bold">1.3% GDP</span>
+                            <span class="text-[#61897f] text-xs">vs 1.4% (LY)</span>
+                        </div>
+                        <div class="mt-4 h-1 w-full bg-gray-100 dark:bg-gray-800 rounded-full overflow-hidden">
+                            <div class="h-full bg-primary w-[30%]"></div>
+                        </div>
+                    </div>
+                    <div
+                        class="flex flex-col gap-3 rounded-xl p-6 bg-white dark:bg-background-dark border border-[#dbe6e3] dark:border-[#1e3a34] shadow-sm hover:border-primary/50 transition-all group">
+                        <div class="flex justify-between items-start">
+                            <p class="text-[#61897f] dark:text-gray-400 text-sm font-medium">Primary Deficit</p>
+                            <span class="material-symbols-outlined text-red-500 text-sm">warning</span>
+                        </div>
+                        <p class="text-[#111816] dark:text-white text-2xl font-black">₹7,09,388 Cr</p>
+                        <div class="flex items-center gap-2">
+                            <span class="text-red-500 text-sm font-bold">1.9% GDP</span>
+                            <span class="text-[#61897f] text-xs">Trend Rising</span>
+                        </div>
+                        <div class="mt-4 h-1 w-full bg-gray-100 dark:bg-gray-800 rounded-full overflow-hidden">
+                            <div class="h-full bg-red-500 w-[60%]"></div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Charts Section (Rupee Profile) -->
+                <section class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+                    <!-- Rupee Comes From -->
+                    <div
+                        class="bg-white dark:bg-background-dark rounded-xl p-8 border border-[#dbe6e3] dark:border-[#1e3a34]">
+                        <div class="flex justify-between items-center mb-8">
+                            <div>
+                                <h3 class="text-lg font-bold">Rupee Comes From</h3>
+                                <p class="text-sm text-[#61897f]">Sources of Revenue (Share in %)</p>
+                            </div>
+                            <span class="material-symbols-outlined text-primary">pie_chart</span>
+                        </div>
+                        <div class="flex flex-col md:flex-row items-center gap-8">
+                            <div class="relative size-48">
+                                <!-- CSS-only donut chart mock -->
+                                <div
+                                    class="absolute inset-0 rounded-full border-[18px] border-primary border-r-transparent border-b-transparent rotate-45">
+                                </div>
+                                <div
+                                    class="absolute inset-0 rounded-full border-[18px] border-[#10221d]/20 border-l-transparent border-t-transparent -rotate-12">
+                                </div>
+                                <div class="absolute inset-0 flex items-center justify-center">
+                                    <div class="text-center">
+                                        <span class="text-2xl font-black">100</span>
+                                        <span class="text-sm block text-gray-400">Paisa</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="flex-1 space-y-3 w-full">
+                                <div class="flex items-center justify-between">
+                                    <div class="flex items-center gap-2"><span
+                                            class="size-2 rounded-full bg-primary"></span><span
+                                            class="text-sm">GST</span></div>
+                                    <span class="text-sm font-bold">18%</span>
+                                </div>
+                                <div class="flex items-center justify-between">
+                                    <div class="flex items-center gap-2"><span
+                                            class="size-2 rounded-full bg-[#203c34]"></span><span class="text-sm">Income
+                                            Tax</span></div>
+                                    <span class="text-sm font-bold">17%</span>
+                                </div>
+                                <div class="flex items-center justify-between">
+                                    <div class="flex items-center gap-2"><span
+                                            class="size-2 rounded-full bg-[#1e463a]"></span><span
+                                            class="text-sm">Corporation Tax</span></div>
+                                    <span class="text-sm font-bold">15%</span>
+                                </div>
+                                <div class="flex items-center justify-between">
+                                    <div class="flex items-center gap-2"><span
+                                            class="size-2 rounded-full bg-primary/40"></span><span
+                                            class="text-sm">Borrowings</span></div>
+                                    <span class="text-sm font-bold">34%</span>
+                                </div>
+                                <div class="flex items-center justify-between">
+                                    <div class="flex items-center gap-2"><span
+                                            class="size-2 rounded-full bg-gray-200"></span><span class="text-sm">Other
+                                            Tax</span></div>
+                                    <span class="text-sm font-bold">16%</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Rupee Goes To -->
+                    <div
+                        class="bg-white dark:bg-background-dark rounded-xl p-8 border border-[#dbe6e3] dark:border-[#1e3a34]">
+                        <div class="flex justify-between items-center mb-8">
+                            <div>
+                                <h3 class="text-lg font-bold">Rupee Goes To</h3>
+                                <p class="text-sm text-[#61897f]">Expenditure Breakdown (Share in %)</p>
+                            </div>
+                            <span class="material-symbols-outlined text-primary">donut_large</span>
+                        </div>
+                        <div class="flex flex-col md:flex-row items-center gap-8">
+                            <div class="relative size-48">
+                                <div
+                                    class="absolute inset-0 rounded-full border-[18px] border-primary/60 border-l-transparent border-t-transparent rotate-[140deg]">
+                                </div>
+                                <div
+                                    class="absolute inset-0 rounded-full border-[18px] border-[#10221d] border-r-transparent border-b-transparent">
+                                </div>
+                                <div class="absolute inset-0 flex items-center justify-center">
+                                    <div class="text-center">
+                                        <span class="text-2xl font-black">100</span>
+                                        <span class="text-sm block text-gray-400">Paisa</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="flex-1 space-y-3 w-full">
+                                <div class="flex items-center justify-between">
+                                    <div class="flex items-center gap-2"><span
+                                            class="size-2 rounded-full bg-[#10221d]"></span><span
+                                            class="text-sm">Interest Payments</span></div>
+                                    <span class="text-sm font-bold">20%</span>
+                                </div>
+                                <div class="flex items-center justify-between">
+                                    <div class="flex items-center gap-2"><span
+                                            class="size-2 rounded-full bg-primary"></span><span class="text-sm">States'
+                                            Share</span></div>
+                                    <span class="text-sm font-bold">18%</span>
+                                </div>
+                                <div class="flex items-center justify-between">
+                                    <div class="flex items-center gap-2"><span
+                                            class="size-2 rounded-full bg-primary/40"></span><span
+                                            class="text-sm">Defense</span></div>
+                                    <span class="text-sm font-bold">8%</span>
+                                </div>
+                                <div class="flex items-center justify-between">
+                                    <div class="flex items-center gap-2"><span
+                                            class="size-2 rounded-full bg-primary/20"></span><span
+                                            class="text-sm">Central Schemes</span></div>
+                                    <span class="text-sm font-bold">17%</span>
+                                </div>
+                                <div class="flex items-center justify-between">
+                                    <div class="flex items-center gap-2"><span
+                                            class="size-2 rounded-full bg-gray-200"></span><span
+                                            class="text-sm">Others</span></div>
+                                    <span class="text-sm font-bold">37%</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <!-- Key Schemes Table -->
+                <section
+                    class="bg-white dark:bg-background-dark rounded-xl overflow-hidden border border-[#dbe6e3] dark:border-[#1e3a34]">
+                    <div
+                        class="px-8 py-6 border-b border-[#dbe6e3] dark:border-[#1e3a34] flex justify-between items-center">
+                        <h3 class="text-lg font-bold">Key Scheme Allocations</h3>
+                        <button class="text-sm text-primary font-bold flex items-center gap-1 hover:underline">
+                            Detailed Table <span class="material-symbols-outlined text-sm">open_in_new</span>
+                        </button>
+                    </div>
+                    <div class="overflow-x-auto">
+                        <table class="w-full text-left">
+                            <thead>
+                                <tr
+                                    class="bg-background-light dark:bg-[#1e3a34]/30 text-[#61897f] text-xs uppercase tracking-wider">
+                                    <th class="px-8 py-4 font-bold">Scheme Name</th>
+                                    <th class="px-8 py-4 font-bold">Ministry</th>
+                                    <th class="px-8 py-4 font-bold text-right">2025-26 (Cr)</th>
+                                    <th class="px-8 py-4 font-bold text-right">2026-27 (Cr)</th>
+                                    <th class="px-8 py-4 font-bold text-center">Change</th>
+                                </tr>
+                            </thead>
+                            <tbody class="divide-y divide-[#dbe6e3] dark:divide-[#1e3a34]">
+                                <tr class="hover:bg-primary/5 transition-colors cursor-pointer group">
+                                    <td class="px-8 py-4 font-bold text-sm">MGNREGA</td>
+                                    <td class="px-8 py-4 text-sm text-[#61897f]">Rural Development</td>
+                                    <td class="px-8 py-4 text-sm font-medium text-right">₹60,000</td>
+                                    <td class="px-8 py-4 text-sm font-bold text-right">₹86,000</td>
+                                    <td class="px-8 py-4 text-center">
+                                        <span
+                                            class="px-2 py-1 rounded bg-primary/20 text-primary text-[10px] font-black uppercase">+43.3%</span>
+                                    </td>
+                                </tr>
+                                <tr class="hover:bg-primary/5 transition-colors cursor-pointer group">
+                                    <td class="px-8 py-4 font-bold text-sm">PM-AWAS Yojana</td>
+                                    <td class="px-8 py-4 text-sm text-[#61897f]">Housing &amp; Urban Affairs</td>
+                                    <td class="px-8 py-4 text-sm font-medium text-right">₹79,590</td>
+                                    <td class="px-8 py-4 text-sm font-bold text-right">₹80,671</td>
+                                    <td class="px-8 py-4 text-center">
+                                        <span
+                                            class="px-2 py-1 rounded bg-primary/20 text-primary text-[10px] font-black uppercase">+1.4%</span>
+                                    </td>
+                                </tr>
+                                <tr class="hover:bg-primary/5 transition-colors cursor-pointer group">
+                                    <td class="px-8 py-4 font-bold text-sm">Jal Jeevan Mission</td>
+                                    <td class="px-8 py-4 text-sm text-[#61897f]">Jal Shakti</td>
+                                    <td class="px-8 py-4 text-sm font-medium text-right">₹70,000</td>
+                                    <td class="px-8 py-4 text-sm font-bold text-right">₹70,163</td>
+                                    <td class="px-8 py-4 text-center">
+                                        <span
+                                            class="px-2 py-1 rounded bg-gray-100 dark:bg-gray-800 text-gray-500 text-[10px] font-black uppercase">Neutral</span>
+                                    </td>
+                                </tr>
+                                <tr class="hover:bg-primary/5 transition-colors cursor-pointer group">
+                                    <td class="px-8 py-4 font-bold text-sm">Green Hydrogen Mission</td>
+                                    <td class="px-8 py-4 text-sm text-[#61897f]">New &amp; Renewable Energy</td>
+                                    <td class="px-8 py-4 text-sm font-medium text-right">₹297</td>
+                                    <td class="px-8 py-4 text-sm font-bold text-right">₹600</td>
+                                    <td class="px-8 py-4 text-center">
+                                        <span
+                                            class="px-2 py-1 rounded bg-primary/20 text-primary text-[10px] font-black uppercase">+102%</span>
+                                    </td>
+                                </tr>
+                                <tr class="hover:bg-primary/5 transition-colors cursor-pointer group">
+                                    <td class="px-8 py-4 font-bold text-sm">PM Kisan</td>
+                                    <td class="px-8 py-4 text-sm text-[#61897f]">Agriculture</td>
+                                    <td class="px-8 py-4 text-sm font-medium text-right">₹60,000</td>
+                                    <td class="px-8 py-4 text-sm font-bold text-right">₹60,000</td>
+                                    <td class="px-8 py-4 text-center">
+                                        <span
+                                            class="px-2 py-1 rounded bg-gray-100 dark:bg-gray-800 text-gray-500 text-[10px] font-black uppercase">No
+                                            Change</span>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div
+                        class="px-8 py-4 bg-[#f0f4f3] dark:bg-[#1e3a34]/20 flex justify-between items-center text-xs text-[#61897f]">
+                        <span>Showing 5 of 48 Major Schemes</span>
+                        <div class="flex gap-4">
+                            <button class="flex items-center hover:text-[#111816] transition-colors"><span
+                                    class="material-symbols-outlined text-sm">chevron_left</span> Previous</button>
+                            <button class="flex items-center hover:text-[#111816] transition-colors">Next <span
+                                    class="material-symbols-outlined text-sm">chevron_right</span></button>
+                        </div>
+                    </div>
+                </section>
+            </main>
+            <!-- Footer -->
+            <footer
+                class="border-t border-[#dbe6e3] dark:border-[#1e3a34] bg-white dark:bg-background-dark py-10 px-10">
+                <div class="max-w-[1280px] mx-auto flex flex-col md:flex-row justify-between items-center gap-6">
+                    <div class="flex items-center gap-2">
+                        <span class="material-symbols-outlined text-primary">account_balance</span>
+                        <span class="font-bold text-sm">Government of India | Ministry of Finance</span>
+                    </div>
+                    <div class="flex gap-8 text-sm text-[#61897f]">
+                        <a class="hover:text-primary transition-colors" href="#">Accessibility</a>
+                        <a class="hover:text-primary transition-colors" href="#">Data Policy</a>
+                        <a class="hover:text-primary transition-colors" href="#">Contact Support</a>
+                    </div>
+                    <div class="text-xs text-[#61897f]">
+                        Last Refreshed: Feb 01, 2026 11:42 AM IST
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+</body>
+
+</html>

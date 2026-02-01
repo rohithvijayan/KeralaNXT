@@ -35,6 +35,7 @@
     transition: all 0.2s ease;
     border-radius: var(--radius-md);
     min-width: 64px;
+    cursor: pointer;
 }
 
 .bottom-nav-item .material-symbols-outlined {

@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Sector Allocation Dashboard</title>
+    <!-- Material Symbols -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <!-- Tailwind Config -->
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#13ecb2",
+                        "background-light": "#f6f8f7",
+                        "background-dark": "#10221d",
+                    },
+                    fontFamily: {
+                        "display": ["Public Sans", "sans-serif"]
+                    },
+                    borderRadius: {
+                        "DEFAULT": "0.5rem",
+                        "lg": "1rem",
+                        "xl": "1.5rem",
+                        "full": "9999px"
+                    },
+                },
+            },
+        }
+    </script>
+    <style>
+        body {
+            font-family: 'Public Sans', sans-serif;
+        }
+
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+        }
+    </style>
+</head>
+
+<body class="bg-background-light dark:bg-background-dark font-display text-[#111816] dark:text-white min-h-screen">
+    <!-- Header Section -->
+    <header
+        class="sticky top-0 z-50 bg-white dark:bg-[#1a2e29] border-b border-[#f0f4f3] dark:border-[#2a3e39] px-6 lg:px-40 py-3">
+        <div class="flex items-center justify-between gap-8 max-w-[1280px] mx-auto">
+            <div class="flex items-center gap-8">
+                <div class="flex items-center gap-4">
+                    <div class="size-8 bg-primary rounded-lg flex items-center justify-center text-white">
+                        <span class="material-symbols-outlined">dashboard_customize</span>
+                    </div>
+                    <h2 class="text-lg font-bold leading-tight tracking-tight">BudgetOS</h2>
+                </div>
+                <div class="hidden md:flex items-center gap-2">
+                    <label
+                        class="flex items-center h-10 w-64 bg-[#f0f4f3] dark:bg-[#2a3e39] rounded-xl px-3 group focus-within:ring-2 focus-within:ring-primary/50 transition-all">
+                        <span class="material-symbols-outlined text-[#61897f] mr-2">search</span>
+                        <input class="bg-transparent border-none focus:ring-0 text-sm w-full placeholder:text-[#61897f]"
+                            placeholder="Search departments..." type="text" />
+                    </label>
+                </div>
+            </div>
+            <nav class="hidden xl:flex items-center gap-8">
+                <a class="text-sm font-semibold text-primary" href="#">Overview</a>
+                <a class="text-sm font-medium hover:text-primary transition-colors" href="#">Sector Analysis</a>
+                <a class="text-sm font-medium hover:text-primary transition-colors" href="#">Reports</a>
+                <a class="text-sm font-medium hover:text-primary transition-colors" href="#">Settings</a>
+            </nav>
+            <div class="flex items-center gap-4">
+                <button
+                    class="size-10 flex items-center justify-center rounded-xl bg-[#f0f4f3] dark:bg-[#2a3e39] hover:bg-primary/10 transition-colors">
+                    <span class="material-symbols-outlined text-lg">notifications</span>
+                </button>
+                <div class="h-8 w-[1px] bg-[#f0f4f3] dark:bg-[#2a3e39]"></div>
+                <div class="flex items-center gap-3">
+                    <div class="text-right hidden sm:block">
+                        <p class="text-xs font-bold">Admin Portal</p>
+                        <p class="text-[10px] text-[#61897f]">Fiscal Year 24-25</p>
+                    </div>
+                    <div class="size-10 rounded-full bg-cover bg-center border-2 border-primary/20"
+                        data-alt="User profile avatar with professional look"
+                        style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuD4UXL36hSRSC_fKJtTJVT7PjwzoEMnmE7C2R0-QB34OpdbhIS63QTMDLNRlpzXQ2DHvHn7tbUp8pNcYKxiui9pIf7Wq_v5S5xFRXp-hlrtZAGTj5T6VHho_YgjyKmCj3Tqm1R1coJA3zkfzpxCjqFcn39KafzmE0odiIZhv2k0ubVN801D8i0kb-1xtmtEDt8_pUlOiyTkGP5WQkW_ms-tp4XZ6UzmHIYO8JE3QQhDZWXApkT6GdAqHEwAb_PBcFroAjQAjPI1_qM");'>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <main class="max-w-[1280px] mx-auto px-6 lg:px-40 py-8">
+        <!-- Page Title & Actions -->
+        <div class="flex flex-col md:flex-row justify-between items-end md:items-center gap-6 mb-8">
+            <div class="space-y-1">
+                <h1 class="text-4xl font-black tracking-tight">Sector Allocation Dashboard</h1>
+                <p class="text-[#61897f] font-medium flex items-center gap-2">
+                    <span class="material-symbols-outlined text-sm">calendar_today</span>
+                    Detailed fund breakdown for FY 2024-25
+                </p>
+            </div>
+            <div class="flex gap-3">
+                <button
+                    class="flex items-center gap-2 px-5 h-11 bg-white dark:bg-[#1a2e29] border border-[#f0f4f3] dark:border-[#2a3e39] rounded-xl text-sm font-bold shadow-sm hover:shadow-md transition-all">
+                    <span class="material-symbols-outlined text-lg">filter_list</span>
+                    Filters
+                </button>
+                <button
+                    class="flex items-center gap-2 px-5 h-11 bg-primary text-white rounded-xl text-sm font-bold shadow-lg shadow-primary/20 hover:brightness-105 transition-all">
+                    <span class="material-symbols-outlined text-lg">file_download</span>
+                    Export PDF
+                </button>
+            </div>
+        </div>
+        <!-- Summary Statistics -->
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-6 mb-10">
+            <div
+                class="lg:col-span-2 flex items-center p-8 bg-white dark:bg-[#1a2e29] rounded-xl border border-[#f0f4f3] dark:border-[#2a3e39] shadow-sm relative overflow-hidden group">
+                <div
+                    class="absolute top-0 right-0 w-32 h-32 bg-primary/5 rounded-bl-full -mr-10 -mt-10 transition-transform group-hover:scale-110">
+                </div>
+                <div class="flex-1">
+                    <p class="text-[#61897f] text-sm font-semibold uppercase tracking-wider mb-2">Total Covered
+                        Expenditure</p>
+                    <div class="flex items-baseline gap-4">
+                        <h2 class="text-5xl font-black tracking-tight">₹36.07 <span
+                                class="text-2xl font-bold opacity-60">Lakh Cr</span></h2>
+                        <span
+                            class="flex items-center gap-1 text-[#07882e] bg-[#07882e]/10 px-2 py-1 rounded-lg text-sm font-bold">
+                            <span class="material-symbols-outlined text-sm">trending_up</span>
+                            +4.2%
+                        </span>
+                    </div>
+                </div>
+                <div class="hidden sm:block h-16 w-[1px] bg-[#f0f4f3] dark:bg-[#2a3e39] mx-10"></div>
+                <div class="hidden sm:flex flex-col gap-1">
+                    <p class="text-xs text-[#61897f] font-medium">Revenue Expenditure</p>
+                    <p class="text-lg font-bold">₹28.40L Cr</p>
+                    <div class="w-24 h-1.5 bg-[#f0f4f3] dark:bg-[#2a3e39] rounded-full overflow-hidden mt-1">
+                        <div class="h-full bg-primary w-[78%]"></div>
+                    </div>
+                </div>
+            </div>
+            <div
+                class="flex flex-col justify-center p-8 bg-[#1a2e29] text-white rounded-xl border border-primary/20 shadow-xl shadow-primary/5">
+                <p class="text-primary/70 text-sm font-semibold uppercase tracking-wider mb-2">Fiscal Deficit Target</p>
+                <div class="flex items-baseline gap-2">
+                    <h2 class="text-4xl font-black tracking-tight">4.5%</h2>
+                    <span class="text-sm text-primary/60">of GDP</span>
+                </div>
+                <p class="text-sm mt-3 text-white/60">Down from 5.1% in FY 23-24</p>
+            </div>
+        </div>
+        <!-- Section Header -->
+        <div class="flex items-center justify-between mb-6 px-2">
+            <h3 class="text-2xl font-bold tracking-tight">Major Sector Breakdown</h3>
+            <button class="text-primary text-sm font-bold hover:underline">View All 24 Sectors</button>
+        </div>
+        <!-- Sector Grid -->
+        <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
+            <!-- Education Card -->
+            <div
+                class="bg-white dark:bg-[#1a2e29] p-6 rounded-xl border border-[#f0f4f3] dark:border-[#2a3e39] shadow-sm hover:shadow-lg transition-all group">
+                <div class="flex justify-between items-start mb-6">
+                    <div
+                        class="size-12 rounded-xl bg-blue-50 dark:bg-blue-900/20 flex items-center justify-center text-blue-600">
+                        <span class="material-symbols-outlined text-2xl">school</span>
+                    </div>
+                    <div class="text-right">
+                        <p class="text-2xl font-bold">₹4.50L Cr</p>
+                        <p class="text-xs text-[#07882e] font-bold">+5% YoY</p>
+                    </div>
+                </div>
+                <h4 class="text-lg font-bold mb-4">Education &amp; Literacy</h4>
+                <div class="space-y-4">
+                    <div>
+                        <div class="flex justify-between text-xs font-semibold mb-1.5">
+                            <span class="text-[#61897f]">School Education</span>
+                            <span>₹3.10L Cr</span>
+                        </div>
+                        <div class="h-2 w-full bg-[#f0f4f3] dark:bg-[#2a3e39] rounded-full">
+                            <div class="h-full bg-primary rounded-full w-[68%]"></div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="flex justify-between text-xs font-semibold mb-1.5">
+                            <span class="text-[#61897f]">Higher Education</span>
+                            <span>₹1.40L Cr</span>
+                        </div>
+                        <div class="h-2 w-full bg-[#f0f4f3] dark:bg-[#2a3e39] rounded-full">
+                            <div class="h-full bg-primary/40 rounded-full w-[32%]"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Health Card -->
+            <div
+                class="bg-white dark:bg-[#1a2e29] p-6 rounded-xl border border-[#f0f4f3] dark:border-[#2a3e39] shadow-sm hover:shadow-lg transition-all group">
+                <div class="flex justify-between items-start mb-6">
+                    <div
+                        class="size-12 rounded-xl bg-red-50 dark:bg-red-900/20 flex items-center justify-center text-red-600">
+                        <span class="material-symbols-outlined text-2xl">medical_services</span>
+                    </div>
+                    <div class="text-right">
+                        <p class="text-2xl font-bold">₹2.80L Cr</p>
+                        <p class="text-xs text-[#07882e] font-bold">+12% YoY</p>
+                    </div>
+                </div>
+                <h4 class="text-lg font-bold mb-4">Health &amp; Family Welfare</h4>
+                <div class="space-y-4">
+                    <div>
+                        <div class="flex justify-between text-xs font-semibold mb-1.5">
+                            <span class="text-[#61897f]">NHM Operations</span>
+                            <span>₹1.95L Cr</span>
+                        </div>
+                        <div class="h-2 w-full bg-[#f0f4f3] dark:bg-[#2a3e39] rounded-full">
+                            <div class="h-full bg-primary rounded-full w-[70%]"></div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="flex justify-between text-xs font-semibold mb-1.5">
+                            <span class="text-[#61897f]">Research &amp; Infrastructure</span>
+                            <span>₹0.85L Cr</span>
+                        </div>
+                        <div class="h-2 w-full bg-[#f0f4f3] dark:bg-[#2a3e39] rounded-full">
+                            <div class="h-full bg-primary/40 rounded-full w-[30%]"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Defense Card -->
+            <div
+                class="bg-white dark:bg-[#1a2e29] p-6 rounded-xl border border-[#f0f4f3] dark:border-[#2a3e39] shadow-sm hover:shadow-lg transition-all group">
+                <div class="flex justify-between items-start mb-6">
+                    <div
+                        class="size-12 rounded-xl bg-slate-100 dark:bg-slate-800 flex items-center justify-center text-slate-700 dark:text-slate-300">
+                        <span class="material-symbols-outlined text-2xl">shield</span>
+                    </div>
+                    <div class="text-right">
+                        <p class="text-2xl font-bold">₹6.20L Cr</p>
+                        <p class="text-xs text-[#07882e] font-bold">+3% YoY</p>
+                    </div>
+                </div>
+                <h4 class="text-lg font-bold mb-4">Defense Services</h4>
+                <div class="space-y-4">
+                    <div>
+                        <div class="flex justify-between text-xs font-semibold mb-1.5">
+                            <span class="text-[#61897f]">Revenue (Salaries/Maint)</span>
+                            <span>₹3.80L Cr</span>
+                        </div>
+                        <div class="h-2 w-full bg-[#f0f4f3] dark:bg-[#2a3e39] rounded-full">
+                            <div class="h-full bg-primary rounded-full w-[62%]"></div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="flex justify-between text-xs font-semibold mb-1.5">
+                            <span class="text-[#61897f]">Capital Outlay (Modernization)</span>
+                            <span>₹2.40L Cr</span>
+                        </div>
+                        <div class="h-2 w-full bg-[#f0f4f3] dark:bg-[#2a3e39] rounded-full">
+                            <div class="h-full bg-primary/40 rounded-full w-[38%]"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Agriculture Card -->
+            <div
+                class="bg-white dark:bg-[#1a2e29] p-6 rounded-xl border border-[#f0f4f3] dark:border-[#2a3e39] shadow-sm hover:shadow-lg transition-all group">
+                <div class="flex justify-between items-start mb-6">
+                    <div
+                        class="size-12 rounded-xl bg-emerald-50 dark:bg-emerald-900/20 flex items-center justify-center text-emerald-600">
+                        <span class="material-symbols-outlined text-2xl">agriculture</span>
+                    </div>
+                    <div class="text-right">
+                        <p class="text-2xl font-bold">₹3.10L Cr</p>
+                        <p class="text-xs text-[#07882e] font-bold">+8% YoY</p>
+                    </div>
+                </div>
+                <h4 class="text-lg font-bold mb-4">Agriculture &amp; Allied</h4>
+                <div class="space-y-4">
+                    <div>
+                        <div class="flex justify-between text-xs font-semibold mb-1.5">
+                            <span class="text-[#61897f]">Direct Subsidies</span>
+                            <span>₹1.80L Cr</span>
+                        </div>
+                        <div class="h-2 w-full bg-[#f0f4f3] dark:bg-[#2a3e39] rounded-full">
+                            <div class="h-full bg-primary rounded-full w-[58%]"></div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="flex justify-between text-xs font-semibold mb-1.5">
+                            <span class="text-[#61897f]">Technology &amp; Irrigation</span>
+                            <span>₹1.30L Cr</span>
+                        </div>
+                        <div class="h-2 w-full bg-[#f0f4f3] dark:bg-[#2a3e39] rounded-full">
+                            <div class="h-full bg-primary/40 rounded-full w-[42%]"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Infrastructure Card -->
+            <div
+                class="bg-white dark:bg-[#1a2e29] p-6 rounded-xl border border-[#f0f4f3] dark:border-[#2a3e39] shadow-sm hover:shadow-lg transition-all group">
+                <div class="flex justify-between items-start mb-6">
+                    <div
+                        class="size-12 rounded-xl bg-orange-50 dark:bg-orange-900/20 flex items-center justify-center text-orange-600">
+                        <span class="material-symbols-outlined text-2xl">foundation</span>
+                    </div>
+                    <div class="text-right">
+                        <p class="text-2xl font-bold">₹11.1L Cr</p>
+                        <p class="text-xs text-[#07882e] font-bold">+11% YoY</p>
+                    </div>
+                </div>
+                <h4 class="text-lg font-bold mb-4">Infrastructure &amp; Capex</h4>
+                <div class="space-y-4">
+                    <div>
+                        <div class="flex justify-between text-xs font-semibold mb-1.5">
+                            <span class="text-[#61897f]">Roads &amp; Highways</span>
+                            <span>₹6.50L Cr</span>
+                        </div>
+                        <div class="h-2 w-full bg-[#f0f4f3] dark:bg-[#2a3e39] rounded-full">
+                            <div class="h-full bg-primary rounded-full w-[60%]"></div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="flex justify-between text-xs font-semibold mb-1.5">
+                            <span class="text-[#61897f]">Railway Modernization</span>
+                            <span>₹4.60L Cr</span>
+                        </div>
+                        <div class="h-2 w-full bg-[#f0f4f3] dark:bg-[#2a3e39] rounded-full">
+                            <div class="h-full bg-primary/40 rounded-full w-[40%]"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Placeholder for additional sectors -->
+            <div
+                class="bg-dashed border-2 border-dashed border-[#f0f4f3] dark:border-[#2a3e39] p-6 rounded-xl flex flex-col items-center justify-center text-center group cursor-pointer hover:border-primary transition-colors">
+                <div
+                    class="size-12 rounded-full bg-[#f0f4f3] dark:bg-[#2a3e39] flex items-center justify-center text-[#61897f] mb-4 group-hover:bg-primary group-hover:text-white transition-all">
+                    <span class="material-symbols-outlined text-2xl">add</span>
+                </div>
+                <p class="font-bold">Explore More Sectors</p>
+                <p class="text-xs text-[#61897f] mt-1">Information Technology, Rural Dev, etc.</p>
+            </div>
+        </div>
+        <!-- Trend Section -->
+        <div
+            class="mt-12 p-8 bg-white dark:bg-[#1a2e29] rounded-xl border border-[#f0f4f3] dark:border-[#2a3e39] shadow-sm">
+            <div class="flex justify-between items-center mb-8">
+                <h3 class="text-xl font-bold">Spending Trends (5-Year Projection)</h3>
+                <div class="flex gap-4">
+                    <div class="flex items-center gap-2">
+                        <span class="size-3 rounded-full bg-primary"></span>
+                        <span class="text-xs font-medium">Core Allocation</span>
+                    </div>
+                    <div class="flex items-center gap-2">
+                        <span class="size-3 rounded-full bg-[#61897f]"></span>
+                        <span class="text-xs font-medium">Extra Budgetary Support</span>
+                    </div>
+                </div>
+            </div>
+            <div class="grid grid-cols-5 items-end gap-4 h-48 mb-4 px-4">
+                <div class="flex flex-col items-center gap-2 h-full">
+                    <div class="w-full bg-primary/20 rounded-t-lg h-[40%] group relative">
+                        <div
+                            class="absolute -top-8 left-1/2 -translate-x-1/2 bg-[#111816] text-white text-[10px] px-2 py-1 rounded hidden group-hover:block">
+                            ₹30.4L</div>
+                    </div>
+                    <span class="text-[10px] font-bold text-[#61897f]">2020-21</span>
+                </div>
+                <div class="flex flex-col items-center gap-2 h-full">
+                    <div class="w-full bg-primary/40 rounded-t-lg h-[55%] group relative">
+                        <div
+                            class="absolute -top-8 left-1/2 -translate-x-1/2 bg-[#111816] text-white text-[10px] px-2 py-1 rounded hidden group-hover:block">
+                            ₹32.1L</div>
+                    </div>
+                    <span class="text-[10px] font-bold text-[#61897f]">2021-22</span>
+                </div>
+                <div class="flex flex-col items-center gap-2 h-full">
+                    <div class="w-full bg-primary/60 rounded-t-lg h-[70%] group relative">
+                        <div
+                            class="absolute -top-8 left-1/2 -translate-x-1/2 bg-[#111816] text-white text-[10px] px-2 py-1 rounded hidden group-hover:block">
+                            ₹34.8L</div>
+                    </div>
+                    <span class="text-[10px] font-bold text-[#61897f]">2022-23</span>
+                </div>
+                <div class="flex flex-col items-center gap-2 h-full">
+                    <div class="w-full bg-primary/80 rounded-t-lg h-[85%] group relative">
+                        <div
+                            class="absolute -top-8 left-1/2 -translate-x-1/2 bg-[#111816] text-white text-[10px] px-2 py-1 rounded hidden group-hover:block">
+                            ₹35.4L</div>
+                    </div>
+                    <span class="text-[10px] font-bold text-[#61897f]">2023-24</span>
+                </div>
+                <div class="flex flex-col items-center gap-2 h-full">
+                    <div class="w-full bg-primary rounded-t-lg h-full group relative">
+                        <div
+                            class="absolute -top-8 left-1/2 -translate-x-1/2 bg-[#111816] text-white text-[10px] px-2 py-1 rounded hidden group-hover:block">
+                            ₹36.07L</div>
+                    </div>
+                    <span class="text-[10px] font-black text-[#111816] dark:text-white">2024-25 (E)</span>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer class="max-w-[1280px] mx-auto px-6 lg:px-40 py-10 border-t border-[#f0f4f3] dark:border-[#2a3e39] mt-10">
+        <div class="flex flex-col md:flex-row justify-between items-center gap-6">
+            <div class="flex items-center gap-3">
+                <div class="size-6 bg-primary/20 rounded flex items-center justify-center text-primary">
+                    <span class="material-symbols-outlined text-sm">security</span>
+                </div>
+                <p class="text-xs text-[#61897f]">Secure Federal Portal. Unauthorized access is strictly prohibited.</p>
+            </div>
+            <div class="flex items-center gap-8 text-xs font-medium text-[#61897f]">
+                <a class="hover:text-primary" href="#">Privacy Policy</a>
+                <a class="hover:text-primary" href="#">Terms of Service</a>
+                <a class="hover:text-primary" href="#">Help Center</a>
+                <p>© 2024 Ministry of Finance</p>
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>

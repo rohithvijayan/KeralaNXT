@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Budget Highlights Grid</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <!-- Material Symbols -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;600;700&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#2beeba",
+                        "background-light": "#f6f8f7",
+                        "background-dark": "#10221d",
+                    },
+                    fontFamily: {
+                        "display": ["Public Sans", "sans-serif"]
+                    },
+                    borderRadius: {
+                        "DEFAULT": "0.5rem",
+                        "lg": "1rem",
+                        "xl": "1.5rem",
+                        "full": "9999px"
+                    },
+                },
+            },
+        }
+    </script>
+    <style>
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+            font-size: 24px;
+        }
+
+        body {
+            font-family: "Public Sans", sans-serif;
+        }
+    </style>
+</head>
+
+<body class="bg-background-light dark:bg-background-dark text-[#111816] dark:text-white min-h-screen">
+    <!-- Top Navigation Bar -->
+    <header
+        class="sticky top-0 z-50 flex items-center justify-between whitespace-nowrap border-b border-solid border-[#f0f4f3] dark:border-[#1e2f2a] bg-white/80 dark:bg-background-dark/80 backdrop-blur-md px-10 py-3">
+        <div class="flex items-center gap-4">
+            <div class="size-8 text-primary">
+                <svg fill="none" viewbox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+                    <g clip-path="url(#clip0_6_330)">
+                        <path clip-rule="evenodd"
+                            d="M24 0.757355L47.2426 24L24 47.2426L0.757355 24L24 0.757355ZM21 35.7574V12.2426L9.24264 24L21 35.7574Z"
+                            fill="currentColor" fill-rule="evenodd"></path>
+                    </g>
+                    <defs>
+                        <clippath id="clip0_6_330">
+                            <rect fill="white" height="48" width="48"></rect>
+                        </clippath>
+                    </defs>
+                </svg>
+            </div>
+            <h2 class="text-xl font-bold leading-tight tracking-tight">Budget Highlights 2024</h2>
+        </div>
+        <div class="flex flex-1 justify-end gap-6">
+            <label class="flex flex-col min-w-[300px] h-10">
+                <div class="flex w-full flex-1 items-stretch rounded-xl bg-[#f0f4f3] dark:bg-[#1e2f2a]">
+                    <div class="text-[#61897f] flex items-center justify-center pl-4">
+                        <span class="material-symbols-outlined">search</span>
+                    </div>
+                    <input
+                        class="form-input flex w-full min-w-0 flex-1 border-none bg-transparent focus:ring-0 text-base font-normal placeholder:text-[#61897f] px-3"
+                        placeholder="Search major announcements..." value="" />
+                </div>
+            </label>
+            <div class="flex gap-2">
+                <button
+                    class="flex min-w-[140px] cursor-pointer items-center justify-center rounded-xl h-10 px-4 bg-primary text-[#10221d] text-sm font-bold tracking-tight hover:brightness-105 transition-all">
+                    <span class="material-symbols-outlined mr-2 !text-lg">image</span>
+                    <span class="truncate">Share as Image</span>
+                </button>
+                <button
+                    class="flex items-center justify-center rounded-xl h-10 bg-[#f0f4f3] dark:bg-[#1e2f2a] px-3 hover:bg-[#e2e8e6] dark:hover:bg-[#253a34] transition-all">
+                    <span class="material-symbols-outlined !text-lg">download</span>
+                </button>
+                <button
+                    class="flex items-center justify-center rounded-xl h-10 bg-[#f0f4f3] dark:bg-[#1e2f2a] px-3 hover:bg-[#e2e8e6] dark:hover:bg-[#253a34] transition-all">
+                    <span class="material-symbols-outlined !text-lg">print</span>
+                </button>
+            </div>
+        </div>
+    </header>
+    <div class="flex max-w-[1600px] mx-auto">
+        <!-- Side Navigation Rail -->
+        <aside
+            class="w-64 sticky top-16 h-[calc(100vh-64px)] overflow-y-auto p-6 border-r border-[#f0f4f3] dark:border-[#1e2f2a] shrink-0">
+            <div class="flex flex-col gap-6">
+                <div class="flex flex-col gap-2">
+                    <p class="px-3 text-xs font-bold text-[#61897f] uppercase tracking-widest">Sectors</p>
+                    <nav class="flex flex-col gap-1">
+                        <a class="flex items-center justify-between px-3 py-2.5 rounded-xl bg-primary/20 text-[#111816] dark:text-primary group transition-all"
+                            href="#">
+                            <div class="flex items-center gap-3">
+                                <span class="material-symbols-outlined !text-[20px]">grid_view</span>
+                                <span class="text-sm font-semibold">Overview</span>
+                            </div>
+                        </a>
+                        <a class="flex items-center justify-between px-3 py-2.5 rounded-xl text-[#61897f] hover:bg-[#f0f4f3] dark:hover:bg-[#1e2f2a] group transition-all"
+                            href="#">
+                            <div class="flex items-center gap-3">
+                                <span class="material-symbols-outlined !text-[20px]">road</span>
+                                <span
+                                    class="text-sm font-medium group-hover:text-[#111816] dark:group-hover:text-white">Infrastructure</span>
+                            </div>
+                            <span
+                                class="text-[10px] font-bold bg-[#f0f4f3] dark:bg-[#1e2f2a] px-2 py-0.5 rounded-full">14</span>
+                        </a>
+                        <a class="flex items-center justify-between px-3 py-2.5 rounded-xl text-[#61897f] hover:bg-[#f0f4f3] dark:hover:bg-[#1e2f2a] group transition-all"
+                            href="#">
+                            <div class="flex items-center gap-3">
+                                <span class="material-symbols-outlined !text-[20px]">health_and_safety</span>
+                                <span
+                                    class="text-sm font-medium group-hover:text-[#111816] dark:group-hover:text-white">Healthcare</span>
+                            </div>
+                            <span
+                                class="text-[10px] font-bold bg-[#f0f4f3] dark:bg-[#1e2f2a] px-2 py-0.5 rounded-full">08</span>
+                        </a>
+                        <a class="flex items-center justify-between px-3 py-2.5 rounded-xl text-[#61897f] hover:bg-[#f0f4f3] dark:hover:bg-[#1e2f2a] group transition-all"
+                            href="#">
+                            <div class="flex items-center gap-3">
+                                <span class="material-symbols-outlined !text-[20px]">school</span>
+                                <span
+                                    class="text-sm font-medium group-hover:text-[#111816] dark:group-hover:text-white">Education</span>
+                            </div>
+                            <span
+                                class="text-[10px] font-bold bg-[#f0f4f3] dark:bg-[#1e2f2a] px-2 py-0.5 rounded-full">12</span>
+                        </a>
+                        <a class="flex items-center justify-between px-3 py-2.5 rounded-xl text-[#61897f] hover:bg-[#f0f4f3] dark:hover:bg-[#1e2f2a] group transition-all"
+                            href="#">
+                            <div class="flex items-center gap-3">
+                                <span class="material-symbols-outlined !text-[20px]">memory</span>
+                                <span
+                                    class="text-sm font-medium group-hover:text-[#111816] dark:group-hover:text-white">Technology</span>
+                            </div>
+                            <span
+                                class="text-[10px] font-bold bg-[#f0f4f3] dark:bg-[#1e2f2a] px-2 py-0.5 rounded-full">06</span>
+                        </a>
+                        <a class="flex items-center justify-between px-3 py-2.5 rounded-xl text-[#61897f] hover:bg-[#f0f4f3] dark:hover:bg-[#1e2f2a] group transition-all"
+                            href="#">
+                            <div class="flex items-center gap-3">
+                                <span class="material-symbols-outlined !text-[20px]">shield</span>
+                                <span
+                                    class="text-sm font-medium group-hover:text-[#111816] dark:group-hover:text-white">Defense</span>
+                            </div>
+                            <span
+                                class="text-[10px] font-bold bg-[#f0f4f3] dark:bg-[#1e2f2a] px-2 py-0.5 rounded-full">05</span>
+                        </a>
+                        <a class="flex items-center justify-between px-3 py-2.5 rounded-xl text-[#61897f] hover:bg-[#f0f4f3] dark:hover:bg-[#1e2f2a] group transition-all"
+                            href="#">
+                            <div class="flex items-center gap-3">
+                                <span class="material-symbols-outlined !text-[20px]">eco</span>
+                                <span
+                                    class="text-sm font-medium group-hover:text-[#111816] dark:group-hover:text-white">Environment</span>
+                            </div>
+                            <span
+                                class="text-[10px] font-bold bg-[#f0f4f3] dark:bg-[#1e2f2a] px-2 py-0.5 rounded-full">09</span>
+                        </a>
+                        <a class="flex items-center justify-between px-3 py-2.5 rounded-xl text-[#61897f] hover:bg-[#f0f4f3] dark:hover:bg-[#1e2f2a] group transition-all"
+                            href="#">
+                            <div class="flex items-center gap-3">
+                                <span class="material-symbols-outlined !text-[20px]">potted_plant</span>
+                                <span
+                                    class="text-sm font-medium group-hover:text-[#111816] dark:group-hover:text-white">Agriculture</span>
+                            </div>
+                            <span
+                                class="text-[10px] font-bold bg-[#f0f4f3] dark:bg-[#1e2f2a] px-2 py-0.5 rounded-full">11</span>
+                        </a>
+                    </nav>
+                </div>
+                <hr class="border-[#f0f4f3] dark:border-[#1e2f2a]" />
+                <div class="flex flex-col gap-2">
+                    <p class="px-3 text-xs font-bold text-[#61897f] uppercase tracking-widest">Impact</p>
+                    <div class="px-3">
+                        <button
+                            class="w-full flex items-center justify-between py-2 text-sm font-medium text-[#111816] dark:text-white">
+                            High Priority
+                            <span class="w-2 h-2 rounded-full bg-red-500"></span>
+                        </button>
+                        <button
+                            class="w-full flex items-center justify-between py-2 text-sm font-medium text-[#111816] dark:text-white">
+                            Long Term
+                            <span class="w-2 h-2 rounded-full bg-blue-500"></span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </aside>
+        <!-- Main Content Area -->
+        <main class="flex-1 p-8">
+            <!-- Filter Chips -->
+            <div class="flex items-center gap-3 mb-8 flex-wrap">
+                <p class="text-sm font-semibold text-[#61897f] mr-2">Quick Filters:</p>
+                <button
+                    class="flex h-9 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-primary/10 border border-primary/20 pl-4 pr-3">
+                    <p class="text-[#111816] dark:text-primary text-sm font-bold">All Sectors</p>
+                    <span class="material-symbols-outlined !text-lg">close</span>
+                </button>
+                <button
+                    class="flex h-9 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-white dark:bg-[#1e2f2a] border border-[#f0f4f3] dark:border-[#2a3f38] pl-4 pr-3 hover:border-primary transition-all">
+                    <p class="text-[#111816] dark:text-white text-sm font-medium">High Impact</p>
+                    <span class="material-symbols-outlined !text-lg text-[#61897f]">expand_more</span>
+                </button>
+                <button
+                    class="flex h-9 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-white dark:bg-[#1e2f2a] border border-[#f0f4f3] dark:border-[#2a3f38] pl-4 pr-3 hover:border-primary transition-all">
+                    <p class="text-[#111816] dark:text-white text-sm font-medium">Recent Updates</p>
+                    <span class="material-symbols-outlined !text-lg text-[#61897f]">expand_more</span>
+                </button>
+                <button
+                    class="flex h-9 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-white dark:bg-[#1e2f2a] border border-[#f0f4f3] dark:border-[#2a3f38] pl-4 pr-3 hover:border-primary transition-all">
+                    <p class="text-[#111816] dark:text-white text-sm font-medium">All States</p>
+                    <span class="material-symbols-outlined !text-lg text-[#61897f]">expand_more</span>
+                </button>
+            </div>
+            <!-- Masonry-style Grid -->
+            <div class="columns-1 md:columns-2 lg:columns-3 gap-6 space-y-6">
+                <!-- Card 1 -->
+                <div
+                    class="break-inside-avoid group bg-white dark:bg-background-dark border border-[#f0f4f3] dark:border-[#1e2f2a] rounded-xl overflow-hidden hover:shadow-xl hover:border-primary/50 transition-all duration-300">
+                    <div class="h-48 bg-center bg-no-repeat bg-cover"
+                        data-alt="New asphalt highway construction in sunset"
+                        style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuDx44Vojbpiezgej3ATjmipzMFjr4oOAZZOgOsGezPSfN99GiUDO734v6qhkJ4j3WkmdfByDtOBrN85ZjuPM4C72pDnJdX-9KNmAJ1ohup2k1hAbdIESbVkLAr3kN3eC8xOPn1WDhL777-UVcYolu5wEiqWaTruOY-tXhG28Z-SDbjp3U5s1m6vkTA1gQxKwVnNa1yPgYWx1u8ujt29BXKifMi2T3TifUAjbhO_evknXDulifbkiLi7NHf3LTZUx2xtxnkyiUcHj3A");'>
+                    </div>
+                    <div class="p-6">
+                        <div class="flex items-center justify-between mb-3">
+                            <span
+                                class="px-2.5 py-1 rounded-lg bg-primary/20 text-[#111816] dark:text-primary text-[11px] font-bold uppercase tracking-wider">Infrastructure</span>
+                            <span class="text-[10px] text-[#61897f] font-medium">Ref: #BG24-001</span>
+                        </div>
+                        <h3 class="text-xl font-bold leading-tight mb-3 group-hover:text-primary transition-colors">
+                            National Highway Expansion Phase II</h3>
+                        <p class="text-[#61897f] text-sm leading-relaxed mb-6">
+                            Allocation of $4.5B for the development of 12,000km of greenfield expressways, focusing on
+                            connecting industrial corridors and port hubs.
+                        </p>
+                        <div class="flex flex-col gap-4">
+                            <div class="flex flex-wrap gap-2">
+                                <span class="text-[10px] font-bold text-[#61897f] uppercase w-full mb-1">States
+                                    Impacted:</span>
+                                <span
+                                    class="px-2 py-0.5 rounded-md bg-[#f0f4f3] dark:bg-[#1e2f2a] text-[10px] font-semibold">New
+                                    York</span>
+                                <span
+                                    class="px-2 py-0.5 rounded-md bg-[#f0f4f3] dark:bg-[#1e2f2a] text-[10px] font-semibold">Texas</span>
+                                <span
+                                    class="px-2 py-0.5 rounded-md bg-[#f0f4f3] dark:bg-[#1e2f2a] text-[10px] font-semibold">California</span>
+                                <span
+                                    class="px-2 py-0.5 rounded-md bg-[#f0f4f3] dark:bg-[#1e2f2a] text-[10px] font-semibold">+4
+                                    more</span>
+                            </div>
+                            <button
+                                class="w-full flex items-center justify-center gap-2 rounded-xl h-10 bg-primary/10 dark:bg-primary/20 text-[#111816] dark:text-primary text-sm font-bold hover:bg-primary hover:text-white transition-all">
+                                View Full Report
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <!-- Card 2 -->
+                <div
+                    class="break-inside-avoid group bg-white dark:bg-background-dark border border-[#f0f4f3] dark:border-[#1e2f2a] rounded-xl overflow-hidden hover:shadow-xl hover:border-primary/50 transition-all duration-300">
+                    <div class="p-6">
+                        <div class="flex items-center justify-between mb-3">
+                            <span
+                                class="px-2.5 py-1 rounded-lg bg-[#e2f2ff] dark:bg-blue-900/40 text-blue-600 dark:text-blue-300 text-[11px] font-bold uppercase tracking-wider">Healthcare</span>
+                            <span class="text-[10px] text-[#61897f] font-medium">Ref: #BG24-042</span>
+                        </div>
+                        <h3 class="text-xl font-bold leading-tight mb-3 group-hover:text-blue-500 transition-colors">
+                            Digital Health Mission 2.0</h3>
+                        <p class="text-[#61897f] text-sm leading-relaxed mb-6">
+                            Expanding telemedicine services to 50,000 rural clinics with unified health IDs. Includes a
+                            $1.2B grant for upgrading community diagnostic centers.
+                        </p>
+                        <div class="flex flex-col gap-4">
+                            <div class="flex flex-wrap gap-2">
+                                <span
+                                    class="text-[10px] font-bold text-[#61897f] uppercase w-full mb-1">Impacted:</span>
+                                <span
+                                    class="px-2 py-0.5 rounded-md bg-[#f0f4f3] dark:bg-[#1e2f2a] text-[10px] font-semibold">National
+                                    Reach</span>
+                            </div>
+                            <button
+                                class="w-full flex items-center justify-center gap-2 rounded-xl h-10 bg-[#f0f4f3] dark:bg-[#1e2f2a] text-[#111816] dark:text-white text-sm font-bold hover:bg-[#e2e8e6] transition-all">
+                                Details
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <!-- Card 3 -->
+                <div
+                    class="break-inside-avoid group bg-white dark:bg-background-dark border border-[#f0f4f3] dark:border-[#1e2f2a] rounded-xl overflow-hidden hover:shadow-xl hover:border-primary/50 transition-all duration-300">
+                    <div class="h-64 bg-center bg-no-repeat bg-cover"
+                        data-alt="A modern tech startup office with computers"
+                        style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuAoUmAX7zC_u09cKQminrIqGqwjoyw7AaeQElhVKqMEAyATdVTVYFYPzJ8qRWsMxQjDdDo6Lk9MLUf-QX91JWbwbJJ_Z809yW9lclxlAWXAtnbx237S4BClIQIVzorJTHIr5P50zb9Xpj3pXvitMhmyH-q2CiNa7K8x1QJmsixIYphmAaclQDprVFxB_aLbP1XegTJaMx0GeXGNCJ_SIgvDPJb7Rh_xUplPDXnTu3bJfhK9GnVUPFbtuED4zx6J07cJwP9p2Dq9guQ");'>
+                    </div>
+                    <div class="p-6">
+                        <div class="flex items-center justify-between mb-3">
+                            <span
+                                class="px-2.5 py-1 rounded-lg bg-primary/20 text-[#111816] dark:text-primary text-[11px] font-bold uppercase tracking-wider">Technology</span>
+                            <span class="text-[10px] text-[#61897f] font-medium">Ref: #BG24-088</span>
+                        </div>
+                        <h3 class="text-xl font-bold leading-tight mb-3">AI Research &amp; Semi-Conductor Hub</h3>
+                        <p class="text-[#61897f] text-sm leading-relaxed mb-6">
+                            Incentivizing the domestic manufacturing of high-end silicon wafers with a 25% tax rebate
+                            for international tech partners.
+                        </p>
+                        <button
+                            class="w-full flex items-center justify-center gap-2 rounded-xl h-10 bg-[#10221d] dark:bg-primary text-white dark:text-[#10221d] text-sm font-bold hover:brightness-110 transition-all">
+                            Policy Doc
+                        </button>
+                    </div>
+                </div>
+                <!-- Card 4 -->
+                <div
+                    class="break-inside-avoid group bg-white dark:bg-background-dark border border-[#f0f4f3] dark:border-[#1e2f2a] rounded-xl overflow-hidden hover:shadow-xl hover:border-primary/50 transition-all duration-300">
+                    <div class="p-6">
+                        <div class="flex items-center justify-between mb-3">
+                            <span
+                                class="px-2.5 py-1 rounded-lg bg-green-100 dark:bg-green-900/40 text-green-600 dark:text-green-300 text-[11px] font-bold uppercase tracking-wider">Agriculture</span>
+                            <span class="text-[10px] text-[#61897f] font-medium">Ref: #BG24-112</span>
+                        </div>
+                        <h3 class="text-xl font-bold leading-tight mb-3">Smart Irrigation Subsidy</h3>
+                        <p class="text-[#61897f] text-sm leading-relaxed mb-6">
+                            $500M earmarked for solar-powered drip irrigation kits for small-scale farmers in
+                            drought-prone regions. Target to cover 2M hectares by 2026.
+                        </p>
+                        <div class="flex items-center gap-2 text-[10px] font-bold text-[#61897f] uppercase">
+                            <span class="material-symbols-outlined !text-sm">location_on</span>
+                            States Impacted: Arizona, Nevada, Utah
+                        </div>
+                    </div>
+                </div>
+                <!-- Card 5 -->
+                <div
+                    class="break-inside-avoid group bg-white dark:bg-background-dark border border-[#f0f4f3] dark:border-[#1e2f2a] rounded-xl overflow-hidden hover:shadow-xl hover:border-primary/50 transition-all duration-300">
+                    <div class="h-40 bg-center bg-no-repeat bg-cover"
+                        data-alt="Solar panels on the roof of a modern house"
+                        style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuAWHPqNehcUckxe9c2zQfqegG6vRokFv8Rq7oZKfl0Q24OMJK4SQVGlG9-bVvtf2xz83J_aaX5kBW5paJzLPFDKvQWikY1lY7inLL3FGZgx4StJOqpw915J7D2JF7e1J5PxOm4VL2Ylv7WPiaCO4fvU5-JkWOyfgqmPCFeno2cMZuchmwoRE8MY9nPIZRVvss6LAIYZ5CONwvlPoeb2qA_dn-icESjQCSZSmdfv8OzphpY8ukTjWdCBNndh0iNK-IQmVcV7UJvBZ8g");'>
+                    </div>
+                    <div class="p-6">
+                        <div class="flex items-center justify-between mb-3">
+                            <span
+                                class="px-2.5 py-1 rounded-lg bg-primary/20 text-[#111816] dark:text-primary text-[11px] font-bold uppercase tracking-wider">Environment</span>
+                            <span class="text-[10px] text-[#61897f] font-medium">Ref: #BG24-156</span>
+                        </div>
+                        <h3 class="text-xl font-bold leading-tight mb-3">Urban Rooftop Solar Mandate</h3>
+                        <p class="text-[#61897f] text-sm leading-relaxed mb-6">
+                            New commercial buildings above 1,000 sqm must install solar PV systems covering 30% of roof
+                            area. Rebates up to $50,000 available.
+                        </p>
+                        <button
+                            class="w-full flex items-center justify-center gap-2 rounded-xl h-10 border-2 border-primary text-[#111816] dark:text-white text-sm font-bold hover:bg-primary hover:text-[#10221d] transition-all">
+                            View Guidelines
+                        </button>
+                    </div>
+                </div>
+                <!-- Card 6 -->
+                <div
+                    class="break-inside-avoid group bg-white dark:bg-background-dark border border-[#f0f4f3] dark:border-[#1e2f2a] rounded-xl overflow-hidden hover:shadow-xl hover:border-primary/50 transition-all duration-300">
+                    <div class="p-6">
+                        <div class="flex items-center justify-between mb-3">
+                            <span
+                                class="px-2.5 py-1 rounded-lg bg-amber-100 dark:bg-amber-900/40 text-amber-600 dark:text-amber-300 text-[11px] font-bold uppercase tracking-wider">Education</span>
+                            <span class="text-[10px] text-[#61897f] font-medium">Ref: #BG24-210</span>
+                        </div>
+                        <h3 class="text-xl font-bold leading-tight mb-3">STEM Excellence Scholarships</h3>
+                        <p class="text-[#61897f] text-sm leading-relaxed mb-6">
+                            Launch of 100,000 annual scholarships for underprivileged students pursuing Quantum
+                            Computing and Biotechnology.
+                        </p>
+                        <div class="flex flex-col gap-2">
+                            <div class="flex items-center gap-2">
+                                <span class="w-2 h-2 rounded-full bg-primary"></span>
+                                <span class="text-xs font-semibold">Budget: $200M Annually</span>
+                            </div>
+                            <div class="flex items-center gap-2">
+                                <span class="w-2 h-2 rounded-full bg-primary"></span>
+                                <span class="text-xs font-semibold">Eligibility: High School Seniors</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+</body>
+
+</html>

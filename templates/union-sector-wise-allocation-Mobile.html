@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Sector Allocation List</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;600;700;900&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#13ecb2",
+                        "background-light": "#f6f8f7",
+                        "background-dark": "#10221d",
+                        "card-dark": "#1a2e28",
+                    },
+                    fontFamily: {
+                        "display": ["Public Sans"]
+                    },
+                    borderRadius: {
+                        "DEFAULT": "0.25rem",
+                        "lg": "0.5rem",
+                        "xl": "0.75rem",
+                        "full": "9999px"
+                    },
+                },
+            },
+        }
+    </script>
+    <style>
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 1, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+        }
+    </style>
+</head>
+
+<body class="bg-background-light dark:bg-background-dark font-display text-slate-900 dark:text-white min-h-screen">
+    <div class="layout-container flex h-full grow flex-col">
+        <!-- Top Navigation -->
+        <header
+            class="flex items-center justify-between whitespace-nowrap border-b border-solid border-slate-200 dark:border-[#283934] px-10 py-3 bg-white dark:bg-background-dark sticky top-0 z-50">
+            <div class="flex items-center gap-8">
+                <div class="flex items-center gap-4 text-primary">
+                    <div class="size-6">
+                        <span class="material-symbols-outlined text-3xl">account_balance</span>
+                    </div>
+                    <h2 class="text-slate-900 dark:text-white text-lg font-bold leading-tight tracking-[-0.015em]">
+                        Budget Dashboard</h2>
+                </div>
+                <div class="hidden md:flex items-center gap-9">
+                    <a class="text-slate-600 dark:text-white text-sm font-medium leading-normal hover:text-primary transition-colors"
+                        href="#">Overview</a>
+                    <a class="text-primary text-sm font-bold leading-normal" href="#">Allocations</a>
+                    <a class="text-slate-600 dark:text-white text-sm font-medium leading-normal hover:text-primary transition-colors"
+                        href="#">Reports</a>
+                    <a class="text-slate-600 dark:text-white text-sm font-medium leading-normal hover:text-primary transition-colors"
+                        href="#">Settings</a>
+                </div>
+            </div>
+            <div class="flex flex-1 justify-end gap-6 items-center">
+                <label class="hidden lg:flex flex-col min-w-40 !h-10 max-w-64">
+                    <div class="flex w-full flex-1 items-stretch rounded-lg h-full">
+                        <div
+                            class="text-slate-400 dark:text-[#9db9b2] flex border-none bg-slate-100 dark:bg-[#283934] items-center justify-center pl-4 rounded-l-lg border-r-0">
+                            <span class="material-symbols-outlined text-xl">search</span>
+                        </div>
+                        <input
+                            class="form-input flex w-full min-w-0 flex-1 resize-none overflow-hidden rounded-lg text-slate-900 dark:text-white focus:outline-0 focus:ring-0 border-none bg-slate-100 dark:bg-[#283934] focus:border-none h-full placeholder:text-slate-400 dark:placeholder:text-[#9db9b2] px-4 rounded-l-none border-l-0 pl-2 text-base font-normal leading-normal"
+                            placeholder="Search sectors..." value="" />
+                    </div>
+                </label>
+                <div class="bg-center bg-no-repeat aspect-square bg-cover rounded-full size-10 border-2 border-primary/20"
+                    data-alt="User profile avatar"
+                    style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuCclVHEIc9MbmmHNGbIaxjhc9eDMBCtgk5eRtbB5P1AFQjr7yX3UkvvF3Ev8E2SPlg6fFEL65rGhXhPWzirbg7DZZVmZVZgQExuaIjRi41KyWnm4vfXim9uDMpvLMlvFn7a6DYJ8gCA65afMISKJDUaGnWH_HB4dUWnUjusQERxH4hoyh9HLfk-vfei5NLIKg2AuD8Mv2aaFMJ_h9W5Mn5_ouW-mnWZCxxShjOzL-0laG4kkNgiFqdPBpyKD1WtC3d-dTxJjisY-9w");'>
+                </div>
+            </div>
+        </header>
+        <main class="flex-1 flex flex-col md:flex-row max-w-[1440px] mx-auto w-full">
+            <!-- Sidebar (Desktop) -->
+            <aside class="hidden md:flex w-64 flex-col border-r border-slate-200 dark:border-[#283934] p-6 gap-8">
+                <div class="flex flex-col gap-1">
+                    <h3 class="text-slate-900 dark:text-white text-lg font-bold">Government Funds</h3>
+                    <p class="text-slate-500 dark:text-[#9db9b2] text-sm">Fiscal Year 2024-25</p>
+                </div>
+                <nav class="flex flex-col gap-2">
+                    <div class="flex items-center gap-3 px-3 py-2.5 rounded-lg bg-primary/10 text-primary">
+                        <span class="material-symbols-outlined">pie_chart</span>
+                        <p class="text-sm font-bold">Sectors</p>
+                    </div>
+                    <div
+                        class="flex items-center gap-3 px-3 py-2.5 rounded-lg text-slate-600 dark:text-[#9db9b2] hover:bg-slate-100 dark:hover:bg-[#283934] transition-colors cursor-pointer">
+                        <span class="material-symbols-outlined">calendar_today</span>
+                        <p class="text-sm font-medium">Fiscal Year</p>
+                    </div>
+                    <div
+                        class="flex items-center gap-3 px-3 py-2.5 rounded-lg text-slate-600 dark:text-[#9db9b2] hover:bg-slate-100 dark:hover:bg-[#283934] transition-colors cursor-pointer">
+                        <span class="material-symbols-outlined">map</span>
+                        <p class="text-sm font-medium">Regional</p>
+                    </div>
+                    <div
+                        class="flex items-center gap-3 px-3 py-2.5 rounded-lg text-slate-600 dark:text-[#9db9b2] hover:bg-slate-100 dark:hover:bg-[#283934] transition-colors cursor-pointer">
+                        <span class="material-symbols-outlined">analytics</span>
+                        <p class="text-sm font-medium">Analytics</p>
+                    </div>
+                </nav>
+                <div class="mt-auto p-4 rounded-xl bg-primary/5 border border-primary/20">
+                    <p class="text-xs font-bold text-primary uppercase tracking-wider mb-2">Priority Update</p>
+                    <p class="text-sm dark:text-slate-300">New allocation reports for the Transport sector are now
+                        available.</p>
+                </div>
+            </aside>
+            <!-- Content Area -->
+            <div class="flex-1 p-6 md:p-10 flex flex-col gap-8">
+                <!-- Page Heading -->
+                <div class="flex flex-col md:flex-row justify-between items-start md:items-center gap-6">
+                    <div class="flex flex-col gap-2">
+                        <h1
+                            class="text-slate-900 dark:text-white text-4xl font-black leading-tight tracking-[-0.033em]">
+                            Sector Allocation Report</h1>
+                        <p class="text-slate-500 dark:text-[#9db9b2] text-lg">Visualizing fund distribution across key
+                            government verticals</p>
+                    </div>
+                    <button
+                        class="flex items-center gap-2 px-6 py-3 bg-primary text-slate-900 rounded-lg font-bold text-sm hover:opacity-90 transition-opacity">
+                        <span class="material-symbols-outlined text-xl">picture_as_pdf</span>
+                        Export PDF
+                    </button>
+                </div>
+                <!-- Stats Summary -->
+                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                    <div
+                        class="flex flex-col gap-3 rounded-xl p-6 bg-white dark:bg-card-dark border border-slate-200 dark:border-[#3b544d] shadow-sm">
+                        <p class="text-slate-500 dark:text-[#9db9b2] text-sm font-semibold uppercase tracking-wider">
+                            Total Budget</p>
+                        <p class="text-slate-900 dark:text-white text-3xl font-black leading-tight">₹25.00 Lakh Cr</p>
+                        <div class="flex items-center gap-1 text-[#0bda49] text-sm font-bold">
+                            <span class="material-symbols-outlined text-sm">trending_up</span>
+                            <span>+5.2% vs Last Year</span>
+                        </div>
+                    </div>
+                    <div
+                        class="flex flex-col gap-3 rounded-xl p-6 bg-white dark:bg-card-dark border border-slate-200 dark:border-[#3b544d] shadow-sm">
+                        <p class="text-slate-500 dark:text-[#9db9b2] text-sm font-semibold uppercase tracking-wider">
+                            Allocated</p>
+                        <p class="text-slate-900 dark:text-white text-3xl font-black leading-tight">₹24.62 Lakh Cr</p>
+                        <div class="flex items-center gap-1 text-[#0bda49] text-sm font-bold">
+                            <span class="material-symbols-outlined text-sm">trending_up</span>
+                            <span>98.5% Utilized</span>
+                        </div>
+                    </div>
+                    <div
+                        class="flex flex-col gap-3 rounded-xl p-6 bg-white dark:bg-card-dark border border-slate-200 dark:border-[#3b544d] shadow-sm">
+                        <p class="text-slate-500 dark:text-[#9db9b2] text-sm font-semibold uppercase tracking-wider">
+                            Remaining</p>
+                        <p class="text-slate-900 dark:text-white text-3xl font-black leading-tight">₹0.38 Lakh Cr</p>
+                        <div class="flex items-center gap-1 text-[#fa5838] text-sm font-bold">
+                            <span class="material-symbols-outlined text-sm">trending_down</span>
+                            <span>-1.2% Reserve</span>
+                        </div>
+                    </div>
+                </div>
+                <!-- Filters -->
+                <div class="flex gap-3 flex-wrap items-center">
+                    <span class="text-sm font-bold text-slate-400 dark:text-slate-500 mr-2">Filter By:</span>
+                    <button
+                        class="flex h-10 shrink-0 items-center justify-center gap-x-2 rounded-lg bg-primary text-slate-900 px-4 font-bold text-sm shadow-md">
+                        All Sectors
+                        <span class="material-symbols-outlined text-lg">expand_more</span>
+                    </button>
+                    <button
+                        class="flex h-10 shrink-0 items-center justify-center gap-x-2 rounded-lg bg-slate-200 dark:bg-[#283934] text-slate-700 dark:text-white px-4 font-medium text-sm hover:bg-slate-300 dark:hover:bg-primary/20 transition-colors">
+                        High Priority
+                        <span class="material-symbols-outlined text-lg">expand_more</span>
+                    </button>
+                    <button
+                        class="flex h-10 shrink-0 items-center justify-center gap-x-2 rounded-lg bg-slate-200 dark:bg-[#283934] text-slate-700 dark:text-white px-4 font-medium text-sm hover:bg-slate-300 dark:hover:bg-primary/20 transition-colors">
+                        Infrastructure
+                        <span class="material-symbols-outlined text-lg">expand_more</span>
+                    </button>
+                    <button
+                        class="flex h-10 shrink-0 items-center justify-center gap-x-2 rounded-lg bg-slate-200 dark:bg-[#283934] text-slate-700 dark:text-white px-4 font-medium text-sm hover:bg-slate-300 dark:hover:bg-primary/20 transition-colors">
+                        Social Welfare
+                        <span class="material-symbols-outlined text-lg">expand_more</span>
+                    </button>
+                </div>
+                <!-- Sector List -->
+                <div class="flex flex-col gap-6">
+                    <!-- Infrastructure Card -->
+                    <div
+                        class="group flex flex-col md:flex-row gap-6 p-6 md:p-8 rounded-2xl bg-white dark:bg-card-dark border border-slate-200 dark:border-[#3b544d] hover:border-blue-400 dark:hover:border-blue-400 transition-all shadow-sm hover:shadow-lg">
+                        <div
+                            class="flex-shrink-0 w-16 h-16 rounded-xl bg-blue-100 dark:bg-blue-900/30 flex items-center justify-center text-blue-600 dark:text-blue-400">
+                            <span class="material-symbols-outlined text-3xl">foundation</span>
+                        </div>
+                        <div class="flex-grow flex flex-col gap-4">
+                            <div class="flex flex-wrap justify-between items-end gap-2">
+                                <div class="flex flex-col">
+                                    <h3 class="text-xl font-bold dark:text-white">Infrastructure</h3>
+                                    <p class="text-slate-500 dark:text-slate-400 text-sm font-medium">Bridges, Highways
+                                        &amp; Public Works</p>
+                                </div>
+                                <div class="text-right">
+                                    <p class="text-2xl font-black text-slate-900 dark:text-white">₹8.26 Lakh Cr</p>
+                                    <p class="text-blue-500 dark:text-blue-400 font-bold text-sm">33% of Total Budget
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="w-full h-3 bg-slate-100 dark:bg-slate-800 rounded-full overflow-hidden">
+                                <div class="h-full bg-blue-500 rounded-full" style="width: 33%"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Healthcare Card -->
+                    <div
+                        class="group flex flex-col md:flex-row gap-6 p-6 md:p-8 rounded-2xl bg-white dark:bg-card-dark border border-slate-200 dark:border-[#3b544d] hover:border-pink-400 dark:hover:border-pink-400 transition-all shadow-sm hover:shadow-lg">
+                        <div
+                            class="flex-shrink-0 w-16 h-16 rounded-xl bg-pink-100 dark:bg-pink-900/30 flex items-center justify-center text-pink-600 dark:text-pink-400">
+                            <span class="material-symbols-outlined text-3xl">medical_services</span>
+                        </div>
+                        <div class="flex-grow flex flex-col gap-4">
+                            <div class="flex flex-wrap justify-between items-end gap-2">
+                                <div class="flex flex-col">
+                                    <h3 class="text-xl font-bold dark:text-white">Healthcare</h3>
+                                    <p class="text-slate-500 dark:text-slate-400 text-sm font-medium">Public Hospitals
+                                        &amp; Medical Research</p>
+                                </div>
+                                <div class="text-right">
+                                    <p class="text-2xl font-black text-slate-900 dark:text-white">₹4.12 Lakh Cr</p>
+                                    <p class="text-pink-500 dark:text-pink-400 font-bold text-sm">16.5% of Total Budget
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="w-full h-3 bg-slate-100 dark:bg-slate-800 rounded-full overflow-hidden">
+                                <div class="h-full bg-pink-500 rounded-full" style="width: 16.5%"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Agriculture Card -->
+                    <div
+                        class="group flex flex-col md:flex-row gap-6 p-6 md:p-8 rounded-2xl bg-white dark:bg-card-dark border border-slate-200 dark:border-[#3b544d] hover:border-green-400 dark:hover:border-green-400 transition-all shadow-sm hover:shadow-lg">
+                        <div
+                            class="flex-shrink-0 w-16 h-16 rounded-xl bg-green-100 dark:bg-green-900/30 flex items-center justify-center text-green-600 dark:text-green-400">
+                            <span class="material-symbols-outlined text-3xl">agriculture</span>
+                        </div>
+                        <div class="flex-grow flex flex-col gap-4">
+                            <div class="flex flex-wrap justify-between items-end gap-2">
+                                <div class="flex flex-col">
+                                    <h3 class="text-xl font-bold dark:text-white">Agriculture</h3>
+                                    <p class="text-slate-500 dark:text-slate-400 text-sm font-medium">Crop Subsidies
+                                        &amp; Rural Development</p>
+                                </div>
+                                <div class="text-right">
+                                    <p class="text-2xl font-black text-slate-900 dark:text-white">₹3.50 Lakh Cr</p>
+                                    <p class="text-green-500 dark:text-green-400 font-bold text-sm">14% of Total Budget
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="w-full h-3 bg-slate-100 dark:bg-slate-800 rounded-full overflow-hidden">
+                                <div class="h-full bg-green-500 rounded-full" style="width: 14%"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Education Card -->
+                    <div
+                        class="group flex flex-col md:flex-row gap-6 p-6 md:p-8 rounded-2xl bg-white dark:bg-card-dark border border-slate-200 dark:border-[#3b544d] hover:border-primary dark:hover:border-primary transition-all shadow-sm hover:shadow-lg">
+                        <div
+                            class="flex-shrink-0 w-16 h-16 rounded-xl bg-primary/10 flex items-center justify-center text-primary">
+                            <span class="material-symbols-outlined text-3xl">school</span>
+                        </div>
+                        <div class="flex-grow flex flex-col gap-4">
+                            <div class="flex flex-wrap justify-between items-end gap-2">
+                                <div class="flex flex-col">
+                                    <h3 class="text-xl font-bold dark:text-white">Education</h3>
+                                    <p class="text-slate-500 dark:text-slate-400 text-sm font-medium">Primary Schools
+                                        &amp; Higher Education</p>
+                                </div>
+                                <div class="text-right">
+                                    <p class="text-2xl font-black text-slate-900 dark:text-white">₹2.80 Lakh Cr</p>
+                                    <p class="text-primary font-bold text-sm">11.2% of Total Budget</p>
+                                </div>
+                            </div>
+                            <div class="w-full h-3 bg-slate-100 dark:bg-slate-800 rounded-full overflow-hidden">
+                                <div class="h-full bg-primary rounded-full" style="width: 11.2%"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Defense Card -->
+                    <div
+                        class="group flex flex-col md:flex-row gap-6 p-6 md:p-8 rounded-2xl bg-white dark:bg-card-dark border border-slate-200 dark:border-[#3b544d] hover:border-orange-400 dark:hover:border-orange-400 transition-all shadow-sm hover:shadow-lg">
+                        <div
+                            class="flex-shrink-0 w-16 h-16 rounded-xl bg-orange-100 dark:bg-orange-900/30 flex items-center justify-center text-orange-600 dark:text-orange-400">
+                            <span class="material-symbols-outlined text-3xl">shield</span>
+                        </div>
+                        <div class="flex-grow flex flex-col gap-4">
+                            <div class="flex flex-wrap justify-between items-end gap-2">
+                                <div class="flex flex-col">
+                                    <h3 class="text-xl font-bold dark:text-white">Defense</h3>
+                                    <p class="text-slate-500 dark:text-slate-400 text-sm font-medium">National Security
+                                        &amp; Modernization</p>
+                                </div>
+                                <div class="text-right">
+                                    <p class="text-2xl font-black text-slate-900 dark:text-white">₹5.94 Lakh Cr</p>
+                                    <p class="text-orange-500 dark:text-orange-400 font-bold text-sm">23.8% of Total
+                                        Budget</p>
+                                </div>
+                            </div>
+                            <div class="w-full h-3 bg-slate-100 dark:bg-slate-800 rounded-full overflow-hidden">
+                                <div class="h-full bg-orange-500 rounded-full" style="width: 23.8%"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Footer Action -->
+                <div class="mt-8 flex justify-center">
+                    <button
+                        class="px-8 py-3 rounded-full border border-primary text-primary font-bold text-sm hover:bg-primary hover:text-slate-900 transition-all">
+                        Load More Sectors
+                    </button>
+                </div>
+            </div>
+        </main>
+    </div>
+</body>
+
+</html>
