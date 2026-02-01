@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
 import Header from '../components/Header'
 import CldImage from '../components/CldImage'
+import { shareElementAsImage } from '../utils/shareUtils'
 import {
     getUnionBudgetGlance,
     getBudgetMetadata,
@@ -21,7 +22,16 @@ const UnionBudgetAtGlance = () => {
     const glance = getUnionBudgetGlance()
     const deficits = getDeficitIndicators()
     const { comesFrom, goesTo } = getRupeeProfile()
+    const sectoral = getSectoralAllocations()
 
+    const handleShare = () => {
+        shareElementAsImage('kerala-share-card', {
+            title: "Kerala's Budget Share 2026",
+            text: "Analyzing Kerala's share in the Union Budget 2026 via KeralaNXT.",
+            fileName: 'kerala-budget-share-2026.png',
+            backgroundColor: '#ffffff'
+        })
+    }
     const totalExpenditure = glance.budget_aggregates.data.find(d => d.category === "Total Expenditure")?.["2026_27_budget_estimates"] || 0
 
     const colors = [
@@ -186,14 +196,17 @@ const UnionBudgetAtGlance = () => {
                     <div className="kerala-modal-overlay" onClick={() => setIsKeralaModalOpen(false)}>
                         <motion.div
                             className="kerala-modal-card"
+                            id="kerala-share-card"
                             initial={{ opacity: 0, scale: 0.9, y: 20 }}
                             animate={{ opacity: 1, scale: 1, y: 0 }}
                             exit={{ opacity: 0, scale: 0.9, y: 20 }}
                             onClick={(e) => e.stopPropagation()}
                         >
-                            <button className="modal-close-btn" onClick={() => setIsKeralaModalOpen(false)}>
-                                <span className="material-symbols-outlined">close</span>
-                            </button>
+                            <div className="modal-actions-top">
+                                <button className="modal-close-btn" onClick={() => setIsKeralaModalOpen(false)}>
+                                    <span className="material-symbols-outlined">close</span>
+                                </button>
+                            </div>
 
                             <div className="kerala-modal-header">
                                 <span className="kerala-label">Union Budget Analysis</span>
@@ -223,8 +236,9 @@ const UnionBudgetAtGlance = () => {
                                 </div>
                             </div>
 
-                            <button className="modal-cta-btn" onClick={() => navigate('/union-budget-highlights?target=Kerala')}>
-                                View All Kerala Highlights
+                            <button className="modal-share-cta" onClick={handleShare}>
+                                <span className="material-symbols-outlined">share</span>
+                                Share
                             </button>
                         </motion.div>
                     </div>

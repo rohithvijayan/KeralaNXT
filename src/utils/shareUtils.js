@@ -232,6 +232,35 @@ export const shareElementAsImage = async (elementId, options = {}) => {
                             heroAmount.style.webkitTextFillColor = '#ffffff';
                         }
                     }
+                    // Kerala Share Card (Satirical Insight) - Preservation Mode
+                    else if (elementId === 'kerala-share-card') {
+                        brandName.style.color = '#10221d'; // Dark green/black branding
+                        clonedElement.style.padding = '40px';
+                        clonedElement.style.background = '#ffffff';
+                        clonedElement.style.color = '#10221d';
+                        clonedElement.style.borderRadius = '28px';
+                        clonedElement.style.boxShadow = 'none';
+                        clonedElement.style.width = '500px';
+
+                        // Hide interactive elements
+                        const interactiveEls = clonedElement.querySelectorAll('.modal-actions-top, .modal-cta-btn, .modal-close-btn, .modal-share-btn, .modal-share-cta');
+                        interactiveEls.forEach(el => el.style.display = 'none');
+
+                        // Preserve original content colors
+                        const cardTitle = clonedElement.querySelector('.kerala-modal-header h2');
+                        if (cardTitle) cardTitle.style.color = '#10221d';
+
+                        const msgTag = clonedElement.querySelector('.insight-tag');
+                        if (msgTag) {
+                            msgTag.style.background = '#f0fdf9';
+                            msgTag.style.color = '#0fb48c';
+                        }
+
+                        // Adjust branding layout for white theme
+                        brandName.style.fontSize = '2rem';
+                        brandTagline.style.color = '#0fb48c';
+                        brandHeader.style.marginBottom = '20px';
+                    }
 
                     // For MP Dashboard related cards, make brand name black for visibility
                     if (elementId === 'hero-summary-card' || elementId.startsWith('mp-card-')) {

@@ -442,10 +442,16 @@
     text-align: center;
 }
 
-.modal-close-btn {
+.modal-actions-top {
     position: absolute;
     top: 20px;
     right: 20px;
+    display: flex;
+    gap: 10px;
+    z-index: 10;
+}
+
+.modal-close-btn {
     width: 36px;
     height: 36px;
     border-radius: 50%;
@@ -462,6 +468,39 @@
 .modal-close-btn:hover {
     background: #ffeded;
     color: #ff4d4d;
+}
+
+.modal-share-cta {
+    width: 100%;
+    height: 56px;
+    background: #25d366;
+    /* WhatsApp Green */
+    color: #ffffff;
+    border: none;
+    border-radius: 16px;
+    font-size: 16px;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    cursor: pointer;
+    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    box-shadow: 0 8px 20px rgba(37, 211, 102, 0.2);
+}
+
+.modal-share-cta span {
+    font-size: 22px;
+}
+
+.modal-share-cta:hover {
+    background: #1eb956;
+    transform: translateY(-3px) scale(1.02);
+    box-shadow: 0 12px 24px rgba(37, 211, 102, 0.3);
+}
+
+.modal-share-cta:active {
+    transform: translateY(-1px) scale(0.98);
 }
 
 .kerala-modal-header {
