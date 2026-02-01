@@ -21,7 +21,7 @@ const UnionBudgetAtGlance = lazy(() => import('./pages/UnionBudgetAtGlance'))
 const UnionBudgetHighlights = lazy(() => import('./pages/UnionBudgetHighlights'))
 const UnionSectorwiseAllocation = lazy(() => import('./pages/UnionSectorwiseAllocation'))
 const UnionBudgetComparison = lazy(() => import('./pages/UnionBudgetComparison'))
-
+import { Analytics } from "@vercel/analytics/next"
 import BottomNav from './components/BottomNav'
 
 function App() {
@@ -50,6 +50,7 @@ function App() {
                 </Routes>
             </Suspense>
             <BottomNav />
+            <Analytics />
         </>
     )
 }
