@@ -1,0 +1,11 @@
+# robots.txt for keralastory.in
+
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://keralastory.in/sitemap.xml
+
+# Optional: Crawl-delay (uncomment if needed)
+# Crawl-delay: 1
