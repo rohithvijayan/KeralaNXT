@@ -5,6 +5,7 @@ import Header from '../components/Header'
 import './AboutPage.css'
 import keralaAssembly from '../assets/images/kerala-assembly.jpg'
 import kochiMetro from '../assets/images/kochimetro.png'
+import { cld } from '../utils/cloudinary'
 // Stats data
 const stats = [
     { id: 1, value: '1,79,949 Crore', label: 'Tracked Investment', icon: 'payments' },
@@ -155,6 +156,14 @@ function AboutPage() {
     const [mobileIndex, setMobileIndex] = useState(0) // Mobile mini cards slider
     const cardsToShow = 5
     const miniCardsToShow = 4
+
+    // Helper function to get Cloudinary image URL
+    const getCloudinaryUrl = (publicId) => {
+        if (!publicId) return ''
+        const myImage = cld.image(publicId)
+        myImage.format('auto').quality('auto')
+        return myImage.toURL()
+    }
 
     const nextLeader = () => {
         setLeaderIndex((prev) => (prev + 5) % leadership.length)
@@ -310,7 +319,7 @@ function AboutPage() {
                     <div className="cm-prominent-card">
                         <div
                             className="leadership-avatar cm-avatar"
-                            style={{ backgroundImage: `url(${cm.image})` }}
+                            style={{ backgroundImage: `url(${getCloudinaryUrl(cm.image)})` }}
                         ></div>
                         <div className="leadership-info">
                             <h3 className="leadership-name">{cm.name}</h3>
@@ -337,7 +346,7 @@ function AboutPage() {
                                         <div key={leader.id} className="leadership-card-mini">
                                             <div
                                                 className="leadership-avatar mini-avatar"
-                                                style={{ backgroundImage: `url(${leader.image})` }}
+                                                style={{ backgroundImage: `url(${getCloudinaryUrl(leader.image)})` }}
                                             ></div>
                                             <div className="leadership-info">
                                                 <h4 className="leadership-name">{leader.name}</h4>
@@ -375,7 +384,7 @@ function AboutPage() {
                                     >
                                         <div
                                             className="leadership-avatar"
-                                            style={{ backgroundImage: `url(${leader.image})` }}
+                                            style={{ backgroundImage: `url(${getCloudinaryUrl(leader.image)})` }}
                                         ></div>
                                         <div className="leadership-info">
                                             <h3 className="leadership-name">{leader.name}</h3>
