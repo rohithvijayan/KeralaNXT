@@ -141,7 +141,7 @@ function HomePage() {
                         Comprehensive insights into Kerala's development, public spending, and policy outcomes since 2016.
                     </p>
                     <p className="home-tagline">
-                        Spoiler alert: It has data instead of propaganda.
+                        Bringing Transparancy Through Public Data.
                     </p>
                 </motion.div>
 
@@ -340,7 +340,7 @@ function HomePage() {
                                 <div className="popup-btn-group">
                                     <Link to="/budget-highlights" className="popup-cta-btn highlight">
                                         <span className="material-symbols-outlined">auto_awesome</span>
-                                        Top Highlights
+                                        Union Budget
                                     </Link>
                                     <Link to="/state-budget?year=2026-27" className="popup-cta-btn secondary">
                                         Check Budget Details
