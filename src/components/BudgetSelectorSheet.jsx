@@ -1,4 +1,5 @@
 import { motion, AnimatePresence } from 'framer-motion'
+import { createPortal } from 'react-dom'
 import { useNavigate } from 'react-router-dom'
 import './BudgetSelectorSheet.css'
 
@@ -10,7 +11,15 @@ function BudgetSelectorSheet({ isOpen, onClose }) {
         onClose()
     }
 
-    return (
+    const isDesktop = typeof window !== 'undefined' && window.innerWidth >= 768
+
+    const sheetVariants = {
+        initial: isDesktop ? { opacity: 0, scale: 0.95, x: '-50%', y: '-40%' } : { y: '100%' },
+        animate: isDesktop ? { opacity: 1, scale: 1, x: '-50%', y: '-50%' } : { y: 0 },
+        exit: isDesktop ? { opacity: 0, scale: 0.95, x: '-50%', y: '-40%' } : { y: '100%' }
+    }
+
+    const content = (
         <AnimatePresence>
             {isOpen && (
                 <>
@@ -25,10 +34,11 @@ function BudgetSelectorSheet({ isOpen, onClose }) {
 
                     <motion.div
                         className="budget-sheet"
-                        initial={{ y: '100%' }}
-                        animate={{ y: 0 }}
-                        exit={{ y: '100%' }}
-                        transition={{ type: 'spring', damping: 30, stiffness: 300 }}
+                        variants={sheetVariants}
+                        initial="initial"
+                        animate="animate"
+                        exit="exit"
+                        transition={isDesktop ? { duration: 0.2 } : { type: 'spring', damping: 30, stiffness: 300 }}
                     >
                         <button className="budget-sheet-close" onClick={onClose}>
                             <span className="material-symbols-outlined">close</span>
@@ -56,6 +66,10 @@ function BudgetSelectorSheet({ isOpen, onClose }) {
             )}
         </AnimatePresence>
     )
+
+    if (typeof document === 'undefined') return null
+
+    return createPortal(content, document.body)
 }
 
 export default BudgetSelectorSheet
