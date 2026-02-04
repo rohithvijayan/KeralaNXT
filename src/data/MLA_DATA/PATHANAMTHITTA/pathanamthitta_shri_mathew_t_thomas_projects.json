@@ -1,0 +1,393 @@
+{
+    "mla_name": "Shri Mathew. T. Thomas",
+    "constituency": "THIRUVALLA",
+    "district": "Pathanamthitta",
+    "summary": {
+        "total_expenditure_crores": 11.7079,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 6.9388
+            },
+            {
+                "label": "Others",
+                "value_crores": 2.4291
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 1.5
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.59
+            },
+            {
+                "label": "Education",
+                "value_crores": 0.25
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "സ്വാമിപാലം മേപ്രാല്‍  റോഡില്‍ മേപ്രാല്‍ മുതല്‍ കടവ് റോഡ് വരെയുളള ഭാഗം നിര്‍മ്മാണം-പെരിങ്ങര ഗ്രാമപഞ്ചായത്ത്.",
+            "implementing_agency": "PWD Roads Pathanamthitta",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കടപ്ര വീയപുരം റോഡില്‍ പാട്ടമ്പലത്തിന് സമീപം (ചെയിനേജ് 1/500 മുതല്‍-1/650 വരെ) ഡ്രെയിനേജ് നിര്‍മ്മാണം-നിരണം ഗ്രാമപഞ്ചായത്ത്.",
+            "implementing_agency": "PWD Roads Pathanamthitta",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പെരിങ്ങര ഗ്രാമപഞ്ചായത്ത് 6-ാം വാര്‍ഡിലെ  മുട്ടത്തുപടിയില്‍, വേങ്ങല്‍ തോടിന് കുറുകെ കലുങ്ക് നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer, Minor Irrigation Division, Pathanamthitta",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 59.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പാടിമണ്‍ മണ്ണുപ്പുറത്ത് റോഡ് മല്ലപ്പളളി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        },
+        {
+            "project_name": "മനക്കച്ചിറ മാലി റോഡ്- കവിയൂര്‍ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 33.0,
+            "concurrence_lakhs": 33.0
+        },
+        {
+            "project_name": "ശാസ്താനട-അലിച്ചക്കോട് റോഡ് -കുറ്റൂര്‍ ഗ്രാമപഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "പോത്തിരിക്കല്‍പടി-താനാമൂട്ടില്‍പടി റോഡ്- പെരിങ്ങര ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ഐ.കെ.എം സ്കൂള്‍ മല്ലപ്പളളി,ഗവ.മോഡല്‍ ന്യൂ എല്‍ പി സ്കൂള്‍ ആഞ്ഞിലിത്താനം  പാചകപ്പുര നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "വലിയപറമ്പില്‍പടി ആറുപറയില്‍പടി റോഡ്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വലിയപറമ്പില്‍ പടി ആറുപറയില്‍ പടി - പെരിങ്ങര ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "പനച്ചയില്‍ പടി രക്ഷാസൈന്യം പടി റോഡ്- പെരിങ്ങര ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ബ്ലോക്ക് പടി മണപറമ്പ് പടി റോഡ് - കടപ്ര ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ചിറയില്‍ പടി  ഐരാമ്പള്ളി പടി  റോഡ്- പെരിങ്ങര ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പുതിയമഠം  തോട്ടുമട റോഡ് -  നിരണം ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കാരണശ്ശേരി ഓട്ടാഫീസ് കടവ് റോഡ് - നെടുമ്പ്രം  ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കൊച്ചുപാലത്തിങ്കല്‍  മുണ്ടുചിറപ്പാട് റോഡ് - കുറ്റൂര്‍ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "കുമ്പളത്ത് പടി നിരണത്ത് തടം റോഡ് - നിരണം  ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 11.0,
+            "concurrence_lakhs": 11.0
+        },
+        {
+            "project_name": "കോഴിമുള്ളില്‍ പടി - കരിമ്പനാമുറിയില്‍ റോഡ്  പുറമറ്റം ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "കോട്ടമുണ്ടകം ചക്കാലപ്പടി റോഡ് - കവിയൂര്‍ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ചിലമ്പത്ത് പടി പേഴത്തോലിക്കല്‍ റോഡ് കുന്നന്താനം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "വാര്‍ഡ് 7 ല്‍ ഒട്ടിയാക്കുഴി കലുങ്കും അപ്രോച്ച് റോഡും നിര്‍മ്മാണം  കുന്നന്താനം ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "കല്ലൂപ്പാറ വാര്‍ഡ് 11 ല്‍ 28  നമ്പര്‍ അംഗന്‍വാടി",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "മല്ലപ്പള്ളി ബ്ലോക്ക് പഞ്ചായത്ത് ഓഫീസിന്  പുതിയ കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 100.0,
+            "concurrence_lakhs": 100.0
+        },
+        {
+            "project_name": "കരിമാലത്ത്പടി - പാറയില്‍ പടി റോഡ് പുറമറ്റം ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "താഴത്തേപടി- അടങ്ങപ്പുറത്ത് പടി റോഡ്- പുറമറ്റം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "പുറമറ്റം വി.എച്ച്.എസ്.ഇ  പുതിയ കെട്ടിടം",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 150.0,
+            "concurrence_lakhs": 150.0
+        },
+        {
+            "project_name": "നിരണം ഗ്രാമപഞ്ചായത്തിലെ അടിവാക്കല്‍ പടി - കണ്ണേരി  പടി റോഡ് .",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "നിരണം ഗ്രാമപഞ്ചായത്തിലെ കള്ളിക്കല്‍ പടി-മങ്കത്ര റോഡ്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 26.0
+        },
+        {
+            "project_name": "തിരുവല്ല നിയോജക മണ്ഡലത്തിലെ  വിവിധ സ്ഥലങ്ങളില്‍ മോട്ടോറൈസ്ഡ്  മിനിമാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കല്‍",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 27.91,
+            "concurrence_lakhs": 27.91
+        },
+        {
+            "project_name": "കവിയൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ  6-ാം നമ്പര്‍ അംഗന്‍വാടി കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "മുടുക്കോലില്‍ മരുത്തറ പൂവത്തുംതറ റോഡ്  (കുറ്റൂര്‍ ഗ്രാമപഞ്ചായത്ത്)",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "വെണ്‍പറമ്പില്‍ പടി – മണക്കാട്ടുപടി  റോഡ്  (നിരണം ഗ്രാമപഞ്ചായത്ത്)",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കൈപ്പാഞ്ചാലില്‍ പറപ്പാത്തി റോഡ്  (നെടുമ്പ്രം ഗ്രാമപഞ്ചായത്ത്)",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഏറ്റുകടവ് കാട്ടാംചുവട് വട്ടത്തുണ്ട് പടി  റോഡ്   (കുറ്റൂര്‍ ഗ്രാമപഞ്ചായത്ത്)",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കള്ളിക്കല്‍പ്പടി - മങ്കത്ര റോഡ്  (നിരണം ഗ്രാമപഞ്ചായത്ത്)",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അലമാരപ്പടി - പാപ്പനാട്ടില്‍ പടി റോഡില്‍ കലുങ്ക് നിര്‍മ്മാണം- നെടുമ്പ്രം ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പുതിയമഠം - തോട്ടുടമ റോഡ് (നിരണം ഗ്രാമപഞ്ചായത്ത്)",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 21.0,
+            "concurrence_lakhs": 21.0
+        },
+        {
+            "project_name": "പാലാംപള്ളത്ത് പടി - കോലംകണ്ടം പടി റോഡ് (പെരിങ്ങര ഗ്രാമപഞ്ചായത്ത്)",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "മരുതൂര്‍കാവ് - വാരോട്ടില്‍ കലുങ്ക് റോഡ് (നിരണം ഗ്രാമപഞ്ചായത്ത്)",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "പാലത്തിങ്കല്‍ എന്‍.എസ്.എസ്. പടി  റോഡ് -  കല്ലൂപ്പാറ   ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കരിപ്പക്കുഴി പള്ളി - തെങ്ങുന്താനം  റോഡ്  - കുന്നന്താനം   ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.88,
+            "concurrence_lakhs": 10.88
+        },
+        {
+            "project_name": "പണിക്കര്‍ വീട്  റോഡ്  നിര്‍മ്മാണം - മല്ലപ്പള്ളി   ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കൊമ്പാടി – കല്ലുമൂല – ആമല്ലൂര്‍ റോഡ് - തിരുവല്ല നഗരസഭ",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 11.0,
+            "concurrence_lakhs": 11.0
+        },
+        {
+            "project_name": "കന്യാകോണില്‍ - ചിറമേല്‍പ്പടി റോഡ് (സ്നേഹവഴി)  കോണ്‍ക്രീറ്റിംഗ് - തിരുവല്ല നഗരസഭ",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "pathanamthitta_shri_mathew_t_thomas_placeholder"
+}

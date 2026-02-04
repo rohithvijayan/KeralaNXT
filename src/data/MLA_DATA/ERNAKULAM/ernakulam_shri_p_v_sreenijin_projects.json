@@ -1,0 +1,537 @@
+{
+    "mla_name": "Shri P. V. Sreenijin",
+    "constituency": "KUNNATHUNAD",
+    "district": "Ernakulam",
+    "summary": {
+        "total_expenditure_crores": 18.958,
+        "breakdown": [
+            {
+                "label": "Education",
+                "value_crores": 7.9905
+            },
+            {
+                "label": "Road",
+                "value_crores": 5.0577
+            },
+            {
+                "label": "Others",
+                "value_crores": 1.7201
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 1.1757
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 1.07
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 0.674
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.52
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.5
+            },
+            {
+                "label": "Water Supply",
+                "value_crores": 0.25
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "MLA-ADS - 2025-2026 - KUNNATHUNAD LAC - CONSTRUCTION OF ENTRANCE  GATE OF GUPS PUTTUMANNOOR , GUPS VALAMBOOR , GLPS SOUTH MAZHUVANNOOR IN KUNNATHUNAD LAC",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 9.45,
+            "concurrence_lakhs": 9.45
+        },
+        {
+            "project_name": "MLA-ADS - 2024-2025 - KUNNATHUNAD LAC - RENNOVATION OD NASRATH NAGAR  HIGH LEVEL  CANAL  BUND  ROAD  IN  WARD NO:1  OF MAZHUVANOOR GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - KUNNATHUNAD LAC - LAYING INTERLOCK  TILES  AT PISHARATHPADI PUNNASSERIPPADI  ROAD  IN WARD 16 OD MAZHUVANOOR  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - KUNNATHUNAD LAC - CONSTRUCTION OF CLASS ROOMS  TO  KAKKATTUPARA  GLPS IN   POOTHRIKKA GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - TAKE A BREAK PHASE 2 -   REST  ROOM  CUM   READING  ROOM   WITH  IT FECILITIES AT VAZHAKULAM G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 19.97,
+            "concurrence_lakhs": 19.97
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25- KUNNATHUNAD LAC - RECTIFICATION WORKS TO PALLIKKARA MD CANAL  NEAR CH : 2/950 MTR IN KUNNATHUNAD G P",
+            "implementing_agency": "ASSISTANT EXECUTIVE ENGINEER PVIP SUB DIVISION NO.7 KOLENCHERI",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 11.5,
+            "concurrence_lakhs": 11.5
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - KUNNATHUNAD LAC - PAVING INTERLOCK TILE IN LEFT  BUND ROAD  AT CH:3/200 M OF PUTHENCRUZ MD CANAL",
+            "implementing_agency": "ASSISTANT EXECUTIVE ENGINEER PVIP SUB DIVISION NO.7 KOLENCHERI",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.57,
+            "concurrence_lakhs": 14.57
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - KUNNATHUNAD   LAC - CONSTRUCTION OF FIRST  FLOOR   TO GLPS  VADAYAMPADY  IN POOTHRIKKA  G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 49.0,
+            "concurrence_lakhs": 49.0
+        },
+        {
+            "project_name": "MLA-ADS - KUNNATHUNAD LAC - MINI CIVIL  STATION KOLENCHERY-PROVIDING  SHEET  ROOFING  WORKS TO MINI   CIVIL  STATION KOLENCHERY",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - KUNNATHUNAD LAC - RETARRING THE RIGHT - SIDE BUND  ROAD OF KIZHAKAMBALAM MAJOR DISTRIBUTARY  FROM CH.0.985 KM TO CH.1.60 KM INCLUDING SIDE PROTECTION WALL  NEAR 1.575 KM   IN KIZHAKAMBALAM GP",
+            "implementing_agency": "Executive Engineer, PVIP Div I Perumbavoor",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - KUNNATHUNAD LAC - RENNOVATION OF CHENGARA MUSLIM PALLI - CANAL BUND ROAD IN KUNNATHUNAD GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-2025 - KUNNATHUNAD LAC - MANNOOR VALAKOM - CONSTRUCTION OF BOX CULVERT IN MANNOOR VALAKAM ROAD AR CH 3/500",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD ROADS DIVISION MUVATTUPUZHA",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 58.0,
+            "concurrence_lakhs": 58.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-2025 - KUNNATHUNAD LAC - CONSTRUCTION CLASS ROOMS FOR NSS GLPS AT MAZHUVANNUR GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 68.8,
+            "concurrence_lakhs": 68.8
+        },
+        {
+            "project_name": "MLA-ADS - 2024-2025- KUNNATHUNAD LAC - LAYING INTERLOCKING  TILES  IN PADATHIKARATHURUTH - ANGANAWADI ROAD IN WARD 1 OD VADAVUKODE PUTHENCRUZ GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-2025 - KUNNATHUNAD LAC - CONSTRUCTION CLASS ROOMS TO GOV:JBS KUTTA IN VADAVUKODE GP PUTHENCRUZ G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-2025 - KUNNATHUNAD LAC - CONSTRUCTION  OF PATTULLIMOOLA ROAD AND DRAIN IN WARD - 12   THIRUVANIYOOR GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "MLA-ADS - KUNNATHUNAD 2024-25 - PUBLIC LIBRARY  NEW BUILDING  CONSTRUCTION MALAYIDAMTHURUTH KIZHAKAMBALAM GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-2025 - KUNNATHUNAD LAC - CONSTRUCTION OF FIRST FLOOR BUILDING AND SHEET ROOFING CHANGAMPUZHA GRAMEENA VAYANASALA IN THIRUVANIYOOR GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 27.0,
+            "concurrence_lakhs": 27.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25 - KUNNATHUNAD LAC - CONSTRUCTION OF PUBLIC LIBRARY  BUILDING  AT MANGAKATHUNADA  IN MAZHUVANNUR GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "MLA-ADS - KUNNATHUNAD LAC - 2024-25 - NORTH  EZHIPRAM GUPS NEW BUILDING - VAZHAKULAM G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 99.9,
+            "concurrence_lakhs": 99.9
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25 - KUNNATHUNAD  LAC - KANNAMMANGALAM TEMPLE - KUNDUKULAM  ROAD  RENNOVATION",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.5,
+            "concurrence_lakhs": 10.5
+        },
+        {
+            "project_name": "MLA-ADS - 2024-2025- KUNNATHNAD LAC - CONSTRUCTION OF NEW BRIDGE  AT VALAKOM  BRANCH CANAL CH-8700 M IN MAZHUVANNUR G P",
+            "implementing_agency": "Executive Engineer, PVIP Div I Perumbavoor",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-2025 - KUNNATHUNAD LAC - PUBLIC LIBRARY  NEW   BUILDING  CONSTRUCTION MALAYIDAMTHURUTH  KIZHAKKAMBALAM GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "MLA-ADS - KUNNATHUNAD LAC - 2024-25 - CONSTRUCTION OF SIDE PROTECTION WALLFROM CH:110 M TO CH:315 M OF KUNNUKURUDI  FC CANAL IN MAZHUVANNUR GP",
+            "implementing_agency": "Executive Engineer, PVIP Div I Perumbavoor",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.17,
+            "concurrence_lakhs": 18.17
+        },
+        {
+            "project_name": "MLA-ADS - 2023-24 - KUNNATHUNAD LAC - CONSTRUCTION OF  GALAXY   FRIENDS  ROAD  IN   THIRUVANIYOOR  G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 19.6,
+            "concurrence_lakhs": 19.6
+        },
+        {
+            "project_name": "MLA-ADS- KUNNATHUNAD  LAC - 2023-24 - വടവുകോട്  പുത്തൻകുരിശ്   ഗ്രാമപഞ്ചായത്തിൽ  13,14   വാർഡുകൾ   തമ്മിൽ  ബന്ധിപ്പിക്കുന്ന  PVIP   FACT  ഫീഡർ കനാലിനു   കുറുകെ പാലം  പുനഃ നിർമ്മിക്കുന്നത്",
+            "implementing_agency": "EXECUTIVE ENGINEER PVIP DIVISION II ALUVA",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 56.0,
+            "concurrence_lakhs": 56.0
+        },
+        {
+            "project_name": "MLA-ADS- KUNNATHUNAD  LAC - 2023-24 - CONSTRUCTION OF NEW   BUILDING FOR KUNNAKKURUDY  GUPS  IN MAZHUVANNUR GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 99.98,
+            "concurrence_lakhs": 99.98
+        },
+        {
+            "project_name": "MLA-ADS - 2023-2024- KUNNATHUNAD LAC - CONSTRUCTION OF   TOILET BLOCK  IN RAJARSHI  MEMMORIAL  HIGHER  SECONDARY  SCHOOL  IN  PUTHENCRUZ  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS - 2023-2024 - KUNNATHUNAD LAC - TOILET COMPLEX NJARALLOOR  BATHLEHEM DAYARA  SCHOOL   KIZHAKAMBALAM  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS - KUNNATHNAD LAC - 2023-2024 - SHAMKHUKULAM MUNDASSERY  NAGAR  ROAD  WARD -16  MAZHUVANNOOR  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.5,
+            "concurrence_lakhs": 12.5
+        },
+        {
+            "project_name": "MLA-ADS - 2023-2024 - KUNNATHUNAD  LAC - CONSTRUCTION OF   OPEN STAGE   AND FIRST FLOOR   BUILDING   TO GUPS PUTTUMANNOR - VADAVUKODE  PUTHENCRUZ GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 54.5,
+            "concurrence_lakhs": 54.5
+        },
+        {
+            "project_name": "MLA-ADS -2023-24- CONSTRUCTION OF KITCHEN  AND DINING  HALL  TO GLPS  KURINJI  POOTHRIKKA  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 28.3,
+            "concurrence_lakhs": 28.3
+        },
+        {
+            "project_name": "MLA-ADS - 2023-24- KUNNATHUNAD - LAC - CONSTRUCTION OF KITCHEN  AND DINING HALL  TO GLPS  PANCODE  AIKARANAD GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 29.5,
+            "concurrence_lakhs": 29.5
+        },
+        {
+            "project_name": "MLA-ADS - 2023-24- KUNNATHUNAD LAC - CONSTRUCTION OF MILMA-KARIYILAPADOM  CANAL BRIDGE  IN WARD -9  OF KUNNATHUNAD GP",
+            "implementing_agency": "EXECUTIVE ENGINEER PVIP DIVISION II ALUVA",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA-ADS - KUNNATHUNAD LAC - 2023-24 - CONSTRUCTION OF NEW BUILDING TO GLPS VEETTOOR  MAZHUVANNOOR  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 79.62,
+            "concurrence_lakhs": 79.62
+        },
+        {
+            "project_name": "MLA-ADS - KUNNATHUNAD LAC - 2023-24 - CONSTRUCTION OF NSS - KUZHUR  BHAGAVATHI  KSHETHRAM  LINK ROAD  IN MAZHUVANNOR GP  WARD -2",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.4,
+            "concurrence_lakhs": 18.4
+        },
+        {
+            "project_name": "MLA-ADS - KUNNATHUNAD LAC - 2023-24 - RENNOVATION OF THATTAMUGAL DOUBLE CANAL ROAD IN WARD 17 AND 19 OF MAZHUVANNOOR GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.8,
+            "concurrence_lakhs": 22.8
+        },
+        {
+            "project_name": "MLA-ADS -2023-24 - KUNNATHUNAAD LAC - RENOVATION  OF RAMANCHIRA PATHALAPARAMB  ROAD IN WARD 1,10 OF MAZHUVANOOR GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 27.5,
+            "concurrence_lakhs": 27.5
+        },
+        {
+            "project_name": "MLA-ADS - 2023-2024 - KUNNATHUNAD LAC - CONSTRUCTION OF  THAMARACHALPURAM  CULVERT   AT  VAZHAKULAM  GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER PVIP DIVISION II ALUVA",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.9,
+            "concurrence_lakhs": 10.9
+        },
+        {
+            "project_name": "MLA-ADS - 2022-2023-KUNNATHUNAAD LAC - SHEET ROOFING TO SREEJESH STADIUM IN WARD -1 PALLIKKARA OF KUNNATHUNAD GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "MLA-ADS - KUNNATHUNAD LAC - 2023-2024- CONSTRUCTION OF ANGANAWADI NO:61  VANCHINADU IN   WARD 7  VAZHAKULAM GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "MLA-ADS 2022-2023- KUNNATHUNAAD  LAC - WATER  SUPPLY   SCHEME  TO NAZRETH NAGAR   IN MAZHUVANNUR   PANCHAYATH",
+            "implementing_agency": "Executive Engineer KWA PH Division Aluva",
+            "category": "Water Supply",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "MLA-ADS - 2022-2023 - KUNNATHUNAAD LAC - CONSTRUCTION OF BRIDGE AT MILMA-KARIYILAPPADAM  ROAD   NEAR  CH:0/880 KM   OF LINK CANAL  ROAD IN WARD 9  OF   KUNNATHUNAAD GRAMA PANCHAYATH",
+            "implementing_agency": "ASSISTANT EXECUTIVE ENGINEER PVIP SUB DIVISION NO.7 KOLENCHERI",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA-ADS  KUNNATHUNAD   LAC - 2022-23 - CONSTRUCTION OF STAGE , PODIUM  AND  SOUND  SYSTEM ARRANGEMENTS ETC, IN CONFERRENCE HALL  IN MINI  CIVIL  STATION KOLENCHERY",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA-ADS   2022-23 - KUNNATHUNAD  LAC - PAVING  INTERLOCKING  TILES  IN   GOVT:JBS KANYATTUNIRAPPU  WARD 12 OF THIRUVANIYOOR G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "MLA-ADS  KUNNATHUNAD LAC - 2022-2023  - CUT AND COVER   WORK  IN VALAKOM  CANAL  AT CH.11/000",
+            "implementing_agency": "Executive Engineer, PVIP Div I Perumbavoor",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 29.4,
+            "concurrence_lakhs": 29.4
+        },
+        {
+            "project_name": "ഒരു പഞ്ചായത്തിന്   ഒരു   കളിസ്ഥലം   പദ്ധതി - കുന്നത്തുനാട്  നിയോജകമണ്ഡലം - വടവുകോട് -പുത്തൻകുരിശ് ഗ്രാമ പഞ്ചായത്തിലെ  കാളവയൽ ഗ്രൗണ്ട്  നവീകരണം",
+            "implementing_agency": "Director,Sports & Youth Affairs, Vellayambalam, Thiruvananthapuram",
+            "category": "Sports",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "MLA-ADS - 2022-23- SUPPLY AND INSTALLATION  OF   MINIMAST  LIGHT  AND FLOOD  LIGHT  IN   VARIOUS  PLACES  IN   VAZHAKKULAM  UNDER   KUNNATHUNAD  LAC",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 29.6,
+            "concurrence_lakhs": 29.6
+        },
+        {
+            "project_name": "SUPPLY  AND INSTALLATION OF   MINIMAST  LIGHT   IN   VARIOUS  PLACES IN   VADAVUCODE  UNDER   KUNNATHUNAD   LAC",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 37.8,
+            "concurrence_lakhs": 37.8
+        },
+        {
+            "project_name": "SUPPLY ,ERECTION ,TESTING ,AND COMMISSIONING OF 1OO HP  KIRLOSKAR  PUMPSET  AND ACCESSOIES AT CHEMBARACKY  PLANT ,VAZHAKULAM GP",
+            "implementing_agency": "Executive Engineer KWA PH Division Aluva",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 38.04,
+            "concurrence_lakhs": 38.04
+        },
+        {
+            "project_name": "CONSTRUCTION OF RETAINING WALL   AND ROAD FOR AMRUTHA KUDEERAM  SAMAGRA VIKASANAM",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "PURCHASE OF SCHOOL BUS- GHSS South Vazhakulam, GLPS VADAVUCODE , GJBS Neeramugal, GUPS Valampoor",
+            "implementing_agency": "Deputy Director (Education)Ernakulam",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 87.0,
+            "concurrence_lakhs": 87.0
+        },
+        {
+            "project_name": "Construction of Kavumthazham-Church Link road in Ward8,Vadavucode Puthencruz GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "Re-Construction of Side Protection Wall of Gadhika Chira in ward-10 of Poothrika GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "Construction of VCB across Karippathazham Thodu in Ward 6",
+            "implementing_agency": "EXECUTIVE ENGINEER ,MINOR IRRIGATION DIVISION,ERNAKULAM",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 33.5,
+            "concurrence_lakhs": 33.5
+        },
+        {
+            "project_name": "LAC ADS - PVIP - Construction of culvert at ch:12/744 km of Kolenchery Branch canal - General Civil Work - 15 Lakh.",
+            "implementing_agency": "ASSISTANT EXECUTIVE ENGINEER PVIP SUB DIVISION NO.7 KOLENCHERI",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF KOTTOOR SUBCENTER IN POOTHRIKKA GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF KUNNAKKURUDY - KAITHAVELY ROAD IN MAZHUVANOOR GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "CONSTRUCTION AND EXTENSION OF SOUTH VAZHAKKULAM LP SCHOOL IN VAZHAKKULAM GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF FIRST FLOOR BUILDING IN CHC VADAVUCODE",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Healthcare",
+            "fy": "2018-2019",
+            "estimate_lakhs": 52.0,
+            "concurrence_lakhs": 52.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "ernakulam_shri_p_v_sreenijin_placeholder"
+}

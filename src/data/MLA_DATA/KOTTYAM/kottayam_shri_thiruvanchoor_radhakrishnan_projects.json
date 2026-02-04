@@ -1,0 +1,709 @@
+{
+    "mla_name": "Shri Thiruvanchoor Radhakrishnan",
+    "constituency": "KOTTAYAM",
+    "district": "Kottayam",
+    "summary": {
+        "total_expenditure_crores": 27.8251,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 18.3632
+            },
+            {
+                "label": "Others",
+                "value_crores": 7.4194
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 1.0425
+            },
+            {
+                "label": "Education",
+                "value_crores": 1.0
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "വിജയപുരം ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 19 ൽ  കല്ലിൽ കടുങ്ങിണി  തെക്കിനാട്ടുകടവ് റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 24.86,
+            "concurrence_lakhs": 24.0
+        },
+        {
+            "project_name": "കോട്ടയം മുൻസിപ്പാലിറ്റിയിലെ  കരിമ്പുംകാലാ കടവ് - ജെട്ടി  റോഡ്  സഞ്ചാരയോഗ്യമാക്കുന്നത്",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കോട്ടയം മുൻസിപ്പാലിറ്റിയിലെ  തളിയിൽക്കോട്ട  റോഡ്  സഞ്ചാരയോഗ്യമാക്കുന്നത്",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 19.95
+        },
+        {
+            "project_name": "കോട്ടയം മുൻസിപ്പാലിറ്റിയിലെ വാർഡ് 33 ൽ  വഞ്ചിത്തോട് -ലക്ഷം വീട് കോളനി  റോഡ്  സഞ്ചാരയോഗ്യമാക്കുന്നത്",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കോട്ടയം മുൻസിപ്പാലിറ്റിയിലെ കോട്ടയം വെസ്റ്റ് ക്ലബ്  റോഡ്  സഞ്ചാരയോഗ്യമാക്കുന്നത്",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കോട്ടയം മുൻസിപ്പാലിറ്റിയിലെ ഇടയ്ക്കാട്ടുപള്ളി -കൊച്ചനാ റോഡ്  സഞ്ചാരയോഗ്യമാക്കുന്നത്",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കോട്ടയം മുൻസിപ്പാലിറ്റിയിലെ കുമാരനല്ലൂര്‍- കരിയാമ്പടം   റോഡ്  സഞ്ചാരയോഗ്യമാക്കുന്നത്",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 28.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കോട്ടയം മുൻസിപ്പാലിറ്റിയിലെ പുത്തേട്ട് - നീലിമംഗലം    റോഡ്  സഞ്ചാരയോഗ്യമാക്കുന്നത്",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "കോട്ടയം മുൻസിപ്പാലിറ്റിയിലെ വാർഡ് 13 ലെ  ചെല്ലിയൊഴുക്കും വൈ എം സി എ   റോഡ്  സഞ്ചാരയോഗ്യമാക്കുന്നത്",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കോട്ടയം മുൻസിപ്പാലിറ്റിയിലെ തറേപ്പടി- മാമ്മൂട്   റോഡ്  സഞ്ചാരയോഗ്യമാക്കുന്നത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വിജയപുരം ഗ്രാമ പഞ്ചായത്തിലെ തേക്കുങ്കൽപ്പടി മുതൽ മോസ്‌കോ ജംഗ്‌ഷൻ വരെയും മോസ്‌കോ ജംഗ്‌ഷൻ മുതൽ ചേന്നാട്ടിൽ പടി വരെയുള്ള  KWA pipe line road സഞ്ചാരയോഗ്യമാക്കുന്നത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 135.0,
+            "concurrence_lakhs": 99.0
+        },
+        {
+            "project_name": "വിജയപുരം ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 4 ലെ പെരിങ്ങള്ളൂർ  ക്ഷേത്രം  റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കോട്ടയം മുൻസിപ്പാലിറ്റിയിലെ 45-ാം വാർഡിലുൾപ്പെട്ട പതിനാറിൽ ചിറ - പാറേച്ചാൽ ആറ്റു തീരം  റോഡ്  കോൺക്രീറ്റ് ചെയ്ത്  സഞ്ചാരയോഗ്യമാക്കുന്നത്",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 34.2,
+            "concurrence_lakhs": 34.2
+        },
+        {
+            "project_name": "കോട്ടയം മുൻസിപ്പാലിറ്റിയിലെ നാഗമ്പടം -ആറ്റു മാലി  റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നത്",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 28.0,
+            "concurrence_lakhs": 28.0
+        },
+        {
+            "project_name": "വിജയപുരം ഗ്രാമ പഞ്ചായത്തിലെ 13ാം വാർഡിൽ ഉൾപ്പെട്ട ആനത്താനം - മാധവൻ കോളനി റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 11.8
+        },
+        {
+            "project_name": "കോട്ടയം മുൻസിപ്പാലിറ്റിയിലെ ഗവൺമെന്റ്  ടൗൺ എൽ.പി. സ്ക്കൂളിൽ ടോയിലറ്റ് നിർമ്മിക്കുന്നത്",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 13.65,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കോട്ടയം മുൻസിപ്പാലിറ്റിയിലെ വാർഡ് 44 ൽ  ഉൾപ്പെട്ട മുപ്പായിക്കാട് റോഡ് ടാർ ചെയ്ത്  സഞ്ചാരയോഗ്യമാക്കുന്നത്",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 62.0,
+            "concurrence_lakhs": 62.0
+        },
+        {
+            "project_name": "കോട്ടയം മുൻസിപ്പാലിറ്റി  വാർഡ് 39-ൽ  SNDP പാലക്കുഴി മുട്ടു പാലം ഫുട് ബ്രിഡ്ജ്  നിർമ്മാണം",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കോട്ടയം നിയോജക മണ്ഡലത്തിലെ വിവിധ സ്ക്കൂളുകളിൽ ഇ ലൈബ്രറി സ്ഥാപിക്കുന്നത്",
+            "implementing_agency": "Deputy Director Of Education",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 85.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കോട്ടയം മുൻസിപ്പാലിറ്റിയിലെ വാർഡ് 28-ലെ ശാസ്‌താംകാവ് - അമ്പലക്കടവ് റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നത്",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 12.5,
+            "concurrence_lakhs": 12.5
+        },
+        {
+            "project_name": "കോട്ടയം മുൻസിപ്പാലിറ്റിയിലെ 10-ാം വാർഡിൽ ഉൾപ്പെട്ട KZNL - ജീവധാര ഡി എം കോൺവെന്റ് കരിയാമ്പടം റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നതിനായി.",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 37.8,
+            "concurrence_lakhs": 37.8
+        },
+        {
+            "project_name": "കോട്ടയം മുന്‍സിപ്പാലിറ്റിയിലെ 42-ാം വാര്‍ഡിലുള്ള പൊന്‍കുന്നത്തുകാവ് റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നത്",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 11.8,
+            "concurrence_lakhs": 11.8
+        },
+        {
+            "project_name": "കോട്ടയം മുൻസിപ്പാലിറ്റി യിലെ 13 ാം വാര്‍ഡില്‍  കെ എം വര്‍ഗീസ് റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നത്",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 14.45,
+            "concurrence_lakhs": 14.45
+        },
+        {
+            "project_name": "കോട്ടയം മുന്‍സിപ്പാലിറ്റി 3ാം  വാര്‍ഡില്‍ അര്‍ത്യാകുളം - പുത്തന്‍പുരയ്ക്കല്‍ റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നതിനായി",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കോട്ടയംമുന്‍സിപ്പാലിറ്റിയിലെ 13ാം വാര്‍ഡില്‍ പനയക്കഴപ്പ് ചുങ്കം റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നതിന്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 36.1,
+            "concurrence_lakhs": 36.1
+        },
+        {
+            "project_name": "വിജയപുരം ഗ്രാമ പഞ്ചായത്തിലെ 12-ാം വാര്‍ഡിലുള്ള ഇഞ്ചിക്കാല- താമരശ്ശേരി റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 23.51,
+            "concurrence_lakhs": 23.3
+        },
+        {
+            "project_name": "കോട്ടയം മുന്‍സിപ്പാലിറ്റിയിലെ 1-ാം വാര്‍ഡിലുള്ള അംഗന്‍വാടി കെട്ടിടം നിര്‍മ്മിക്കുന്നതിനായി",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 26.25,
+            "concurrence_lakhs": 26.25
+        },
+        {
+            "project_name": "വിജയപുരം ഗ്രാമ പഞ്ചായത്ത് വാർഡ് 2-ലെ പൈപ്പ് ലൈന്‍  റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നതിനായി",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.52,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കോട്ടയം മുന്‍സിപ്പാലിറ്റിയിലെ 31-ാം വാര്‍ഡിലുള്ള പൌവ്വത്ത് റോഡില്‍ ഡ്രെയിനേജ് നിര്‍മ്മിക്കുന്നതിനായി",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 14.4,
+            "concurrence_lakhs": 14.4
+        },
+        {
+            "project_name": "കോട്ടയം മുന്‍സിപ്പാലിറ്റിയിലെ 14-ാം വാര്‍ഡിലുള്ള മാതൃഭൂമി- നാഗമ്പടം മഹാദേവ ക്ഷേത്രം റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നത്",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 11.91,
+            "concurrence_lakhs": 11.91
+        },
+        {
+            "project_name": "മുള്ളന്‍കുഴി - എലിപ്പുലിക്കാട്ട് പാലം- പൈപ്പ് ലൈന്‍ റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നതിനായി",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 19.5,
+            "concurrence_lakhs": 19.5
+        },
+        {
+            "project_name": "കോട്ടയം മുൻസിപ്പാലിറ്റി യിലെ വാർഡ് 41-ലെ  അട്ടിച്ചിറ- കൊടൂര്‍ റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നതിനായി",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.2,
+            "concurrence_lakhs": 30.2
+        },
+        {
+            "project_name": "കോട്ടയം മുൻസിപ്പാലിറ്റി യിലെ വാർഡ് 19-ലെ  കൊപ്രത്ത് ക്ഷേത്രം ആറ്റുകടവ് - ഓംകാരേശ്വരം ക്ഷേത്രം റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നതിനായി",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കോട്ടയം മുൻസിപ്പാലിറ്റി യിലെ വാർഡ് 8-ലെ കിഴക്കേനട -വടക്കേനട-കടന്നക്കുടി   റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നതിനായി",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.45,
+            "concurrence_lakhs": 10.45
+        },
+        {
+            "project_name": "വിജയപുരം ഗ്രാമ പഞ്ചായത്ത് വാർഡ് 4-ലെ മോസ്‌കോ കവല - കൊഞ്ചം കുഴി റോഡ് സഞ്ചാര യോഗ്യമാക്കുന്നത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.15,
+            "concurrence_lakhs": 25.14
+        },
+        {
+            "project_name": "വിജയപുരം ഗ്രാമ പഞ്ചായത്ത് വാർഡ് 2-ലെ വ്ളാകത്തു പടി - ചെറുമണത്തുമാലിക്കടവ്   റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നതിനായി",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.44,
+            "concurrence_lakhs": 13.9
+        },
+        {
+            "project_name": "കോട്ടയം മുൻസിപ്പാലിറ്റി യിലെ വാർഡ് 9-ലെ മേലേപ്പറമ്പ് -ഇടയാടി - കളരിക്കൽ - കരിയാമ്പാടം  റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നതിനായി",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 38.0,
+            "concurrence_lakhs": 37.39
+        },
+        {
+            "project_name": "കോട്ടയം മുൻസിപ്പാലിറ്റി യിലെ 5,4,2 എന്നീ വാർഡുകളിൽ ഉൾപ്പെട്ട വായനാശാല -പള്ളിപ്പുറം -ചാത്തു കുളം റോഡ് സഞ്ചാരയോഗ്യ മാക്കുന്നതിനായി",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 35.83,
+            "concurrence_lakhs": 35.83
+        },
+        {
+            "project_name": "കോട്ടയം മുൻസിപ്പാലിറ്റി യിലെ വാർഡ് 52-ലെ പോലീസ് സ്റ്റേഷൻ ജാസ് ലോഡ്ജ് റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നതിനായി",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "വിജയപുരം ഗ്രാമ പഞ്ചായത്ത് വാർഡ് 12-ലെ താമരശ്ശേരി കോൺവെന്റ്  കുന്ന മഠം  റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നതിനായി",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കോട്ടയം മുന്‍സിപ്പാലിറ്റി 1ആം വാര്‍ഡില്‍ ഡോക്ടേഴ്സ് ഗാര്‍ഡന്‍ റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നത്",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 13.33,
+            "concurrence_lakhs": 13.33
+        },
+        {
+            "project_name": "കോട്ടയം മുന്‍സിപ്പാലിറ്റി 1-ാം വാര്‍ഡില്‍ ചെട്ടിശ്ശേരി റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നത്",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കോട്ടയം മുന്‍സിപ്പാലിറ്റിയിലെ വാര്‍ഡ് 44-ല്‍ കോടിമത മുപ്പായിക്കാട് റോഡിന്‍റെ ഇരുവശവും സംരക്ഷണ ഭിത്തി കെട്ടുന്നത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 375.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കോട്ടയം മുന്‍സിപ്പാലിറ്റിയിലെ 30-ാം വാര്‍ഡിലുള്ള ഗസ്റ്റ് ഹൌസ്- കുറ്റിക്കാട്ട് ദേവീ ക്ഷേത്രം റോഡ് സൈഡില്‍ ഓട നിര്‍‍മ്മിച്ച് ടാര്‍ ചെയ്ത് സഞ്ചാരയോഗ്യമാക്കുന്നത്",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കോട്ടയം മുന്‍സിപ്പാലിറ്റിയിലെ 24-ാം വാര്‍ഡിലുള്ള മാന്താര്‍ റോഡ് കോണ്‍ക്രീറ്റ്",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കുഴിമറ്റം കാവനാടി റോഡ് സഞ്ചാര യോഗ്യമാക്കല്‍",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 22.0
+        },
+        {
+            "project_name": "കോട്ടയം നഗരസഭയിലെ 14 ാം വാര്‍ഡില്‍ ഉള്‍പ്പെട്ട മിണ്ടാമഠം -എലിപ്പുലിക്കാട്ട് പാലം ,മിണ്ടാമഠം -ഗുരുമന്ദിരം വഴി എ ആര്‍ ക്യാമ്പ് റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നതിനായി",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "പനച്ചിക്കാട് പഞ്ചായത്തിലെ 20 ാം വാര്‍ഡില്‍ ഉള്‍പ്പെട്ട എള്ളുകാലാപ്പടി-പൂവന്‍തുരുത്ത് ഗവ എല്‍ പി സ്കൂള്‍ റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നതിനായി",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.7,
+            "concurrence_lakhs": 19.78
+        },
+        {
+            "project_name": "കോട്ടയം നഗരസഭയിലെ 28 ാം വാര്‍ഡില്‍ ഉള്‍പ്പെട്ട മാളികപ്പീടിക-ചെറുകരക്കാവ് റോഡ് ടാറിംഗ് ചെയ്ത് സഞ്ചാരയോഗ്യമാക്കുന്നതിനായി",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കോട്ടയം നഗരസഭയിലെ 28 ാം വാര്‍ഡില്‍  ഉള്‍പ്പെട്ട ശാസ്താംകാവ് -പാറക്കുളം മഞ്ഞാലില്‍ റോഡ് ടാറിംഗ് ചെയ്ത് സഞ്ചാരയോഗ്യമാക്കുന്നതിനായി",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 13.54,
+            "concurrence_lakhs": 13.52
+        },
+        {
+            "project_name": "വിജയപുരം ഗ്രാമപഞ്ചായത്തിലെ 17 ാം വാര്‍ഡില്‍ ഉള്‍പ്പെട്ട ഞാറയ്ക്കല്‍ പള്ളിക്കുന്ന് റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നതിനായി",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.7,
+            "concurrence_lakhs": 18.7
+        },
+        {
+            "project_name": "പനച്ചിക്കാട് ഗ്രാമപഞ്ചായത്തിലെ 14 ാം വാര്‍ഡില്‍ ഉള്‍പ്പെട്ട കുഴിമറ്റം -കാവനാടി റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നതിനായി",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 1.0
+        },
+        {
+            "project_name": "പനച്ചിക്കാട് ഗ്രാമപഞ്ചായത്തിലെ 2,3 വാര്‍ഡുകളില്‍ ഉള്‍പ്പെട്ട മാടത്താനി എല്‍.പി സ്കൂള്‍ റോഡ് കോണ്‍ക്രീറ്റിംഗ്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 11.5,
+            "concurrence_lakhs": 11.5
+        },
+        {
+            "project_name": "പനച്ചിക്കാട് ഗ്രാമപഞ്ചായത്തിലെ 9 ാം വാര്‍ഡില്‍ ഉള്‍പ്പെട്ട അമ്പാട്ട്കടവ് -പനച്ചിക്കാട് ക്ഷേത്രം റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നതിനായി",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.64,
+            "concurrence_lakhs": 20.64
+        },
+        {
+            "project_name": "കോട്ടയം നഗരസഭയിലെ 3ാം വാര്‍ഡിലുള്‍പ്പെട്ട വെള്ളൂപ്പറമ്പ്- മുക്കുടിമാലി റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നതിനായി",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.13,
+            "concurrence_lakhs": 17.13
+        },
+        {
+            "project_name": "കോട്ടയം നഗരസഭയിലെ 22 ാം വാര്‍ഡില്‍ ഉള്‍പ്പെട്ട സിവില്‍ സ്റ്റേഷന്‍ -യൂണിയന്‍ ക്ലമ്പ്-കാരാപ്പുഴ റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നതിനായി",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കോട്ടയം നഗരസഭയിലെ 52 ാം വാര്‍ഡില്‍ ഉള്‍പ്പെട്ട ആറ്റാമോയാപ്പ് -സംക്രാന്തി റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നതിനായി",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 39.54,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വിജയപുരം ഗ്രാമപഞ്ചായത്തിലെ വാര്‍ഡ് 15 ല്‍ ഉള്‍പ്പെട്ട വട്ടവേലി -ശവക്കോട്ട -ഞാറയ്ക്കല്‍ച്ചിറ റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നതിനായി",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.22,
+            "concurrence_lakhs": 20.22
+        },
+        {
+            "project_name": "വിജയപുരം ഗ്രാമപഞ്ചായത്തിലെ വാര്‍ഡ് 1 ല്‍ ഉള്‍പ്പെട്ട ചിറമറ്റത്തുമാലി-തൂമ്പുങ്കല്‍ റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നതിനായി",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 19.25,
+            "concurrence_lakhs": 19.25
+        },
+        {
+            "project_name": "കോട്ടയം നഗരസഭയിലെ 38ാം വാര്‍ഡില്‍ ഉള്‍പ്പെട്ട കനകക്കുന്ന് -വാഴച്ചിറ റോഡ്  സഞ്ചാരയോഗ്യമാക്കുന്നതിനായി",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 24.1,
+            "concurrence_lakhs": 24.1
+        },
+        {
+            "project_name": "വിജയപുരം ഗ്രാമപഞ്ചായത്തിലെ 18ാം വാര്‍ഡില്‍ ഉള്‍പ്പെട്ട തങ്കപ്പന്‍മഠം -ഇറഞ്ഞാല്‍ ദേവീക്ഷേത്രം റോഡ് സഞ്ചാരയോഗ്യമാക്കുന്നതിനായി",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കോട്ടയം നഗരസഭയിലെ ചുങ്കം-സെമിനാരി റോഡിലെ ഡ്രെയിനേജ് നിര്‍മ്മാണത്തിനായി",
+            "implementing_agency": "PWD Roads",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 99.8,
+            "concurrence_lakhs": 99.8
+        },
+        {
+            "project_name": "കോട്ടയം നഗരസഭയിലെ ചുങ്കം-സെമിനാരി റോഡ് മണ്ണിട്ടുയര്‍ത്തി നവീകരിച്ച് സഞ്ചാരയോഗ്യമാക്കുന്നതിനായി",
+            "implementing_agency": "PWD Roads",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 99.9,
+            "concurrence_lakhs": 99.9
+        },
+        {
+            "project_name": "വിജയപുരം ഗ്രാമപഞ്ചായത്തിലെ വാര്‍ഡ് 2 ല്‍ ഉള്‍പ്പെട്ട പ്രൈമറി ഹെല്‍ത്ത് സെന്‍ററിന് പുതിയ ബില്‍ഡിംഗിന്‍റെ രണ്ടാം ഭാഗം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "പനച്ചിക്കാട് ഗ്രാമപഞ്ചായത്തിലെ  കൊല്ലന്‍കവല -തൃക്കോവില്‍ റോഡ് ടാര്‍ ചെയ്ത് സൈഡ് കോണ്‍ക്രീറ്റ് ചെയ്യുന്നതിനായി",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കോട്ടയം നഗരസഭയിലെ വാര്‍ഡ് 37 ല്‍ ഉള്‍പ്പെട്ട സെമിനാരി കുഴിമറ്റം റോഡ് ടാറിംഗ് ചെയ്ത് സഞ്ചാരയോഗ്യമാക്കല്‍",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പനച്ചിക്കാട് ഗ്രാമപഞ്ചായത്തിലെ വാര്‍ഡ് 5 നെയും വാര്‍ഡ് 18 നെയും ബന്ധിപ്പിക്കുന്ന കണ്ണംകുളം -കണിയാംമല റോഡ് ടാറിംഗും സൈഡ് കോണ്‍ക്രീറ്റ് ചെയ്ത് സഞ്ചാരയോഗ്യമാക്കല്‍",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "കോട്ടയം നഗരസഭയിലെ വാര്‍ഡ് 3 ല്‍ ഉള്‍പ്പെട്ട കുഴിയാലിപ്പടി-വെള്ളുപ്പറമ്പ് റോഡ് മണ്ണിട്ടുയര്‍ത്തി ടൈല്‍ പാകി സഞ്ചാരയോഗ്യമാക്കുന്നതിനായി",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കോട്ടയം നഗരസഭയിലെ വാര്‍ഡ് 3 ല്‍ അര്‍ത്യാകുളം -പുത്തന്‍പുരയ്ക്കല്‍ റോഡ് മണ്ണിട്ടുയര്‍ത്തി ടൈല്‍ പാകി സഞ്ചാരയോഗ്യമാക്കുന്നതിനായി",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കോട്ടയം മുന്‍സിപ്പാലിറ്റിയിലെ കാരാപ്പുഴ 28ാം വാര്‍ഡിലുള്ള ശാസ്താംകാവ്(കോവിലകം) -പാറക്കുളം -തെള്ളിച്ചിറ മഞ്ഞാലില്‍ ബൈലെയ്ന്‍ ഓതറ തരവാസ് ലൈന്‍ -മാളികപ്പീടിക ഗവ ഹയര്‍സെക്കണ്ടറി സ്കൂള്‍ -മാളികപ്പീടിക-ചെറുകരക്കാവ് റോഡ് ടാറിംഗ്",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 23.54,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കോട്ടയം മുന്‍സിപ്പാലിറ്റിയിലെ മാരാംമുപ്പത്-പാറപ്പാടം (എം.കെ ഏബ്രഹാം) റോഡ് മണ്ണിട്ട് ഉയര്‍ത്തി  ടാര്‍ ചെയ്യുന്നതിനായി",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.31,
+            "concurrence_lakhs": 25.31
+        },
+        {
+            "project_name": "കോട്ടയം മുന്‍സിപ്പാലിറ്റിയിലെ ഗവണ്‍മെന്‍റ് മോഡല്‍ സ്കൂളിന് പുതിയ കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 69.0,
+            "concurrence_lakhs": 69.0
+        },
+        {
+            "project_name": "വിജയപുരം ഗ്രാമപഞ്ചായത്തിലെ  വാര്‍ഡ് : 2 -ല്‍ ഉള്‍പ്പെട്ട  പ്രൈമറി ഹെല്‍ത്ത് സെന്‍ററിന് കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 150.0,
+            "concurrence_lakhs": 99.95
+        },
+        {
+            "project_name": "കോട്ടയം മുനിസിപ്പാലിറ്റിയിലെ വാര്‍ഡ്‌: 52-ല്‍ ഉള്‍പ്പെട്ട മാലി - സംക്രാന്തി റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കോട്ടയം മുനിസിപ്പാലിറ്റിയിലെ വാര്‍ഡ്‌: 08-ല്‍ ഉള്‍പ്പെട്ട കുമാരനല്ലൂര്‍  കൊച്ചാലുംചുവട് കൃഷ്ണ ബാലരാമക്ഷേത്രത്തിന്റെ മുന്‍വശത്ത്‌കൂടിയുള്ള കൊച്ചാലുംചുവട് ഹെല്‍ത്ത് സെന്‍റര്‍ റോഡ്‌ സൈഡ് ഭിത്തി കെട്ടി നിര്‍മ്മാണം",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 22.2,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കോട്ടയം മുനിസിപ്പാലിറ്റിയിലെ വാര്‍ഡ്‌: 37 -ല്‍ ഉള്‍പ്പെട്ട എസ്.എന്‍.ഡി.പി പാലമൂട് കാവനാടി - നാട്ടുവാ റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കോട്ടയം മുനിസിപ്പാലിറ്റിയിലുള്ള വാര്‍ഡ്‌: 05 \r\n -ല്‍ ഇഞ്ചേരിക്കുന്ന് ഞണ്ടുപറമ്പ് റോഡ്‌ ടാറിംഗ്",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കോട്ടയം മുനിസിപ്പാലിറ്റി വാര്‍ഡ്‌: 01 -ല്‍ ഉള്‍പ്പെട്ട മാവിളാക കലുങ്ക് മുതല്‍ മുടിയൂര്‍ക്കര ചര്‍ച്ച് വരെയുള്ള റോഡ്‌ കോണ്‍ക്രീറ്റിംഗ്",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കോട്ടയം മുനിസിപ്പാലിറ്റിയിലുള്ള ജി.എം യു.പി സ്കൂളിന് ഗേറ്റ്, കളിസ്ഥലവും പവലിയനും, കുഴല്‍കിണര്‍, ചുറ്റുമതില്‍ എന്നിവയുടെ നിര്‍മ്മാണം",
+            "implementing_agency": "Deputy Director Of Education",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മുണ്ടയ്കല്പടി - പുത്തന്പു്രയ്ക്കല്‍ റോഡിന്റെ ഒരുഭാഗവും മുണ്ടയ്കല്‍പടി - കുഴിയാലിപ്പടി റോഡിന്റെ് ഒരു ഭാഗവും മണ്ണിട്ടുയര്ത്തി റ്റൈല്‍ പാകല്‍, വാര്ഡ്: 03, കോട്ടയം മുനിസിപ്പാലിറ്റി",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 19.89,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മഠത്തില്പറമ്പില്‍ -കാക്കാല പറമ്പില്‍ - കൂവപ്പാടം റോഡ്‌ ടാറിംഗ്,കോണ്ക്രീ റ്റിംഗ്, ടൈല്‍ പാകല്‍, വാര്ഡ് ‌: 29, കോട്ടയം മുനിസിപ്പാലിറ്റി",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 21.0,
+            "concurrence_lakhs": 21.0
+        },
+        {
+            "project_name": "പനച്ചിക്കാട് ഗ്രാമപഞ്ചായത്തിലെ 2-ആം വാര്ഡുംപ 3-ആം വാര്ഡുംവ തമ്മില്‍ ബന്ധിപ്പിക്കുന്ന കൊല്ലാട് കളത്തില്‍ കടവ് നാഗപുരത്ത് കടവ് റോഡിന്റെ ആദ്യഘട്ടം ചെയ്യുന്നതിനായി സൈഡ് കെട്ടി മണ്ണിട്ട് ഉയര്ത്തല്‍",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കോട്ടയം മുനിസിപ്പാലിറ്റിയിലെ 5ാം വാര്‍ഡിലുള്ള ഗാന്ധി സ്മാരക സേവാ കേന്ദ്രത്തിന് പുതിയ കെട്ടിടം നിര്‍മ്മിക്കുക",
+            "implementing_agency": "Secretary,Kottayam Muncipality",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 78.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വിജയപുരം പഞ്ചായത്തിലെ നവോദയ ശാബദ്പള്ളി റോഡ് ടാറിംഗ് ചെയ്യുക",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 21.7,
+            "concurrence_lakhs": 21.7
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "kottayam_shri_thiruvanchoor_radhakrishnan_placeholder"
+}

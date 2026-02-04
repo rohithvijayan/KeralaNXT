@@ -1,0 +1,701 @@
+{
+    "mla_name": "Shri Saji Cherian",
+    "constituency": "CHENGANNUR",
+    "district": "Alappuzha",
+    "summary": {
+        "total_expenditure_crores": 23.7782,
+        "breakdown": [
+            {
+                "label": "Others",
+                "value_crores": 7.9296
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 6.6749
+            },
+            {
+                "label": "Road",
+                "value_crores": 5.4318
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 1.47
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.87
+            },
+            {
+                "label": "Education",
+                "value_crores": 0.604
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.5
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 0.2979
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "പാണാവള്ളി തളിയാപറമ്പ് ഗവ എൽ പി സ്കൂൾ",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പാണാവള്ളി ഗ്രാമപഞ്ചായത്ത് -  തളിയാപറമ്പ് ഗവ എൽ പി സ്കൂൾ - ഒന്നാം നില നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചെങ്ങന്നൂര്‍ നഗരസഭാ - വാര്‍ഡ്‌ - 18 - ചെങ്ങന്നൂര്‍ സിവില്‍ സര്‍വ്വീസ് അക്കാദമിക്ക് ഫര്‍ണിച്ചര്‍ വാങ്ങല്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 21.83,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചെങ്ങന്നൂർ നഗരസഭ - വാർഡ് 12- റീത്ത്പള്ളി ചർച്ച് റോഡ് (എക്സ് എം എൽ എ റോഡ്) നവീകരണം",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 19.8,
+            "concurrence_lakhs": 19.8
+        },
+        {
+            "project_name": "പാണ്ടനാട് ഗ്രാമപഞ്ചായത്ത് - പൊതുശ്മശാനം ലാൻഡ് സ്കേപ്പിംഗ് ഇൻ്റർലോക്ക്  പാകലും .",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മുളക്കുഴ ഗ്രാമപഞ്ചായത്ത്‌  - പിരളശ്ശേരി സെൻ്റ് ജോർജ്ജ് എൽ പി എസ് ന് പാചകപ്പുര നിര്‍മ്മാണം.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ചെങ്ങന്നൂർ ഗവ.ആയൂർവേദ ആശുപത്രിക്ക് ചുറ്റുമതിലും കവാടവും  ഇൻ്റർലോക്ക് പാകലും",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Healthcare",
+            "fy": "2025-2026",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "ചെങ്ങന്നൂര്‍ നഗരസഭ - മംഗലം കുറ്റിക്കാട്ടുപടി വായനശാല പടി റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 19.28,
+            "concurrence_lakhs": 19.28
+        },
+        {
+            "project_name": "മുളക്കുഴ ഗ്രാമപഞ്ചായത്ത്‌  - പിരളശ്ശേരി സെൻ്റ് ജോർജ്ജ് എൽ പി എസ് ന് പാചകപ്പുര നിര്‍മ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തിരുവൻവണ്ടൂർ -മാർത്തോമപള്ളി ഉമയാറ്റുകരയോഗം റോഡ് ഡ്രെയിനേജ് നിര്‍മ്മാണം.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "ചെങ്ങന്നൂര്‍ നിയോജകമണ്ഡലത്തിലെ വിവിധ കേന്ദ്രങ്ങളില്‍ ഹൈമാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കല്‍.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "മാന്നാർ ഗ്രാമപഞ്ചായത്ത്‌ - തൃത്താവൂർ മാന്നാർ പാവൂക്കര കരയോഗം സ്ക്കൂൾ കിച്ചൺ ഹാൾ നിർമ്മാണം.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മാന്നാര്‍ ഗ്രാമപഞ്ചായത്ത് - വാര്‍ഡ്‌ 10 - കുട്ടംമ്പേരൂര്‍ ഇ.എം.എസ് വായനശാലയ്ക്ക് കെട്ടിടം .",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ചെങ്ങന്നൂര്‍ മൈനര്‍ ഇറിഗേഷന്‍ സബ്ഡിവിഷന്‍ ഓഫിസ് കെട്ടിടനിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "മുളക്കുഴ ഗ്രാമപഞ്ചായത്ത് - വാർഡ് 11  - കൊഴുവല്ലൂർ കത്തോലിക്കപ്പള്ളി - ചാങ്ങപ്പാടം റോഡ്   നിര്‍മ്മാണം.",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "മാന്നാര്‍ ഗ്രാമപഞ്ചായത്ത് - വാര്‍ഡ്‌ - 3 - 161 -ാം നമ്പര്‍ അങ്കണവാടിക്ക് കെട്ടിടം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 28.5,
+            "concurrence_lakhs": 28.5
+        },
+        {
+            "project_name": "മുളക്കുഴ ഗ്രാമപഞ്ചായത്ത്‌ - വാര്‍ഡ്‌ - 3 - കൃഷി ഭവന് കെട്ടിടം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ചെറിയനാട് ഗ്രാമപഞ്ചായത്ത് - വാര്‍ഡ്‌  15 - കൊക്കാപ്പള്ളി - സെമിത്തേരി റോഡ്‌ നിര്‍മ്മാണം .",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "മുളക്കുഴ ഗ്രാമപഞ്ചായത്ത്‌ - വാര്‍ഡ്‌ 5  - ഗവ. ഫാഷന്‍ ടെക്നോളജി ഇന്‍സ്റ്റിറ്റ്യൂട്ടിന് കെട്ടിടം.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ചെങ്ങന്നൂര്‍ പി.ഡബ്ല്യു.ഡി. റെസ്റ്റ് ഹൌസിന് കവാടം ഹൗസിന് എൻട്രൻസ് ഗേറ്റും ആർച്ചും",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "മുളക്കുഴ ഗ്രാമപഞ്ചായത്ത്‌  - വാര്‍ഡ്‌ -3 - പി.ഐ.പി. പബ്ലിക്ക് അമിനിറ്റി സെന്റെര്‍സെന്റര്‍ നിര്‍മ്മാണം.",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 99.99,
+            "concurrence_lakhs": 99.99
+        },
+        {
+            "project_name": "മാന്നാർ സി എച്ച് സി കെട്ടിടത്തിൻ്റെ നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 45.5,
+            "concurrence_lakhs": 45.5
+        },
+        {
+            "project_name": "ചെങ്ങന്നൂർ  LAC - അങ്ങാടിക്കൽ തെക്ക് ഹയർ സെക്കൻ്ററി സ്കൂൾ ലാബ് കെട്ടിടത്തിൻ്റെ മുറ്റം തറയോട് പാകിയും പാർശ്വഭിത്തി കെട്ടിയും സംരക്ഷണം നല്‍കുന്നതിനുള്ള നിര്‍മ്മാണം.",
+            "implementing_agency": "HABITAT TECHNOLOGY GROUP",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 11.9,
+            "concurrence_lakhs": 11.9
+        },
+        {
+            "project_name": "ചെങ്ങന്നൂർ കെ.എസ്.ആർ.ടി.സി ബസ് സ്റ്റേഷൻ നിർമ്മാണം",
+            "implementing_agency": "KSRTC",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 200.0,
+            "concurrence_lakhs": 200.0
+        },
+        {
+            "project_name": "തിരുവൻവണ്ടൂർ ഗ്രാമപഞ്ചായത്ത് കല്ലിശേരി ജംഗ്ഷൻ, ചെറിയനാട് ഗ്രാമപഞ്ചായത്ത് സഞ്ജീവിനി ജംഗ്ഷൻ എന്നിവിടങ്ങളിൽ വെയിറ്റിംഗ് ഷെഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ചെറിയനാട് ആയുർവേദ ഡിസ്പെൻസറിക്ക് കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Healthcare",
+            "fy": "2024-2025",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "ചെങ്ങന്നൂർ നിയോജകമണ്ഡലത്തിലെ വിവിധ പ്രദേശങ്ങളിൽ ഹൈമാസ്റ്റ് ലൈറ്റ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 17.79,
+            "concurrence_lakhs": 17.79
+        },
+        {
+            "project_name": "പുലിയൂർ ഗ്രാമപഞ്ചായത്ത് പുലിയൂർ തൃക്കയ്യിൽ ക്ഷേത്രക്കുളം നവീകരണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "ചെങ്ങന്നൂർ എം.ജി റോഡ് മുനിസിപ്പൽ സ്റ്റേഡിയം റോഡുകളുടെ ടാറിംഗ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "ചെങ്ങന്നൂർ നഗരസഭ വാർഡ് 24 മുനിസിപ്പൽ സ്റ്റേഡിയം പവലിയൻ മെറ്റലിംഗ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 98.0,
+            "concurrence_lakhs": 98.0
+        },
+        {
+            "project_name": "പാണ്ടനാട് ഗ്രാമപഞ്ചായത്ത് കുത്തിയതോട് പി.എച്ച്.സി സബ് സെൻറർ കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 37.0,
+            "concurrence_lakhs": 37.0
+        },
+        {
+            "project_name": "പുലിയൂർ ഗ്രാമപഞ്ചായത്ത് വാർഡ് 3 ചാങ്ങേത്ത് എസ്.എൻ.ഡി.പി വാക്കേൽ- മുരിക്കേൽ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "മുളക്കുഴഗ്രാമപഞ്ചായത്ത് വാർഡ് 11 പട്ടങ്ങാട് ദേവീക്ഷേത്രക്കുളം നവീകരണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.9,
+            "concurrence_lakhs": 18.9
+        },
+        {
+            "project_name": "മുളക്കുഴ ഗ്രാമപഞ്ചായത്ത് വാർഡ് 8 കയ്പശേരി കോക്കുന്നമല റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മാന്നാർ പഞ്ചായത്ത് വാർഡ് 1 പാവൂക്കര 164 നമ്പർ അംഗനവാടിക്ക് കെട്ടിടം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "അങ്ങാടിക്കൽ തെക്ക് ഗവ.ഹയർസെക്കൻററി സ്ക്കൂൾ കോമ്പൌണ്ടിൽ സിവിൽ സർവ്വീസ് അക്കാഡമികെട്ടിടം",
+            "implementing_agency": "HABITAT TECHNOLOGY GROUP",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "മുളക്കുഴ ഗ്രാമപഞ്ചായത്ത് വാർഡ് 11 ഭൂതംകുന്ന് കോളനി പാർശ്വഭിത്തി നിർമ്മാണവും റോഡ് കോണ്‍ക്രീറ്റിംഗും",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 42.0,
+            "concurrence_lakhs": 42.0
+        },
+        {
+            "project_name": "മുളക്കുഴ പെരിങ്ങാല ഗവ.എൽ.പി സ്ക്കൂൾ റോഡ് തറയോട് പാകലും അനുബന്ധപ്രവൃത്തികളും",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മുളക്കുഴ ഗ്രാമപഞ്ചായത്ത് വാർഡ് 13,14 വലക്കടവും പാട് തടത്തിൽകുഴി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        },
+        {
+            "project_name": "പാണ്ടനാട് വെള്ളൂപ്പടവ് - പടാരം പാടശേഖരം ജലസേചന തോട് നിർമ്മാണം",
+            "implementing_agency": "മൈനർ ഇറിഗേഷൻ",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "ചെന്നിത്തല നേന്ത്രവേലി പാടശേഖരം തോടിന് സംരക്ഷണഭിത്തി",
+            "implementing_agency": "മൈനർ ഇറിഗേഷൻ",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ചെങ്ങന്നൂർ നിയോജകമണ്ഡലത്തിലെ വിവിധ പ്രദേശങ്ങളിൽ ഹൈമാസ്റ്റ് ലൈറ്റുകൾ (4 എണ്ണം)",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ചെറിയനാട് ഗ്രാമപഞ്ചായത്ത് വാർഡ് 12 അറയ്ക്കൽ കോളനി റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 34.4,
+            "concurrence_lakhs": 34.4
+        },
+        {
+            "project_name": "മുളക്കുഴ പഞ്ചായത്ത് വാർഡ് 13 തിരുവോണത്ത് - കളരിത്തറ റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 32.0,
+            "concurrence_lakhs": 32.0
+        },
+        {
+            "project_name": "സംസ്ഥാന കായിക വകുപ്പിൻ്റെ ഒരു പഞ്ചായത്തിൽ ഒരു കളിക്കളം പദ്ധതി – മുളക്കുഴ ഗവ. ഹയർ സെക്കണ്ടറി സ്കൂളിന് കളിക്കളം നിർമ്മിക്കുന്നതിന് വിഹിതം നൽകൽ",
+            "implementing_agency": "Sports Kerala Foundation",
+            "category": "Sports",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ചെങ്ങന്നൂർ നഗരസഭ വാർഡ് 17 കൃസ്ത്യൻ കോളേജ് റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "മാന്നാർ സി.എച്ച്.സി സബ്സെന്റർ - വാർഡ് 12 കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 42.0,
+            "concurrence_lakhs": 42.0
+        },
+        {
+            "project_name": "ഓട്ടിസം സെൻ്റർ പാണ്ടനാട്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 80.0,
+            "concurrence_lakhs": 80.0
+        },
+        {
+            "project_name": "മുളക്കുഴ പഞ്ചായത്ത് വാർഡ് 5 അംഗൻവാടി കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ചെങ്ങന്നൂർ നഗരസഭ വാർഡ് 1 തൃച്ചിറ്റാറ്റ് ക്ഷേത്രക്കുളം നിർമ്മാണം 2 ആം ഘട്ടം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പുലിയൂർ ഗ്രാമപഞ്ചായത്ത് വാർഡ് 2 ജ്ഞാനക്ഷേത്രം - ചിറ്റാറ്റുവയൽ റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "വെൺമണി ഗ്രാമപഞ്ചായത്ത് വാർഡ് 8 കക്കട പാലം മുതൽ പള്ളി വരെ റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.7,
+            "concurrence_lakhs": 22.7
+        },
+        {
+            "project_name": "തിരുവൻവണ്ടൂർ പഞ്ചായത്ത് കെ എം സി ഐ എം എസ് ഹോസ്പിറ്റലിന് സമീപം പമ്പാനദീതീര സംരക്ഷണം - രണ്ടാം റീച്ച്.",
+            "implementing_agency": "ഇറിഗേഷൻ",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 32.0,
+            "concurrence_lakhs": 32.0
+        },
+        {
+            "project_name": "ആല ഗ്രാമപഞ്ചായത്ത് വാർഡ് 5 മുടന്തിയാരിക്കൽ വെട്ടിക്കവല റോഡ് കോൺക്രീറ്റും സരക്ഷണ ഭിത്തിയും",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "എണ്ണയ്ക്കാട് PHC സബ് സെൻ്റർ കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "മുളക്കുഴ താഴംഭാഗം വ്യവസായ യൂണിറ്റിന് പ്രോസസ്സിംഗ് യൂണിറ്റ് കെട്ടിടം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "ചെന്നിത്തല ഗ്രാ.പ വാർഡ് 16 തേവരക്കടവ് ആറ്റുമുക്ക് റോഡിന്റെ കൽവർട്ട് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        },
+        {
+            "project_name": "ആല പെണ്ണുക്കര യു. പി സ്കൂളിൽ ഹെൽത്തി കിഡ്സ് പദ്ധതി - പ്രീഫാബ് ട്രെയിനിംഗ് ഹാൾ നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മുളക്കുഴ താഴംഭാഗം വ്യവസായ എസ്റ്റേറ്റിന് ഭക്ഷ്യസംസ്കരണ യന്ത്രസാമഗ്രികൾ",
+            "implementing_agency": "ഉപജില്ലാ വ്യവസായ ഓഫീസർ",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ചെങ്ങന്നൂർ ഗവ. യു. പി സ്കൂളിന് ബസ്",
+            "implementing_agency": "ഗ്രാമവികസനം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 21.61,
+            "concurrence_lakhs": 21.61
+        },
+        {
+            "project_name": "ചെന്നിത്തല തൃപ്പെരുന്തുറ ഗ്രാമപഞ്ചായത്ത് വാർഡ് 17 മുണ്ടോലിക്കടവ് മാർത്തോമാപ്പള്ളി വാഴക്കൂട്ടം കടവ് റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 57.0,
+            "concurrence_lakhs": 57.0
+        },
+        {
+            "project_name": "തിരുവൻവണ്ടൂർ ഗ്രാമപഞ്ചായത്ത് 149 നമ്പർ അംഗൻവാടി",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "വെൺമണി സാംസ്ക്കാരിക നിലയം കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "മുളക്കുഴ ഗ്രാമ പഞ്ചായത്ത് വാർഡ് -18, 74-ാം നമ്പർ അംഗൻവാടി കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ബുധനൂർ ഗ്രാമ പഞ്ചായത്ത്  കൃഷ്ണൻ കുളങ്ങര ക്ഷേത്രക്കുളം നവീകരണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "അരീക്കുഴി കോമൻകുളങ്ങര ത്രീ ഫേസ് ലൈൻ പഴൂർ ട്രാൻസ്ഫോർമർ  ഏരിയയിൽ സ്ഥാപിക്കൽ",
+            "implementing_agency": "കെ എസ് ഇ ബി",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 22.7,
+            "concurrence_lakhs": 22.7
+        },
+        {
+            "project_name": "ചെങ്ങന്നൂർ നിയോജക മണ്ഡലത്തിലെ വിവിധ പഞ്ചായത്തുകളിൽ കാത്തിരുപ്പ് കേന്ദ്രങ്ങൾ.,1,ബുധനൂർ ഹൈസ്ക്കൂൾ ജംഗ്ഷൻ(ബുധനൂർ ഗ്രാമ പഞ്ചായത്ത്).2,കുട്ടമ്പേരൂർ കോയിക്കൽ ജംഗ്ഷൻ(മാന്നാർ ഗ്രാമ പഞ്ചായത്ത്) 3,കല്ലിശ്ശേരി ജംഗ്ഷൻ (തിരുവൻവണ്ടൂർ ഗ്രാമ പഞ്ചായത്ത്) 4,കൊല്ലകടവ് ജംഗ്ഷൻ (ചെറിയനാട് ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 24.0,
+            "concurrence_lakhs": 24.0
+        },
+        {
+            "project_name": "മാന്നാർ മുസ്ലീം ജമാ അത്ത് പള്ളിക്ക് പുറക് വശം സംരക്ഷണഭിത്തി.",
+            "implementing_agency": "ഇറിഗേഷൻ",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ചെന്നിത്തല ഗ്രാമ പഞ്ചായത്ത് വാർഡ്-15 148 ാം നമ്പർ അംഗൻവാടി കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കേരള സ്റ്റേറ്റ് സിവില്‍ സർവ്വീസ് അക്കാദമി കെട്ടിട നിർമ്മാണം ചെങ്ങന്നൂർ (CCEK)",
+            "implementing_agency": "HABITAT TECHNOLOGY GROUP",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 27.0,
+            "concurrence_lakhs": 27.0
+        },
+        {
+            "project_name": "ചെന്നിത്തല ഗ്രാമ പഞ്ചായത്ത് വാർഡ്-4 ലെ അംഗനവാടി നമ്പർ 146  കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 27.92,
+            "concurrence_lakhs": 27.92
+        },
+        {
+            "project_name": "ചെങ്ങന്നൂർ നിയോജക മണ്ഡലത്തിലെ പുത്തൻകാവ് എം.പി.യു.പി സ്ക്കൂള്‍ (ചെങ്ങന്നൂർ നഗരസഭ) 8 ലക്ഷം,\r\nകൊഴുവല്ലൂർ ശാലോം യു.പി.സ്ക്കൂള്‍(വെൺമണി ഗ്രാമ പഞ്ചായത്ത്) 8 ലക്ഷം,എന്നിവിടങ്ങളില്‍ ടോയ് ലെറ്റ് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "പാണ്ടനാട് ഗ്രാമ പഞ്ചായത്ത് 7-ാം വാർഡില്‍ മണക്കണ്ടത്തില്‍പ്പടി-മണ്ണാറത്തറ കോളനി-പേരൂർത്തറ-ചക്കാലപ്പടി റോഡ് നിർമ്മാണം.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "ചെങ്ങന്നൂർ കെ.എസ്. ഇ.ബി കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "കെ എസ് ഇ ബി",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പാണ്ടനാട്  പഞ്ചായത്തിലെ പ്രയാർ ജെ.ബി സ്ക്കൂളില്‍ ഭിന്നശേഷി കുട്ടികളുടെ കേന്ദ്രം രണ്ടാം നില നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ചെങ്ങന്നൂർ ഫയർ & ട്രാഫിക്ക് സ്റ്റേഷൻ കെട്ടിടം രണ്ടാം ഘട്ടം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "വെൺമണി ഗ്രാമപഞ്ചായത്ത് തറയിൽപീടിക കലുങ്ക് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "വെൺമണി ഗ്രാമപഞ്ചായത്ത് താഴത്തമ്പലം കലുങ്ക് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "അങ്ങാടിക്കൽ തെക്ക് ഗവ. ഹയർ സെക്കണ്ടറി സ്കൂളിൻ്റെ കോമ്പൗണ്ടിൻ സിവിൽ സർവ്വീസ് അക്കാദമിക്ക് അനുബന്ധ കെട്ടിടം",
+            "implementing_agency": "HABITAT TECHNOLOGY GROUP",
+            "category": "Infrastructure",
+            "fy": "2021-2022",
+            "estimate_lakhs": 33.0,
+            "concurrence_lakhs": 33.0
+        },
+        {
+            "project_name": "മാന്നാർ മുസ്ലീം ജമാഅത്ത് പള്ളിക്ക് പുറകുവശം സംരക്ഷണഭിത്തി",
+            "implementing_agency": "മൈനർ ഇറിഗേഷൻ",
+            "category": "Irrigation",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "മാന്നാർ ഇരമത്തൂർ മഹാദേവ ക്ഷേത്രക്കുളം നവീകരണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "alappuzha_shri_saji_cherian_placeholder"
+}

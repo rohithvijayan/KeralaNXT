@@ -1,0 +1,589 @@
+{
+    "mla_name": "Shri Ramesh Chennithala",
+    "constituency": "HARIPAD",
+    "district": "Alappuzha",
+    "summary": {
+        "total_expenditure_crores": 23.9087,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 9.7745
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 4.6466
+            },
+            {
+                "label": "Others",
+                "value_crores": 4.6152
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 4.0724
+            },
+            {
+                "label": "Education",
+                "value_crores": 0.57
+            },
+            {
+                "label": "Water Supply",
+                "value_crores": 0.23
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "മുതുകുളം പഞ്ചായത്തിലെ പാണ്ടവർകാവ് അമ്പലം പുളിയറ ജംഗ്ഷൻ റോഡിന്റെ അവസാന റീച്ചിന്റെ (പാണ്ടവർകാവ് മുതൽ തെക്കോട്ട് 227 മീറ്റർ ഭാഗം) ടാറിംഗ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കുമാരപുരം വാർഡ് 8 കല്ലംപറമ്പിൽ ദുർഗ്ഗാജംഗ്ഷനിൽ ഓടയുടെ നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 13.78,
+            "concurrence_lakhs": 13.78
+        },
+        {
+            "project_name": "കുമാരപുരം പഞ്ചായത്തിലെ നാരകത്തറ - മണികണ്ഠൻ ചിറ റോഡ് (സെക്കന്റ് റീച്ച്) നിർമ്മാണം",
+            "implementing_agency": "ഹാര്‍ബര്‍ എന്‍ജിനീയറിംഗ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "കാർത്തികപ്പള്ളി ഗ്രാമപഞ്ചായത്ത് വാർഡ് 12 ലെ അമ്പാട്ട് അംഗൻവാടി റോഡ് സൈഡ് പ്രൊട്ടക്ഷനും കോൺക്രീറ്റിംഗും",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 19.17,
+            "concurrence_lakhs": 19.17
+        },
+        {
+            "project_name": "കാർത്തികപ്പള്ളി ഗ്രാമപഞ്ചായത്ത് വാർഡ് 12 ലെ അമ്പാട്ട് അംഗൻവാടി റോഡ് സൈഡ് പ്രൊട്ടക്ഷനും കോൺക്രീറ്റിംഗും",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 19.17,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഹരിപ്പാട് നഗരസഭ വാർഡ് 26 ലെ അശ്വതി തെക്ക് വശത്ത് കോൺക്രീറ്റ് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "ഇറിഗേഷൻ",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "ചേപ്പാട് ഗ്രാമ പഞ്ചായത്ത്  വാർഡ്-6 ലെ  ശ്രീകൃഷ്ണസ്വാമി ക്ഷേത്രം- കൊട്ടാരത്തിൽമുക്ക് റോഡ് നവീകരണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 31.0,
+            "concurrence_lakhs": 31.0
+        },
+        {
+            "project_name": "മുതുകുളം ഗ്രാമപഞ്ചായത്തിലെ യു.ഐ.ടി കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 252.45,
+            "concurrence_lakhs": 252.45
+        },
+        {
+            "project_name": "കുമാരപുരം വാർഡ് 7 അയ്യത്ത് കാട്ടിൽ പകൽവീട് മംഗല്യാതോട് കടവ് റോഡിൽ ഓടയും റോഡും നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 34.8,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചേപ്പാട് ഗ്രാമ പഞ്ചായത്ത്  - വാർഡ് 8 - തോട്ടാലിൽ മുക്ക് - വാതല്ലൂർ മുക്ക് റോഡ് നിര്‍മ്മാണം.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 28.66,
+            "concurrence_lakhs": 28.66
+        },
+        {
+            "project_name": "കരുവാറ്റ ഗ്രാമ പഞ്ചായത്ത് വാർഡ് -7 ലൂടെ കടന്നുപോകുന്ന എൻ.എച്ച് - ദീപ മണച്ചിറ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 26.0
+        },
+        {
+            "project_name": "കാർത്തികപ്പള്ളി ഐ.എച്ച്.ആർ.ഡി  അപ്ലൈഡ് സയൻസ് കോളേജ് അഡീഷണൽ ഫ്ലോർ നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 99.86,
+            "concurrence_lakhs": 99.86
+        },
+        {
+            "project_name": "ആറാട്ടുപുഴ ഗ്രാമ പഞ്ചായത്ത്  വാർഡ് -17  ലെ കാർത്തിക ജംഗ്ഷൻ -അലവിയ മദ്രസ്സ റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "മണ്ണാറശാല വെറ്റിനറി പോളിക്ലിനിക്കിന് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 82.0,
+            "concurrence_lakhs": 82.0
+        },
+        {
+            "project_name": "കരുവാറ്റ യു.ഐ.റ്റി സെന്‍റെറിന് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 37.35,
+            "concurrence_lakhs": 37.35
+        },
+        {
+            "project_name": "ആറാട്ടുപുഴ ഗ്രാമ പഞ്ചായത്ത് വാർഡ് -12 ലെ ഉളിശേരിൽ വടക്കുവശം കായൽവാരം വരെയുള്ള റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ഹരിപ്പാട് നഗരസഭ വാർഡ്-28 ലെ പഞ്ചവടി പാളയം റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ഹരിപ്പാട് നഗരസഭ വാർഡ് -17 ലെ പായിക്കുളങ്ങര -കല്ലേലിൽ ജംഗ്ഷൻ  റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "കാർത്തികപ്പള്ളി ഗ്രാമ പഞ്ചായത്ത് വാർഡ്-9, മാനാംമ്പുറം കടയ്ക്കൽ റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "മുതുകുളം ഗ്രാമ പഞ്ചായത്ത്  2ാം വാർഡ്  -ചാപ്രയിൽ ജംഗ്ഷൻ മുതൽ ശ്രീശൈലം ജംഗ്ഷൻ വരെ റോഡും ഓടയും",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 28.0,
+            "concurrence_lakhs": 28.0
+        },
+        {
+            "project_name": "ചിങ്ങോലി  ഗ്രാമ പഞ്ചായത്ത് വാർഡ് 10,11 ൽ കൂടി കടന്നുപോകുന്ന മംഗലത്ത് തുണ്ടിൽമുക്ക് -  ചക്കരച്ചിറ റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ചിങ്ങോലി ഗ്രാമ പഞ്ചായത്ത്,ചിങ്ങോലി വില്ലേജ് ഓഫീസ് -കൊച്ചുവീട്ടിൽ ജംഗ്ഷൻ റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "കുമാരപുരം ഗ്രാമ പഞ്ചായത്ത് വാർഡ് -2 ലെ നാലുകണ്ടം കാറാന്തറ റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "തൃക്കുന്നപ്പുഴ ഗ്രാമ പഞ്ചായത്ത്  വാർഡ് -7  വീരാം പറമ്പ്  കടത്ത് കടവിൽ പിച്ചിംഗ് കെട്ടിയുള്ള  തീര സംരക്ഷണം",
+            "implementing_agency": "ഇറിഗേഷൻ",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "തൃക്കുന്നപ്പുഴ ഗ്രാമ പഞ്ചായത്ത്  വാർഡ് -10 ലെ കായൽതീരം വെളിയന്‍റെ പറമ്പിൽ പുരയിടത്തിന് തിട്ട സംരക്ഷണം (റീച്ച്-1)",
+            "implementing_agency": "ഇറിഗേഷൻ",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "കാർത്തികപ്പള്ളി ഗ്രാമ പഞ്ചായത്ത് 3,4 വാർഡുകളെ തമ്മിൽ ബന്ധിപ്പിക്കുന്ന ത്രാച്ചേരി  മുട്ടേൽ പാലം",
+            "implementing_agency": "ഇറിഗേഷൻ",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        },
+        {
+            "project_name": "തൃക്കുന്നപ്പുഴ ഗ്രാമ പഞ്ചായത്ത് വാർഡ് -12 ൽ 113ാം നമ്പർ അംഗനവാടി കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 27.0,
+            "concurrence_lakhs": 27.0
+        },
+        {
+            "project_name": "തൃക്കുന്നപ്പുഴ ഗ്രാമപഞ്ചായത്ത് വാർഡ് 1 ലെ പുലത്തറ - ചന്തുവിൻ്റ തറ, വാടയിൽ തൈവൈപ്പിൽ റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.24,
+            "concurrence_lakhs": 18.24
+        },
+        {
+            "project_name": "തൃക്കുന്നപ്പുഴ ഗ്രാമപഞ്ചായത്ത് ഇടത്തുരുത്ത് പാലം - തെക്കേക്കാട്ടിൽ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ഹരിപ്പാട് ഗവ യു.പി.എസ് ന് (മലയാളം സ്കൂൾ) പുതിയ കെട്ടിടം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 57.0,
+            "concurrence_lakhs": 57.0
+        },
+        {
+            "project_name": "മുതുകുളം പഞ്ചായത്ത് വാർഡ് 14 എസ്.എൻ.എം യുപിസ്ക്കൂളിന് സമീപമുള്ള തോടിന് പിച്ചിംഗ്,കവറിംഗ് സ്ലാബ്,ഓപ്പൻ സ്റ്റേജ്",
+            "implementing_agency": "ഇറിഗേഷൻ",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        },
+        {
+            "project_name": "ഹരിപ്പാട് മണ്ണാറശാല വെറ്റിനറി ക്ലിനിക്കിന് പുതിയകെട്ടിടം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 75.0,
+            "concurrence_lakhs": 75.0
+        },
+        {
+            "project_name": "ചേപ്പാട് ഗ്രാമപഞ്ചായത്ത് വാർഡ് 14 മുറിയാമൂട് മണലിൽമുക്ക് റോഡും ഓടയും",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ചെറുതന ഗ്രാമപഞ്ചായത്ത് വാർഡ് 8 ലെ കാക്കക്കോടിക്കൽ - ചാപ്രയിൽ റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "ഹരിപ്പാട് നഗരസഭയിലെ വാർഡ് 13 ലെ കാട്ടിൽമുക്ക് ട്രാൻസ്ഫോർമർ - കളീക്കൽ ജംഗ്ഷൻ റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.62,
+            "concurrence_lakhs": 18.62
+        },
+        {
+            "project_name": "പള്ളിപ്പാട് പഞ്ചായത്ത് വാർഡ്‌ 11 ലെ കളത്തിൽ ജംഗ്ഷൻ ചെറിയിലേത്ത്  തെക്ക് റോഡും ഓടയും",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 22.0
+        },
+        {
+            "project_name": "പള്ളിപ്പാട് പഞ്ചായത്ത് വാർഡ് 9-ാം വാർഡ് കോളാച്ചിറ പാലത്തിന് തെക്ക് വശത്തുള്ള ജംഗ്ഷനിൽ നിന്നും പടിഞ്ഞാറോട്ട് കോട്ടയിൽ ജംഗ്ഷൻ വരെയുള്ള റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 27.28,
+            "concurrence_lakhs": 27.28
+        },
+        {
+            "project_name": "കുമാരപുരം പഞ്ചായത്ത് വാർഡ് 8 അനന്തപുരം - തട്ടാരേത്ത് റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 21.53,
+            "concurrence_lakhs": 21.53
+        },
+        {
+            "project_name": "ഹരിപ്പാട് നഗരസഭ വാർഡ് 22 വാതല്ലൂർ കോയിക്കൽ - ചെങ്കളിൽ റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 13.3
+        },
+        {
+            "project_name": "കരുവാറ്റ യു.ഐ.റ്റി സെന്ററിന് കെട്ടിടം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 37.35,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചേപ്പാട് പഞ്ചായത്ത് വാർഡ് 8 തോട്ടാലിൽ മുക്ക് - വാതല്ലൂർ മുക്ക് റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മുതുകുളം പഞ്ചായത്ത് വാർഡ് 8,10 ലൂടെ കടന്ന് പോകുന്ന പാണ്ഡവർകാവ് - പുളിയറ റോഡിന്റെ ടാറിംഗ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 33.0,
+            "concurrence_lakhs": 33.0
+        },
+        {
+            "project_name": "ചിങ്ങോലി ഗ്രാമപഞ്ചായത്ത് കാർത്തികപ്പള്ളി - വെമ്പുഴ റോഡിൽ തയ്യിൽ പാലം നിർമ്മാണം",
+            "implementing_agency": "ഇറിഗേഷൻ",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 48.0,
+            "concurrence_lakhs": 48.0
+        },
+        {
+            "project_name": "ചെറുതന പഞ്ചായത്ത് വാർഡ് 2 ലെ പുത്തൻതുരുത്ത് മുതൽ കാഞ്ഞിരൻ തുരുത്ത് വരെയുള്ള റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ആറാടുപുഴ പഞ്ചായത്ത് തറയിൽകടവ്  ഫിഷറീസ് ആശുപത്രി കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "ജില്ലാ നിര്‍മ്മിതി കേന്ദ്രം, ആലപ്പുഴ",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 75.0,
+            "concurrence_lakhs": 75.0
+        },
+        {
+            "project_name": "കുമാരപുരം ഗ്രാമപഞ്ചായത്തിലെ 7,8,10,11 വാർഡുകളിലൂടെ കടന്ന് പോകുന്ന പഞ്ചായത്ത് ഓഫീസ് ജംഗ്ഷൻ മുതൽ മുണ്ടോലി ജംഗ്ഷൻ വരെ റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കുമാരപുരം പഞ്ചായത്തിലെ വാർഡ് 13,14 മുണ്ടപ്പള്ളി പഴയചിറ റോഡിൽ പുത്തൻചിറ പാലത്തിൻ്റെ നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 41.0,
+            "concurrence_lakhs": 41.0
+        },
+        {
+            "project_name": "ആറാട്ടുപുഴ ഗ്രാമപഞ്ചായത്ത് നല്ലാണിക്കൽ കാവിൽ ഒടുപ്പത്ത് കായൽവാരം റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 13.1,
+            "concurrence_lakhs": 13.1
+        },
+        {
+            "project_name": "തൃക്കുന്നപ്പുഴ ഗ്രാമപഞ്ചായത്തിലെ 10,8 വാർഡുകളിലൂടെ കടന്ന് പോകുന്ന വാടച്ചിറ മുതൽ പതിയാങ്കര വാട്ടർ ടാങ്കിന് വടക്ക് വശം വരെയുള്ള റോഡിൻ്റെ ടാറിംഗ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "ചെറുതന ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് -1 ൽ പാണ്ടി വെട്ടുകുളഞ്ഞി മുതൽ തോടിന് പടിഞ്ഞാറു വശത്തു കൂടി നബാർഡ് -എം.എൽ.എ ഫണ്ട് എന്നിവ ചേർത്ത് പണി പൂർത്തീകരിച്ച റോഡിന്‍റെ ശേഷിക്കുന്ന വടക്കോട്ടുള്ള ഭാഗം പൂർണ്ണമായും ടാറിംഗ് നടത്തുന്നതിന്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 32.47,
+            "concurrence_lakhs": 32.47
+        },
+        {
+            "project_name": "പള്ളിപ്പാട് ഗ്രാമപഞ്ചായത്ത് വാർഡ് 12 വഴുതാനം യു.പി.എസ് കിഴക്ക് ജംഗ്ഷൻ മുതൽ തെക്കോട്ട് ചിറവടക്കതിൽ നീണ്ടൂർ ക്ഷേത്രം റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 17.86,
+            "concurrence_lakhs": 17.86
+        },
+        {
+            "project_name": "ഹരിപ്പാട് നഗരസഭ വാർഡ് 17 മറുതാമുക്ക് മുതൽ വെള്ളയിൽ ജംഗ്ഷൻ വരെയുളള റോഡ് ടാറിംഗ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "പള്ളിപ്പാട് ഗ്രാമപഞ്ചായത്ത് വാർഡ് 5 ലോട്ടസ് ജംഗഷൻ - കറുത്താട്ടിൽ പടീറ്റതിൽ വരെ റോഡ് ടാറിംഗും നിലവിലുള്ള ഓടയുടെ മുകളിൽ കവറിംഗ് സ്ലാബും",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 22.1,
+            "concurrence_lakhs": 22.1
+        },
+        {
+            "project_name": "ഹരിപ്പാട് നഗരസഭ വാർഡ് 18 ൽ ടി.കെ.എം കോളേജ് ജംഗഷൻ മുതൽ MLA ADS മുഖേന പൂർത്തീകരിച്ച റോഡിൻ്റെ ബാക്കി ഭാഗം മുതൽ വേലായുധൻ വാച്ച് കട വരെ",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 31.7,
+            "concurrence_lakhs": 31.7
+        },
+        {
+            "project_name": "ഹരിപ്പാട് നഗരസഭ വാർഡ് 8 ലെ പട്ടശ്ശേരിൽപടി മുതൽ കാവിൽപടി വരെയുളള റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.5,
+            "concurrence_lakhs": 12.5
+        },
+        {
+            "project_name": "ഹരിപ്പാട് നഗരസഭ വാർഡ് 20 ൽ നമ്പർ 33 അംഗനവാടി കെട്ടിടവും, ചുറ്റുമതിലും, ടൊയിലറ്റ്, ഇലക്ട്രിഫിക്കേഷൻ, കുടിവെള്ളം എന്നിവ ഉൾപ്പടെ പ്രസ്തുത അംഗനവാടി ആധുനികരീതിയിൽ നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Water Supply",
+            "fy": "2022-2023",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "കരുവാറ്റ ഗ്രാമപഞ്ചായത്ത് വാർഡ് 3 ആശ്രമം - പട്ടേരിപറമ്പിൽ റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.84,
+            "concurrence_lakhs": 18.84
+        },
+        {
+            "project_name": "കരുവാറ്റ ഗ്രാമപഞ്ചായത്ത് വാർഡ് 1 ലെ ഗുരുമന്ദിരം - ആശാട്ടിമുക്ക് റോഡ് ഉയർത്തി ടാറിംഗ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.3,
+            "concurrence_lakhs": 18.3
+        },
+        {
+            "project_name": "മുതുകുളം പഞ്ചായത്ത് വാർഡ്.1 ലെ തോട്ടാപ്ലിശ്ശേരി ജംഗ്ഷൻ മുതൽ വീട്ടിൽ കാവ് വരെയുള്ള റോഡിന്‍റെ ടാറിംഗ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "ചെറുതന ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് -1 ൽ പാണ്ടി വെട്ടുകുളഞ്ഞി മുതൽ തോടിന് പടിഞ്ഞാറു വശത്തു കൂടി നബാർഡ് -എം.എൽ.എ ഫണ്ട് എന്നിവ ചേർത്ത് പണി പൂർത്തീകരിച്ച റോഡിന്‍റെ ശേഷിക്കുന്ന വടക്കോട്ടുള്ള ഭാഗം പൂർണ്ണമായും ടാറിംഗ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തൃക്കുന്നപ്പുഴ പഞ്ചായത്തിലെ പല്ലന ഹൈസ്ക്കൂള്‍ ജംഗ്ഷൻ മുതല്‍ കാട്ടില്‍മുക്ക് വരെയുള്ള റോഡിന്‍റെ നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.04,
+            "concurrence_lakhs": 20.04
+        },
+        {
+            "project_name": "തൃക്കുന്നപ്പുഴ പഞ്ചായത്ത് വാർഡ് -6 ലെ തണ്ടാക്കാട്ടില്‍ ജംഗ്ഷൻ മുതല്‍ കൊച്ചാറ്റില്‍ പാലം വരെയുള്ള റോഡിന്‍റെ ടാറിംഗ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 37.5,
+            "concurrence_lakhs": 37.5
+        },
+        {
+            "project_name": "ചിങ്ങോലി ഗ്രാമ പഞ്ചായത്തില്‍ വാർഡ് -1 ല്‍ കഴുവേറ്റം കുന്നേല്‍ പ്രദേശത്ത്  കാർത്തികപ്പള്ളി പൂത്തോട് റോഡിന് ചേർന്നുള്ള  നടവഴിയും പിച്ചിംഗും",
+            "implementing_agency": "ഇറിഗേഷൻ",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 32.0,
+            "concurrence_lakhs": 32.0
+        },
+        {
+            "project_name": "ഹരിപ്പാട് നഗരസഭ വാർഡ്-3 ലെ നഗലില്‍ -ഒതളക്കുഴി റോഡിന്‍റെ പിച്ചിംഗ് വർക്ക്  റീച്ച് 1",
+            "implementing_agency": "മൈനർ ഇറിഗേഷൻ",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 23.4,
+            "concurrence_lakhs": 23.4
+        },
+        {
+            "project_name": "ഹരിപ്പാട് നഗരസഭ വാർഡ് 3 ലെ നഗലില്‍-ഒതളക്കുഴി തോടിന്‍റെ പിച്ചിംഗ് വർക്ക് റീച്ച് -1",
+            "implementing_agency": "മൈനർ ഇറിഗേഷൻ",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 23.4,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഹരിപ്പാട് നഗരസഭ വാർഡ് 3 ലെ നഗലില്‍-ഒതളക്കുഴി തോടിന്‍റെ പിച്ചിംഗ് വർക്ക് റീച്ച് -1",
+            "implementing_agency": "മൈനർ ഇറിഗേഷൻ",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 23.4,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഹരിപ്പാട് KSRTC ഡിപ്പോയിൽ യാർഡും റോഡും",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 100.0,
+            "concurrence_lakhs": 100.0
+        },
+        {
+            "project_name": "ഹരിപ്പാട് KSRTC ബസ് ഡിപ്പോയിൽ പുതിയ യാർഡും റോഡും",
+            "implementing_agency": "KSRTC",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 100.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "alappuzha_shri_ramesh_chennithala_placeholder"
+}

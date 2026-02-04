@@ -1,0 +1,660 @@
+{
+    "mla_name": "Shri Antony Raju",
+    "constituency": "THIRUVAN.PURAM",
+    "summary": {
+        "total_expenditure_crores": 22.4916,
+        "breakdown": [
+            {
+                "label": "Others",
+                "value_crores": 6.1581
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 4.2944
+            },
+            {
+                "label": "Road",
+                "value_crores": 4.041
+            },
+            {
+                "label": "Education",
+                "value_crores": 3.4082
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 2.353
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 1.7956
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.25
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.1913
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "തകരപ്പറമ്പ്-ശ്രീചിത്ര ഹോമിനടുത്തുള്ള ഹോട്ടൽ ഐശ്വര്യയുടെ പിൻവശത്തുള്ള കച്ചേരിവിളയിൽ മലിനജല ലൈനുകൾ സ്ഥാപിക്കുകയും മാൻഹോളുകൾ പുനർനിർമ്മിക്കുകയും ചെയ്യുന്ന നിർമ്മാണ പ്രവൃത്തി",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, സ്വീവറേജ്‌ ഡിവിഷൻ",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 32.45,
+            "concurrence_lakhs": 32.45
+        },
+        {
+            "project_name": "തകരപ്പറമ്പ്-ശ്രീചിത്ര ഹോമിനടുത്തുള്ള ഹോട്ടൽ ഐശ്വര്യയുടെ പിൻവശത്തുള്ള കച്ചേരിവിളയിൽ മലിനജല ലൈനുകൾ സ്ഥാപിക്കുകയും മാൻഹോളുകൾ പുനർനിർമ്മിക്കുകയും ചെയ്യുന്ന നിർമ്മാണ പ്രവൃത്തി",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, സ്വീവറേജ്‌ ഡിവിഷൻ",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 32.45,
+            "concurrence_lakhs": 34.04
+        },
+        {
+            "project_name": "Bus Waiting Shelters in Cape Engineering College Muttathara,Valiyathura School (Beemappalli Valiyathura Road) and Domestic Airport Trivandram (Valiyathura Airport Road)",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 21.59,
+            "concurrence_lakhs": 21.59
+        },
+        {
+            "project_name": "ഫോര്‍ട്ട്‌ ഗവ.യു.പി.എസ് (വിറകുപുര കോട്ട) നു ബസ്‌ വാങ്ങി നല്‍കുന്നത്",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ ഉപ ഡയറക്ടർ",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 0.01,
+            "concurrence_lakhs": 0.01
+        },
+        {
+            "project_name": "വള്ളക്കടവ് ഹാജി സി എച്ച് മുഹമ്മദ് കോയ മെമ്മോറിയൽ VHSS സ്കൂളിലെ കളിസ്ഥലം നവീകരണം",
+            "implementing_agency": "അഡിഷണൽ ഡയറക്ടർ, സ്പോർട്സ് ആൻഡ് യൂത്ത് അഫേഴ്സ് തിരുവനന്തപുരം.",
+            "category": "Sports",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ചേപ്പിൽ കളത്ത്‌ മുടുമ്പിൽ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 19.89,
+            "concurrence_lakhs": 19.89
+        },
+        {
+            "project_name": "ഗവ.മോഡൽ HSLPS സ്കൂളിൽ സൈക്കിൾ ട്രാക്ക് നിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി. ബിൽഡിംഗ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "തിരുവനന്തപുരം നിയോജക മണ്ഡലം 2025-26, 45 സ്ട്രീറ്റ് ലൈറ്റുകൾ സ്ഥാപിക്കുന്നത് സംബന്ധിച്ച്  7",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 70.77,
+            "concurrence_lakhs": 70.77
+        },
+        {
+            "project_name": "കോട്ടൺ ഹിൽ ഗവ.എൽ.പി.എസ് സ്കൂളിൽ 'ഇ ലൈബ്രറി വിത്ത് ഓഗ് മെന്റ് റിയാലിറ്റി ആൻഡ് വെർച്വൽ റിയാലിറ്റി' ലാബ് അനുവദിക്കുന്നത് സംബന്ധിച്ച്",
+            "implementing_agency": "ജനറൽ മാനേജർ, കേരളാ  സ്റ്റേറ്റ്  ഇലക്ട്രോണിക് ഡെവലപ്മെന്റ്  കോർപറേഷൻ ലിമിറ്റഡ്  (കെൽട്രോൺ)",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 16.37,
+            "concurrence_lakhs": 16.37
+        },
+        {
+            "project_name": "തിരുവനന്തപുരം നിയോജക മണ്ഡലം MLA ADS - (2025-26) 9 ഹൈ മാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കുന്നത് സംബന്ധിച്ച്",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 41.07,
+            "concurrence_lakhs": 41.07
+        },
+        {
+            "project_name": "ഗവ.പബ്ലിക് ഹെൽത്ത് ട്രെയിനിങ് സെന്ററിൽ 34 സീറ്റർ സ്കൂൾ ബസ് വാങ്ങുന്നത് സംബന്ധിച്ച്",
+            "implementing_agency": "ഡയറക്ടര്‍,ഹെല്‍ത്ത്‌ സര്‍വീസ്",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 28.33,
+            "concurrence_lakhs": 28.33
+        },
+        {
+            "project_name": "ഗവ.കോട്ടണ്‍ ഹില്‍ GHSS - ല്‍ കമ്പ്യൂട്ടറും മാറ്റ് അനുബന്ധ ഉപകരണങ്ങളും വാങ്ങുന്നത് സംബന്ധിച്ച്",
+            "implementing_agency": "ജനറൽ മാനേജർ, കേരളാ  സ്റ്റേറ്റ്  ഇലക്ട്രോണിക് ഡെവലപ്മെന്റ്  കോർപറേഷൻ ലിമിറ്റഡ്  (കെൽട്രോൺ)",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 19.99,
+            "concurrence_lakhs": 19.99
+        },
+        {
+            "project_name": "ശ്രീകണ്ടേശ്വരം വാർഡിൽ ചട്ടമ്പിസ്വാമി പാർക്കിന് സമീപം ഫുട്പാത്ത്  നിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 16.5,
+            "concurrence_lakhs": 16.5
+        },
+        {
+            "project_name": "ശംഖുമുഖം വാര്‍ഡില്‍ ശംഖുമുഖം കടല്‍ത്തീരത്തോട് ചേര്‍ന്ന് സ്ഥിതിചെയ്യുന്ന ആറാട്ട് കല്‍മണ്ഡപത്തെ കടലാക്രമണത്തില്‍ നിന്ന് സംരക്ഷിക്കുന്നതിനു മണല്‍ നിറച്ച ജിയോ ബാഗുകള്‍ കൊണ്ട് സംരക്ഷണ ഭിത്തി നിര്‍മ്മാണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ്  എഞ്ചിനീയർ, വൻകിട ജലസേചന വിഭാഗം , തിരുവനന്തപുരം",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "ഫോര്‍ട്ട്‌ വാര്‍ഡില്‍ സ്വാതി നഗറില്‍ ഓടയുടെ സ്ലാബ് നിര്‍മ്മാണം - ഇന്റര്‍ ലോക്ക് അനുബന്ധ പ്രവര്‍ത്തികള്‍(രണ്ടാം ഘട്ടം).",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 11.47,
+            "concurrence_lakhs": 11.47
+        },
+        {
+            "project_name": "ഈഞ്ചക്കല്‍ ഗവ.യു.പി സ്കൂളിലേക്ക് 18 സീറ്റര്‍ ബസ്‌ വാങ്ങി നല്‍കുന്നതിന്.",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ ഉപ ഡയറക്ടർ",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "തിരുവനന്തപുരം നിയോജകമണ്ഡലത്തില്‍ വിവിധ കോര്‍പ്പറേന്‍ വാര്‍ഡുകളിലായി 7 എണ്ണം ഹൈ മാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കുന്നതിന്.",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.5,
+            "concurrence_lakhs": 30.29
+        },
+        {
+            "project_name": "തിരുവനന്തപുരം നിയോജകമണ്ഡലത്തില്‍ വിവിധ കോര്‍പ്പറേന്‍ വാര്‍ഡുകളിലായി 6 എണ്ണം ഹൈ മാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കുന്നതിന്.",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 32.21,
+            "concurrence_lakhs": 32.08
+        },
+        {
+            "project_name": "തിരുവനന്തപുരം നിയോജകമണ്ഡലത്തില്‍ വിവിധ കോര്‍പ്പറേന്‍ വാര്‍ഡുകളിലായി 7 എണ്ണം ഹൈ മാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കുന്നതിന്.",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 34.43,
+            "concurrence_lakhs": 34.19
+        },
+        {
+            "project_name": "തിരുവനന്തപുരം നിയോജകമണ്ഡലത്തില്‍ വിവിധ കോര്‍പ്പറേന്‍ വാര്‍ഡുകളിലായി 8 എണ്ണം ഹൈ മാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കുന്നതിന്.",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 33.76,
+            "concurrence_lakhs": 33.72
+        },
+        {
+            "project_name": "Providing Sewer Lines and Re Constructing Manholes at Kacherivila Back Side of Hotel Iswarya Near Sree Chitra Home in Sreekanteswaram Ward.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, സ്വീവറേജ്‌ ഡിവിഷൻ",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 32.45,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ബീമാപള്ളി വാര്‍ഡില്‍ വലിയതുറ ഫുട്ബോള്‍ ഗ്രൗണ്ട് പരിസരത്തെയും സമീപത്തുള്ള മത്സ്യ മാര്‍ക്കറ്റിനെയും കടലാക്രമണത്തില്‍ നിന്ന് സംരക്ഷിക്കുന്നതിനു മണല്‍ നിറച്ച ജിയോ ബാഗ്‌ ഉപയോഗിച്ചു സംരക്ഷണ ഭിത്തി നിര്‍മ്മാണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ്  എഞ്ചിനീയർ, വൻകിട ജലസേചന വിഭാഗം , തിരുവനന്തപുരം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 33.0,
+            "concurrence_lakhs": 33.0
+        },
+        {
+            "project_name": "തിരുവനന്തപുരം നിയോജകമണ്ഡലത്തില്‍ 14 എണ്ണം ഹൈ മാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കുന്നതിന്.",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 57.3,
+            "concurrence_lakhs": 57.3
+        },
+        {
+            "project_name": "ശംഖുമുഖം വാര്‍ഡില്‍ വയര്‍ലെസ്സ് സ്റ്റേഷന്‍ റോഡ്‌ പുനരുദ്ധാരണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.5,
+            "concurrence_lakhs": 20.5
+        },
+        {
+            "project_name": "ബീമാപള്ളി വാര്‍ഡില്‍ ബീമാപള്ളി ഗവ. യു.പി.എസ് ല്‍ കോണ്‍ഫറന്‍സ് ഹാള്‍ നിര്‍മ്മാണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി. ബിൽഡിംഗ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 34.57,
+            "concurrence_lakhs": 34.57
+        },
+        {
+            "project_name": "കിഫ്ബി സ്കൂള്‍ പദ്ധതിയില്‍ ഉള്‍പ്പെടുത്തി നടപ്പിലാക്കുന്ന SMV മോഡല്‍ എച്ച്.എസ്.എസ് തിരുവനന്തപുരത്തില്‍ പുതിയ കെട്ടിട നിര്‍മ്മാണം പൂര്‍ത്തീകരണം.",
+            "implementing_agency": "ചീഫ് മാനേജര്‍ (ടെക്നിക്കല്‍), കേരളാ ഇന്‍സ്റ്റിറ്റ്യൂട്ട് ഓഫ് ലോക്കല്‍ അഡ്മിനിസ്ട്രേഷന്‍",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കിഫ്ബി സ്കൂള്‍ പദ്ധതിയില്‍ ഉള്‍പ്പെടുത്തി നടപ്പിലാക്കുന്ന മണക്കാട് TTI സ്കൂളില്‍ പുതിയ കെട്ടിട നിര്‍മ്മാണം പൂര്‍ത്തീകരണം.",
+            "implementing_agency": "ചീഫ് മാനേജര്‍ (ടെക്നിക്കല്‍), കേരളാ ഇന്‍സ്റ്റിറ്റ്യൂട്ട് ഓഫ് ലോക്കല്‍ അഡ്മിനിസ്ട്രേഷന്‍",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "ഫോര്‍ട്ട്‌ വാര്‍ഡില്‍ സ്വാതി നഗറില്‍ ഓടയുടെ സ്ലാബ് നിര്‍മ്മാണം - ഇന്റര്‍ ലോക്ക് അനുബന്ധ പ്രവര്‍ത്തികള്‍.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.57,
+            "concurrence_lakhs": 10.57
+        },
+        {
+            "project_name": "ചാക്ക വാര്‍ഡില്‍ വട്ടക്കായല്‍ മുതല്‍ പാര്‍വതി പുത്തനാര്‍ വരെയുള്ള ഓടയുടെ സ്ലാബ് നിര്‍മ്മാണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 21.8,
+            "concurrence_lakhs": 21.74
+        },
+        {
+            "project_name": "പെരുന്താന്നി വാര്‍ഡില്‍ സുബാഷ് നഗര്‍ പ്രദേശത്ത്‌ വെള്ളക്കെട്ട് പരിഹരിക്കുന്നതിന് പുതിയ ഓട നിര്‍മ്മാണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, മൈനർ ഇറിഗേഷൻ ഡിവിഷൻ,തിരുവനന്തപുരം",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "തൈക്കാട് വാര്‍ഡില്‍ ഗവ.മോഡല്‍ HSLPS ല്‍ സൈക്കിള്‍ ട്രാക്ക് നിര്‍മ്മാണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി. ബിൽഡിംഗ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഗവ.ആയുര്‍വേദ കോളേജിലേക്ക് 45 സീറ്റര്‍ ബസ്‌ വാങ്ങി നല്‍കുന്നതിന്.",
+            "implementing_agency": "പ്രിന്‍സിപ്പാള്‍, ഗവ.ആയുര്‍വേദ കോളേജ്, തിരുവനന്തപുരം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 26.67,
+            "concurrence_lakhs": 26.67
+        },
+        {
+            "project_name": "തൈക്കാട് ഗവ.മോഡല്‍ ബോയ്സ് ഹയര്‍സെക്കന്‍ഡറി സ്കൂളിലേക്ക്‌ 24 സീറ്റര്‍ ബസ്‌ വാങ്ങി നല്‍കുന്നതിന്.",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ ഉപ ഡയറക്ടർ",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ശ്രീവരാഹം വാര്‍ഡില്‍ തിരുവനന്തപുരം സൗത്ത് അര്‍ബന്‍ റിസോഴ്സ് സെന്‍ററില്‍ പ്രവര്‍ത്തിക്കുന്ന ഓട്ടിസം സെന്‍ററില്‍ സെന്‍സറി റൂം നിര്‍മ്മാണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി. ബിൽഡിംഗ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 34.99,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കോട്ടണ്‍ഹില്‍ ഗവ.GHSS ല്‍ കമ്പ്യൂട്ടര്‍ ലാബിലേക്ക് 35 എണ്ണം കമ്പ്യൂട്ടറുകളും അനുബന്ധ ഉപകരണങ്ങളും വാങ്ങി നല്‍കുന്നതിന്.",
+            "implementing_agency": "ജനറൽ മാനേജർ, കേരളാ  സ്റ്റേറ്റ്  ഇലക്ട്രോണിക് ഡെവലപ്മെന്റ്  കോർപറേഷൻ ലിമിറ്റഡ്  (കെൽട്രോൺ)",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 19.96
+        },
+        {
+            "project_name": "Construction of side drain leading from Sreekandeswaram Temple pond towards Amaizhanjan Thodu and Reconstruction of Damaged side drain at Virakupurakotta and allied works in Sreekandeswaram ward.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 34.0,
+            "concurrence_lakhs": 34.0
+        },
+        {
+            "project_name": "വലിയതുറ ഗവ.യു.പി സ്കൂളിലേക്ക് 18 സീറ്റര്‍ ബസ്‌ വാങ്ങി നല്‍കുന്നതിന്.",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ ഉപ ഡയറക്ടർ",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 17.71,
+            "concurrence_lakhs": 17.71
+        },
+        {
+            "project_name": "തിരുവനന്തപുരം നിയോജക മണ്ഡലത്തില്‍ വിവിധ കോര്‍പ്പറേഷന്‍ വാര്‍ഡുകളില്‍ ഹൈ/മിനി മാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കുന്നതിന്.",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 48.1,
+            "concurrence_lakhs": 48.1
+        },
+        {
+            "project_name": "ഫോര്‍ട്ട്‌ ഗവ.യു.പി.എസ് (വിറകുപുര കോട്ട) നു ബസ്‌ വാങ്ങി നല്‍കുന്നതിന്.",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ ഉപ ഡയറക്ടർ",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "വലിയശാല വാര്‍ഡില്‍ കിള്ളിയാറിനു സമീപം നന്ദാവനം ഗാര്‍ഡന്‍സ് പ്രദേശത്ത്‌ പുതിയ ഡ്രയിനേജ് മാന്‍ഹോളുകള്‍ നിര്‍മ്മാണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, സ്വീവറേജ്‌ ഡിവിഷൻ",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 24.0,
+            "concurrence_lakhs": 24.0
+        },
+        {
+            "project_name": "പെരുന്താന്നി വാര്‍ഡില്‍ അസീസ്‌ നഗറില്‍ ഓട നിര്‍മ്മാണം ഇന്റര്‍ ലോക്ക് അനുബന്ധ പ്രവര്‍ത്തികള്‍.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.79,
+            "concurrence_lakhs": 20.79
+        },
+        {
+            "project_name": "ജഗതി ഗവ.ഹൈ സ്കൂളിലേക്ക് ബസ്‌ വാങ്ങി നല്‍കുന്നതിന്.",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ ഉപ ഡയറക്ടർ",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "വിവിധ കോര്‍പറേഷന്‍ വാര്‍ഡുകളില്‍ താഴെ പറയുന്ന സ്ഥലങ്ങളില്‍ ബസ്‌ കാത്തിരിപ്പ് കേന്ദ്രങ്ങള്‍ നിര്‍മ്മാണം.\r\n1. ബൈ പാസ് ചാക്ക (ചാക്ക വാര്‍ഡ്‌) Rs.6,35,000/-\r\n2. KSEB ജംഗ്ഷനില്‍ (ചാക്ക വാര്‍ഡ്‌) Rs.6,35,000/-\r\n3. ചാക്ക ജംഗ്ഷനില്‍ (ചാക്ക വാര്‍ഡ്‌) Rs.6,35,000/-",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 19.05,
+            "concurrence_lakhs": 19.05
+        },
+        {
+            "project_name": "ബീമാപള്ളി ഗവ.യു.പി.എസ്സില്‍ 27 എണ്ണം ലാപ്ടോപ് വാങ്ങി നല്‍കുന്നതിന്.",
+            "implementing_agency": "ജനറൽ മാനേജർ, കേരളാ  സ്റ്റേറ്റ്  ഇലക്ട്രോണിക് ഡെവലപ്മെന്റ്  കോർപറേഷൻ ലിമിറ്റഡ്  (കെൽട്രോൺ)",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തൈക്കാട് ഗവ.എല്‍.പി സ്കൂളിനു 18 സീറ്റര്‍ ബസ്‌ വാങ്ങി നല്‍കുന്നതിന്.",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ ഉപ ഡയറക്ടർ",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "തിരുവനന്തപുരം നഗരസഭയിലെ വിവിധ വാര്‍ഡുകളില്‍ആയി 15 എണ്ണം ഹൈ മാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കുന്നതിന്.",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 81.3,
+            "concurrence_lakhs": 81.3
+        },
+        {
+            "project_name": "തമ്പാനൂര്‍ വാര്‍ഡിലെ മോസ്ക് ലൈന്‍ ശ്രീമൂലം ലൈന്‍ പ്രദേശങ്ങളില്‍ പുതിയ സ്വീവറേജ് ലൈനും മാന്‍ ഹോളും നിര്‍മ്മാണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, സ്വീവറേജ്‌ ഡിവിഷൻ",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 33.0,
+            "concurrence_lakhs": 33.0
+        },
+        {
+            "project_name": "പൂന്തുറ സെന്റ്‌ തോമസ്‌ എച്ച്.എസ്.എസ് ല്‍ പെണ്‍കുട്ടികള്‍ക്കായി ടോയിലറ്റ് ബ്ലോക്ക്‌ നിര്‍മ്മാണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി. ബിൽഡിംഗ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പാല്‍ക്കുളങ്ങര വാര്‍ഡിലെ മേപ്പള്ളി ഗാര്‍ഡന്‍സ്, ചെമ്പകശ്ശേരി - താന്നിമൂട് ലൈന്‍, NSS HSS - പേട്ട റോഡ്‌ പ്രദേശങ്ങളില്‍ വ്യാസം കൂടിയ ഡ്രൈനേജു ലൈനുകളും മാന്‍ ഹോളും സ്ഥാപിക്കുന്നതിന്.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, സ്വീവറേജ്‌ ഡിവിഷൻ",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 19.0,
+            "concurrence_lakhs": 19.0
+        },
+        {
+            "project_name": "അട്ടകുളങ്ങര ജംഗ്ഷന്‍ ഭാഗത്ത് പുതിയ സ്വീവറെജ് ലൈന്‍ സ്ഥാപിക്കുന്നതിന്.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, സ്വീവറേജ്‌ ഡിവിഷൻ",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.17,
+            "concurrence_lakhs": 10.17
+        },
+        {
+            "project_name": "Providing Interlock and allied works in Subhash Nagar in Corporation road.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 13.84,
+            "concurrence_lakhs": 13.84
+        },
+        {
+            "project_name": "കോട്ടണ്‍ഹില്‍ GHSS (20  എണ്ണം), തമ്പാനൂര്‍ UPS (4 എണ്ണം), ഗവ. മോഡല്‍ LPS, തൈക്കാട് (6 എണ്ണം) കമ്പ്യൂട്ടറുകളും അനുബന്ധ ഉപകരണങ്ങളും വാങ്ങുന്നതിന്.",
+            "implementing_agency": "ജനറൽ മാനേജർ, കേരളാ  സ്റ്റേറ്റ്  ഇലക്ട്രോണിക് ഡെവലപ്മെന്റ്  കോർപറേഷൻ ലിമിറ്റഡ്  (കെൽട്രോൺ)",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 13.78,
+            "concurrence_lakhs": 13.78
+        },
+        {
+            "project_name": "പേട്ട ഗവ.എല്‍.പി.എസ് കോമ്പൗണ്ടില്‍ പ്രവര്‍ത്തിച്ചു വരുന്ന ഓട്ടിസം സെന്ററിന്റെ നിര്‍മ്മാണ നവീകരണ പ്രവര്‍ത്തികള്‍.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി. ബിൽഡിംഗ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "തമ്പാനൂര്‍ വാര്‍ഡിലെ മോസ്ക് ലൈന്‍ ശ്രീമൂലം ലൈന്‍ പ്രദേശങ്ങളില്‍ പുതിയ സ്വീവറേജ് ലൈനും മാന്‍ ഹോളും നിര്‍മ്മാണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, സ്വീവറേജ്‌ ഡിവിഷൻ",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 33.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചാല തമിഴ് VHSS ല്‍ കെമിസ്ട്രി ലാബ് സ്ഥാപിക്കുന്നതിന്.",
+            "implementing_agency": "റീജിയണല്‍ ഡെപ്യൂട്ടി ഡയറക്ടര്‍(ഹയര്‍സെക്കന്‍ഡറി വിഭാഗം), തിരുവനന്തപുരം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.47,
+            "concurrence_lakhs": 15.47
+        },
+        {
+            "project_name": "കോട്ടണ്‍ഹില്‍ എല്‍.പി സ്കൂളില്‍ ഇ - ലാംഗ്വേജ് ലാബ്‌ സ്ഥാപിക്കുന്നതിന്.",
+            "implementing_agency": "ജനറൽ മാനേജർ, കേരളാ  സ്റ്റേറ്റ്  ഇലക്ട്രോണിക് ഡെവലപ്മെന്റ്  കോർപറേഷൻ ലിമിറ്റഡ്  (കെൽട്രോൺ)",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ബീമാപള്ളി യു.പി സ്കൂളില്‍ ഡിജിറ്റല്‍ ക്ലാസ്സ്‌ റൂം സ്ഥാപിക്കുന്നതിന്.",
+            "implementing_agency": "ജനറൽ മാനേജർ, കേരളാ  സ്റ്റേറ്റ്  ഇലക്ട്രോണിക് ഡെവലപ്മെന്റ്  കോർപറേഷൻ ലിമിറ്റഡ്  (കെൽട്രോൺ)",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പൂന്തുറ വാര്‍ഡിലെ ചേരിയമുട്ടം ഭാഗത്ത്‌ റാംപും പടിക്കെട്ടും നിര്‍മ്മാണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.9,
+            "concurrence_lakhs": 20.9
+        },
+        {
+            "project_name": "വള്ളക്കടവ് വാര്‍ഡിലെ പൊന്നറപാലം മുതല്‍ എയര്‍ ഇന്ത്യാ നഗര്‍ വരെയുള്ള ഭാഗത്ത്‌ ഓടയും നടപ്പാതയും നിര്‍മ്മാണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 32.0,
+            "concurrence_lakhs": 32.0
+        },
+        {
+            "project_name": "തിരുവനന്തപുരം നിയോജകമണ്ഡലത്തിലെ താഴെ പറയുന്ന സ്കൂളുകള്‍ക്ക് ബസ്‌ വാങ്ങി നല്‍കുന്നതിന്.\r\n1. V&HSS, മണക്കാട് (45 seats) 27,00,000/- രൂപ.\r\n2. ഗവ.UPS, പാല്‍കുളങ്ങര (27 Seats) 23,00,000/- രൂപ.\r\n3. ഗവ.TTI, മണക്കാട് (35 Seats) 24,00,000/- രൂപ.",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ ഉപ ഡയറക്ടർ",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 74.0,
+            "concurrence_lakhs": 74.0
+        },
+        {
+            "project_name": "ബീമാപള്ളി ഗവ.യു.പി സ്കൂളിലേക്ക് 29 എണ്ണം ലാപ്ടോപ് വാങ്ങി നല്‍കുന്നതിന്.",
+            "implementing_agency": "ജനറൽ മാനേജർ, കേരളാ  സ്റ്റേറ്റ്  ഇലക്ട്രോണിക് ഡെവലപ്മെന്റ്  കോർപറേഷൻ ലിമിറ്റഡ്  (കെൽട്രോൺ)",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.22,
+            "concurrence_lakhs": 10.22
+        },
+        {
+            "project_name": "ചാക്ക വാര്‍ഡില്‍ കാരാളി പാലം പുനരുദ്ധാരണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയര്‍, ഉള്‍നാടന്‍ ജല ഗതാഗത വിഭാഗം, ആശ്രാമം, കൊല്ലം.",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "ബീമാപള്ളി ഗവ.യു.പി സ്കൂളില്‍ ടോയിലറ്റ് നിര്‍മ്മാണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി. ബിൽഡിംഗ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "തിരുവനന്തപുരം നിയോജകമണ്ഡലത്തില്‍ ഉള്‍പ്പെടുന്ന വിവിധ കോര്‍പ്പറേഷന്‍ വാര്‍ഡുകളില്‍ ഹൈ മാസ്റ്റ്/ മിനി മാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കുന്നതിന്.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം മുനിസിപ്പൽ കോർപ്പറേഷൻ",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 92.98,
+            "concurrence_lakhs": 91.43
+        },
+        {
+            "project_name": "തിരുവനന്തപുരം നിയോജകമണ്ഡലത്തില്‍ ഉള്‍പ്പെടുന്ന വിവിധ കോര്‍പ്പറേഷന്‍ വാര്‍ഡുകളില്‍ ഹൈ മാസ്റ്റ്/ മിനി മാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കുന്നതിന്.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം മുനിസിപ്പൽ കോർപ്പറേഷൻ",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 89.81,
+            "concurrence_lakhs": 88.05
+        },
+        {
+            "project_name": "തിരുവനന്തപുരം നിയോജകമണ്ഡലത്തില്‍ ഉള്‍പ്പെടുന്ന വിവിധ കോര്‍പ്പറേഷന്‍ വാര്‍ഡുകളില്‍ ബസ്‌ കാത്തിരിപ്പു കേന്ദ്രങ്ങള്‍ സ്ഥാപിക്കുന്നതിന്.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 76.2,
+            "concurrence_lakhs": 76.2
+        },
+        {
+            "project_name": "വള്ളക്കടവ് വാര്‍ഡിലെ ഹാജി സി.എച്ച്  മുഹമ്മദ്‌ കോയ മെമ്മോറിയല്‍ വൊക്കേഷണല്‍ ഹയര്‍സെക്കന്‍ഡറി സ്കൂളില്‍ ആണ്‍കുട്ടികള്‍ക്കായി ടോയിലറ്റ് ബ്ലോക്ക്‌ നിര്‍മ്മാണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി. ബിൽഡിംഗ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "Urgent side protection on right bank of Killi river at downstream of Pangodu bridge.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, ഇറിഗേഷൻ ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 56.0,
+            "concurrence_lakhs": 56.0
+        },
+        {
+            "project_name": "Urgent side protection at left bank of Killi river downstream of Parachira bridge at Thengakoodu Phase IV.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, ഇറിഗേഷൻ ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 70.0,
+            "concurrence_lakhs": 70.0
+        },
+        {
+            "project_name": "ശംഖുമുഖം വാര്‍ഡിലെ സെന്റ്‌ പീറ്റേഴ്സ് എല്‍.പി. സ്കൂളിലേക്ക് ഒരു ബസ് വാങ്ങി നല്‍കുന്നതിനു.",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ ഉപ ഡയറക്ടർ",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 13.66,
+            "concurrence_lakhs": 13.66
+        },
+        {
+            "project_name": "തിരുവനന്തപുരം നിയോജക മണ്ഡലത്തില്‍ താഴെ പറയുന്ന സ്കൂളുകള്‍ക്ക്ബസ് വാങ്ങി നല്‍കല്‍.\r\n1) ഗവ.യു.പി.എസ്  ബീമാപള്ളി (1344737 രൂപ) \r\n2) ഗവ. ഗേള്‍സ്‌ എച്ച്.എസ്.എസ് കോട്ടണ്‍ഹില്‍ (2600000 രൂപ) \r\n3) ഗവ.മോഡല്‍ എല്‍.പി.എസ് തൈയ്ക്കാട്(1365939 രൂപ)",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ ഉപ ഡയറക്ടർ",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 53.11,
+            "concurrence_lakhs": 53.11
+        },
+        {
+            "project_name": "തൈക്കാട് സ്ത്രീകളുടെയും കുട്ടികളുടെയും ആശുപത്രിയില്‍ തൈറോയിഡ് ടെസ്റ്റിംഗ് മെഷീന്‍ സ്ഥാപിക്കുന്നതിന്.",
+            "implementing_agency": "ജില്ലാ മെഡിക്കൽ ഓഫീസർ, തിരുവനന്തപുരം",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 19.13,
+            "concurrence_lakhs": 19.13
+        },
+        {
+            "project_name": "Construction of protection wall for a length of 60m towards north from 145m of south western end of Lizzy road in Kochuthope.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, ഇറിഗേഷൻ ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 46.0,
+            "concurrence_lakhs": 46.0
+        },
+        {
+            "project_name": "Construction of sea wall for a length of 25m near AS No.94 near Valiyathura sea bridge.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, ഇറിഗേഷൻ ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Irrigation",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "Construction of core wall for a length of 45 m towards north from 295 m south of AS No.92 near Cheriyathura.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, ഇറിഗേഷൻ ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Irrigation",
+            "fy": "2021-2022",
+            "estimate_lakhs": 19.0,
+            "concurrence_lakhs": 19.0
+        },
+        {
+            "project_name": "തിരുവനന്തപുരം നിയോജകമണ്ഡലത്തില്‍ തേങ്ങാക്കൂടില്‍ കിള്ളിയാറിനു ഇടതു കരയില്‍ സംരക്ഷണ ഭിത്തി നിര്‍മ്മാണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, ഇറിഗേഷൻ ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Irrigation",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.3,
+            "concurrence_lakhs": 15.3
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "shri_antony_raju_placeholder"
+}

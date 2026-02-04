@@ -1,0 +1,436 @@
+{
+    "mla_name": "Shri V. Sivankutty",
+    "constituency": "NEMOM",
+    "summary": {
+        "total_expenditure_crores": 23.0157,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 9.0709
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 6.98
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 4.1385
+            },
+            {
+                "label": "Education",
+                "value_crores": 2.03
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.47
+            },
+            {
+                "label": "Others",
+                "value_crores": 0.3263
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "തിരുവനന്തപുരം നഗര സഭ -പുഞ്ചക്കരി വാര്‍ഡിലെ പുഞ്ചക്കരി -വണ്ടിത്തടം റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തിരുവനന്തപുരം നഗര സഭ -ചാല വാര്‍ഡിലെ TN പുരം റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തിരുവനന്തപുരം നഗര സഭ- തൃക്കണ്ണാ പുരം വാര്‍ഡിലെ അണ്ണന്‍ പ്ലാവിളറോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തിരുവനന്തപുരം നഗര സഭ തൃക്കണ്ണാപുരം വാര്‍ഡിലെ സൊസൈറ്റി റോഡ്‌ & കുഴി വിള റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 55.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തിരുവനന്തപുരം നഗര സഭ- പുന്നയ്ക്കാ മുഗള്‍ വാര്‍ഡിലെ പച്ച വിളാകം-പുന്നയ്ക്കാ മുഗള്‍ റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തിരുവനന്തപുരം നഗര സഭ- പുന്നയ്ക്കാ മുഗള്‍  വാര്‍ഡിലെ  അംബേദ്‌കര്‍ റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തിരുവനന്തപുരം നഗരസഭ -പുന്നയ്ക്കാ മുഗള്‍ വാര്‍ഡിലെ വട്ട വിള -തേലി ഭാഗം -ഉരുട്ടി പാറ ടെമ്പിള്‍ റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 85.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നേമം നിയോജക മണ്ഡലത്തിലെ കുര്യാത്തി എം.എസ്.കെ.നഗര്‍  മൈതാനം നിര്‍മ്മാണം",
+            "implementing_agency": "അഡിഷണൽ ഡയറക്ടർ, സ്പോർട്സ് ആൻഡ് യൂത്ത് അഫേഴ്സ് തിരുവനന്തപുരം.",
+            "category": "Sports",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നേമം നിയോജക മണ്ഡലത്തിലെ പൂങ്കുളം മൈതാനം  നിര്‍മ്മാണം",
+            "implementing_agency": "അഡിഷണൽ ഡയറക്ടർ, സ്പോർട്സ് ആൻഡ് യൂത്ത് അഫേഴ്സ് തിരുവനന്തപുരം.",
+            "category": "Sports",
+            "fy": "2025-2026",
+            "estimate_lakhs": 32.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നേമം നിയോജക മണ്ഡലത്തിലെ കരമന ഗവ.ഗേള്‍സ്‌ ഹൈ സ്കൂള്‍ ഗ്രൗണ്ട്  നിര്‍മ്മാണം",
+            "implementing_agency": "അഡിഷണൽ ഡയറക്ടർ, സ്പോർട്സ് ആൻഡ് യൂത്ത് അഫേഴ്സ് തിരുവനന്തപുരം.",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 29.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Improvement Of Chanalkara road- Thirumangalam road -Kochpi vila road under Thiruvananthapuram corporation in Nemom LAC",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 55.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Karamana River Basin- Imprvovements to the balikadavu near Thrivikramangalam Mahavishnu Temple on right bank of Karamana river in Nemom LAC",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ്  എഞ്ചിനീയർ, വൻകിട ജലസേചന വിഭാഗം , തിരുവനന്തപുരം",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Balance work for the completion of Govt HSLPS Pappanamcode",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി. ബിൽഡിംഗ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചാല ഗവണ്‍മെന്റ് ഐ.ടി,ഐ യില്‍ അഡിറ്റീവ് മാനുഫാക്ചറിംഗ് ടെക്നീഷ്യന്‍ ട്രേഡില്‍ കമ്പ്യൂട്ടര്‍ ലാബ്‌ സ്ഥാപിക്കല്‍",
+            "implementing_agency": "ജനറൽ മാനേജർ, കേരളാ  സ്റ്റേറ്റ്  ഇലക്ട്രോണിക് ഡെവലപ്മെന്റ്  കോർപറേഷൻ ലിമിറ്റഡ്  (കെൽട്രോൺ)",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 32.63,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Road connecting Kalpaga Gardens ,Krishna nagar -Construction of new drain and road in   Kalpaga Gardens in Nemom LAC",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.9,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Finishing work in New building at  Aramada LPS",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി. ബിൽഡിംഗ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of side wall & covering slab in kariyil thodu near neelattinkara in kamaleswaram ward",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, മൈനർ ഇറിഗേഷൻ ഡിവിഷൻ,തിരുവനന്തപുരം",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 76.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Improvements to cherukara chadiyara  Thodu for controlling Flood At poojappura ward",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, മൈനർ ഇറിഗേഷൻ ഡിവിഷൻ,തിരുവനന്തപുരം",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 38.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF SIDE WALL AND COVERING SLAB IN KARIYIL THODU NEAR EAST SIDE OF PARAVANKUNNU BRIDGE AT NILAMA IN AMBALATHARA WARD IN THIRUVANANTHAPURAM  CORPORATION",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, മൈനർ ഇറിഗേഷൻ ഡിവിഷൻ,തിരുവനന്തപുരം",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 61.51,
+            "concurrence_lakhs": 61.51
+        },
+        {
+            "project_name": "Improvement to existing thodu and construction of covering slab at KBAC line -Ganga nagar  in kamaleswaram ward",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, മൈനർ ഇറിഗേഷൻ ഡിവിഷൻ,തിരുവനന്തപുരം",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 73.17,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of side drain and allied works at Pulimoodu line starting from karalakada poonthura road in Nemom lac",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 22.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "IMPROVEMENTS BY PROVIDING 40mm CC TO VIJAYAMOHINI MILL JUNCTION TO VATTAVILA ROAD IN NEMOM LAC",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 65.4,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നേമം നിയോജക മണ്ഡലത്തിലെ പാപ്പനം കോട് ഹൈസ്കൂൾ ഒന്നാം നില നിർമാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി. ബിൽഡിംഗ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "janatha samajam liabrary-construction of second floor of janatha samajam liabrary in punchakari ward",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി. ബിൽഡിംഗ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 43.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ആറാമട എൽ.പി സ്പുകൂളിലെ പുതിയ കെട്ടിടത്തിൻെറ ഒന്നാംനില നിർമാണത്തിൻെറ പൂർത്തീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി. ബിൽഡിംഗ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 75.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ആറാമട എൽ.പി.എസ് പുതിയ കെട്ടിടത്തിൻെറ ഒന്നാം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി. ബിൽഡിംഗ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 75.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "construction of first floor building for government HSLP school pappanamcode",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി. ബിൽഡിംഗ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 75.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "BALANCE WORK FOR THE COMPLETION OF FIRST FLOOR OF GOVERNMENT LPS KOLIYAKKODE IN NEMOM LAC",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി. ബിൽഡിംഗ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "RESURFACING MUTTALAKUZHY KARIKKADUVILA ROAD USING 20MM CC AND ALLIED WORKS IN NEMOM LAC",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.8,
+            "concurrence_lakhs": 22.8
+        },
+        {
+            "project_name": "construction of drain and allied works in punchakkari library road in nemom LAC",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 44.14,
+            "concurrence_lakhs": 44.14
+        },
+        {
+            "project_name": "നേമം നിയോജക മണ്ഡലത്തിലെ ശ്രീ.ചക്രത്തിൽ ശിവ ക്ഷേത്രത്തിന് സമീപം തൃക്കണ്ണാപുരം വാർഡിലെ ആലും മൂട് കടവിന് സമീപം കരമനയാറിൻെറ പാർശ്വഭിത്തി കെട്ടലും,നടപ്പാത നവീകരണവും",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, ഇറിഗേഷൻ ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 27.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നേമം നിയോജക മണ്ഡലത്തിലെ മുടവൻ മുഗൾ വാർഡിലെ സൌത്ത് റോഡ് കടവിന് സമീപം കരമനയാറിൻെറ പാർശ്വഭിത്തി നിർമാണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, ഇറിഗേഷൻ ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 24.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "CHERUKARA-CHADIYARA-ROAD -RE CONSTRUCTION OF DAMAGED OLD SIDE DRAIN WALL,IMPROVEMENT OF RIGHT SIDE APPROCH ROAD NO 2 AFTER ANGANWADI IN CHERUKARA-CHADIYARA ROAD CIVIL WORK",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 14.5,
+            "concurrence_lakhs": 14.5
+        },
+        {
+            "project_name": "IMPROVEMENTS TO PORTION OF KARIYIL THODU INCLUDING CONSTRUCTION OF COVERING SLAB AT KABC LANE-GANGA NAGAR IN KAMALESWARAM WARD",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, മൈനർ ഇറിഗേഷൻ ഡിവിഷൻ,തിരുവനന്തപുരം",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 73.17,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അമ്പലത്തറ വാര്‍ഡിലെ നവോദയ റോഡിന്‍റെയും ഓടയുടെയും നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 22.0
+        },
+        {
+            "project_name": "നേമം നിയോജകമണ്ഡലത്തിലെ കരമന ആറിന്‍റെ വലതു വശത്ത് ത്രിവിക്രമംഗലം മഹാവിഷ്ണു ക്ഷേത്രത്തിന് അടുത്തായി  ടോയിലെറ്റ്‌ കോംപ്ലെക്സ്,ബലിക്കടവിനു റീറ്റൈന്‍ വാള്‍ നിര്മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, ഇറിഗേഷൻ ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        },
+        {
+            "project_name": "നേമം നിയോജകമണ്ഡലത്തിലെ ആറാമട എല്‍.പി സ്കൂളിലെ പുതിയ കെട്ടിടത്തിന്‍റെ ഒന്നാം നില നിര്‍മ്മാണം",
+            "implementing_agency": "ചീഫ് എഞ്ചിനീയർ, പി ഡബ്ള്യു ഡി ബിൽഡിംഗ്സ് ഡിവിഷൻ",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 75.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ആറ്റുകാല്‍ വാര്‍ഡിലെ അര്‍ബന്‍ കമ്മ്യുണിറ്റി ഹെല്‍ത്ത്‌ സെന്റര്‍ നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി. ബിൽഡിംഗ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 200.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നേമം നിയോജകമണ്ഡലത്തിലെ തളിയല്‍ മഹാദേവക്ഷേത്രം റോഡ്‌ നിര്‍മ്മാണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 39.44,
+            "concurrence_lakhs": 39.44
+        },
+        {
+            "project_name": "നേമം നിയോജകമണ്ഡലത്തിലെ അങ്ങേക്കോണം മുതല്‍  എറത്ത് തമ്പുരാന്‍കുളം (ലങ്ക കുളം) റോഡ്‌ നവീകരണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 35.44,
+            "concurrence_lakhs": 35.44
+        },
+        {
+            "project_name": "തിരുവനന്തപുരം നഗരസഭയിലെ ചെറുകര - ചാടിയറ റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "നേമം പോലീസ് സ്റ്റേഷനില്‍ പോലീസുക്കാര്‍ക്ക് വിശ്രമിക്കുന്നതിന് കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി. ബിൽഡിംഗ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        },
+        {
+            "project_name": "നേമം നിയോജകമണ്ഡലത്തിലെ എസ്റ്റേറ്റ്‌ വാര്‍ഡിലെ സത്യന്‍ നഗറില്‍ സ്റ്റേഡിയം നിര്‍മ്മാണം",
+            "implementing_agency": "അഡിഷണൽ ഡയറക്ടർ, സ്പോർട്സ് ആൻഡ് യൂത്ത് അഫേഴ്സ് തിരുവനന്തപുരം.",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പൂജപ്പുര വാര്‍ഡിലെ ശാസ്താ നഗറില്‍ റോഡുകളുടെ പുനരുദ്ധാരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 14.6,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പുഞ്ചക്കരി വാര്‍ഡിലെ ജനതാസമാജം ഗ്രന്ഥശാലയ്ക്ക് മന്ദിരം നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി. ബിൽഡിംഗ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 55.0,
+            "concurrence_lakhs": 55.0
+        },
+        {
+            "project_name": "പൂജപ്പുര വാര്‍ഡിലെ പാങ്ങോട് വിവേകാനന്ദ നഗറില്‍ റോഡുകളുടെ നിര്‍മ്മാണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 42.3,
+            "concurrence_lakhs": 42.3
+        },
+        {
+            "project_name": "തിരുവഴിമുക്ക് മുതല്‍ പുഞ്ചകരി വായനശാല ജംഗ്ഷന്‍ വരെയുള്ള ഇടങ്ങളില്‍ ഓട നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 76.37,
+            "concurrence_lakhs": 76.37
+        },
+        {
+            "project_name": "പുന്നയ്ക്കാമുഗള്‍ വാര്‍ഡിലെ അംബേദ്‌കര്‍ നഗറിലെ ഓട നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 14.2,
+            "concurrence_lakhs": 14.2
+        },
+        {
+            "project_name": "പൂങ്കുളം വാര്‍ഡിലെ ചാമുണ്ഡേശ്വരി ക്ഷേത്രം റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 25.63
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "shri_v_sivankutty_placeholder"
+}

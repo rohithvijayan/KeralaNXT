@@ -1,0 +1,633 @@
+{
+    "mla_name": "Shri K. Babu",
+    "constituency": "THRIPUNITHURA",
+    "district": "Ernakulam",
+    "summary": {
+        "total_expenditure_crores": 22.2375,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 9.255
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 4.297
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 2.5388
+            },
+            {
+                "label": "Others",
+                "value_crores": 2.4075
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 1.9345
+            },
+            {
+                "label": "Education",
+                "value_crores": 1.6531
+            },
+            {
+                "label": "Water Supply",
+                "value_crores": 0.1516
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "New Building for G.U.P.S-Palluruthy in Division -14 of Kochi Municipal Corportion",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 99.99,
+            "concurrence_lakhs": 99.99
+        },
+        {
+            "project_name": "Construction of Assembly Hall for Govt. J.B.School,Nadakkavu Udayamperoor G.P",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "Construction of Class Rooms (2 Rooms-First Floor) to Govt. J.B.School,Kandanad-Udayamperoor G.P",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 27.7,
+            "concurrence_lakhs": 27.7
+        },
+        {
+            "project_name": "dd",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 100.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "Interlock tile paving at South Bund Road in Division  16 of Maradu Municipality",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "Supply & Installation of High Mast at 2, Mini Mast Lights at 2 locations in Kochi Municipal Corporation- Thripunithura LAC",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.2,
+            "concurrence_lakhs": 15.2
+        },
+        {
+            "project_name": "Supply & Installation of High Mast at 1, Mini Mast Lights at 9 locations in Thripunithura Municipality- Thripunithura LAC",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.73,
+            "concurrence_lakhs": 25.73
+        },
+        {
+            "project_name": "Construction of Hall above A.K.G. Smaraka Library at Ameda Jn,-Udayamperoor Panchayath",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 22.25,
+            "concurrence_lakhs": 20.12
+        },
+        {
+            "project_name": "Construction of  New Block for Govt. Thaluk Hospital- Thripunithura-Second Phase( First Floor )",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Healthcare",
+            "fy": "2024-2025",
+            "estimate_lakhs": 366.17,
+            "concurrence_lakhs": 366.17
+        },
+        {
+            "project_name": "Supply & Installation of High Mast, Mini Mast Lights at 10 locations in UDAYAMPEROOR G.P- Thripunithura LAC",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 27.89,
+            "concurrence_lakhs": 27.89
+        },
+        {
+            "project_name": "Supply & Installation of High Mast, Mini Mast Lights at 4 locations in Maradu Municipality",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 11.73,
+            "concurrence_lakhs": 11.73
+        },
+        {
+            "project_name": "Providing INTERLOCKING TILES  to ANGANWADI ROAD in Udayamperoor Gramapanchayatah , Ward-2",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "Construction of a new building for CHEPPANAM KUDUMBAKSHEMA UPAKENDRAM (P.H.C-Subcentre-Cheppanam) in Kumbalam Gramapanchayatah , Ward-5",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 34.78,
+            "concurrence_lakhs": 34.78
+        },
+        {
+            "project_name": "Providing  Interlocking Tile  to   CHEMMAYATH ROAD (WARD 7 ) IN UDAYAMPEROOR Gramapanchayath",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.7,
+            "concurrence_lakhs": 10.7
+        },
+        {
+            "project_name": "Providing  Interlocking Tile  to   CHEMMAYATH BYE-LANE ROAD (WARD 7 ) IN UDAYAMPEROOR Gramapanchayath",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 14.98,
+            "concurrence_lakhs": 14.98
+        },
+        {
+            "project_name": "Providing CC interlocking tile in NADUTHURUTHU BHARATH RANI ROAD Ward 12 in  KUMBALAM  Gramapanchayath",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "Construction of Drain and Providing CC Interlocking Tile  in  JANATHA-OLLARI ROAD (WARD 7 & 8) IN KUMBALAM Panchayath",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "Purchase of additional equipments  for PHYSIOTHERAPY UNIT of Thaluk Hospital-Palluruthy",
+            "implementing_agency": "THE DISTRICT MEDICAL OFFICER, ERNAKULAM",
+            "category": "Healthcare",
+            "fy": "2024-2025",
+            "estimate_lakhs": 14.93,
+            "concurrence_lakhs": 14.93
+        },
+        {
+            "project_name": "INTERLOCK TILING AT KATTITHARA ROAD IN DIVISION NO. 09 OF MARAD MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF NEW BUILDING FOR UDAYAMPEROOR POLICE STATION",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 27.11,
+            "concurrence_lakhs": 27.11
+        },
+        {
+            "project_name": "SOUTH AND NORTH ROADS OF ERANATTU VANADURGA TEMPLE INTERLOCK TILE PAVING IN DIV 19 OF  KOCHI CORPORATION",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "PROVIDING INTERLOCKING TILES-SREE POORNNATHREYISSA KSHETHRAM -KSEB-KALIKKOTTA PALACE ROAD",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 13.8,
+            "concurrence_lakhs": 13.8
+        },
+        {
+            "project_name": "PROVIDING INTERLOCKING TILES TO RAINBOW RESIDENTS ROAD IN UDAYAMPEROOR GP WARD 5 IN TRIPPONITHURA LAC",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "PROVIDING INTERLOCKING TILES TO ANJILIKKAL BYLANE ROAD AND MEKKEVELY PULLUKKATTU ROAD  WARD 14 OF UDAYAMPEROOR GP IN TRIPPONITHURA LAC",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "PROVIDING INTERLOCKING TILES TO KALLAMMATTIL ROAD IN UDAYAMPEROOR GP WARD 17 IN TRIPPONITHURA LAC",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "IMPROVEMENTS TO NK KRISHNAN ROAD IN WARD 17 OF UDAYAMPEROOR GP",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 11.45,
+            "concurrence_lakhs": 11.45
+        },
+        {
+            "project_name": "SUPPLY INSTALLION TESTING AND COMMISIONING  OF 8 MTR  MINIMAST WITH 5 NOS OF 150W LED FLOOD LIGHTS & 10 MTR HIGHMAST LIGHT WITH 6 NOS OF 200W LED FLOOD LIGHTS AT VARIOUS LOCATIONS IN THRIPPUNITHURA LAC",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 19.97,
+            "concurrence_lakhs": 19.97
+        },
+        {
+            "project_name": "SUPPLY AND INSTALLION OF MINIMAST LIGHT (8 MTR OCTAGONAL POLE WITH 5  NOS OF 150W LED FLOOD LIGHTS) &  HIGHMAST LIGHT (10 MTR WITH 6 NOS OF 200W LED FLOOD LIGHTS) AT VARIOUS LOCATION IN KUMABALAM PACHYATH AND MARADU MUNCIPLAITY IN THRIPPUNITHURA LAC",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 23.05,
+            "concurrence_lakhs": 23.05
+        },
+        {
+            "project_name": "SUPPLY AND INSTALLION OF 13  NOS OF 8 MTR MINIMAST LIGHT WITH 5 NOS OF  150 W & 10 MTR HIGHMAST LIGHT WITH 6 NOS OF 200W LED FLOOD LIGHTS  AT VARIOUS LOCATION IN THRIPPUNITHURA LAC",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 32.88,
+            "concurrence_lakhs": 32.88
+        },
+        {
+            "project_name": "CONSTRUCTION OF TOILET BLOCK & ENTRANCE ARCH WITH GATE GOVT KMUP SCHOOL EROOR",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.05,
+            "concurrence_lakhs": 18.05
+        },
+        {
+            "project_name": "CONSTRUCTION OF ANGANWADY AT UDAYAMPEROOR GP WARD NO 10",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.1,
+            "concurrence_lakhs": 18.1
+        },
+        {
+            "project_name": "SUPPLY AND INSTALLION OF HIGHMAST/MINIMAST LIGHTS AT VARIOUS LOCATION IN THRIPPUNITHURA LAC",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 37.0,
+            "concurrence_lakhs": 37.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF SAMASKARIKA NILAYAM AT DIV 25-TRIPONITHURA LAC-MARADU MUNCIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF NEW BUILDING FOR MANGAYIL HSS IN MARADU MUNCIPALITY IN DIV 17 GENERAL CIVIL WORK",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 73.9,
+            "concurrence_lakhs": 73.9
+        },
+        {
+            "project_name": "LAC ADS-2023 Improvements to Madathikkattu road-Phase 1 ward 8 Udayamperoor Panchayath- Thrippunithura Constituency",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.98,
+            "concurrence_lakhs": 10.98
+        },
+        {
+            "project_name": "Mathali Road Tiling in  ward 11 ofKumbalamGP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "Class rooms  Construction at Mangayil High School in Div 17  Maradu Muncipality",
+            "implementing_agency": "Municipal Engineer,Maradu Municipality",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 61.0,
+            "concurrence_lakhs": 61.0
+        },
+        {
+            "project_name": "Construction of Kitchenblock LFUP School South Paravoor  Udayamperoor Panchayath  Tripunithura",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "Providing Interlocking Tile and Drainage facility in Puthussery  Road ward 19 of Thripunithura Muncipality Thripunithura Constituency",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.52,
+            "concurrence_lakhs": 12.52
+        },
+        {
+            "project_name": "Providing Interlocking Tile and Cover slabs to kunnel Road -Udayamperoor GP ward 15  Thripunithura Constituency",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 23.2,
+            "concurrence_lakhs": 23.2
+        },
+        {
+            "project_name": "Interlock TIle Paving at Society road12-13 and Nellickal Theeradesa Road Tile Paving and Drain Construction Diviision 15",
+            "implementing_agency": "Municipal Engineer,Maradu Municipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 44.09,
+            "concurrence_lakhs": 44.09
+        },
+        {
+            "project_name": "Construction Drain and lane concreting at Padavamparambu Road in ward 17 of Udayamperoor GO",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 17.3,
+            "concurrence_lakhs": 17.3
+        },
+        {
+            "project_name": "Construction of Thenali Road ward2 ,Mainapilly Road w-17,Siva Temple Road w-16,Koppanalil Road w-14,St Antonys Road w-6,PKM Road w-9 of Kumbalam GP- General  Civi work",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 73.0,
+            "concurrence_lakhs": 73.0
+        },
+        {
+            "project_name": "INTERLOCK TILE PAVING AND CULVERT CONSTRUCTION IN KULIRMA LANE DIVISION 14,17 AND INTERLOCK TILES PAVING AT AYYAPPANMASTER ROAD IN DIVISION 22",
+            "implementing_agency": "Municipal Engineer,Maradu Municipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 29.36,
+            "concurrence_lakhs": 29.36
+        },
+        {
+            "project_name": "Providing interlocking tile and cover slabs in Udayagiri Road in ward 2  og Udayamperoor GP  Thripunithura  Constituency",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 34.5,
+            "concurrence_lakhs": 34.5
+        },
+        {
+            "project_name": "Mulanthuruthy Block Vezhapparambupadam Road  Ward 5  Udayamperoor GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.98,
+            "concurrence_lakhs": 11.98
+        },
+        {
+            "project_name": "Laying 63mm PVC Pipe(6kg/cm2) at Sakthinagar & Pulikkathara lane near Convent Division no 19 of Tripunithura Muncipality",
+            "implementing_agency": "EXECUTIVE ENGINEER ,WATER SUPPLY DIVISION K.W.A. KOCHI",
+            "category": "Water Supply",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.16,
+            "concurrence_lakhs": 15.16
+        },
+        {
+            "project_name": "Interlock Tile Paving,Footpath and Handrail in Champakkara Canal Road in Division 2,3,4 in Maradu Muncipality",
+            "implementing_agency": "Municipal Engineer,Maradu Municipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 69.0,
+            "concurrence_lakhs": 69.0
+        },
+        {
+            "project_name": "DRAIN CONSTRUCTION AT PWD ROAD DIV 32- MARADU MUNCIPALITY",
+            "implementing_agency": "Municipal Engineer,Maradu Municipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.64,
+            "concurrence_lakhs": 12.64
+        },
+        {
+            "project_name": "Tile Paving Culvert Construction Kulirma  Lane Road in Div 14,17",
+            "implementing_agency": "Municipal Engineer,Maradu Municipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.65,
+            "concurrence_lakhs": 12.65
+        },
+        {
+            "project_name": "Panorama Road Drain Raising and Tile in Div 21",
+            "implementing_agency": "Municipal Engineer,Maradu Municipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "Tile Paving Society Road in Div 12,13",
+            "implementing_agency": "Municipal Engineer,Maradu Municipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "Tile Paving Ayyappan Road in Div 22",
+            "implementing_agency": "Municipal Engineer,Maradu Municipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 14.72,
+            "concurrence_lakhs": 14.72
+        },
+        {
+            "project_name": "Interlock Tile Paving Footpath and Handrail in Champakara Canal Road in Div2,3,4",
+            "implementing_agency": "Municipal Engineer,Maradu Municipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 63.5,
+            "concurrence_lakhs": 63.5
+        },
+        {
+            "project_name": "Nellikkal Theeradesa Road Tile  Paving and Drain Maintenance in Div 15",
+            "implementing_agency": "Municipal Engineer,Maradu Municipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.63,
+            "concurrence_lakhs": 16.63
+        },
+        {
+            "project_name": "Construction of Drain and Lane concreting in Padavanparambu Road in w -17 of Udayamperoor GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.42,
+            "concurrence_lakhs": 16.42
+        },
+        {
+            "project_name": "Providing drainage facility in venatt road (east side of gurumaheswara temple) and by road in ward 2 of Thripunithura Muncipality",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD ROADS & BRIDGES DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 13.1,
+            "concurrence_lakhs": 13.1
+        },
+        {
+            "project_name": "\"Paving Interlocking Tile and Construction of Drain at Vyloppilly Lane in Div 17\"",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "Paving Interlocking tiles and construction of  Drain at Vylopilly Lane in Div 17",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of  cross drain,raising of drain bye lane tile paving and BM &BC tarring at Choice Road in Division 14",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "Paving Interlocking Tile at Canoza Nagar Road in Division 16",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "Tile paving work in Thachiruparambil Road in ward 42 of  Thrippunithura Muncipality",
+            "implementing_agency": "ASSISTANT EXECUTIVE ENGINEER TRIPUNITHURA MUNICIPALITY",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "Paving Interlocking Tiles and construction  of Drain  at Vyloppilly Lane in Div 17",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "Tile paving at St.Antony's road Division 15 of Kochi Corporation",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 33.33,
+            "concurrence_lakhs": 33.33
+        },
+        {
+            "project_name": "Tile Pavering ,Rennovation of drain and proving covering slab for Thejus Lane in Division No.19, Palluruthy, Kochi Corporation",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 12.25,
+            "concurrence_lakhs": 12.25
+        },
+        {
+            "project_name": "Improvements to Keerikkattil road under Tripunithura Muncipality ward 48",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.25,
+            "concurrence_lakhs": 10.25
+        },
+        {
+            "project_name": "Providing interlocking tile and drain in Maniyara Mankayikadavu Road in Udayamperoor Grama Panchayath ward no 19",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 11.5,
+            "concurrence_lakhs": 11.5
+        },
+        {
+            "project_name": "Providing interlocking tile and reconstruction of damaged drain in Priya Nagar Road in Ward no 19 of Tripounithura Muncipality",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 16.81,
+            "concurrence_lakhs": 16.81
+        },
+        {
+            "project_name": "Constructing Anganwady in Division No 6 of Maradu Muncipality",
+            "implementing_agency": "Municipal Engineer,Maradu Municipality",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 18.5,
+            "concurrence_lakhs": 18.5
+        },
+        {
+            "project_name": "MLA ADS 2021-22 Maradu Mankayil School Roof Work Division No.17 of Maradu Municipality",
+            "implementing_agency": "Municipal Engineer,Maradu Municipality",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 13.31,
+            "concurrence_lakhs": 13.31
+        },
+        {
+            "project_name": "Construction of mortuary building for thaluk Hospital Palluruthy",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Healthcare",
+            "fy": "2021-2022",
+            "estimate_lakhs": 48.6,
+            "concurrence_lakhs": 48.6
+        },
+        {
+            "project_name": "Reconstruction of damaged drain from kottoth road to ambattu lane ( opposit Family health center labour junction-eroor)",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "Improvements of west road near Poornathrayeesha temple in Thripunithura",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 28.09,
+            "concurrence_lakhs": 28.09
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "ernakulam_shri_k_babu_placeholder"
+}

@@ -1,0 +1,721 @@
+{
+    "mla_name": "Shri Anoop Jacob",
+    "constituency": "PIRAVOM",
+    "district": "Ernakulam",
+    "summary": {
+        "total_expenditure_crores": 19.4775,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 10.4546
+            },
+            {
+                "label": "Others",
+                "value_crores": 2.67
+            },
+            {
+                "label": "Education",
+                "value_crores": 2.0851
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 1.55
+            },
+            {
+                "label": "Water Supply",
+                "value_crores": 0.68
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.61
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.5
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.5
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 0.4278
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "Construction of New building for G.U.PS Onakkoor South-Ward 8-Pambakkuda GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 70.0,
+            "concurrence_lakhs": 70.0
+        },
+        {
+            "project_name": "Elanjippalli-Kurumuttam road- Elanji  GP-Ward 9",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "Construction of Bridge across- MVIP Canal to Kulangrappadi- Paruthippally-Nagar of Ward-1-Elanji G.P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "Eruveli- Thuppumpady- Vettikkal road- Chottanikkara  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "Vitherikkavu Road in ward 5 of Amballoor G.P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "Construction of Drain and Renovation of Vayalil Road in Tripunithura Municipality-Division- 23.",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "Amballoor  Manthuruthel Palli road Culvert Re-Construction",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "Providing Pumping  Line,  Tank & Tank Stand for JOSEGIRI NELLIKKATHANAM WATER SUPPLY SCHEME  in Elanji GP-",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Water Supply",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "Cheerkkattupara-Chathanpadam- Pambrakkavala road construction  in Maneed GP- Ward-12",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "KANNANKULAM Thodu side protection works-Division-8  in Piravom Municipality",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "Construction of  New building for Chethikode Ksheerolpadaka Sahakarana Sangham – (E206(D)-APCOS)-Edakkattuvayal G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "Construction of  MILMA Hall at First Floor of existing building ( Pampakkuda Diary Co-operative Society- E39(D)-APCOS)",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CHOTTANIKKARA Jn. roadside Handrail & Walkway-PWD Road side",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.0,
+            "concurrence_lakhs": 11.0
+        },
+        {
+            "project_name": "ETTUPARATHODU –CROSSOTH Road in                          Ward- 12- Amballoor GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 19.0,
+            "concurrence_lakhs": 19.0
+        },
+        {
+            "project_name": "BUS STAND Renovation in MULANTHURUTHY Grama Panchayath",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "Constsruction of New Building to  Anganwadi No.65 in Amballoor Grama Panchcayath-Ward-15",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "Anjalppetty- Alinchuvadu  Road in Pambakkuda G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "Construction of Palaykkathadam Road in Div-2-Koothattukulam Municipality",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "Korenkadavu- Vellathara approach road & side protection works- Ramamangalam  G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "Kargil Junction- Muttappillil Road-Div-12-Koothattukulam Municipality",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "Anattelthazham Chavadukalayilthazham Road-Pampakuda GP-MLA-ADS-PVM",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "Reconstruction of Vettiyodi Bridge in Elanji G P-Ward-5",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 27.0,
+            "concurrence_lakhs": 27.0
+        },
+        {
+            "project_name": "പിറവം മുനിസിപ്പാലിറ്റിയിൽ കക്കാട് ഗവ. യു.പി.എസ്.ന് പുതിയ വാഹനം വാങ്ങുന്നതിന് (മഹേന്ദ്ര 20 സീറ്റുള്ളത്)",
+            "implementing_agency": "Deputy Director (Education)Ernakulam",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 21.0,
+            "concurrence_lakhs": 21.0
+        },
+        {
+            "project_name": "Memmugham Kalathanathazham-Thadaykkankavu Ezhuppuram Road-in Ward-8 of Maneed G P- Piravom-LAC",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "EZHUKKAMATTAM AYYANTHANAM ROAD IN WARD 1,2 IN PAMBAKKUDA G P-",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "Punnachottilpadi-Pazhemadathilthazham- Road-  in Ward 2 of Edakkattuvayal G P - Piravom -LAC",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "KAARAKKATTUKUNNIL-HOLY MARY CONVENT ROAD IN WARD 3 of  MULAMTHURUTHY GRAMA PANCHAYATH-PIRAVOM LAC",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "COMPLETION OF PANCHAYATH OFFICE-Edakkattuvayal Grama Panchayath-Ward-3",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 70.0,
+            "concurrence_lakhs": 70.0
+        },
+        {
+            "project_name": "Construction of Anganawadi(No.21) in Ward 28- Maradu Municipality",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "Impovements(Concreting-Tiling) to Poliyapra Padashekaram road in Ward-12 Elanji GramaPanchayath",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "Construction works ( Interlock Tile) to Manakkapadi- Kuriyanippady road in Ward-25 Piravom Municipality-",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "VAYALWARAM  Road- (concreting & Tiling)  in Ward 1 of Chottanikkara Grama Panchayath",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "CHIRAKKADA KUNNEL KOTTA Road  in Ward 6&7 of Ramamagalam  Grama Panchayath",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "Canal Bund Road at ward 13 of Thirumaradi Grama Panchayath",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "KAKKAD JUNCTION PUMP HOUSE ROAD in Div 2- Piravom Municpality",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ARIYAPPURAM DRINKING WATER PROJECT(PIPE LINE & ALLIED WORKS)in Ward No.11 of Thirumarady G P & Ward No. 8 & 9 of Pambakkuda G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Water Supply",
+            "fy": "2024-2025",
+            "estimate_lakhs": 36.0,
+            "concurrence_lakhs": 36.0
+        },
+        {
+            "project_name": "SIDE WALL PROTECTION WORKS TO PAMPAKUDA RELIFT CANAL AT KASHYAMALA NEAR SECOND SYPHON INCLUDING THE PROVISION OF CUT AND COVER SLABS IN WARD NO.1 OF PAMPAKUDA GRAMA PANCHAYATH IN PIRAVOM LAC",
+            "implementing_agency": "EXECUTIVE ENGINEER ,MINOR IRRIGATION DIVISION,ERNAKULAM",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "AZAD SCHOOLPADI-KACHERIKKUZHITHAZHAM-MILMAPADI Road in Ward 13 of Maneed GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "VANIYATH ROAD IN WARD 7 of MULANTHURUTHY G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "-Construction of Volley Ball Court in Ward 13 of Elanji G P-(Kollamkulam)-25 Lakhs",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "Rejunavatiion of Pazhutrikkovil Temple Pond- Ward 13- Maneed G P",
+            "implementing_agency": "EXECUTIVE ENGINEER ,MINOR IRRIGATION DIVISION,ERNAKULAM",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "1) പാമ്പാക്കുട ഗ്രാമപഞ്ചായത്തിലെ മേമ്മുറി ഗവ.എല്‍.പി.സ്കൂള്‍  2) തിരുമാറാടി ഗ്രാമപഞ്ചായത്തിലെ കാക്കൂര്‍  ഗവ .എല്‍.പി.സ്കൂള്‍- എന്നീ സ്ചൂളുകള്‍ക്ക് ബസ്‌ വാങ്ങുക എന്ന പ്രവൃത്തി",
+            "implementing_agency": "Deputy Director (Education)Ernakulam",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 35.51,
+            "concurrence_lakhs": 35.51
+        },
+        {
+            "project_name": "Retarring of Thalakkodu Thuppumpady Karikkeththazham road and Mary Makkormakku road in W-7of Chottanikkara GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "RECONSTRUCTION OF MULATHUKUNNEL BRIDGE, WARD 12 ,THIRUMARADY G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "PUTHENKUDILIL DRINKING WATER PROJECT IN DIVISION -11 OF KOOTHATTUKULAM MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Water Supply",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "KUDILITHAZHAM MANAKKATHAZHAM ROAD IN WARD NO.13 OF PAMPAKKUDA G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "TARRING OF MAROTTIKKUNNU KARIYILATHODU ROAD IN WARD 6 PIRAVAM MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 27.0,
+            "concurrence_lakhs": 27.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF RETAINING WALL AT J P NAGAR IN WARD 6 OF KOOTHATTUKULAM MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "KAARITHADAM KATTAMTHAZHAM ROAD IN WARD 8 OF EDAYKKATTUVAYAL GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF NEW BUILDING FOR MANEED LP SCHOOL IN MANEED GRAMAPACHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 75.0,
+            "concurrence_lakhs": 75.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF KUMMATHA ROAD IN DIVISION NO 18 PIRAVOM MUNCIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "RENOVATION OF ARAYANKAVU MARKET IN AMBALLOOR GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 65.0,
+            "concurrence_lakhs": 65.0
+        },
+        {
+            "project_name": "ONE PANCHAYATH ONE PLAY GROUND-DEVELOPMENT OF PLAYGROUND AT MANEED PANCHAYATH IN PIRAVOM LAC",
+            "implementing_agency": "Director,Sports & Youth Affairs, Vellayambalam, Thiruvananthapuram",
+            "category": "Sports",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF ANGANWADY NO. 110 IN WARD 11 OF MANEED GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "IMPROVEMENTS TO CHETTIKKANDAM CHIRAPPATTUTHAZHAM ROAD WARD 2,3 PAMBAKKUDA GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "IMPROVEMENTS TO ONAKKOR PALLIPPADY KIRATHAMANGALAM ROAD  WARD 10, PAMBAKKUDA GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "IMPROVEMENTS TO ONAKKOR PALLIPPADY KIRATHAMANGALAM ROAD WARD 10,PAMBAKKUDA GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "SITC OF OF 3 NOS OF 8 MTR MINI MAST LIGHT WITH 5*120W,13 NOS OF 8 MTR MINIMAST LIGHT WITH 6*150 W &12 MTR HIGH MAST WITH 4*200 W LED FLOOD LIGHTS AT VARIOUS LOCATIONS IN PIRAVOM LAC",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 42.78,
+            "concurrence_lakhs": 42.78
+        },
+        {
+            "project_name": "SUNDAY SCHOOLPADY KULANGARA NAMBOOTHIRIMALA ROAD (TARRING & PAVING TILE) WARD 23 IN PIRAVOM MUNCIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 23.5,
+            "concurrence_lakhs": 23.5
+        },
+        {
+            "project_name": "CONSTRUCTION OF PAREMATTAM VALIYAPADAM LEADING CHANNEL IN WARD 12 OF MANEED GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "SCHOOL BUS PURCHASING-FOR GUPS MEMMURY & GLPS KAKKOOR",
+            "implementing_agency": "Deputy Director (Education)Ernakulam",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 27.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "PVIP-CONSTRUCTING  A BRIDGE ACROSS  KANJIRAMATTOM MD at Ch: I.740 KM IN MANEED  GRAMA Panchayath General Civil Work",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF CHEPPANAM THAZHAM ROAD IN WARD 11 OF MULATHURUTHY GP- GENERAL CIVIL WORK",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "TARRING AND SIDE PROTECTION WORKS OF KAMBIVELIKKAKAM ROAD IN WARD 1 OF CHOTTANIKKARA GRAMAPANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF ASANPADI AMBALAMCHIRA ROAD IN WARD 2 OF MANEED GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF NEW BUILDING FOR MANNATHOOR LP SCHOOL-THIRUMARADY GP- GENERAL CIVIL WORK",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CHELLAKKAPADI AYURVEDA HOSPITAL NEW BUILDING CONSTRUCTION",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "Chembattuthazham Polakkulam road in ward 9 of Chottanikkara Grama Panchayat",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "Anthyal Katteparambilthazham road tarring-Division No 15 of Piravom Muncipality",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "Interlocking tile laying and side protection works in Keechery puthenpurakkal by road (No70 Anganwady road) in Amballur GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "WSS2 Maneed and Mulanthuruthy-Design,supply,erection and trial running of pressure filter of 50000 LPH and allied works at WTP, Maneed to improve water supply in Mulanthuruthy Panchayat-Pipeline work",
+            "implementing_agency": "EE KWA PH Division Muvattupuzha",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA ADS 2022-23 - CONSTRUCTION OF NEW OFFICE BUILDING FOR EDAKKATTUVAYAL GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 75.0,
+            "concurrence_lakhs": 75.0
+        },
+        {
+            "project_name": "Construction of Kakkad  Attutheeram Road in Division No 1  Piravom  Muncipality",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "Kizhakkanadithazham  -Pullolikkulam Road Pampakkuda  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "Tarring  of  Chalimala  Road  Kunjelipadam Road in ward 8 of Mulanthuruthy GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "Construction of Drain in Santhi Nagar Road in ward 14 of  Chottanikkara Grama Panchayath",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 13.96,
+            "concurrence_lakhs": 13.96
+        },
+        {
+            "project_name": "Koorkkapadam Colony  Road in ward 3 of AmballoorGP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "Pazhoor Puthenpurapady Namboorimala  Raod Division 23,24  Piravom Muncipality",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "Interlock tile Paving and COnstruction of Drain Irish Drain at Sreekrishna swami Kshethram road near Hotel  Aryas  in  ward No 16 of Thripunithura  Muncipaity",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "Kollikkal Thekkamala Kombanamala water Tank Road Interlock Tile Laying in Div 12 Piravom Muncipality",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "MVIP Canal Bund Road Anthyal Colony- Maanam Kannezhath Thazham Road in Ward No.01 & 13 of Elanji Grama Panchayath",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "Tile Paving works of Perumkutty Nadupparambil (Vengassery) Road Divisionn No 12 in Koothattukulam Muncipality",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 11.0,
+            "concurrence_lakhs": 11.0
+        },
+        {
+            "project_name": "MLA ADS Elakkattupady Chembalapady Road Division 5 Piravom Muncipality",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "ernakulam_shri_anoop_jacob_placeholder"
+}

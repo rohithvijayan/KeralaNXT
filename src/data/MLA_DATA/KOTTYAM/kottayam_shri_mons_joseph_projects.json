@@ -1,0 +1,857 @@
+{
+    "mla_name": "Shri Mons Joseph",
+    "constituency": "KADUTHURUTHY",
+    "district": "Kottayam",
+    "summary": {
+        "total_expenditure_crores": 22.6406,
+        "breakdown": [
+            {
+                "label": "Others",
+                "value_crores": 12.5656
+            },
+            {
+                "label": "Road",
+                "value_crores": 4.135
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 2.07
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 1.66
+            },
+            {
+                "label": "Water Supply",
+                "value_crores": 0.89
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.75
+            },
+            {
+                "label": "Education",
+                "value_crores": 0.57
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "മാഞ്ഞൂർ ഗ്രാമപഞ്ചായത്തിലുളള ചാമക്കാലാ സെന്‍റ് ജോൺസ് എൽ.പി സ്കൂളിന് കഞ്ഞിപ്പുര നിർമ്മിക്കുന്നത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മേമ്മുറി പറക്കാട്ടുകുഴി-വട്ടത്തട്ടേൽ ലിഫ്റ്റ് ഇറിഗേഷൻ ജലസേചന പദ്ധതി നടപ്പിലാക്കുന്നതിന്",
+            "implementing_agency": "Minor Irrigation",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കടുത്തുരുത്തി സെന്റർ  ജംഗ്ഷനിൽ ബസ് കാത്തിരിപ്പു്  കേന്ദ്രം നിർമ്മിക്കുന്നത്",
+            "implementing_agency": "BLOCK DEVELOPMENT OFFICER ,KADUTHURUTHY",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മണ്ണൂക്കുന്ന് –മുളക്കുളം  അമ്പലപ്പടി   റോഡിലെ നിർമ്മാണ പ്രവർത്തനങ്ങൾ നടപ്പാക്കുന്നതിനും കനാൽ വീതി കൂട്ടി നിർമ്മിക്കുന്നതിനും",
+            "implementing_agency": "Minor Irrigation",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "താമരക്കാട്-വൈക്കത്തുമല റോഡ്  റീ ടാറിംഗ് വാർഡ്-5 വെളിയന്നൂർ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കുറവിലങ്ങാട്  ഗ്രാമ പഞ്ചായത്തിലെ പള്ളിത്താഴെ- ബാലഭവന്‍ - കടുവാക്കുഴി റോഡിന്‍റെ റീടാറിംഗ്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 19.31,
+            "concurrence_lakhs": 19.31
+        },
+        {
+            "project_name": "കടുത്തുരുത്തി ബ്ലോക്കിന്‍റെ പരിധിയില്‍  ഞീഴൂര്‍ -മുളക്കുളം ഗ്രാമ പഞ്ചായത്തുകളെ ബന്ധിപ്പിക്കുന്ന കാഞ്ഞിരത്തുംമൂട്-ചരളേല്‍ - വെള്ളൂത്താനം ജവഹര്‍ ജംഗ്ഷന്‍ ഗ്രാമീണ റോഡിന്‍റെ റീടാറിംഗ്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "മുളക്കുളം ഗ്രമപ്പഞ്ചായത്ത് വാര്‍ഡ്‌: 07 -ല്‍ ഉള്‍പ്പെട്ട പെരുവ - ചെത്തുകുന്ന് - മരങ്ങോലില്‍ MVIP സബ്കനാല്‍ റോഡ്‌ ടാറിംഗ് പ്രവൃത്തി നടപ്പിലാക്കല്‍",
+            "implementing_agency": "MVIP",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "മുളക്കുളം ഗ്രാമപ്പഞ്ചായത്തിലെ പെരുവ മൂര്‍ക്കാട്ടിപ്പടി ജങ്ക്ഷനു സമീപത്ത് സ്ഥിതിചെയ്യുന്ന പെരുവ ഗവ: ഐ.ടി.ഐ-യുടെ അടിസ്ഥാന സൗകര്യ വികസന പ്രവര്‍ത്തനങ്ങള്‍ നടപ്പാക്കല്‍",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കടപ്ലാമറ്റം ഗ്രമപ്പഞ്ചായത്തിലെ ഒന്നാം വാര്‍ഡില്‍ ഉള്‍പ്പെട്ട ചമ്പനോലി - കാരിക്കാട്ടോരം റോഡ്‌ നിര്‍മ്മാണ പദ്ധതി",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ഉഴവൂര്‍ ഗ്രാമപ്പഞ്ചായത്തിലുള്ള മോനിപ്പള്ളി ജങ്ക്ഷനില്‍ MC റോഡിനോടു ചേര്‍ന്ന് വെയ്റ്റിംഗ് ഷെഡ്‌ & ബസ്സ്‌ ബേ നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മുളക്കുളം ഗ്രാമപ്പഞ്ചായത്തിലെ പൂഴിക്കോല്‍ 55-ആം നമ്പര്‍ അംഗന്‍വാടിയുടെ കെട്ടിടം നിര്മ്മാ ണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മുളക്കുളം ഗ്രാമപ്പഞ്ചായത്തിലെ പൂഴിക്കോല്‍-ഷാപ്പുംപടി -പാറെപ്പടി റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "മുളക്കുളം ഗ്രാമപ്പഞ്ചായത്തില്‍ പ്രവര്‍ത്തിക്കുന്ന ചിറപ്പുറം 53-ആം നമ്പര്‍ അംഗന്‍വാടിയുടെ കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കടുത്തുരുത്തി നിയോജകമണ്ഡലത്തിലെ വിവിധ സ്ഥലങ്ങളില്‍ ഹൈമാസ്റ്റ് & മിനിമാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കല്‍",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 72.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കടുത്തുരുത്തി നിയോജകമണ്ഡലത്തിലെ ഉഴവൂര്‍ ബ്ലോക്ക് പഞ്ചായത്തിന്‍റെ പരിധിയില്‍ ഉള്‍പ്പെടുന്ന വിവിധ സ്ഥലങ്ങളില്‍ മിനി മാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കല്‍",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 92.25,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കടുത്തുരുത്തി നിയോജകമണ്ഡലത്തിലെ വിവിധ സ്ഥലങ്ങളില്‍ മിനിമാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കല്‍",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 76.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മുളക്കുളം ഗ്രമപ്പഞ്ചായത്തിലെ പൂഴിക്കോല്‍ സെന്‍റ് മാര്‍ത്താസ് യു.പി സ്കൂളിന് പാചകപ്പുര നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "തേങ്ങാരം കുടിവെള്ള പദ്ധതിക്കുവേണ്ടി ടാങ്ക് നിര്‍മ്മാണം, പൈപ്പ് ലൈന്‍ സ്ഥാപിക്കല്‍, മോട്ടോര്‍ സ്ഥാപിക്കല്‍ ഉള്‍പ്പെടെയുള്ള പ്രവൃത്തികള്‍ നടപ്പിലാക്കല്‍, വാര്‍ഡ്‌: 03, കടപ്ലാമറ്റം ഗ്രമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Water Supply",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കിടങ്ങൂര്‍ ഗ്രാമപ്പഞ്ചായത്തിലെ വാര്‍ഡ്‌: 09-ല്‍ ഉള്‍പ്പെട്ട എല്‍.പി.ജി സ്കൂള്‍ തലക്കാമറ്റം റോഡ്‌ കോണ്‍ക്രീറ്റിംഗ്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കറുത്തേടത്ത്പടി - ശിവകുളങ്ങര റോഡിന്‍റെ കോണ്‍ക്രീറ്റിംഗ് ഉള്‍പ്പെടെയുള്ള നിര്‍മ്മാണ പ്രവര്‍ത്തനങ്ങള്‍, വാര്‍ഡ്‌: 14, കിടങ്ങൂര്‍ ഗ്രാമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "കടപ്ലാമറ്റം ഗ്രാമപ്പഞ്ചായത്ത് വാര്‍ഡ്‌: 12-ല്‍ ഉള്‍പ്പെട്ട  ചിറപ്പാട് നെല്ലിക്കുന്ന് റോഡില്‍ ചിറപ്പാട് കാട്ടാമ്പള്ളി റോഡ്‌ റീ ടാറിംഗ് ചെയ്യല്‍",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കടുത്തുരുത്തി ബ്ലോക്ക് പഞ്ചായത്ത് ആസ്ഥാന മന്ദിരം നിര്‍മ്മാണം - രണ്ടാം ഘട്ടം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മാഞ്ഞൂര്‍ ഗ്രാമപ്പഞ്ചായത്തിന്‍റെ കെട്ടിട നിര്‍മ്മാണം പൂര്‍ത്തീകരിക്കുന്നതിന്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "സംസ്ഥാന സര്ക്കാഷരിന്റെ ഒരു പഞ്ചായത്തില്‍ ഒരു കളിക്കളം പദ്ധതി പ്രകാരം കടുത്തുരുത്തി നിയോജകമണ്ഡലത്തിലെ കടപ്ലാമറ്റം ഗ്രാമപ്പഞ്ചായത്ത് സ്റ്റേഡിയത്തിന്(ആസ്തിവികസന ഫണ്ടില്‍ നിന്നും 50 ലക്ഷം + സര്ക്കാ്ര്‍ വിഹിതമായ 50 ലക്ഷം )",
+            "implementing_agency": "സ്പോർട്സ് കേരള ഫൗണ്ടേഷൻ",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ഉഴവൂര്‍ OLL ഹയര്‍സെക്കന്‍ഡറി സ്കൂളില്‍ ടോയ്‌ലറ്റ് ബ്ലോക്ക് നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മരങ്ങാട്ടുപള്ളി ഗ്രാമപ്പഞ്ചായത്തിലെ ശ്രീകൃഷ്ണ വൊക്കേഷണല്‍ ഹയര്‍സെക്കന്‍ഡറി സ്കൂള്‍, കുറിച്ചിത്താനത്തിന് പാചകപ്പുര നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഉഴവൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ മോനിപ്പള്ളി ജങ്ക്ഷന് സമീപത്തു നിന്ന് ആരംഭിക്കുന്ന മുക്കട - മുതുകുളംമല - പുനമ്പുങ്കല്‍ റോഡിന്‍റെ റീ ടാറിംഗ്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കടുത്തുരുത്തി വില്ലേജ് ഓഫീസ് പ്രവര്‍ത്തിപ്പിക്കുന്നതിന് വേണ്ടിയുള്ള അടിസ്ഥാന സൗകര്യ വികസനം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 21.0,
+            "concurrence_lakhs": 21.0
+        },
+        {
+            "project_name": "കാരിക്കോട് തലക്കല്‍ ഞാറുകുന്ന് റോഡ്‌ നിര്‍മ്മാണം, മുളക്കുളം ഗ്രാമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കണ്ണംകേരികുന്ന്‍ - എഴുപ്പള്ളിത്താഴം റോഡ്‌ നിര്‍മ്മാണം, മുളക്കുളം ഗ്രാമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 11.0,
+            "concurrence_lakhs": 11.0
+        },
+        {
+            "project_name": "പൂക്കാട്ടേല്‍ മണ്ണൂക്കുന്ന് റോഡ്‌ നിര്‍മ്മാണം, മുളക്കുളം ഗ്രാമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "കടപ്ലാമറ്റം ഗ്രാമപ്പഞ്ചായത്തിലെ വാര്‍ഡ്‌: 06 -ല്‍ ഉള്‍പ്പെട്ട പള്ളത്തുകുഴി റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കളത്തൂര്‍ കവല - പള്ളിത്താഴം റോഡ്‌ നിര്‍മ്മാണം, വാര്‍ഡ്‌: 08, മാഞ്ഞൂര്‍ ഗ്രാമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "തുറവക്കല്‍ - ആലക്കാപ്പള്ളി റോഡിന്‍റെ റീ ടാറിംഗ്, വാര്‍ഡ്‌:09, മരങ്ങാട്ടുപള്ളി ഗ്രാമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "ഞീഴൂര്‍ ഗ്രാമപ്പഞ്ചായത്തിലെ വാര്‍ഡ്‌: 12 -ല്‍ ഉള്‍പ്പെട്ട മാളേക്കല്‍ - തൂമ്പനാപറമ്പ് റോഡ്‌ ടാറിംഗ്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പള്ളിനിരപ്പ് - ചെമ്മഞ്ചി - ഐക്കരക്കണ്ടം റോഡിന്‍റെ പ്രവൃത്തി നടപ്പിലാക്കല്‍, വാര്‍ഡ്‌: 17, മുളക്കുളം ഗ്രാമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കാക്കശ്ശേരിപ്പടി - മുട്ടം റോഡിന്‍റെ നവീകരണം, വാര്‍ഡ്‌: 12, മാഞ്ഞൂര്‍ ഗ്രാമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "വാലാച്ചിറ - ചാക്കിരിമുക്ക് റോഡ്‌ റീ ടാറിംഗ്, വാര്‍ഡ്‌: 11, കടുത്തുരുത്തി ഗ്രാമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "കോണ്‍വെന്‍റ് - കക്കത്തുമല - കുരിശുപള്ളി റോഡിന്‍റെ റീ ടാറിംഗ്, വാര്‍ഡ്‌: 12, കടുത്തുരുത്തി ഗ്രാമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "ഞീഴൂര്‍ ഗ്രാമപ്പഞ്ചായത്ത് കമ്മ്യൂണിറ്റി ഹാള്‍ അടിസ്ഥാന സൗകര്യ വികസനം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "മുളക്കുളം ഗ്രാമപ്പഞ്ചായത്തിലെ പൂഴിക്കോല്‍ സെന്‍റ് മാര്‍ത്താസ് യു.പി സ്കൂളിന് ടോയ്ലറ്റ് ബ്ലോക്ക് നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മുളക്കുളം ഗ്രാമപ്പഞ്ചായത്തിലെ വാര്‍ഡ്‌: 10-ല്‍ ഉള്‍പ്പെട്ട കാരിക്കോട് - തലക്കല്‍ - ഞാറുകുന്നു റോഡ്‌ കോണ്‍ക്രീറ്റിംഗ്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "എല്‍.പി.ജി സ്കൂള്‍ - തലക്കാമറ്റം റോഡ് കോണ്‍ക്രീറ്റിംഗ്,വാര്‍ഡ് 09,കിടങ്ങൂര്‍ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഉഴവൂര്‍ പള്ളിക്കവലയില്‍ ബസ് കാത്തിരിപ്പ് കേന്ദ്രം ,ഉഴവൂര്‍ ഗ്രാമപഞ്ചായത്ത്-",
+            "implementing_agency": "PWD Roads",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മുളക്കുളം ഗ്രാമപ്പഞ്ചായത്തിലെ പെരുവ ഗവ: ഗേള്‍സ്‌ ഹയര്‍സെക്കന്‍ഡറി സ്കൂളിലെ ഹൈസ്കൂള്‍ വിഭാഗത്തിന് ടോയലറ്റ് ബ്ലോക്ക് നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കടപ്ലാമറ്റം ഗ്രാമപ്പഞ്ചായത്തിലെ വാര്‍ഡ്‌: 13 -ല്‍  ചേരവേലിപ്പാലം പുനര്‍നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കടപ്ലാമറ്റം ഗ്രാമപ്പഞ്ചായത്ത് മിനി സിവില്‍ സ്റ്റേഷന്‍ കെട്ടിട നിര്‍മ്മാണം രണ്ടാം ഘട്ടം വികസനം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 100.0,
+            "concurrence_lakhs": 99.94
+        },
+        {
+            "project_name": "മുതിരക്കാല കുടിവെള്ള വിതരണ പദ്ധതിക്കുവേണ്ടി ടാങ്ക് നിര്‍മ്മാണം, വാര്‍ഡ്‌: 07, കാണക്കാരി ഗ്രാമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Water Supply",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മുളക്കുളം ഗ്രാമപ്പഞ്ചായത്തിലെ അവര്‍മ ഗവ: എല്‍.പി സ്കൂളിന്‍റെ അടിസ്ഥാന സൗകര്യ വികസന നിര്‍മ്മാണ പ്രവൃത്തി നടപ്പിലാക്കല്‍",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഉഴവൂര്‍ ഗ്രാമപ്പഞ്ചായത്തിലെ ഉഴവൂര്‍ പള്ളിക്കവലയില്‍ വെയ്റ്റിംഗ് ഷെഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഞീഴൂര്‍ ഗ്രാമപ്പഞ്ചായത്തിലെ വാര്‍ഡ്‌ : 12 -ല്‍ ഉള്‍പ്പെട്ട പാഴുതുരുത്ത് - തിരുവമ്പാടി റോഡിന്‍റെ ടാറിംഗ് പ്രവൃത്തി നടപ്പാക്കുന്നതിനും, മൂപ്പനത്തുചിറ പാലത്തിന്‍റെ അപ്രോച്ച് റോഡ്‌ ടാറിംഗ് നടത്തുന്നതിനും",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കാണക്കാരി ഗ്രാമപ്പഞ്ചായത്തിലെ വാര്‍ഡ്‌: (13, 14)-ല്‍ ഉള്‍പ്പെട്ട കല്ലമ്പാറ - ഓണംതുരുത്ത് റോഡിന്‍റെ റീ ടാറിംഗ്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "വെളിയന്നൂര്‍ ഗ്രാമപ്പഞ്ചായത്തിലെ പുതുവേലി ക്ഷീരോല്‍പാദക സംഘത്തിന്‍റെ കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "കുറിച്ചിത്താനം - അമ്പലപ്പടി - പാറക്കണ്ടം റോഡിന്‍റെ ടാറിംഗ് & കലിങ്ക് നിര്‍മ്മാണം, മരങ്ങാട്ടുപള്ളി ഗ്രാമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഞീഴൂര്‍ വിശ്വഭാരതി SN HSS സ്കൂളിന് ടോയ്ലെറ്റ് ബ്ലോക്ക് നിര്‍മ്മാണം, കടുത്തുരുത്തി നിയോജകമണ്ഡലം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഞീഴൂര്‍ വിശ്വഭാരതി SN HSS സ്കൂളിന് ടോയ്‌ലെറ്റ് ബ്ലോക്ക് നിര്‍മ്മാണം, കടുത്തുരുത്തി നിയോജകമണ്ഡലം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഞീഴൂര്‍ ഗ്രാമപ്പഞ്ചായത്ത് വാര്‍ഡ്‌:08-ല്‍ പുന്നത്താനം പാലം നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "കാണക്കാരി ഗ്രാമപ്പഞ്ചായത്തിലെ ചിറക്കുളം - മധുരം - പൂങ്കാവനം പദ്ധതിയുടെ ഒന്നാം ഘട്ടം നടപ്പാക്കല്‍",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ഉഴവൂര്‍ കെ ആര്‍ നാരായണന്‍ സ്പെഷ്യാലിറ്റി ആശുപത്രിയുടെ മോഡുലാര്‍ ഓപറേഷന്‍ തീയേറ്ററിന്‍റെ ഇലക്ട്രിക്കല്‍ വര്‍ക്കുകള്‍ ഉള്‍പ്പെടെയുള്ള അടിസ്ഥാന സൗകര്യ വികസനം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Healthcare",
+            "fy": "2023-2024",
+            "estimate_lakhs": 98.0,
+            "concurrence_lakhs": 98.0
+        },
+        {
+            "project_name": "കൂടല്ലൂര്‍ ഗവ. കുടുംബാരോഗ്യ കേന്ദ്രം ആശുപത്രിയുടെ ഐ.പി ബ്ലോക്കിന്റെപ നിര്മ്മാുണ പ്രവര്ത്ത്നവും ആശുപത്രിയുടെ പ്രവേശന കവാടത്തിലെ കമാനവും ഉള്പ്പെകടെയുള്ള അടിസ്ഥാന സൗകര്യ വികസനം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Healthcare",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കടുത്തുരുത്തി ഗ്രാമപ്പഞ്ചായത്തിലെ വാര്‍ഡ്‌ : 04 -ല്‍ 34-ആം നമ്പര്‍ (കെ.എസ് പുരം - മങ്ങാട്ട് കര) അംഗന്‍വാടിക്ക് കെട്ടിടം നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മുട്ടുചിറ സെന്‍റ്. ആഗ്നസ് ഹൈസ്കൂളില്‍ പാചകപ്പുര നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കുറവിലങ്ങാട് പഞ്ചായത്ത് 10-ആം വാര്‍ഡിലുള്ള അരുവിക്കല്‍ ശിവ സുബ്രഹ്മണ്യസ്വാമി ക്ഷേത്രത്തിന്റെയും, ചാലപ്പള്ളി ശ്രീകൃഷ്ണ സ്വാമി ക്ഷേത്രത്തിന്‍റെയും സമീപത്തുള്ള നസ്രത്ത് ഹില്‍ - ചാലപ്പള്ളി കൊച്ചുതോടിന്റെ വലതുകരയുടെ സംരക്ഷണഭിത്തി നിര്‍മ്മാണത്തിനും, കടവ് നിര്‍മ്മിക്കുന്നതിനും.",
+            "implementing_agency": "Minor Irrigation",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ആപ്പാന്‍ചിറ ഗവ: ഹരിജന്‍ വെല്‍ഫെയര്‍ എല്‍.പി സ്കൂളിന് വാഹനം വാങ്ങല്‍",
+            "implementing_agency": "Deputy Director Of Education",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കിടങ്ങൂര്‍ - പിറയാര്‍ - കൂടല്ലൂര്‍ - കടപ്ലാമറ്റം റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "PWD Roads",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "മുളക്കുളം പഞ്ചായത്തിലെ പൂഴിക്കോല്‍ സെന്റ്റ. മാര്ത്താ സ് യു.പി സ്കൂളിന് കഞ്ഞിപ്പുര നിര്മ്മാ ണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മുളക്കുളം പഞ്ചായത്തിലെ പൂഴിക്കോല്‍ സെന്‍റ്. മാര്‍ത്താസ് യു.പി സ്കൂളിന് ടോയ്ലെറ്റ് ബ്ലോക്ക് നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഉഴവൂര്‍ ഗ്രാമപ്പഞ്ചായത്തിലെ മോനിപ്പള്ളി ടൌണ്‍ ബസ്സ്‌ ബേ നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മുളക്കുളം ഗ്രാമപ്പഞ്ചായത്തിലെ പൂഴിക്കോല്‍ 54-ആം നമ്പര്‍ അംഗന്‍വാടിക്ക് പുതിയ കെട്ടിടം നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പൂഴിക്കോല്‍ സെന്റ്‌. ലൂക്സ് എല്‍.പി സ്കൂളിന്‍റെ പാചകപ്പുരയും, ഉച്ചഭക്ഷണ കേന്ദ്രവും നിര്‍മ്മാണം.",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പെരുംകുറ്റി സാംസ്‌കാരിക നിലയത്തോട് അനുബന്ധിച്ച് ഓപ്പണ്‍ സ്റ്റേജ് നിര്‍മ്മാണം, വാര്‍ഡ്‌: 08, വെളിയന്നൂര്‍ ഗ്രാമപ്പഞ്ചായത്ത്.",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഉഴവൂര്‍ ഗ്രാമപ്പഞ്ചായത്തിലെ മോനിപ്പള്ളി-വിലങ്ങുപ്പാറ-പയസ്മൗണ്ട് റോഡിന്‍റെ നിര്‍മ്മാണ പ്രവര്‍ത്തനങ്ങള്‍ക്ക്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "അടിച്ചില്‍പ്പാറ - പരമ്ബ്രം റോഡിന്‍റെ റീ-ടാറിംഗ്, വാര്‍ഡ്‌: 08, കടുത്തുരുത്തി ഗ്രാമപ്പഞ്ചായത്ത്.",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കടുത്തുരുത്തി ജലഭവൻ ഓഫീസ് സമുച്ചയത്തിൽ ഡിവിഷൻ ഓഫീസ് നിർമ്മാണം",
+            "implementing_agency": "Kerala Water Authority",
+            "category": "Water Supply",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "കീഴൂർ ഗവ: എൽ.പി സ്‌കൂളിന് വാഹനം വാങ്ങൽ (ഐഷർ മിനി വാൻ 22 സീറ്റ്)",
+            "implementing_agency": "Deputy Director Of Education",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 22.0
+        },
+        {
+            "project_name": "ഉഴവൂർ - ഇഞ്ചെനാട്ട് - വെട്ടം - വാക്കേൽ റോഡിന്റെ വികസനം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കലിഞ്ഞാലി - കാരാടി റോഡിൽ ഊളക്കാവിൽപ്പടി മുതൽ കാരാടി ഭാഗം വരെ റോഡ് റീ ടാറിംഗ്, വാർഡ് : 13, കാണക്കാരി ഗ്രാമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഒറ്റത്തെങ്ങാടി കരയോഗം റോഡിൻറെ വികസനം, ഉഴവൂർ ഗ്രാമപ്പഞ്ചായത്ത്.",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കല്ലുമട- ആപ്പാഞ്ചിറ റോഡ് റീടാറിങ്ങും കലിംഗ് നിർമാണവും",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കടുത്തുരുത്തി ഗ്രാമപഞ്ചായത്ത് 18ആം  വാർഡിലുള്ള തത്തപ്പള്ളി വേണുഗോപാല അന്തിമഹാകാള ക്ഷേത്രകുളം നവീകരണം",
+            "implementing_agency": "Minor Irrigation",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "മുളക്കുളം ഗ്രാമപഞ്ചായത്ത് പൂഴിക്കോൽ വാർഡിലെ ആയുർവേദ ഡിസ്‌പെൻസറി മന്ദിരം നിർമാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കടപ്ലാമറ്റം ഗ്രാമപഞ്ചായത്ത് മിനി സിവിൽ സ്റ്റേഷൻ നിർമാണം രണ്ടാം ഘട്ടം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മാഞ്ഞൂർ ഗ്രാമപഞ്ചായത്ത് ഓഫീസ് കെട്ടിട നിർമാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "മുളക്കുളം ഗ്രാമപഞ്ചായത്തിലെ നാട്ടുപ്ലാക്കിൽ- കുരക്കാല റോഡ്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.5,
+            "concurrence_lakhs": 10.5
+        },
+        {
+            "project_name": "മുളക്കുളം ഗ്രാമപഞ്ചായത്തിലെ സി.എസ്.ഐ. ചർച്ഛ്-കലങ്ങോട്ടിൽ റോഡ്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.5,
+            "concurrence_lakhs": 10.5
+        },
+        {
+            "project_name": "മുളക്കുളം ഗ്രാമപഞ്ചായത്തിലെ ചിറപ്പുറം -വയലാക്കൽ - പുതുക്കുളങ്ങര റോഡ് കോൺക്രീറ്റിംഗ്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.5,
+            "concurrence_lakhs": 11.5
+        },
+        {
+            "project_name": "കടുത്തുരുത്തി നിയോജക മണ്ഡലത്തിലെ ഞീഴൂർ ഐ.എച്.ആർ.ഡി. കോളേജ് ഓഫ് അപ്ലൈഡ് സയൻസിന് ബസ് വാങ്ങൽ",
+            "implementing_agency": "പ്രിൻസിപ്പൽ, ഐ.എച്.ആർ.ഡി. കോളേജ് ഓഫ് അപ്ലൈഡ് സയൻസ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 23.66
+        },
+        {
+            "project_name": "കാണക്കാരി ഗ്രാമപഞ്ചായത്തിലെ ജർമ്മൻ കുടിവെള്ള പദ്ധതിയുടെ നിർമാണ പ്രവർത്തനങ്ങൾ",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Water Supply",
+            "fy": "2021-2022",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "കടുത്തുരുത്തി ബ്ലോക്ക് പഞ്ചായത്ത് ആസ്ഥാന മന്ദിരം നിർമാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 75.0,
+            "concurrence_lakhs": 75.0
+        },
+        {
+            "project_name": "കടുത്തുരുത്തി നിയോജകമണ്ഡലത്തിലെ മരങ്ങാട്ടുപള്ളി പി.എച്.സി യുടെ അടിസ്ഥാന സൗകര്യ വികസനം.",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കടുത്തുരുത്തി നിയോജക മണ്ഡലത്തിലെ ഉഴവൂർ കെ.ആർ.എൻ.എം.എസ്. ആശുപത്രിയുടെ അടിസ്ഥാന സൗകര്യ വികസനം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 34.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കടപ്ലാമറ്റം ഗ്രാമപഞ്ചായത്തിലെ കുണുക്കുംപാറ  സാംസ്കാരിക നിലയം നിർമ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കടുത്തുരുത്തി ഗ്രാമപഞ്ചായത്തിലെ മധുരവേലി ഇൻഫന്റ് ജീസസ് എൽ.പി.സ്‌കൂൾ കഞ്ഞിപ്പുര നിർമാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കുറുപ്പുന്തറ സെന്റ്.സേവിയേഴ്‌സ് വൊക്കേഷണൽ ഹയർ സെക്കണ്ടറി സ്‌കൂളിന് ടോയ്ലറ്റ് ബ്ലോക്ക് നിർമാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മുളക്കുളം  ഗ്രാമപഞ്ചായത്തിലെ അവർമ ലക്ഷംവീട് കോളനി  റോഡ് നിർമാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുണുക്കുംപാറ ഭാഗത്ത് സാംസ്കാരിക നിലയം നിർമ്മാണം,വാർഡ് 3,കടപ്ലാമറ്റം ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കറുത്തേടത്ത്പടി - ശിവകുളങ്ങര റോഡ് കോൺക്രീറ്റിംഗ്, വാർഡ് 14,കിടങ്ങൂർ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മുളക്കുളം ഗ്രാമപഞ്ചായത്തിലെ കണ്ണംഗേരികുന്ന് -എഴുപ്പള്ളിത്താഴം, ആനിക്കാട്ടുപടി- മണ്ണുകുന്ന് റോഡുകളുടെ   കോൺക്രീറ്റിംഗ്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുറവിലങ്ങാട് ബൈപാസിൽ   കലിംഗ്  നിർമാണം",
+            "implementing_agency": "PWD Roads",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "കുറവിലങ്ങാട് ബൈപാസിൽ  കലിംഗ്  നിർമാണം",
+            "implementing_agency": "PWD Roads",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "kottayam_shri_mons_joseph_placeholder"
+}

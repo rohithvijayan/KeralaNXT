@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>MLA Fund Insights - Landing Page</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#13ecb2",
+                        "background-light": "#f8faf9",
+                        "background-dark": "#10221d",
+                    },
+                    fontFamily: {
+                        "display": ["Plus Jakarta Sans", "sans-serif"]
+                    },
+                    borderRadius: { "DEFAULT": "0.5rem", "lg": "1rem", "xl": "1.5rem", "full": "9999px" },
+                },
+            },
+        }
+    </script>
+    <style>
+        .glass-card {
+            background: rgba(255, 255, 255, 0.7);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(19, 236, 178, 0.2);
+        }
+
+        .dark .glass-card {
+            background: rgba(16, 34, 29, 0.7);
+            border: 1px solid rgba(19, 236, 178, 0.1);
+        }
+
+        .gradient-border {
+            position: relative;
+            background: linear-gradient(135deg, #13ecb2, #ffd700);
+            padding: 1px;
+        }
+
+        .gradient-text {
+            background: linear-gradient(135deg, #0d9b75, #b8860b);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+    </style>
+</head>
+
+<body class="bg-background-light dark:bg-background-dark font-display text-slate-900 dark:text-slate-100 min-h-screen">
+    <div class="max-w-[480px] mx-auto min-h-screen flex flex-col pb-10">
+        <!-- Header -->
+        <header
+            class="flex items-center justify-between px-6 py-6 sticky top-0 z-50 bg-background-light/80 dark:bg-background-dark/80 backdrop-blur-md">
+            <div class="flex items-center gap-2">
+                <div class="bg-primary p-1.5 rounded-lg">
+                    <span class="material-symbols-outlined text-background-dark text-xl">account_balance</span>
+                </div>
+                <h1 class="text-lg font-extrabold tracking-tight">MLA Fund Insights</h1>
+            </div>
+            <button class="material-symbols-outlined p-2 rounded-full bg-slate-200/50 dark:bg-slate-800">search</button>
+        </header>
+        <main class="px-6 flex flex-col gap-8">
+            <!-- Hero Bento Card -->
+            <section class="gradient-border rounded-xl">
+                <div class="glass-card rounded-[calc(0.75rem-1px)] p-6 flex flex-col items-center text-center gap-4">
+                    <p class="text-xs font-bold uppercase tracking-widest text-slate-500 dark:text-slate-400">Total
+                        State Fund Utilization</p>
+                    <h2 class="text-5xl font-extrabold gradient-text">₹2,450 Cr</h2>
+                    <p class="text-sm text-slate-600 dark:text-slate-300 leading-relaxed max-w-[280px]">
+                        Aggregated development fund tracking across all constituencies.
+                    </p>
+                    <div class="flex gap-2 mt-2">
+                        <span
+                            class="px-3 py-1.5 bg-primary/20 text-primary text-[10px] font-bold rounded-full border border-primary/30">140
+                            MLAs</span>
+                        <span
+                            class="px-3 py-1.5 bg-amber-500/20 text-amber-600 text-[10px] font-bold rounded-full border border-amber-500/30">14
+                            Districts</span>
+                        <span
+                            class="px-3 py-1.5 bg-blue-500/20 text-blue-600 text-[10px] font-bold rounded-full border border-blue-500/30">8
+                            Sectors</span>
+                    </div>
+                </div>
+            </section>
+            <!-- Top Districts -->
+            <section class="flex flex-col gap-4">
+                <div class="flex justify-between items-end">
+                    <h3 class="text-xl font-bold">Top Performing Districts</h3>
+                    <a class="text-xs font-semibold text-primary" href="#">View All</a>
+                </div>
+                <div class="grid grid-cols-1 gap-4">
+                    <!-- Ernakulam -->
+                    <div
+                        class="bg-white dark:bg-slate-900/50 p-4 rounded-xl border border-slate-100 dark:border-slate-800 flex flex-col gap-3">
+                        <div class="flex justify-between items-start">
+                            <div class="flex items-center gap-3">
+                                <div
+                                    class="size-10 bg-amber-400 rounded-lg flex items-center justify-center font-bold text-white text-lg">
+                                    1</div>
+                                <div>
+                                    <p class="font-bold">Ernakulam</p>
+                                    <p class="text-xs text-slate-500">Gold Tier Performance</p>
+                                </div>
+                            </div>
+                            <p class="text-lg font-bold text-amber-500">98%</p>
+                        </div>
+                        <div class="w-full bg-slate-100 dark:bg-slate-800 h-2 rounded-full overflow-hidden">
+                            <div class="bg-amber-400 h-full w-[98%]"></div>
+                        </div>
+                    </div>
+                    <!-- TVM -->
+                    <div
+                        class="bg-white dark:bg-slate-900/50 p-4 rounded-xl border border-slate-100 dark:border-slate-800 flex flex-col gap-3">
+                        <div class="flex justify-between items-start">
+                            <div class="flex items-center gap-3">
+                                <div
+                                    class="size-10 bg-slate-400 rounded-lg flex items-center justify-center font-bold text-white text-lg">
+                                    2</div>
+                                <div>
+                                    <p class="font-bold">Thiruvananthapuram</p>
+                                    <p class="text-xs text-slate-500">Silver Tier Performance</p>
+                                </div>
+                            </div>
+                            <p class="text-lg font-bold text-slate-500">94%</p>
+                        </div>
+                        <div class="w-full bg-slate-100 dark:bg-slate-800 h-2 rounded-full overflow-hidden">
+                            <div class="bg-slate-400 h-full w-[94%]"></div>
+                        </div>
+                    </div>
+                    <!-- Kozhikode -->
+                    <div
+                        class="bg-white dark:bg-slate-900/50 p-4 rounded-xl border border-slate-100 dark:border-slate-800 flex flex-col gap-3">
+                        <div class="flex justify-between items-start">
+                            <div class="flex items-center gap-3">
+                                <div
+                                    class="size-10 bg-orange-600/70 rounded-lg flex items-center justify-center font-bold text-white text-lg">
+                                    3</div>
+                                <div>
+                                    <p class="font-bold">Kozhikode</p>
+                                    <p class="text-xs text-slate-500">Bronze Tier Performance</p>
+                                </div>
+                            </div>
+                            <p class="text-lg font-bold text-orange-700/70">91%</p>
+                        </div>
+                        <div class="w-full bg-slate-100 dark:bg-slate-800 h-2 rounded-full overflow-hidden">
+                            <div class="bg-orange-600/70 h-full w-[91%]"></div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- Top MLAs -->
+            <section class="flex flex-col gap-4">
+                <h3 class="text-xl font-bold">Top Performing MLAs</h3>
+                <div class="flex flex-col gap-3">
+                    <!-- MLA Card 1 -->
+                    <div
+                        class="flex items-center justify-between p-3 bg-white dark:bg-slate-900/50 rounded-xl border border-slate-100 dark:border-slate-800">
+                        <div class="flex items-center gap-3">
+                            <div class="relative">
+                                <img class="size-12 rounded-full border-2 border-primary"
+                                    data-alt="Profile photo of MLA 1"
+                                    src="https://lh3.googleusercontent.com/aida-public/AB6AXuDspnsLRP2sOw0zzKrJb-qvvqhw0A2xN_JskepU-1400OJFqaDGVETj3QtlUp3CTVHpayYTXH9NxHnRfqkCBL4fCNI4-fI-KEB-UP76PkU65ZzsjtgBMHouiJJpwDzGob_QencZxMFKIH20nJJiHbXwlYVcC7itJgMmgrxg5_5731Yuj93sgPX4QYin-wwD5bTwVE3CCCrZmGaoVdwtzvjrWJ7M5jx6cZM9HYx8XzUPQ4JVPmOF-EqO6NGI1DyRhOPCbAGKI29gbSo" />
+                                <span
+                                    class="absolute -top-1 -right-1 bg-amber-400 text-white text-[10px] size-5 rounded-full flex items-center justify-center font-bold border-2 border-white">1</span>
+                            </div>
+                            <div>
+                                <p class="font-bold text-sm">P. Rajeev</p>
+                                <p class="text-[10px] text-slate-500 uppercase tracking-tighter">Kalamassery</p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <p class="text-primary font-bold text-base">₹24.8 Cr</p>
+                            <p class="text-[10px] text-slate-400">Fund Spent</p>
+                        </div>
+                    </div>
+                    <!-- MLA Card 2 -->
+                    <div
+                        class="flex items-center justify-between p-3 bg-white dark:bg-slate-900/50 rounded-xl border border-slate-100 dark:border-slate-800">
+                        <div class="flex items-center gap-3">
+                            <div class="relative">
+                                <img class="size-12 rounded-full border-2 border-slate-200"
+                                    data-alt="Profile photo of MLA 2"
+                                    src="https://lh3.googleusercontent.com/aida-public/AB6AXuB3Nvc5arofmNdeLVNxgGonVsOhS9gbwdWsB4H0YTHfEJ-wmF2phkyuZD-6ZzP5aGLmUYrIueTuq1QWGEJJiFqHCV5J22KhlQcbGPnMzLKaxxyVYbXrkbsU9N4AVpd-DL_O7vYQko1wmA9V40sX_owUW30nzMLGtBW1s9PS_in4SMmjIpskQdTpEk1q-ecQ9RUaFYc1YJ-qHnsZVqrWx5JJM3SjM0DRCEnuJ7lLlO6U2Hx2DKwicv0VfoljQT8zpIkUrkYrgnASQgg" />
+                                <span
+                                    class="absolute -top-1 -right-1 bg-slate-400 text-white text-[10px] size-5 rounded-full flex items-center justify-center font-bold border-2 border-white">2</span>
+                            </div>
+                            <div>
+                                <p class="font-bold text-sm">K.N. Balagopal</p>
+                                <p class="text-[10px] text-slate-500 uppercase tracking-tighter">Kottarakkara</p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <p class="text-primary font-bold text-base">₹23.2 Cr</p>
+                            <p class="text-[10px] text-slate-400">Fund Spent</p>
+                        </div>
+                    </div>
+                    <!-- MLA Card 3 -->
+                    <div
+                        class="flex items-center justify-between p-3 bg-white dark:bg-slate-900/50 rounded-xl border border-slate-100 dark:border-slate-800">
+                        <div class="flex items-center gap-3">
+                            <div class="relative">
+                                <img class="size-12 rounded-full border-2 border-slate-200"
+                                    data-alt="Profile photo of MLA 3"
+                                    src="https://lh3.googleusercontent.com/aida-public/AB6AXuDrh8qivBhlC4jSmr3Yt8cDsOf8BLXE8JYXBvnFvDQI7wvNV_HIb4BXKCjvUXw3aSDf6BG_AHbGfuGqESjbJi3n5G9HXoJvRn2Lp98qODsHC1TsHQVIhg_Q7pZDIvKBHJxPekyQ9-s7abqP991MZV_L72t-HFez-jfGhxuu0s8tDeYt5ZFIKChdD9p16_8HpmUG2ERmQzWKfc-k6C-1fNDTuzj5IX9DmBy68uhYXaNfzSdR_PPz3d4HsH_ie7OD4yzfQIqVx6DcRMQ" />
+                                <span
+                                    class="absolute -top-1 -right-1 bg-orange-700/70 text-white text-[10px] size-5 rounded-full flex items-center justify-center font-bold border-2 border-white">3</span>
+                            </div>
+                            <div>
+                                <p class="font-bold text-sm">V. Sivankutty</p>
+                                <p class="text-[10px] text-slate-500 uppercase tracking-tighter">Nemom</p>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <p class="text-primary font-bold text-base">₹22.5 Cr</p>
+                            <p class="text-[10px] text-slate-400">Fund Spent</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- Sector-wise Expenditure -->
+            <section class="flex flex-col gap-4">
+                <h3 class="text-xl font-bold">Sector-wise Expenditure</h3>
+                <div class="grid grid-cols-2 gap-3">
+                    <div
+                        class="bg-white dark:bg-slate-900/50 p-4 rounded-xl border border-slate-100 dark:border-slate-800 flex flex-col items-center gap-2 text-center">
+                        <span class="material-symbols-outlined text-primary text-2xl">school</span>
+                        <p class="text-[10px] font-semibold text-slate-500 uppercase">Education</p>
+                        <p class="font-bold text-sm">₹842 Cr</p>
+                    </div>
+                    <div
+                        class="bg-white dark:bg-slate-900/50 p-4 rounded-xl border border-slate-100 dark:border-slate-800 flex flex-col items-center gap-2 text-center">
+                        <span class="material-symbols-outlined text-blue-500 text-2xl">health_and_safety</span>
+                        <p class="text-[10px] font-semibold text-slate-500 uppercase">Health</p>
+                        <p class="font-bold text-sm">₹620 Cr</p>
+                    </div>
+                    <div
+                        class="bg-white dark:bg-slate-900/50 p-4 rounded-xl border border-slate-100 dark:border-slate-800 flex flex-col items-center gap-2 text-center">
+                        <span class="material-symbols-outlined text-amber-500 text-2xl">construction</span>
+                        <p class="text-[10px] font-semibold text-slate-500 uppercase">Infra</p>
+                        <p class="font-bold text-sm">₹510 Cr</p>
+                    </div>
+                    <div
+                        class="bg-white dark:bg-slate-900/50 p-4 rounded-xl border border-slate-100 dark:border-slate-800 flex flex-col items-center gap-2 text-center">
+                        <span class="material-symbols-outlined text-green-500 text-2xl">agriculture</span>
+                        <p class="text-[10px] font-semibold text-slate-500 uppercase">Agri</p>
+                        <p class="font-bold text-sm">₹210 Cr</p>
+                    </div>
+                    <div
+                        class="bg-white dark:bg-slate-900/50 p-4 rounded-xl border border-slate-100 dark:border-slate-800 flex flex-col items-center gap-2 text-center">
+                        <span class="material-symbols-outlined text-purple-500 text-2xl">bolt</span>
+                        <p class="text-[10px] font-semibold text-slate-500 uppercase">Energy</p>
+                        <p class="font-bold text-sm">₹145 Cr</p>
+                    </div>
+                    <div
+                        class="bg-white dark:bg-slate-900/50 p-4 rounded-xl border border-slate-100 dark:border-slate-800 flex flex-col items-center gap-2 text-center">
+                        <span class="material-symbols-outlined text-rose-500 text-2xl">water_drop</span>
+                        <p class="text-[10px] font-semibold text-slate-500 uppercase">Water</p>
+                        <p class="font-bold text-sm">₹98 Cr</p>
+                    </div>
+                    <div
+                        class="bg-white dark:bg-slate-900/50 p-4 rounded-xl border border-slate-100 dark:border-slate-800 flex flex-col items-center gap-2 text-center">
+                        <span class="material-symbols-outlined text-sky-500 text-2xl">router</span>
+                        <p class="text-[10px] font-semibold text-slate-500 uppercase">Digital</p>
+                        <p class="font-bold text-sm">₹12 Cr</p>
+                    </div>
+                    <div
+                        class="bg-white dark:bg-slate-900/50 p-4 rounded-xl border border-slate-100 dark:border-slate-800 flex flex-col items-center gap-2 text-center">
+                        <span class="material-symbols-outlined text-slate-500 text-2xl">more_horiz</span>
+                        <p class="text-[10px] font-semibold text-slate-500 uppercase">Others</p>
+                        <p class="font-bold text-sm">₹13 Cr</p>
+                    </div>
+                </div>
+            </section>
+            <!-- CTA -->
+            <button
+                class="mt-4 w-full bg-gradient-to-r from-primary to-teal-600 text-background-dark font-extrabold py-5 rounded-2xl flex items-center justify-center gap-2 shadow-lg shadow-primary/20">
+                Explore Full MLA Dashboard
+                <span class="material-symbols-outlined">arrow_forward</span>
+            </button>
+            <!-- Footer Small -->
+            <footer class="text-center py-6 text-[10px] text-slate-400 font-medium uppercase tracking-widest">
+                Data updated as of Oct 2023 • Kerala State
+            </footer>
+        </main>
+    </div>
+</body>
+
+</html>

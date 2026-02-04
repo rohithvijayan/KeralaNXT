@@ -1,0 +1,585 @@
+{
+    "mla_name": "Shri Eldose P. Kunnapillil",
+    "constituency": "PERUMBAVOOR",
+    "district": "Ernakulam",
+    "summary": {
+        "total_expenditure_crores": 22.0704,
+        "breakdown": [
+            {
+                "label": "Education",
+                "value_crores": 13.2507
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 2.8036
+            },
+            {
+                "label": "Road",
+                "value_crores": 2.4961
+            },
+            {
+                "label": "Others",
+                "value_crores": 1.1494
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.88
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.5
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 0.4
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.386
+            },
+            {
+                "label": "Water Supply",
+                "value_crores": 0.2046
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "KSHEEROLPADANA SAHAKARANA SANGAM CONSTRUCTION-NEW BUILDING-PONJASHERRY KSHEEROLPADAKA SAHAKARANA SANGAM (Ltd No. 199(D) VENGOLA G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF NEW BUILDING FOR KANDANTHARA GOVT. U P SCHOOL IN VENGOLA G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 74.98,
+            "concurrence_lakhs": 74.98
+        },
+        {
+            "project_name": "ONE PANCHAYATH ONE PLAY GROUND-DEVELOPMENT OF ASAMANNOOR GRAMA PANCHAYATH GROUND IN PERUMBAVOOR LAC,ERNAKULAM",
+            "implementing_agency": "Director,Sports & Youth Affairs, Vellayambalam, Thiruvananthapuram",
+            "category": "Sports",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ONE PANCHAYATH ONE PLAY GROUND -DEVELOPMENT OF GROUND AT SALEM VOCATIONAL HIGHER SECONDARY SCHOOL IN VENGOLA G P",
+            "implementing_agency": "Director,Sports & Youth Affairs, Vellayambalam, Thiruvananthapuram",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF VAIKARAKAV RAMAPURATHAMBALAM ROAD IN WARD 5 OF  RAYAMANGALAM G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.08,
+            "concurrence_lakhs": 10.08
+        },
+        {
+            "project_name": "CONSTRUCTION OF TICKET COUNTER CUM ECO SHOP AT THE TOURISM AREA OF PANAMKUZHY IN RESEARCH RANGE IN KODANADU UNDER NSC KALADY - VENGOOR GP",
+            "implementing_agency": "CONSERVATOR OF FORESTS, SOCIAL FORESTRY,CENTRAL REGION, ERNAKULAM",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 11.14,
+            "concurrence_lakhs": 11.14
+        },
+        {
+            "project_name": "SITC OF MINIMAST(08 MINIMAST WITH 05 NOS.OF 150W LED FLOOD LIGHTS)AT 42 LOCATIONS IN PERUMBAVOOR LAC",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 92.66,
+            "concurrence_lakhs": 92.66
+        },
+        {
+            "project_name": "COMPLETION OF DRINKING WATER SCHEME WARD 14-PIPE LINE AND ELECTRIFICATION-VENGOLA G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Water Supply",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF  NEW BUILDING FOR HEALTH AND WELLNESS CENTRE IN WARD 10 METHALA IN ASAMANNOOR G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Healthcare",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF KATTAMKUZHI VATTAPARA ROAD IN WARD 10 IN ASAMANNOOR G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 11.5,
+            "concurrence_lakhs": 11.5
+        },
+        {
+            "project_name": "CONSTRUCTION OF CANAL BUND ROAD NEAR CH. 260M OF MAIN CANAL OF EAST OKKAL LIS IN WARD -11 OF OKKAL GRAMAPANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER ,MINOR IRRIGATION DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF BUILDING FOR PULLUVAZHY PUBLIC LIBRARY IN WARD 14 IN RAYAMANGALAM G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "PVIP-CONSTRUCTION OF SIDE PROTECTION WALL IN KANDANTHARA MD CANAL BETWEEN CH. 2/00 KM AND 2/200 KM  IN VENGOLA GP WARD -8",
+            "implementing_agency": "Executive Engineer, PVIP Div I Perumbavoor",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF NEW BUILDING FOR GOVT.P B SCHOOL, ONAMKULAM",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 56.6,
+            "concurrence_lakhs": 56.6
+        },
+        {
+            "project_name": "CONSTRUCTION OF RAJIV GANDHI AUDITORIUM IN KOOVAPPADY BLOCK PANCHAYATH OFFICE COMPOUND",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 69.5,
+            "concurrence_lakhs": 69.5
+        },
+        {
+            "project_name": "CONSTRUCTION OF PVIP CANAL BUND RPS ROAD AND 2 CULVERTS IN ASAMANNOOR GP -WARD 2",
+            "implementing_agency": "Executive Engineer, PVIP Div I Perumbavoor",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 17.86,
+            "concurrence_lakhs": 17.86
+        },
+        {
+            "project_name": "CONSTRUCTION OF OPEN AIR STAGE AND BUS SHELTER AT ARACKAPPADY JUNCTION -VENGOLA G P-WARD-17",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.3,
+            "concurrence_lakhs": 20.3
+        },
+        {
+            "project_name": "CONSTRUCTING RIGHT BUND ROAD FROM CH.0.680 KM TO CH.1.00 KM OF KODANADU EAST BRANCH CANAL-PVIP-  IN ASAMANNOOR GP -WARD 3",
+            "implementing_agency": "Executive Engineer, PVIP Div I Perumbavoor",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "FORMATION OF CANAL BUND ROAD FROM CH.400M TO CH.850M OF VENGOLA MD INCLUDING SIDE PROTECTION WORK",
+            "implementing_agency": "Executive Engineer, PVIP Div I Perumbavoor",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "-  FORMATION OF CANAL BUND ROAD FROM CH.400M TO CH.850M OF VENGOLA MD INCLUDING SIDE PROTECTION WORK- IN VENGOLA GP-WARD 15",
+            "implementing_agency": "Executive Engineer, PVIP Div I Perumbavoor",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "PURCHASE OF VEHICLE FOR BUDS SCHOOL- KOOVAPPADY GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.4,
+            "concurrence_lakhs": 15.4
+        },
+        {
+            "project_name": "CONSTRUCTION OF TOILET BLOCK IN ST.MARYS LPS ALATTUCHIRA IN KOOVAPPADY GP WARD 6",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF TOILET BLOCK AT JAYAKERALAM HSS -PULLUVAZHI IN RAYAMANGALAM GP WARD 16",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "SIDE PROTECTION WORK TO CANAL BUND ROAD NEAR CH: 1.10 KM OF VENGOLA MD OF PVIP IN VENGOLA GP WARD -15",
+            "implementing_agency": "Executive Engineer, PVIP Div I Perumbavoor",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF NEW BUILDING FOR ANGANWADY NO.74 IN MUDAKKUZHA G P, WARD 6",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF NEW BUILDING FOR GOVT. LP SCHOOL KURICHILAKKODE",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF NEW BUILDING FOR GOVT.UP SCHOOL ASHAMANNOOR",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF NEW KITCHEN BUILDING  FOR KEEZHILLAM  MARTHOMA L P SCHOOL IN RAYAMANGALAM GP -WARD -8",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF TOILET BLOCK IN ST.ANTONYS U P SCHOOL NEDUNGAPRA IN VENGOOR G P",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF PULIYAMPILLY ANGANAWADI - SEVANAPURAM ROAD IN WARD 4 0F VENGOLA G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.67,
+            "concurrence_lakhs": 16.67
+        },
+        {
+            "project_name": "CONSTRUCTION OF CHACHAJI READING ROOM IN FIRST FLOOR OF ANGANWADY NO. 22 IN OKKAL GP WARD 2",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "MLA-ADS-2023-24-PERUMBAVOOR LAC-SITC OF 41 NO'S OF 8 MTR WITH 150 W * 5 LED FLOOD LIGHTS AT VARIOUS LOCATIONS IN MUDAKKUZHA, RAYAMANGALAM, OKKAL AND  KOOVAPPADI GRAMAPANCHAYATHS WITH 3 YEAR WARRANTY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 93.85,
+            "concurrence_lakhs": 93.85
+        },
+        {
+            "project_name": "CONSTRUCTION OF NEW BUILDING FOR  ANGANWADI NO.36 (SMART ANGANWADI ) IN WARD-12 OF OKKAL GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 28.0,
+            "concurrence_lakhs": 28.0
+        },
+        {
+            "project_name": "TARRING OF BRANCH ROAD(BRANCH ROAD WEST PERIYAR VALLEY CLUB ROAD )IN WARD 17,GURUDEVANAGAR ROAD BYLANE IN WARD 10,KANJIRAKKADU LP SCHOOL POOPPANI BYLANE 2 ROAD (WARD 4),PANACHIKKULAM ROAD BYLANE,PANACHIKKULAM ROAD (WARD 9) 0F PERUMBAVOOR MUNICIPALITY.",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 22.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF DINING HALL IN VAIKARA GOVT. U P SCHOOL IN RAYAMANGALAM G P-WARD 5",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "SITC OF 41  NOS OF 8  MTR WITH 150 W*5 LED FLOOD LIGHTS AT VARIOUS LOCATIONS IN VENGOLA GRAMAPANCHAYATH,PERUMBAVOOR MUNICIPALITY,ASHAMANNOOR GRAMAPANCHAYATH WITH 3 YEAR WARRANTY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 93.85,
+            "concurrence_lakhs": 93.85
+        },
+        {
+            "project_name": "CONSTRUCTION OF CANAL BUND ROAD NEAR CH.1300M OF VALLOM MAIN CANAL OF VALLOM LIS IN WARD NO. 26 OF PERUMBAVOOR MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER ,MINOR IRRIGATION DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 11.81,
+            "concurrence_lakhs": 11.81
+        },
+        {
+            "project_name": "CONSTRUCTION OF NEW BUILDING FOR KITCHEN AT ASRAMAM HSS PERUMBAVOOR IN PERUMBAVOOR MUNCIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF TOILET BLOCK IN MAR CAUMA HIGHER SECONDARY SCHOOL,VENGOOR",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF NEW BUILDING IN OKKAL   GOVT. L . P  SCHOOL IN OKKAL GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 89.51,
+            "concurrence_lakhs": 89.51
+        },
+        {
+            "project_name": "CULVERT CONSTRUCTION-POST OFFICE AIMURY ROAD-WARD 13  OF PERUMBAVOOR MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "SCHOOL BUS PURCHASE FOR GGHSS PERUMBAVOOR",
+            "implementing_agency": "Deputy Director (Education)Ernakulam",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 24.51,
+            "concurrence_lakhs": 24.51
+        },
+        {
+            "project_name": "SCHOOL BUS PURCHASE FOR GVHSS IRINGOL",
+            "implementing_agency": "Deputy Director (Education)Ernakulam",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 24.51,
+            "concurrence_lakhs": 24.51
+        },
+        {
+            "project_name": "SCHOOL BUS PURCHASE FOR GVHSS IRINGOL",
+            "implementing_agency": "Deputy Director (Education)Ernakulam",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 24.51,
+            "concurrence_lakhs": 24.51
+        },
+        {
+            "project_name": "SCHOOL BUS PURCHASE FOR GGHSS PERUMBAVOOR",
+            "implementing_agency": "Deputy Director (Education)Ernakulam",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 24.51,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "SCHOOL BUS PURCHASE FOR GVHSS IRINGOL",
+            "implementing_agency": "Deputy Director (Education)Ernakulam",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 24.51,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF NEW BUILDING FOR GOVERNMENT LP SCHOOL AKANADU IN MUDAKKUZHA G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 99.82,
+            "concurrence_lakhs": 99.82
+        },
+        {
+            "project_name": "SCHOOL BUS PURCHASE FOR PULLUVAZHI GOVT.L P SCHOOL IN RAYAMANGALAM GP",
+            "implementing_agency": "Deputy Director (Education)Ernakulam",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 24.17,
+            "concurrence_lakhs": 24.17
+        },
+        {
+            "project_name": "CONSTRUCTION OF NEW BUILDING IN OKKAL GOVT. L P SCHOOL IN OKKAL G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 89.51,
+            "concurrence_lakhs": 89.51
+        },
+        {
+            "project_name": "CONSTRUCTION OF NEW BUILDING IN MUDAKKUZHA GOVT.U P SCHOOL IN MUDAKKUZHA G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 96.99,
+            "concurrence_lakhs": 96.99
+        },
+        {
+            "project_name": "CONSTRUCTION OF NEW BUILDING IN KOOVAPPADI GOVT LP SCHOOL IN KOOVAPPADI G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 49.18,
+            "concurrence_lakhs": 49.18
+        },
+        {
+            "project_name": "CONSTRUCTION OF RETAINING WALL AT CH.2.80 KM ( PULIYAMPILLY VILLAGE OFFICE ROAD) OF ALUVA BRANCH CANAL IN VENGOLA G P",
+            "implementing_agency": "EXECUTIVE ENGINEER PVIP DIVISION II ALUVA",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.4,
+            "concurrence_lakhs": 22.4
+        },
+        {
+            "project_name": "CONSTRUCTION OF YOGA CENTRE IN GOVT. AYURVEDA DISPENSARY IN OKKAL G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Healthcare",
+            "fy": "2023-2024",
+            "estimate_lakhs": 38.0,
+            "concurrence_lakhs": 38.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF NEW BUILDING FOR GOVERNMENT U P SCHOOL AIMURY PERUMBAVOOR",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF CULVERT AT MUTTIPALAM IN NAMBILLI-NAMBILLI KADAVU ROAD IN OKKAL GP ,WARD NO.16",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 41.29,
+            "concurrence_lakhs": 41.29
+        },
+        {
+            "project_name": "CONSTRUCTION OF BUDS SCHOOL IN WARD NO.10 IN KOOVAPPADY GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "MLA-LAC-ADS-2023-2024,CONSTRUCTION OF SMART ANGANWADI NO.70  IN WARD-10 OFMUDAKKUZHA G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "MLA-LAC-ADS-KOOVAPPADY BLOCK 2022-23,CONSTRUCTION OF NEW BUILDING FOR EDATHURUTH KSHEEROLPADAKA SAHAKARANA SANKHAM IN VENGOOR G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF CLASSROOM FOR GLPGS VENGOLA ,PUNNUR IN WARD 12,VENGOLA G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "SCHOOL BUS PURCHSE GHSS PERUMBAVOOR.",
+            "implementing_agency": "Deputy Director (Education)Ernakulam",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "LAC-ADS-RECTIFICATION WORK CH.1400 TO 1470 m OF THOTTUVA BRANCH CANAL OF CHERANALLOOR LIS",
+            "implementing_agency": "EXECUTIVE ENGINEER ,MINOR IRRIGATION DIVISION,ERNAKULAM",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.6,
+            "concurrence_lakhs": 18.6
+        },
+        {
+            "project_name": "SCHOOL BUS PURCHASE FOR GVHSS IRINGOLE",
+            "implementing_agency": "Deputy Director (Education)Ernakulam",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.24,
+            "concurrence_lakhs": 15.24
+        },
+        {
+            "project_name": "MLA-ADS Perumbavoor LAC-2022-23- Construction of Kitchen Building at Church U P School in Koovappady GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF ANGANWADI BUILDING IN WARD 19 OF PERUMPAVOOR MUNICIPALITY",
+            "implementing_agency": "Municipal Engineer Perumbavoor Muncipality",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 46.13,
+            "concurrence_lakhs": 46.13
+        },
+        {
+            "project_name": "Drinking water Scheme at Vadayampara ward 07 in Vengoor Grama Panchayath",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Water Supply",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.46,
+            "concurrence_lakhs": 10.46
+        },
+        {
+            "project_name": "Construction of Building at Govt.UP School Allapra",
+            "implementing_agency": "GENERAL MANAGER ,Kerala Electrical & Allied Engg.Co.Ltd,Kochi",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 99.99,
+            "concurrence_lakhs": 99.94
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "ernakulam_shri_eldose_p_kunnapillil_placeholder"
+}

@@ -1,0 +1,437 @@
+{
+    "mla_name": "Smt. Uma Thomas",
+    "constituency": "THRIKKAKARA",
+    "district": "Ernakulam",
+    "summary": {
+        "total_expenditure_crores": 14.4794,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 8.803
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 1.4426
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 1.055
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.822
+            },
+            {
+                "label": "Others",
+                "value_crores": 0.82
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.7
+            },
+            {
+                "label": "Education",
+                "value_crores": 0.4598
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.377
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "MLA-ADS - 2024-2025- THRIKKAKKARA LAC - IMPROVMENTS TO  PETTA JUNCTION BY PROVIDING ROUND ABOUT",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 99.7,
+            "concurrence_lakhs": 99.7
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25 - THRIKKAKKARA LAC - PROVIDING  SIDE PROTECTION TO SRI:SUBRAHMANYA  TEMPLE  POND AT POONITHURA",
+            "implementing_agency": "EXECUTIVE ENGINEER ,MINOR IRRIGATION DIVISION,ERNAKULAM",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.5,
+            "concurrence_lakhs": 12.5
+        },
+        {
+            "project_name": "MLA-ADS - THRIKKAKKARA LAC - 2024-25 - RENOVATION  OF   CHENDANKULANGARA  TEMPLE   POND  NEAR  PONEKKARA  I  KOCHI CORPORATION",
+            "implementing_agency": "EXECUTIVE ENGINEER ,MINOR IRRIGATION DIVISION,ERNAKULAM",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 58.2,
+            "concurrence_lakhs": 58.2
+        },
+        {
+            "project_name": "MLA-ADS - 2024-2025 - THRIKKAKKARA  LAC  - CONSTRUCTION OF  DRAIN FROM MILLUPADI  JUNCTION  TO NURUL  ISLAM JUMA MASJID PALLI   IN   THRIKKAKKARA  MUNICIPALITY IN WARD - 6",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "MLA-ADS - THIRKKAKKARA LAC- 2024-2025 - CONSTRUCTION OF NEW DRAIN IN KUNNUMPURAM CIVIL STATION ROAD",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25- THRIKKAKKARA LAC - IMPROVMENTS TO ANAKATH ROAD  IN WARD 16",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 37.2,
+            "concurrence_lakhs": 37.2
+        },
+        {
+            "project_name": "MLA-ADS  THRIKKAKKARA LAC- 2023-24 ,   CONSTRUCTION OF   BUILDING   FOR POONITHURA  VILLAGE OFFICE",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "MLA-ADS - 2023-2024- THIRIKKAKKARA   LAC - CONSTRUCTION OF   KARANAKKODAM  BRIDGE  CONNECTING  KATHRIKADAVU PIPE LINE  ROAD",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 81.0,
+            "concurrence_lakhs": 81.0
+        },
+        {
+            "project_name": "MLA-ADS- THRIKKAKKARA  LAC - 2023-2024- CONSTRUCTION OF DRAIN AT PUTHUCHIRA  COLONY  IN DIV 56",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA-ADS - 2023-2024 - THRIKKAKKARA LAC - CONSTRUCTION OF PLAY  GROUND  CUM STUDENTS  FRIENDLY OPEN GYM AT THRIKKAKKARA",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Sports",
+            "fy": "2023-2024",
+            "estimate_lakhs": 37.7,
+            "concurrence_lakhs": 37.7
+        },
+        {
+            "project_name": "MLA-ADS - 2023-2024- THRIKKAKKARA LAC - DN -64 NARIKKAPARAMBIL LANE , MYTHRI NAGAR ROAD ,KAMLA VADYAR  ROAD   DRAIN RASING  AND TARRING",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 21.38,
+            "concurrence_lakhs": 21.38
+        },
+        {
+            "project_name": "MLA-ADS 2023-2024 - THRIKKAKKARA LAC - NEW SCHOOL BUS FOR M.A.A.M LP SCHOOL",
+            "implementing_agency": "Deputy Director (Education)Ernakulam",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.28,
+            "concurrence_lakhs": 22.28
+        },
+        {
+            "project_name": "MLA-ADS - 2023-24- THRIKKAKKARA LAC -- BM BC  TARRING   AND DRAIN WORK IN  KUTTICHAKKALAKKAL  AND THATTAYATH  ROAD  IN   DIVISION 35",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.2,
+            "concurrence_lakhs": 22.2
+        },
+        {
+            "project_name": "MLA-ADS - 2023-2024 - THRIKKAKKARA LAC - PONETH  SOUTH ROAD  BM BC TARRING  IN DIVITION 57",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 29.0,
+            "concurrence_lakhs": 29.0
+        },
+        {
+            "project_name": "MLA-ADS - THRIKKAKKARA  LAC -- 2023-2024-- PANAKKATTOM PALLI  ROAD  AND  ATHIPARAMBU ROAD - SURFACE RENEWAL  WITH BM  AND BC  DIVITION   45",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 26.5,
+            "concurrence_lakhs": 26.5
+        },
+        {
+            "project_name": "MLA-ADS - 2023-24 -- THRIKKAKKARA LAC - CONSTRUCTION OF CULVERT  AT :15.00 KM   EDAPALLY  BRANCH  CANAL",
+            "implementing_agency": "EXECUTIVE ENGINEER PVIP DIVISION II ALUVA",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.9,
+            "concurrence_lakhs": 17.9
+        },
+        {
+            "project_name": "MLA-ADS   2023-24  - THRIKKAKKARA   LAC - SIDE PROTECTION WORK  OF   VERUKOLINILAM THODU  IN DIV 44  COCHIN   CORPORATION",
+            "implementing_agency": "EXECUTIVE ENGINEER ,MINOR IRRIGATION DIVISION,ERNAKULAM",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 11.5,
+            "concurrence_lakhs": 11.5
+        },
+        {
+            "project_name": "MLA-ADS THIKKAKKARA LAC - 2022-2023  CONSTRUCTION OF  PLAY   GROUND  FOR  VENNALA   GOV : SCHOOL",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 23.7,
+            "concurrence_lakhs": 23.7
+        },
+        {
+            "project_name": "MLA-ADS THIKKAKKARA LAC - CONSTRUCTION OF FOOD PATH AND HAND RAIL IN EDAPPALLY POOKKATTUPADY ROAD FROM JUGEMUKKU TO SEA PORT AIR PORT ROAD FOR A LENGTH OF 250 M",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 21.1,
+            "concurrence_lakhs": 21.1
+        },
+        {
+            "project_name": "MLA-ADS  2022-2023  UMA  THOMAS LAC  THRIKKAKKARA  RECONSTRUCTION OF OTTIKKALI CULVERT - RECONSTRUCTION OF OTTIKKALI CULVERT",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD ROADS & BRIDGES DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 127.0,
+            "concurrence_lakhs": 127.0
+        },
+        {
+            "project_name": "MLA-ADS THIRIKKAKKARA   LAC - 2023-2024 - CONSTRUCTION OF URBAN PRIMARY  HEALTH  SUB CENTER  AT COCHIN MUNICIPAL CORPORATION DIV - 64",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Healthcare",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "MLA-ADS  THRIKKAKKARA  LAC - 2023-2024 , CONSTRUCTION  OF   CULVERT AT INDIRA ROAD KINAR JUNCTION",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS   2023 - 2024  THRIKKAKKARA   LAC - BMBC TARRING OF   PJ ANTONY ROAD  IN DIV 40 IN KOCHIN CORPORATION",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 38.15,
+            "concurrence_lakhs": 38.15
+        },
+        {
+            "project_name": "BM BC WORK  FOR MOTHER TERESA ROAD IN DIV 38 , KOCHIN  CORPORATION",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.69,
+            "concurrence_lakhs": 40.69
+        },
+        {
+            "project_name": "IMPROVMENTS TO DRAINAGE FACILITIES IN PK   ROAD AT   NAVODAYA JUNCTION",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD ROADS & BRIDGES DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.24,
+            "concurrence_lakhs": 12.24
+        },
+        {
+            "project_name": "MLA-ADS 2022-2023- CONSTRUCTION OF FISH LANDING  CENTRE AT  KANAYANNUR  PETTAH VALATHIKKADAVU   ERNAKULAM",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 37.0,
+            "concurrence_lakhs": 37.0
+        },
+        {
+            "project_name": "MLA-ADS  THRIKKAKKARA LAC - 2022-23 - CHILAVANNUR  ROAD  AND BYLANE  (CROSS ROAD)  SURFACE  RENEWAL  WITH  BM AND BC",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 24.5,
+            "concurrence_lakhs": 24.5
+        },
+        {
+            "project_name": "MLA-ADS THRIKKAKKARA  LAC - 2022-23  - CONSTRUCTION  OF ROAD  WORK - INDIRANAGAR ROAD  C4 -",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 14.59,
+            "concurrence_lakhs": 14.59
+        },
+        {
+            "project_name": "MLA-ADS  THRIKKAKKARA LAC - 2022-23 - RECONSTRUCTION  OF CROSS  CULVERT  AND  PROVIDING  INTERLOCK  TILE IN FRIENDSHIP NAGAR ROAD (WARD 44) AND PAP ROAD  IN WARD 43 KOCHI CORPORATION",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "TILING AND RECONSTRUCTION   OF DRAIN IN DIVITION 54 AT V V MICHEL ROAD (COCHIN CORPORATION)",
+            "implementing_agency": "EXECUTIVE ENGINEER, L.S.G.D MUNICIPAL CORPORATION OF KOCHI",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "Reconstruction of cross culvert and providing interlocking tile in friend ship nagar road ( ward 44) and PAP Road in ward 43 of kochi corporation",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "RECONSTRUCTION OF DRAIN AND PROVIDING NEW INTERLOCKING TILES AND RELAYING EXISTING INTERLOCKING TILES AT \r\nPALACE ROAD DIV 37\"",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 17.74,
+            "concurrence_lakhs": 17.74
+        },
+        {
+            "project_name": "PAVING INTERLOCKING TILES AND DRAIN RAISING IN VALLOOR MECHERI ROAD IN DIV -51 VYTTILA ZONE",
+            "implementing_agency": "EXECUTIVE ENGINEER, L.S.G.D MUNICIPAL CORPORATION OF KOCHI",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 27.25,
+            "concurrence_lakhs": 27.25
+        },
+        {
+            "project_name": "\" SUPPLY AND INSTTALLTION OF 19 NO'S OF 8 MTR MINIMAST LIGHT WITH 5 NO.S OF 100 W LED FLOOD LIGHT AT VARIOUS LOCATIONS IN THRIKAKKARA CONSTITUENCY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 36.92,
+            "concurrence_lakhs": 36.92
+        },
+        {
+            "project_name": "SUPPLY AND INSTTALLTION OF 17 NO'S OF 8 MTR MINIMAST LIGHT WITH 5 NO.S OF 100 W LED FLOOD LIGHT AT VARIOUS LOCATIONS IN THRIKAKKARA CONSTITUENCY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 32.63,
+            "concurrence_lakhs": 32.63
+        },
+        {
+            "project_name": "SUPPLY AND INSTTALLTION OF 21 NO'S OF 8 MTR MINIMAST LIGHT WITH 5 NO.S OF 100 W LED FLOOD LIGHT AT VARIOUS LOCATIONS IN THRIKAKKARA CONSTITUENCY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.38,
+            "concurrence_lakhs": 40.38
+        },
+        {
+            "project_name": "SUPPLY AND INSTTALLTION OF  16 NO'S OF 8 MTR MINIMAST LIGHT WITH 5 NO.S OF 100 W LED FLOOD LIGHT AT VARIOUS LOCATIONS IN THRIKAKKARA CONSTITUENCY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.06,
+            "concurrence_lakhs": 30.06
+        },
+        {
+            "project_name": "SUPPLY AND INSTTALLTION OFN 2 NO'S OF 8 MTR WITH 5x100 W LED FLOOD LIGHT",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 4.27,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "MLA ADS- THRIKKAKARA LAC-CONSTRUCTION OF WALKWAY AVENUE AT KANIYAMPUZHA AT ARAKKAKADAVU CHALIKKAVATTOM Division-47",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF FOOTPATH - FOOTPATH  WORK IN EDAPPALLY MUVATTUPUZHA ROAD",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 19.2,
+            "concurrence_lakhs": 19.2
+        },
+        {
+            "project_name": "Widening of Eroor Vasudeva Road in Div.39(ReachI) of Kochi Corporation",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF  ANGANAWADY BUILDING AT  WARD 14 THRIKKAKARA MUNICIPALITY.",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF ANGANAWADY BUILDING NO-69th IN WARD 11 THRIKKAKARA MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.5,
+            "concurrence_lakhs": 30.5
+        },
+        {
+            "project_name": "കാക്കനാട് പ്രാഥമികാരോഗ്യ കേന്ദ്രത്തിൽ ഡയാലിസിസ്‌ യൂണിറ്റുകൾ സ്ഥാപിക്കുന്നതിനും, അനുബന്ധ പ്രവർത്തികൾ നടപ്പിലാക്കുന്നതിനും",
+            "implementing_agency": "DISTRICT MEDICAL OFFICER OF HEALTH ERNAKULAM",
+            "category": "Healthcare",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "\"Construction of Drain, Tile Paving  and Concreting  to Lakshamveedu Masjid road in Ward-21 at Thrikkakara Municipality.\"",
+            "implementing_agency": "ASSISTANT EXECUTIVE ENGINEER, LSGD THRIKKAKARA MUNICIPALITY",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.77,
+            "concurrence_lakhs": 12.77
+        },
+        {
+            "project_name": "\"Tile Paving and Drain Works to Palachuvadu - Ambalapara road in ward-21 at thrikkakara Municipality.\"",
+            "implementing_agency": "ASSISTANT EXECUTIVE ENGINEER, LSGD THRIKKAKARA MUNICIPALITY",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 13.71,
+            "concurrence_lakhs": 13.71
+        },
+        {
+            "project_name": "Tile Paving and Drain Maintenance to Palachuvadu - Ambalapara road in ward-21 at thrikkakara Municipality.",
+            "implementing_agency": "ASSISTANT EXECUTIVE ENGINEER, LSGD THRIKKAKARA MUNICIPALITY",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 13.71,
+            "concurrence_lakhs": 13.71
+        },
+        {
+            "project_name": "Construction of Drain, Tile Paving  and Concreting  to Lakshamveedu Masjid road in Ward-21 at Thrikkakara Municipality",
+            "implementing_agency": "ASSISTANT EXECUTIVE ENGINEER, LSGD THRIKKAKARA MUNICIPALITY",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 12.77,
+            "concurrence_lakhs": 12.77
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "ernakulam_smt_uma_thomas_placeholder"
+}

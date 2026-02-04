@@ -1,0 +1,77 @@
+{
+    "mla_name": "Smt. Veena George",
+    "constituency": "ARANMULA",
+    "district": "Pathanamthitta",
+    "summary": {
+        "total_expenditure_crores": 2.3773,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 1.25
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 0.5
+            },
+            {
+                "label": "Education",
+                "value_crores": 0.3573
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 0.27
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "ആറന്മുള നിയോജക മണ്ഡലത്തില്‍ വിവിധ സ്ഥലങ്ങളിലായി  (8 മീറ്റര്‍ മിനിമാസ്റ്റ് ലൈറ്റ്) മിനിമാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കല്‍",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 27.0,
+            "concurrence_lakhs": 27.0
+        },
+        {
+            "project_name": "നെടിയകാല-ഹില്‍പ്പാര്‍ക്ക്-മുലൂര്‍ റോഡ് 40 എം എം ചിപ്പിംഗ് കാര്‍പ്പറ്റ് മെഴുവേലി ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ്-7",
+            "implementing_agency": "PWD Roads Pathanamthitta",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 75.0,
+            "concurrence_lakhs": 75.0
+        },
+        {
+            "project_name": "പത്തനംതിട്ട ഗവണ്‍മെന്‍റ്  നഴ്സിംഗ് കോളേജിലേക്ക്  മിനി  ബസ്  വാങ്ങല്‍",
+            "implementing_agency": "Principal, Government Nursing College,Pathanamthitta",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 35.73,
+            "concurrence_lakhs": 35.73
+        },
+        {
+            "project_name": "വള്ളംകുളം ഗവണ്‍മെന്‍റ്   യു.പി. സ്കൂളിന്  പുതിയ കെട്ടിടം നിര്‍മ്മാണം - ഇരവിപേരൂര്‍  ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "pwd buildings division ,pathanamthitta",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "Improvement and Beautification of foot path - at west side of Pampa river near Maramon Convention Center, Kozhencherry",
+            "implementing_agency": "PWD,Roads",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "pathanamthitta_smt_veena_george_placeholder"
+}

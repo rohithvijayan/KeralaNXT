@@ -1,0 +1,1025 @@
+{
+    "mla_name": "Shri Job Maichil",
+    "constituency": "CHANGANASSERY",
+    "district": "Kottayam",
+    "summary": {
+        "total_expenditure_crores": 31.2806,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 19.3241
+            },
+            {
+                "label": "Others",
+                "value_crores": 8.9259
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 2.2
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.7306
+            },
+            {
+                "label": "Education",
+                "value_crores": 0.1
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "തൃക്കൊടിത്താനം ഗ്രാമപഞ്ചായത്തിൽ വാർഡ് 16 ൽ ഉളള ഇളയശ്ശേരി –അയ്യപ്പക്ഷേത്രം റോഡ് നിർമ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പുലിക്കുഴി കാലായിപ്പടി വെളളൂക്കുന്ന് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 11.0,
+            "concurrence_lakhs": 11.0
+        },
+        {
+            "project_name": "പുളിയാങ്കുന്ന് കാലായിപ്പടി അസംഷൻ റോഡ് നിർമ്മാണം,മാടപ്പളളി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "ചങ്ങനാശ്ശേരി റവന്യൂ ടവർ നവീകരണം രണ്ടാം ഘട്ടം",
+            "implementing_agency": "കേരള സംസ്ഥാന ഭവന നിര്‍മ്മാണ ബോര്‍ഡ്",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 181.22,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മലങ്കാവ്പടി –അടവിച്ചിറപാടം റോഡ് നിര്‍മ്മാണം  വാര്‍ഡ്  05, പായിപ്പാട് ഗ്രാമപ്പഞ്ചായത്ത്.",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "GHSS കുറിച്ചിക്ക് കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുറിച്ചി ഗ്രാമപ്പഞ്ചായത്തിലെ വാര്‍ഡ്‌ : 10-ല്‍ ഉള്‍പ്പെട്ട ലൗലിലാന്‍റ് - പൊടിപ്പാറ പള്ളി റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുറിച്ചി ഗ്രാമപ്പഞ്ചായത്തിലെ കരിക്കണ്ടം - ജലനിധി റോഡ്‌",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ചങ്ങനാശ്ശേരി മുനിസിപ്പാലിറ്റിയിലെ പഞ്ഞിമരം - കോയിപ്പള്ളിച്ചിറ റോഡും ഓടയും നിര്‍മ്മാണം",
+            "implementing_agency": "Changanacherry Muncipality",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കുറിച്ചി ഗ്രാമപ്പഞ്ചായത്തിലെ ആങ്ങനാട്ടുപടി - ചോട്ടപ്പറമ്പ് റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കുറിച്ചി ഗ്രാമപ്പഞ്ചായത്തിലെ കാര്‍ഗില്‍ ജങ്ക്ഷന്‍ റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 11.0,
+            "concurrence_lakhs": 11.0
+        },
+        {
+            "project_name": "കുറിച്ചി ഗ്രാമപ്പഞ്ചായത്തിലെ എണ്ണയ്ക്കാച്ചിറ - മോശക്കുഞ്ഞ് റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തൃക്കൊടിത്താനം ഗ്രാമപ്പഞ്ചായത്തിലെ വാര്ഡ് : 13-ല്‍ കോട്ടമുറി - മുണ്ടുകോട്ട റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "തൃക്കൊടിത്താനം ഗ്രാമപ്പഞ്ചായത്തിലെ വാര്ഡ് : 12-ല്‍ പാലമമൂട് - പത്തില്‍പറമ്പ് റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 11.37
+        },
+        {
+            "project_name": "മാടപ്പള്ളി ഗ്രാമപ്പഞ്ചായത്തിലെ കുറ്റിക്കണ്ടം - കൊട്ടാരംകുന്ന് റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 21.0,
+            "concurrence_lakhs": 21.0
+        },
+        {
+            "project_name": "മാടപ്പള്ളി ഗ്രാമപ്പഞ്ചായത്തിലെ വാര്ഡ് : 20-ല്‍ കുന്നേല്‍ - കുന്നേല്‍ റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പുളിയാങ്കുന്ന്  കാലായിപ്പടി അസംപ്ഷൻ റോഡ് നിർമ്മാണം മാടപ്പളളി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പുലിക്കുഴി കാലായിപ്പടി വെളളൂക്കുന്ന് റോഡ് നിർമ്മാണം,മാടപ്പളളി ഗ്രാമപഞ്ചായത്ത് -വാർഡ് 2",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 11.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മാടപ്പള്ളി ഗ്രാമപ്പഞ്ചായത്തിലെ വാര്ഡ് : 20-ല്‍ നാല്‍പതാംകുളം - ചെത്തിപ്പുഴ റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "മാടപ്പള്ളി ഗ്രാമപ്പഞ്ചായത്തിലെ വാര്ഡ് : 14-ല്‍ കാരിമുട്ടം - പ്രതാപന്‍ റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "വാഴപ്പള്ളി ഗ്രാമപ്പഞ്ചായത്തിലെ വാര്ഡ് : VI -ല്‍ പോറ്റിപ്പറമ്പ് - മാളിയേക്കല്‍ - കല്ലുകുളം റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 12.08
+        },
+        {
+            "project_name": "വാഴപ്പള്ളി ഗ്രാമപ്പഞ്ചായത്തിലെ വാര്‍ഡ്‌ : IX -ല്‍ കൂനന്താനം - ലിസ്യൂ സ്കൂള്‍ റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 24.0,
+            "concurrence_lakhs": 24.0
+        },
+        {
+            "project_name": "തൃക്കൊടിത്താനം ഗ്രാമപ്പഞ്ചായത്തിലെ വാര്‍ഡ്‌: 18 -ല്‍ ഉള്‍പ്പെട്ട തൃക്കൊടിത്താനം മഹാദേവ ക്ഷേത്രക്കുളം നവീകരണവും അടിസ്ഥാന സൗകര്യ വികസനവും",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 48.78,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുറിച്ചി ഗ്രാമപ്പഞ്ചായത്തിലെ മാത്തന്‍കുന്ന് കോളനിമുക്ക് - ആനാരി ആശ്രമം റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.97,
+            "concurrence_lakhs": 10.01
+        },
+        {
+            "project_name": "കോട്ടമുറി - പീടികപ്പടി റോഡ്‌ നിര്‍മ്മാണം, തൃക്കൊടിത്താനം ഗ്രാമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.5,
+            "concurrence_lakhs": 30.5
+        },
+        {
+            "project_name": "ടെക്നിക്കല്‍ സ്കൂള്‍ - ചാലയ്ക്കല്‍പ്പറമ്പ് റോഡ്‌ നിര്‍മ്മാണം, വാര്‍ഡ്‌: 10, കുറിച്ചി ഗ്രാമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മാടപ്പള്ളി ബ്ലോക്ക് പഞ്ചായത്ത് കെട്ടിട നിര്‍മ്മാണം - 3-ആം ഘട്ടം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "മാടപ്പള്ളി ബ്ലോക്ക് പഞ്ചായത്ത് കെട്ടിട നിര്‍മ്മാണം - 3-ആം ഘട്ടം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചങ്ങനാശ്ശേരി നിയോജകമണ്ഡലത്തിലെ വിവിധ ഇടങ്ങളില്‍ മിനി മാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കല്‍",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 32.0,
+            "concurrence_lakhs": 30.58
+        },
+        {
+            "project_name": "കുറിച്ചി ഗ്രാമപ്പഞ്ചായത്തിലെ കുറിഞ്ഞിമൂക്ക് റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "ചങ്ങനാശ്ശേരി മുനിസിപ്പാലിറ്റിയിലെ സൗപര്‍ണിക ഫ്ലാറ്റിന്‍റെ പരിസരം മുതല്‍ ഗുഡ്ഷെഡ്‌ റോഡ്‌ വരെയുള്ള ഭാഗത്ത് ഓട പണിയുന്നതിനും കവറിംഗ് സ്ലാബ് ഇടുന്നതിനും",
+            "implementing_agency": "Changanacherry Muncipality",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 52.0,
+            "concurrence_lakhs": 52.0
+        },
+        {
+            "project_name": "മാടപ്പള്ളി ഗ്രാമപ്പഞ്ചായത്തിലെ മുക്കാട്ടുകുന്നേല്‍ നാട്ടുവ റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 47.28,
+            "concurrence_lakhs": 47.28
+        },
+        {
+            "project_name": "ചങ്ങനാശ്ശേരി മുനിസിപ്പാലിറ്റിയിലെ വാര്‍ഡ്‌: 11 -ല്‍ ഉള്‍പ്പെട്ട സൗപര്‍ണിക ഫ്ലാറ്റിന്‍റെ പരിസരം മുതല്‍ ഗുഡ്ഷെഡ്‌ റോഡ്‌ വരെയുള്ള ഭാഗത്ത് ഓട പണിയുന്നതിനും കവറിംഗ് സ്ലാബ് ഇടുന്നതിനും വേണ്ടി",
+            "implementing_agency": "Changanacherry Muncipality",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 55.25,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മാടപ്പള്ളി ഗ്രാമപ്പഞ്ചായത്തിലെ വാര്‍ഡ്‌ : 04 -ല്‍ ഉള്‍പ്പെട്ട മാളികപ്പടി ദൈവംപടി റോഡിലെ മാളികപ്പടി മുതല്‍ വിത്തരിക്കുന്ന് കോളനിവരെയുള്ള റോഡിന്‍റെ പുനരുദ്ധാരണവും വശങ്ങള്‍ ഐറിഷ് ചെയ്യുന്നതിനും വേണ്ടി",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 33.09,
+            "concurrence_lakhs": 33.09
+        },
+        {
+            "project_name": "ചെറോത്ത് ബൈപാസ് റോഡ്‌ നിര്‍മ്മാണം, വാര്‍ഡ്‌: 20, ചങ്ങനാശ്ശേരിമുനിസിപ്പാലിറ്റി",
+            "implementing_agency": "Changanacherry Muncipality",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ഇല്ലിമൂട് അമ്പലം റോഡ്‌ നിര്‍മ്മാണം, വാര്‍ഡ്‌: 08, മാടപ്പള്ളി ഗ്രാമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.15,
+            "concurrence_lakhs": 16.15
+        },
+        {
+            "project_name": "പഴയ പഞ്ചായത്ത് പടി - കൊഴുപ്പക്കളം റോഡ്‌ നിര്‍മ്മാണം, വാര്‍ഡ്‌: 08, മാടപ്പള്ളി ഗ്രാമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "റീത്തുപള്ളി - കൈതക്കോട്ടാല്‍ റോഡ്‌ നിര്‍മ്മാണം, വാര്‍ഡ്‌: 10, പായിപ്പാട് ഗ്രാമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 19.66,
+            "concurrence_lakhs": 19.66
+        },
+        {
+            "project_name": "കോയിത്രമുക്ക് - ചന്ദ്രത്തില്‍പ്പടി റോഡിന്‍റെ ഓട നിര്‍മ്മാണം, വാര്‍ഡ്‌: 03, കുറിച്ചി ഗ്രാമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മാടപ്പള്ളി ബ്ലോക്ക് പഞ്ചായത്തിന്‍റെകെട്ടിട നിര്‍മ്മാണം - രണ്ടാം ഘട്ടം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 99.0
+        },
+        {
+            "project_name": "ആലുംമൂട്ടില്‍പടി - കാഞ്ഞിരക്കാട്ട്പടി റോഡ്‌ നിര്‍മ്മാണം, വാര്‍ഡ്‌: 08, പായിപ്പാട് ഗ്രാമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മുഴുവഞ്ചേരി - കൊച്ചുപറമ്പ് റോഡ്‌ (റെഡിമെയ്ഡ് ഭാഗം) നിര്‍മ്മാണം, വാര്‍ഡ്‌: 1, കുറിച്ചി ഗ്രാമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 13.65,
+            "concurrence_lakhs": 13.65
+        },
+        {
+            "project_name": "മാടക്കാട്‌ - എക്സ് സര്‍വീസ്മാന്‍ റോഡ്‌ നിര്‍മ്മാണം, വാര്‍ഡ്‌: 12, തൃക്കൊടിത്താനം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പപ്പാല - ചാത്തോടി റോഡ്‌ നിര്‍മ്മാണം, വാര്‍ഡ്‌: 12, തൃക്കൊടിത്താനം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ആലുംമൂട് - അരീസ്രാക്കല്‍ റോഡ്‌ നിര്‍മ്മാണം, വാര്‍ഡ്‌: 01, വാഴപ്പള്ളി ഗ്രാമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.96,
+            "concurrence_lakhs": 30.96
+        },
+        {
+            "project_name": "മുണ്ടുപാലം വലിയവീട്ടില്‍പ്പടി റോഡ്‌ നിര്‍മ്മാണം, വാര്‍ഡ്‌: 03, തൃക്കൊടിത്താനം ഗ്രാമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കോയിപ്രം - ആലംപറമ്പ് റോഡ്‌ നിര്‍മ്മാണം, വാര്‍ഡ്‌: 11, തൃക്കൊടിത്താനം ഗ്രാമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 27.0,
+            "concurrence_lakhs": 27.0
+        },
+        {
+            "project_name": "പള്ളിപ്പടി - തോപ്പില്‍പ്പടി റോഡ്‌ നിര്‍മ്മാണം, വാര്‍ഡ്‌: 17, തൃക്കൊടിത്താനം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "പത്തില്‍ക്കടവ് - കാളിശ്ശേരി - കളരിത്തറ റോഡ്‌ നിര്‍മ്മാണം, വാര്‍ഡ്‌: 01, കുറിച്ചി ഗ്രാമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.3,
+            "concurrence_lakhs": 12.3
+        },
+        {
+            "project_name": "മേടയില്‍ - കോയിക്കാരം റോഡ്‌ നിര്‍മ്മാണം, വാര്‍ഡ്‌: 14, പായിപ്പാട് ഗ്രാമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 27.0,
+            "concurrence_lakhs": 27.0
+        },
+        {
+            "project_name": "ചങ്ങനാശ്ശേരി കെ.എസ്.ആര്‍.ടി.സി ഡിപ്പോയ്ക്ക് പുതിയ കെട്ടിടം നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 220.0,
+            "concurrence_lakhs": 220.0
+        },
+        {
+            "project_name": "ചങ്ങനാശ്ശേരി കെ.എസ്.ആര്‍.ടി.സി ഡിപ്പോയില്‍ പുതിയ ബസ് ടെര്‍മിനല്‍ നിര്‍മ്മാണം",
+            "implementing_agency": "Managing Director,Kerala State Road Transport Corporation",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 220.0,
+            "concurrence_lakhs": 220.0
+        },
+        {
+            "project_name": "ശാസ്തവട്ടം - ആവണി റോഡ്‌ നിര്‍മ്മാണം, വാര്‍ഡ്‌: 29, ചങ്ങനാശ്ശേരി മുനിസിപ്പാലിറ്റി",
+            "implementing_agency": "Changanacherry Muncipality",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 14.23,
+            "concurrence_lakhs": 14.23
+        },
+        {
+            "project_name": "ഇടപ്പള്ളി ഐ.റ്റി.സി - ശ്മശാനം റോഡ്‌ നിര്‍മ്മാണം, വാര്‍ഡ്‌: 11, മാടപ്പള്ളി ഗ്രാമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 13.23,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "റെയില്‍വേ ക്രോസ്സ് - നാല്‍പാതി റോഡ്‌ നിര്‍മ്മാണം, വാര്‍ഡ്‌:18, ചങ്ങനാശ്ശേരി മുനിസിപ്പാലിറ്റി",
+            "implementing_agency": "Changanacherry Muncipality",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 13.76
+        },
+        {
+            "project_name": "ഓമണ്ണ് - പാറാങ്കല്‍ പടി റോഡ്‌ കലുങ്ക് നിര്‍മ്മാണവും, റോഡ്‌ കോണ്‍ക്രീറ്റിങ്ങും, വാര്‍ഡ്‌: 08, പായിപ്പാട് ഗ്രാമപഞ്ചായത്ത്‌",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മണ്ണാത്തിപ്പാറ - മനേഷ് ഭവന്‍ റോഡ്‌ പുനരുദ്ധാരണം, വാര്‍ഡ്‌: 12, വാഴപ്പള്ളി ഗ്രാമപഞ്ചായത്ത്‌",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കുറ്റിക്കണ്ടം - കുന്നേല്‍ റോഡ്‌ നിര്‍മ്മാണം, വാര്‍ഡ്‌:01, മാടപ്പള്ളി ഗ്രാമപഞ്ചായത്ത്‌",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "വാഴപ്പള്ളി ഗ്രാമപ്പഞ്ചായത്തിലെ വാര്‍ഡ്‌ : 09-ല്‍ ഏനാചിറ - ഇടയാടി റോഡ്‌ പുനരുദ്ധാരണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 19.0,
+            "concurrence_lakhs": 19.0
+        },
+        {
+            "project_name": "മാടപ്പള്ളി ഗ്രാമപഞ്ചായത്തിലെ അമ്പലംപടി - പങ്കിപ്പുറം റോഡ്‌ പുനരുദ്ധാരണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ചങ്ങനാശ്ശേരി മുനിസിപ്പാലിറ്റിയില്‍ 4,5 എന്നീ വാര്‍ഡുകളിലൂടെ കടന്നുപോകുന്ന എസ്.ബി കോളേജ് - അസംപ്ഷന്‍ കോളേജ്- മോര്‍ക്കുളങ്ങര റോഡ്‌ പുനരുദ്ധാരണം",
+            "implementing_agency": "Changanacherry Muncipality",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 23.5,
+            "concurrence_lakhs": 23.5
+        },
+        {
+            "project_name": "കുറിച്ചി ഗ്രാമപ്പഞ്ചായത്തിലെ വാര്‍ഡ്‌: 15-ല്‍ അക്ഷര - പുലിക്കുഴിക്കുളം റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തൃക്കൊടിത്താനം ഗ്രാമപ്പഞ്ചായത്തിലെ വാര്‍ഡ്‌: 15-ല്‍ എസ്.എച്ച് സ്കൂള്‍ - എസ്.എന്‍.ഡി.പി ശ്മശാനം റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ചങ്ങനാശ്ശേരി മുനിസിപ്പാലിറ്റി വാര്‍ഡ്‌: 25-ല്‍ ചാലക്കുഴി റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "Changanacherry Muncipality",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കുമരങ്കരി - തെക്കേച്ചിറ ബണ്ട് റോഡ്‌ കോണ്‍ക്രീറ്റിംഗ്, വാര്‍ഡ്‌:20, വാഴപ്പള്ളി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.6,
+            "concurrence_lakhs": 20.6
+        },
+        {
+            "project_name": "ചങ്ങനാശ്ശേരി മുനിസിപ്പാലിറ്റിയിലെ വാര്‍ഡ്‌ : 17 - ല്‍ പാറയില്‍ റോഡ്‌ (മലയില്‍ റോഡ്‌) നിര്‍മ്മാണം",
+            "implementing_agency": "Changanacherry Muncipality",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "പായിപ്പാട് ഗ്രാമപ്പഞ്ചായത്തിലെ വാര്‍ഡ്‌: VII -ല്‍ വള്ളുവഞ്ചിറ - ഓമണ്ണ് റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.9,
+            "concurrence_lakhs": 27.26
+        },
+        {
+            "project_name": "പായിപ്പാട് ഗ്രാമപ്പഞ്ചായത്തിലെ വാര്‍ഡ്‌ : VII -ല്‍ ഓമണ്ണ് - എസ്.എന്‍.ഡി.പി റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "സംസ്ഥാന സര്‍ക്കാരിന്റെ ഒരു പഞ്ചായത്തില്‍ ഒരു കളിക്കളം പദ്ധതി പ്രകാരം ചങ്ങനാശ്ശേരി നിയോജകമണ്ഡലത്തിലെ കുറിച്ചി ഗ്രാമപ്പഞ്ചായത്തില്‍ വാര്‍ഡ്‌ :17-ല്‍ കുറിച്ചി ഔട്ട്‌പോസ്റ്റ് ജംഗ്ഷനില്‍ സ്ഥിതി ചെയ്യുന്ന പഞ്ചായത്ത് കളിസ്ഥലം നിര്‍മ്മാണം (ആസ്തിവികസന ഫണ്ടില്‍ നിന്നും 50 ലക്ഷം + സര്‍ക്കാര്‍ വിഹിതമായ 50 ലക്ഷം )",
+            "implementing_agency": "സ്പോർട്സ് കേരള ഫൗണ്ടേഷൻ",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "എണ്ണയ്ക്കാച്ചിറ - കുട്ടന്‍ചിറമറ്റം റോഡ്‌ നിര്‍മ്മാണം, വാര്‍ഡ്‌:17, കുറിച്ചി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 34.16,
+            "concurrence_lakhs": 30.5
+        },
+        {
+            "project_name": "കളപ്പുരയ്ക്കല്‍-ഏലംകുന്നം റോഡ്‌ നിര്‍മ്മാണം, വാര്‍ഡ്‌: 14, മാടപ്പള്ളി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 14.65
+        },
+        {
+            "project_name": "കിഴക്കേക്കുന്ന് - കൊച്ചുവീട് റോഡ്‌, വാര്‍ഡ്‌:13, മാടപ്പള്ളി ഗ്രാമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പതാരം ചിറ - ആഞ്ഞിലിവേലിക്കുളം റോഡ്‌ , വാര്‍ഡ്‌: 17, തൃക്കൊടിത്താനം ഗ്രാമപ്പഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കൊല്ലമറ്റം ചീരഞ്ചിറ റോഡില്‍ കുറിച്ചി പഞ്ചായത്തിന്‍റെ അതിര്‍ത്തിയില്‍ വരുന്ന വൈദ്യരുപടി മുതല്‍ 160-ആം നമ്പര്‍ അംഗന്‍വാടിക്ക് സമീപമുള്ള കുറിച്ചി പഞ്ചായത്തിന്‍റെ അതിര്‍ത്തിവരെയുള്ള ഭാഗത്തിന്‍റെ പുനരുദ്ധാരണ പ്രവൃത്തികള്‍",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 14.7
+        },
+        {
+            "project_name": "കുറിച്ചി പഞ്ചായത്തിലെ 9,10 വാര്‍ഡുകളിലൂടെ കടന്നുപോകുന്ന റോഡില്‍ കുറിച്ചി പഞ്ചായത്തിന്‍റെ അതിര്‍ത്തി മുതല്‍ വൈദ്യരുപടി വരെയുള്ള ഭാഗത്തിന്‍റെ പുനരുദ്ധാരണ പ്രവൃത്തികള്‍",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചങ്ങനാശ്ശേരി നിയോജകമണ്ഡലത്തിലെ മാടപ്പള്ളി പഞ്ചായത്തില്‍ വാര്‍ഡ്‌: 04-ല്‍ ഉള്ള മാളികപ്പടി - ദൈവംപടി റോഡിലെ മാളികപ്പടി മുതല്‍ വിത്തരിക്കുന്ന്‍ കോളനി വരെയുള്ള റോഡിന്‍റെ പുനരുദ്ധാരണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ചങ്ങനാശ്ശേരി നിയോജകമണ്ഡലത്തില്‍ കുറിച്ചി ഗ്രാമപ്പഞ്ചായത്തിലെ 09,10 വാര്‍ഡുകളിലൂടെ കടന്നുപോകുന്ന കൊല്ലമറ്റം - വൈദ്യരുപടി റോഡിന്‍റെ പുനരുദ്ധാരണം.",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അയിത്തമുണ്ടകം പാലം മുതൽ ഒറവക്കൽ വരെ റോഡും, സംരക്ഷണ ഭിത്തിയും നിർമ്മാണം, പായിപ്പാട് പഞ്ചായത്ത് (മാടപ്പള്ളി ബ്ലോക്ക്)",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2019-2020",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "റീത്ത്പള്ളി - കൈതക്കോട്ടൽപ്പടി റോഡ് നിർമ്മാണം,വാർഡ് : 10 , പായിപ്പാട് പഞ്ചായത്ത് (മാടപ്പള്ളി ബ്ലോക്ക്)",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2019-2020",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചങ്ങനാശ്ശേരി മുനിസിപ്പാലിറ്റിയിലെ പാറയിൽ റോഡ് (മലയിൽ റോഡ്) നിർമാണം",
+            "implementing_agency": "Changanacherry Muncipality",
+            "category": "Road",
+            "fy": "2019-2020",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പായിപ്പാട് ഗ്രാമപഞ്ചായത്തിലെ അംഗൻവാടിക്ക് കെട്ടിട നിർമാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2020-2021",
+            "estimate_lakhs": 16.5,
+            "concurrence_lakhs": 16.5
+        },
+        {
+            "project_name": "പായിപ്പാട് ഗ്രാമപഞ്ചായത്തിലെ ഇലവും മൂട്ടിൽ-കണ്ണകൊട്ടൽ പടി റോഡ് നിർമാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2019-2020",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പായിപ്പാട് ഗ്രാമപഞ്ചായത്തിലെ പൊടിപാറ-മൂലേപ്പടി റോഡ് നിർമാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2020-2021",
+            "estimate_lakhs": 16.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മാടപ്പള്ളി ഗ്രാമപഞ്ചായത്തിലെ കൈതമറ്റം -തെന്നാടി-ചെത്തിപ്പുഴ റോഡ് നിർമാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 22.5,
+            "concurrence_lakhs": 22.5
+        },
+        {
+            "project_name": "പായിപ്പാട് ഗ്രാമപഞ്ചായത്തിലെ ഉരുളേപറമ്പ്-മലയിൽമറ്റം റോഡ് നിർമാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തൃക്കൊടിത്താനം ഗ്രാമപഞ്ചായത്തിലെ ചെരുവുംകാലായിൽ - കുഴിതകിടി റോഡ് നിർമാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "തൃക്കൊടിത്താനം ഗ്രാമപഞ്ചായത്തിലെ വളോലിക്കൽ-കളപ്പുരക്കൽ റോഡ് നിർമാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ആരാധനാമഠം - ശാന്തിഗിരി ആയുർവേദാശുപത്രി റോഡ് നിർമ്മാണം,മാടപ്പള്ളി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അക്ഷര പുള്ളിക്കുഴി കുളം റോഡ്, കുറിച്ചി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മാടപ്പള്ളി യു.പി. സ്കൂളിന് പുതിയ കെട്ടിട നിർമ്മാണം,മാടപ്പള്ളി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 100.0,
+            "concurrence_lakhs": 100.0
+        },
+        {
+            "project_name": "കൊല്ലമറ്റം വൈദ്യരുപടി റോഡ് നിർമ്മാണം വാഴപ്പള്ളി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഹൈവേ - കോട്ടച്ചിറ  റോഡ് നിർമ്മാണം , മാടപ്പള്ളി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "Additional fund for construction of Pazhaya Panchayatpadi to Gov.L.P.School - Paippadu Road in Paippadu Grama Panchayat",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 5.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of Kochu Road - Mulanthanam - Pallipady road in Madappally Grama Panchayath",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.47,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of Laikkadu - Gurumandiram road in Paippadu Grama Panchayath",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "Construction of Unthikkadu-Nursary Padi Road",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "Construction of Mannathu Padmanabhan Road-NSS Working women's hostel - bypass Road",
+            "implementing_agency": "Changanacherry Muncipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തൃക്കൊടിത്താനം ഗ്രാമപഞ്ചായത്തിലെ അയ്യപ്പ ക്ഷേത്രം കലുങ്കും അപ്പ്രോച്ച് റോഡ് നിർമാണവും",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മാടപ്പള്ളി ഗ്രാമപഞ്ചായത്തിലെ കൊച്ചു റോഡ് - മുളന്താനം- പള്ളിപ്പടി റോഡ് നിർമാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 12.47,
+            "concurrence_lakhs": 12.47
+        },
+        {
+            "project_name": "പായിപ്പാട് ഗ്രാമപഞ്ചായത്തിലെ എസ്.എൻ.ഡി.പി.-അയിത്തമുണ്ടകം റോഡ് നിർമാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പായിപ്പാട് ഗ്രാമപഞ്ചായത്തിലെ പഴയ പഞ്ചായത്ത്പടി- ഗവ. യു.പി.സ്‌കൂൾ റോഡ് നിർമാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 18.41
+        },
+        {
+            "project_name": "കുറിച്ചി ഗ്രാമപഞ്ചായത്തിലെ ഇമ്മാവൂസ് പള്ളി -പാലപ്പറമ്പ് റോഡ് നിർമാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 10.18
+        },
+        {
+            "project_name": "തൃക്കൊടിത്താനം ഗ്രാമപഞ്ചായത്തിലെ തോപ്പിൽപ്പടി - ഒറ്റാലത്ത് പടി റോഡ് നിർമാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തൃക്കൊടിത്താനം ഗ്രാമപഞ്ചായത്തിലെ കൊക്കോട്ടുചിറ അയിത്തമുണ്ടകം പാതാരം ചിറപ്പടി ശ്മശാനം റോഡ് നിർമാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 22.0
+        },
+        {
+            "project_name": "തൃക്കൊടിത്താനം ഗ്രാമപഞ്ചായത്തിലെ കൊടിനാട്ടുകുന്ന് കടമാൻചിറ റോഡ് നിർമാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "തൃക്കൊടിത്താനം ഗ്രാമപഞ്ചായത്തിലെ പാറയിൽപടി - കോലേറ്റുപടി റോഡിൽ ഓട നിർമാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തൃക്കൊടിത്താനം ഗവ.എൽ.പി.സ്‌കൂളിന്  കെട്ടിട നിർമാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 100.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മാടപ്പള്ളി ബ്ലോക്ക് പഞ്ചായത്തിന് കെട്ടിട നിർമാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 100.0,
+            "concurrence_lakhs": 100.0
+        },
+        {
+            "project_name": "ചങ്ങനാശേരി മുനിസിപ്പാലിറ്റിയിലെ അറക്കൽ വീട് പടിഞ്ഞാറേ വശം മുതൽ അരമനപ്പടി എസ്.ബി.കോളേജ് വരെ  റോഡ്  നിർമാണം രണ്ടാം റീച്.",
+            "implementing_agency": "Changanacherry Muncipality",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 31.0,
+            "concurrence_lakhs": 31.0
+        },
+        {
+            "project_name": "വാഴപ്പള്ളി ഗ്രാമപഞ്ചായത്തിലെ  ചെട്ടിശ്ശേരി- വെളച്ചിമംഗലം പാലത്തിന് ഇരുവശവും നടപ്പാത നിർമാണവും അപ്പ്രോച്ച് റോഡ് കോൺക്രീറ്റിംഗും",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 13.5,
+            "concurrence_lakhs": 12.39
+        },
+        {
+            "project_name": "ചങ്ങനാശേരി മുനിസിപ്പാലിറ്റിയിലെ ആനന്ദാശ്രമം യു.പി.സ്‌കൂളിന് ടോയ്‌ലറ്റ് കോംപ്ലെസ് നിർമാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കുറിച്ചി ഗ്രാമപഞ്ചായത്തിലെ അഞ്ചൽകുറ്റി ചെറുവള്ളികുഴി റോഡ് നിർമാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മന്നത്ത് പത്മനാഭൻ റോഡ്-എൻ.എസ്.എസ്.വർക്കിംഗ് വിമൻസ് ഹോസ്റ്റൽ - ബൈ പാസ് റോഡ് നിർമാണം",
+            "implementing_agency": "Changanacherry Muncipality",
+            "category": "Road",
+            "fy": "2019-2020",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വാഴപ്പള്ളി  ഗ്രാമപഞ്ചായത്തിലെ കുരിശുമൂട് പട്ടാണിച്ചിറ റോഡ് നിർമാണം.",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2017-2018",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മാടപ്പള്ളി ഗ്രാമപഞ്ചായത്തിലെ ചെന്നാമറ്റം - ഇയ്യാലി റോഡ്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2017-2018",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "വാഴപ്പള്ളി ഗ്രാമപഞ്ചായത്തിലെ  ചിറ്റേട്ടുകളം കണ്ണംപേരൂർ  പടി റോഡ്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2017-2018",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "A C Road Viswa Karma Society to Perumbazhakkadavu Link Road Drainage and covering Slab in Changanacherry Muncipality Ward 20",
+            "implementing_agency": "Changanacherry Muncipality",
+            "category": "Road",
+            "fy": "2019-2020",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പായിപ്പാട് ഗ്രാമപഞ്ചായത്തിലെ മുക്കാഞ്ഞിരം തെക്കേപ്പള്ളി റോഡ്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2019-2020",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "Purchase of School Van to Govt.UPS Cheeranjira",
+            "implementing_agency": "Deputy Director Of Education",
+            "category": "Education",
+            "fy": "2017-2018",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "MC Road-Mission Pally to Kallidanthi(Kalathil) Road in Vazhappally Gramapanchayath",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2017-2018",
+            "estimate_lakhs": 14.63,
+            "concurrence_lakhs": 14.63
+        },
+        {
+            "project_name": "Koonanthanam- Purakadavu Road in Vazhappally GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2017-2018",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "DG Set for newly erected oxygen plant at Govt.General Hospital Changanacherry",
+            "implementing_agency": "PWD Electricals",
+            "category": "Healthcare",
+            "fy": "2021-2022",
+            "estimate_lakhs": 36.53,
+            "concurrence_lakhs": 36.53
+        },
+        {
+            "project_name": "DG set for newly erected oxygen plant at Govt.General Hospital,Changanacherry",
+            "implementing_agency": "District Medical Officer, Kottayam",
+            "category": "Healthcare",
+            "fy": "2021-2022",
+            "estimate_lakhs": 36.53,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "kottayam_shri_job_maichil_placeholder"
+}

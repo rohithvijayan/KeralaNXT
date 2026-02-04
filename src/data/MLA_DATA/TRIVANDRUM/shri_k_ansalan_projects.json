@@ -1,0 +1,628 @@
+{
+    "mla_name": "Shri K. Ansalan",
+    "constituency": "NEYYATTINKARA",
+    "summary": {
+        "total_expenditure_crores": 21.9535,
+        "breakdown": [
+            {
+                "label": "Others",
+                "value_crores": 5.5114
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 4.4065
+            },
+            {
+                "label": "Road",
+                "value_crores": 3.8412
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 2.9642
+            },
+            {
+                "label": "Education",
+                "value_crores": 2.8627
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 2.3675
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "നെയ്യാറ്റിന്‍കര നിയോജക മണ്ഡലത്തിലെ വിവിധ സ്ഥലങ്ങളില്‍ ബസ്  വെയിറ്റിംഗ് ഷെഡ്‌ സ്ഥാപിക്കല്‍ \r\n1,കൊറ്റാമം-ആറയൂര്‍ സ്കൂള്‍ ജംഗ്ഷന്‍ \r\n2,അമരവിള-താന്നി മൂട് ജംഗ്ഷന്‍ \r\n3,നെയ്യാറ്റിന്‍കര വഴുതൂര്‍   പവിത്രാനന്ദ പുരം കോളനിക്ക് സമീപം\r\n4,മാവിളക്കടവ് ജംഗ്ഷന്‍ ,\r\n5,കുളത്തൂര്‍ ഉച്ചക്കട റോഡില്‍ ചാമ വിള ജംഗ്ഷന്‍",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 0.01,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of RCC Retaining wall on the left side of chenkal Minor branch canal near Ch 3900 m in chenkal GP",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, ഇറിഗേഷൻ ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 0.01,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of Bridge at chainage 5575m of Olathanni Branch canal in Athiyannur GP",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, ഇറിഗേഷൻ ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 0.01,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of Aqueduct in Kuzhichani sub canal at ch.150m (near st joseph  church kuzhichani) in Chenkal Grama panchayth Neyyattinkara LAC",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ്  എഞ്ചിനീയർ, വൻകിട ജലസേചന വിഭാഗം , തിരുവനന്തപുരം",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 0.01,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിന്‍കര നിയോജക മണ്ഡലത്തില്‍ നെയ്യാറ്റിന്‍കര മുന്‍സിപ്പാലിറ്റി,കുളത്തൂര്‍ ,അതിയന്നൂര്‍,കരോട്  ഗ്രാമ പഞ്ചായത്തുകള്‍ എന്നിവിടങ്ങളിലെ 40 ലൊക്കേഷനുകളില്‍ മിനി മാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കല്‍",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 64.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിന്‍കര നിയോജക മണ്ഡലത്തില്‍ ചെങ്കല്‍ ഗ്രാമ പഞ്ചായത്തിലെ അഴകി കോണം-വട്ട പറമ്പ് സൈഡ് വാള്‍ നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, മൈനർ ഇറിഗേഷൻ ഡിവിഷൻ,തിരുവനന്തപുരം",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 0.01,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of RCC Retaining wall on the left side of chenkal Minor  branch canal near Ch 3900 m in chenkal GP",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 0.01,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "General Hospital Neyyattinkara -  Finishinig work  of Newly Constructed First&Second Floor Pay ward Building-General Electrical Work",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Healthcare",
+            "fy": "2025-2026",
+            "estimate_lakhs": 0.01,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിന്‍കര നിയോജക മണ്ഡലത്തിലെ പ്ലാങ്കാല കുഴി വിള കോണം വെള്ളാറല്‍ തോട് സൈഡ് വാള്‍ നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 0.01,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിന്‍കര നിയോജക മണ്ഡലത്തിലെ തിരുപുറം,ചെങ്കല്‍ ഗ്രാമ പഞ്ചായത്തുകളിലെ 9 ലൊക്കേഷനുകളില്‍ മിനി മാസ്റ്റ് ലൈറ്റുകള്‍(08 Mtr pole &4Nos 200w LED Flood Light) സ്ഥാപിക്കല്‍",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.4,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിന്‍കര ആയുര്‍വേദ ആശുപത്രിയുടെ ഒന്നാം നില നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Healthcare",
+            "fy": "2025-2026",
+            "estimate_lakhs": 86.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിന്‍കര നിയോജക മണ്ഡലത്തിലെ വെണ്‍കുളം കാരോട് ചില്‍ഡ്രന്‍സ് പാര്‍ക്ക് നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.9,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Dining Hall in Various School \r\n1.St Chrysostom's English Medium Girls Nellimoodu\r\n2.MKM LPS Pongil\r\n3.LMS LPS Kollavamvila Irumpil\r\n4.MSC LPS Maruthathoor Chaykottukonam\r\n5.St.Mary's Higher Secondary School Kamukinkodu\r\n6.Solver Hill Lutheran PLS Marayamuttom",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിന്‍കര നഗര സഭയിലെ ആലംപൊറ്റ അയണിയറത്തല കുളത്തിന്റെ സൈഡ് വാള്‍ നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 19.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Improvement of Manjira -Kavalakulam road    Panangattukari ward in Neyyattinkara Municipality",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of gate in Puthichal UPS in Athiyannoor GP",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of side protection and inter lock Pavement works to Chittudayan Temple road at Pazhinjikuzhi -Neyyaattinkara  Municipality",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, ഇറിഗേഷൻ ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.2,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിന്‍കര നിയോജക മണ്ഡലത്തിലെ പെരുമ്പഴുതൂര്‍ ഗവ.ഹൈ സ്കൂളിന്റെ ഒന്നാം നില നിര്‍മ്മാണം",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 99.99,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുളത്തൂര്‍ ഗ്രാമ പഞ്ചായത്തിലെ കാഞ്ഞിരംകാട്-ചാങ്ങയില്‍ റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of Turf in GHSS Boys in Neyyattinkara",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 64.72,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിന്‍കര നിയോജക മണ്ഡലത്തിലെ വിവിധ സ്ക്കൂളുകള്‍ക്ക് സ്കൂള്‍ ബസ് വാങ്ങല്‍ (ഭരണാനുമതി പുതുക്കി നല്‍കല്‍ )  നെയ്യാറ്റിന്‍കര ഗവ.ഗേള്‍സ്‌ ഹയര്‍സെക്കന്‍ഡറി സ്ക്കൂള്‍ ,ഗവ.UPS  പുതിച്ചല്‍,JBS നെയ്യാറ്റിന്‍കര",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ ഉപ ഡയറക്ടർ",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.92,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിന്‍കര നിയോജക മണ്ഡലത്തിലെ വിവിധ  സ്ക്കൂളുകള്‍ക്ക് ബസ് വാങ്ങി നല്‍കല്‍ (ഭരണാനുമതി പുതുക്കി നല്‍കല്‍ )\r\n 1)ഗവ.യു.പി.എസ് പൊഴിയൂര്‍,\r\n2)ഗവ.എല്‍.പി.എസ് നല്ലൂര്‍ വട്ടം , \r\n3)ഗവ.ടൌണ്‍ എല്‍.പി.എസ് നെയ്യാറ്റിന്‍കര",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ ഉപ ഡയറക്ടർ",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 6.25,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "CUNSTRUCTION OF BRIDGES IN VARIOUS PLACES-OF CHANNELS  KARODE, THIRUPURAM,ATHIYANNOOR GRAMA PANCHAYATH  AND NEYYATTINKARA MUNICIPALITY",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ്  എഞ്ചിനീയർ, വൻകിട ജലസേചന വിഭാഗം , തിരുവനന്തപുരം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 71.67,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചെങ്കൽ ഗ്രാമപഞ്ചായത്തിലെ മര്യാപുരം -കുന്നുവിള റോഡ് ഇൻറർലോക്ക്",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിൻ കര മുൻസിപ്പാലിറ്റിയിലെ മാമ്പഴക്കര കുറവോട് റോഡ് സൈഡ് വാൾ നിർമാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിൻകര നഗരസഭയിലെ ഏലവിള-ജയിൽ റോഡ് സെഡ് വാൾ & ഇൻറർലോക്ക്",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ആറാലും മൂട് മാർക്കറ്റിൻെറ ഒന്നാം നില നിർമാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 99.15,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിൻകര ജനറൽ ആശുപത്രിയിലെ രണ്ടാം നില നിർമാണവും അനുബന്ധ പ്രവർത്തികളും",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Healthcare",
+            "fy": "2024-2025",
+            "estimate_lakhs": 99.85,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിൻകര തിരുപുറം ഗവ.ഹയർ സെക്കണ്ടറി സ്കൂളിൽ ക്ളാസ് റൂം നിർമാണം",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 73.98,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുളത്തൂർ ഗ്രാമപഞ്ചായത്തിലെ കുളത്തൂർ HSS ,വില്ലേജ് ഓഫീസ് പരിസരം എന്നിവിടങ്ങളിൽ വെയ്റ്റിംഗ് ഏര്യ നിർമാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF BRIDGES AT VARIOUS PLACES OF CANALS AND THODE IN NEYYATTINKARA LAC\r\n\r\n\r\n1.construction of a bridge near Ch.6500m of  Chenkal major branch canal at Parayanvila in Ponvila ward of Chenkal Panchayat\r\n2.Construction of retaining wall near Ch. 2 6640m of Kollayil branch canal in Udayankulangara ward of Chenkal Panchayath-\r\n3.Construction of box culvert acrossThrikannapuram- Amaravila tile factory road at Keezhkolla ela in ward No.1 of Chenkal Grama Panchayath\r\n4.Construction of box culvert across Vandichira sub thodu at Muttavila in keezhambhagam Warad of Chenkal Grama Panchayath.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, ഇറിഗേഷൻ ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിൻകര നിയോജക മണ്ഡലത്തിലെ 11 സ്ഥലങ്ങളിൽ (നെയ്യാറ്റിൻകര മുൻസിപ്പാലിറ്റി,കുളത്തൂർ ഗ്രാമപഞ്ചായത്ത്,ചെങ്കൽ ഗ്രാമപഞ്ചായത്ത്,തിരുപുറം ഗ്രാമപഞ്ചായത്ത്,അതിയന്നൂർ ഗ്രാമപഞ്ചായത്ത്)മിനിമസ്ത് ലൈറ്റുകൾ സ്ഥാപിക്കൽ-(08 MTR OCT POLE MINI MAST WITH 04 NOS OF 200W LED FLOOD LIGHTS",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.16,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പെരുമ്പഴുതൂർ PHC ഒ.പി.യൂണീറ്റ് നിർമാണം",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 26.17,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "VENPAKAL CHC(വെൺപകൽ ആശുപത്രി കെട്ടിട നിർമാണം)",
+            "implementing_agency": "ജനറല്‍ മാനേജര്‍,  ഇന്‍കെല്‍ (ഇന്‍ഫ്രസ്ട്രക്ചര്‍ കേരള ലിമിറ്റഡ്)",
+            "category": "Healthcare",
+            "fy": "2023-2024",
+            "estimate_lakhs": 54.8,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിൻകര മുൻസിപ്പാലിറ്റിയിലെ ഓലത്താന്നി ഇരുവൈക്കോണം റോഡ് റീ ടാറിംഗ്",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിൻകര നിയോജക മണ്ഡലത്തിലെ 5 സ്കൂളുകൾക്ക് പാചകപുര നിർമാണം\r\n1.മുള്ളുവിള എൽ.എം.എസ്  എൽ.പി.എസ്\r\n2.സോവർ ഹിൽ ലൂഥറൻ എൽ.പി.എസ് മാരായമുട്ടം\r\n3.ജെ.ബി.എസ് അമരവിള താന്നിമൂട് \r\n4.കുട്ട നിന്നതിൽ\r\n5.സെൻറ് മേരീസ് എൽ.പി.എസ് മരിയാപുരം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 55.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിൻകര മുൻസിപ്പാലിറ്റിയിലെ 4 റോഡുകളിൽ ഇൻറർലോക്ക് നിർമാണം\r\n1.കൃഷ്ണപുരം തോട്ട് വാരം നടപ്പാത.\r\n2.കറകാച്ചിവിള റോഡ്\r\n3.ടൈൽ ഫാക്ടറി വ്ളാങ്കാമുറി റോഡ്\r\n4.പള്ളി വിളാകം ബാസ്കർ റോഡ്",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.85,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റികര നഗരസഭയിലെ പറമ്പിത്തല-വടവോട് ഏലാറോഡും വഴുതൂർ പ്രതിഭ ഏലാറോഡും നിർമാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിൻകര നഗരസഭയിലെ പള്ളിവിളാകം പുന്നക്കാട് റോഡ് നിർമാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിൻകര നഗരസഭയിലെ തുടികോട്ട്കോണം-കാവിൽ ഏലാ റോഡ് നിർമാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തിരുപുറം ഗ്രാമപഞ്ചായത്തിലെ ചിത്തരം പണ്ടാരത്തോട്ടം -കരുവയ്ത്തല റോഡ് കോൺക്രീറ്റ്",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അതിയന്നൂർ ഗ്രാമപഞ്ചായത്തിലെ മൺകാല പ്ളാവറത്തല റോഡ് കോൺക്രീറ്റ്",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിൻകര മുൻസിപ്പാലിറ്റിയിലെ വിവധ സ്ഥലങ്ങളിൽ വെയ്റ്റിംഗ് ഷെഡ് നിർമാണം. \r\n1.പ്ലാമൂട്ട്കട ജംഗ്ഷൻ 2.പന്നികുഴികാല ജംഗ്ഷൻ 3.ഒാലത്താന്നി പൂവൻവിള. 4.ഒാലത്താന്നി നവഗ്രാമം ജംഗ്ഷൻ 5.അമ്പലം കുരിശടി ജംഗ്ഷൻ 6.നെല്ലിമൂട് ജംഗ്ഷൻ",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിൻകര മുൻസിപ്പാലിറ്റിയിലെ കൊല്ലം കോണം-കൊല്ലം വിളാകം അതിയന്നൂർ ഏലത്തോട് -(അതിയന്നൂർ ഗ്രാമപഞ്ചായത്ത്) സൈഡ് വാൾ നിർമാണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിൻകര മുനിസിപ്പാലിറ്റിയിലെ ടൈൽ ഫാക്ടറി-റാവേലി റോഡ് നിർമാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിൻകര മുൻസിപ്പാലിറ്റി- ഒറ്റപ്ലാവിള-ഞാറക്കാല-മുള്ള്കാട് പോങ്ങിൽ റോഡ് നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.35,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിന്‍കര നിയോജകമണ്ഡലത്തിലെ ഗവ.ഹൈസ്കൂള്‍ പെരുംപഴുതൂര്‍ ആഡിറ്റോറിയം,അനുബന്ധ പ്രവൃത്തികളും",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 66.58,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കരോട് പഞ്ചായത്തിലെ വിവിധ കനാലുകളില്‍ പാലവും സംരക്ഷണ ഭിത്തിയും നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, ഇറിഗേഷൻ ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 58.92,
+            "concurrence_lakhs": 58.92
+        },
+        {
+            "project_name": "ചെങ്കല്‍ ഗ്രാമപഞ്ചായത്തിലെയും നെയ്യാറ്റിന്‍കര മുനിസിപ്പാലിറ്റിയിലെയും  വിവിധ കനാലുകളില്‍ പാലവും സംരക്ഷണ ഭിത്തിയും നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, ഇറിഗേഷൻ ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 65.67,
+            "concurrence_lakhs": 65.67
+        },
+        {
+            "project_name": "നെയ്യാറ്റിന്‍കര നിയോജകമണ്ഡലത്തിലെ നെയ്യാറ്റിന്‍കര ജനറല്‍ ആശുപത്രിയിലെ പേ വാര്‍ഡ്‌ രണ്ടാം നില കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Healthcare",
+            "fy": "2021-2022",
+            "estimate_lakhs": 99.99,
+            "concurrence_lakhs": 99.99
+        },
+        {
+            "project_name": "നെയ്യാറ്റിന്‍കര നിയോജകമണ്ഡലത്തിലെ പൊഴിയൂര്‍ പരുത്തിയൂര്‍ തീരപ്രദേശത്തെ ഫിഷ്‌ ലാണ്ടിംഗ് സെന്റര്‍ സംരക്ഷണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, ഇറിഗേഷൻ ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Irrigation",
+            "fy": "2021-2022",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിന്‍കര നഗരസഭയിലെ മൂന്നുകല്ലിന്മൂട് ഊരുട്ടുകാല റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, ഇറിഗേഷൻ ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.72,
+            "concurrence_lakhs": 15.72
+        },
+        {
+            "project_name": "കരോട് ഗ്രാമപഞ്ചായത്തിലെ വെണ്‍കുളം കള്‍വര്‍ട്ട് നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.01,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിന്‍കര നിയോജകമണ്ഡലത്തിലെ വിവിധ സ്കൂളുകള്‍ക്ക് സ്കൂള്‍ ബസ് വാങ്ങല്‍ \r\n1.ഗവ. യു പി എസ് പൊഴിയൂര്‍ \r\n2.ഗവ.എല്‍ പി എസ് നല്ലൂര്‍വട്ടം \r\n3.ഗവ.ടൌണ്‍ എല്‍ പി എസ് നെയ്യാറ്റിന്‍കര",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ ഉപ ഡയറക്ടർ",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിന്‍കര നിയോജകമണ്ഡലത്തിലെ വിവിധ സ്കൂളുകള്‍ക്ക് സ്കൂള്‍ ബസ്‌ വാങ്ങല്‍ \r\n1.നെയ്യാറ്റിന്‍കര ഗവ.ഗേള്‍സ് ഹയര്‍സെക്കന്‍ഡറി സ്കൂള്‍ \r\n2.ഗവ. യു പി എസ് പുതിച്ചല്‍ \r\n3.ജെ ബി എസ് നെയ്യാറ്റിന്‍കര",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ ഉപ ഡയറക്ടർ",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 62.51,
+            "concurrence_lakhs": 62.5
+        },
+        {
+            "project_name": "നെയ്യാറ്റിന്‍കര നഗരസഭയിലെ പുല്ലാമല റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിന്‍കര നഗരസഭയിലെ പുല്ലാമല റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിന്‍കര നഗരസഭയിലെ പ്രായിമൂട് ടൈല്‍ ഫാക്ടറി റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.0,
+            "concurrence_lakhs": 11.0
+        },
+        {
+            "project_name": "കരോട് ഗ്രാമപഞ്ചായത്തിലെ പാറയില്‍ ക്ഷേത്രം റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിന്‍കര നഗരസഭയിലെ കമുകിന്‍കുഴി അമ്പലം റോഡ്‌ മുതല്‍ ബഥനി സ്കൂള്‍ റോഡ്‌ കോണ്‍ക്രീറ്റ്",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിന്‍കര നഗരസഭയിലെ കണിയാംകുളംചുറ്റ് റോഡ്‌ ടാറിംഗ്",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിന്‍കര നിയോജകമണ്ഡലത്തിലെ നെയ്യാറ്റിന്‍കര ജനറല്‍ ആശുപത്രിയില്‍ പേവാര്‍ഡിന് ഒന്നാം നില നിര്‍മ്മാണം",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 100.0,
+            "concurrence_lakhs": 100.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിന്‍കര നഗരസഭയിലെ,മുന്നുകല്ലിന്‍മൂട് വാര്‍ഡിലെ കണ്ണംകുളം കരക്കാച്ചിവിള റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിന്‍കര നിയോജകമണ്ഡലത്തിലെ ചുവടെ ചേര്‍ക്കുന്ന വിവിധ  അംഗന്‍വാടികള്‍ക്ക് കെട്ടിട നിര്‍മ്മാണം.\r\n1) വഴിമുക്ക് പ്ലാങ്കവിള അംഗന്‍വാടി. 2) വട്ടവിള കുന്നന്‍വിള അംഗന്‍വാടി. 3) വെണ്‍പകല്‍  അംഗന്‍വാടി. 4) മുള്ളുക്കാട്‌ അംഗന്‍വാടി.  5) പൂകൈത അംഗന്‍വാടി. 6) കോടങ്കര അംഗന്‍വാടി.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 88.41,
+            "concurrence_lakhs": 88.41
+        },
+        {
+            "project_name": "ആറയൂര്‍ ഗവ.L V H S S ന് ഓപ്പണ്‍  എയര്‍ ഓടിറ്റോറിയം പൂര്‍ത്തികരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.0,
+            "concurrence_lakhs": 11.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിന്‍കര നഗരസഭയിലെ ഓലതാന്നി താഴങ്ങാടി നാരദന്‍കുഴി റോഡ്‌ റീടാറിംഗ് & കോണ്‍ക്രീറ്റ്",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "അതിയന്നൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ  മാങ്കുളം-തേരിവിള റോഡ്‌ നിര്‍മ്മാണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "നെയ്യാര്‍ നദിയുടെ അരുവിപ്പുറം ഭാഗത്ത്‌ സൈഡ് വാള്‍ നിര്‍മ്മാണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, ഇറിഗേഷൻ ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 52.1,
+            "concurrence_lakhs": 52.1
+        },
+        {
+            "project_name": "നെയ്യാറ്റിന്‍കര ഗവ.ബോയ്സ് ഹയര്‍ സെക്കന്‍ഡറി സ്കൂളിലെ ആഡിറ്റോറിയം നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, ഇറിഗേഷൻ ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിന്‍കര നിയോജകമണ്ഡലത്തിലെ വിവിധ സ്കൂളുകള്‍ക്ക് പാചകപുര നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        },
+        {
+            "project_name": "നെയ്യാറ്റിന്‍കര മുനിസിപാലിറ്റിയിലെ മണലൂര്‍ തെക്കേവീട് പാലം നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "കരോട് ഗ്രാമപഞ്ചായത്തിലെ ബഡ്സ് സ്കൂള്‍ പൂര്‍ത്തികരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ചെങ്കല്‍ ഗ്രാമപഞ്ചായത്തിലെ വണ്ടിച്ചിറ തോട് സൈഡ് വാള്‍ നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Irrigation",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "shri_k_ansalan_placeholder"
+}

@@ -1,0 +1,329 @@
+{
+    "mla_name": "Shri H. Salam",
+    "constituency": "AMBALAPUZHA",
+    "district": "Alappuzha",
+    "summary": {
+        "total_expenditure_crores": 15.5315,
+        "breakdown": [
+            {
+                "label": "Infrastructure",
+                "value_crores": 6.0686
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 5.4699
+            },
+            {
+                "label": "Road",
+                "value_crores": 3.193
+            },
+            {
+                "label": "Education",
+                "value_crores": 0.5
+            },
+            {
+                "label": "Others",
+                "value_crores": 0.3
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "ഒരു പഞ്ചായത്തിൽ ഒരു കളിക്കളം പദ്ധതി - പുന്നപ്ര തെക്ക് അറവുകാട് ഹൈസ്കൂൾ ഗ്രൗണ്ട് ആധുനിക സൌകര്യങ്ങളോടെ നവീകരിക്കൽ എന്ന  പ്രവൃത്തി - ഭരണാനുമതി നല്കുന്നത് - സംബന്ധിച്ച് .",
+            "implementing_agency": "Sports Kerala Foundation",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "അമ്പലപ്പുഴ സൗത്ത് ഗ്രാമപഞ്ചായത്ത് - വാർഡ് 5 - മേലത്തുംകരി റോഡ് നിർമ്മാണം.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 54.0,
+            "concurrence_lakhs": 54.0
+        },
+        {
+            "project_name": "ആലപ്പുഴ ജില്ല ആയൂർവേദ ആശുപത്രി കെട്ടിടം നിർമ്മാണം.",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 99.99,
+            "concurrence_lakhs": 99.99
+        },
+        {
+            "project_name": "കുഞ്ചൻ നമ്പ്യാർ സ്മാരക സാംസ്കാരിക നിലയം ഫേസ് 3 നിര്‍മ്മാണം.",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 99.95,
+            "concurrence_lakhs": 99.95
+        },
+        {
+            "project_name": "പുന്നപ്ര ഗവ: മുസ്ലീം എൽ.പി സ്ക്കൂളിന് പുതിയകെട്ടിടം നിർമ്മാണം.",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 99.5,
+            "concurrence_lakhs": 99.5
+        },
+        {
+            "project_name": "അമ്പലപ്പുഴ വടക്ക് ഗ്രാമ പഞ്ചായത്ത് അംഗനവാടി നമ്പർ - 39 ന് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ആലപ്പുഴ നഗരസഭ  ബീച്ച് വാർഡിൽ പ്രവൃത്തി പൂർത്തീകരിക്കുന്ന മുപ്പാലം വൈദ്യുതീകരിച്ച് വഴിവിളക്കുകൾ സ്ഥാപിക്കുക",
+            "implementing_agency": "പൊതുമരാമത്ത് ഇലക്ട്രിക്കൽ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "അമ്പലപ്പുഴ നിയോജക മണ്ഡലത്തിലെ കുഞ്ചൻ നമ്പ്യാർ സ്മാരക ഊട്ടുപുര നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 100.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "യാഫി പള്ളി റോഡ് പുനരുദ്ധാരണം",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 27.3,
+            "concurrence_lakhs": 27.3
+        },
+        {
+            "project_name": "പി.ആർ.ഡി കെട്ടിടം നിർമ്മാണം അനുബന്ധപ്രവൃത്തികൾ",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് ഇലക്ട്രോണിക്സ് വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.71,
+            "concurrence_lakhs": 16.71
+        },
+        {
+            "project_name": "ചങ്ങനാശേരി ജംഗ്ഷൻ-ബൈപ്പാസ് ലിങ്ക് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "പുറക്കാട് ഗ്രാമപഞ്ചായത്ത് കൂടംകരി -പുത്തൂർ റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 29.0,
+            "concurrence_lakhs": 29.0
+        },
+        {
+            "project_name": "അംഗനവാടി-കളർകോട് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ടി.ഡി മെഡിക്കൽ കോളേജ് ഓട്ടിസം സെന്‍റർ ടൈലിംഗ്",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.5,
+            "concurrence_lakhs": 12.5
+        },
+        {
+            "project_name": "അമ്പലപ്പുഴ വടക്ക് ഗ്രാമപഞ്ചായത്ത് മുരളിമുക്ക്-പയ്യംപിള്ളി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 42.0,
+            "concurrence_lakhs": 42.0
+        },
+        {
+            "project_name": "വലിയചുടുകാട് പമ്പ് ഹൌസ്-നാരകപ്പറമ്പ് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "തോട്ടപ്പള്ളി ഗവ.എല്‍.പി സ്ക്കൂളിന് കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 100.0,
+            "concurrence_lakhs": 99.95
+        },
+        {
+            "project_name": "പുറക്കാട് ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 2 യുവചേതന ഗ്രന്ഥശാല കെട്ടിടം നിര്‍മ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പുന്നപ്ര തെക്ക് ഗ്രാമ  പഞ്ചായത്ത് വാർഡ് -4 അംഗനവാടി കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "അമ്പലപ്പുഴ തെക്ക് ഗ്രാമ പഞ്ചായത്ത് വാർഡ് -4 അംഗനവാടി കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "അമ്പലപ്പുഴ തെക്ക് പഞ്ചായത്ത് വാർഡ് 9 കരുമാടി - തുമ്പയിൽ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "അമ്പലപ്പുഴ തെക്ക് പഞ്ചായത്ത് വാർഡ് 9 കരുമാടി - തുമ്പയിൽ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ആലപ്പുഴ ഗവ.സ്കക്കൂള്‍ ഓഫ് നഴ്സിംഗ് ന് സ്ക്കൂള്‍ വാഹനം",
+            "implementing_agency": "ആരോഗ്യവകുപ്പ്",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "ഗവ മുഹമ്മദന്‍സ് ഗേള്‍സ് സ്ക്കൂള്‍ പുതിയകെട്ടിടം നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 100.0,
+            "concurrence_lakhs": 99.95
+        },
+        {
+            "project_name": "ജനസേവിനി ഗ്രന്ഥശാല കെട്ടിടം നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "ടി.ഡി മെഡിക്കല്‍ കോളേജ് ആശുപത്രി ഓട്ടിസം സെന്‍റര്‍",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 24.5,
+            "concurrence_lakhs": 24.5
+        },
+        {
+            "project_name": "ഒരു പഞ്ചായത്തില്‍ ഒരു കളിക്കളം-അമ്പലപ്പുഴ തെക്ക് ഗ്രാമപഞ്ചായത്ത്-ഗവ മോഡല്‍ ഹയര്‍സെക്കന്‍ററി സ്ക്കൂള്‍ ഗ്രൌണ്ട് ആധുനിക സൌകര്യങ്ങളോടെ നവീകരിക്കല്‍",
+            "implementing_agency": "Sports Kerala Foundation",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "നീര്‍ക്കുന്നം എസ്.ഡി.വി യുപി സ്ക്കൂളില്‍ ക്ലാസ് റൂം നിര്‍മ്മിക്കുന്നതിന് ഭിത്തി ബലപ്പെടുത്തി ട്രസ് വര്‍ക്ക്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "പുറക്കാട് ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 18 അംഗനവാടി കെട്ടിടം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.7,
+            "concurrence_lakhs": 18.7
+        },
+        {
+            "project_name": "മുഹമ്മദന്‍സ് ബോയ്സ് ഹൈസ്ക്കൂളിന് ക്ലാസ് മുറി നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 36.0,
+            "concurrence_lakhs": 36.0
+        },
+        {
+            "project_name": "ആലപ്പുഴ വണ്ടാനം മെഡിക്കല്‍ കോളേജ് ആശുപത്രിയില്‍ വിശ്രമകേന്ദ്രം നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 100.0,
+            "concurrence_lakhs": 100.0
+        },
+        {
+            "project_name": "തിരുവമ്പാടി ഗവ.യുപി സ്ക്കൂളിന് കെട്ടിടം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 100.0,
+            "concurrence_lakhs": 99.99
+        },
+        {
+            "project_name": "അമ്പലപ്പുഴ തെക്ക് ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 11 അംഗനവാടി കെട്ടിടം നിര്‍മ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2021-2022",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "പുന്നപ്ര തെക്ക് ഗ്രാമപഞ്ചായത്ത് പ്രാഥമികാരോഗ്യകേന്ദ്രത്തിന് കെട്ടിടം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2021-2022",
+            "estimate_lakhs": 56.0,
+            "concurrence_lakhs": 56.0
+        },
+        {
+            "project_name": "അമ്പലപ്പുഴ തെക്ക് ഗ്രാമപഞ്ചായത്ത് വാർഡ് 2 ൽ അംഗൻവാടി കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2021-2022",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "പുന്നപ്ര വടക്ക് ഗ്രാമപഞ്ചായത്ത് വാർഡ് 7 ൽ അംഗൻവാടി കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2021-2022",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "alappuzha_shri_h_salam_placeholder"
+}

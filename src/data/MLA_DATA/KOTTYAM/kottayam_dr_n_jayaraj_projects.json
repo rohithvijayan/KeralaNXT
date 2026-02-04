@@ -1,0 +1,757 @@
+{
+    "mla_name": "DR. N. Jayaraj",
+    "constituency": "KANJIRAPPALLY",
+    "district": "Kottayam",
+    "summary": {
+        "total_expenditure_crores": 24.0836,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 8.8106
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 5.05
+            },
+            {
+                "label": "Others",
+                "value_crores": 3.3733
+            },
+            {
+                "label": "Education",
+                "value_crores": 2.67
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 1.6472
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 1.46
+            },
+            {
+                "label": "Water Supply",
+                "value_crores": 0.9725
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.1
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "Improvements to Puthenchanda Mannam brigde Road In Pallickathode GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2018-2019",
+            "estimate_lakhs": 12.6,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Improvements to Apayapadi Mambathi Road In Karukachal GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2018-2019",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Improvements to Anakkallu Pulimavu  Road in Kanjirappally GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2019-2020",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Improvements to Oottuparakkunnu Puthupallimattom  Road in Nedumkunnam GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2019-2020",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Improvements to Santhipuram Kochikuzhi Road In Karukachal GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2019-2020",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Improvements to Nariyanipoika Kaidachira Road in Nedumkunnam GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2019-2020",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Improvements to Mangattupadi Vellarappalli  road and YMA Vellarappally Road in Vazhoor GP,",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2020-2021",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Improvements to Thambalakad Mahakalipara Mattathipara Road in Kanjirappally GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2020-2021",
+            "estimate_lakhs": 15.94,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Improvements to Changanattupadi MallathupadiRoad in Nedumkunnam GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2020-2021",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Improvements to Puthupallimattom Pullokkunnel Road in Nedumkunnam GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2019-2020",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചിറക്കടവ് ഗ്രാമപഞ്ചായത്തിൽ കേരള സ്റ്റേറ്റ് ബുക്ക് മാർക്ക് മുഖേന  ഇ-ലൈബ്രി സ്ഥാപിക്കുന്നത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 12.33,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Providing Water Connection to Cheruvally Zone of Chirakkadavu GP (under CWSS to Manimala and Adjoining Panchayaths through KWA)",
+            "implementing_agency": "Kerala Water Authority",
+            "category": "Water Supply",
+            "fy": "2025-2026",
+            "estimate_lakhs": 97.25,
+            "concurrence_lakhs": 97.25
+        },
+        {
+            "project_name": "Improvements to Koodathinkal Vengacheri Road in Nedumkunnam GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Improvements to Madathumuripadi Thekkekarapadi Inchakuzhi Road in Karukachal GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of New Building for Cheruvally Janakeeya Arogya Kendram(Ayushman Arogya Mandir)",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 86.0,
+            "concurrence_lakhs": 86.0
+        },
+        {
+            "project_name": "Improvements to Parathanam Elappunkal road in pallickathode  GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "Construction of Toilet Block for St Aphrems High School Chirakkadavu(Aided)",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഒരു പഞ്ചായത്തിൽ ഒരു കളിക്കളം പദ്ധതി,ഇളംപളളി ഗവ.യു.പി സ്കൂൾ,പളളിക്കത്തോട് ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "സ്പോർട്സ് കേരള ഫൗണ്ടേഷൻ",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of Waiting shed at KanjirappallyPetta,Manimala Mukkada Junctions in Kanjirappally Block Area",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Installation of Minimast  Lights at Various Places in Pallickathode and Manimala Gramapanchayaths",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 32.48,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Installation of Minimast  Lights at Various Places in Vazhoor ,Kangazha , Karukachal ,Nedumkunnam , and Vellavoor Gramapanchayaths",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 83.52,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Installation of Minimast  Lights at Various places In,Kanjirappally and Chirakkadavu GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 48.72,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഒരു പഞ്ചായത്തിൽ ഒരു കളിക്കളം പദ്ധതി- നെടുങ്കുന്നം ഗവ. ഹയർ സെക്കണ്ടറി സ്കൂൾ",
+            "implementing_agency": "സ്പോർട്സ് കേരള ഫൗണ്ടേഷൻ",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "Construction Of Kitchen Block for CMS High School Kanam  (Aided)",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "Improvements to Thannikuzhi Thiruvelloorpadi road and Maroorkadavu Pulikkallu Thannikkuzhi Road in Manimala GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "Improvements to Vijayan Colony Road In Kanjirappally GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Improvements to Pathiyilthodu VKVMLPS  Road In Kangazha GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Improvements to CSI padiKavumkal Road and 20 Acre Edayirikkapuzha Road In Kangazha GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 11.26
+        },
+        {
+            "project_name": "Development Of Play Ground  at  Govt.High School ,Koovakavu",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കരിപ്പയ്ക്കൽ ആറ്റുകുഴി  റോഡ് നിർമ്മാണം,പളളിക്കത്തോട് ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അരുവിക്കുഴി - ഇരുമ്പുകുഴി  റോഡ്  നിർമ്മാണം ,പളളിക്കത്തോട് ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Improvemets to Kunnubhagam Govt LP School Padi Sanathanam Road in Chirakkadavu GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "Improvements to Poovathumkuzhi Kakkuzhipadi Road in Vazhoor GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 26.52,
+            "concurrence_lakhs": 26.0
+        },
+        {
+            "project_name": "Improvements to Challoli Colony Road in Pallickathode GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of Waiting shed at Nedumkunnam, Manjappallikkunnu, Moolepeedika, Petta and Mukkada Junctions",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 24.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Improvements to Kadamkulam Thazhathuvadakara road in Vellavoor GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "Construction of Toilet Block for CCM HSS Karikattor, Manimala (Aided)",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Others",
+            "fy": "2019-2020",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "Construction of New Building for GLPS, Champakkara (VerticalExtension)",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of Toilet Block for Govt. LPS, Champakkara",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Improvements to Play Ground at Govt. Higher Secondary School, Nedumkunnam",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of Building for Ayurveda Dispensary, Nedumkunnam (3rd Phase)",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 65.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Improvements to Thoppilpadi Perumbaramala road in Pallickathode GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Improvements to MLA Padi Pulickal Kavala Road in Kangazha GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "Construction of New Building for Edayirikapuzha Ksheerolpadaka Sahakarana Sangham No. K.137D Apcos",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Improvements to Kuttikkal Thattaradi road (including construction of culvert) in Karukachal GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Improvements to Mangudipadi Kanjirathumkal road in Karukachal GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Improvements to Thommacheri Oothappara road in Karukachal GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.5,
+            "concurrence_lakhs": 15.5
+        },
+        {
+            "project_name": "Improvements to Varaputhripadi Hidwayikunnu Road in Vellavoor GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "സംസ്ഥാന സര്‍ക്കാരിന്‍റെ ഒരു പഞ്ചായത്തില്‍ ഒരു കളിക്കളം നിര്‍മ്മാണം പദ്ധതിയില്‍ ഉള്‍പ്പെടുത്തി കാഞ്ഞിരപ്പള്ളി നിയോജകമണ്ഡലത്തിലെ കറുകച്ചാല്‍ ഗ്രാമപ്പഞ്ചായത്ത് കളിസ്ഥലം നിര്‍മ്മാണം (സര്‍ക്കാര്‍ വിഹിതം 50 ലക്ഷം + ആസ്തിവികസന ഫണ്ട് 50 ലക്ഷം )",
+            "implementing_agency": "സ്പോർട്സ് കേരള ഫൗണ്ടേഷൻ",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "Providing Flood Light system for Volleyball Ground at PYMA Library Stadium in Kanjirappally",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Improvements to Njallamattam Thavittanamkuzhy Sangeetha Road in Kanjirappally GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "Improvements to Padanilam Karakkamattom road in Chirakadavu GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "Improvements to 7th Mile Ennassery Road in Vellavoor GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "Improvements to Manthuruthy Nedumkuzhy road in Nedumkunnam GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 13.5,
+            "concurrence_lakhs": 13.5
+        },
+        {
+            "project_name": "Improvements to NSS Mampel Road in Karukachal GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "Improvements to Parathanam Elappunkal road in Pallickathode GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Improvements to Karamala Charamparamb Road in Kangazha GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "Improvements to Kalaketty Manjukulam and Moozhikad Manjukulam Kurisupalli road in Kanjirappally GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "Improvements to Madathinalpadi Anchani  road in Karukachal GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "Formation and Improvements to 20th Mile Pulikalpadi road in Chirakkadavu GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "Improvements to CSI Church Puthuvelpadi Aryakkarappadi road in Kangazha GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Improvements to Kalluparambu High School road in Vazhoor GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Improvements to Parambukapadi Chamakkattu, Udayapuram Kanjirappara, Udayapuram Vayanasalapadi Parambunkal padi roads in Vazhoor GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 26.5,
+            "concurrence_lakhs": 26.5
+        },
+        {
+            "project_name": "Providing Floodlight system for Manimala Stadium",
+            "implementing_agency": "സ്പോർട്സ് കേരള ഫൗണ്ടേഷൻ",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Improvements to Puthuparambil Chettiyethara Road in Vazhoor GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of Kitchen Block for SH UP School, Ponkunnam (Aided)",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Education",
+            "fy": "2020-2021",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "Construction of New Building for Fire Station, Kanjirappally",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 240.0,
+            "concurrence_lakhs": 240.0
+        },
+        {
+            "project_name": "Construction of New Building for Anganavadi No.95 in chirakkadavu GP - ആസ്തി വികസന പദ്ധതി , 2023-24 -കാഞ്ഞിരപ്പള്ളി നിയോജക മണ്ഡലം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "Construction of New Building for Anganavadi No117 in chirakkadavu GP - ആസ്തി വികസന പദ്ധതി , 2023-24  -കാഞ്ഞിരപ്പള്ളി നിയോജക മണ്ഡലം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "Construction of New Building for Anganwadi No. 1 in Chirakkadavu GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "Construction of culvert at Kozhikuthy in Anakkallu Kozhikuthy road (Kanjirappally Gramapanchayathu)",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 32.5,
+            "concurrence_lakhs": 32.5
+        },
+        {
+            "project_name": "Improvements to Kanam Padinjattupakuthy Road in Kangazha GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "Construction of Retaining wall to both side of Cherumakkalpadi - Kochukandam - Anchani Road in Karukachal GP",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "Construction of New Building for Manimala PHC (II Phase)",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "Construction of side protection wall to both side of Chirakkal Thodu in Karukachal G.P",
+            "implementing_agency": "Minor Irrigation",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Improvements to Njallamattam Thavittanamkuzhy Sangeetha Road in Kanjirappally Grama Panchayathu (LSGD Road)",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "Improvements to Cathedralpadi Bishop House Kovilkadavu Road in Kanjirappally Grama Panchayathu (LSGD Road)",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "Improvements to Mahathma Gandhi Road in Manimala Grama Panchayathu (LSGD Road)",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "Improvements with BMBC to Ponkunnam Kappad Kuzhikattu via Thampalakkad Manthara Road (PWD Road)",
+            "implementing_agency": "PWD Roads",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 99.0
+        },
+        {
+            "project_name": "കാഞ്ഞിരപ്പള്ളി ഗവ: ഹൈസ്കൂള്‍ കുന്നുംഭാഗം പുതിയ കെട്ടിടത്തിന്റെ വെര്ട്ടി ക്കല്‍ എക്സ്റ്റന്ഷന്‍ (ഒന്നാം നില) നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 70.0,
+            "concurrence_lakhs": 70.0
+        },
+        {
+            "project_name": "സംസ്ഥാന സര്ക്കാറിന്റെ ഒരു പഞ്ചായത്തില്‍ ഒരു കളിക്കളം പദ്ധതി പ്രകാരം കാഞ്ഞിരപ്പള്ളി നിയോജകമണ്ഡലത്തിലെ മണിമല ഗ്രാമപ്പഞ്ചായത്ത് കളിസ്ഥലം നിര്മ്മാ ണം. (ആസ്തി വികസന ഫണ്ടില്‍ നിന്നും 50 ലക്ഷം + സര്ക്കാര്‍ വിഹിതമായ 50 ലക്ഷം)",
+            "implementing_agency": "സ്പോർട്സ് കേരള ഫൗണ്ടേഷൻ",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "കഞ്ഞിരപ്പള്ളി ഗവ.ഹൈ സ്കൂള്‍, കുന്നുംഭാഗം പുതിയ കെട്ടിട നിര്‍മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "നെടുംകുന്നം സെന്റ്‌.തെരേസാസ് ഗേള്‍സ് ഹൈ സ്കൂളിന് ടോയ്‌ലറ്റ് ബ്ലോക്ക് നിർമാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "വെള്ളാവൂർ ഗ്രാമ പഞ്ചായത്ത്  ഓഫീസ് കെട്ടിട നിർമാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 150.0,
+            "concurrence_lakhs": 150.0
+        },
+        {
+            "project_name": "മണിമല ഗ്രാമപഞ്ചായത്തിലെ കറിക്കാട്ടൂർ -കരിമ്പൻമാക്കൽ -പുലിക്കല്ല് റോഡ്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വാഴൂർ ഗ്രാമപഞ്ചായത്തിലെ ഉള്ളായം - ബ്രദറൺ ചർച്ഛ്- കല്ലടി റോഡ്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "കാഞ്ഞിരപ്പള്ളി ഗ്രാമപഞ്ചായത്തിലെ ഞള്ളാമറ്റം-തവിട്ടനാംകുഴി സംഗീതാ റോഡ്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പള്ളിക്കത്തോട് ഗ്രാമപഞ്ചായത്തിലെ കല്ലാടുംപൊയ്ക ഫാമിലി ഹെൽത്ത് സെന്റ്ററിന് പുതിയ കെട്ടിട നിർമാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Irrigation",
+            "fy": "2021-2022",
+            "estimate_lakhs": 86.0,
+            "concurrence_lakhs": 86.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "kottayam_dr_n_jayaraj_placeholder"
+}

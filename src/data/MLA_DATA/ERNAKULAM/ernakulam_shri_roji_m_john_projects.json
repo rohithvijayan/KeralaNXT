@@ -1,0 +1,569 @@
+{
+    "mla_name": "Shri Roji M. John",
+    "constituency": "ANGAMALY",
+    "district": "Ernakulam",
+    "summary": {
+        "total_expenditure_crores": 22.4187,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 5.537
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 5.3952
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 4.974
+            },
+            {
+                "label": "Others",
+                "value_crores": 2.0343
+            },
+            {
+                "label": "Education",
+                "value_crores": 1.9894
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 1.4038
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 1.085
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "MLA-ADS - 2025-2026 - ANGAMALI  LAC - PURCHASE   22  SEAT  SCHOOL  BUS   FOR   SNEHA  SADAN  SPECIAL  SCHOOL , POTHIYAKKARA  KALADY",
+            "implementing_agency": "Deputy Director (Education)Ernakulam",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 22.04,
+            "concurrence_lakhs": 22.04
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - ANGAMALI LAC - ANGANAWADI NO:140 STAGE -2 -PARAKADAV BLOCK PANCHAYATH - PARAKADAV GP  WARD NO: 6",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 11.0,
+            "concurrence_lakhs": 11.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - ANGAMALI LAC - INSTALLATION OF HIGH  MAST , MINI  MAST  LIGHT IN KALADI , AYYAMPUZHA , PARAKADAVU   GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 99.81,
+            "concurrence_lakhs": 99.81
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - ANGAMALI LAC - PARAMBAYAM KOKKARANI  CANAL  BUND CHELAKKANNIPADAM  SIDE PROTECTION AND DRAIN  CONSTRUCTION IN MOOKKANNOOR  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 23.25,
+            "concurrence_lakhs": 23.25
+        },
+        {
+            "project_name": "MLA-ADS-2025-2026 - ANGAMALI LAC-  Supply and Installation of 15 Nos of 06 Mtr. Mini Mast with 3x150W LED Flood lights, 30 Nos of 06 Mtr. Mini Mast with 2x150W LED Flood lights and 04 Nos of 6 Mtr Mini mast with 150W*1 LED Flood lights at various locations  in Manjapra Gramapanchayath, Thuravoor Gramapanchayath and Karukutty Gramapanchayath in Angamaly LAC, Ernakulam District",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 80.55,
+            "concurrence_lakhs": 80.55
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - ANGAMALI LAC - Supply and Installation of 3 Nos of 10 Mtr. High Mast with 6x150W LED Flood lights, 16 Nos of 06 Mtr. Mini Mast with 3x150W LED Flood lights, 29 Nos of 06 Mtr. Mini Mast with 2x150W LED Flood lights and 05 Nos of 6 Mtr Mini mast with 1x150W LED Flood lights at various locations in Angamaly Muncipality and Malayattoor-Neeleeswaram Gramapanchayath Angamaly LAC, Ernakulam District",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 94.75,
+            "concurrence_lakhs": 94.75
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - ANGAMALY LAC - CONSTRUCTION OF  INDIRA GANDHI ROAD (YCA LINK  ROAD ) IN WARD 17 OF MALAYATTOOR - NEELESHWARAM GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 13.12,
+            "concurrence_lakhs": 13.12
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026- ANGAMALY LAC - CONSTRUCTION OF MAROTTICHOD ST:ANTONYS CHURCH  ROAD   AT KALADY GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - ANGAMALY LAC - IMPROVMENTS TO THEKKE ATTARA VATTEKKADU  ROAD  IN MOOKKANNOOR GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - ANGAMALI LAC - PARAPURAM - AIKKATTU  ROAD   RESTORATION  WORK   AT   ANGAMALI MUNICIPALITY",
+            "implementing_agency": "ASSISTANT EXECUTIVE ENGINEER ANGAMALY MUNICIPALITY",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - ANGAMALI LAC - PROVIDING CONCREAT PAVING BLOCK AT KALADY CANAL LEFT BUND INNER SIDE AND HANDRAIL WORK BETWEEN CH:2/200 AND 2/522 OF KALADY GP",
+            "implementing_agency": "EXECUTIVE  ENGINEER, IDAMALAYAR IRRIGATION PROJECT DIVISION-2 , CHALAKUDY",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - ANGAMALI  LAC - CONSTRUCTION OF THALASHERY CANAL  BUND ANGANAWADI  ROAD OF KALADI  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 21.6,
+            "concurrence_lakhs": 21.6
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026- ANGAMALI LAC - RENOCATION OF CHETTIKULAM THEKKE KANAL BUND  ROAD IN WARD 6 OF PARAKADAV G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25 - ANGAMALI LAC - NAYARANGADI SHAPPUPADI  TEMPLE  LINK  ROAD  RETARRING  IN WARD 10 AND   RETARRING  WORK OF REETHAPPALLY POOTHATHURUTH  ROAD  IN WARD   28  OF  ANGAMALI  MUNICIPALITY",
+            "implementing_agency": "ASSISTANT EXECUTIVE ENGINEER ANGAMALY MUNICIPALITY",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 27.67,
+            "concurrence_lakhs": 27.67
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25-  ANGAMALI  LAC - PARAKULAM ROAD  CONSTRUCTION  IN WARD 4 AND 26  OF   ANGAMALI MUNICIPALITY",
+            "implementing_agency": "ASSISTANT EXECUTIVE  ENGINEER ANKAMALY MUNCIPALITY",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 69.0,
+            "concurrence_lakhs": 69.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-26 - ANGAMALI LAC - CONSTRUCTION OF THATTUPARA KANAKKANAMPARA  ROAD  IN AYYAMPUZHA  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 11.51,
+            "concurrence_lakhs": 11.51
+        },
+        {
+            "project_name": "MLA-ADS - 2025-26 - ANGAMALI LAC - CONSTRUCTION OF IRISH  DRAIN AT EVERGREEN KOLPPARA  ROAD IN MALAYATTOOR-NEELEESWARAM GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-26 - ANGAMALI LAC - BASELIOUS  NAGAR  COMPOUND  ROAD   CONSTRUCTION  IN MUKKANNUR G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 23.05,
+            "concurrence_lakhs": 23.05
+        },
+        {
+            "project_name": "MLA-ADS - ANGAMALI ALC - 2025-26 - NORTH MANAPPATTUCHIRA  CULVERT  PROTECTION WORK  AND SIDE  PRITECTION  WORKS  OF  EXISTING  PARK AT   MANAPPATTUCHIRA  IN MALAYATTOOR - NEELESWARAM G P",
+            "implementing_agency": "EXICUTIVE ENGINEER , IDAMALAYAR IRRIGATION PROJECT DIVISION NO:1 , ANGAMALI",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "SRAMPIKAL PADAM ROAD AND MAMBRA MAITHRI ROAD (KOTTILIKKAL ROAD) IN WARD 1 of  PARAKADAV G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 27.7,
+            "concurrence_lakhs": 27.7
+        },
+        {
+            "project_name": "MLA-ADS - 2024-2025 - ANGAMALI LAC -   CONSTRUCTION OF OPEN HEALTH PARK  AND OPEN STAGE   IN    ANGAMALI  MUNICIPALITY",
+            "implementing_agency": "EXICUTIVE ENGINEER , IDAMALAYAR IRRIGATION PROJECT DIVISION NO:1 , ANGAMALI",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 42.0,
+            "concurrence_lakhs": 42.0
+        },
+        {
+            "project_name": "MLA-ADS - ANGAMALI LAC - 2024-25 - INTERLOCK  TILE  PAVING  AT PANTHAKKAL KARTHANAPURAM  ROAD  IN MALAYATTOOR  NEELEESWARAM GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 24.5,
+            "concurrence_lakhs": 24.5
+        },
+        {
+            "project_name": "MLA-ADS - ANGAMALI LAC - 2024-25 - PIPELINE EXTENTION  WORK   TO PALPUZHA LI  SCHEME  AT  ELAVOOR THAZHEPALLI  ROAD  AND   DAIVATHANPADY  LIS  IN PARAKADAV PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER ,MINOR IRRIGATION DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "MLA-ADS - ANGAMALI  LAC  - 2024-25 - AVANACODE  LIS  CANAL  BUND  ROAD   FORMATION   AND SIDE  PROTECTION  WORK  IN WARD - 14   OF  KALADY  PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER ,MINOR IRRIGATION DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "MLA-ADS 2-24-2025 - ANGAMALI LAC - PROTECTION WORKS  TO VALYATTU  CHIRA  IN   WARD NO :4  OF KALADY GRAMA  PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER ,MINOR IRRIGATION DIVISION,ERNAKULAM",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-2025 - ANGAMALI LAC - LIFT IRRIGATION PIPE  LINE  EXTENTION - AZHAKAM PUTHENPALAM AND   MARANGADAM FROM PALLIKKAVALA  TO KORAMANA",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.13,
+            "concurrence_lakhs": 30.13
+        },
+        {
+            "project_name": "MLA-ADS ANGAMALI  LAC- 2023-2024   -   CONSTRUCTION OF KALADY  PANCHAYATH   PARK",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "MLA-ADS - ANGAMALI LAC -2024-25 - CONSTRUCTION  OF BUILDING  FOR  ANGANAWADI NO:70  IN WARD  8  AT KOOTTALA  IN  MOOKANNUR  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "MLA-ADS - ANGAMALI LAC - 2024-25 - CONSTRUCTION OF ANGANAVADI  NO:69  BUILDING  OF WARD 9 IN PARAKADAVU GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "MLA-ADS-ANGAMALI LAC - 2024-25- CONSTRUCTION OF CHULLY  GROUND  AT  AYYAMPUZHA  PANCHAYATH  AND  PANNAMCHIRA  GROUND  KOLLAKOD  AYYAMPUZHA  PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 47.0,
+            "concurrence_lakhs": 47.0
+        },
+        {
+            "project_name": "MLA-ADS- ANGAMALI LAC - 2024-25 -CONSTRUCTION OF ANGANAWADI NO:132  IN WARD  2 OF PARAKADAVU G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "MLA-ADS-2024-2025-ANGAMALY LAC - COMPLETION OF CHULLY  GOVT:L P SCHOOL BUILDING",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 24.0,
+            "concurrence_lakhs": 24.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25-ANGAMLI LAC - CONSTRUCTION OF DINNING HALL IN ELAVOOR  GLPS  IN PARAKKADAVU G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS- 2024-25- ANGAMALI LAC - AMATHARA IRRIGATION PROJECT  IN WARD 1 OF KARUKUTTY G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25 - ANGAMALI LAC - CONSTRUCTIION OF KITCHEN SHED TO MANICKAMANGALAM NSS GHS  IN   KALADY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS - 2023-2024- ANGAMALY LAC - KITCHEN COMPLEX IN ST:ROCKEYS  SCHOOL PARAKADAV",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS - 2023-24 - ANGAMALI LAC - CONSTRUCTION OF MANIKAMANGALAM AYUSH COMPLEX BUILDING IN KALADI G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 90.93,
+            "concurrence_lakhs": 90.93
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25 - ANGAMALY LAC - CONSTRUCTION OF PLATFORM  FOR KSRTC  BUS  DEPOT  ANGAMALY",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25 - ANGAMALI LAC - KOTTAMAM  KSHEERODPADAKA SAHAKARANA  SANGAM  BUILDING  AT  MALAYATTOOR- NEELEESWARAM G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS - ANGAMALI LAC - 2024-25 - CONSTRUCTION OF NEW   BUILDING FOR  APCOS PARAKADAVU MILK SOCIETY IN PARAKADAV GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS 2023-2024 – ANGAMALI LAC – MUKKADAYIL  GROUND PROTECTION  WORK MALAYATOOR- NELEESWARAM G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 16.43,
+            "concurrence_lakhs": 16.43
+        },
+        {
+            "project_name": "MLA ADS 2023-2024- ANGAMALY - CONSTRUCTION OF PANCHAYT BUILDING IN THURVOOR GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 190.0,
+            "concurrence_lakhs": 190.0
+        },
+        {
+            "project_name": "MLA-ADS 2023-24 - ANGAMALI LAC - CONSTRUCTION OF ANGANAWADI NO 68   IN WARD 6 MOOKKANOOR G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "MLA-ADS   2023-2024- DESTINATION  CHALLENGE  PROJECT- MANIKYAMANGALAM TOURISM  DESTINATION AND  OPEN JYM",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 43.14,
+            "concurrence_lakhs": 43.14
+        },
+        {
+            "project_name": "MLA-ADS-ANGAMALI LAC- ROJI M JOHN MLA - SECOND STAGE OF COMPLETION   OF CHC BUILDING AT KALADY GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Healthcare",
+            "fy": "2023-2024",
+            "estimate_lakhs": 23.5,
+            "concurrence_lakhs": 23.5
+        },
+        {
+            "project_name": "LAC-ADS-MLA- GUPS PEECHANIKKAD GROUND CONSTRUCTION  IN - ANGAMALY MUNICIPALITY - 2022-2023",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 21.0,
+            "concurrence_lakhs": 21.0
+        },
+        {
+            "project_name": "CHAMMALA ROAD TARRING IN WARD 17 OF ANGAMALY MUNICIPALITY",
+            "implementing_agency": "ASSISTANT EXECUTIVE ENGINEER ANGAMALY MUNICIPALITY",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "Thalassery Canal Moonu Bund Anganwady Road Construction Kalady GP",
+            "implementing_agency": "ASSISTANT EXECUTIVE ENGINEER ANKAMALY BLOCK PANCHAYATH",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.5,
+            "concurrence_lakhs": 10.5
+        },
+        {
+            "project_name": "Thottakkam Branch Canal Bund Road Tarring in Kalady GP",
+            "implementing_agency": "ASSISTANT EXECUTIVE ENGINEER ANKAMALY BLOCK PANCHAYATH",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.5,
+            "concurrence_lakhs": 10.5
+        },
+        {
+            "project_name": "ST.SEBASTIAN CHURCH ROAD TARRING WARD 28 OF ANGAMALY MUNICIPALITY",
+            "implementing_agency": "ASSISTANT EXECUTIVE ENGINEER ANGAMALY MUNICIPALITY",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.82,
+            "concurrence_lakhs": 20.82
+        },
+        {
+            "project_name": "LAC ADS MLA ADS 2022-23 WARD 29 VADAKKAN VETTIYADU KULAM SIDE PROTECTION WORK AND NEW RAMP CONSTRUCTION",
+            "implementing_agency": "ASSISTANT EXECUTIVE  ENGINEER ANKAMALY MUNCIPALITY",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "GROUND CONSTRUCTION AND ITS  SIDE PROTECTION OF GOVT.UP SCHOOL, KALADY GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "Supply and Installation of 8 Meter Minimast with 5x150W led Flood Light in 20 various places in Angamaly Muncipalities and 10  nos in various places of Karukutty Grama Panchayath and one number of 16 meter Highmast with 200Wx12 LED Flood Light in KSRTC Bus Depot Angamaly",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 79.45,
+            "concurrence_lakhs": 79.45
+        },
+        {
+            "project_name": "Installation of 8 Meter Minimast with 5x150W led Flood Lights various places of Malayattoor - Neeleswaram  Gp - 6 nos , Mookkannoor Gp - 5 nos ,Kalady Gp - 14 nos  Total 25 nos and 4 Single Pole Six Meter 1x150 W led Light in Manappattuchira Childrens park",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 63.86,
+            "concurrence_lakhs": 63.86
+        },
+        {
+            "project_name": "Installation of 8 Meter Minimast with 5x150Wled Flood Lights various places of Ayyampuzha Gp - 4 nos , Manjapra Gp - 11 nos ,Thuravoor Gp - 13 nos , parakkadavu Gp - 7nos",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 83.45,
+            "concurrence_lakhs": 83.45
+        },
+        {
+            "project_name": "Construction Of Kitchen Shedfor St.Antony's LPS at Naduvattom in Malayattoor Neeleswaram GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "Constuction of Krishibhavan Office Building",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 46.0,
+            "concurrence_lakhs": 46.0
+        },
+        {
+            "project_name": "LAC ADS - PVIP - Construction of culvert at ch:12/744 km of Kolenchery Branch canal - General Civil Work - 15 Lakh.",
+            "implementing_agency": "ASSISTANT EXECUTIVE ENGINEER PVIP SUB DIVISION NO.7 KOLENCHERI",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "Construction of Anganwadi 140 Building in Ward 6  Parakkadav",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.9,
+            "concurrence_lakhs": 16.9
+        },
+        {
+            "project_name": "MLA-ADS -PHC BUILDING CONSTRUCTION AT MOOKKANNOOR GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 85.0,
+            "concurrence_lakhs": 85.0
+        },
+        {
+            "project_name": "Construction of New Drain with Covering Slab and Providing Irish Drain to Angamaly Manjapra Road at Ch.0/00 to 2/500",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 95.0,
+            "concurrence_lakhs": 95.0
+        },
+        {
+            "project_name": "Construction of Walkway around Nellachira in Karukutty Grama Panchayath",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF ADDITIONAL CLASSROOM AT THE FIRST FLOOR OF THE NEW BUILDING FOR GOVT UP SCHOOL, AZHAKAM",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 55.0,
+            "concurrence_lakhs": 55.0
+        },
+        {
+            "project_name": "PROVIDING SINGLE POLE LIGHTS AT MANAPPATTUCHIRA & PARK IN MALAYATTOOR NEELEESWARAM PANCHAYAT AND MINIMAST LIGHTS IN VARIOUS PLACES IN THIRAVOOR,AYYAMPUZHA GRAMAPANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2021-2022",
+            "estimate_lakhs": 74.98,
+            "concurrence_lakhs": 74.98
+        },
+        {
+            "project_name": "MLA LAC ADS 2022-23  - Kolencheri Kavala Yordhanapuram road Renovation & Drain  constuction of Thottakam Puncha road in ward - 5 of kalady GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 24.73,
+            "concurrence_lakhs": 24.73
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "ernakulam_shri_roji_m_john_placeholder"
+}

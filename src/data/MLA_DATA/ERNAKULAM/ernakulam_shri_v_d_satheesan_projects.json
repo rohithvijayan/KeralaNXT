@@ -1,0 +1,741 @@
+{
+    "mla_name": "Shri V. D. Satheesan",
+    "constituency": "PARAVUR",
+    "district": "Ernakulam",
+    "summary": {
+        "total_expenditure_crores": 20.5088,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 12.7754
+            },
+            {
+                "label": "Education",
+                "value_crores": 4.0918
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 1.085
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.9999
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.5
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.397
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 0.3333
+            },
+            {
+                "label": "Others",
+                "value_crores": 0.3264
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "MLA-ADS - 2025-2026 - PARAVUR LAC - CONSTRUCTION OF C MADHAVAN ROAD  IN WARD  NO 11  OF PARAVUR MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 27.54,
+            "concurrence_lakhs": 27.54
+        },
+        {
+            "project_name": "MLA- ADS - 2025-2026 - PARAVUR LAC - CONSTRUCTION OF KALLUCHIRA  MLA   ROAD  OF   WARD 1  EZHIKKARA  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.79,
+            "concurrence_lakhs": 14.79
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - PARAVUR LAC - CONSTRUCTION OF   GABRIEL ROAD I  WARD NO : 3 OF   CHENDAMANGALAM G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 38.51,
+            "concurrence_lakhs": 38.51
+        },
+        {
+            "project_name": "MLA-ADS -PARAVUR LAC -  CONSRTUCTION OF NEW BUILDING  FOR  AASAN  SMARAKA LIBRARY  PARAVOOTHARA  KUMARAMANGALAM",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 39.7,
+            "concurrence_lakhs": 39.7
+        },
+        {
+            "project_name": "MLA-ADS - 2024-2025 - PARAVUR LAC - CONSTRUCTION OF SAHITHYANANDA LIBRARY PARAYAKAD  AT CHITTATTUKARA  G P",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 42.8,
+            "concurrence_lakhs": 42.8
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - PARAVUR LAC - CONSTRUCTION OF VISHNUMAYA  TEMPLE  ROAD IN   WARD NO : 11 OF CHENDAMANGALAM GP",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 37.9,
+            "concurrence_lakhs": 37.9
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - PARAVUR LAC - CONSTRUCTION OF DRAIN  PARAYAKAD-KOOTTUKAD ROAD IN   CHITTATTUKKARA  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 16.2,
+            "concurrence_lakhs": 16.2
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - PARAVUR LAC - CONSTRUCTION OF KOTTODIKKADAV  ROAD   IN WARD NO : 6 OF VADAKKEKKARA  G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 31.5,
+            "concurrence_lakhs": 31.5
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026- PARAVUR LAC - CONSTRUCTION OF NEW TOILET  BLOCK  FOR   GOVT:KESARI COLLEGE , NORTH PARAVUR",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 28.0,
+            "concurrence_lakhs": 28.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - PARAVUR LAC - CONSTRUCTION OF AISWARYA NAGAR  ROAD   AND   AISWARYA  NAGAR  SECOND  ROAD AT CHENDAMANGALAM GP",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 26.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - PARAVUR LAC - CONSTRUCTION OF PERIYAR  ROAD IN WARD NO:5 OF CHENDAMANGALAM  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 46.7,
+            "concurrence_lakhs": 46.7
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - PARAVUR LAC - CONSTRUCTION OF THANDASSERY  ROAD   IN WARD NO:2   CHITTATTUKARA  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - PARAVUR LAC - CONSTRUCTION OF VYAPARABHAVAN LINK  ROAD IN   WARD NO:3 OF CHITTATTUKARA  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 32.1,
+            "concurrence_lakhs": 32.1
+        },
+        {
+            "project_name": "MLA-ADS - PARAVUR LAC - 2024-2025 - CONSTRUCTION OF NEW BUILDING  FOR  KAITHARAM KSHEEROLPADAKA SAHAKARANA  SANGAM   NO:E-287(D)APKOS",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-2025 - PARAVUR LAC - CONSTRUCTION OF ST:JUDE KAPPELA  ROAD IN WARD NO :9 AND   KALLARAKKAL ROAD IN WARD NO:6 OF   EZHIKKARA  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 38.7,
+            "concurrence_lakhs": 38.7
+        },
+        {
+            "project_name": "MLA-ADS - 2024-2025 - PARAVUR LAC - CONSTRUCTION OF NEW BUILDING FOR MADAPLATHURUTH KSHEEROLPADAKA  SAHAKARANA   SANGHAM NO :E-276(D) APKOS",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026-PARAVUR LAC - CONSTRUCTION OF CHAMBUSSERY  ROAD IN WARD NO:20 VADAKKEKARA  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 -PARAVUR LAC - CONSTRUCTION OF KOTTAKKAVU  CHURCH IN WARD -12 OF CHITTATTUKARA  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 19.23,
+            "concurrence_lakhs": 19.23
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - PARAVUR LAC - CONSTRUCTION  OF FLOWERS ROAD IN WARD NO :14 OF CHENDAMANGALAM GP",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.9,
+            "concurrence_lakhs": 14.9
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - PARAVUR LAC - CONSTRUCTION OF MUZRIS  NEW LINE  ROAD  IN WARD NO :6  CHENDAMANGALAM GP",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 13.9,
+            "concurrence_lakhs": 13.9
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - PARAVUR LAC - CONSTRUCTION OF C.V DAMODARAPAI MEMORIAL ROAD IN WARD 6 OF CHITTATTUKARA GP",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.5,
+            "concurrence_lakhs": 14.5
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - PARAVUR LAC - CONSTRUCTION OF GURUDEVA NAGAR ROAD   IN WARD NO :13   OF CHITTATTUKARA GP",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 17.61,
+            "concurrence_lakhs": 17.61
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - PARAVUR LAC - CONSTRUCTION OF POLICE STATION COMPOUND UNDER NORTH PARAVUR MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LA-ADS - PARAVUR LAC - 2024-25 - CONSTRUCTION OF KAPPAKULAM  THAZHVARAM , KAPPAKULAM  THAZHVARAM  LINK  ROAD IN WARD 3 IN PUTHENVELIKARA GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25 - PARAVUR LAC - CONSTRUCTION  OF BARRIER  FREE  TOILET, PROVIDING  SHEET  ROOFING  AND INTERLOCK  TILE  WORK IN GOV.GIRLS HIGHER  SECONDARY  SCHOOL  NORTH  PARAVUR",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25 - PARAVUR LAC - CONSTRUCTION  OF   TOILET  BLOCK  IN   INFANT  JESUS  L.P.SCHOOL  AT  VARAPUZHA  GRAMA  PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-2025 - PARAVUR LAC - CONSTRUCTION OF KITCHEN IN  INFANT  JESUS  L.P.SCHOOL  AT  VARAPUZHA  GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25 - PARAVUR LAC - CONSTRUCTION OF CHC  VARAPUZHA  PHASE 1",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Healthcare",
+            "fy": "2024-2025",
+            "estimate_lakhs": 99.99,
+            "concurrence_lakhs": 99.99
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25 - PARAVUR LAC - CONSTRUCTION OF NEW ANGANAWADI  NO 69  OF   WARD NO 4 OF CHENDAMANGALAM  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 19.5,
+            "concurrence_lakhs": 19.5
+        },
+        {
+            "project_name": "MLA-ADS - 2024-2025 - PARAVUR LAC - ONE   PANCHAYATH  ONE  PLAYGROUND -   DEVELOPMENT  OF PLAYGROUND IN   EZHIKARA GRAMAPANCHAYATH",
+            "implementing_agency": "Director,Sports & Youth Affairs, Vellayambalam, Thiruvananthapuram",
+            "category": "Sports",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "MLA-ADS - 2924-25 - PARAVUR LAC - CONSTRUCTION OF ANGANAWADI NO :26 IN WARD NO 5 OF PUTHENVELIKKARA GP",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-2025 - PARAVUR LAC - CONSTRUCTION OF SIDE PROTECTION AND CULVERT  NEAR  LANKA  BRIDGE  AT  EZHIKKARA  PANCHAYATH  IN ERNAKULAM DISTRICT",
+            "implementing_agency": "Executive  Engineer,Irrigation Division Ernakulam",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 21.0,
+            "concurrence_lakhs": 21.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25- PARAVUR LAC - CONSRTUCTION OF   ANGANAWADI  NO : 93   IN WARD 8   OF   EZHIKKARA  G P",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 21.5,
+            "concurrence_lakhs": 21.5
+        },
+        {
+            "project_name": "MLA-ADS - 2024-2025 - PARAVUR LAC - CONSTRUCTION OF ANGANAWADI  NO:166  IN   WARD NO:6 OF   CHITTATTUKARA  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 22.0
+        },
+        {
+            "project_name": "MLA-ADS - 2023-2024 - PARAVUR LAC - CONSTRUCTION OF  DARSHANAM  ROAD IN WARD NO:9  OF   VARAPUZHA G P",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.66,
+            "concurrence_lakhs": 15.66
+        },
+        {
+            "project_name": "MLA-ADS -2023-2024-PARAVUR LAC - CONSTRUCTION OF MAKKOTHAPARAMBIL  ROAD  IN WARD NO:13 OF CHITTATTUKARA GP",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 16.5,
+            "concurrence_lakhs": 16.5
+        },
+        {
+            "project_name": "MLA-ADS -2023-2024-PARAVUR LAC - CONSTRUCTION OF THELATHURUTH KUTTIKKATTUPALLAM KULAMB  ROAD IN WARD NO-9 OF  PUTHENVELIKKARA  G P",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 23.8,
+            "concurrence_lakhs": 23.8
+        },
+        {
+            "project_name": "MLA-ADS -2023-2024-PARAVUR LAC -  CONSTRUCTION OF NAVAJEEVAN ROAD  IN WARD  NO:15 OF CHENDAMANGALAM G P",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 19.3,
+            "concurrence_lakhs": 19.3
+        },
+        {
+            "project_name": "MLA-ADS -2023-2024-PARAVUR LAC - CONSTRUCTION OF PALYAM VILLA ROAD AT KOTTUVALLY  GP  IN WARD NO:20",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 61.0,
+            "concurrence_lakhs": 61.0
+        },
+        {
+            "project_name": "MLA-ADS -PARAVUR LAC - 2024-2025 (2022-2023 TENDER  SAVINGS)  GOVT:U.P.SCHOOL CHIRAAKKAKAM , CONSTRUCTION OF 4 CLASS ROOMS OVER EXISTING BULDING FOR GOVT. UP SCHOOL   CHIRAKKAKAM",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 90.58,
+            "concurrence_lakhs": 90.58
+        },
+        {
+            "project_name": "MLA-ADS - 2023-2024- PARAVUR LAC - CONSTRUCTION OF THAIKKOOTTATHIL  NAROTHARA - VP  COLONY  ROAD  IN WARD  NO-6  AND 9  OF CHITTATTUKARA GP",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 36.4,
+            "concurrence_lakhs": 36.4
+        },
+        {
+            "project_name": "MLA-ADS - 2023-2024-PARAVUR LAC - CONSTRUCTION  OF  PARAMBATH  LINE  ROAD  AT  CHENDAMANGALAM GP  IN  WARD -13",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 13.6,
+            "concurrence_lakhs": 13.6
+        },
+        {
+            "project_name": "MLA-ADS - 2023-2024-PARAVUR LAC - CONSTRUCTION OF   VARAHA KSHETHRAM  SANNIDHI  ROAD  AT  VARAPPUZHA  GRAMA  PANCHAYATH  IN WARD - 13",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "MLA-ADS - PARAVUR LAC - 2023-2024 - CONSTRUCTION OF NAGAYAKSHI AMMAN TEMPLE ROAD IN WARD OF 16 OF VADAKKEKKARA GP",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 27.0,
+            "concurrence_lakhs": 27.0
+        },
+        {
+            "project_name": "MLA-ADS -2020-2021- PARAVUR LAC - CONSTRUCTION OF LANKA BRIDGE  ACROSS  LANKA THODU  IN EZHIKKARA  GP   എന്ന   പ്രവർത്തിക്ക്   അധിക   GST  തുക    അനുവദിക്കുന്നത്    സംബന്ധിച്ച്",
+            "implementing_agency": "Executive  Engineer,Irrigation Division Ernakulam",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 3.86,
+            "concurrence_lakhs": 3.86
+        },
+        {
+            "project_name": "MLA-ADS 2022-2023 CONSTRUCTION OF VIDANAPILLY  ROAD IN  WARD NO 7 OF   EZHIKKARA  GRAMAPANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA ADS - 2022- 23- CONSTRUCTION OF JAYANTHAMANGALAM ROAD IN WARD - 6 OF CHENDHAMANGALAM GP",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.45,
+            "concurrence_lakhs": 20.45
+        },
+        {
+            "project_name": "MLA-ADS   2022-2023 - PARAVUR LAC - CONSTRUCTION OF ULLAYAMBILLY  ROAD  AND  PATTELIPARAMBU ROAD  AT  PARAVUR  MUNICIPALITY  IN WARD 2",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 39.7,
+            "concurrence_lakhs": 39.7
+        },
+        {
+            "project_name": "MLA-ADS  PARAVOOR LAC . 2023-2024 - CONSTRUCTION OF NEW TOILET  BLOCK  FOR   GOVT:U.P SCHOOL VADAKKUMPURAM - CHENDAMANGALAM   GRAMA  PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS  PARAVUR LAC - 2023-2024 , CONSTRUCTION OF COMPOUND WALL AND PROVIDING  SHEET ROOF  OVER THE EXISTING   BUILDING  JANACHETAN LIBRARY  MALIAKARA",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS PARAVUR LAC - 2023-2024 - CONSTRUCTION  OF NEW  TOILET  BLOCK  FOR   ST:PETERS UP  SCHOOL  IN VADAKKEKKARA  PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS - 2023-2024- PARAVUR LAC - CONSTRUCTION OF NEW TOILET BLOCK  AT GOV:L P SCHOOL VAVAKKAD IN VADAKKEKKARA G P",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS 2023-2024 - PARAVUR LAC - CONSTRUCTION OF CULVERT AND SIDE PROTECTION WORK OR KANAPILLY ANTONY ROAD AT KOTTUVALLY GRAMA PANCHAYATH WARD - 1",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA ADS  2023-2024 CONSTRUCTION OF EMS ROAD IN WARD 15 OF CHENDAMANGALAM GRAMAPANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 32.55,
+            "concurrence_lakhs": 32.55
+        },
+        {
+            "project_name": "MLA-ADS 2023-2024 PARAVUR LAC - IMPROVMENTS TO THOMAS THALACHIRA ROAD  IN WARD  NO :4   OF PUTHENVELIKKARA  GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "MLA-ADS   2023-2024 , PARAVUR LAC - CONSTRUCTION OF GURU SMARAKA VAYANASHALA , ELANTHIKARA LIBRARY BUILDING",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "MLA-ADS 2023-24-PAPPUKUTTY MEMORIAL LIBRARY AT KEDAMANGALAM,N.PARAVUR-CONSTRUCTION OF NEW LIBRARY BUILDING",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 38.0,
+            "concurrence_lakhs": 38.0
+        },
+        {
+            "project_name": "MLA -ADS-2023-2024 CONSTRUCTION OF DANIYEL MESTHIRI ROAD AT KOTTUVALLY GRAMAPANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "\" CONSTRUCTION OF SAHAKARANA ROAD IN WARD 03-EZHIKKARA GP \"",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 16.6,
+            "concurrence_lakhs": 16.6
+        },
+        {
+            "project_name": "CONSTRUCTION OF NEW BUILDING FOR BUDS SPECIAL SCHOOL EZHIKKARA - PHASE -II",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.5,
+            "concurrence_lakhs": 10.5
+        },
+        {
+            "project_name": "CONSTRUCTION OF JAYANTHAMANGALAM ROAD IN ROAD IN WARD 6 OF CHENDAMANGALAM GP",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.45,
+            "concurrence_lakhs": 20.45
+        },
+        {
+            "project_name": "CONSTRUCTION OF NEW BUILDING FOR ANGANAVADI NO. 179 IN PARAVUR MUNCIPALITY - PARAVUR",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.5,
+            "concurrence_lakhs": 25.5
+        },
+        {
+            "project_name": "MLA ADS 2022-2023-IMPROVEMENTS OF PUZHAVUR ROAD AT NORTH PARAVUR MUNICIPALITY IN WARD NO 20 AND ATHANI PUZHAVUR BYLINE ROAD AT EZHIKKARA GRAMAPANCHAYATH IN WARD  NO 4.",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 19.0,
+            "concurrence_lakhs": 19.0
+        },
+        {
+            "project_name": "MLA ADS 2022-2023 CONSTRUCTION PEEDIYEKAPARAMBU LAKSHAMVEEDU ROAD AND KANIYAMPARAMBU ROAD IN WARD NO.2 OF EZHIKKARA GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA ADS -2022-2023 CONSTRUCTION OF BALAN MEMORIAL ROAD IN WARD NO 12 OF CHENDAMANGALAM GRAMAPANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.5,
+            "concurrence_lakhs": 15.5
+        },
+        {
+            "project_name": "MLA  ADS - 2022-2023 CONSTRUCTION OF JUDSON ROAD IN WARD NO 17 OF CHENDAMANGALAM GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.64,
+            "concurrence_lakhs": 20.64
+        },
+        {
+            "project_name": "MLA ADS 2022-2023 CONSTRUCTION OF SUBHASH NAGAR LINK ROAD IN WARD NO 12 OF VADAKKEKARA GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 29.8,
+            "concurrence_lakhs": 29.8
+        },
+        {
+            "project_name": "MLA ADS 2022-2023-Improvements to ONV Road in Ward 18 of Vadakkekkara Grama Panchayath",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA ADS 2022-2023 CONSTRUCTION OF ROAD AND DRAIN IN FREEDOM ROAD OF WARD NO 5 OF KOTTUVALLY GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.3,
+            "concurrence_lakhs": 20.3
+        },
+        {
+            "project_name": "MLA ADS-2022-2023-CONSTRUCTION OF NEW TOILET BLOCK FOR GOVERNMENT HIGHER SECONDARY SCHOOL, NORTH PARAVUR",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 19.2,
+            "concurrence_lakhs": 19.2
+        },
+        {
+            "project_name": "MLA ADS 2022-23-CONSTRUCTION OF SIDE PROTECTION WALL FOR THODU AND SNEHATHEERAM FOOT PATH CONCRETING AT MUNDIYATHOPPU IN WARD NO 7 OF CHENDAMANGALAM GRAMAPANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 29.7,
+            "concurrence_lakhs": 29.7
+        },
+        {
+            "project_name": "MLA ADS 2022-23-CONSTRUCTION OF FOOTPATH ALONG ZEROLESS AREA (SRA LANES) OF VANIYAKKAD WARD-4 OF KOTTUVALLY GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 14.8,
+            "concurrence_lakhs": 14.8
+        },
+        {
+            "project_name": "MLA ADS-2022-23(2018-19 Savings Amount)-Construction of Anganwadi No.26 in Ward no IV of North Paravur Municipality",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 21.9,
+            "concurrence_lakhs": 21.9
+        },
+        {
+            "project_name": "MLA ADS 2022-23-KANNANKULANGARA TEMPLE EAST NADA ROAD-PROVIDING INTERLOCKING TILES TO KANNANKULANGARA TEMPLE EAST NADA ROAD",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 34.53,
+            "concurrence_lakhs": 34.53
+        },
+        {
+            "project_name": "MLA ADS-(2020-21-Savings Amount)-Construction of Mar Gregorious Road in Ward 17 of Vadakkekara Grama Panchayath",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 19.3,
+            "concurrence_lakhs": 19.3
+        },
+        {
+            "project_name": "MLA ADS-2022-23- CONSTRUCTION OF SIX CLASS ROOMS ABOVE EXISTING BUILDING OF GOVERNMENT UP SCHOOL VALLUVALLY -FACE II",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.5,
+            "concurrence_lakhs": 10.5
+        },
+        {
+            "project_name": "Const.of Tile Laying and Drain work at Keezhoth Colony Road and Keezhoth Laksham Veedu Side Road in Ward No.5 of Ezhikkara GP",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 19.3,
+            "concurrence_lakhs": 19.3
+        },
+        {
+            "project_name": "SUPPLY AND INSTALLATION OF 6 NUMBERS OF 12 Mtr HIGHMAST SYSTEM WITH 6*200W LED FLOOD AT VARIOUS LOCATIONS IN PARAVUR LAC",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 33.33,
+            "concurrence_lakhs": 33.33
+        },
+        {
+            "project_name": "KURISHUMUTTAM HOSPITAL AND CONVENT ROAD TILE LAYING IN WARD 9 & 10",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 26.1,
+            "concurrence_lakhs": 26.1
+        },
+        {
+            "project_name": "MUTTINAKAM VATTAPOTTA RAOD TILE LAYING IN VARAPUZHA GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 17.84,
+            "concurrence_lakhs": 17.84
+        },
+        {
+            "project_name": "MUTTINAKAM CHURCH ROAD TILE LAYING AND DRAIN IN VARAPPUZHA GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 24.12,
+            "concurrence_lakhs": 24.12
+        },
+        {
+            "project_name": "ATHIRTHY AND PALACHUVADU ROAD TILE LAYING IN VARAPPUZHA GRAMA PANCHAYAT",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "Construction of Punarjani Road in ward in no. 8 of Chittatukara Grama Panchayat",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 24.5,
+            "concurrence_lakhs": 24.5
+        },
+        {
+            "project_name": "Improvements to Kannankulangara - Kalathodu road connecting Karakkat street and Kannankulangara palace road in ward no. 4 of Paravoor Municipality.",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.5,
+            "concurrence_lakhs": 10.5
+        },
+        {
+            "project_name": "Const.of Kuruppath Road in Ward No.9 of Kottuvally Grama Panchayat",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 26.0
+        },
+        {
+            "project_name": "Construction of NH -17 O. L. H. Colony Road in ward 9 of Vadakkekkara Grama Panchayat",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 21.0,
+            "concurrence_lakhs": 21.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "ernakulam_shri_v_d_satheesan_placeholder"
+}

@@ -1,0 +1,373 @@
+{
+    "mla_name": "DR. Mathew Kuzhalnadan",
+    "constituency": "MUVATTUPUZHA",
+    "district": "Ernakulam",
+    "summary": {
+        "total_expenditure_crores": 18.389,
+        "breakdown": [
+            {
+                "label": "Infrastructure",
+                "value_crores": 6.801
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 2.499
+            },
+            {
+                "label": "Others",
+                "value_crores": 2.391
+            },
+            {
+                "label": "Road",
+                "value_crores": 2.1615
+            },
+            {
+                "label": "Education",
+                "value_crores": 1.9
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 1.514
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.7475
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.375
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "MLAADS 2025-26 MUVATTUPUZHA LAC- SUPPLY AND INSTALLATION OF 32 NOS .OF 8MTR.MINI MAST WITH 4*150W LED FLOOD LIGHTS AT VARIOUS LOCATION IN POTHANIKKAD GP ,MARADY GP ,MANJALLOOR GP KALLOORKKAD GP  AND 2 NO OF 12 MTR HIGH MAST WITH 6*200W LED FLOOD LIGHTS AT VARIOUS LOCATION IN MARADY GP.",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 75.61,
+            "concurrence_lakhs": 75.61
+        },
+        {
+            "project_name": "MLAADS 2025-26 MUVATTUPUZHA LAC- SUPPLY AND INSTALLATION OF 35 NOS .OF 8MTR.MINI MAST WITH 4*150W LED FLOOD LIGHTS AT VARIOUS LOCATION IN AYAVANA GP ,PAIPRA GP ,AVOLI GP AND 1NO OF 12 MTR HIGH MAST WITH 6*200W LED FLOOD LIGHTS IN AVOLI GP.",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 75.79,
+            "concurrence_lakhs": 75.79
+        },
+        {
+            "project_name": "MLA-ADS-2024-25 -MUVATTUPUZHA LAC -TARRING AROOR COLONY ROAD WARD 10 OF ARAKUZHA   G P-GENERAL CIVIL WORK -",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 19.25,
+            "concurrence_lakhs": 19.25
+        },
+        {
+            "project_name": "MLA-ADS-2024-25 -MUVATTUPUZHA LAC -CONSTRUCTION OF A COURT FOR THE GOVT . UPS  MULAVOOR  IN  PAIPRA  G P-GENERAL CIVIL WORK -",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "MLA-ADS-2024-25- CONSTRUCTION OF PLAY GROUND  AT NADUKKARA IN  AVOLY   GRAMA PANCHAYATH ,CONSTRUCTION OF PLAY GROUND  AT UPPUKANDAM IN ARAKUZHA GRAMA PANCHAYATH   ,CONSTRUCTION  OF NATURAL TURF AT GOVT .MODEL HS   IN MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Sports",
+            "fy": "2024-2025",
+            "estimate_lakhs": 74.75,
+            "concurrence_lakhs": 74.75
+        },
+        {
+            "project_name": "MLA-ADS-2024-25- INTER LOCKING TILE PAVING WORK KIZHAKKEKADAVU -PODIKANDAM ROAD   IN PAIPRA  GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.1,
+            "concurrence_lakhs": 15.1
+        },
+        {
+            "project_name": "MLA-ADS-2024-25- NEERAMPUZHA MARUTHOOR CANAL BUND ROAD IN KALLOORKAD GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS-  2024-25- KOONTHANIKKUNNU VATTAKKUNNEL ROAD  CONSTRUCTION IN  WARD 6 KALLOORKKADU  GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS-2024-25- COSTRUCTION OF FOOTBALL MUD COURT IN POTHANIKAD GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 67.1,
+            "concurrence_lakhs": 67.1
+        },
+        {
+            "project_name": "MLA-ADS-2024-25 -MUVATTUPUZHA LAC -THAIKKAVUMPPADI PALLITHAZHAM CANAL BUND ROAD SIDE PROTECTION WALL WORK IN WARD 5  OF  PAIPRA G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 11.8,
+            "concurrence_lakhs": 11.8
+        },
+        {
+            "project_name": "MLA-ADS-2024-25 -MUVATTUPUZHA LAC -CONSTRUCTION OF PORKKAVU ROAD  (ANNAPOORNESWARI ROAD) WARD 9 OF AYAVANA G.P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS-2024-25 -MUVATTUPUZHA LAC -CONSTRUCTION OF  SIDE PROTECTION   WALL FOR  KARAMALA KANJIRAMTHADAM  ROAD  WARD 7 OF PALAKUZHA GRAMA    PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS-2024-25-നെടുമാഞ്ചേരി - പുളിയാനിത്താഴം റോഡ് നിർമ്മാണം  (കോൺക്രീറ്റിംഗ് ) -വാർഡ് 1 - പാലക്കുഴ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS-2024-25 -MUVATTUPUZHA LAC -CONSTRUCTION OF KADUVELIPADAM THODU BRIDGE IN WARD 9 OF MARADY G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS-2024-25 -MUVATTUPUZHA LAC -CONSTRUCTION OF NADUVILEDATHUTHAZHAM ROAD IN WARD 1 OF MARADY G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS-2024-25 -MUVATTUPUZHA LAC -CONSTRUCTION OF KOKKAPILLY EDAMANAPETTA ROAD IN WARD 8 OF MARADY G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS-2024-25 -MUVATTUPUZHA LAC -CONSTRUCTION OF PROTECTION WALL AND PAVING TILE AT VETTIKATTU AMBATTU JUNCTION ROAD IN WARD 12 OF MUVATTUPUZHA MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS-2024-25 -MUVATTUPUZHA LAC -AVOLY  ANIKKAD   CHIRA TOURISM  PROJECT  -AVOLI  G P-  GENERAL CIVIL WORK",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 150.0,
+            "concurrence_lakhs": 150.0
+        },
+        {
+            "project_name": "MLA-ADS -2024-25 CONSTRUCTION OF SIDE PROTECTION OF THE MUVATTUPPUZHA RIVER   INCLUDING STEPS AT POOMATTAM IN WARD -5 OF MARADY GP",
+            "implementing_agency": "Executive  Engineer,Irrigation Division Ernakulam",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-2025 - MUVATTUPUAZHA LAC - CONSTRUCTION OF POOMATTAM KADAV IN WARD  5  OF MARADI GP",
+            "implementing_agency": "Executive  Engineer,Irrigation Division Ernakulam",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS 2024-25-CONSTRUCTION OF MUNDIAPARAMBILTHAZHAM ROAD WARD-7 MANJALLOR GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS 2024-25-CONSTRUCTION OF ELAVUMKAL-THEKKETHAZHAM ROAD -WARD-2 MANJALOOR GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS 2024-25-CONSTRUCTION OF ANGANWADY IN WARD-12 OF POTHANICADU GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 22.0
+        },
+        {
+            "project_name": "MLA ADS -2023-24-CONSTRUCTION OF KSRTC BUS STATION MUVATTUPUZHA",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 425.0,
+            "concurrence_lakhs": 425.0
+        },
+        {
+            "project_name": "MLA-ADS-2022-23 CONSTRUCTION OF NELLIKKUNNAMPPURATH THAZHAM ROAD AND MARIYA LINE ROAD IN ARAKKUZHA GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA ADS 2023-24 -CONSTRUCTION OF NEW BUILDING FOR THE GOVT.LPS NEERAMPUZHA",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "MLA-ADS 2023-24 CONSTRUTION OF CHANGUMACHERY PLATHOTTAM KADAVU ROAD IN ARAKKUZHA GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA-ADS 2022-23-MARIYA LINE ROAD IN ARAKKUZHA GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA -ADS 2022-23-ARAKKUZHA GRAMA PANCHAYATH WARD 11 JAWAHAR COLONY ROAD",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "MLA ADS -2022-23 CONSRUCTION OF NEW ANGANAVADY BUILDING IN AYAVANA GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.2,
+            "concurrence_lakhs": 20.2
+        },
+        {
+            "project_name": "CONSRUCTION OF BUILDING FOR THE FAMILY HEALTH CENTRE VALAKOM,VALAKOM GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 99.9,
+            "concurrence_lakhs": 99.9
+        },
+        {
+            "project_name": "MLA-ADS  MUVATTUPUZHA LAC - CONSTRUCTION OF SCHOOL  BUILDING  FOR GOVT: MULAVOOR  IN PAIPRA  GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF BUILDING FOR THE DIGITAL EDU THEATRE CUM LIBRARY COMPLEX FOR GOVT:HSS PEZHAKKAPILLY IN PAIPRA G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF COMMUNITY HALL IN WARD NUMBER 14 OF MUVATTUPUZHA MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 99.9,
+            "concurrence_lakhs": 99.9
+        },
+        {
+            "project_name": "ONE PANCHAYATH ONE PLAYGROUND-DEVELOPMENT OF SPORTS INFRASTRUCTURE FACILITIES AT KURIYANMALA MINI STADIUM IN MUVATTUPUZHA MUNICIPALITY IN MUVATTUPUZHA LAC,ERNAKULAM DISTRICT",
+            "implementing_agency": "Director,Sports & Youth Affairs, Vellayambalam, Thiruvananthapuram",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF FIRST FLOOR FOR KALLORKKAD GRAMAPANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF BUILDING FOR KRISHI BHAVAN IN MARADY GP",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "Installation of Ultrasound Scanner & Anaesthesia Workstation at General Hospital Muvattupuzha",
+            "implementing_agency": "Superintendent, General Hospital Muvattupuzha",
+            "category": "Healthcare",
+            "fy": "2020-2021",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF FIRST FLOOR IN OP ANNEXE -GENERAL HOSPITAL MUVATTUPUZHA",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Healthcare",
+            "fy": "2021-2022",
+            "estimate_lakhs": 100.0,
+            "concurrence_lakhs": 100.0
+        },
+        {
+            "project_name": "SIDE PROTECTION WALL AT AROOR COLONY IN WARD 10 OF ARAKKUZHA GRAMA PANCHAYT",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Irrigation",
+            "fy": "2018-2019",
+            "estimate_lakhs": 17.5,
+            "concurrence_lakhs": 17.5
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "ernakulam_dr_mathew_kuzhalnadan_placeholder"
+}

@@ -1,0 +1,704 @@
+{
+    "mla_name": "Smt. O. S. Ambika",
+    "constituency": "ATTINGAL",
+    "summary": {
+        "total_expenditure_crores": 22.9953,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 16.1895
+            },
+            {
+                "label": "Others",
+                "value_crores": 3.2017
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 2.1336
+            },
+            {
+                "label": "Education",
+                "value_crores": 1.0705
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.4
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "Pulimoodu Lakshamveedu Vakkathuvilakam railway gate road construction in Vakkom GP",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ആറ്റിങ്ങല്‍ നഗര സഭയിലെ വാര്‍ഡ്‌ 31-മേലാറ്റിങ്ങല്‍ അംഗന വാടി നം.13- കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ആറ്റിങ്ങല്‍ നഗര സഭയിലെ മാടന്‍ നട ദേവി ക്ഷേത്രം -മാരാംങ്കോട്-നെട്ടത്തറ -കൊല്ലമ്പുഴ -കോട്ട പുറം റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 49.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കരവാരം ഗ്രാമ പഞ്ചായത്തിലെ ഈരാണി മുക്ക് -തയ്ക്കാവ് -കോട്ട മല--ചുമട് താങ്ങി-അമ്പലത്തും വിള -KTCT-റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 42.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കരവാരം ഗ്രാമ പഞ്ചായത്തിലെ കാര വിളാകം അയ്യം പള്ളി കോണം-കാവ് നട-അറിവാളൂര്‍ കോണം റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നഗരൂര്‍ ഗ്രാമ പഞ്ചായത്തിലെ ഇടവന കോണം ഉന്നതി-മാടപ്പാട് SN -തേക്കിന്‍കാട്‌-വല്ല കോട് IHDP ഉന്നതി റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കിളിമാനൂര്‍ ഗ്രാമ പഞ്ചായത്തിലെ അരൂര്‍ വെറ്റിനറി ഹോസ്പിറ്റല്‍ -തേമ്ബാംകുഴി- ചൊറിയണം കോട് -കാലായ്ക്കോട്  റോഡ്‌  നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 37.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പഴയകുന്നുമ്മേല്‍ ഗ്രാമ പഞ്ചായത്തിലെ ചാരുപാറ-നെടും പച്ച റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കിളിമാനൂര്‍ ഗ്രാമ പഞ്ചായത്ത്‌ ഓഫീസ് കെട്ടിടം പൂര്‍ത്തീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പുളിമാത്ത് ഗ്രാമ പഞ്ചായത്തിലെ അരിവാരികുഴി സ്കൂള്‍ -മൊട്ടലുവിള-പുല്ലയില്‍ -ആല്‍ത്തറ മൂട് റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 46.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മണമ്പൂര്‍ ഗ്രാമ പഞ്ചായത്തിലെ തെഞ്ചേരി കോണം ഉമ മഹേശ്വര ക്ഷേത്രം -പാലവിള -പൊയ്കയില്‍ റോഡ്‌ കോണ്ക്രീറ്റ്",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഒറ്റൂര്‍ ഗ്രാമ പഞ്ചായത്തിലെ കല്ലമ്പലം -മണലി റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചെറുന്നിയൂര്‍  ഗ്രാമ പഞ്ചായത്തിലെ കൊല്ലയില്‍-ചാരോടിഞ്ഞതില്‍ -അംഗന്‍വാടി റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 36.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പഴയകുന്നു മ്മേല്‍ ഗ്രാമ പഞ്ചായത്തിലെ മണലേത്ത് പച്ച പട്ടിക ജാതി സങ്കേതം നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Renovation of pallimukku -Pezhuvilakom vathukkal road in Cherunniyoor GP",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.2,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Renovation of palachira - Priyadharshini road in cherunniyoor GP",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 11.88,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of Fire Stair Case at  Avanavanchery Govt High School in Attingal Municipality",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 27.35,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ആറ്റിങ്ങല്‍ നിയോജക മണ്ഡലത്തിലെ വിവിധ സ്ക്കൂളുകള്‍ക്ക് ബസ് വാങ്ങി നല്‍കല്‍ \r\n1.ഗവണ്‍മെന്റ്  L.P.S മേലാറ്റിങ്ങല്‍\r\n2.ഗവണ്‍മെന്റ്  L.P.S പാപ്പാല\r\n3.ഗവണ്‍മെന്റ്  L.P.S ആറ്റിങ്ങല്‍",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ ഉപ ഡയറക്ടർ",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 54.73,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കരവാരം ഗ്രാമ പഞ്ചായത്തിലെ കന്യാരു വിള കാഞ്ഞിരം വിള റോഡില്‍ കലുങ്ക് നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നഗരൂര്‍ ഗ്രാമ പഞ്ചായത്തിലെ കല്ലിംഗല്‍-മുണ്ടയില്‍ ക്കോണം റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പഴയ കുന്നുമ്മേല്‍ ഗ്രാമ പഞ്ചായത്തിലെ കരിക്കകം പട്ടിക ജാതി ഗ്രാമം നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പുളിമാത്ത് ഗ്രാമ പഞ്ചായത്തിലെ വെണ്‍മാനം പട്ടിക ജാതി ഗ്രാമ വികസനം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കിളി മാനൂര്‍ ഗ്രാമ പഞ്ചായത്തിലെ   പുത്തന്‍ വിള ജംഗ്ഷന്‍  വാളാക്കോട് റോഡ്‌ കോണ്‍ക്രീറ്റ്",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of building for Murali Smaraka Library at Avanavanchery in Attingal Muncipality",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of New Building for U.I.T Azhoor,Chirayinkeezhu LAC- Phase -III",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി. ബിൽഡിംഗ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 55.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Completion works of Toilet cum dressing complex in neeruvila indore Stadium and Compound wall maintenance and Entrance Arch and Gate-Ottoor grama panchayath",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ആറ്റിങ്ങല്‍ നഗര സഭ-മാവിറ വിള -രാമച്ചം വിള കാട്ടു പുറം റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.4,
+            "concurrence_lakhs": 18.4
+        },
+        {
+            "project_name": "വക്കം ഗ്രാമ പഞ്ചായത്തിലെ മല്ലന്‍ കുന്നു വിള-കുന്നു വിള -ചാവടി മുക്ക് റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "ആറ്റിങ്ങൽ നഗരസഭയിലെ വാർഡ് നമ്പർ 21 ലെ  അംഗൻവാടി നിർമാണം(കോട്ടുമ്മൽ കല്ലുപാലം റോഡിന് സമീപം)",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മണമ്പൂർ ഗ്രാമപഞ്ചായത്തിലെ മുണ്ടയിൽക്കോണം-പാലേലി റോഡ് നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കരവാരം ഗ്രാമപഞ്ചായത്തിലെ കുന്നുവാരം-കരിമ്പലത്ത് വാതുക്കൽ-മൈലാപ്പിള്ളി-പുന്നവിള തമ്പുരാൻ നട റോഡ് നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നഗരൂർ ഗ്രാമപഞ്ചായത്തിലെ മടപ്പാട്-കാരക്കോണം-കരിമ്പായോട് -മാങ്കോണം-കരിച്ചാഴിയിൽ റോഡ്",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നഗരൂർ ഗ്രാമപഞ്ചായത്തിലെ പെരുമാമല-പരാശക്തി റോഡ് നിർമാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പോങ്ങനാട് ജി.എച്ച് എസ് ഓഡിറ്റോറിയം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മണമ്പൂർ ഗ്രാമപഞ്ചായത്തിലെ പയ്യിൽക്കോണം വിലക്കമത്ത് റോഡ് നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഒറ്റൂർ  ഗ്രാമപഞ്ചായത്തിലെ മഥുരക്കോട്-വലിയവിള റോഡ് നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 55.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നഗരൂർ ഗ്രാമപഞ്ചായത്തിലെ കണ്ണം മുക്ക് -വക്കത്ത്  വീട്-രാരൂർക്കാവ് കല്ലിംഗൽ റോഡ് നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ആറ്റിങ്ങൽ നഗരസഭാപരിധിയിലെ അവനവൻചേരി-ശാന്തിനഗർ-റൈറ്റ് ചോയ്സ് റോഡ് നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അക്കരവിള-കിഴക്കും പുറം-എം ആർ ലൈൻ റോഡ് നിർമാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "പഴയകുന്നുമൽ ഗ്രാമപഞ്ചായത്തിലെ മാഹാദേവേശ്വരം ആർട്ട് ഗാലറി പാലം നിർമാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കരവാരം ഗ്രാമപഞ്ചായത്തിലെ 92 നമ്പർ അംഗനവാടി നിർമാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പഴയകുന്നുമൽ ഗ്രാമപഞ്ചായത്തിലെ തട്ടത്തുമല എച്ച്.എസ്.എസ് സാംസ്കാരിക നിലയ നിർമാണം-- പഴയകുന്നുമൽ ഗ്രാമപഞ്ചായത്തിലെ കോമ്പോണ്ട് വാൾ നിർമാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നഗരൂർ ഗ്രാമപഞ്ചായത്തിലെ കല്ലിംഗൽ-മുണ്ടയിൽക്കോണം റോഡ്",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കിളിമാനൂർ ഗ്രാമപഞ്ചായത്തിലെ തോട്ടിൻകര-വെള്ളറയ്ക്കൽ-പരുന്തൻകോട്-കുന്നിൽക്കട-കടമ്പാട്ടുകോണം റോഡ്",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നഗരൂർ ഗ്രാമപഞ്ചായത്തിലെ മാത്തയിൽകാവ് വിളാകം-തിരുവറ്റൂർ-ചാവരക്കാവ്-കൂന്തള്ളൂർ കാവ്-കാട്ട്ചന്ത റോഡ്",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പഴയകുന്നുമൽ ഗ്രാമപഞ്ചായത്തിലെ കിഴക്കേവട്ടപ്പാറ-ചെമ്പകശ്ശേരി-മുളയ്ക്കലത്ത് കാവ്-മുതുകുറിഞ്ഞി റോഡ്",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പുളിമാത്ത് ഗ്രാമപഞ്ചായത്തിലെ പുളിമാത്ത്-പേടികുളം-പൊയ്യക്കട-മുന്നാറ്റുമുക്ക്-ശീമവിള-നാലുസെൻറ് കോളനി റോഡ്",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കരവാരം ഗ്രാമപഞ്ചായത്തിലെ  പ്ലാമുറ്റം-ചുള്ളിയിൽക്കോണം റോഡ് നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കരവാരം ഗ്രാമപഞ്ചായത്തിലെ കരിമ്പുവിള-പൂന്തൽ വാരം-പെരും തോട്ടം-മുരിക്കും വീട്-കുഴി വിള റോഡ് നിർമാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "LAC-ADS-2023-24-KADUVAPALLI MELEVILA TEMPLE MANAKAD ROAD-KOCHALUMOODU NETTARA NSS KARAYOGAM ROAD IN ANAMBOOR GRAMAPANCHAYAT",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഒറ്റൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ നെല്ലിക്കോട്- മൂപ്പന്‍റെവിളാകം റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.4,
+            "concurrence_lakhs": 18.4
+        },
+        {
+            "project_name": "ഒറ്റൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ കമുകറക്കോണം കുന്നുബംഗ്ലാവ് റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 24.3,
+            "concurrence_lakhs": 24.3
+        },
+        {
+            "project_name": "ചെറുന്നിയൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ ശാസ്താംനട - വലിയമേലതില്‍ റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ചെറുന്നിയൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ പന്തുവിള - കാഞ്ഞിരംവിള റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ചെറുന്നിയൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ  ശിവപുരം റെയില്‍വേ ലൈന്‍ റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.14,
+            "concurrence_lakhs": 16.14
+        },
+        {
+            "project_name": "കരവാരം ഗ്രാമപഞ്ചായത്തിലെ മഞ്ചപ്ലാക്കല്‍ - ആനൂര്‍ റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 26.34,
+            "concurrence_lakhs": 26.34
+        },
+        {
+            "project_name": "ആറ്റിങ്ങല്‍ നഗരസഭയിലെ  കച്ചേരിനട-പോലീസ് സ്റ്റേഷന്‍ -കരിച്ചയില്‍ റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 44.5,
+            "concurrence_lakhs": 44.5
+        },
+        {
+            "project_name": "മണമ്പൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ കവലയൂര്‍-പുതുവിള റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മണമ്പൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ കൃഷിഭവന് പുതിയ കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "ശ്രീനാരായണപുരം ശാന്തിവിള പോലീസ് റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മണമ്പൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ പറങ്കിമാംപിള്ള പയ്യിക്കോണം റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഒറ്റൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ നമ്പര്‍ 75 അംഗന്‍വാടി മന്ദിര നിര്‍മ്മാണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "പഴയകുന്നുമേല്‍ ഗ്രാമപഞ്ചായത്തിലെ വടക്കുംപുറം -വട്ടപച്ച  റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പഴയകുന്നുമേല്‍ ഗ്രാമപഞ്ചായത്തിലെ ആറ്റൂര്‍ വണ്ടനൂര്‍ റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കിളിമാനൂര്‍ ഗ്രാമപഞ്ചായത്ത്  ഓഫീസ് കെട്ടിട നിര്‍മ്മാണ പൂര്‍ത്തികരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കരവാരം ഗ്രാമപഞ്ചായത്തിലെ ഏതുക്കാട് കല്ലാലുംമൂട് റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "നഗരൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ പാറമുക്ക് - തേക്കുവിള റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "നഗരൂര്‍  ഗ്രാമപഞ്ചായത്തിലെ പുന്നവിള  ഇടിചാഞ്ഞകുന്ന് റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "പുളിമാത്ത്  ഗ്രാമപഞ്ചായത്തിലെ  കല്ലൂര്‍കോണം കാവില്‍ക്കട  റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "നഗരൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ  കോട്ടിച്ചിറ - പട്ടകുഴി റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പഴയകുന്നുമ്മേല്‍ ഗ്രാമപഞ്ചായത്തിലെ  പുലരി വായനശാലയക്ക്‌ പുതിയ മന്ദിരം നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.6,
+            "concurrence_lakhs": 25.6
+        },
+        {
+            "project_name": "ആറ്റിങ്ങല്‍ നിയോജകമണ്ഡലത്തിലെ നഗരൂര്‍ പ്രാഥമിക ആരോഗ്യ കേന്ദ്രത്തിന് കെട്ടിടം നിര്‍മ്മാണം (ഒന്നാം നില)",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 38.36,
+            "concurrence_lakhs": 38.36
+        },
+        {
+            "project_name": "കിളിമാനൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ അരൂര്‍ അംഗന്‍വാടി മന്ദിര നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.57,
+            "concurrence_lakhs": 12.57
+        },
+        {
+            "project_name": "പുളിമാത്ത് ഗ്രാമപഞ്ചായത്തിലെ പയറ്റിങ്ങാംകുഴി - ഗുരുനഗര്‍ - പേഴുംകുന്ന്, കണ്ണമത്ത് ലക്ഷംവീട് -ആനൂര്‍ റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 51.68,
+            "concurrence_lakhs": 51.68
+        },
+        {
+            "project_name": "പഴയകുന്നുമ്മേല്‍ ഗ്രാമപഞ്ചായത്തിലെ പാപ്പാല - പറക്കോണം - വാഴോട് - വട്ടപ്പാറ റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 42.78,
+            "concurrence_lakhs": 42.78
+        },
+        {
+            "project_name": "കരവാരം ഗ്രാമപഞ്ചായത്തിലെ തലവിള - കോട്ടാമല - പുതുശ്ശേരിമുക്ക് - മാടന്‍നട - കഞ്ഞിരംവിള റോഡ്‌ നവീകരണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 26.33,
+            "concurrence_lakhs": 26.33
+        },
+        {
+            "project_name": "ഒറ്റൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ മാവിന്മൂട് ആയിലിക്കോണം പുതുവല്‍ കോളനി റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ഒറ്റൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ ശ്രീ നാരായണപുരം റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ആറ്റിങ്ങല്‍ ഗവ ഗേള്‍സ്‌ H S S ന് സ്കൂള്‍ ബസ്‌ വാങ്ങല്‍",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ ഉപ ഡയറക്ടർ",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 24.97,
+            "concurrence_lakhs": 24.97
+        },
+        {
+            "project_name": "ഒറ്റൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ നീറുവിള ഇന്‍ഡോര്‍ സ്റ്റേഡിയം പൂര്‍ത്തികരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 70.0,
+            "concurrence_lakhs": 70.0
+        },
+        {
+            "project_name": "കരവാരം ഗ്രാമപഞ്ചായത്തിലെ മംഗ്ലാവില്‍ - കരിമ്പലത്ത് റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 29.0,
+            "concurrence_lakhs": 29.0
+        },
+        {
+            "project_name": "പഴയകുന്നുമ്മേല്‍ ഗ്രാമപഞ്ചായത്തിലെ അലവക്കോട് കോളനി - ഇടമല റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കിളിമാനൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ വട്ടപ്പാറ-തേവയില്‍ -കാലായിക്കോട് -മാവുവിള റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "smt_o_s_ambika_placeholder"
+}

@@ -1,0 +1,717 @@
+{
+    "mla_name": "Shri M.S Arun Kumar",
+    "constituency": "MAVELIKARA",
+    "district": "Alappuzha",
+    "summary": {
+        "total_expenditure_crores": 24.2262,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 7.5452
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 6.6896
+            },
+            {
+                "label": "Others",
+                "value_crores": 4.6998
+            },
+            {
+                "label": "Sports",
+                "value_crores": 1.5766
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 1.56
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.95
+            },
+            {
+                "label": "Education",
+                "value_crores": 0.88
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.325
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "ചുനക്കര വാർഡ് 1 ലെ മേപ്പള്ളിൽ ജങ്ഷൻ കല്ലിപ്പുന്തലിൽ ശാസ്തമന വഴി പഞ്ചായത്ത് അതിർത്തി റോഡ് ടാറിംഗും കോൺക്രീറ്റും",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "മാവേലിക്കര മുനിസിപ്പാലിറ്റിയിലെ മാവേലിക്കര ശ്രീകൃഷ്ണ സ്വാമി ക്ഷേത്രം വേലക്കുളത്തിന് വടക്കുഭാഗവും പടിഞ്ഞാറുഭാഗവും റോഡ് ഇൻ്റർലോക്ക് ചെയ്യുന്ന പ്രവൃത്തി",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "തഴക്കര ഗ്രാമപഞ്ചായത്തിൽ വാർഡ് 17 കോട്ടമുക്ക് - പാലച്ചുവട് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "ഇറിഗേഷൻ",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "ചുനക്കര ഗ്രാമപഞ്ചായത്ത് വാർഡ് 11 കുറീത്തടി ജംഗ്ഷൻ മുതൽ പള്ളിക്കത്തോട് റോഡ് വരെ റോഡും ഓടയും നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "വള്ളികുന്നം ഗ്രാമപഞ്ചായത്തിന് ഓഫീസ് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 99.99,
+            "concurrence_lakhs": 99.99
+        },
+        {
+            "project_name": "വള്ളികുന്നം ഗ്രാമപഞ്ചായത്തിന് ഓഫീസ് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 99.99,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മാവേലിക്കര നഗരസഭ വാർഡ് 10 ശുഭാനന്ദാശ്രമം റോഡ് വെള്ളക്കെട്ട് ഒഴിവാക്കുന്നതിന് ഇൻ്റർലോക്ക് ചെയ്തു നവീകരിക്കൽ",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "Construction of Jeep Road At Ch. 6300 m of Kurathikadu branch of ward 10 - Chirayude Thekkethil Road",
+            "implementing_agency": "ഇറിഗേഷൻ",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "തഴക്കര ഗ്രാമപഞ്ചായത്ത്‌ - വാര്‍ഡ്‌ 19 - തെങ്ങിനാല്‍ നഗര്‍ റോഡ്‌ കോണ്‍ക്രീറ്റ് & സൈഡ് പിച്ചിംഗ് നിര്‍മ്മാണം.",
+            "implementing_agency": "ഇറിഗേഷൻ",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "KSRTC മാവേലിക്കര ഡിപ്പോയിൽ കവാടം നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "താമരക്കുളം പുതിയവീട്ടിൽ ക്ഷേത്രം പടിഞ്ഞാറെ ജങ്ഷൻ മുതൽ കുരിക്കശ്ശേരി നഗർ റോഡ് കോൺക്രീറ്റ്.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 21.0,
+            "concurrence_lakhs": 21.0
+        },
+        {
+            "project_name": "താമരക്കുളം ഗ്രാമ പഞ്ചായത്ത് വാർഡ് - 8  നെടിയവിള അങ്കണവാടി റോഡ് കോൺക്രീറ്റ്  നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.8,
+            "concurrence_lakhs": 10.8
+        },
+        {
+            "project_name": "ചുനക്കര ഗ്രാമപഞ്ചായത്ത് വാർഡ് -8 വി.വി.എച്ച്.എസ് നഗർ റോഡ് കോൺക്രീറ്റ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ചുനക്കര ഗ്രാമ പഞ്ചായത്ത്  വാർഡ് - 8  പത്തിശ്ശേരി -മുഹൂർത്തിവിള റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 26.0
+        },
+        {
+            "project_name": "നൂറനാട് ഗ്രാമപഞ്ചായത്ത്  വാർഡ് -6 ൽ ഏലിയാസ് നഗർ   ഉൾനാടൻ മത്സ്യതൊഴിലാളി അമിനിറ്റി സെൻ്റർ നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "മാവേലിക്കര- സര്‍ക്കാര്‍ വിദ്യാലയങ്ങള്‍ സ്മാര്‍ട്ട്‌ ക്ലാസ് റൂമുകളാക്കുന്നതിന്റെ ഭാഗമായി വിവിധ സര്‍ക്കാര്‍ സ്ക്കൂളുകൾക്ക്  (4 സ്ക്കൂളുകൾ)  ലാപ് ടോപ് - ഡെസ്ക്  ടോപ് വാങ്ങല്‍",
+            "implementing_agency": "പൊതുവിദ്യാഭ്യാസം",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കെ.എസ്.ആർ.റ്റി സി മാവേലിക്കര ഡിപ്പോയിൽ കവാടം നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വള്ളികുന്നം ഗ്രാമ പഞ്ചായത്ത്  വാർഡ് -16 ൽ കെ.ഐ.പി  കനാലിന്  സമീപമുള്ള പുതുശ്ശേരിൽ ചൂരക്കാല   റോഡ് കോൺക്രീറ്റ്",
+            "implementing_agency": "ഇറിഗേഷൻ",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മാവേലിക്കര നഗരസഭ  വാർഡ്-16,  ഉമ്പർനാട് - ഗുരുമന്ദിരം -ഓവർബ്രിഡ്ജ്  റോഡ് ഇന്‍റെ ർ ലോക്ക്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 26.0
+        },
+        {
+            "project_name": "ഒരു പഞ്ചായത്തിൽ ഒരു കളിക്കളം പദ്ധതിയിലുൾപ്പെടുത്തി  തെക്കേക്കര ഗ്രാമ പഞ്ചായത്തിന് കളിസ്ഥലം  നിർമ്മാണം - വിഹിതം നൽകൽ",
+            "implementing_agency": "Sports Kerala Foundation",
+            "category": "Sports",
+            "fy": "2025-2026",
+            "estimate_lakhs": 23.4,
+            "concurrence_lakhs": 23.4
+        },
+        {
+            "project_name": "ഒരു പഞ്ചായത്തിൽ ഒരു കളിക്കളം പദ്ധതിയിലുൾപ്പെടുത്തി  താമരക്കുളം ഗ്രാമ പഞ്ചായത്തിന് കളിസ്ഥലം നിർമ്മാണം - വിഹിതം നൽകൽ",
+            "implementing_agency": "Sports Kerala Foundation",
+            "category": "Sports",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ഒരു പഞ്ചായത്തിൽ ഒരു കളിക്കളം പദ്ധതിയിലുൾപ്പെടുത്തി  പാലമേൽ ഗ്രാമ പഞ്ചായത്തിന്  കളിസ്ഥലം നിർമ്മാണം -വിഹിതം നൽകൽ",
+            "implementing_agency": "Sports Kerala Foundation",
+            "category": "Sports",
+            "fy": "2025-2026",
+            "estimate_lakhs": 27.93,
+            "concurrence_lakhs": 27.93
+        },
+        {
+            "project_name": "ഒരു പഞ്ചായത്തിൽ ഒരു കളിക്കളം പദ്ധതിയിലുൾപ്പെടുത്തി  വള്ളികുന്നം ഗ്രാമ പഞ്ചായത്തിന്  കളിസ്ഥലം നിർമ്മാണം-വിഹിതം നൽകൽ",
+            "implementing_agency": "Sports Kerala Foundation",
+            "category": "Sports",
+            "fy": "2025-2026",
+            "estimate_lakhs": 36.33,
+            "concurrence_lakhs": 36.33
+        },
+        {
+            "project_name": "തഴക്കര ഗ്രാമ പഞ്ചായത്ത്  വാർഡ് -17 കോതാറ കനാൽ ജംഗ്ഷൻ പി.ഐ.പി.ജീപ്പ് റോഡ് കോൺക്രീറ്റ് നിർമ്മാണം",
+            "implementing_agency": "ഇറിഗേഷൻ",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "നൂറനാട് ലെപ്രസി സാനിട്ടോറിയത്തിലെ ഡയാലിസിസ് മെഷീൻ സ്ഥാപിക്കുന്നതിനുള്ള അടിസ്ഥാന സൌകര്യ വികസനം രണ്ടാം ഘട്ടം",
+            "implementing_agency": "സൂപ്രണ്ട്  ലെപ്രസി സാനിട്ടോറിയം നൂറനാട്",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 99.99,
+            "concurrence_lakhs": 99.99
+        },
+        {
+            "project_name": "നൂറനാട് ലെപ്രസി സാനിട്ടോറിയത്തിൽ 50 കിടക്കകളുള്ള ഡയാലിസിസ് സെന്‍റെർ സ്ഥാപിക്കുന്നതിന്  അടിസ്ഥാന സൌകര്യ വികസനം (ഒന്നാം ഘട്ടം)",
+            "implementing_agency": "സൂപ്രണ്ട്  ലെപ്രസി സാനിട്ടോറിയം നൂറനാട്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 99.99,
+            "concurrence_lakhs": 99.99
+        },
+        {
+            "project_name": "കേരള സർവ്വകലാശാല അദ്ധ്യാപന പഠന കലാലയം,കുന്നം  -കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 75.0,
+            "concurrence_lakhs": 75.0
+        },
+        {
+            "project_name": "നൂറനാട് ഗ്രാമ പഞ്ചായത്ത് കുതിരകെട്ടുംതടം  G L P S   ന് കെട്ടിടം  നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 99.99,
+            "concurrence_lakhs": 99.99
+        },
+        {
+            "project_name": "പാലമേൽ ഗ്രാമ പഞ്ചായത്തിൽ GWLPS  പയ്യനല്ലൂരിന് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 99.99,
+            "concurrence_lakhs": 99.99
+        },
+        {
+            "project_name": "ഒരു പഞ്ചായത്തിൽ ഒരു കളിക്കളം പദ്ധതിയിൽ ഉൾപ്പെടുത്തി മാവേലിക്കര നിയോജക മണ്ഡലത്തിലെ നൂറനാട് പടനിലം സ്റ്റേഡിയം നിർമ്മാണം",
+            "implementing_agency": "Sports Kerala Foundation",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "താമരക്കുളം ഗ്രാമ പഞ്ചായത്തിൽ വാർഡ് -4 കുളത്തിന്‍റെ മേലേതിൽ ചേരിക്കൽ കനാൽ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "ഇറിഗേഷൻ",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മാവേലിക്കര മണ്ഡലത്തിലൂടെ കടന്നുപോകുന്ന കല്ലട ജലസേചന പദ്ധതിയുടെ നൂറനാട് ക്രോസ് ഷട്ടർ നിർമ്മാണം",
+            "implementing_agency": "ഇറിഗേഷൻ",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "വള്ളികുന്നം ഗ്രാമ പഞ്ചായത്ത്  വാർഡ് -14 പേരമുറി - ബദാംമുക്ക് റോഡ് ടാറിംഗ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "മാവേലിക്കര നഗരസഭ -പുതിയകാവ് ക്ഷേത്രക്കുളം നവീകരണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "തഴക്കര ഗ്രാമ പഞ്ചായത്ത് - വാർഡ് -4 അംഗനവാടി നമ്പർ - 10 കെട്ടിടനിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "മാവേലിക്കര മുനിസിപ്പാലിറ്റി -പ്രായിക്കര മണ്ഡപത്തും കടവ് വടക്ക് ഭാഗം തോട് നവീകരണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "മാവേലിക്കര താമരക്കുളം ഗ്രാമപഞ്ചായത്ത് വാർഡ് 9 VFPCK വിപണി - വിളയിൽ കിഴക്ക് ജം. റോഡ് കോൺക്രീറ്റിംഗും ഓട നിർമ്മാണവും.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "താമരക്കുളം ഗ്രാമപഞ്ചായത്ത് വാർഡ് 17 കിണറുവിള മുകളയ്യത്ത് റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "വള്ളികുന്ന ഗ്രാമപഞ്ചായത്ത് വാർഡ് 11 അംഗനവാടി നമ്പർ 135 ന് കെട്ടിടം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "തെക്കേക്കര ഗ്രാമപഞ്ചായത്ത് വാർഡ് 5 അംഗനവാടി നമ്പർ 139 കെട്ടിടനിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ വാർഡ് 31 നാടിയൻ പറമ്പിൽ കൊച്ചുകിട്ടൻ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 11.72,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നൂറനാട് ഗ്രാമപഞ്ചായത്ത് ഇടക്കുന്നം ക്ഷീരസംഘം കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "വള്ളികുന്നം ഗ്രാമപഞ്ചായത്ത് തെക്കേമുറി വാർഡ് 13 നേതാജി ജംഗഷൻ മുതൽ കൊട്ടോട്ടുകുഴി തോടിന് സൈഡ് വാൾ കോൺക്രീറ്റിംഗും കൾവർട്ടും",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "തഴക്കര ഗ്രാമപഞ്ചായത്ത്  വാർഡ് 3-വേണാട് ജംഗ്ഷൻ മുതൽ കല്ലൂർ റോഡ് വരെ ടാറിംഗ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പാലമേൽ ഗ്രാമപഞ്ചായത്ത് പണയിൽ ഫാക്ടറി വാർഡ് പുത്തൻകുളം ചെമ്പകശ്ശേരി റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ചുനക്കര ഗവ. വി.എച്ച്.എസ്.എസ് ന് മുൻവശം വെള്ളക്കെട്ട് ഒഴിവാക്കാൻ റോഡും ഓടയും നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 22.0
+        },
+        {
+            "project_name": "തെക്കേക്കര ഗ്രാമപഞ്ചായത്ത് ബി.ആർ.സി കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ഗവ.ഗേൾസ് ഹയർ സെക്കൻഡറി സ്കൂളിന് ചുറ്റുമതിലും കവാടവും",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "നൂറനാട് ഗ്രാമപഞ്ചാായത്ത് ആലവിള ജംഗ്ഷൻ കറ്റകളീക്കൽ പടിഞ്ഞാറ് പഞ്ചായത്ത് അതിർത്തി ബണ്ട് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പാലമേൽ ഗ്രാമപഞ്ചായത്ത് ഉളവക്കാട് വന്മേലിൽ കോളനി കുടശ്ശനാട് അണിക്കുന്നത്ത് ക്ഷേത്രബണ്ട് റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "സംസ്ഥാന കായിക വകുപ്പിൻ്റെ ഒരു പഞ്ചായത്തിൽ ഒരു കളിക്കളം പദ്ധതി – മാവേലിക്കര മണ്ഡലം തഴക്കര പഞ്ചായത്തിലെ ഇറവങ്കര ഗ്രൗണ്ട് നിർമ്മാണം - എം.എൽ.എ എ.ഡി.എസ് വിഹിതം നൽകൽ",
+            "implementing_agency": "Sports Kerala Foundation",
+            "category": "Sports",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "വള്ളികുന്നം ഗ്രാമപഞ്ചായത്ത് വാർഡ് 05 ലെ പടയണിവെട്ടം - കുന്നത്ത് മുക്ക് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "മാവേലിക്കര ഗവൺമെന്റ് വൊക്കേഷണൽ& ബോയ്സ്  ഹയർ സെക്കൻഡറി സ്കൂളിന്റെ ചുറ്റുമുതലും കവാടവും നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ചുനക്കര ഗവ. വൊക്കേഷണൽ ഹയർ സെക്കണ്ടറി സ്കൂളിന് ബസ് വാങ്ങൽ",
+            "implementing_agency": "പൊതുവിദ്യാഭ്യാസം",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "മാവേലിക്കര നിയോജകമണ്ഡലത്തിലെ വിവിധ കേന്ദ്രങ്ങളിൽ മിനിമാസ്റ്റ് ലൈറ്റ് (54 എണ്ണം)",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 91.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മാവേലിക്കര നിയോജകമണ്ഡലത്തിലെ വിവിധ പ്രദേശങ്ങളിൽ മിനിമാസ്റ്റ് ലൈറ്റ് (32 എണ്ണം)",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "മാവേലിക്കര നഗരസഭ വാർഡ് 3 കണ്ടിയൂർ ക്ഷേത്രം തെക്കേനട റോഡ് ഇൻ്റർലോക്കിംഗ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ബിഷപ്പ് ഹോഡ്ജസ് ഹയർ സെക്കണ്ടറി സ്കൂൾ മാവേലിക്കര - ടോയിലറ്റ് ബ്ലോക്ക് നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഗവ. യു പി സ്കൂൾ ചുനക്കര - ക്ലാസ് റൂം നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "പാലമേൽ ഗ്രാമ പഞ്ചായത്ത് വാർഡ് -09 കുളത്തുംവടക്കതിൽ കണ്ണങ്കര മുകൾ റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "പാലമേൽ ഗ്രാമ പഞ്ചായത്ത് വാർഡ് -05 ഉളവക്കാട് സാംസ്ക്കാരിക നിലയം കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "നൂറനാട് ഗ്രാമപഞ്ചായത്ത് വാർഡ് 1 വെട്ടിയാർ പാലം - പുലക്കടവ് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ചുനക്കര ഗ്രാമപഞ്ചായത്തിലെ വാർഡ് 9 മണ്ണെടുക്കും ജം. - കാരൂർ റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ചുനക്കര ഗ്രാമപഞ്ചായത്ത് വാർഡ് 1 കറുകവിള ജംഗ്ഷൻ വടക്കോട്ട് മുതൽ കാരാമൂട് ജംഗ്ഷൻ പഞ്ചായത്ത് അതിർത്തി വരെയുള്ള റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ചുനക്കര ഗ്രാമപഞ്ചായത്ത് വാർഡ് 11 സാധുപുരത്ത് മുക്ക് മുതൽ പള്ളിക്കൽ തോട് വരെയുള്ള റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "താമരക്കുളം ഗ്രാമപഞ്ചായത്ത് ചെറ്റരിക്കൽ വാർഡ് 17 ഞായറാഴ്ചമുക്ക് - നാട്ടുവാതുക്കൽ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "തഴക്കര ഗ്രാമപഞ്ചായത്ത് നെടുവേലിത്തറ - സ്വപ്ന ഭവൻ - KPMS റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 24.0,
+            "concurrence_lakhs": 24.0
+        },
+        {
+            "project_name": "നൂറനാട് ഗ്രാമപഞ്ചായത്ത് ഐരാണിക്കുടി - ഇമ്മാനുവൽ ചർച്ച് റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.5,
+            "concurrence_lakhs": 16.34
+        },
+        {
+            "project_name": "തഴക്കര ഗ്രാമപഞ്ചായത്ത് വാർഡ് 4 കുന്നം ക്രോസ് ലാൻ്റ് - കരണിയയ്യത്ത് റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "തെക്കേക്കര ഗ്രാമ പഞ്ചായത്തിലെ ചൂരല്ലൂർ വാർഡ്, മാടൻകാവ്-അമ്പുലാത്ത് മുക്ക് റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "വള്ളികുന്നം ഗ്രാമ പഞ്ചായത്ത് വാർഡ് -4 കല്ലുകണ്ടം -പുളിന്തറ തോടിന് പാർശ്വഭിത്തി നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "തെക്കേക്കര ഗ്രാമ പഞ്ചായത്ത് വാർഡ് -5 ഇലവക്കാട് -റ്റി.എ കനാൽ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "മാവേലിക്കര K.S.R.T.C Bus Depot യുടെ മുൻവശം കോട്ടാത്തോട് ഇരുവശവും സംരക്ഷണഭിത്തി നിർമ്മിച്ച് കവറിംഗ് സ്ലാബ് ഇട്ട് സഞ്ചാര യോഗ്യമാക്കുക",
+            "implementing_agency": "മൈനർ ഇറിഗേഷൻ",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "താമരക്കുളം ഗ്രാമ പഞ്ചായത്തിലെ ചത്തിയറ - പുന്നകുറ്റി പട്ടികജാതി കോളനി സ്റ്റേഡിയത്തിന്‍റെ സൈഡ് നെറ്റ് വാൾ",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "Improovements by providing interlocking tiles infront of the yard of KSRTC Bus depot Mavelikkara",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "മാവേലിക്കര ജില്ലാ ആശുപത്രി ജംഗ്ഷൻ അരമന റോഡിൻറെ ആദ്യ റീച്ച് BM-BC/DBM നിലവാരത്തില്‍ നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Healthcare",
+            "fy": "2021-2022",
+            "estimate_lakhs": 12.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നൂറനാട് ലെപ്രസി സാനിറ്റോറിയത്തിന് LEVEL C ആംബുലൻസ്",
+            "implementing_agency": "ആരോഗ്യവകുപ്പ്",
+            "category": "Healthcare",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ചുനക്കര ഗവ. വൊക്കേഷണൽ ഹയർ സെക്കണ്ടറി സ്കൂൾ ഗ്രൗണ്ട് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "നൂറനാട് ഗ്രാമപഞ്ചായത്ത് ഷോപ്പിംഗ് കോംപ്ലക്സ് ഇലക്ട്രിഫിക്കേഷൻ",
+            "implementing_agency": "പൊതുമരാമത്ത് ഇലക്ട്രിക്കൽ വിഭാഗം",
+            "category": "Electricity",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "നൂറനാട് ഗ്രാമപഞ്ചായത്ത് വാർഡ് 8 അംഗനവാടി നമ്പർ 66  കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പാലമേൽ ഗ്രാമപഞ്ചായത്ത് ചെമ്പകശ്ശേരിൽ മുക്ക് - പണയിൽകുറ്റി റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "തഴക്കര ഗ്രാമപഞ്ചായത്ത് വാർഡ് 1 മൂഴിയാട്ട് വരിക്കോലിൽ വടക്കതിൽ ഭാഗത്ത് പമ്പ ജലസേചന പദ്ധതിയുടെ കനാൽ നിർമ്മിച്ച് കവറിംഗ് സ്ലാബ് ഇടുകയും വശങ്ങളിൽ മണ്ണിട്ട് ഉയർത്തി കനാൽ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 28.0,
+            "concurrence_lakhs": 28.0
+        },
+        {
+            "project_name": "മാവേലിക്കര ജില്ലാ ആശുപത്രിയിലേക്കുള്ള റോഡ് BM BC നിലവാരത്തിൽ നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 12.5,
+            "concurrence_lakhs": 12.5
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "alappuzha_shri_ms_arun_kumar_placeholder"
+}

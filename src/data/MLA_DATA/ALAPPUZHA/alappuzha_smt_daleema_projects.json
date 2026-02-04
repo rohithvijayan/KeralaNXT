@@ -1,0 +1,741 @@
+{
+    "mla_name": "Smt. Daleema",
+    "constituency": "AROOR",
+    "district": "Alappuzha",
+    "summary": {
+        "total_expenditure_crores": 23.911,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 8.416
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 6.8456
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 3.0
+            },
+            {
+                "label": "Others",
+                "value_crores": 2.36
+            },
+            {
+                "label": "Education",
+                "value_crores": 1.45
+            },
+            {
+                "label": "Sports",
+                "value_crores": 1.0
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 0.7094
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.13
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "പാണാവള്ളി തളിയാപറമ്പ് ഗവ എൽ പി സ്കൂൾ - ഒന്നാം നില നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "എഴുപുന്ന ഗ്രാമപഞ്ചായത്ത് - വാര്‍ഡ്‌ 15 - പിള്ളേർകാട്  - നരിയാണ്ടി റോഡ് നിർമ്മാണം.",
+            "implementing_agency": "ഹാര്‍ബര്‍ എന്‍ജിനീയറിംഗ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.1,
+            "concurrence_lakhs": 10.1
+        },
+        {
+            "project_name": "അരൂർ മണ്ഡലത്തിലെ വിവിധ പ്രദേശങ്ങളിൽ മിനിമാസ്റ്റ് ലൈറ്റ് (5 x 150 ഫ്ലഡ് ലൈറ്റ്  ഉൾപ്പെടെ ) സ്ഥാപിക്കൽ.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 47.94,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തുറവൂർ ഗ്രാമപഞ്ചായത്ത് - വാർഡ് 7 മാനവ സഹായ സമിതി വായനശാല & ഗ്രന്ഥശാലക്കും, അങ്കണവാടി നമ്പർ 111 നും പുതിയ കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "തൈക്കാട്ടുശ്ശേരി ഗ്രാമപഞ്ചായത്ത്‌ - വാർഡ് 1 - ഗവ.എൽ പി സ്കൂൾ ഉളവയ്പിന് പുതിയ കെട്ടിടം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 57.0,
+            "concurrence_lakhs": 57.0
+        },
+        {
+            "project_name": "കോടംതുരുത്ത് ഗ്രാമപഞ്ചായത്ത് - വാര്‍ഡ്‌ 2 - കരുമാഞ്ചേരി പള്ളി മാര്‍ക്കറ്റ് റോഡ്‌ കാന നിര്‍മ്മാണം.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "പാണാവള്ളി ഗ്രാമപഞ്ചായത്ത്‌ - വാര്‍ഡ്‌ 1 - തൃച്ചാറ്റുകുളം - ചാലില്‍ റോഡ്‌ നിര്‍മ്മാണം.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "എഴുപുന്ന ഗ്രാമപഞ്ചായത്ത്‌ വാര്‍ഡ്‌ - 14 - പാലായിപ്പറമ്പ് - കാര്യത്തറ റോഡ് നിർമ്മാണം.",
+            "implementing_agency": "ഹാര്‍ബര്‍ എന്‍ജിനീയറിംഗ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 18.5,
+            "concurrence_lakhs": 18.5
+        },
+        {
+            "project_name": "പാണാവള്ളി ഗ്രാമപഞ്ചായത്ത്‌ - വാര്‍ഡ്‌ - 15 - പാണാവള്ളി തളിയാപറമ്പ് എടപ്പോങ്ങഴി റോഡ് നിർമ്മാണം ( Phase - 2 )",
+            "implementing_agency": "ഹാര്‍ബര്‍ എന്‍ജിനീയറിംഗ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 18.5,
+            "concurrence_lakhs": 18.5
+        },
+        {
+            "project_name": "അരൂകുറ്റി ഗ്രാമപഞ്ചായത്ത്‌ - വാര്‍ഡ്‌ 13 - പുല്ലുരിക്കല്‍ - പുന്നാപ്പള്ളി റോഡ്‌ നിര്‍മ്മാണം.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "പാണാവള്ളി ഗ്രാമപഞ്ചായത്ത് - വാര്‍ഡ്‌ - 13 - പോറ്റെത്തറ റോഡ്‌ നിര്‍മ്മാണം.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "അരൂക്കുറ്റി ഗ്രാമപഞ്ചായത്ത്‌ - വാര്‍ഡ്‌ 10 - കളത്തില്‍ സുബ്രഹ്മണ്യം ക്ഷേത്രം റോഡ്‌ നിര്‍മ്മാണം.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "അരൂക്കുറ്റി ഗ്രാമപഞ്ചായത്ത്‌ - വാര്‍ഡ്‌ 11 - ഇല്ലിപ്പറമ്പില്‍ പെരിങ്ങാട്ട് തോടിന് കല്‍ക്കെട്ടും , കലുങ്കും - നിര്‍മ്മാണം",
+            "implementing_agency": "മൈനർ ഇറിഗേഷൻ",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പെരുമ്പളം ഗ്രാമപഞ്ചായത്ത്‌ - വാര്‍ഡ്‌ - 10 - പുതുക്കാട് മൂക്കണ്ണന്‍ചിറ റോഡ്‌ നിര്‍മ്മാണം.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "പാണാവള്ളി ഗ്രാമപഞ്ചായത്ത് ഓടമ്പള്ളി പബ്ലിക് ലൈബ്രറി പുതിയ കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "ഒരു പഞ്ചായത്തിൽ ഒരു കളി എന്ന പദ്ധതി പ്രകാരം പെരുമ്പളം പഞ്ചായത്ത്  തോപ്പുവെളി ഗ്രൗണ്ടിന് കളി സ്ഥലം നിര്‍മ്മാണം",
+            "implementing_agency": "Sports Kerala Foundation",
+            "category": "Sports",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "അരൂർ ഗ്രാമപഞ്ചായത്ത് - വാർഡ് 22 - പ്രോജകട് കോളനി തോട് ,വെളുത്തേടത്ത് തോട് ഇരുവശങ്ങളും കോണ്‍ക്രീറ്റ് ചെയ്ത് സ്ലാബ് ഇടൽ.",
+            "implementing_agency": "മൈനർ ഇറിഗേഷൻ",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "അരൂര്‍ ഗ്രാമപഞ്ചായത്ത്‌ വാര്‍ഡ്‌ - 14 ആഞ്ഞിലിക്കാട് - മൂലയില്‍\r\n\r\n   തൈക്കടവ് കല്ലുകെട്ട് .",
+            "implementing_agency": "ഇറിഗേഷൻ",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കൊടംതുരുത്ത് ഗ്രാമപഞ്ചായത്ത്‌ - മാന്താഴെ തണ്ണിപ്പള്ളി  തോട്\r\n\r\n    കല്ലുകെട്ടി സ്ലാബ് ഇടല്‍.",
+            "implementing_agency": "ഇറിഗേഷൻ",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കോടംതുരുത്ത് ഗ്രാമപഞ്ചായത്ത്‌ - വാര്‍ഡ്‌ 8 -കൈനിക്കര - ആലുംവരമ്പ് റോഡ്‌ നിര്‍മ്മാണം .",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കോടംതുരുത്ത് ഗ്രാമപഞ്ചായത്ത്‌ - വാര്‍ഡ്‌ 15 - മാറ്റ് ഇന്ത്യ റോഡ് നിർമ്മാണം.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "തുറവൂർ ഗ്രാമപഞ്ചായത്ത്‌ - വാര്‍ഡ്‌ 15 - ന്യൂ വോയിസ് ഇൻണ്ടം തുരുത്ത് റോഡ് കോൺക്രീറ്റിംഗ് & ടൈലിങ്ങ്.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 46.0,
+            "concurrence_lakhs": 46.0
+        },
+        {
+            "project_name": "എഴുപ്പുന്ന ഗ്രാമപഞ്ചായത്ത്‌ - വാര്‍ഡ്‌ 15- ഇന്‍ഫന്റ് ജീസസ് കലുങ്ക് പത നിര്‍മ്മാണം.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "SNHSS ശ്രീകണ്ഠേശ്വരം പുതിയ സ്ക്കൂൾ കെട്ടിടം ( ചലഞ്ച് ഫണ്ട്‌ 50+50)",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "SCSHSS  വളമംഗലം പുതിയ സ്ക്കൂൾ കെട്ടിടം ( ചലഞ്ച് ഫണ്ട്‌ 50+50)",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "അരൂർ എൽ.എ.സി - സോളാർ മിനിമാസ്റ്റ് ലൈറ്റുകൾ സ്ഥാപിക്കുന്നത്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 65.0,
+            "concurrence_lakhs": 65.0
+        },
+        {
+            "project_name": "അരൂർ എൽ.എ.സി -വിവിധ കേന്ദ്രങ്ങളില്‍ സോളാർ മിനിമാസ്റ്റ് ലൈറ്റുകൾ സ്ഥാപിക്കുന്നത്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 65.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അരൂര്‍ -മറ്റത്തില്‍ ഭാഗം- ഗവ . എല്‍ പി സ്കൂള്‍ കെട്ടിട നിർമ്മാണം .",
+            "implementing_agency": "KILA",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "കോടംതുരുത്ത് കുടുംബാരോഗ്യകേന്ദ്രത്തിന്  പുതിയ കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 83.0,
+            "concurrence_lakhs": 83.0
+        },
+        {
+            "project_name": "തുറവൂർ ഗ്രാമപഞ്ചായത്ത്  വാർഡ് 5- മത്സ്യഭവന് പുതിയ കെട്ടിടം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "പാണാവള്ളി പഞ്ചായത്ത് തൃച്ചാറ്റുകുളം ഗവ എൽപി സ്ക്കൂളിന് പുതിയ കെട്ടിടം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "ഒരു പഞ്ചായത്തിൽ ഒരു കളിക്കളം-കോടംതുരുത്ത് ഗവ വൊക്കേഷണൽ ഹയർസെക്കററി സ്ക്കൂളിന് കളിസ്ഥലം",
+            "implementing_agency": "Sports Kerala Foundation",
+            "category": "Sports",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "പള്ളിപ്പുറം ഗ്രാമപഞ്ചായത്ത് വാർഡ് 17 മൂന്ന് തോട് പാലത്തിന് സംരക്ഷണഭിത്തി നിർമ്മാണം",
+            "implementing_agency": "ഇറിഗേഷൻ",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "എഴുപുന്ന ഗ്രാമപഞ്ചായത്ത് വാർഡ് 13 ചിറയിൽ പറമ്പ് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "ഹാര്‍ബര്‍ എന്‍ജിനീയറിംഗ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.48,
+            "concurrence_lakhs": 12.48
+        },
+        {
+            "project_name": "പാണാവള്ളി  ഗ്രമപഞ്ചായത്ത് വാർഡ് 12 പുതുശേരിച്ചിറ-കമ്മ്യൂണിറ്റിഹാൾ റോഡ്",
+            "implementing_agency": "ഹാര്‍ബര്‍ എന്‍ജിനീയറിംഗ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.27,
+            "concurrence_lakhs": 16.27
+        },
+        {
+            "project_name": "അരൂർ ഗ്രാമപഞ്ചായത്ത് വാർഡ് 10 പൊക്കലിൽ-ചൂരാപ്പള്ളി റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "അരൂർ ഗ്രാമപഞ്ചായത്ത് വാർഡ് 16 അറയ്ക്കൽ- മാളിയേക്കൽ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "അരൂർ ഗ്രാമപഞ്ചായത്ത് വാർഡ് 11 തഴുപ്പ് തറമേൽ പ്രദേശം(തഴുപ്പ് കായൽ) കല്ലുകെട്ടി സംരക്ഷിക്കൽ",
+            "implementing_agency": "ഇറിഗേഷൻ",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "അരൂക്കുറ്റി പഞ്ചായത്ത് വാര്‍ഡ് 11 ല്‍ തച്ചേരി -ഓഞ്ഞാളി റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "ഹാര്‍ബര്‍ എന്‍ജിനീയറിംഗ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അരൂര്‍ ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 6 അരൂര്‍ ഫെറി -കൈതപ്പുഴ കായല്‍ ടൂറിസം പദ്ധതി",
+            "implementing_agency": "ഇറിഗേഷൻ",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എഴുപുന്ന ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 12 പുതുശ്ശേരി-കൂവക്കാട് റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "അരൂര്‍ ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 14 ആഞ്ഞിലിക്കാട്-മൂലയില്‍ തൈക്കടവ് കല്ലുകെട്ട്",
+            "implementing_agency": "മൈനർ ഇറിഗേഷൻ",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "അരൂര്‍ ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 21 അമ്മനേഴം തോടിന് കല്ലുകെട്ട്",
+            "implementing_agency": "മൈനർ ഇറിഗേഷൻ",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "അരൂര്‍ ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 15 അടക്കാമരക്കൂട്ടം റോഡ് ടാറിംഗ്",
+            "implementing_agency": "ഹാര്‍ബര്‍ എന്‍ജിനീയറിംഗ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "അരൂര്‍ ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 13,15 എന്‍.എച്ച് വളവനാട് റോഡ് മെറ്റലിംഗും ടാറിംഗും",
+            "implementing_agency": "ഹാര്‍ബര്‍ എന്‍ജിനീയറിംഗ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.5,
+            "concurrence_lakhs": 18.5
+        },
+        {
+            "project_name": "എഴുപുന്ന ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 4 എന്‍.എച്ച് വിന്‍സെന്‍റ് റോഡ് മെറ്റലിംഗും ടാറിംഗും",
+            "implementing_agency": "ഹാര്‍ബര്‍ എന്‍ജിനീയറിംഗ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 13.8,
+            "concurrence_lakhs": 13.8
+        },
+        {
+            "project_name": "എഴുപുന്ന ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 1 എഴുപുന്ന കമ്മട്ടിപ്പാടം റോഡ്",
+            "implementing_agency": "ഹാര്‍ബര്‍ എന്‍ജിനീയറിംഗ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുത്തിയതോട് ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 16 തെരുവില്‍ച്ചിറ കോളനി റോഡ് മെറ്റലിംഗും ടാറിംഗും",
+            "implementing_agency": "ഹാര്‍ബര്‍ എന്‍ജിനീയറിംഗ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.5,
+            "concurrence_lakhs": 17.5
+        },
+        {
+            "project_name": "കുത്തിയതോട് ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 11 എന്‍.എച്ച് ഖാദി-ചാരപ്പറമ്പ് കോളനി റോഡ്",
+            "implementing_agency": "ഹാര്‍ബര്‍ എന്‍ജിനീയറിംഗ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.4,
+            "concurrence_lakhs": 17.4
+        },
+        {
+            "project_name": "തുറവൂര്‍ ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 4 എന്‍.എച്ച് പുത്തന്‍കാവ് ദേശതോട് പാലം പുനര്‍നിര്‍മ്മാണം",
+            "implementing_agency": "ഇറിഗേഷൻ",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കോടംതുരുത്ത് ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 9 യുവസാഗര പുന്നവേലി റോഡ് മെറ്റലിംഗും ടാറിംഗും",
+            "implementing_agency": "ഹാര്‍ബര്‍ എന്‍ജിനീയറിംഗ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ചേന്നം പള്ളിപ്പുറം ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 11 കുരിശ്ശടി റോഡ് മെറ്റലിംഗും ടാറിംഗും",
+            "implementing_agency": "ഹാര്‍ബര്‍ എന്‍ജിനീയറിംഗ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.85,
+            "concurrence_lakhs": 15.85
+        },
+        {
+            "project_name": "പള്ളിപ്പുറം ഗ്രാമപഞ്ചായത്ത് പല്ലുവേലി സ്ക്കൂള്‍കെട്ടിടം നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അരൂര്‍ മണ്ഡലത്തിലെ വിവിധപ്രദേശങ്ങളില്‍ മിനിമാസ്റ്റ്/ഹൈമാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കല്‍",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "എഴുപുന്ന സെന്‍റ് റാഫേല്‍ സ്ക്കൂളിന് പ്ലേ ഗ്രൌണ്ട് നിര്‍മ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പാണാവള്ളി ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 13,15 തളിയാപറമ്പ് -എടപ്പങ്ങഴി റോഡ് മെറ്റലിംഗും ടാറിംഗും",
+            "implementing_agency": "ഹാര്‍ബര്‍ എന്‍ജിനീയറിംഗ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 41.75,
+            "concurrence_lakhs": 41.75
+        },
+        {
+            "project_name": "അരൂര്‍ പഞ്ചായത്ത് വാര്‍ഡ് 1-ഫിഷര്‍മെന്‍ കോളനി നടപ്പാത നിര്‍മ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കോടംതുരുത്ത് പഞ്ചായത്ത് വാര്‍ഡ് 8-എം.വി പുരുഷന്‍ റോഡ് മെറ്റലിംഗും ടാറിംഗും",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "പാണാവള്ളി ഗ്രാമപഞ്ചായത്ത് ഓടമ്പള്ളി വെയിറ്റിംഗ് ഷെഡ്",
+            "implementing_agency": "KERALA ELECTRICAL AND ALLIED ENGINEERING CO. LTD",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അരൂര്‍ മണ്ഡലത്തിന്‍റെ വിവിധ പ്രദേശങ്ങളില്‍ മിനിമാസ്റ്റ് ലൈറ്റ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "അരൂക്കുറ്റി പഞ്ചായത്ത് വാര്‍ഡ് 2  പൊക്ലാട്ടു കളപ്രായി റോഡ് മെറ്റലിംഗും ടാറിംഗും",
+            "implementing_agency": "ഗ്രാമവികസനം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "പാണാവള്ളി പഞ്ചായത്ത് വാര്‍ഡ് 17- പനമ്പുകാട്ടു കുളങ്ങര - 48 ഈശ്വരം റോഡ്  നിര്‍മ്മാണം",
+            "implementing_agency": "ഗ്രാമവികസനം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "അരൂക്കുറ്റി പഞ്ചായത്ത് വാര്‍ഡ് 7 നരിക്കാട്ടുവെളി അയ്യെഴത്ത് റോഡ് മെറ്റലിംഗും ടാറിംഗും",
+            "implementing_agency": "ഗ്രാമവികസനം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പാണാവള്ളി പഞ്ചായത്ത് വാര്‍ഡ് 1 ചൂടുംതറ -ചാലില്‍ നടപ്പാത",
+            "implementing_agency": "ഗ്രാമവികസനം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചന്തിരൂര്‍ ഗവ ആയുര്‍വേദ ആശുപത്രിക്ക് ലിഫ്റ്റ് സൌകര്യം",
+            "implementing_agency": "പൊതുമരാമത്ത് ഇലക്ട്രിക്കൽ വിഭാഗം",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അരൂര്‍ പഞ്ചായത്ത് വാര്‍ഡ് 06 കോതാട്ട്-പുളിത്തറ റോഡ് മെറ്റലിംഗും ടാറിംഗും",
+            "implementing_agency": "ഗ്രാമവികസനം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കോടംതുരുത്ത് പഞ്ചായത്ത് വാര്‍ഡ് 7-വിളഞ്ഞുതറ-കണ്ടവളവ് റോഡ് മെറ്റലിംഗും ടാറിംഗും",
+            "implementing_agency": "ഗ്രാമവികസനം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 21.95,
+            "concurrence_lakhs": 21.95
+        },
+        {
+            "project_name": "തുറവൂര്‍ ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 13 മില്‍മ പൂജവെളി റോഡ് കല്ലുകെട്ടി മെറ്റലിംഗും ടാറിംഗും",
+            "implementing_agency": "ഗ്രാമവികസനം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "അരൂര്‍ ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 20 അരൂര്‍ അമ്മനേഴം തോട് കല്ലു കെട്ടി സ്ലാബ് ഇട്ട് നടപ്പാത നിര്‍മ്മാണം",
+            "implementing_agency": "മൈനർ ഇറിഗേഷൻ",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എഴുപുന്ന ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 4 കൊച്ചു വെളി -ശ്രീ നാരായണപുരം തോടിനു കുറുകെ സ്ലാബ് ഇട്ട് നടപ്പാലം നിര്‍മ്മാണം",
+            "implementing_agency": "മൈനർ ഇറിഗേഷൻ",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "പാണാവള്ളി ഗ്രാമപഞ്ചായത്ത് തളിയാപറമ്പ് എല്‍.പി സ്ക്കൂള്‍ പുതിയകെട്ടിടനിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 55.2,
+            "concurrence_lakhs": 55.2
+        },
+        {
+            "project_name": "പള്ളിപ്പുറം ഗ്രാമപഞ്ചായത്ത്  ഒറ്റപ്പുന്ന എല്‍.പി സ്ക്കൂള്‍ പുതിയകെട്ടിടനിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 56.0,
+            "concurrence_lakhs": 56.0
+        },
+        {
+            "project_name": "എച്ച്.എസ്.എല്‍.പി.എസ് പെരുമ്പളം പുതിയകെട്ടിടനിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 60.86,
+            "concurrence_lakhs": 60.86
+        },
+        {
+            "project_name": "കോടംതുരുത്ത് എല്‍.പി.എസ് ന് പുതിയകെട്ടിടനിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എന്‍.എസ്.എസ് എല്‍.പി.എസ് എരമല്ലൂര്‍ -പുതിയകെട്ടിടനിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 56.0,
+            "concurrence_lakhs": 56.0
+        },
+        {
+            "project_name": "തുറവൂര്‍ ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 17,18 ന്യൂവോയിസ്-ഇണ്ടന്‍തുരുത്ത് റോഡ് മെറ്റലിംഗുംടാറിംഗും",
+            "implementing_agency": "ഗ്രാമവികസനം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പാണാവള്ളി പഞ്ചായത്ത് വാര്‍ഡ് 2 മാനേഴത്-പിണക്കിനാട്ട് റോഡ്",
+            "implementing_agency": "ഗ്രാമവികസനം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "അരൂക്കുറ്റി പഞ്ചായത്ത് വാര്‍ഡ് 2 ഹിദായത്ത്-മാത്താനം റോഡ്",
+            "implementing_agency": "ഗ്രാമവികസനം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എഴുപുന്ന ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 16 ല്‍ 39-ാം നമ്പര്‍ അംഗനവാടി കെട്ടിടം",
+            "implementing_agency": "ഗ്രാമവികസനം",
+            "category": "Infrastructure",
+            "fy": "2021-2022",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "അരൂര്‍ ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 10 അലക് തറ അംഗനവാടി കെട്ടിടം",
+            "implementing_agency": "ഗ്രാമവികസനം",
+            "category": "Infrastructure",
+            "fy": "2021-2022",
+            "estimate_lakhs": 12.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അരൂക്കുറ്റി പഞ്ചായത്ത് വാർഡ് 7-ൽ കളത്തിപ്പറമ്പ് സ്രാമ്പിക്കൽ  പ്രദേശം കാന നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "പാണാവള്ളി പഞ്ചായത്ത് വാർഡ് 5 ൽ നികർത്തിൽ-ബോട്ട് ജെട്ടി റോഡ് മെറ്റലിംഗ് & ടാറിംഗ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "തുറവൂർ താലൂക്ക് ഹോസ്പിറ്റൽ കെട്ടിടം",
+            "implementing_agency": "ഗ്രാമവികസനം",
+            "category": "Infrastructure",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "സ്വാന്തനം പാലിയേറ്റീവ് കെയർ സൊസൈറ്റിക്ക് വാനും, പ്രോജക്ടറും സൌണ്ട് സിസ്റ്റവും",
+            "implementing_agency": "ഗ്രാമവികസനം",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പാണാവള്ളി പഞ്ചായത്ത് ഒന്നാം വാർഡിൽ ആസാദ് വായനശാല കെട്ടിടം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അരൂർ മണ്ഡലത്തിലെ കായൽ വേലിയേറ്റം തടയൽ  & വെള്ളക്കെട്ട് പരിഹരിക്കൽ",
+            "implementing_agency": "ഇറിഗേഷൻ",
+            "category": "Irrigation",
+            "fy": "2021-2022",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "alappuzha_smt_daleema_placeholder"
+}

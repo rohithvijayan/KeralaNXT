@@ -1,0 +1,440 @@
+{
+    "mla_name": "Shri Kadakampally",
+    "constituency": "KAZHAKKOOTTAM",
+    "summary": {
+        "total_expenditure_crores": 17.4647,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 8.3605
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 6.5911
+            },
+            {
+                "label": "Others",
+                "value_crores": 1.2036
+            },
+            {
+                "label": "Education",
+                "value_crores": 1.1595
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.15
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "കഴക്കൂട്ടം നിയോജക മണ്ഡലം- തിരുവനന്തപുരം  നഗര സഭാ പരിധിയിലെ 6 ലൊക്കേഷനുകളില്‍ ഹൈ മാസ്റ്റ്  ലൈറ്റുകള്‍ സ്ഥാപിക്കല്‍",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.11,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കഴക്കൂട്ടം നിയോജക മണ്ഡലത്തിലെ ശ്രീകാര്യം അങ്കണ വാദി കെട്ടിട നിര്‍മ്മാണം ഒന്നാം ഘട്ടം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 44.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കഴക്കൂട്ടം നിയോജക മണ്ഡലത്തിലെ ചെങ്കോട്ടു കോണം ഗവണ്‍മെന്റ്റ് LPS ന് ബസ് വാങ്ങല്‍",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ ഉപ ഡയറക്ടർ",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 18.83,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തിരുവനന്തപുരം നഗര സഭ ഞാണ്ടൂര്‍കോണം  വാര്‍ഡിലെ ശാന്തി പുരം-കാവും പുറം  റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തിരുവനന്തപുരം നഗര സഭ ചെറുവയ്ക്കല്‍ വാര്‍ഡിലെ പോങ്ങുംമൂട് -ശ്രീകൃഷ്ണ നഗര്‍  റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തിരുവനന്തപുരം നഗര സഭ ചെറുവയ്ക്കല്‍  വാര്‍ഡിലെ  ദുശിയൂര്‍കോണം റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തിരുവനന്തപുരം നഗര സഭ ആറ്റിന്‍ പുറം വാര്‍ഡിലെ തൃപ്പാദപുരം കാട്ടില്‍ കായിക്കാ വിള റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തിരുവനന്തപുരം നഗര സഭ മണ്ണന്തല വാര്‍ഡിലെ മണ്ണന്തല-ചെഞ്ചേരി -കുറുങ്കുളം റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 75.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചെറുവയ്ക്കല്‍ വാര്‍ഡിലെ അലത്തറ-സെന്റ്‌ ജോര്‍ജ് നഗര്‍ റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചെറുവയ്ക്കല്‍ വാര്‍ഡിലെ  ശാസ്താം കോണം -അമ്പാടി നഗര്‍ റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചെറുവയ്ക്കല്‍ വാര്‍ഡിലെ കട്ടേല ഹെല്‍ത്ത് സെന്റര്‍ റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചെമ്പഴന്തി വാര്‍ഡിലെ മാങ്കുഴി -ഗാന്ധി പുരം റോഡ്‌ നവീകരണവും ഓട നിര്‍മ്മാണവും",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Renovation of Chennavoor Kshethram road -chellamangalam ward-Thiruvananthapuram corporation",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Supply and installation  of 12 MTR &10 MTR High mast with 06 nos of 200W LED flood lights at  04 locations of Thiruvananthapuram corporation in kazhakootam LAC",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.14,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മുക്കികട- ഐശ്വര്യ ഗാര്‍ഡന്‍സ് റോഡ്‌ നവീകരണം",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പാങ്ങപ്പാറ ഇന്റഗ്രേറ്റഡ് ഫാമിലി ഹെല്‍ത്ത് സെന്ററിനു വാഹനം വാങ്ങല്‍",
+            "implementing_agency": "പ്രിന്‍സിപ്പാള്‍, ഗവ.മെഡിക്കല്‍ കോളേജ്, തിരുവനന്തപുരം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.25,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കഴക്കൂട്ടം നിയോജക മണ്ഡലം -ഇടവക്കോട് വാര്‍ഡിലെ കരിമ്പു കോണം ഓട നിര്‍മ്മാണം",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുമിഴിക്കര -കഴക്കൂട്ടം റോഡ്‌ നവീകരണം",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചെറുവയ്ക്കല്‍ -പള്ളി നട റോഡ്‌ നവീകരണം",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചെറുവക്കല്‍ ഗവ,യു.പി.എസ് സ്കൂളിന് സ്കൂള്‍ ബസ് വാങ്ങി നല്‍കല്‍",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ ഉപ ഡയറക്ടർ",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.28,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കാഞ്ഞിക്കല്‍ ഗവ.എല്‍.പി.എസ് സ്കൂളിന് സ്കൂള്‍ ബസ് വാങ്ങി നല്‍കല്‍",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ ഉപ ഡയറക്ടർ",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.28,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കരിയം എല്‍.പി &പ്രീ പ്രൈമറി സ്കൂളിന് സ്കൂള്‍ ബസ് വാങ്ങി നല്‍കല്‍",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ ഉപ ഡയറക്ടർ",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.28,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മണ്ണന്തല ഗവ,എച്ച്.എസ്  സ്കൂളിന് സ്കൂൾ ബസ് വാങ്ങി നല്‍കല്‍",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ ഉപ ഡയറക്ടർ",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.28,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഹൈമാസ് ലൈറ്റുകൾ രണ്ടാം ഘട്ടം",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 16.39,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഹൈമാസ് ലൈറ്റുകൾ ഒന്നാം ഘട്ടം & രണ്ടാം ഘട്ടം",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 32.78,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചെങ്കോട്ടുകോണം-കണ്ടയത്ത് ക്ഷേത്രം റോഡ് നവീകരണം",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 28.3,
+            "concurrence_lakhs": 28.3
+        },
+        {
+            "project_name": "മാർ ഇവാനിയോസ്-പോസ്റ്റ് ഓഫീസ് ലെയിൻ നവീകരണം",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 32.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കണ്ണമൂല അനന്തപുരി ലെയിൻ റോഡ് നവീകരണം",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 79.25,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കല്ലം പള്ളി-വല്ലുണ്ണി റോഡ് നവീകരണം",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 54.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വെട്ടുറോഡ്-പരക്കരി ഭദ്ര ലെയിൻ ഒാട നവീകരണം",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 58.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പാണൻവിള-മലപ്പരിക്കോണം റോഡ് നവീകരണം",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 55.0,
+            "concurrence_lakhs": 55.0
+        },
+        {
+            "project_name": "വേളി ഫിഷ് ലാൻറിംഗ് സെൻറർ നിർമാണം",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 44.8,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മണ്ണന്തല എസ്.എൻ നഗർ റോഡ് നവീകരണം",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 73.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കട്ടേല അംബേദ്കർ മെമ്മോറിയൽ റെസിഡൻഷ്യൽ സ്കൂളിന് സ്കൂൾ ബസ്",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ ഉപ ഡയറക്ടർ",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 24.0,
+            "concurrence_lakhs": 24.0
+        },
+        {
+            "project_name": "മുട്ടംപറമ്പത്ത് കുളം സംരക്ഷണ ഭിത്തി നിർമാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, മൈനർ ഇറിഗേഷൻ ഡിവിഷൻ,തിരുവനന്തപുരം",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "പാര്‍വതി പുത്തനാര്‍ - കൊല്ലപ്പെരുവഴി-കരിക്കകം ക്ഷേത്രം റോഡ്‌ റീ ടാറിംഗും കൊല്ലപ്പെരുവഴി-കാവിന്‍കുളങ്ങര ക്ഷേത്രം റോഡ്‌ കോണ്‍ക്രീറ്റിങ്ങും",
+            "implementing_agency": "ജനറല്‍ മാനേജര്‍,  ഇന്‍കെല്‍ (ഇന്‍ഫ്രസ്ട്രക്ചര്‍ കേരള ലിമിറ്റഡ്)",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "മെഡിക്കല്‍കോളേജ് - മഞ്ചാടി - കൊശക്കോട് കള്‍വര്‍ട്ട് നിര്‍മ്മാണം",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 65.0,
+            "concurrence_lakhs": 65.0
+        },
+        {
+            "project_name": "പൌഡിക്കോണം - പാണന്‍വിള - ഗാന്ധിപുരം ആമയിഴഞ്ചാന്‍ തോടില്‍ ബോക്സ്‌ കള്‍വര്‍ട്ട് നിര്‍മ്മാണം",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചാവടിമുക്ക് - ഗാന്ധിപുരം മൃഗാശുപത്രിക്ക് ഓപ്പണ്‍ എയര്‍ ഓഡിറ്റോറിയം  നിര്‍മ്മാണം",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുമാരപുരം B ed കോളേജിന് പുതിയ ബ്ലോക്ക്‌ നിര്‍മ്മാണം രണ്ടാം  ഘട്ടം",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 41.15,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുമാരപുരം B ed കോളേജിന് പുതിയ ബ്ലോക്ക്‌ നിര്‍മ്മാണം ഒന്നാം ഘട്ടം",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 66.54,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കാര്യവട്ടം B ed കോളേജിന് പുതിയ ബ്ലോക്ക്‌ നിര്‍മ്മാണം രണ്ടാം  ഘട്ടം",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 35.44,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കാര്യവട്ടം B ed കോളേജിന് പുതിയ ബ്ലോക്ക്‌ നിര്‍മ്മാണം ഒന്നാം ഘട്ടം",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 85.51,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കാട്ടയികോണം ഗവ.യു പി സ്കൂളിനു പുതിയ കെട്ടിട നിര്‍മ്മാണം . രണ്ടാം  ഘട്ടം",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 62.52,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കാട്ടയികോണം ഗവ.യു പി സ്കൂളിനു പുതിയ കെട്ടിട നിര്‍മ്മാണം . ഒന്നാം ഘട്ടം.",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 87.84,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പാങ്ങപ്പാറ ഹെല്‍ത്ത്‌ സെന്‍റര്‍ - പറമ്പില്‍ റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കുളങ്ങര ക്ഷേത്രകുളം - NH കള്‍വെര്‍ട്ട് ഓട നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "മുഖകാട്‌ - തോപ്പില്‍ ലെയിന്‍ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കരിക്കകം - ചാമുണ്ഡി റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കരിക്കകം -കൊല്ലപ്പെരുവഴി റോഡ്‌ നവീകരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, എൽ.എസ്.ജി.ഡി ഡിവിഷൻ, ജില്ലാ പഞ്ചായത്ത്, പട്ടം.",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 19.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "shri_kadakampally_placeholder"
+}
