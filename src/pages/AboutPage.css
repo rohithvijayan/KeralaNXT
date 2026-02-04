@@ -205,15 +205,28 @@
     gap: 1.5rem;
 }
 
+.cm-prominent-slider {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    width: 100%;
+    margin: 0 auto;
+    max-width: 500px;
+}
+
+.cm-prominent-container {
+    flex: 1;
+    overflow: hidden;
+}
+
 .cm-prominent-card {
     background: var(--color-surface);
     border-radius: var(--radius-lg);
     border: 1px solid var(--color-border);
-    padding: 2rem;
+    padding: 2rem 1.5rem;
     text-align: center;
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
-    max-width: 500px;
-    margin: 0 auto;
+    width: 100%;
 }
 
 .cm-avatar {

@@ -5,6 +5,7 @@ import Header from '../components/Header'
 import './AboutPage.css'
 import keralaAssembly from '../assets/images/kerala-assembly.jpg'
 import kochiMetro from '../assets/images/kochimetro.png'
+import { cld } from '../utils/cloudinary'
 // Stats data
 const stats = [
     { id: 1, value: '1,79,949 Crore', label: 'Tracked Investment', icon: 'payments' },
@@ -18,127 +19,145 @@ const leadership = [
         "id": 1,
         "name": "Shri. Pinarayi Vijayan",
         "title": "Hon'ble Chief Minister",
-        "image": "https://media.licdn.com/dms/image/v2/D4E03AQG07S2RCr12JA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1721387982183?e=2147483647&v=beta&t=phfKoe458ElcjJdMc0xyYqSfe14tqjq3-EtEdBbzJ0c"
+        "image": "Pinarayi_Vijayan_brucnt"
+    },
+    {
+        "id": 22,
+        "name": "Shri. V D Satheesan",
+        "title": "Hon'ble Leader of Opposition",
+        "image": "VD_Satheesan_ktpypr"
+    },
+    {
+        "id": 21,
+        "name": "Shri. A N Shamseer",
+        "title": "Hon'ble Speaker",
+        "image": "shamseer_x4xadl"
+    },
+    {
+        "id": 23,
+        "name": "Shri. P.K. Kunhalikutty",
+        "title": "Hon'ble Deputy Leader of Opposition",
+        "image": "kunjalikutti_qwm6oi"
     },
     {
         "id": 6,
         "name": "Shri. K.N. Balagopal",
         "title": "Hon'ble Minister for Finance",
-        "image": "https://minister-finance.kerala.gov.in/wp-content/uploads/2021/09/profilekn.png"
+        "image": "K.N._Balagopal_zxmh6n"
     },
     {
         "id": 2,
         "name": "Shri. K. Rajan",
         "title": "Hon'ble Minister for Revenue",
-        "image": "https://lh6.googleusercontent.com/proxy/a4kfnlIm855AcwUVJS5r5XgxtT81selI2uKNfFtFpwcQ2N4PIqSv0UDBmNK1UhIp9dig1RaS6ESn2-kRPonznya1sf0BHre1T4MEcGnBn3YHipcI_za1PKV6eJSbYrJMkWo"
+        "image": "K._Rajan_vjn7wr"
     },
     {
         "id": 11,
         "name": "Shri. P. Rajeev",
         "title": "Hon'ble Minister for Industries and Law",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/P._Rajeev_2023.tif/lossy-page1-800px-P._Rajeev_2023.tif.jpg"
+        "image": "p-rajeev_member_15_105_dabz8o"
     },
     {
         "id": 9,
         "name": "Shri. P.A. Mohammed Riyas",
         "title": "Hon'ble Minister for Public Works and Tourism",
-        "image": "https://minister-pwd.kerala.gov.in/wp-content/uploads/2021/08/Mohamed-Riyas.jpg"
+        "image": "P.A._Mohammed_Riyas_ebujct"
     },
     {
         "id": 15,
         "name": "Smt. Veena George",
         "title": "Hon'ble Minister for Health and Family Welfare",
-        "image": "https://minister-health.kerala.gov.in/wp-content/uploads/2021/09/veenageorge-274x300.jpg"
+        "image": "Veena_George_j1hiy2"
     },
     {
         "id": 13,
         "name": "Shri. V. Sivankutty",
         "title": "Hon'ble Minister for General Education and Labour",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/V_sivankutty.jpg/1200px-V_sivankutty.jpg"
+        "image": "V_sivankutty_j5plyf"
     },
     {
         "id": 18,
         "name": "Shri. M.B. Rajesh",
         "title": "Hon'ble Minister for Local Self-Government",
-        "image": "https://minister-lsg.kerala.gov.in/wp-content/uploads/2022/09/mbrajesh-1.png"
+        "image": "M.B._Rajesh_rqjmcw"
     },
     {
         "id": 4,
         "name": "Shri. K. Krishnankutty",
         "title": "Hon'ble Minister for Electricity",
-        "image": "https://minister-electricity.kerala.gov.in/wp-content/uploads/2021/10/08a-scaled.jpg"
+        "image": "K._Krishnankutty_pebrpk"
     },
     {
         "id": 3,
         "name": "Shri. Roshy Augustine",
         "title": "Hon'ble Minister for Water Resources",
-        "image": "https://minister-waterresources.kerala.gov.in/wp-content/uploads/2021/06/minister-irrigation-273x300.jpg"
+        "image": "Roshy_Augustine_lya4l3"
     },
     {
         "id": 10,
         "name": "Shri. P. Prasad",
         "title": "Hon'ble Minister for Agriculture",
-        "image": "https://minister-agriculture.kerala.gov.in/wp-content/uploads/2021/09/prasad-profile.jpg"
+        "image": "P._Prasad_rnieq5"
     },
     {
         "id": 17,
         "name": "Shri. G.R. Anil",
         "title": "Hon'ble Minister for Food and Civil Supplies",
-        "image": "https://minister-food.kerala.gov.in/wp-content/uploads/2021/08/Adv.-G.-R.-Anil-273x300.jpg"
+        "image": "G.R._Anil_hwrbsf"
     },
     {
         "id": 7,
         "name": "Dr. R. Bindu",
         "title": "Hon'ble Minister for Higher Education and Social Justice",
-        "image": "https://minister-highereducation.kerala.gov.in/wp-content/uploads/2021/08/bindhu_minister-273x300.jpg"
+        "image": "Dr._R._Bindu_gkgceb"
     },
     {
         "id": 14,
         "name": "Shri. V.N. Vasavan",
         "title": "Hon'ble Minister for Cooperation and Registration",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Vasavanmla.jpg"
+        "image": "Vasavanmla_t2tjcc"
     },
     {
         "id": 12,
         "name": "Shri. Saji Cherian",
         "title": "Hon'ble Minister for Fisheries and Culture",
-        "image": "https://minister-fisheries.kerala.gov.in/wp-content/uploads/2021/08/sajicheriyan_profile.png"
+        "image": "Saji_Cherian_bqx9jt"
     },
     {
         "id": 20,
         "name": "Shri. K.B. Ganesh Kumar",
         "title": "Hon'ble Minister for Transport",
-        "image": "https://minister-transport.kerala.gov.in/wp-content/uploads/2024/01/414896051_940715817674953_512883159468637855_n-1.jpg"
+        "image": "K.B._Ganesh_Kumar_gq4etg"
     },
     {
         "id": 5,
         "name": "Shri. A.K. Saseendran",
         "title": "Hon'ble Minister for Forests and Wildlife",
-        "image": "https://minister-forest.kerala.gov.in/wp-content/uploads/2021/09/Shri.-A.-K.-Saseendran-273x300.jpg"
+        "image": "A.K._Saseendran_caax2i"
     },
     {
         "id": 19,
         "name": "Shri. O.R. Kelu",
         "title": "Hon'ble Minister for Welfare of SC/ST and Devaswoms",
-        "image": "https://www.deccanchronicle.com/h-upload/2024/06/20/1098470-orkelu.jpg"
+        "image": "O.R._Kelu_qpi0em"
     },
     {
-        "id": 21,
+        "id": 24,
         "name": "Shri. Kadannappalli Ramachandran",
         "title": "Hon'ble Minister for Ports",
-        "image": "https://minister-registration.kerala.gov.in/wp-content/uploads/2024/01/IMG_6710-1-scaled.jpg"
+        "image": "Kadannappalli_Ramachandran_jhcyg3"
     },
     {
         "id": 8,
         "name": "Smt. J. Chinchu Rani",
         "title": "Hon'ble Minister for Animal Husbandry and Dairy Development",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4_Ql7n2BPGi3olw2ELXiWLXbyr7iZKQ0VEg&s"
+        "image": "J._Chinchu_Rani_ppqxpc"
     },
     {
         "id": 16,
         "name": "Shri. V. Abdurahiman",
         "title": "Hon'ble Minister for Sports and Wakf",
-        "image": "https://minister-sports.kerala.gov.in/wp-content/uploads/2021/08/Shri.-V.-Abdurahiman.jpg"
+        "image": "V._Abdurahiman_bsen1r"
     }
 ]
 
@@ -153,8 +172,17 @@ function AboutPage() {
     const navigate = useNavigate()
     const [leaderIndex, setLeaderIndex] = useState(0) // Desktop slider
     const [mobileIndex, setMobileIndex] = useState(0) // Mobile mini cards slider
+    const [topLeadersIndex, setTopLeadersIndex] = useState(0) // Unified Top Leaders Slider (CM, Speaker, LoP, Deputy LoP)
     const cardsToShow = 5
     const miniCardsToShow = 4
+
+    // Helper function to get Cloudinary image URL
+    const getCloudinaryUrl = (publicId) => {
+        if (!publicId) return ''
+        const myImage = cld.image(publicId)
+        myImage.format('auto').quality('auto')
+        return myImage.toURL()
+    }
 
     const nextLeader = () => {
         setLeaderIndex((prev) => (prev + 5) % leadership.length)
@@ -165,8 +193,7 @@ function AboutPage() {
     }
 
     const nextMobile = () => {
-        const remaining = leadership.length - 1 // Exclude CM (20 ministers)
-        const totalPages = Math.ceil(remaining / miniCardsToShow) // 5 pages
+        const remaining = leadership.length - 4 // Exclude first 4 (CM, Speaker, LoP, Deputy LoP)
         setMobileIndex((prev) => {
             const nextPage = prev + miniCardsToShow
             return nextPage >= remaining ? 0 : nextPage
@@ -174,7 +201,7 @@ function AboutPage() {
     }
 
     const prevMobile = () => {
-        const remaining = leadership.length - 1 // Exclude CM (20 ministers)
+        const remaining = leadership.length - 4 // Exclude first 4 (CM, Speaker, LoP, Deputy LoP)
         setMobileIndex((prev) => {
             const prevPage = prev - miniCardsToShow
             // Wrap to last valid page if going below 0
@@ -186,11 +213,20 @@ function AboutPage() {
         })
     }
 
-    // Chief Minister is always index 0
-    const cm = leadership[0]
+    const nextTopLeader = () => {
+        setTopLeadersIndex((prev) => (prev + 1) % 4)
+    }
 
-    // Get remaining ministers (excluding CM) for mobile view
-    const remainingLeaders = leadership.slice(1)
+    const prevTopLeader = () => {
+        setTopLeadersIndex((prev) => (prev - 1 + 4) % 4)
+    }
+
+    // Unified top leadership (CM, Speaker, LoP, Deputy LoP)
+    const topLeaders = leadership.slice(0, 4)
+    const currentTopLeader = topLeaders[topLeadersIndex]
+
+    // Get remaining ministers (excluding top leaders) for mobile view
+    const remainingLeaders = leadership.slice(4)
 
     const visibleMiniLeaders = useMemo(() => {
         const result = []
@@ -306,16 +342,38 @@ function AboutPage() {
                 </h2>
 
                 {/* Mobile View: CM Prominent Card + Others Flex Column */}
+                {/* Mobile View: Combined Top Leadership Slider (CM, Speaker, LoP, Deputy LoP) */}
                 <div className="leadership-mobile-view">
-                    <div className="cm-prominent-card">
-                        <div
-                            className="leadership-avatar cm-avatar"
-                            style={{ backgroundImage: `url(${cm.image})` }}
-                        ></div>
-                        <div className="leadership-info">
-                            <h3 className="leadership-name">{cm.name}</h3>
-                            <p className="leadership-title">{cm.title}</p>
+                    <div className="cm-prominent-slider">
+                        <button className="mobile-slider-btn prev inner" onClick={prevTopLeader} aria-label="Previous">
+                            <span className="material-symbols-outlined">chevron_left</span>
+                        </button>
+
+                        <div className="cm-prominent-container">
+                            <AnimatePresence mode='wait'>
+                                <motion.div
+                                    key={topLeadersIndex}
+                                    className="cm-prominent-card"
+                                    initial={{ opacity: 0, scale: 0.95 }}
+                                    animate={{ opacity: 1, scale: 1 }}
+                                    exit={{ opacity: 0, scale: 0.95 }}
+                                    transition={{ duration: 0.3 }}
+                                >
+                                    <div
+                                        className="leadership-avatar cm-avatar"
+                                        style={{ backgroundImage: `url(${getCloudinaryUrl(currentTopLeader.image)})` }}
+                                    ></div>
+                                    <div className="leadership-info">
+                                        <h3 className="leadership-name">{currentTopLeader.name}</h3>
+                                        <p className="leadership-title">{currentTopLeader.title}</p>
+                                    </div>
+                                </motion.div>
+                            </AnimatePresence>
                         </div>
+
+                        <button className="mobile-slider-btn next inner" onClick={nextTopLeader} aria-label="Next">
+                            <span className="material-symbols-outlined">chevron_right</span>
+                        </button>
                     </div>
 
                     <div className="mobile-mini-slider">
@@ -337,7 +395,7 @@ function AboutPage() {
                                         <div key={leader.id} className="leadership-card-mini">
                                             <div
                                                 className="leadership-avatar mini-avatar"
-                                                style={{ backgroundImage: `url(${leader.image})` }}
+                                                style={{ backgroundImage: `url(${getCloudinaryUrl(leader.image)})` }}
                                             ></div>
                                             <div className="leadership-info">
                                                 <h4 className="leadership-name">{leader.name}</h4>
@@ -375,7 +433,7 @@ function AboutPage() {
                                     >
                                         <div
                                             className="leadership-avatar"
-                                            style={{ backgroundImage: `url(${leader.image})` }}
+                                            style={{ backgroundImage: `url(${getCloudinaryUrl(leader.image)})` }}
                                         ></div>
                                         <div className="leadership-info">
                                             <h3 className="leadership-name">{leader.name}</h3>
@@ -463,6 +521,11 @@ function AboutPage() {
                     <a href="#" className="social-icon" aria-label="Share">
                         <span className="material-symbols-outlined">share</span>
                     </a>
+                    <a href="https://www.linkedin.com/in/rohithvijayan" target="_blank" rel="noopener noreferrer" className="social-icon" aria-label="LinkedIn">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="currentColor">
+                            <path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.32 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.79M6.88 8.56a1.68 1.68 0 0 0 1.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 0 0-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37h2.77z" />
+                        </svg>
+                    </a>
                 </div>
 
                 <div className="footer-credits">
@@ -472,7 +535,7 @@ function AboutPage() {
                 </div>
 
                 <p className="footer-dev">
-                    Developed by <strong>RohithVijayan</strong>
+                    Developed by <strong>Rohith Vijayan</strong>
                 </p>
             </footer>
         </div>
