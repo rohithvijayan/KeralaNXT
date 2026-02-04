@@ -53,7 +53,7 @@ export const shareElementAsImage = async (elementId, options = {}) => {
                     brandName.innerText = 'KeralaStory';
                     brandName.style.fontSize = '2.5rem';
                     brandName.style.fontWeight = '900';
-                    brandName.style.color = '#ffffff';
+                    brandName.style.color = '#080808ff';
                     brandName.style.letterSpacing = '-0.02em';
                     brandName.style.marginBottom = '4px';
                     brandName.style.textAlign = 'center';
@@ -74,8 +74,87 @@ export const shareElementAsImage = async (elementId, options = {}) => {
                     // Insert at the very beginning of the shared element
                     clonedElement.insertBefore(brandHeader, clonedElement.firstChild);
 
+                    // Special handling for Project Cards (Square/Compact Format)
+                    if (elementId.includes('project-card-')) {
+                        // For project cards, use white branding on dark background
+                        brandName.style.color = '#ffffff';
+                        brandName.style.fontSize = '2rem';
+                        brandTagline.style.fontSize = '0.95rem';
+                        brandHeader.style.marginBottom = '24px';
+
+                        // Compact, square-ish format for project cards
+                        clonedElement.style.padding = '40px 30px';
+                        clonedElement.style.width = '800px';
+                        clonedElement.style.minHeight = 'auto';
+                        clonedElement.style.background = 'linear-gradient(135deg, #0f172a 0%, #1e293b 100%)';
+                        clonedElement.style.borderRadius = '24px';
+
+                        // Style the project card image
+                        const projectImage = clonedElement.querySelector('.project-card-image');
+                        if (projectImage) {
+                            projectImage.style.width = '100%';
+                            projectImage.style.height = 'auto';
+                            projectImage.style.maxHeight = '400px';
+                            projectImage.style.borderRadius = '16px';
+                            projectImage.style.marginBottom = '20px';
+                            projectImage.style.overflow = 'hidden';
+                        }
+
+                        // Style the category badge
+                        const categoryBadge = clonedElement.querySelector('.project-category-badge');
+                        if (categoryBadge) {
+                            categoryBadge.style.fontSize = '0.85rem';
+                            categoryBadge.style.padding = '8px 16px';
+                        }
+
+                        // Style the status badge
+                        const statusBadge = clonedElement.querySelector('.project-status-badge');
+                        if (statusBadge) {
+                            statusBadge.style.fontSize = '0.85rem';
+                            statusBadge.style.padding = '8px 16px';
+                        }
+
+                        // Style the project title
+                        const projectTitle = clonedElement.querySelector('.project-title');
+                        if (projectTitle) {
+                            projectTitle.style.color = '#ffffff';
+                            projectTitle.style.fontSize = '1.5rem';
+                            projectTitle.style.fontWeight = '700';
+                            projectTitle.style.marginBottom = '16px';
+                            projectTitle.style.lineHeight = '1.3';
+                        }
+
+                        // Style the location
+                        const location = clonedElement.querySelector('.project-location');
+                        if (location) {
+                            location.style.color = '#94a3b8';
+                            location.style.fontSize = '1rem';
+                            location.style.marginBottom = '12px';
+                        }
+
+                        // Style the budget section
+                        const budget = clonedElement.querySelector('.project-budget');
+                        if (budget) {
+                            budget.style.display = 'flex';
+                            budget.style.flexDirection = 'column';
+                            budget.style.gap = '4px';
+
+                            const budgetLabel = budget.querySelector('.budget-label');
+                            if (budgetLabel) {
+                                budgetLabel.style.color = '#94a3b8';
+                                budgetLabel.style.fontSize = '0.9rem';
+                            }
+
+                            const budgetValue = budget.querySelector('.budget-value');
+                            if (budgetValue) {
+                                budgetValue.style.color = '#10b77f';
+                                budgetValue.style.fontSize = '1.25rem';
+                                budgetValue.style.fontWeight = '700';
+                            }
+                        }
+                    }
                     // Special handling for Budget Landing & Details Share (9:16 Optimization)
-                    if (elementId === 'budget-share-card' || elementId === 'budget-details-share' || elementId.includes('highlight-')) {
+                    else if (elementId === 'budget-share-card' || elementId === 'budget-details-share' || elementId === 'comparison-card' || elementId.includes('highlight-') || elementId === 'analytics-chart-section') {
                         // For dark themed cards, make brand name white
                         brandName.style.color = '#ffffff';
                         clonedElement.style.padding = '60px 40px';
@@ -85,6 +164,14 @@ export const shareElementAsImage = async (elementId, options = {}) => {
                         clonedElement.style.justifyContent = 'center';
                         clonedElement.style.background = 'linear-gradient(180deg, #06120f 0%, #0c1a16 100%)';
                         clonedElement.style.color = '#ffffff';
+
+                        // Target the center amount for MP Analytics share to be white
+                        if (elementId === 'analytics-chart-section') {
+                            const centerAmount = clonedElement.querySelector('.center-amount');
+                            if (centerAmount) {
+                                centerAmount.style.color = '#ffffff';
+                            }
+                        }
 
                         // Hide unnecessary sections for Budget Details share
                         const sectionsToHide = clonedElement.querySelectorAll('.compare-cta-section, .kpi-section');
@@ -152,6 +239,35 @@ export const shareElementAsImage = async (elementId, options = {}) => {
                             heroAmount.style.background = 'none';
                             heroAmount.style.webkitTextFillColor = '#ffffff';
                         }
+                    }
+                    // Kerala Share Card (Satirical Insight) - Preservation Mode
+                    else if (elementId === 'kerala-share-card') {
+                        brandName.style.color = '#10221d'; // Dark green/black branding
+                        clonedElement.style.padding = '40px';
+                        clonedElement.style.background = '#ffffff';
+                        clonedElement.style.color = '#10221d';
+                        clonedElement.style.borderRadius = '28px';
+                        clonedElement.style.boxShadow = 'none';
+                        clonedElement.style.width = '500px';
+
+                        // Hide interactive elements
+                        const interactiveEls = clonedElement.querySelectorAll('.modal-actions-top, .modal-cta-btn, .modal-close-btn, .modal-share-btn, .modal-share-cta');
+                        interactiveEls.forEach(el => el.style.display = 'none');
+
+                        // Preserve original content colors
+                        const cardTitle = clonedElement.querySelector('.kerala-modal-header h2');
+                        if (cardTitle) cardTitle.style.color = '#10221d';
+
+                        const msgTag = clonedElement.querySelector('.insight-tag');
+                        if (msgTag) {
+                            msgTag.style.background = '#f0fdf9';
+                            msgTag.style.color = '#0fb48c';
+                        }
+
+                        // Adjust branding layout for white theme
+                        brandName.style.fontSize = '2rem';
+                        brandTagline.style.color = '#0fb48c';
+                        brandHeader.style.marginBottom = '20px';
                     }
 
                     // For MP Dashboard related cards, make brand name black for visibility

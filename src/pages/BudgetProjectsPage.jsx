@@ -1,4 +1,4 @@
-import { useState, useMemo, useCallback } from 'react'
+import { useState, useEffect, useMemo, useCallback } from 'react'
 import { useNavigate, Link, useSearchParams } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
 import Header from '../components/Header'
@@ -83,7 +83,7 @@ function BudgetProjectsPage() {
             <Header
                 showBack
                 title="Budget Projects"
-                onBack={() => navigate(`/state-budget?year=${selectedYear}`)}
+                onBack={() => navigate(-1)}
             />
 
             {/* Desktop Breadcrumb */}

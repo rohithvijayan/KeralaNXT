@@ -265,9 +265,12 @@ function ProjectModal({ project, isOpen, onClose }) {
                                         <div className="modal-stat-card">
                                             <div className="modal-stat-header">
                                                 <span className="material-symbols-outlined">payments</span>
-                                                <span>Budget</span>
+                                                <span>Total Budget</span>
                                             </div>
                                             <p className="modal-stat-value">{project.budget}</p>
+                                            <p className="modal-stat-disclaimer" style={{ fontSize: '10px', marginTop: '4px', opacity: 0.7, fontStyle: 'italic', color: 'var(--color-text-muted)' }}>
+                                                Budget Is Total Expenditure(For Joint Ventures It Includes Investment Of All Parties Involved)
+                                            </p>
                                         </div>
                                     )}
 
@@ -400,116 +403,204 @@ function ProjectModal({ project, isOpen, onClose }) {
                             top: 0,
                             width: '540px',
                             height: '960px',
-                            background: 'linear-gradient(135deg, #1a5d4a 0%, #0d3d30 100%)',
-                            padding: '40px',
-                            display: 'flex',
-                            flexDirection: 'column',
-                            justifyContent: 'space-between',
-                            fontFamily: 'Inter, system-ui, sans-serif',
-                            color: 'white',
-                            borderRadius: '24px'
+                            background: 'linear-gradient(180deg, #0f513f 0%, #0a3329 100%)',
+                            fontFamily: 'Arial, sans-serif',
+                            color: '#ffffff',
+                            overflow: 'hidden'
                         }}
                     >
-                        {/* Top Section */}
-                        <div>
-                            {/* Top Branding Section */}
+                        {/* Brand Title - Fixed at top */}
+                        <div style={{
+                            position: 'absolute',
+                            top: '50px',
+                            left: '0',
+                            right: '0',
+                            textAlign: 'center',
+                            paddingLeft: '40px',
+                            paddingRight: '40px'
+                        }}>
                             <div style={{
-                                display: 'flex',
-                                flexDirection: 'column',
-                                alignItems: 'center',
-                                marginBottom: '32px',
-                                width: '100%'
+                                fontSize: '44px',
+                                fontWeight: '900',
+                                color: '#ffffff',
+                                marginBottom: '10px',
+                                letterSpacing: '-1px'
                             }}>
-                                <p style={{
-                                    fontSize: '40px',
-                                    fontWeight: 900,
-                                    color: '#ffffff',
-                                    letterSpacing: '-0.02em',
-                                    margin: '0 0 4px 0',
-                                    textAlign: 'center'
-                                }}>
-                                    KeralaStory
-                                </p>
-                                <p style={{
-                                    fontSize: '18px',
-                                    fontWeight: 600,
-                                    color: '#10b77f',
-                                    opacity: 0.9,
-                                    fontStyle: 'italic',
-                                    margin: 0,
-                                    textAlign: 'center'
-                                }}>
-                                    Not The Propaganda, only facts & data
-                                </p>
+                                kerala<span style={{ color: '#10b77f' }}>Story</span>
                             </div>
-
                             <div style={{
-                                background: 'rgba(255,255,255,0.15)',
-                                borderRadius: '8px',
-                                padding: '8px 16px',
-                                display: 'inline-block',
-                                marginBottom: '24px'
+                                fontSize: '15px',
+                                fontWeight: '600',
+                                color: '#10b77f',
+                                fontStyle: 'italic'
                             }}>
-                                <span style={{ fontSize: '12px', fontWeight: 600, textTransform: 'uppercase' }}>
-                                    {status.label}
-                                </span>
+                                Not The Propaganda, only facts & data
                             </div>
-
-                            <h1 style={{
-                                fontSize: '36px',
-                                fontWeight: 800,
-                                lineHeight: 1.2,
-                                margin: '0 0 24px 0'
-                            }}>
-                                {project.title}
-                            </h1>
-
-                            <p style={{
-                                fontSize: '16px',
-                                lineHeight: 1.6,
-                                opacity: 0.9,
-                                margin: 0
-                            }}>
-                                {project.description?.substring(0, 150)}...
-                            </p>
                         </div>
 
-                        {/* Stats */}
+                        {/* Status Badge */}
                         <div style={{
-                            display: 'grid',
-                            gridTemplateColumns: '1fr 1fr',
-                            gap: '16px',
-                            marginBottom: '40px'
+                            position: 'absolute',
+                            top: '180px',
+                            left: '40px',
+                            background: status.className === 'status-completed' ? '#10b981' :
+                                status.className === 'status-ongoing' ? '#f59e0b' : '#3b82f6',
+                            padding: '10px 20px',
+                            borderRadius: '20px'
                         }}>
-                            {project.budget && (
-                                <div style={{
-                                    background: 'rgba(255,255,255,0.1)',
-                                    borderRadius: '16px',
-                                    padding: '20px'
-                                }}>
-                                    <p style={{ fontSize: '12px', opacity: 0.7, margin: '0 0 8px 0' }}>Budget</p>
-                                    <p style={{ fontSize: '24px', fontWeight: 700, margin: 0 }}>{project.budget}</p>
-                                </div>
-                            )}
-                            <div style={{
-                                background: 'rgba(255,255,255,0.1)',
-                                borderRadius: '16px',
-                                padding: '20px'
+                            <span style={{
+                                fontSize: '12px',
+                                fontWeight: '700',
+                                textTransform: 'uppercase',
+                                letterSpacing: '1px',
+                                color: '#ffffff'
                             }}>
-                                <p style={{ fontSize: '12px', opacity: 0.7, margin: '0 0 8px 0' }}>Year</p>
-                                <p style={{ fontSize: '24px', fontWeight: 700, margin: 0 }}>{project.year}</p>
+                                {status.label}
+                            </span>
+                        </div>
+
+                        {/* District */}
+                        <div style={{
+                            position: 'absolute',
+                            top: '235px',
+                            left: '40px',
+                            right: '40px',
+                            fontSize: '14px',
+                            fontWeight: '700',
+                            color: '#10b77f',
+                            textTransform: 'uppercase',
+                            letterSpacing: '1px'
+                        }}>
+                            📍 {project.districtName || 'KERALA'}
+                        </div>
+
+                        {/* Project Title */}
+                        <div style={{
+                            position: 'absolute',
+                            top: '270px',
+                            left: '40px',
+                            right: '40px',
+                            fontSize: '36px',
+                            fontWeight: '800',
+                            color: '#ffffff',
+                            lineHeight: '1.2',
+                            maxHeight: '130px',
+                            overflow: 'hidden',
+                            wordWrap: 'break-word'
+                        }}>
+                            {project.title}
+                        </div>
+
+                        {/* Description */}
+                        {project.description && (
+                            <div style={{
+                                position: 'absolute',
+                                top: '420px',
+                                left: '40px',
+                                right: '40px',
+                                fontSize: '15px',
+                                lineHeight: '1.5',
+                                color: '#ffffff',
+                                opacity: 0.9,
+                                maxHeight: '110px',
+                                overflow: 'hidden',
+                                wordWrap: 'break-word'
+                            }}>
+                                {project.description.substring(0, 160)}{project.description.length > 160 ? '...' : ''}
                             </div>
+                        )}
+
+                        {/* Budget Card */}
+                        {project.budget && (
+                            <div style={{
+                                position: 'absolute',
+                                bottom: '150px',
+                                left: '40px',
+                                width: project.budget ? '220px' : '460px',
+                                background: 'rgba(16, 183, 127, 0.15)',
+                                border: '2px solid rgba(16, 183, 127, 0.3)',
+                                borderRadius: '20px',
+                                padding: '24px'
+                            }}>
+                                <div style={{
+                                    fontSize: '8px',
+                                    color: '#ffffff',
+                                    opacity: 0.6,
+                                    marginBottom: '4px',
+                                    fontStyle: 'italic',
+                                    lineHeight: '1.2'
+                                }}>
+                                    Budget Is Total Expenditure(For JV It Includes Total Investment)
+                                </div>
+                                <div style={{
+                                    fontSize: '11px',
+                                    color: '#ffffff',
+                                    opacity: 0.7,
+                                    marginBottom: '10px',
+                                    textTransform: 'uppercase',
+                                    letterSpacing: '1px',
+                                    fontWeight: '700'
+                                }}>BUDGET</div>
+                                <div style={{
+                                    fontSize: '26px',
+                                    fontWeight: '800',
+                                    color: '#10b77f',
+                                    lineHeight: '1.1',
+                                    wordWrap: 'break-word'
+                                }}>{project.budget}</div>
+                            </div>
+                        )}
+
+                        {/* Year Card */}
+                        <div style={{
+                            position: 'absolute',
+                            bottom: '150px',
+                            right: '40px',
+                            width: project.budget ? '220px' : '460px',
+                            background: 'rgba(16, 183, 127, 0.15)',
+                            border: '2px solid rgba(16, 183, 127, 0.3)',
+                            borderRadius: '20px',
+                            padding: '24px'
+                        }}>
+                            <div style={{
+                                fontSize: '11px',
+                                color: '#ffffff',
+                                opacity: 0.7,
+                                marginBottom: '10px',
+                                textTransform: 'uppercase',
+                                letterSpacing: '1px',
+                                fontWeight: '700'
+                            }}>YEAR</div>
+                            <div style={{
+                                fontSize: '26px',
+                                fontWeight: '800',
+                                color: '#10b77f',
+                                lineHeight: '1.1'
+                            }}>{project.year}</div>
                         </div>
 
                         {/* Footer */}
                         <div style={{
-                            borderTop: '1px solid rgba(255,255,255,0.2)',
-                            paddingTop: '24px',
-                            textAlign: 'center'
+                            position: 'absolute',
+                            bottom: '0',
+                            left: '0',
+                            right: '0',
+                            height: '80px',
+                            background: 'rgba(0, 0, 0, 0.3)',
+                            borderTop: '1px solid rgba(255, 255, 255, 0.1)',
+                            display: 'flex',
+                            alignItems: 'center',
+                            justifyContent: 'center'
                         }}>
-                            <p style={{ fontSize: '14px', opacity: 0.8, margin: 0 }}>
+                            <div style={{
+                                fontSize: '13px',
+                                color: '#ffffff',
+                                opacity: 0.8,
+                                fontWeight: '600',
+                                letterSpacing: '0.5px'
+                            }}>
                                 Government of Kerala • 2016-2025
-                            </p>
+                            </div>
                         </div>
                     </div>
                 </>

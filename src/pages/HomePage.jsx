@@ -6,6 +6,7 @@ import KeralaMap from '../components/KeralaMap'
 import BottomSheet from '../components/BottomSheet'
 import districtsData from '../data/districts.json'
 import { loadDistrictProjects, loadStatewideProjects } from '../data/projectLoader'
+import BudgetSelectorSheet from '../components/BudgetSelectorSheet'
 import './HomePage.css'
 
 function HomePage() {
@@ -15,6 +16,9 @@ function HomePage() {
     const [selectedProjects, setSelectedProjects] = useState([])
     const [isLoadingProjects, setIsLoadingProjects] = useState(false)
     const [showBudgetPopup, setShowBudgetPopup] = useState(false)
+    const [isBudgetSelectorOpen, setIsBudgetSelectorOpen] = useState(false)
+
+    // ... (rest of the logic remains same, just adding state and usage)
 
     // Show popup after a delay on mobile
     useEffect(() => {
@@ -89,7 +93,13 @@ function HomePage() {
                     <>
                         <nav className="header-nav desktop-only">
                             <Link to="/projects" className="header-nav-link">Projects</Link>
-                            <Link to="/state-budget" className="header-nav-link">Budget</Link>
+                            <div
+                                className="header-nav-link"
+                                onClick={() => setIsBudgetSelectorOpen(true)}
+                                style={{ cursor: 'pointer' }}
+                            >
+                                Budget
+                            </div>
                             <Link to="/initiatives" className="header-nav-link">Policies</Link>
                             <Link to="/mp-fund-dashboard" className="header-nav-link">MP Fund</Link>
                             <Link to="/about" className="header-nav-link">About</Link>
@@ -105,6 +115,13 @@ function HomePage() {
                         </a>
                     </>
                 }
+            />
+
+            {/* Existing main content ... */}
+
+            <BudgetSelectorSheet
+                isOpen={isBudgetSelectorOpen}
+                onClose={() => setIsBudgetSelectorOpen(false)}
             />
 
             <main className="home-main">
@@ -265,17 +282,14 @@ function HomePage() {
                 <div className="footer-content">
                     <div className="footer-info">
                         <p className="footer-copyright">© keralaStory</p>
-                        <p className="footer-department">Rohith Vijayan</p>
-                    </div>
-                    <div className="footer-links">
-                        <a href="https://www.linkedin.com/in/rohithvijayan/">Contact Us</a>
+                        <p className="footer-disclaimer">
+                            Data sources: Aggregated from official public reports and disclosures.
+                            In case of data mismatch, inform via feedback.
+                        </p>
                     </div>
                     <div className="footer-social">
                         <a href="https://github.com/rohithvijayan/KeralaNXT" aria-label="Website">
                             <span className="material-symbols-outlined">code</span>
-                        </a>
-                        <a href="mailto:rohithvij20@gmail.com" aria-label="Email">
-                            <span className="material-symbols-outlined">mail</span>
                         </a>
                     </div>
                 </div>

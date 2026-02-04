@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Mobile Budget Highlights Feed</title>
+    <!-- Tailwind CSS with Plugins -->
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <!-- Google Fonts: Public Sans -->
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;600;700;800&amp;display=swap"
+        rel="stylesheet" />
+    <!-- Material Symbols -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <!-- Theme Configuration -->
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#13ecb2",
+                        "background-light": "#f6f8f7",
+                        "background-dark": "#10221d",
+                    },
+                    fontFamily: {
+                        "display": ["Public Sans", "sans-serif"]
+                    },
+                    borderRadius: { "DEFAULT": "0.5rem", "lg": "1rem", "xl": "1.5rem", "full": "9999px" },
+                },
+            },
+        }
+    </script>
+    <style>
+        body {
+            font-family: "Public Sans", sans-serif;
+        }
+
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+        }
+
+        /* Custom scrollbar for category pills */
+        .hide-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+
+        .hide-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+    </style>
+</head>
+
+<body
+    class="bg-background-light dark:bg-background-dark min-h-screen text-[#111816] dark:text-white transition-colors duration-200">
+    <div class="relative flex h-auto min-h-screen w-full flex-col group/design-root overflow-x-hidden">
+        <div class="layout-container flex h-full grow flex-col">
+            <!-- TopNavBar Section -->
+            <header
+                class="sticky top-0 z-50 bg-white/80 dark:bg-background-dark/80 backdrop-blur-md border-b border-solid border-[#e0e8e6] dark:border-white/10 px-4 md:px-40 py-3">
+                <div class="max-w-[960px] mx-auto flex items-center justify-between">
+                    <div class="flex items-center gap-4 text-[#111816] dark:text-white">
+                        <div class="p-2 bg-primary/20 rounded-lg">
+                            <span class="material-symbols-outlined text-primary">account_balance_wallet</span>
+                        </div>
+                        <h2 class="text-lg font-bold leading-tight tracking-[-0.015em]">Budget 2024-25</h2>
+                    </div>
+                    <div class="flex items-center gap-2">
+                        <button
+                            class="flex size-10 items-center justify-center rounded-xl bg-white dark:bg-white/5 border border-[#e0e8e6] dark:border-white/10 text-[#111816] dark:text-white">
+                            <span class="material-symbols-outlined">notifications</span>
+                        </button>
+                        <button
+                            class="flex size-10 items-center justify-center rounded-xl bg-primary text-white font-bold">
+                            <span class="material-symbols-outlined">person</span>
+                        </button>
+                    </div>
+                </div>
+            </header>
+            <main class="flex-1 flex justify-center py-6 px-4">
+                <div class="layout-content-container flex flex-col max-w-[800px] flex-1">
+                    <!-- Headline Section -->
+                    <div class="pb-6 pt-2">
+                        <h1
+                            class="text-[#111816] dark:text-white tracking-tight text-[32px] md:text-[40px] font-extrabold leading-tight">
+                            Budget Highlights
+                        </h1>
+                        <p class="text-[#61897f] dark:text-[#a0c4bb] text-lg font-medium">Major announcements and fiscal
+                            allocations</p>
+                    </div>
+                    <!-- SearchBar Section -->
+                    <div class="py-3">
+                        <label class="flex flex-col min-w-40 h-14 w-full">
+                            <div
+                                class="flex w-full flex-1 items-stretch rounded-xl h-full shadow-sm ring-1 ring-[#e0e8e6] dark:ring-white/10 focus-within:ring-2 focus-within:ring-primary transition-all">
+                                <div
+                                    class="text-[#61897f] flex bg-white dark:bg-white/5 items-center justify-center pl-4 rounded-l-xl border-r-0">
+                                    <span class="material-symbols-outlined">search</span>
+                                </div>
+                                <input
+                                    class="form-input flex w-full min-w-0 flex-1 resize-none overflow-hidden rounded-r-xl text-[#111816] dark:text-white focus:outline-0 focus:ring-0 border-none bg-white dark:bg-white/5 h-full placeholder:text-[#61897f] px-4 pl-2 text-base font-normal leading-normal"
+                                    placeholder="Search schemes, sectors, or keywords..." />
+                            </div>
+                        </label>
+                    </div>
+                    <!-- Chips / Categories Section -->
+                    <div class="flex gap-3 py-4 overflow-x-auto hide-scrollbar -mx-4 px-4">
+                        <div
+                            class="flex h-10 shrink-0 items-center justify-center gap-x-2 rounded-full bg-primary px-5 cursor-pointer shadow-md shadow-primary/20">
+                            <p class="text-white text-sm font-bold leading-normal">All Sectors</p>
+                        </div>
+                        <div
+                            class="flex h-10 shrink-0 items-center justify-center gap-x-2 rounded-full bg-white dark:bg-white/5 border border-[#e0e8e6] dark:border-white/10 px-5 cursor-pointer hover:border-primary/50 transition-colors">
+                            <p class="text-[#111816] dark:text-white text-sm font-medium leading-normal">Healthcare</p>
+                        </div>
+                        <div
+                            class="flex h-10 shrink-0 items-center justify-center gap-x-2 rounded-full bg-white dark:bg-white/5 border border-[#e0e8e6] dark:border-white/10 px-5 cursor-pointer hover:border-primary/50 transition-colors">
+                            <p class="text-[#111816] dark:text-white text-sm font-medium leading-normal">Technology</p>
+                        </div>
+                        <div
+                            class="flex h-10 shrink-0 items-center justify-center gap-x-2 rounded-full bg-white dark:bg-white/5 border border-[#e0e8e6] dark:border-white/10 px-5 cursor-pointer hover:border-primary/50 transition-colors">
+                            <p class="text-[#111816] dark:text-white text-sm font-medium leading-normal">MSME</p>
+                        </div>
+                        <div
+                            class="flex h-10 shrink-0 items-center justify-center gap-x-2 rounded-full bg-white dark:bg-white/5 border border-[#e0e8e6] dark:border-white/10 px-5 cursor-pointer hover:border-primary/50 transition-colors">
+                            <p class="text-[#111816] dark:text-white text-sm font-medium leading-normal">Infrastructure
+                            </p>
+                        </div>
+                        <div
+                            class="flex h-10 shrink-0 items-center justify-center gap-x-2 rounded-full bg-white dark:bg-white/5 border border-[#e0e8e6] dark:border-white/10 px-5 cursor-pointer hover:border-primary/50 transition-colors">
+                            <p class="text-[#111816] dark:text-white text-sm font-medium leading-normal">Agriculture</p>
+                        </div>
+                        <div
+                            class="flex h-10 shrink-0 items-center justify-center gap-x-2 rounded-full bg-white dark:bg-white/5 border border-[#e0e8e6] dark:border-white/10 px-5 cursor-pointer hover:border-primary/50 transition-colors">
+                            <p class="text-[#111816] dark:text-white text-sm font-medium leading-normal">Education</p>
+                        </div>
+                    </div>
+                    <!-- Feed Section -->
+                    <div class="grid grid-cols-1 gap-4 py-4">
+                        <!-- Card 1 -->
+                        <div class="@container">
+                            <div
+                                class="flex flex-col items-stretch justify-start rounded-xl @xl:flex-row @xl:items-start shadow-sm border border-[#e0e8e6] dark:border-white/10 bg-white dark:bg-white/5 overflow-hidden hover:shadow-lg transition-all duration-300">
+                                <div class="w-full @xl:w-64 bg-center bg-no-repeat aspect-video bg-cover"
+                                    data-alt="Satellite imagery showing rural connectivity"
+                                    style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuC3Gt5tchbIf-zC4JoynlcmvLBzGldKb57j7XH_Xgkizh9_ZFtIsLbB8Pg0zbzWy974jGVgsknOqMeKLdBKD1azi4tWvNgNQLlsvzrh8n1FaIr4k1_l84Jt_cPJ1lBEsI2Jq5-Uf0CR8rsGDp2u_kOVxkdnWM4Qv0IRUrir-sHI6RvkURetT4mUwTpJylmOhISFOvLeTxSmF0CxdUoj5Oy3islZHtot54NcnWUwHpITqDX8v9b1O1sCTgMxll8D2STjQUgy8V9fS1k");'>
+                                </div>
+                                <div
+                                    class="flex w-full min-w-72 grow flex-col items-stretch justify-center gap-1 p-5 relative">
+                                    <div
+                                        class="absolute top-5 right-5 px-2.5 py-1 bg-primary/10 rounded-full border border-primary/20">
+                                        <p class="text-primary text-[10px] font-bold uppercase tracking-wider">
+                                            Technology</p>
+                                    </div>
+                                    <p
+                                        class="text-[#111816] dark:text-white text-xl font-bold leading-tight tracking-[-0.015em] mt-1">
+                                        Digital India Expansion</p>
+                                    <p
+                                        class="text-[#61897f] dark:text-[#a0c4bb] text-base font-normal leading-relaxed mb-4 max-w-lg">
+                                        Expansion of high-speed broadband to 2.5 lakh gram panchayats and enhanced
+                                        digital literacy programs for rural youth.</p>
+                                    <div
+                                        class="flex items-center justify-between border-t border-[#f0f4f3] dark:border-white/10 pt-4">
+                                        <div class="flex flex-col">
+                                            <p class="text-[#61897f] dark:text-[#a0c4bb] text-xs font-medium uppercase">
+                                                Budget Allocation</p>
+                                            <p class="text-primary text-2xl font-extrabold">₹15,000 Crore</p>
+                                        </div>
+                                        <button
+                                            class="flex items-center justify-center rounded-xl h-10 px-6 bg-primary text-white text-sm font-bold shadow-md shadow-primary/20 hover:brightness-105 transition-all">
+                                            View Details
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Card 2 -->
+                        <div class="@container">
+                            <div
+                                class="flex flex-col items-stretch justify-start rounded-xl @xl:flex-row @xl:items-start shadow-sm border border-[#e0e8e6] dark:border-white/10 bg-white dark:bg-white/5 overflow-hidden hover:shadow-lg transition-all duration-300">
+                                <div class="w-full @xl:w-64 bg-center bg-no-repeat aspect-video bg-cover"
+                                    data-alt="Healthcare professionals using medical equipment"
+                                    style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuB7OIJeTGpCWWENwk_TUcnzaIF9tj9k7mwpIo37i_Wd4FMGXsCPQSJGZrWGlCu8PTMoItagZUvDdaofWKjbcB2E12KJw-mKDk_e-LLvT_H2KegOISiRNyBxoTlZh2W4zWWZnc6En-FdqdFw478Sgcr4lfXNIdYkFt7kemC4EWI5TxCtS4XI2iIEJMOM6YwKzmGpMrpTyos_Q9yB4hdnK2Jul3z5PEwU6m_ldcLjG308XZEqPVYz1E_yVOTsRoW4TXUt6OKhtrezBrg");'>
+                                </div>
+                                <div
+                                    class="flex w-full min-w-72 grow flex-col items-stretch justify-center gap-1 p-5 relative">
+                                    <div
+                                        class="absolute top-5 right-5 px-2.5 py-1 bg-primary/10 rounded-full border border-primary/20">
+                                        <p class="text-primary text-[10px] font-bold uppercase tracking-wider">
+                                            Healthcare</p>
+                                    </div>
+                                    <p
+                                        class="text-[#111816] dark:text-white text-xl font-bold leading-tight tracking-[-0.015em] mt-1">
+                                        Mission Ayushman 2.0</p>
+                                    <p
+                                        class="text-[#61897f] dark:text-[#a0c4bb] text-base font-normal leading-relaxed mb-4 max-w-lg">
+                                        Coverage extended to senior citizens above 70 years and inclusion of advanced
+                                        mental health support facilities.</p>
+                                    <div
+                                        class="flex items-center justify-between border-t border-[#f0f4f3] dark:border-white/10 pt-4">
+                                        <div class="flex flex-col">
+                                            <p class="text-[#61897f] dark:text-[#a0c4bb] text-xs font-medium uppercase">
+                                                Budget Allocation</p>
+                                            <p class="text-primary text-2xl font-extrabold">₹12,400 Crore</p>
+                                        </div>
+                                        <button
+                                            class="flex items-center justify-center rounded-xl h-10 px-6 bg-primary text-white text-sm font-bold shadow-md shadow-primary/20 hover:brightness-105 transition-all">
+                                            View Details
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Card 3 -->
+                        <div class="@container">
+                            <div
+                                class="flex flex-col items-stretch justify-start rounded-xl @xl:flex-row @xl:items-start shadow-sm border border-[#e0e8e6] dark:border-white/10 bg-white dark:bg-white/5 overflow-hidden hover:shadow-lg transition-all duration-300">
+                                <div class="w-full @xl:w-64 bg-center bg-no-repeat aspect-video bg-cover"
+                                    data-alt="Small business owner working in a shop"
+                                    style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuDWo6gMehUivcjtCzQG-9_7_RwzheeSFP7YJie7oVJUNp4CeTbUE9D04LJnZYmkZZ4ZDmuvcmlzus5_5LtD163xjD8_ZC5WfGsy1XuljD-xD59_Ra6lqDKhsDXu9nV9mcsYcev4Xv6t62qCTgs4L90lEv9ZusyoKrrj1tuZdBCm9P3WDkgPolZIzB5qw3Qankd2g3OpLfHIf8fuq08_3dDhZk9sT_YksSTos-50FFTZz7jCHqaO2cd_RihwPfH2MYfkLsrg8Yx4lx0");'>
+                                </div>
+                                <div
+                                    class="flex w-full min-w-72 grow flex-col items-stretch justify-center gap-1 p-5 relative">
+                                    <div
+                                        class="absolute top-5 right-5 px-2.5 py-1 bg-primary/10 rounded-full border border-primary/20">
+                                        <p class="text-primary text-[10px] font-bold uppercase tracking-wider">MSME</p>
+                                    </div>
+                                    <p
+                                        class="text-[#111816] dark:text-white text-xl font-bold leading-tight tracking-[-0.015em] mt-1">
+                                        Credit Guarantee Scheme</p>
+                                    <p
+                                        class="text-[#61897f] dark:text-[#a0c4bb] text-base font-normal leading-relaxed mb-4 max-w-lg">
+                                        Simplified credit access for 5 million micro-enterprises with collateral-free
+                                        loans up to ₹20 Lakhs.</p>
+                                    <div
+                                        class="flex items-center justify-between border-t border-[#f0f4f3] dark:border-white/10 pt-4">
+                                        <div class="flex flex-col">
+                                            <p class="text-[#61897f] dark:text-[#a0c4bb] text-xs font-medium uppercase">
+                                                Budget Allocation</p>
+                                            <p class="text-primary text-2xl font-extrabold">₹8,500 Crore</p>
+                                        </div>
+                                        <button
+                                            class="flex items-center justify-center rounded-xl h-10 px-6 bg-primary text-white text-sm font-bold shadow-md shadow-primary/20 hover:brightness-105 transition-all">
+                                            View Details
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Footer Section -->
+                    <footer class="mt-12 mb-20 text-center">
+                        <p class="text-[#61897f] dark:text-[#a0c4bb] text-sm mb-6">Data updated as of July 23, 2024</p>
+                        <div class="flex flex-col md:flex-row items-center justify-center gap-4">
+                            <button class="flex items-center gap-2 text-sm font-bold text-primary hover:underline">
+                                <span class="material-symbols-outlined text-[20px]">download</span>
+                                Download Full Budget Document (PDF)
+                            </button>
+                            <span class="hidden md:inline text-gray-300">|</span>
+                            <button class="flex items-center gap-2 text-sm font-bold text-primary hover:underline">
+                                <span class="material-symbols-outlined text-[20px]">share</span>
+                                Share Highlights
+                            </button>
+                        </div>
+                    </footer>
+                </div>
+            </main>
+            <!-- Bottom Floating Action for Mobile feel -->
+            <div class="fixed bottom-6 left-1/2 -translate-x-1/2 md:hidden">
+                <button
+                    class="bg-[#111816] dark:bg-primary text-white dark:text-[#111816] px-8 py-4 rounded-full shadow-2xl flex items-center gap-3 font-bold">
+                    <span class="material-symbols-outlined">analytics</span>
+                    View Full Analysis
+                </button>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

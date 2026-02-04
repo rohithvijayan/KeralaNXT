@@ -17,7 +17,11 @@ const BudgetComparisonPage = lazy(() => import('./pages/BudgetComparisonPage'))
 const PolicyInsightsPage = lazy(() => import('./pages/PolicyInsightsPage'))
 const BudgetProjectsPage = lazy(() => import('./pages/BudgetProjectsPage'))
 const BudgetHighlightsPage = lazy(() => import('./pages/BudgetHighlightsPage'))
-
+const UnionBudgetAtGlance = lazy(() => import('./pages/UnionBudgetAtGlance'))
+const UnionBudgetHighlights = lazy(() => import('./pages/UnionBudgetHighlights'))
+const UnionSectorwiseAllocation = lazy(() => import('./pages/UnionSectorwiseAllocation'))
+const UnionBudgetComparison = lazy(() => import('./pages/UnionBudgetComparison'))
+import { Analytics } from "@vercel/analytics/react"
 import BottomNav from './components/BottomNav'
 
 function App() {
@@ -39,9 +43,14 @@ function App() {
                     <Route path="/policy-insights" element={<PolicyInsightsPage />} />
                     <Route path="/budget-projects" element={<BudgetProjectsPage />} />
                     <Route path="/budget-highlights" element={<BudgetHighlightsPage />} />
+                    <Route path="/union-budget-glance" element={<UnionBudgetAtGlance />} />
+                    <Route path="/union-budget-highlights" element={<UnionBudgetHighlights />} />
+                    <Route path="/union-sector-allocation" element={<UnionSectorwiseAllocation />} />
+                    <Route path="/union-budget-comparison" element={<UnionBudgetComparison />} />
                 </Routes>
             </Suspense>
             <BottomNav />
+            <Analytics />
         </>
     )
 }
