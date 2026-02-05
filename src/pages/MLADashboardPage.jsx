@@ -3,6 +3,7 @@ import { useNavigate, Link } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
 import Header from '../components/Header'
 import BottomNav from '../components/BottomNav'
+import { Spotlight } from '../components/ui/Spotlight'
 import {
     getAllMLAs,
     getMLAsByDistrict,
@@ -235,29 +236,44 @@ function MLADashboardPage() {
                         </div>
                     </div>
 
-                    {/* Desktop Page Header */}
+                    {/* Desktop Page Header with Spotlight Animation */}
                     <header className="page-header">
-                        <nav className="breadcrumb">
-                            <Link to="/">Dashboard</Link>
-                            <span className="material-symbols-outlined">chevron_right</span>
-                            <Link to="/mla-fund">MLA Fund</Link>
-                            <span className="material-symbols-outlined">chevron_right</span>
-                            <span className="current">MLA Dashboard</span>
-                        </nav>
-                        <div className="page-header-content">
-                            <h1 className="page-title">MLA Fund Dashboard</h1>
-                            <p className="page-subtitle">Detailed constituency-level fund tracking and project metrics across Kerala.</p>
-                        </div>
-                        <div className="header-actions">
-                            <div className="desktop-search">
-                                <span className="material-symbols-outlined search-icon">search</span>
-                                <input
-                                    type="text"
-                                    className="search-input"
-                                    placeholder="Search MLA or Constituency..."
-                                    value={searchQuery}
-                                    onChange={(e) => setSearchQuery(e.target.value)}
-                                />
+                        {/* Spotlight Animation */}
+                        <Spotlight
+                            gradientFirst="radial-gradient(68.54% 68.72% at 55.02% 31.46%, hsla(158, 84%, 50%, .15) 0, hsla(158, 84%, 40%, .05) 50%, hsla(158, 84%, 30%, 0) 80%)"
+                            gradientSecond="radial-gradient(50% 50% at 50% 50%, hsla(158, 84%, 50%, .10) 0, hsla(158, 84%, 40%, .03) 80%, transparent 100%)"
+                            gradientThird="radial-gradient(50% 50% at 50% 50%, hsla(158, 84%, 50%, .08) 0, hsla(158, 84%, 30%, .02) 80%, transparent 100%)"
+                            translateY={-150}
+                            width={300}
+                            height={600}
+                            smallWidth={140}
+                            duration={10}
+                            xOffset={40}
+                        />
+
+                        <div className="page-header-inner">
+                            <nav className="breadcrumb">
+                                <Link to="/">Dashboard</Link>
+                                <span className="material-symbols-outlined">chevron_right</span>
+                                <Link to="/mla-fund">MLA Fund</Link>
+                                <span className="material-symbols-outlined">chevron_right</span>
+                                <span className="current">MLA Dashboard</span>
+                            </nav>
+                            <div className="page-header-content">
+                                <h1 className="page-title">MLA Fund Dashboard</h1>
+                                <p className="page-subtitle">Detailed constituency-level fund tracking and project metrics across Kerala.</p>
+                            </div>
+                            <div className="header-actions">
+                                <div className="desktop-search">
+                                    <span className="material-symbols-outlined search-icon">search</span>
+                                    <input
+                                        type="text"
+                                        className="search-input"
+                                        placeholder="Search MLA or Constituency..."
+                                        value={searchQuery}
+                                        onChange={(e) => setSearchQuery(e.target.value)}
+                                    />
+                                </div>
                             </div>
                         </div>
                     </header>

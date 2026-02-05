@@ -833,12 +833,91 @@
         padding-bottom: 32px;
     }
 
-    /* Show Page Header on Desktop */
+    /* Show Page Header on Desktop - Teal Hero Background */
     .page-header {
         display: flex;
         flex-direction: column;
-        gap: 16px;
+        position: relative;
+        background: linear-gradient(135deg, var(--mla-teal-hero) 0%, var(--mla-teal-deep) 100%);
+        border-radius: 24px;
+        padding: 32px;
         margin-bottom: 32px;
+        overflow: hidden;
+        box-shadow:
+            0 20px 40px rgba(75, 124, 111, 0.25),
+            0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Spotlight Container Styles */
+    .spotlight-container {
+        position: absolute;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+        pointer-events: none;
+        z-index: 1;
+        overflow: hidden;
+    }
+
+    .spotlight-beam {
+        position: absolute;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        pointer-events: none;
+    }
+
+    .spotlight-left {
+        left: 0;
+    }
+
+    .spotlight-right {
+        right: 0;
+    }
+
+    .spotlight-ray {
+        position: absolute;
+        top: 0;
+    }
+
+    .spotlight-ray.primary {
+        left: 0;
+    }
+
+    .spotlight-ray.primary.right {
+        left: auto;
+        right: 0;
+    }
+
+    .spotlight-ray.secondary {
+        left: 0;
+        transform-origin: top left;
+    }
+
+    .spotlight-ray.secondary.right {
+        left: auto;
+        right: 0;
+        transform-origin: top right;
+    }
+
+    .spotlight-ray.tertiary {
+        left: 0;
+        transform-origin: top left;
+    }
+
+    .spotlight-ray.tertiary.right {
+        left: auto;
+        right: 0;
+        transform-origin: top right;
+    }
+
+    /* Page Header Inner Content */
+    .page-header-inner {
+        position: relative;
+        z-index: 2;
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
     }
 
     .breadcrumb {
@@ -846,13 +925,13 @@
         align-items: center;
         gap: 8px;
         font-size: 14px;
-        color: var(--mla-slate-500);
+        color: rgba(255, 255, 255, 0.7);
     }
 
     .breadcrumb a {
-        color: var(--mla-slate-500);
+        color: rgba(255, 255, 255, 0.7);
         text-decoration: none;
-        transition: color 0.2s;
+        transition: all 0.2s ease;
     }
 
     .breadcrumb a:hover {
@@ -860,13 +939,13 @@
     }
 
     .breadcrumb .current {
-        color: var(--mla-slate-900);
+        color: white;
         font-weight: 600;
     }
 
     .breadcrumb .material-symbols-outlined {
         font-size: 16px;
-        color: var(--mla-slate-400);
+        color: rgba(255, 255, 255, 0.5);
     }
 
     .page-header-content {
@@ -874,16 +953,17 @@
     }
 
     .page-title {
-        font-size: 36px;
+        font-size: 40px;
         font-weight: 900;
-        color: var(--mla-slate-900);
+        color: white;
         letter-spacing: -0.5px;
         line-height: 1.2;
+        text-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
     }
 
     .page-subtitle {
         font-size: 16px;
-        color: var(--mla-slate-500);
+        color: rgba(255, 255, 255, 0.8);
         margin-top: 8px;
     }
 
@@ -900,23 +980,32 @@
 
     .desktop-search .search-icon {
         position: absolute;
-        left: 12px;
+        left: 14px;
         top: 50%;
         transform: translateY(-50%);
-        color: var(--mla-slate-400);
+        color: rgba(255, 255, 255, 0.7);
     }
 
     .desktop-search .search-input {
-        padding: 10px 16px 10px 40px;
-        background: white;
-        border: 1px solid var(--mla-slate-200);
+        padding: 12px 16px 12px 44px;
+        background: rgba(255, 255, 255, 0.15);
+        backdrop-filter: blur(12px);
+        -webkit-backdrop-filter: blur(12px);
+        border: 1px solid rgba(255, 255, 255, 0.25);
         border-radius: 12px;
         font-size: 14px;
-        width: 300px;
+        width: 320px;
+        color: white;
+        transition: all 0.3s ease;
+    }
+
+    .desktop-search .search-input::placeholder {
+        color: rgba(255, 255, 255, 0.6);
     }
 
     .desktop-search .search-input:focus {
         outline: none;
+        background: rgba(255, 255, 255, 0.25);
         border-color: var(--mla-primary);
         box-shadow: 0 0 0 3px rgba(19, 236, 178, 0.15);
     }
