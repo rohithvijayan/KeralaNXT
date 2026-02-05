@@ -1,0 +1,641 @@
+{
+    "mla_name": "Shri Xavier Chittilappilly",
+    "constituency": "WADAKKANCHERY",
+    "district": "Thrissur",
+    "summary": {
+        "total_expenditure_crores": 20.9469,
+        "breakdown": [
+            {
+                "label": "Others",
+                "value_crores": 8.4114
+            },
+            {
+                "label": "Road",
+                "value_crores": 4.5836
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 4.39
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 1.2468
+            },
+            {
+                "label": "Education",
+                "value_crores": 1.0
+            },
+            {
+                "label": "Water Supply",
+                "value_crores": 0.63
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 0.4151
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.15
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.12
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "വടക്കാഞ്ചേരി നഗരസഭ - ഡിവിഷൻ 4 വാഴാനി കനാൽ - പാർളിക്കാട് ബ്രാഞ്ച് കനാലിന് കുറുകെ ചെയിനേജ് 9/000ന് സമീപം കുമപളങ്ങാട് വേട്ടാംക്കോട് നഗർ  കൾവർട്ട് നിർമ്മാണം",
+            "implementing_agency": "ഇറിഗേഷന്‍ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 11.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നഗരസഭ-ഡിവിഷൻ 16, അകമല -  തൂമാനം റോഡ് കൾവർട്ട് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജക മണ്ഡലം - എം.എൽ.എ. ആസ്തി വികസന പദ്ധതി 2025-26 -തോളൂർ ഗ്രാമപഞ്ചായത്ത് വാർഡ് 3 എൽ.എഫ് ഗ്രൌണ്ട് റോഡ് കോൺക്രീറ്റിംഗ്",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജകമണ്ഡലം എം.എൽ.എ. ആസ്തി വികസന പദ്ധതി 2025-26 ഒരു പഞ്ചായത്തിൽ ഒരു കളിക്കളം പദ്ധതി - വടക്കാഞ്ചേരി നഗരസഭ - ഇ.എം. എസ്. ഗ്രൌണ്ട് മിണാലൂർ നവീകരണം",
+            "implementing_agency": "സ്പോർട്സ് കേരള ഫൌണ്ടേഷൻ",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജക മണ്ഡലം  എം.എൽ.എ. ആസ്തി വികസന പദ്ധതി 2025-26 അവണൂർ ഗ്രാമപഞ്ചായത്ത് കോളാങ്ങാട്ടുകര അപ്പംകുളം അംഗൻവാടി നം. 107 കെട്ടിടം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജകമണ്ഡലം  ആസ്തിവികസന പദ്ധതി 2025-26  (ഒരു പഞ്ചായത്തിൽ ഒരു കളിക്കളം പദ്ധതി) തെക്കുംകര ഗ്രാമപഞ്ചായത്ത് പറമ്പായി ഗ്രൌണ്ട് നവീകരണം",
+            "implementing_agency": "സ്പോർട്സ് കേരള ഫൌണ്ടേഷൻ",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജകമണ്ഡലം -  ആസ്തിവികസന പദ്ധതി 2025-26- വടക്കാഞ്ചേരി നഗരസഭ ഡിവിഷൻ 40, മുണ്ടത്തിക്കോട് എൻ.എസ്.എസ്.വി.എച്ച്.എസ്.സ്ക്കൂളിൽ ടോയ് ലറ്റ് നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജരമണ്ഡലം - നിയോജകമണ്ഡല ആസ്തിവികസന പദ്ധതി 2025-26 വടക്കാഞ്ചേരി നഗരസഭ ഡിവിഷൻ 39 മുണ്ടത്തിക്കോട് എ.കെ.ജി നഗർ 152-ാം നമ്പർ അംഗൻവാടി കെട്ടിടം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജക മണ്ഡലം എം.എൽ.എ. ആസ്തി വികസന പദ്ധതി 2024-25 വടക്കാഞ്ചേരി നഗരസഭ ഡിവിഷൻ 11 - അവിൽ മിൽ റോഡ് നവീകരണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജക മണ്ഡലം  2024-25 എം.എൽ.എ.ആസ്തി വികസന പദ്ധതി - വടക്കാഞ്ചേരി നഗരസഭ  ഡിവിഷൻ 7, അകംപാടം ഓപ്പൺ ജിം റൂഫ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Sports",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജക മണ്ഡലം എം.എൽ.എ. ആസ്തി വികസന പദ്ധതി - 2024-25 - വടക്കാഞ്ചേരി നഗരസഭ ഡിവിഷൻ 11 പ്രിയദർശിനി റോഡ് നവീകരണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജക മണ്ഡലം 2024-25 എം.എൽ.എ. ആസ്തി വികസന പദ്ധതി - വടക്കാഞ്ചേരി നഗര സഭ ഡിവിഷൻ 11 ഓട്ടുപാറ മാർക്കറ്റ് പുറകുവശം ലിങ്ക് റോഡ് നവീകരണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജക മണ്ഡലം - നിയോജക മണ്ഡല ആസ്തി വികസന പദ്ധതി 2025-26 - കൈപ്പറമ്പ് ഗ്രാമപഞ്ചായത്ത് - ഡി.ജി.എൽ.പി സ്ക്കൂളിൽ പാചകപ്പുര നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജക മണ്ഡലം - നിയോജക മണ്ഡല ആസ്തി വികസന പദ്ധതി - 2025-26 -  കൈപ്പറമ്പ് ഗ്രാമപഞ്ചായത്ത് - പുറ്റേക്കര സെന്റ് ജോർജ്ജ്സ് എച്ച്.എസ്. സ്ക്കൂളിൽ പാചകപ്പുര നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജകമണ്ഡലം -  എം.എൽ.എ. ആസ്തിവികസന പദ്ധതി -2025-26  - തെക്കുംക്കര ഗ്രാമപഞ്ചായത്ത് വാർഡ് 7, സാംസ്കാരിക നിലയം , മലാക്ക - ഒന്നാംഘട്ടം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 99.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജകമണ്ഡലം ആസ്തി വികസന പദ്ധതി 2025-26 - തെക്കുംകര ഗ്രാമപഞ്ചായത്ത് ഓഫീസ് കെട്ടിടം രണ്ടാം നില -ഓഡിറ്റോറിയം പൂർത്തീകരണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 24.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജകമണ്ഡലം - 2023-24  നിയോജകമണ്ഡല ആസ്തി വികസന പദ്ധതി - വടക്കാഞ്ചേരി  നഗരസഭ - അമ്പലപുരം എ.ഡി.യു.പി. സ്ക്കൂളിൽ കിച്ചൻ അനക്സ് കം ഡൈനിംഗ് ഹാൾ നിർമ്മാണം.",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഒരു പഞ്ചായത്തിൽ ഒരു കളിക്കളം പദ്ധതിയിൽ ഉൾപ്പെടുത്തിയിട്ടുള്ള തോളൂർ ഗ്രാമപഞ്ചായത്ത്  ഗ്രൗണ്ട് മുള്ളൂർ നവീകരണം",
+            "implementing_agency": "സ്പോർട്സ് കേരള ഫൌണ്ടേഷൻ",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജക മണ്ഡലം -2024-25 - ആസ്തിവികസന പദ്ധതി - വടക്കാഞ്ചേരി ഗവ. ബോയ്സ് എൽ.പി. സ്ക്കൂൾ ഓപ്പൺ ട്രസ്സ് ഓഡിറ്റോറിയം നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജകമണ്ഡലം -  എം.എൽ.എ. ആസ്തിവികസന പദ്ധതി - 2024-25 -  കൈപറമ്പ് ഗ്രാമപഞ്ചായത്ത് \"മുണ്ടൂർ നെഹ്റു മണ്ഡപം മേൽകൂരയുടെയും കാത്തിരിപ്പ് കേന്ദ്രത്തിന്റെയും നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് റോഡ്സ് ഡിവിഷന്‍",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജകമണ്ഡലം 2024-25 നിയോജകമണ്ഡല ആസ്തി വികസന പദ്ധതി   അവണൂർ ഗ്രാമപഞ്ചായത്ത് തൃശ്സൂർ മെഡിക്കൽ കോളേജ് ആശുപത്രി കാഷ്വാലിറ്റി ബ്ലോക്കിനു മുന്നിൽ \"കൂടെ\" കാത്തിരിപ്പ് കേന്ദ്രം  നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Healthcare",
+            "fy": "2024-2025",
+            "estimate_lakhs": 34.68,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജകമണ്ഡലം - ആസ്തി വികസന പദ്ധതി 2024-25 കൈപ്പറമ്പ് ഗ്രാമപഞ്ചായത്ത്  ഒരു പഞ്ചായത്തിൽ ഒരു കളിക്കളം  പദ്ധതി - കൈപ്പറമ്പ് ഗ്രാമപഞ്ചായത്ത് ഗ്രൌണ്ട് നവീകരണം",
+            "implementing_agency": "സ്പോർട്സ് കേരള ഫൌണ്ടേഷൻ",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജക മണ്ഡലം - നിയോജക മണ്ഡല  ആസ്തി വികസന പദ്ധതി 2024-25 -വടക്കാഞ്ചേരി നഗരസഭ ഡിവിഷൻ 36 അമപലപുരം ആമക്കോട് കുടിവെള്ള പദ്ധതി വാട്ടർ ടാങ്ക് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Water Supply",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജകമണ്ഡലം 2024-25 ആസ്തിവികസന പദ്ധതി - വടക്കാഞ്ചേരി നഗരസഭ കുമ്പളങ്ങാട് ഹെൽത്ത് സബ് സെന്റർ കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജകമണ്ഡലം - MLA  ആസ്തിവികസന പദ്ധതി  2024-25 -  വടക്കാഞ്ചേരി നഗരസഭ - ഡിവിഷൻ 28, ദർശന കുടിവെള്ള പദ്ധതി  - ഓപ്പൺ വെൽ നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Water Supply",
+            "fy": "2024-2025",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജകമണ്ഡലം  എം.എൽ.എ. ആസ്തിവികസന പദ്ധതി -2023-24- തോളൂർ ഗ്രാമപഞ്ചായത്ത് -തോളൂർ ഷാരിയേക്കൽ അംഗൻവാടി നം.32 കെട്ടിട നിർമ്മാണം.",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 14.71,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജകമണ്ഡലം -  നിയോജക മണ്ഡല ആസ്തി വികസന പദ്ധതി 2023-24 -  മുളംകുന്നത്തുകാവ് ഗ്രാമപഞ്ചായത്ത് - വാർഡ് 13 - കോഴിക്കുന്ന് ഗ്രാമീണ വായനശാല നവീകരണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജകമണ്ഡലം - ആസ്തിവികസന പദ്ധതി  2024-25  - തോലൂർ ഗ്രാമപഞ്ചായത്ത്  എടക്കളത്തൂർ \" ശ്രീ. രാമചന്ദ്ര എയ്ഡഡ് യു.പി. സ്ക്കൂളിൽ പാചകപ്പുര\" നിർമ്മാണം.",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജകമണ്ഡലം  ആസ്തിവികസന പദ്ധതി 2023-24 - വടക്കാഞ്ചേരി നഗരസഭ - അത്താണി സിൽക്ക് നഗർ കൾച്ചറൽ സെന്റർ നിർമ്മാണം.",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജക മണ്ഡലം - ആസ്തി വികസന പദ്ധതി - 2023-24  - വടക്കാഞ്ചേരി നഗരസഭ - അത്താണി സിൽക്ക് നഗർ - കൾച്ചറൽ സെന്റർ നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജകമണ്ഡലം  - നിയോജകമണ്ഡല ആസ്തി വികസന പദ്ധതി- 2024-25 - വടക്കാഞ്ചേരി നഗരസഭ - പാർളിക്കാട് ഗവ. യു.പി. സ്ക്കൂൾ കെട്ടിടം ഒന്നാം നില നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 99.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "- വടക്കാഞ്ചേരി നിയോജകമണ്ഡലം  2024-25  നിയോജകമണ്ഡല ആസ്തി വികസന പദ്ധതി -വടക്കാഞ്ചേരി നഗരസഭ-വടക്കാഞ്ചേരി ഗവ. ഗേൾസ് ഹൈസ്ക്കൂൾ കെട്ടിടം ഒന്നാം  നില നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 99.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജകമണ്ഡലം - നിയോജക മണ്ഡല ആസ്തിവികസന പദ്ധതി - 2023-24 - വടക്കാഞ്ചേരി നഗരസഭ - ഡിവിഷൻ 6 - മൂതിപ്പാടം ഫുട്ട് ഓവർബ്രിഡ്ജ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 24.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജക മണ്ഡലം -   നിയോജക മണ്ഡല ആസ്തി വികസന പദ്ധതി  - 2023-24  - തോളൂർ ഗ്രാമ പഞ്ചായത്ത് വാർഡ് 3 -   പോന്നോർ മിനി സ്റ്റേഡിയം രണ്ടാം ഘട്ട നവീകരണം വോളിബോൾ കോർട്ട്,  ഓപ്പൺ ജിം നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി  നിയോജകമണ്ഡലം -  എം.എൽ.എ. എ.ഡി.എസ് - 2023-24 - തോളൂർ ഗ്രാമപഞ്ചായത്ത് - പോന്നോർ- കരുവത്താഴം റോഡ് നിർമ്മാണം.",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജകമണ്ഡലം - നിയോജകമണ്ഡല ആസ്തിവികസന പദ്ധതി 2024-25 - തോളൂർ ഗ്രാമപഞ്ചായത്ത് -പോന്നോർ-കരുവത്താഴം റോഡ് നിർമ്മാണം.",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "2023-24  വടക്കാഞ്ചേരി നിയോജകമണ്ഡലം - ആസ്തിവികസന പദ്ധതി - മുളംകുന്നത്തുക്കാവ് ഗ്രാമപഞ്ചായത്ത് -വാർഡ്1 - ചിറക്കുന്ന് - കൾവർട്ട് പുനർനിർമ്മാണം",
+            "implementing_agency": "ഇറിഗേഷന്‍ വകുപ്പ്",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "2023-24 തെക്കുംക്കര ഗ്രാമപഞ്ചായത്ത് - പത്താംക്കല്ല് മംഗലം - കല്ലംപാറ - തച്ചംക്കുഴി റോഡ് - കല്ലംപാറയിൽ ബോക്സ് കൾവർട്ട് പുനർനിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് റോഡ്സ് ഡിവിഷന്‍",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 45.51,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "2023 - 24  -  വടക്കാഞ്ചേരി  നിയോജകമണ്ഡലം-    അടാട്ട് ഗ്രാമപഞ്ചായത്ത് -   അടാട്ട് ഗവ. എൽ.പി. സ്ക്കൂൾ - ടോയ് ലറ്റ്  ബ്ലോക്ക് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "MLA ADS-2022-23 വടക്കാഞ്ചേരി ശ്രീ. കേരളവർമ്മ പബ്ലിക് ലൈബ്രറി ഹാൾ നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "MLA ADS-  2022-23 വടക്കാഞ്ചേരി ശ്രീ. കേരളവർമ്മ പബ്ലിക് ലൈബ്രറി ഹാൾ നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നഗരസഭ ഡിവിഷൻ - 35  രാജഗിരി മെയിൻ റോഡ് കൂടിവെള്ള പദ്ധതി",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.55,
+            "concurrence_lakhs": 25.55
+        },
+        {
+            "project_name": "MLA - ADS - 22023-24 വടക്കാഞ്ചേരി നഗരസഭ - ഡിവിഷൻ 12, ഈഞ്ചലോടി റോഡ് പൂർത്തീകരണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കൈപ്പറമ്പ് ഗ്രാമപഞ്ചായത്തിലെ വിവിധ അംഗൻവാടി കെട്ടിടങ്ങളുടെ നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 36.0,
+            "concurrence_lakhs": 36.0
+        },
+        {
+            "project_name": "കോലഴി ഗ്രാമപഞ്ചായത്തിലെ വിവിധ അംഗൻവാടി കെട്ടിടങ്ങളുടെ നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 54.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വട്ടായി-പത്താഴകുണ്ട്  കുടിവെള്ള പദ്ധതി വിപുലീകരണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Water Supply",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കാഞ്ചരി നിയോജകമണ്ഡലം ആസ്തി വികസന ഫണ്ട് -2023-24 ഗവ.എൽ.പി.സ്ക്കൂൾ ഓട്ടുപാറ കെട്ടിടം ഒന്നാം നില നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 98.0,
+            "concurrence_lakhs": 98.0
+        },
+        {
+            "project_name": "MLA  - ADS 2023-24  GOVT.DISTRICT HOSPITAL WADAKKANCHERY - CONSTRUCTION OF SECOND FLOOR OF EXISTING O.P. BUILDING",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Healthcare",
+            "fy": "2023-2024",
+            "estimate_lakhs": 90.0,
+            "concurrence_lakhs": 90.0
+        },
+        {
+            "project_name": "ഉദയനഗര്‍ റോഡില്‍ 3 ഭാഗങ്ങളില്‍ ഇന്റര്‍ലോക്ക് ടൈല്‍ വിരിച്ചു പുനരുദ്ധാരണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "2022-23 അടാട്ട് ഗ്രാമപഞ്ചായത്തിലെ 6 കേന്ദ്രങ്ങളില്‍ ഹൈ മാസ്ററ്/മിനിമാസ്റ്റ് ലൈറ്റുകള്‍.",
+            "implementing_agency": "സ്റ്റീല്‍ ഇന്‍ഡസ്ട്രീസ് ലിമിറ്റഡ് കേരള, അത്താണി",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 22.53,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തെക്കുംകര ഗ്രാമപഞ്ചായത്ത് ഓഫീസ് കെട്ടിടത്തിന്റെ രണ്ടാം നില നിര്‍മ്മാണം .",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 70.0,
+            "concurrence_lakhs": 70.0
+        },
+        {
+            "project_name": "മുണ്ടത്തിക്കോട് ഡി.വി.എല്‍.പി സ്കൂളില്‍ പാചകപ്പുര നിര്‍മ്മാണം .",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ആര്യംപാടം സര്‍വ്വോദയം എച്ച്. എസ്  സ്കൂളില്‍ പാചകപ്പുര നിര്‍മ്മാണം .",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ആട്ടോര്‍ സെന്ററില്‍ ബസ്‌ കാത്തിരുപ്പ് കേന്ദ്രവും വനിതാ കാന്റീന്‍ കം കള്‍ചറല്‍ സെന്റെറും- ഒന്നാം ഘട്ടം കോലഴി ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ്‌ 12",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "പുത്തിശ്ശേരി മുതുവറ സെന്റർ ഇർളാംപാടം റോഡ് നിർമ്മാണം അടാട്ട്   ഗ്രാമപഞ്ചായത്ത് (വാർഡ് 9)",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 29.0,
+            "concurrence_lakhs": 29.0
+        },
+        {
+            "project_name": "തോളൂർ ഗ്രാമപഞ്ചായത്ത് വാർഡ് 6-ൽ  അംഗൻവാടി നമ്പർ 50 ന് കെട്ടിടം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "അത്തേക്കാട് മിനി സ്റ്റേഡിയം നിർമ്മാണം ഒന്നാം ഘട്ടം   കോലഴി ഗ്രാമപഞ്ചായത്ത് (വാർഡ് 8)",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കക്കാട്  അംഗൻവാടി ലിങ്ക് റോഡ് കോണ്‍ക്രീറ്റിംഗ്  തോളൂർ ഗ്രാമപഞ്ചായത്ത് (വാർഡ് 4)",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "പത്താംകല്ല്  അംഗൻവാടി നം.162 ന് കെട്ടിടം നിർമ്മാണം  ,വടക്കാഞ്ചേരി നഗരസഭ (ഡിവിഷൻ-26)",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കൈപ്പറമ്പ്  ഗ്രാമപഞ്ചായത്തിലെ (വാർഡ് 9) തെച്ചിക്കോട്ടുകാവ് അമ്പലമൈതാനിയിലും  തെക്കുംകര ഗ്രാമപഞ്ചായത്തിലെ (വാർഡ് 14)  ചെപ്പാറ റോഡ് ഗാർഡനിലും ഹൈമാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കൽ",
+            "implementing_agency": "അക്രെഡിറ്റഡ് ഏജന്‍സി",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.8,
+            "concurrence_lakhs": 12.8
+        },
+        {
+            "project_name": "ചൂലിശ്ശേരി  അംഗൻവാടി നമ്പർ 113 ന് കെട്ടിടം നിർമ്മാണം  അവണൂർ ഗ്രാമപഞ്ചായത്ത് (വാർഡ് 7)",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "പൂളായ്ക്കൽ ബോക്സ് കൾവെർട്ട് നിർമ്മാണം (ch.5/600 ന് സമീപം),-മുളങ്കുന്നത്ത്കാവ് ഗ്രാമപഞ്ചായത്ത്( വാർഡ് 7)",
+            "implementing_agency": "ഇറിഗേഷന്‍ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 26.43,
+            "concurrence_lakhs": 26.43
+        },
+        {
+            "project_name": "കാരോർ അംഗൻവാടി നമ്പർ 117 ന് കെട്ടിട നിർമ്മാണം,-അവണുർ ഗ്രാമപഞ്ചായത്ത്(വാർഡ് 15",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "തങ്ങാലൂർ അംഗൻവാടി നമ്പർ 108 ന് കെട്ടിട നിർമ്മാണം,-അവണുർ ഗ്രാമപഞ്ചായത്ത്( വാർഡ് 1)",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "ശങ്കരാപുരം അംഗൻവാടി നമ്പർ 124 ന് കെട്ടിടം,-മുളങ്കുന്നത്ത്കാവ് ഗ്രാമപഞ്ചായത്ത്( വാർഡ് 13)",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ഒരു പഞ്ചായത്തിൽ ഒരു കളിക്കളം പദ്ധതിയിൽ ഉൾപ്പെടുത്തിയിട്ടുള്ള വടക്കാഞ്ചേരി ജിബി എച്ച് എസ് എസ് ഗ്രൗണ്ട് നവീകരണം വടക്കാഞ്ചേരി നഗരസഭ ഡിവിഷൻ 21",
+            "implementing_agency": "അക്രെഡിറ്റഡ് ഏജന്‍സി",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ഉദയനഗര്‍ 2nd സ്ട്രീറ്റ് റോഡ് ( ഇന്റെര്‍ലോക്ക് ടൈല്‍ വിരിച്ച് പുനരുദ്ധാരണവും, കാന നിര്‍മാണവും )",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 32.5,
+            "concurrence_lakhs": 32.5
+        },
+        {
+            "project_name": "വടക്കാഞ്ചേരി നിയോജകമണ്ഡലത്തിലെ 11 കേന്ദ്രങ്ങളില്‍ മിനി മാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കല്‍",
+            "implementing_agency": "കെല്‍ട്രോണ്‍, തിരുവനന്തപുരം",
+            "category": "Electricity",
+            "fy": "2021-2022",
+            "estimate_lakhs": 18.98,
+            "concurrence_lakhs": 18.98
+        },
+        {
+            "project_name": "പോന്നോര്‍ മിനി സ്റ്റേഡിയം - ഗ്രൌണ്ട് നവീകരണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "വിലങ്ങന്‍കുന്ന് റോഡ് കൾവെർട്ട് നിര്‍മാണം, വാർഡ് 10 അടാട്ട് ഗ്രാമപഞ്ചാത്ത്",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "പടിഞ്ഞാട്ടയില്‍ ലെയ്ന്‍ - എട്ടുവീട് റോഡ് ഇന്റെര്‍ലോക്ക്",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഈഞ്ചലോടി റോഡ് ഇന്‍റര്‍ലോക്ക് - ഡിവിഷന്‍ 12 വടക്കാഞ്ചേരി നഗരസഭ",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 28.0,
+            "concurrence_lakhs": 28.0
+        },
+        {
+            "project_name": "96 നമ്പര്‍ മേപ്പാടി അംഗന്‍വാടി കെട്ടിടം - വാര്‍ഡ് 12 തെക്കുംക്കര ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2021-2022",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "thrissur_shri_xavier_chittilappilly_placeholder"
+}

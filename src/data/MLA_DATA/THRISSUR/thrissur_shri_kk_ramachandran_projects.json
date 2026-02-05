@@ -1,0 +1,709 @@
+{
+    "mla_name": "Shri K.K. Ramachandran",
+    "constituency": "PUTHUKKAD",
+    "district": "Thrissur",
+    "summary": {
+        "total_expenditure_crores": 25.019,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 9.9822
+            },
+            {
+                "label": "Others",
+                "value_crores": 5.5831
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 4.6684
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 2.7688
+            },
+            {
+                "label": "Education",
+                "value_crores": 1.8765
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 0.14
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "മറ്റത്തൂര്‍‍ ഗ്രാമപഞ്ചായത്തിലെ വാര്‍ഡ് 11ല്‍ മോനൊടി ശ്രീ ഭദ്രറോഡ് നവീകരണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "GLPS തൃക്കൂരില്‍ ക്ലാസ്സ്റും കംടോയ്ലറ്റ് ബ്ലോക്ക് നിര്‍മ്മാണപൂര്‍ത്തീകരണം,ചുറ്റുമതില്‍ നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പുതുക്കാട് നിയോജകമണ്ഡലത്തിലെ വിവിധ ഗ്രാമപഞ്ചായത്തുകളിലായി 29മിനിമാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കല്‍",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 87.06,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മുപ്ലിയം ഗവ.ഹയര്‍ സെക്കണ്ടറി സ്ക്കൂളില്‍ ചുറ്റുമതില്‍,പ്രവേശന കവാടം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പുതുക്കാട് നിയോജകമണ്ഡലത്തിലെ വല്ലച്ചിറ,വരന്തരപ്പിളളി പഞ്ചായത്തുകളിലെ 28 സെന്ററുകളില്‍ മിനിമാസ്റ്റ്/ഹൈമാസ്റ്റ്ലൈറ്റ് സ്ഥാപിക്കല്‍",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 84.06,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പുതുക്കാട് ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 4ല്‍ പകല്‍ വീട് നിര്‍മ്മാണം-(തണല്‍ പകല്‍ വീട്-വയോജന കേന്ദ്രം)",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മറ്റത്തൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ ജി.യു.പി.എസ് ലൂര്‍ദ്ദ്പുരം നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 57.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വരന്തരപ്പിളളി ഗ്രാമപഞ്ചായത്തിലെ വാര്‍ഡ് 8ലെ 121 നം.അംഗന്‍വാടിക്ക്  കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 26.1,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അളഗപ്പനഗര്‍-തൃക്കൂര്‍ ഗ്രാമപഞ്ചായത്തുകളെ ബന്ധിപ്പിക്കുന്ന വെണ്ടോര്‍-ഞെള്ളൂര്‍ പാലം ശേഷിക്കുന്ന പ്രവൃത്തികളുടെ പൂര്‍ത്തീകരണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 73.69,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അളഗപ്പനഗര്‍-തൃക്കൂര്‍ ഗ്രാമപഞ്ചായത്തുകളെ ബന്ധിപ്പിക്കുന്ന വെണ്ടോര്‍-ഞെളളൂര്‍ പാലം ശേഷിക്കുന്ന പ്രവൃത്തികളുടെ പൂര്‍ത്തീകരണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 73.69,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പുതുക്കാട് നിയോജകമണ്ഡലത്തിലെ  പറപ്പൂക്കര,പുതുക്കാട്,നെന്‍മണിക്കര,വരന്തരപ്പിളളി,തൃക്കൂര്‍  ഗ്രാമപഞ്ചായത്തുകളുടെ വിവിധ ഭാഗങ്ങളില്‍ മിനിമാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കല്‍",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 84.06,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പുതുക്കാട് ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 11ലെ SNപുരം ഫ്രണ്ട്സ് ക്ലബ്ബ് റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 11.7,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പുതുക്കാട് ഗ്രാമപഞ്ചായത്ത് -വാര്‍ഡ്  8ലെ പ്രവാസി അംഗന്‍വാടി റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മറ്റത്തൂര്‍ ഗ്രാമപഞ്ചായത്ത്- വാര്‍ഡ് 22ലെ 45നം.ദേവശ്രീ അംഗന്‍വാടിക്ക് കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 23.46,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വരന്തരപ്പിളളി ഗ്രാമപഞ്ചായത്ത്-വാര്‍ഡ്5ലെ ദയനിധി അംഗന്‍വാടി കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അളഗപ്പനഗര്‍ ഗ്രാമപഞ്ചായത്തില്‍ വാര്‍ഡ് 6ല്‍ വട്ടണാത്ര പി.ഡബ്ല്യൂ.ഡി ബ്രാഞ്ച് റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 11.43,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അളഗപ്പനഗര്‍ ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 16ല്‍ കുറുപ്പംകുളം റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 13.63,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മന്ദിരപ്പിളളി കല്ലന്‍കുഴിറോഡ് നിര്‍മ്മാണം-വാര്‍ഡ് 23,മറ്റത്തൂര്‍ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 19.72,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നേതാജി റോഡ് നിര്‍മ്മാണം-തൃക്കൂര്‍ ഗ്രാമപഞ്ചായത്ത് -വാര്‍ഡ് 1",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 44.2,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കോരേച്ചാല്‍ ഗ്രീന്‍വാലി റോഡ് വാര്‍ഡ് 3-മറ്റത്തൂര്‍ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 14.36,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വരന്തരപ്പിളളി ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 9 ലെ ബാപ്പുജി അംഗന്‍വാടിക്ക് പുതിയ കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 22.3,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വാസുപുരം പളളി കുഞ്ഞക്കര റോഡ്  വാര്‍ഡ് 21-മറ്റത്തൂര്‍ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 17.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പുതുക്കാട് ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 10ലെ മനയ്ക്കല്‍ കടവ് ലിഫ്റ്റ് ഇറിഗേഷന്‍-വേലൂപ്പാടം ബ്രാഞ്ച് ലൈന്‍ എക്സ്റ്റന്‍ഷന്‍ പ്രവൃത്തി",
+            "implementing_agency": "ഇറിഗേഷന്‍ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അളഗപ്പനഗര്‍ ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 14ലെ ഈശാനിമംഗലം തെക്കേകര ബ്രാഞ്ച് റോഡ് ടൈല്‍ വിരിക്കല്‍",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 11.2,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അളഗപ്പനഗര്‍ ഗ്രാമപഞ്ചായത്തിലെ വാര്‍ഡ് 14ലെ തെക്കേക്കര ബ്രാഞ്ച് റോഡ് ടൈല്‍ വിരിക്കല്‍",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 11.13,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തൃക്കൂര്‍ ഗ്രാമപഞ്ചായത്ത് (വാര്‍ഡ്-1) നേതാജി റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 39.0,
+            "concurrence_lakhs": 39.0
+        },
+        {
+            "project_name": "വട്ടണാത്ര പിഡബ്ല്യുഡി ബ്രാഞ്ച് റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "വരന്തരപ്പിളളി ഗ്രാമപഞ്ചായത്തിലെ വാര്‍ഡ് 9 ലെ അംഗന്‍വാടി കെട്ടിടനിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "വരന്തരപ്പിളളി ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 5ല്‍ 91നം.അംഗന്‍വാടി കെട്ടിടനിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "വല്ലച്ചിറ ഗ്രാമപഞ്ചായത്തിലെ വാര്‍ഡ് 14ലെ നാല് സെന്റ് കോളനി റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെന്‍മണിക്കര -ഗ്രാമപഞ്ചായത്ത് -വാര്‍ഡ് 10-മണലി -മടവാക്കര റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വല്ലച്ചിറഗ്രാമപഞ്ചായത്തിലെ ക്ഷീരോല്‍പ്പാദകസഹകരണസംഘം-R-181-നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "അളഗപ്പ നഗര്‍ ഗ്രാമപഞ്ചായത്ത് - വാര്‍ഡ് 16 ലെ കുറുപ്പംകുളം റോഡ് നിര്‍മ്മാണം.",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "മറ്റത്തൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ വാര്‍ഡ് 3 ലെ കൊരേച്താല്‍- ഗ്രീന്‍വാലി റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 13.59,
+            "concurrence_lakhs": 13.56
+        },
+        {
+            "project_name": "ചിമ്മിനി ഇക്കോ ടൂറിസം പദ്ധതി",
+            "implementing_agency": "Wild Life Department",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "മറ്റത്തൂര്‍ ഗ്രാമപഞ്ചായത്ത് -വാര്‍ഡ് 23-മന്ദിരപ്പിളളി കല്ലന്‍കുഴി റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "പറപ്പൂക്കര ഗ്രാമ പഞ്ചായത്തിൽ വാർഡ് 3 ൽ ബഡ്സ് സ്ക്കൂളിനായി കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "ജി.വി.എച്ച്.എസ്.എസ്. നന്തിക്കര സ്ക്കൂളില്‍ ഒരു പഞ്ചായത്തിൽ ഒരു കളിസ്ഥലം പദ്ധതി പ്രകാരം കളിസ്ഥലനിർമ്മാണം",
+            "implementing_agency": "സ്പോർട്സ് കേരള ഫൌണ്ടേഷൻ",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "തൃക്കൂർ ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 1 ലെ നേതാജി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വരന്തരപ്പിള്ളി ഗ്രാമ പഞ്ചായത്തിലെ (19-ാം വാർഡ്) കൊളക്കാട്ടിൽ പാടശേഖരത്തിലേക്ക് നന്ദിപുലം ലിഫ്റ്റ് ഇറിഗേഷൻ പദ്ധതിയിൽ നിന്നുള്ള കനാൽ ദീർഘിപ്പിക്കൽ",
+            "implementing_agency": "ഇറിഗേഷന്‍ വകുപ്പ്",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "പുതുക്കാട് നിയോജക മണ്ഡലത്തിലെ തൃക്കൂര്‍ ഗ്രാമ പഞ്ചായത്തില്‍ സ്ഥിതിചെയ്യുന്ന മന്നം സ്മാരക വായനശാലക്ക് കെട്ടിട നിർമ്മാണം - എല്‍എസി-എഡിഎസ്",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "തൃക്കൂർ ഗ്രാമ പഞ്ചായത്ത് മന്നം സ്മാരക വായനശാലക്ക് കെട്ടിടം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പുതുക്കാട് മണ്ഡലത്തിലെ പറപ്പൂക്കര ഗ്രാമ പഞ്ചായത്തിലെ ജി.വി.എച്ച്.എസ്.എസ്.നന്തിക്കരയില്‍ ഒരു പഞ്ചായത്തിൽ ഒരു കളിക്കളം  പദ്ധതി - മാച്ചിംഗ് ഷെയർ - എ.ഡി.എസ്-2024- തുക അനുവദിക്കുന്നത്",
+            "implementing_agency": "സ്പോർട്സ് കേരള ഫൌണ്ടേഷൻ",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വരന്തരപ്പിള്ളി ഗ്രാമപഞ്ചായത്ത്- പാലപ്പിള്ളി-ചീനിക്കുന്ന് റോഡ് ഇന്റര്‍ലോക്ക് ടൈല്‍ വിരിക്കല്‍ സൈഡ് പ്രൊട്ടക്ഷന്‍ നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 41.0,
+            "concurrence_lakhs": 41.0
+        },
+        {
+            "project_name": "മറ്റത്തൂര്‍   ഗ്രാമപഞ്ചായത്തിലെ ചെമ്പൂച്ചിറ ജി.എച്ച്.എസ്.എസ്. സ്കൂള്‍ കെട്ടിട നിര്‍മ്മാണം രണ്ടാംഘട്ടം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2018-2019",
+            "estimate_lakhs": 81.0,
+            "concurrence_lakhs": 81.0
+        },
+        {
+            "project_name": "തൃക്കൂര്‍ ഗ്രാമപഞ്ചായത്ത് വാര്‍‍ഡ് 1 ലെ നേതാജി റോഡ് നിര്‍മ്മാണം-",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വരന്തരപ്പിള്ളി ഗ്രാമപഞ്ചായത്ത് വാര്‍‍ഡ് 4 ലെ വെട്ടിങ്ങപ്പാടം കശുമാവിന്‍കാട്- പുതിയമഠം റോ‍ഡ് ടൈല്‍ വിരിക്കല്‍‍",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.2,
+            "concurrence_lakhs": 18.2
+        },
+        {
+            "project_name": "പറപ്പൂക്കര ഗ്രാമപഞ്ചായത്ത് വാര്‍‍ഡ് 17 ലെ നെടുമ്പാള്‍ - ധനുകുളം പാടശേഖരത്തില്‍ റാമ്പ് നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.3,
+            "concurrence_lakhs": 11.3
+        },
+        {
+            "project_name": "മറ്റത്തൂര്‍   ഗ്രാമപഞ്ചായത്ത് വാര്‍‍ഡ് 19 ലെ 35-ാം നമ്പര്‍ അങ്കണവാടി മോ‍ഡല്‍ അങ്കണവാടിയാക്കുന്നതിന്  പുതിയ കെട്ടിടവും അനുബന്ധ സൗകര്യങ്ങളും നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 27.65,
+            "concurrence_lakhs": 27.65
+        },
+        {
+            "project_name": "പറപ്പൂക്കര ഗ്രാമപഞ്ചായത്ത് വാര്‍‍ഡ് 12 ലെ –പോങ്കോത്ര ലിഫ്റ്റ് ഇറിഗേഷന്‍-പൈപ്പ് ലൈന്‍ സ്ഥാപിക്കല്‍",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പറപ്പൂക്കര ഗ്രാമപഞ്ചായത്ത് വാര്‍‍ഡ് 1 ലെ മുളങ്ങ് മഠത്തില്‍  റോഡ് കള്‍വര്‍ട്ട്  നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.2,
+            "concurrence_lakhs": 12.2
+        },
+        {
+            "project_name": "പറപ്പൂക്കര ഗ്രാമപഞ്ചായത്ത് വാര്‍‍ഡ് 3 ലെ രാപ്പാള്‍ - കിഴക്കുംമുറി-കോഴിപ്പാടന്‍ റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.8,
+            "concurrence_lakhs": 10.8
+        },
+        {
+            "project_name": "വരന്തരപ്പിള്ളി ഗ്രാമപഞ്ചായത്ത്-14 സെന്ററുകളിലും പുതുക്കാട് ഗ്രാമപഞ്ചായത്തിലെ 11 സെന്ററുകളിലും കൂടി 25 സെന്ററുകളില്‍   മിനിമാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കല്‍",
+            "implementing_agency": "സ്റ്റീല്‍ ഇന്‍ഡസ്ട്രീസ് ലിമിറ്റഡ്, കണ്ണൂര്‍",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 74.84,
+            "concurrence_lakhs": 74.84
+        },
+        {
+            "project_name": "പുതുക്കാട് ഗ്രാമപഞ്ചായത്ത് വാര്‍‍ഡ് 2 ലെ വടക്കേ തൊറവ് ഫ്രണ്ട്സ് ക്ലബ്ബ് റോഡ് ഡ്രെയിനേജ് ആന്റ് സൈഡ് പ്രൊട്ടക്ഷന്‍ പ്രവര്‍ത്തികള്‍‍",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 14.4,
+            "concurrence_lakhs": 14.4
+        },
+        {
+            "project_name": "മറ്റത്തൂര്‍ ഗ്രാമപഞ്ചായത്ത്- 8 സെന്ററുകളിലും പറപ്പൂക്കര ഗ്രാമപഞ്ചായത്തിലെ 10 സെന്ററുകളിലും തൃക്കൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ 10 സെന്ററുകളിലുമായി 28 സെന്ററുകളില്‍ മിനിമാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കല്‍",
+            "implementing_agency": "സ്റ്റീല്‍ ഇന്‍ഡസ്ട്രീസ് ലിമിറ്റഡ്, കണ്ണൂര്‍",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 83.82,
+            "concurrence_lakhs": 83.82
+        },
+        {
+            "project_name": "വല്ലച്ചിറ ഗ്രാമപഞ്ചായത്ത്-7 സെന്ററുകളിലും അളഗപ്പനഗര്‍ ഗ്രാമപഞ്ചായത്തിലെ 22 സെന്ററുകളിലും   മിനിമാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കല്‍",
+            "implementing_agency": "സ്റ്റീല്‍ ഇന്‍ഡസ്ട്രീസ് ലിമിറ്റഡ്, കണ്ണൂര്‍",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 86.82,
+            "concurrence_lakhs": 86.82
+        },
+        {
+            "project_name": "നെന്മണിക്കര ഗ്രാമപഞ്ചായത്ത്-27 സെന്ററുകളില്‍  മിനിമാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കല്‍",
+            "implementing_agency": "സ്റ്റീല്‍ ഇന്‍ഡസ്ട്രീസ് ലിമിറ്റഡ്, കണ്ണൂര്‍",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 80.83,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പുതുക്കാട്  മണ്ഡലത്തിലെ വിവിധസ്ഥലങ്ങളില്‍ മിനിമാസ്റ്റ്  ലൈറ്റുകള്‍ സ്ഥാപിക്കല്‍ (14 എണ്ണം)",
+            "implementing_agency": "അക്രെഡിറ്റഡ് ഏജന്‍സി",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 39.49,
+            "concurrence_lakhs": 39.49
+        },
+        {
+            "project_name": "തൃക്കൂർ ഗ്രാമ പഞ്ചായത്ത് -വാർഡ് 10 ലെ 49-)ം നമ്പർ അംഗനവാടി കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 27.65,
+            "concurrence_lakhs": 27.65
+        },
+        {
+            "project_name": "നരശ്ശീല ഊരാന്‍കുളം ലിഫ്റ്റ് ഇറിഗേഷന്‍ റോഡ് നിര്‍മ്മാണം പുതുക്കാട് ഗ്രാമ പഞ്ചായത്ത് വാർഡ് 9",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF CLASS ROOMS AND RELATED WORKS IN GLPS, IN THRIKKUR GP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 95.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എസ്‌എംഎസ് റോഡ് രണ്ടാം ഘട്ട നിര്‍മാണം, തൃക്കുര്‍ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 80.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "സി ജി ജനാര്‍ദനന്‍ റോഡ് ഡ്രൈനേജ് നിര്‍മാണം , വാര്‍ഡ് 15, പുതുക്കാട് ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 21.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നന്തിക്കര ജി.വി.എച്ച്.എസ്സ്.എസ്സ് ന് സുകൂൾ ബസ്സ് വാങ്ങുന്ന പ്രവൃത്തി",
+            "implementing_agency": "പൊതുവിദ്യാഭ്യാസ വകുപ്പ്",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പുതുക്കാട് ഗ്രാമപഞ്ചായത്തിലെ  വാർഡ് 9 ലെ സൂര്യഗ്രാമം കൾവർട്ട് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "തൃക്കൂർ ഗ്രാമപഞ്ചായത്തിലെ വാർഡ് 11 ലെ കള്ളായി ദേശത്ത് ആർ.പി.എസ് റോഡ് (വെള്ളാനിക്കോട്) നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "വല്ലച്ചിറ ഗ്രാമപഞ്ചായത്തിലെ മഹിമ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.0,
+            "concurrence_lakhs": 11.0
+        },
+        {
+            "project_name": "മറ്റത്തൂർ ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 16 ലെയും 17 ലെയും അതിർത്തി ഭാഗം കുഞ്ഞാലിപ്പാറ കനാൽ ബണ്ട് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 19.0,
+            "concurrence_lakhs": 19.0
+        },
+        {
+            "project_name": "പുതുക്കാട് ഗ്രാമപഞ്ചായത്തിലെ വാർഡ് 3 ലെ പ്രജോതി നികേതൻ കോളേജ് റോഡ് പുനർ നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.2,
+            "concurrence_lakhs": 11.2
+        },
+        {
+            "project_name": "പറപ്പൂക്കര ഗ്രാമപഞ്ചായത്തിലെ വാർഡ് 17 ലെ നെടുമ്പാൾ ധനുകുളം പാടശേഖരത്തിൽ റാമ്പ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.3,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെൻമണിക്കര ഗ്രാമപഞ്ചായത്തിലെ വാർഡ് 3 ലെ തലോർ-ജറുസലേം-കോനിക്കര റോഡ് ഇൻ്റർലോക്ക് ടൈൽ വിരിക്കൽ പ്രവൃത്തി",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 17.8,
+            "concurrence_lakhs": 17.8
+        },
+        {
+            "project_name": "വല്ലച്ചിറ ഗ്രാമപഞ്ചായത്തിലെ  വാർഡ് 5 ലെ ശാസ്താ കമ്പനി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "വല്ലച്ചിറ ഗ്രാമപഞ്ചായത്തിലെ വാർഡ് 4 ലെ പീടിക്കപറമ്പ് സ്ട്രീറ്റ് 1 റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.0,
+            "concurrence_lakhs": 11.0
+        },
+        {
+            "project_name": "വരന്തരപ്പിള്ളി ഗ്രമപഞ്ചായത്തിലെ വാർഡ് 15 ലെ മുപ്ലിയം-കുഞ്ഞക്കര റോഡ് (പുളിഞ്ചോട് മുതൽ വലിയ തോട് വരെ)",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "വരന്തരപ്പിള്ളി ഗ്രാമപഞ്ചായത്തിലെ വാർഡ് 14 ലെ മുത്തുല-മുപ്ലിയം റോഡ്",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 19.0,
+            "concurrence_lakhs": 19.0
+        },
+        {
+            "project_name": "തൃക്കൂർ ഗ്രാമപഞ്ചായത്തിലെ വാർഡ് 16 ലെ പുലക്കാട്ടുകര മഠം ഷട്ടർ റോഡ്",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 43.0,
+            "concurrence_lakhs": 43.0
+        },
+        {
+            "project_name": "പുതുക്കാട് നിയോജകമണ്ഡലത്തിലെ 7 സ്ഥലങ്ങളിൽ മിനിമാസ്റ്റ് ലൈറ്റുകൾ സ്ഥാപിക്കുന്ന പ്രവൃത്തി",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Electricity",
+            "fy": "2021-2022",
+            "estimate_lakhs": 16.74,
+            "concurrence_lakhs": 16.74
+        },
+        {
+            "project_name": "അളഗപ്പനഗർ ഗ്രാമപഞ്ചായത്തിലെ വാർഡ് 8 ലെ പൂക്കോട് മനവഴി റോഡിൽ കാന നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "മറ്റത്തൂർ ഗ്രാമപഞ്ചായത്തിലെ കിഴക്കേ കോടാലി-അമ്പനോളി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "വരന്തരപ്പിള്ളി  ഗ്രാമപഞ്ചായത്തിലെ വാർഡ് 5 ലെ ദാറുൽ തഖ്വ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "അളഗപ്പനഗർ ഗ്രാമപഞ്ചായത്തിലെ വാർഡ്6 ലെ മേടംകുളങ്ങര മനറോഡ് (മനയ്ക്കൽ വഴി) നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.72,
+            "concurrence_lakhs": 10.72
+        },
+        {
+            "project_name": "തൃക്കൂർ ഗ്രാമപഞ്ചായത്തിലെ  വാർഡ് 8 ലെ പൂനിശ്ശേരി കപ്പേള കനാൽ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.16,
+            "concurrence_lakhs": 20.16
+        },
+        {
+            "project_name": "നെന്മണിക്കര ഗ്രാമപഞ്ചായത്തിലെ പാലിയേക്കര ഫ്ലൈ ഓവറിന് സമീപം ഓര്‍മ്മ മാര്‍ബിള്‍സിന് മുന്‍വശത്തും, തൃക്കൂര്‍ ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 3  തൃക്കൂര്‍ വായനശാല സ്റ്റോപ്പില്‍ (തൃക്കൂര്‍ പാലയ്ക്കപ്പറമ്പ് പി.ഡബ്ല്യു.ഡി. റോഡ്) ബസ് ഷെല്‍ട്ടര്‍ നിര്‍മ്മാണം.",
+            "implementing_agency": "പൊതുമരാമത്ത് റോഡ്സ് ഡിവിഷന്‍",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 16.6,
+            "concurrence_lakhs": 16.6
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "thrissur_shri_kk_ramachandran_placeholder"
+}

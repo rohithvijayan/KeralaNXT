@@ -1,0 +1,613 @@
+{
+    "mla_name": "Shri K.P. Mohanan",
+    "constituency": "KUTHUPARAMBA",
+    "district": "Kannur",
+    "summary": {
+        "total_expenditure_crores": 14.7806,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 7.514
+            },
+            {
+                "label": "Education",
+                "value_crores": 2.493
+            },
+            {
+                "label": "Others",
+                "value_crores": 2.0967
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 0.82
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.8
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.5
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.4467
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 0.1102
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "കൂത്തുപറമ്പ് നിയോജക മണ്ഡലത്തിലെ പുതുശ്ശേരി ഗവ.യുപി.സ്കൂളിന് ബസ് വാങ്ങൽ.",
+            "implementing_agency": "Deputy Director of Education Kannur",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.8,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ADIYERI KUNHIRAMAN ROAD-MANKULATH KAVU NADAPPATHA IN KUTHUPARAMBA MINICIPALITY",
+            "implementing_agency": "Secretary  kuthuparamba Municipality",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF CULVERT ACROSS PALATHAYI - ARAYAL THARA KANNANKODE (CH0/053) ROAD IN PANOOR MUNICIPALITY",
+            "implementing_agency": "സെക്രട്ടറി പാനൂര്‍ നഗരസഭ",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF A GYMNASIUM IN MOKERI GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KOTTAYAMPOYIL ANGANVADI BUILDING CONSTRUCTION SECOND PHASE IN KOTTAYAM GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "PUTTUNDA-AMBIDATT MADAPPURA ROAD- TARRING FROM CH 0/110 TO 0/245 KM IN KUNNOTHUPARAMBU GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "KARGIL BUS STOP PANAKKOOL ROAD-WARD 25 IN PANOOR MUNICIPALITY",
+            "implementing_agency": "സെക്രട്ടറി പാനൂര്‍ നഗരസഭ",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "THALLODE CANAL ROAD ( TARRING INSPECTION ROAD ON RIGHT BANK SIDE NEAR CH:11/100 KM TO 11/490 KM OF MAHE BRANCH CANAL OF PyIP ) IN KOTTAYAM GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 39.0,
+            "concurrence_lakhs": 39.0
+        },
+        {
+            "project_name": "THAYYULATHIL MUKKU- MEETHALE PARAMBATH ROAD -WARD 19-PANOOR MUNICIPALITY",
+            "implementing_agency": "സെക്രട്ടറി പാനൂര്‍ നഗരസഭ",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "BUILDING CONSTRUCTION FOR ANGANWADIES CENTRE-78 MONTHAL KAMBANI KUNNU IN WARD 27 AND KALIMUTTAM ANGANWADI IN WARD 34",
+            "implementing_agency": "സെക്രട്ടറി പാനൂര്‍ നഗരസഭ",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "KARUVAN KUNNUMMAL VAANIYANTAVIDA P R KURUP MEMMORIAL ROAD- PANUR MUNICIPALITY",
+            "implementing_agency": "സെക്രട്ടറി പാനൂര്‍ നഗരസഭ",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "ടി കെ കുഞ്ഞിരാമന്‍ മാസ്റ്റര്‍-കയനാടം റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 12.4
+        },
+        {
+            "project_name": "പൊയിലൂര്‍ പരവിന്റവിട മുക്ക്-റെഡ് റോസ് റോഡ്‌",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF MANIKKOTH KOTTARAMBAN THOOKK ROAD AT KUNNOTHUPARAMBA G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF SUBHASH VEEDU - CHEMMERI ANANDAN VEEDU ROAD AT PATTIAM GP FROM Ch. 0/085 TO 0/295 KM",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF PARAPPURAM - ALATHUMKATTIL ROAD (Ch. 0/139 ONWARDS) FROM Ch. 0/139 TO 0/545 KM IN KUNNOTHUPARAMBA G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "KALLANTAVIDA MUKKU - PETROL ROAD IN MOKERI GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "SITC OF MINIMAST LIGHTS AT KAPPARARA JUNCTION, PULOOKKIL MINISTADIUM IN KOTTAYAM GP, MOWANCHERI PEEDIKA, KARYATTUPURAM, RAHMAMUKK-KOTTAMUKK IN PATYAM GP, THEKKOLAMUKK  SOUTH NARAVOOR, THAIKKANDY MADAPPURA IN KOOTHUPARAMBA MUNICIPALITY, KARIYAD THERU GANAPATHI TEMPLE, KARIYAD SUHASH LIBRARY, KALLARA MADAPPURA, KARIYAD PMSY STADIUM, PALAKKOOL IN PANOOR MUNICIPALITY, CENTRAL POYILOOR KULAM STOP, CENTRAL POYILOOR COMPANY MUKK IN THRIPPANGOTTUR GP, THOOVAKKUNNU PRAKASH AKERY JUNCTION IN KUNNOTHPARAMBA GP",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD ELECTRICAL DIVISION KANNUR",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 22.5,
+            "concurrence_lakhs": 22.5
+        },
+        {
+            "project_name": "SITC of Minimast Lights in Kunnothuparamba GP and Thrippangottur GP - Sitc of Minimast Lights at Thendaparamba FHC, Vilakkottur Town, Kottalmukku in Thrippangottur GP and Varapra, Thazhe Kunnothparamba, Meethale Kunnothparamba, Puthur Club in Kunnothuparamba GP",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD ELECTRICAL DIVISION KANNUR",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.02,
+            "concurrence_lakhs": 11.02
+        },
+        {
+            "project_name": "CONSTRUCTION OF CHELAKKAD - AKG ROAD FROM Ch: 0/323 TO 0/402KM &AMP; Ch: 0/411 TO 0/466 IN KUNNOTHUPARAMBA GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF BRIDGE ON KALLUVALAPPU SREE NARAYANA MADAM ROAD NEAR CHEERATTA PALLI IN PATTYAM GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF OPEN GYM AND PARK AT CHITTARITHODU IN KUNNOTHUPARAMBA GP",
+            "implementing_agency": "CHIEF ENGINEER SPORTS KERALA FOUNDATION",
+            "category": "Sports",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ATTUPURAM CHATHAMPALLY ASHOKAN PEEDIKA TO POONKAVANAM ROAD IN MOKERI G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "CENTRE 63 KUTTIKKATTU ANGANWADI & CENTRE 82 VALIYAPARA ANGANWADI BUILDING CONSTRUCTION IN KOOTHUPARAMBA MUNICIPALITY",
+            "implementing_agency": "Secretary  kuthuparamba Municipality",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF BUILDING FOR PATHIPALAM ANGANVADI (CENTRE NO.157) IN MOKERI G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "Setting up of Smart classroom at Mokeri Govt East UP School and Computer Lab at Govt Higher Secondary School Pattiam",
+            "implementing_agency": "ASSISTANT EXECUTIVE ENGINEER PWD ELECTRONIC SECTION KANNUR DIVISION KANNUR",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "PALAKOOL KORAKKANDY - KALLIL ELANGODE ROAD WARD 4 IN PANOOR MUNICIPALITY",
+            "implementing_agency": "സെക്രട്ടറി പാനൂര്‍ നഗരസഭ",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MELE POOKKOM THEKKUM BAGAM THERU PULLAMBATH MUKKU ROAD - WARD 37 IN PANOOR MUNICIPALITY",
+            "implementing_agency": "സെക്രട്ടറി പാനൂര്‍ നഗരസഭ",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "KANNAMVELLI ILLAM ROAD CONCRETE - WARD 38- PANOOR MUNICIPALITY",
+            "implementing_agency": "സെക്രട്ടറി പാനൂര്‍ നഗരസഭ",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "BALAN PEEDIKA - NEELAM PARAMBATH ROAD CONSTRUCTION - WARD 35 - IN PANOOR MUNICIPALITY",
+            "implementing_agency": "സെക്രട്ടറി പാനൂര്‍ നഗരസഭ",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF FEEDING ROOM AND IMMUNISATION ROOM IN MOKERI PHC IN MOKERI G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "MOORIYAD URBAN PHC ELECTRIFICATION, ALUMINIUM FABRICATION, YARD INTERLOCKING ETC. IN KOOTHUPARAMBA MUNICIPALITY",
+            "implementing_agency": "Secretary  kuthuparamba Municipality",
+            "category": "Healthcare",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "CONCRETING TO PARAKKUNI KALLUSHOP ROAD FROM 00/108- 00/278 AND CONSTRUCTION OF CULVERT AT 00/303km CHAINAGE IN KOTTAYAM GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF PROTECTION WALL AND SLAB ON MUTHONATHAZHE - PUTHUVAYAL THODU (120M) IN THRIPPANGOTTUR GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 28.0,
+            "concurrence_lakhs": 28.0
+        },
+        {
+            "project_name": "THUNDIYIL THAZHE THURUTHI MUKKU PMGSY ROAD- PANOOR MUNICIPALITY",
+            "implementing_agency": "സെക്രട്ടറി പാനൂര്‍ നഗരസഭ",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF MOYARATH CANAL BRIDGE- PATTYAM GRAMA PANCHAYATH",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "KUTTERI THYKKANDIPALAM - AKKANISSERI CANAL ROAD- PANOOR MUNICIPALITY",
+            "implementing_agency": "സെക്രട്ടറി പാനൂര്‍ നഗരസഭ",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "KANJOLI CHATHOTHMUKKU JAMALIYA ARABIC COLLEGE KELOTH ROAD CONCRETING FROM CH: 0/000 to 0/240 KM AND CONSTRUCTION OF CROSS DRAIN CULVERTS (B/W CH: 0/240 AND 0/450KM) IN KUNNOTHPARAMBA GP.",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "PAATHIPALAM AQUEDUCT CANAL ROAD IN MOKERI GRAMAPANCHAYATH",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "POYILOOR SREENARAYANA MADAM PALAYAMKANDI ROAD TARRING FROM CH: 1/750 - 2/175 KM IN TRIPPANGOTTUR GRAMA PANCHAYATH",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "CHAMBOLIMUKK PADANNAKKARA RATION PEEDIKA ROAD",
+            "implementing_agency": "സെക്രട്ടറി പാനൂര്‍ നഗരസഭ",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "CHAMBOLIMUKKU PADANNAKKARA RATION PEEDIKA ROAD IN PANOOR MUNICIPALITY",
+            "implementing_agency": "സെക്രട്ടറി പാനൂര്‍ നഗരസഭ",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "CHAMBOLIMUKKU PADANNAKKARA RATION PEEDIKA ROAD IN PANOOR MUNICIPALITY",
+            "implementing_agency": "സെക്രട്ടറി പാനൂര്‍ നഗരസഭ",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "T.K.RAJU - POLICE STATION ROAD MACADAM TARRING - KOOTHUPARAMBA MUNICIPALITY",
+            "implementing_agency": "Secretary  kuthuparamba Municipality",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "KANNICHANKANDY ROAD WORK IN MOKERI G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "BUYING BUS FOR COLLEGE OF APPLIED SCIENCE, KUTHUPARAMBA",
+            "implementing_agency": "PRINCIPAL, COLLEGE OF APPLIED SCIENCE, KUTHUPARAMBA",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "PROTECTING THE RIGHT BANK OF THALASSERY RIVER (CHADALA PUZHA), DOWN STREAM OF POONGAVANAM WEIR NEAR HOUSE No.16/242 IN PATTIAM G.P",
+            "implementing_agency": "EXECUTIVE ENGINEER  IRRIGATION DIVISION,Thalasseri",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 16.67,
+            "concurrence_lakhs": 16.67
+        },
+        {
+            "project_name": "DISTRIBUTING SPORTS KIT AND STEEL CABINET TO 147 SCHOOLS IN KOOTHUPARAMB LAC",
+            "implementing_agency": "Deputy Director of Education Kannur",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കുണ്ടുങ്കരവയൽ അങ്കണവാടി കെട്ടിട നിർമ്മാണം (സെന്റർ നം.56)",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 34.0,
+            "concurrence_lakhs": 34.0
+        },
+        {
+            "project_name": "അംഗനവാടി-മൂഴിവയൽ (സെന്റർ നം.89), പാട്യം, വാർഡ്-6",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2018-2019",
+            "estimate_lakhs": 27.67,
+            "concurrence_lakhs": 27.67
+        },
+        {
+            "project_name": "അംഗനവാടി-നിടൂൾപീടിക (സെന്റർ നം.11), തൃപ്പങ്ങോട്ടൂർ, വാർഡ്-14",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2018-2019",
+            "estimate_lakhs": 27.0,
+            "concurrence_lakhs": 27.0
+        },
+        {
+            "project_name": "അംഗനവാടി - കര്യാട് മൈന്യാടത്തിൽ(സെന്റർ നം.72), പാനൂർ, വാർഡ്-26",
+            "implementing_agency": "സെക്രട്ടറി പാനൂര്‍ നഗരസഭ",
+            "category": "Others",
+            "fy": "2018-2019",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "മാൻമിൻ്റെവിട ഐശ്വര്യ അംഗനവാടി കെട്ടിടം (സെൻ്റർ നം.142)",
+            "implementing_agency": "സെക്രട്ടറി പാനൂര്‍ നഗരസഭ",
+            "category": "Infrastructure",
+            "fy": "2018-2019",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ചെറ്റക്കണ്ടി വെസ്റ്റ് അങ്കണവാടി റോഡ് - തൃപ്പങ്ങോട്ടൂർ ഗ്രാമ പഞ്ചായത്ത് (Ch:00/000-00/220)",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഇലിക്കുന്നു ചിറ്റിക്കര കിളൂന്നിച്ചാൽ ആമ്പക്കൽ റോഡ് - കുന്നോത്ത്പറമ്പ് ഗ്രാമ പഞ്ചായത്ത് (Ch:00/000 - 00/330)",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കോലാവിൽ വയൽ റോഡ് -കോട്ടയം ഗ്രാമ പഞ്ചായത്ത് (ചെയിനേജ് 00/000-00/195 കി.മീ.)",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കൂത്തുപറമ്പ് (മൂര്യാട്) അർബൻ പി.എച്ച്.സി.ക്ക് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "Secretary  kuthuparamba Municipality",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 100.0,
+            "concurrence_lakhs": 100.0
+        },
+        {
+            "project_name": "എരുവട്ടിക്കാവ് റോഡ് - കോട്ടയം ഗ്രാമ പഞ്ചായത്ത് (ചെയിനേജ് 00/000 - 00/155, 00/188 - 00/233)",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കോട്ടയംചിറ-അമ്പലം റോഡ്-കോട്ടയം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 32.0,
+            "concurrence_lakhs": 32.0
+        },
+        {
+            "project_name": "തെരു അമ്പലം കാങ്ങാട്ട് റോഡ് - പാനൂർ മുനിസ്സിപ്പാലിറ്റി വാർഡ്-28 (ചെയിനേജ് 0/000-0/219)",
+            "implementing_agency": "സെക്രട്ടറി പാനൂര്‍ നഗരസഭ",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പുറക്കാട്ട്കുന്നു പടിഞ്ഞാറയിൽമുക്ക് ഓഡിറ്റോറിയം റോഡ് - പാനൂർ മുനിസ്സിപ്പാലിറ്റി വാർഡ്-28(ചെയിനേജ് 0/000 - 0/250)",
+            "implementing_agency": "സെക്രട്ടറി പാനൂര്‍ നഗരസഭ",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കിഴക്കോൽമുക്ക് ചാമ്പറമ്പത്ത് റോഡ് - പാനൂർ മുനിസ്സിപ്പാലിറ്റി വാർഡ് നം.14 (ചെയിനേജ് 0/000 - 0/262)",
+            "implementing_agency": "സെക്രട്ടറി പാനൂര്‍ നഗരസഭ",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 14.4,
+            "concurrence_lakhs": 14.4
+        },
+        {
+            "project_name": "ശോണിയ മാണിക്കോത്ത് റോഡ് - പാനൂർ മുനിസ്സിപ്പാലിറ്റി വാർഡ്-12 (ചെയിനേജ് 0/000-0/215 and 0/235-0/270)",
+            "implementing_agency": "സെക്രട്ടറി പാനൂര്‍ നഗരസഭ",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കിഴക്കയിൽ മുക്ക് ഗുരുസന്നിധി പുഞ്ചകമാനം തോട് വരെ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പുളിയനമ്പ്രം പോസ്റ്റ്പാറ റാബിയത്ത് മുക്ക് റോഡ് നവീകരണം",
+            "implementing_agency": "സെക്രട്ടറി പാനൂര്‍ നഗരസഭ",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "സെൻട്രൽ വള്ള്യായി കളരിത്താഴെ റോഡ് നിർമ്മാണം - മൊകേരി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കല്ലാട്ടുപുറം-തുറങ്ങാൾ തോട്ടത്തിൽ റോഡ്",
+            "implementing_agency": "സെക്രട്ടറി പാനൂര്‍ നഗരസഭ",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF ANGANAWADI BUILDING IN WARD 19 IN KUTHUPARAMABU MUNICIPALITY (C No.80)",
+            "implementing_agency": "Secretary  kuthuparamba Municipality",
+            "category": "Infrastructure",
+            "fy": "2021-2022",
+            "estimate_lakhs": 27.0,
+            "concurrence_lakhs": 27.0
+        },
+        {
+            "project_name": "കാടാങ്കുനി യു.പി. സ്കൂൾ കണിയാറത്ത് കിളച്ചപറമ്പത്ത് റോഡ് നവീകരണം",
+            "implementing_agency": "സെക്രട്ടറി പാനൂര്‍ നഗരസഭ",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ROAD RENOVATION UPTO  A.V. MUKKU-MOKERIVAYAL EDAKKUDYMUKKU IN PADMA TALKIES-MOKERIVAYAL ROAD",
+            "implementing_agency": "സെക്രട്ടറി പാനൂര്‍ നഗരസഭ",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "kannur_shri_kp_mohanan_placeholder"
+}

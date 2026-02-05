@@ -1,0 +1,585 @@
+{
+    "mla_name": "Shri P.A. Mohamed Riyas",
+    "constituency": "BEYPORE",
+    "district": "Kozhikode",
+    "summary": {
+        "total_expenditure_crores": 17.704,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 11.274
+            },
+            {
+                "label": "Others",
+                "value_crores": 3.15
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 2.4
+            },
+            {
+                "label": "Education",
+                "value_crores": 0.6
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 0.28
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "LAC ADS 2024-25 - മണ്ഡലത്തിലെ വിവിധ സ്ഥലങ്ങളിൽ ഹൈമാസ്റ്റ്/ ലോമാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കൽ - ബേപ്പൂർ നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 28.0,
+            "concurrence_lakhs": 28.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - കിഴുവനപ്പാടം തോട് നവീകരണം - ചെറുവണ്ണൂർ",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - മണ്ണൂർ -കടലുണ്ടി- ചാലിയം റോഡിൽ വിവിധ സ്ഥലങ്ങളിൽ ബസ്  വെയ്റ്റിംഗ് ഷെഡ്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 -കോസ്റ്റൽ പോലീസ് സ്റ്റേഷൻ കൈതവളപ്പ് സിദ്ദിഖ് പളളി റോഡ് - കടലുണ്ടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - കടലുണ്ടി പൊതുശ്മശാനം പുനരുദ്ധാരണം- കടലുണ്ടി ഗ്രാമ പഞ്ചായത്ത് - ബേപ്പൂർ നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25-  വിജിത്ത് കിഴക്ക് അരകിണർ റെയിൽവേ ലൈൻ ലിങ്ക് റോഡ് - അരക്കിണർ-  ബേപ്പൂർ നിയോജകമണ്ഡലം",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - പാലക്കാപുരി വെളുത്തേടത്ത് താഴം കോരം പറമ്പ്  റോഡ് - ഫാറൂഖ് കോളേജ് - രാമനാട്ടുകര നഗരസഭ - ബേപ്പൂർ നിയോജകമണ്ഡലം.",
+            "implementing_agency": "Secretary, Ramanatukara Municipality",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - ചാത്തൻ കൈത്തോട് ചീർപ്പ് -2 ഷട്ടറുകൾ - മണ്ണൂർ - ബേപ്പൂർ നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive engineer, Minor Irrigation",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 -- എളേടത്ത് താഴം ചുങ്കം റോഡ് - പരുത്തിപ്പാറ - രാമനാട്ടുകര നഗരസഭ - ബേപ്പൂർ നിയോജകമണ്ഡലം",
+            "implementing_agency": "Secretary, Ramanatukara Municipality",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS -2024-25 - മാഹി പെരച്ചനങ്ങാടി ചേനോത്ത് സ്കൂൾ ലിങ്ക് റോഡ് കോൺക്രീറ്റ് നടുവട്ടം - ബേപ്പൂർ നിയോജക മണ്ഡലം",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - മേലേച്ചിറ ഡീസൽ പ്ലാൻറ് റോഡ് അരീക്കാട് -  ബേപ്പൂർ  നിയോജകമണ്ഡലം",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - കടലുണ്ടി ഒന്നാം പാലം മുതൽ ഇടച്ചിറ വരെ തോട് സൈഡ് കെട്ടി സംരക്ഷിക്കൽ - കടലുണ്ടി ഗ്രാമ പഞ്ചായത്ത് - ബേപ്പൂർ നിയോജക മണ്ഡലം.",
+            "implementing_agency": "Executive engineer, Minor Irrigation",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 64.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "BEYPORE LAC ADS - 2024-25 - ആമാംകുനി റോഡ് നവീകരണം കോൺക്രീറ്റ് കുണ്ടായിത്തോട്",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25  - നല്ലളം ARD.19  റോഡ് കം ഡ്രൈനേജ് -ബേപ്പൂർ നിയോജകമണ്ഡലം.",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 -ബേപ്പൂർ നിയോജകമണ്ഡലം - തോണിച്ചിറ റോഡ് നടുവട്ടം ഈസ്റ്റ് -ബേപ്പൂർ",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 -ബേപ്പൂർ നിയോജക മണ്ഡലം -  ഇരട്ടച്ചിറ കയർ ഫാക്ടറി റോഡ് -  ബേപ്പൂർ",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - ബേപ്പൂർ നിയോജകമണ്ഡലം - മണ്ണൂർ സബ്സെൻറർ  - മണ്ണൂർ സെൻട്രൽ - കടലുണ്ടി ഗ്രാമ പഞ്ചായത്ത് - ബഹു. പൊതുമരാമത്ത് ടൂറിസം വകുപ്പ് മന്ത്രിയും ബേപ്പൂര്‍ നിയോജക മണ്ഡലം എം.എല്‍.എ.യുമായ ശ്രീ. മുഹമ്മദ് റിയാസ് അവര്‍കൾ  ശുപാർശ ചെയ്ത പ്രവൃത്തി.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - ബേപ്പൂർ നിയോജകമണ്ഡലം - താഴെ കോഴിക്കളം ശ്രീപുരി റോഡ് ഡ്രൈനേജ് ഉൾപ്പടെ വാർഡ്.10 മണ്ണൂർ - കടലുണ്ടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചെറുപൊയില്‍ തോണിച്ചാല്‍ ഡ്രൈനേജ് ഫറോക്ക്-ബേപ്പൂര്‍ നിയോജകമണ്ഡലം എം.എല്‍.എ യും ബഹു.പൊതുമരാമത്ത് ടൂറിസം വകുപ്പ് മന്ത്രിയുമായ ശ്രീ.മുഹമ്മദ് റിയാസ് അവര്‍കളുടെ  2024-25 ആസ്തി വികസന പദ്ധതി",
+            "implementing_agency": "Secretary, Feroke Municipality",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ഫറോക്ക് യംഗ്മെന്‍സ് കോട്ടപ്പാടം റോഡ്-സീക്കോസ് ഡ്രൈനേജ് പൂര്‍ത്തീകരണം-ബഹു.പൊതുമരാമത്ത്  ടൂറിസം വകുപ്പ് മന്ത്രിയും ബേപ്പൂര്‍ നിയോജക മണ്ഡലം എം.എല്‍.എ .യുമായ ശ്രീ.മുഹമ്മദ് റിയാസ് അവര്‍കളുടെ 2024-25 ആസ്തി വികസന പദ്ധതി",
+            "implementing_agency": "Secretary, Feroke Municipality",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ബേപ്പൂര്‍ നിയോജകമണ്ഡലം എം.എല്‍.എ ശ്രീ.പി.എ മുഹമ്മദ് റിയാസ് അവര്കളുടെ  2022-23 ആസ്തി വികസനപദ്ധതിയില്‍ ഉള്‍പ്പെടുത്തി  1 കോടി രൂപ വിനിയോഗിച്ച് 6 പ്രവര്‍ത്തികള്‍ ഒറ്റ പ്രവര്‍ത്തിയായി നടപ്പിലാക്കുന്നതിന്  1) യങ്ങ്മെന്‍സ് ലൈബ്രറി മേല്ക്കൂര-ഇന്റര്‍ലോക്ക്-സ്റ്റേജ് നവീകരണ പ്രവര്‍ത്തി (ഫറോക്ക് മുന്‍സ്പ്പാലിറ്റി) 25 ലക്ഷം 2)മുട്ട്യാറകനാല്‍ ഫുട്പാത്ത് നിര്‍മ്മാണം (ഫറോക്ക് മുന്‍സിപ്പാലിറ്റി ) 15 ലക്ഷം 3) മുതുവാട്ടുപാറ പുതുക്കുഴിപാടം റോഡ് (ഫറോക്ക് മുന്‍സിപ്പാലിറ്റി) 15 ലക്ഷം-4) തുലാമറ്റം പറമ്പ് കോവിലം പാലാട്ട് പറമ്പ് ഡ്രൈനേജ് കവറിംഗ് സ്ലാബ് (കോഴിക്കോട് കോര്‍പ്പറേഷന്‍) 25 ലക്ഷം 5)മൂത്തേടത്ത് മേത്തല്‍ ചാത്തംപറമ്പ് റോഡ് (രാമനാട്ടുകര മുന്‍സിപ്പാലിറ്റി) 10 ലക്ഷം 6) പുഴിപൊറ്റാലുങ്ങല്‍ -സ്പിന്നിംഗ് മില്‍ റോഡ് (രാമനാട്ടുകര മുന്‍സിപ്പാലിറ്റി) 10 ലക്ഷം എന്നീ പ്രവര്‍ത്തികള്‍ ഒറ്റ പ്രവര്‍ത്തിയായി നടപ്പിലാക്കുന്നത്",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 100.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കണ്ണാട്ടിക്കുളം മിനി സ്റ്റേഡിയം (കോഴിക്കോട് കോര്‍പ്പറേഷന്‍ - ചെറുവണ്ണൂര്‍ ഡിവിഷന്‍ 45) നവീകരണം",
+            "implementing_agency": "Chief Engineer Sports Kerala Foundation",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "മുല്ല മൻസിൽ കഥശ്ശേരി പറമ്പ് ഡ്രൈനേജ് കം ഫുട് പാത്ത് - ബേപ്പൂർ",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ബേപ്പൂർ നിയോജക മണ്ഡലത്തിലെ വിവിധ സ്ഥലങ്ങളിൽ ലോമാസ്റ്റ് ലൈറ്റുകൾ സ്ഥാപിക്കൽ - കപ്പലങ്ങാടി ജംഗ്ഷൻ - കടലുണ്ടി ഗ്രാമ പഞ്ചായത്ത് വാർഡ്  20, ബേപ്പൂർ അങ്ങാടി – ഡിവിഷൻ 48, പൂന്നാർ വളപ്പ് – ഡിവിഷൻ 48 , ബേപ്പൂർ , തമ്പി റോഡ് ജംഗ്ഷൻ - ഡിവിഷൻ 49 ,ബേപ്പൂർ, ആലിങ്ങൽ വായനശാലയ്ക്ക് സമീപം – വാർഡ് 11 മണ്ണൂർ - കടലുണ്ടി, ചെറക്കാം കളം ജംഗ്ഷൻ - ഡിവിഷൻ 9 രാമനാട്ടുകര",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പുറശ്ശേരിത്താഴം ഡ്രൈനേജ് കവറിംഗ് സ്ലാബ് സഹിതം ചെറുവണ്ണൂർ",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "തോട്ടാംകുനി റോഡ് ഡ്രൈനേജ് കം കോൺക്രീറ്റ്  ചെറുവണ്ണൂർ",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "പിലാഞ്ചേരി റോഡ് കോൺക്രീറ്റിംഗ് ഡ്രൈനേജ് നിർമ്മാണം",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "അരക്കിണർ മത്സ്യ മാർക്കറ്റ് - കുറ്റിവയൽ റോഡ് ഡ്രൈനേജ് -ബേപ്പൂർ",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "നടുവട്ടം രാജീവൻ സ്തൂപം റോഡ്  ഡ്രൈനേജ് കവറിംഗ് സ്ലാബ് - ബേപ്പൂർ",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കടലുണ്ടി നെഴ്സറി സ്കൂൾ പൂർത്തീകരണം - കടലുണ്ടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "അരക്കിണർ റെയിൽവെ ലൈൻ റോഡ് - വിജിത്ത് ലിങ്ക്റോഡ് ഡ്രൈനേജ് നിർമ്മാണം - ബേപ്പൂർ",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ബിസി റോഡ് വെസ്റ്റ് ഡ്രൈനേജ് - ബേപ്പൂർ",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "നിയോജക മണ്ഡലത്തിലെ വിവിധ സ്ഥലങ്ങളിൽ ഹൈമാസ്റ്റ് / ലോമാസ്റ്റ് ലൈറ്റുകൾ സ്ഥാപിക്കൽ  - ഫറോക്ക് താലൂക്ക് ആശുപത്രിക്ക് മുൻവശം (ഹൈ മാസ്റ്റ്) ,    ലോ മാസ്റ്റ് ലൈറ്റുകൾ - കാരട്ടിപ്പാടം  ഫറോക്ക് ഡിവിഷൻ - 16, കൊളത്തോട് – പെരുമുഖം - ഫറോക്ക് ഡിവിഷൻ - 24, ഫറോക്ക് താഴെ സ്കൂളിനുസമീപം മുഖാമുഖം സ്റ്റാൻറ്, വെസ്റ്റ് നല്ലൂർ പൂത്തോളം ജംഗ്ഷൻ ഫറോക്ക് ഡിവിഷൻ - 3, കടലുണ്ടി ആലുംകുളം ജംഗ്ഷൻ   വാർഡ് 7, കോലാർകുന്ന് ജംഗ്ഷൻ  രാമനാട്ടുകര ഡിവിഷൻ 12. പാലക്കാപറമ്പ് രാമനാട്ടുകര ഡിവിഷൻ 17",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 19.95
+        },
+        {
+            "project_name": "അയ്യംമ്പാക്കൽ റോഡ് സൈഡ് കെട്ടി പാലം നിർമ്മാണം  - രാമനാട്ടുകര നഗരസഭ",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "കൃഷിഭവൻ റോഡ് ഡ്രൈനേജ് നിർമ്മാണം – രാമനാട്ടുകര നഗരസഭ",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കോരംപറമ്പ്  പാച്ചീരിതാഴം റോഡ് ഡ്രൈനേജ് ഉൾപ്പടെ - രാമനാട്ടുകര നഗരസഭ",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കടലുണ്ടി ഹെൽത്ത് സബ് സെൻറർ പൂർത്തീകരണം -  കടലുണ്ടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "വളാഞ്ചേരി റോഡ് -  കടലുണ്ടി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "തണ്ണിച്ചാൽ കറുത്തേടത്ത് മുതുവാട്ടു പാറ റോഡ്- ഫറോക്ക് നഗരസഭ",
+            "implementing_agency": "Secretary, Feroke Municipality",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കരുവൻതിരുത്തി ജി.എം.എൽ.പി സ്കൂൾ നെടുംപുറം റോഡ് വട്ടം പറമ്പത്ത് ഡ്രൈനേജ്- ഫറോക്ക് നഗരസഭ",
+            "implementing_agency": "Secretary, Feroke Municipality",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "നല്ലൂർ എടക്കഴി റോഡ് - ഫറോക്ക് മുൻസിപാലിറ്റി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കടലുണ്ടി കമ്മ്യൂണിറ്റി ഹാൾ പൂർത്തീകരണം - കടലുണ്ടി",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "പൂണാര്‍‌ വളപ്പ് ഡ്രൈനേജ് പ്രവൃത്തി, ബേപ്പൂര്‍",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കിഴുവനപ്പാടം ഡ്രൈനേജ് നവീകരണ പ്രവൃത്തി, ചെറുവണ്ണൂര്‍",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 28.4
+        },
+        {
+            "project_name": "സാഗരസരണി മുത്താച്ചിക്കുളം റോഡ് ,  ബേപ്പൂര്‍",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ഗവ. ഗണപത് ഹയര്‍ സെക്കണ്ടറി സ്കൂള്‍ യു.പി. വിഭാഗം കെട്ടിടത്തിന്‍റെ പ്രവൃത്തി പൂര്‍ത്തീകരണം, ഫറോക്ക്, കോഴിക്കോട്",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "തരിപ്പണം പാലം നിര്‍മ്മാണം പൂര്‍ത്തീകരണം - രണ്ടാം ഘട്ടം",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "എ.പി. റോഡ് ഡ്രൈനേജ് നവീകരണം, കരുവന്‍തിരുത്തി, ഫറോക്ക് മുനിസിപ്പാലിറ്റി",
+            "implementing_agency": "Secretary, Feroke Municipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "രാജീവന്‍ സ്തൂഭം റോഡ് ഡ്രൈനേജ് നവീകരണം  - നടുവട്ടം,ബേപ്പൂര്‍",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.4,
+            "concurrence_lakhs": 15.4
+        },
+        {
+            "project_name": "മഞ്ഞിലപ്പാടം റോഡ്  ഡ്രൈനേജ് നവീകരണം - ചെറുവണ്ണൂര്‍",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ചുങ്കം എളയിടത്ത് താഴം റോഡ് സൈഡ് കെട്ടല്‍ - പാലം നിര്‍മ്മാണവും, രാമനാട്ടുകര മുനിസിപ്പാലിറ്റി",
+            "implementing_agency": "Secretary, Ramanatukara Municipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "അരക്കിണര്‍ കുറ്റിയില്‍ റോഡ് നവീകരണം, ബേപ്പൂര്‍",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "അരക്കിണര്‍  കുറ്റിയില്‍ റോഡ് നവീകരണ പ്രവൃത്തി",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കടലുണ്ടി കമ്മ്യൂണിറ്റി ഹാള്‍ പൂര്‍ത്തീകരണം, ഫര്‍ണ്ണീച്ചര്‍ ഉള്‍പ്പെടെ , കടലുണ്ടി ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 100.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പണിക്കര്‍ പറമ്പ് കുന്നുമ്മല്‍ റോഡ് - വാര്‍ഡ് - 4",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പള്ളിത്താഴം - കൊയ്ത്തലപ്പാടം പാത്ത് വേ ,  രാമനാട്ടുകര മുനിസിപ്പാലിറ്റി",
+            "implementing_agency": "Secretary, Ramanatukara Municipality",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കിഴക്കുംമ്പാടം -  ശിവപുരി ഡ്രൈനേജ് കോണ്‍ക്രീറ്റ്, ഇന്‍റര്‍ലോക്ക്",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "ന്യൂകോളനി റോഡ്, ചെറുവണ്ണൂര്‍",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ആറാംകണ്ടം - ചെരാല്‍കാവ് ഡ്രൈനേജ് - കൊളത്തറ II nd,  ചെറുവണ്ണൂര്‍",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ആമാംകുനിതോട് മുതല്‍ തോണിച്ചിറ വരെ തോടിന്‍റെ ബാക്കി ഭാഗം സൈഡ് കെട്ടല്‍, ചെറുവണ്ണൂര്‍",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ചോപ്പംകണ്ടി റോഡ് ടാറിങ്ങ്, ചെറുവണ്ണൂര്‍",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "വാഴച്ചാല്‍ ഡ്രൈനേജ് കം റോഡ്, ബേപ്പൂര്‍",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ചെറുവണ്ണൂര്‍ കണ്ണാട്ടിക്കുളം റോഡ്, ചെറുവണ്ണൂര്‍ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "അത്തോളിത്താഴം പാണ്ടികശ്ശാല റോഡ്, രാമനാട്ടുകര മുനിസിപ്പാലിറ്റി",
+            "implementing_agency": "Secretary, Ramanatukara Municipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "അത്തോളിത്താഴം പാണ്ടികശ്ശാല റോഡ്, രാമനാട്ടുകര മുനിസിപ്പാലിറ്റി",
+            "implementing_agency": "Secretary, Ramanatukara Municipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തരിപ്പണം പാലം നിര്‍മ്മാണം, കോഴിക്കോട് കോര്‍പ്പറേഷന്‍, ഡിവിഷന്‍ 52",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "അരക്കിണര്‍ റെയില്‍വേ ലൈന്‍ റോഡ്, കോഴിക്കോട് കോര്‍പ്പറേഷന്‍ ഡിവിഷന്‍ 52",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കടലുണ്ടി ഗ്രാമ പഞ്ചായത്തിലെ കമ്മ്യൂണിറ്റി ഹാള്‍ പ്രവൃത്തി പൂര്‍ത്തീകരണം",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2021-2022",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "kozhikode_shri_pa_mohamed_riyas_placeholder"
+}

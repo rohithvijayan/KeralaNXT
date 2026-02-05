@@ -1,0 +1,893 @@
+{
+    "mla_name": "Shri. A.K.M Ashraf",
+    "constituency": "MANJESHWAR",
+    "district": "Kannur",
+    "summary": {
+        "total_expenditure_crores": 25.8626,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 15.807
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 3.6333
+            },
+            {
+                "label": "Education",
+                "value_crores": 1.7136
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 1.7
+            },
+            {
+                "label": "Others",
+                "value_crores": 1.4997
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.7
+            },
+            {
+                "label": "Water Supply",
+                "value_crores": 0.609
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.2
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "പെർനെ - സൂരംബയൽ റോഡ് 30 ലക്ഷം (പുത്തിഗെ ഗ്രാമപഞ്ചായത്ത്)",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കനിയാലെ ബംഗ്ലേ - കറുവാജെ റോഡ് 20 ലക്ഷം (പൈവളികെ ഗ്രാമപഞ്ചായത്ത്)",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഗുലുങ്കിരി - മുന്നൂർ റോഡിൽ 2 സ്ഥലങ്ങളിൽ കലുങ്ക് നിർമ്മാണവും ആവശ്യമായ ഡ്രൈനേജ് നിർമ്മാണവും - 20 ലക്ഷം (പൈവളികെ ഗ്രാമപഞ്ചായത്ത്)",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചവർക്കാട് - മളി റോഡ് നിർമ്മാണം - 20 ലക്ഷം ( എൻമകജെ ഗ്രാമപഞ്ചായത്ത്)",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മണിയംപാറ - സി എച്ച് സ്ട്രീറ്റ് റോഡ് - 20 ലക്ഷം ( പുത്തിഗെ ഗ്രാമപഞ്ചായത്ത്)",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മഞ്ചേശ്വരം നിയോജകമണ്ഡലത്തിലെ 4 പഞ്ചായത്തുകളിലെ 40 സ്ഥലങ്ങളിൽ മിനിമാസ്റ്റ് / ഹൈമാസ്റ്റ് ലൈറ്റുകൾ സ്ഥാപിക്കൽ - 80 ലക്ഷം - 2025-26 ( പുത്തിഗെ, പൈവളികെ, മീഞ്ച, എൻമകജെ ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 80.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മഞ്ചേശ്വരം നിയോജക മണ്ഡലത്തിലെ 4 പഞ്ചായത്തുകളിലെ 39 കേന്ദ്രങ്ങളിൽ മിനി മാസ്റ്റ് / ഹൈമാസ്റ്റ് ലൈറ്റുകൾ സ്ഥാപിക്കൽ - 85 ലക്ഷം - 2025-26 ( മംഗൽപാടി, മഞ്ചേശ്വരം, കുമ്പള, വോർക്കാടി ഗ്രാമ പഞ്ചായത്തുകൾ)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 85.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മഞ്ചേശ്വരം നിയോജക മണ്ഡലത്തിലെ 4 പഞ്ചായത്തുകളിലെ 39 കേന്ദ്രങ്ങളിൽ മിനി മാസ്റ്റ് / ഹൈമാസ്റ്റ് ലൈറ്റുകൾ സ്ഥാപിക്കൽ - 85 ലക്ഷം -  2025-26 ( മംഗൽപാടി, മഞ്ചേശ്വരം, കുമ്പള, വോർക്കാടി ഗ്രാമ പഞ്ചായത്തുകൾ)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 85.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "GVHSS ഹേരൂർ മീപ്പിരി സ്കൂളിൽ കളിസ്ഥലം നിർമ്മാണം - 20 ലക്ഷം - മംഗൽപാടി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Director of Sports and Youth Affairs",
+            "category": "Sports",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മംഗൽപാടി - ബാഡൂർ PWD റോഡിലെ പച്ചമ്പള ടൌണിൽ PWD റോഡിനോട് ചേർന്ന് ഡ്രൈനേജ് നിർമ്മാണം - 25 ലക്ഷം",
+            "implementing_agency": "PWD Roads Divsion Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "പുത്തിഗെ ജുമാ മസ്ജിദ് റോഡ് 15 ലക്ഷം (പുത്തിഗെ പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ജിപിഎം ലൈബ്രറി-മഹാകാളി റോഡ് - 10 ലക്ഷം (മഞ്ചേശ്വരം പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കടമ്പാർ-കട്ട-സന്ഖബയൽ റോഡ് - 15 ലക്ഷം ( മീഞ്ച പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "മഞ്ചേശ്വരം പഞ്ചായത്തിലെ GLPS ബഡാജെ സ്കൂളിൽ റൂഫ് ഷീറ്റോട് കൂടി അസംബ്ലി പവലിയൻ നിർമ്മാണം - 10 ലക്ഷം",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഗാന്ധി നഗർ ദർഗ്ഗ റോഡ് - ഡ്രൈനേജ് നിർമ്മാണം 15 ലക്ഷം",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "സിദ്ധിവയൽ-കണ്ണൂർ ജുമാ മസ്ജിദ് റോഡ് - 30 ലക്ഷം - (പുത്തിഗെ പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പൈവളികെ-അച്ചിക്കര റോഡ് - 20 ലക്ഷം - (പൈവളികെ പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഗുളിങ്കിരി-മുന്നൂർ റോഡ് - 20 ലക്ഷം - (പൈവളികെ പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഒബർള-ജുമാ മസ്ജിദ് റോഡ് - 15 ലക്ഷം - (മംഗൽപാടി പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ഉക്കിനടുക്ക-പാറ റോഡ് - 20 ലക്ഷം -(എന്മകജെ പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 15.2
+        },
+        {
+            "project_name": "കുണ്ടക്കട്ടെ-പൊസഡ്ക്ക റോഡ് - 20 ലക്ഷം - (എന്മകജെ പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കൊപ്പള-മുടിമാർ റോഡ് - 10 ലക്ഷം - (വൊർക്കാടി പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ധർമ്മനഗർ പാട റോഡ് നിർമ്മാണം - 10 ലക്ഷം - (വൊർക്കാടി പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "നടിബയൽ മലർ തോടിന് കുറുകെ ചെറുപാലം നിർമ്മാണം 30 ലക്ഷം ( വോർക്കാടി ഗ്രാമപഞ്ചായത്ത് )",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കൊടിയമ്മ സ്കൂള്‍ റോഡ്‌ കോണ്‍ക്രീറ്റ് & ഇന്‍റര്‍ലോക്ക്",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "മംഗല്‍പാടി ഗ്രാമപഞ്ചായത്തിലെ എന്‍എച്ച്‌ 66-ഷിറിയ സ്കൂള്‍-പുതിയങ്ങാടി റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പേരാല്‍ കണ്ണൂരിലെ മധു വാഹിനി പുഴയുടെ (മൊഗ്രാല്‍ പുഴ) തീരമായ തുരുത്തി -ചായ്കുണ്ട് -കുതിര്‍ എന്ന പ്രദേശത്ത് 150 ഓളം മീറ്റര്‍ നീളത്തില്‍ സംരക്ഷണ ഭിത്തി നിര്‍മ്മിക്കാന്‍ (പുത്തിഗെ ഗ്രാമ പഞ്ചായത്ത്‌ വാര്‍ഡ്‌ 9)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പടിഞ്ഞാര്‍ റോഡ്‌ ഡ്രെയിനേജും റോഡും , മഞ്ചേശ്വരം ഗ്രാമ പഞ്ചായത്ത്‌",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 34.5
+        },
+        {
+            "project_name": "കാടിയാര്‍(ബങ്കര, മഞ്ചേശ്വരം  ഗ്രാമ പഞ്ചായത്ത്‌) കുടിവെള്ള പദ്ധതി",
+            "implementing_agency": "Executive  Engineer, Water AuthorIty, PH Division,kasaragod",
+            "category": "Water Supply",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.5,
+            "concurrence_lakhs": 16.1
+        },
+        {
+            "project_name": "10 സ്ഥലങ്ങളില്‍ മിനിമാസ്റ്റ്/ഹൈമാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കുന്നത് -തലക്കി(വോര്‍ക്കടി ഗ്രാമ പഞ്ചായത്ത്‌), ശാഫി അക്കാദമിക്ക് സമീപം , ബംബ്രണ ബത്തേരി മസ്ജിദിനു സമീപം , പികെ നഗര്‍ പാറ പ്രേംനഗര്‍, ബംബ്രണ ജങ്ങ്ഷന്‍(ഹൈമാസ്റ്റ്), FWC മൂന്ന് ഗോളി ജങ്ങ്ഷന്‍, ചാലിയങ്കോട് ജങ്ങ്ഷന്‍, മസ്ജിതുല്‍ ഇല്‍മൊഗ്രാല്‍, പടത്ത മുഗള്‍ ജുമാ മസ്ജിദ് , GJBS മുഗു സ്കൂള്‍ സമീപം,",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.8,
+            "concurrence_lakhs": 22.8
+        },
+        {
+            "project_name": "മജീര്‍പള്ള -കുണ്ടടുക്ക റോഡ്‌ നിര്‍മ്മാണം , മീഞ്ച ഗ്രാമ പഞ്ചായത്ത്‌",
+            "implementing_agency": "PWD Roads Divsion Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "ബാളിയൂര്‍-അര്‍ച്ചാര്‍-കൊടിമാര്‍ റോഡ്‌ നിര്‍മ്മാണം, മീഞ്ച ഗ്രാമ പഞ്ചായത്ത്‌",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 5.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കൊടിബായല്‍ എല്‍ പി സ്കൂള്‍ റോഡ്‌ നിര്‍മ്മാണം, മംഗല്‍പാടി ഗ്രാമ പഞ്ചായത്ത്‌",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഹൈസ്കൂള്‍ -ലക്ഷ്മി നിവാസ് റോഡ്‌ , മഞ്ചേശ്വരം  ഗ്രാമ പഞ്ചായത്ത്‌",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 27.5,
+            "concurrence_lakhs": 25.4
+        },
+        {
+            "project_name": "ബോളുഗുഡ്ഡെ  ഗവണ്മെന്റ് ലാന്‍ഡ്‌ റോഡ്‌ , മഞ്ചേശ്വരം ഗ്രാമ പഞ്ചായത്ത്‌",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഒത്തരബെയില്‍ സുദമ്പളകോടി റോഡ്‌, പൈവളിഗെ ഗ്രാമ പഞ്ചായത്ത്‌",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മുഗു ബാങ്ക്  സങ്കായം മസ്ജിദ് റോഡ്‌  (പുത്തിഗെ ഗ്രാമപഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 65.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കൊമ്മങ്കള ഓട്ടപടപ്പ് റോഡ്‌, പൈവളിഗെ ഗ്രാമ പഞ്ചായത്ത്‌",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ദുര്‍ഗ്ഗിപള്ള കനില റോഡ്‌,മഞ്ചേശ്വരം ഗ്രാമ പഞ്ചായത്ത്‌",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "സൂഫി നഗര്‍ കുടിവെള്ള പദ്ധതി, വോര്‍ക്കാടി ഗ്രാമ പഞ്ചായത്ത്‌",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Water Supply",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ദീനാര്‍ ഗുത്തു റോഡ്‌, മംഗല്‍പാടി ഗ്രാമ പഞ്ചായത്ത്‌",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ഖണ്ടേരി കൊണ്ടല്‍ക്കാന റോഡ്‌ എന്മകജെ ഗ്രാമ പഞ്ചായത്ത്‌",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മണിയംപാറ നീരോല്യം റോഡ്‌, എന്മകജെ ഗ്രാമ പഞ്ചായത്ത്‌",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ബദ്രിയ മഗര്‍ അങ്കന്‍വാടി-ബേദ്രമ്പാടി സൌത്ത് റോഡ്‌-കുമ്പള ഗ്രാമ പഞ്ചായത്ത്‌",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പെര്‍വാഡ്‌ ജുമാമസ്ജിദ് റോഡ്‌, കുമ്പള ഗ്രാമ പഞ്ചായത്ത്‌",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മുണ്ടപള്ളം ബല്ലംമ്പാടി കെ ജി എന്‍ റോഡ്‌",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "അമേക്കള-മജല്‍ റോഡ്( എന്‍മകജെ ഗ്രാമ പഞ്ചായത്ത്-2024-2025 )",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 16.9
+        },
+        {
+            "project_name": "എന്‍ എച്ച് മുതല്‍ വേസ്റ്റ്  വാട്ടര്‍ പ്ലാന്റ് റോഡ് ‍ഡ്രൈനേജും റോഡും( മംഗല്‍പ്പാടി ഗ്രാമ പഞ്ചായത്ത് -2024-2025)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കടമജല‍്‍ -മലാര്‍ ടെമ്പിള്‍ റോഡ്(വോര്‍ക്കാടി ഗ്രാമ പഞ്ചായത്ത്-2024-2025)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "'ഒരു പഞ്ചായത്തിൽ ഒരു കളിക്കളം' മഞ്ചേശ്വരം ഗ്രാമ പഞ്ചായത്ത് ഗ്രൌണ്ട് അഭിവൃദ്ധപ്പെടുത്തൽ",
+            "implementing_agency": "Director of Sports and Youth Affairs",
+            "category": "Sports",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "MLA ADS MANJESHWAR 2023-24 ബട്യപദവ് ബാബാളിഗെ കുമ്പാർ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.67,
+            "concurrence_lakhs": 10.67
+        },
+        {
+            "project_name": "മഞ്ചേശ്വരം എം.എൽ.എ 2023-24 ഫണ്ട് വിനിയോഗം- 7 സ്ഥലങ്ങളിൽ  മിനി മാസ്റ്റ് ലൈറ്റ്",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എം എൽ എ എ ഡി എസ് മഞ്ചേശ്വരം   2023-24 ബോർക്കള  ലെക്രിക്കാട് റോഡ് \r\n(വോർക്കാടി  GP)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "എം.എൽ.എ  ആസ്തി  വികസന  ഫണ്ട്  മഞ്ചേശ്വരം 2023-24 - എൻ.എച്ച് 17-  ബി.എസ് നഗർ റോഡ്",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 38.0,
+            "concurrence_lakhs": 38.0
+        },
+        {
+            "project_name": "മഞ്ചേശ്വരം നിയോജക മണ്ഡലം MLA-ADS 2023-24  മഞ്ചേശ്വരം നിയോജക മണ്ഡലത്തിലെ 4 പഞ്ചായത്തുകളിലായി 51 കേന്ദ്രങ്ങളിൽ മിനിമാസ്റ്റ്/ഹൈ മാസ്റ്റ് ലെറ്റുകൾ സ്ഥാപിക്കൽ",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 99.33,
+            "concurrence_lakhs": 99.33
+        },
+        {
+            "project_name": "മഞ്ചേശ്വരം എം എൽ എ എ ഡി എസ് 2023-24 GWLPS മഞ്ചേശ്വരം  സ്കൂളിന് കളി സ്ഥലം,ഗേറ്റ്,കമാനം ഉൾപ്പെടെയുള്ള അടിസ്ഥാന-ഭൌതിക സൌകര്യ നിര്‍മ്മാണം (മഞ്ചേശ്വരം ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മഞ്ചേശ്വരം നിയോജകമണ്ഡല ആസ്തി വികസന പദ്ധതി 2022-2023 ദുർഗ്ഗിപ്പള്ള ക്രോസ് മുതൽ ഗൌസിയ്യ നഗർ റോഡ് (മഞ്ചേശ്വരം ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മഞ്ചേശ്വരം നിയോജകമണ്ഡല ആസ്തി വികസന പദ്ധതി 2022-2023 ദുർഗ്ഗിപ്പള്ള ക്രോസ് മുതൽ ഗൌസിയ്യ നഗർ റോഡ് (മഞ്ചേശ്വരം ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മഞ്ചേശ്വരം നിയോജകമണ്ഡല ആസ്തി വികസന പദ്ധതി 2022-2023 ദുർഗ്ഗിപ്പള്ള ക്രോസ് മുതൽ ഗൌസിയ്യ നഗർ റോഡ് (മഞ്ചേശ്വരം ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 19.5,
+            "concurrence_lakhs": 19.5
+        },
+        {
+            "project_name": "മഞ്ചേശ്വരം നിയോജകമണ്ഡല ആസ്തി വികസന പദ്ധതി 2022-2023 ന്യൂ സ്റ്റാർ ഗ്രൌണ്ട് റോഡ് (മഞ്ചേശ്വരം ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 19.4,
+            "concurrence_lakhs": 19.4
+        },
+        {
+            "project_name": "മഞ്ചേശ്വരം  MLA ADS 2023-24 അട്ക്ക-മർത്യാ റോഡ് എന്മകജെ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മഞ്ചേശ്വരം  M L A ആസ്തി വികസന ഫണ്ട് വിനിയോഗം 2022-23  - പൈവളിക പഞ്ചായത്ത് സ്റ്റേഡിയം നവീകരണം",
+            "implementing_agency": "Executive Engineer PWD (buildings) Division  Kasaragod)",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "MANJWESARAM എം.എൽ.എ ആസ്തി വികസന ഫണ്ട് 2022-23  പെരിങ്കടി ശാസ്ത്രേശ്വര ക്ഷേത്രം റോഡ്",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 23.8,
+            "concurrence_lakhs": 23.8
+        },
+        {
+            "project_name": "എം.എൽ. എ  മഞ്ചേശ്വരം-ADS-  സൂരംബയലിലെ എടനാട് ക്ഷീരോൽപ്പാദക സഹകരണ സംഘത്തിന് കെട്ടിടം നിർമ്മിക്കുന്നതിന്  (പുത്തിഗെ ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive Engineer PWD (buildings) Division  Kasaragod)",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മഞ്ചേശ്വരം നിയോജക മണ്ഡലം  എം എൽ എ എഡിഎസ് 2023-24 -കോയിപ്പാടി കടപ്പുറത്ത് കുടിവെള്ള പദ്ധതി (കുമ്പള ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive  Engineer, Water AuthorIty, PH Division,kasaragod",
+            "category": "Water Supply",
+            "fy": "2023-2024",
+            "estimate_lakhs": 24.4,
+            "concurrence_lakhs": 24.4
+        },
+        {
+            "project_name": "എം എൽ എ എ ഡി എസ് മഞ്ചേശ്വരം 2023-24-സ്കുളുകൾക്ക് ബസ് വാങ്ങുന്നതിന്  (ആകെ 68 ലക്ഷം) -GHSS Paivalike Nagar-25 ലക്ഷം,GBLPS Bombrana 18 ലക്ഷം, GVHSS HEROOR 25 ലക്ഷം",
+            "implementing_agency": "Deputy Director of Education,civil station,kasaragod",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 68.0,
+            "concurrence_lakhs": 68.0
+        },
+        {
+            "project_name": "എം എൽ എ എ ഡി എസ് മഞ്ചേശ്വരം 2023-24-കുമ്പള ഗ്രാമ പഞ്ചായത്ത്  അമ്പിലടുക്ക-കെ ഡബ്ള്യു എ റോഡ്",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "എം എൽ എ എ ഡി എസ് മഞ്ചേശ്വരം 2023-24 മീഞ്ച ഗ്രാമ പഞ്ചായത്ത് ദേപട്രമൂല തലക്കുള ജുമാ മസ്ജിദ് റോഡ്",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "എം എൽ എ എ ഡി എസ് മഞ്ചേശ്വരം 2023-24-പുത്തിഗെ ഗ്രാമ പഞ്ചായത്ത് മഡ്നടുക്ക-കാവേരിക്കാന റോഡ്",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 16.8,
+            "concurrence_lakhs": 16.8
+        },
+        {
+            "project_name": "എം എൽ എ എ ഡി എസ് മഞ്ചേശ്വരം 2023-24-പുത്തിഗെ ഗ്രാമ പഞ്ചായത്ത് ചോടാല-ഹരിജന കോളനി റോഡ്",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "എം എൽ എ, എ ഡി എസ് മഞ്ചേശ്വരം 2023-24-മംഗൽപാടി ഗ്രാമ പഞ്ചായത്ത് മണിമുണ്ട കടപ്പുറം ഹനുമാൽ നഗര്‍ -ബൈപാസ് റോഡ്",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "എം എൽ എ എ ഡി എസ്  മഞ്ചേശ്വരം -മംഗൽപാടി ഗ്രാമ പഞ്ചായത്ത് കണ്ണംഗുളം-  മുസോടി മസ്ജിദ് റോഡ്",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "എം എല്‍ എ എ ഡി എസ് മഞ്ചേശ്വരം 2023-24 വൊര്‍ക്കാടി ഗ്രാമ പഞ്ചായത്ത്ദൊഡ്ഡമനെ-മണ്ടേൽ ഫുട്ട്പാത്ത് നിര്‍മ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.5,
+            "concurrence_lakhs": 17.5
+        },
+        {
+            "project_name": "എം എല്‍ എ എ ഡി എസ് മഞ്ചേശ്വരം 2023-24 വൊര്‍ക്കാടി ഗ്രാമ പഞ്ചായത്ത്  മുട്ട്ള -പൊയ്യ റോഡ്",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.5,
+            "concurrence_lakhs": 17.5
+        },
+        {
+            "project_name": "2017-18 മുതല്‍ 2019-20 വരെയുള്ള ടെണ്ടര്‍ സേവിങ്ങ്സ് ഉപയോഗിച്ച് 20 സര്‍ക്കാര്‍ സ്കൂളുകള്‍ക്ക് Intel core i3 11th generation ലാപ്ടോപ്പുകള്‍ വാങ്ങുന്ന' പദ്ധതി\r\nജി വി എച്ച് എസ് എസ് കുഞ്ചത്തൂര്‍-5\r\nജി എച്ച് എസ് എസ് ബങ്കര മഞ്ചേശ്വരം-10\r\nജി എച്ച് എസ് എസ് ഉപ്പള-12\r\nജി എച്ച് എസ് എസ് മംഗല്പാടി-12\r\n\r\nജി എച്ച് എസ് എസ് ഹേരൂര്‍ മീപിറി-6\r\nജി എച്ച് എസ് എസ് ഷിറിയ-6\r\nജിഎച്ച് എസ് എസ് ബേക്കൂര്‍-8\r\nജിഎച്ച് യുപി എസ് കുര്‍ച്ചിപ്പള്ള-3\r\nജി വി എച്ച് എസ്എസ് മൊഗ്രാല്‍-20\r\nജിഎസ്ബിഎസ് കുമ്പള-7\r\nജിഎച്ച് എസ് കൊടിയമ്മ-8\r\nജിഎച്ച് എസ് കടമ്പാര്‍-6\r\nജിഎച്ച്എസ്എസ് കുമ്പള-20\r\nജിഎച്ച്എസ് ഉദ്യവര്‍-6\r\nജിഎച്ച് എസ് സൂരമ്പയില്‍-6\r\nജിഎച്ച്എസ്മൂടമ്പയില്‍-5\r\nജി എച്ച്എസ് എസ് അംഗടിമുഗര്‍-10\r\nജിഎച്ച്എസ്എസ് പട്രെ-6\r\nജിഎച്ച്എസ്എസ് പൈവളിക-6\r\nജിഎച്ച്എസ്എസ് പൈവളിക നഗര്‍-10",
+            "implementing_agency": "Deputy Director of Education,civil station,kasaragod",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 60.56,
+            "concurrence_lakhs": 60.56
+        },
+        {
+            "project_name": "മഞ്ചേശ്വരം മണ്ഡലത്തിലെ 4പഞ്ചായത്തുകളില്‍ 46 കേന്ദ്രങ്ങളിൽ മിനിമാസ്റ്റ് ലൈറ്റ്/ഹൈമാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കുന്നത്\r\n\r\n                മംഗൽപ്പാടി പഞ്ചായത്ത്\r\n\r\n1. ചെറുഗോളി സ്കൂൾ ജംഗ്ഷന\r\n2. മാലിക്ദിനാർ ഇിച്ചിലങ്കോട്(ഹൈമാസ്റ്റ്)\r\n3. ഒബർള ബദ്രിയ മസ്ജിദ്\r\n4. ഗോൾഡൻ ഖാദർ സ്റ്റേഡിയം, ക്രോസ്സ് റോഡ്( മണ്ണംകുഴി എൻട്രൻസ്)\r\n5. ബുറാക് സ്ട്രീറ്റ് ക്രോസ്സ് റോഡ്.\r\n6. പച്ചമ്പള ദർഗ്ഗ\r\n7.  ഹെരൂർ വിഷ്ണുമൂർത്തി ക്ഷേത്രം\r\n8.  ഷിറിയ ലത്തീഫിയ\r\n9.  മുളിഞ്ച ടെമ്പിൾ\r\n10. ഒളയം ജംഗ്ഷൻ\r\n11. ഗാന്ധി റോഡ് ജം:അടുക്ക\r\n \r\n                              കുമ്പള പഞ്ചായത്ത്\r\n\r\n1.  മുളിയടുക്കം ബസ് സ്റ്റോപ്പ് സമീപം\r\n2.  താഹ  മസ്ജിദ്, കുമ്പള\r\n3.  പേരാൽ പെട്ടോരി അഹ് ദലിയ മദ്രസ\r\n4.  കാരിഞ്ച ക്ഷേത്രം കളത്തൂർ\r\n5.  കാരിഞ്ച ചർച്ച് കളത്തൂർ\r\n6.  ബായിക്കട്ടെ ബുഖാരി അ്പ്പാർട്ടമെന്റ് സമീപം\r\n7.  പൂക്കട്ട കെയു ഐ എ സെന്റർ സമീപം\r\n8.  കളത്തൂർ പള്ളം ജംഗ്ഷൻ(മദീന മഖ്ദും)\r\n9.  നായക്സ് ജംഗ്ഷൻ \r\n10. എക്സൈസ് ഓഫീസ് റോഡ്\r\n11. ആരിക്കാടി പാറ സ്ഥാനം- ആലിച്ചാമുണ്ഡി ക്ഷേത്രം\r\n12. കോരത്തിൽ പള്ളി ജംഗ്ഷൻ\r\n13. മുളിയാടക്ക പെൽത്തടുക്ക ജംഗ്ഷൻ\r\n14. ബദ്രിയ നഗർ നടിബൈൽ - \r\n15. ഊജാർ ശാദുലി മസ്ജിദ്\r\n16. അൽഹിദായ മസ്ജിദ് ചൂരിത്തടുക്ക\r\n17. കോയിപ്പാടി ജംഗ്ഷൻ\r\n                          \r\n                                  മീഞ്ച പഞ്ചായത്ത്\r\n\r\n1. ലേഡി ഫാത്തിമ ചർച്ച് മിയപ്പദവ്\r\n2. ബാളിയൂർ\r\n3. കടമ്പാർ മില്ല്/ഗാന്ധി കടമ്പാര്‍\r\n4. മുന്നിപ്പാടി ജുമാ മസ്ജിദ്\r\n5. ബലിപ്പഗുലി 7 ാം മൈൽ\r\n6. ദുർഗ്ഗിപ്പള്ള ജംഗ്ഷൻ\r\n7. ബല്ലഗുഡേൽ ക്ഷേത്രം\r\n8. നേക്കാരെക്കടെ ചിഗ്രുപദെ\r\n9. ബട്ടിപ്പദവ് പള്ളി\r\n\r\n                              പൈവളിഗെ പഞ്ചായത്ത്\r\n\r\n1. മുന്നൂർ\r\n2. സ്വാബിരി മസ്ജിദ് കളിയാർ\r\n3. പൊന്നങ്കള- മുളിഗദ്ദെ\r\n4. അട്ടഗോളി\r\n5. കയാർക്കട്ടെ\r\n6. ബായിക്കട്ടെ \r\n7. കെ കെ നഗർ\r\n8. ബള്ളൂർ ജംഗ്ഷൻ\r\n9. പെട്രോൾ പമ്പ് പെർമൂദ",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 90.0,
+            "concurrence_lakhs": 90.0
+        },
+        {
+            "project_name": "ബേക്കൂര്‍ ഇരിങ്ങപദവ് റോഡ്‌ (മംഗല്‍പാടി പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചെറുവല്‍ -കാപ്പു മണ്ടേകാപ്പു റോഡ്‌(മംഗല്‍പാടി  പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ദണ്ഡഗോളിയില്‍ ആധുനിക രീതിയിലുള്ള ബസ് കാത്തിരിപ്പ്‌ കേന്ദ്രം",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 12.53
+        },
+        {
+            "project_name": "കോരിത്തല റോഡ്‌(കുമ്പള ഗ്രാമ പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പേരാല്‍ വയല്‍-മടിമുഗര്‍ റോഡ്‌(കുമ്പള ഗ്രാമ പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ഷേഡിഗദ്ദെ ക്രോസ്സ് റോഡ്‌ നിർമ്മാണം(കുമ്പള ഗ്രാമ പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ചൌക്കി (കെ ജെ എം-മച്ചമ്പാടി ) റോഡ്‌ (മഞ്ചേശ്വരം പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മെട്രോ ഫര്‍ണിച്ചര്‍ -കുച്ചിക്കാട് ക്രോസ് റോഡ്‌(മഞ്ചേശ്വരം പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ബോലമാടഗുരി -തട്ടരബളപു റോഡ്‌ -(വോര്‍ക്കാടി  പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കെദുമ്പാടി പദവ് -ബാബരക്കോടി റോഡ്‌(വോര്‍ക്കാടി പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ബാളിയൂര്‍-അരികട്ടെ റോഡ്‌-(മീഞ്ച പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "സുന്ദരഗുളി-ബാളിയൂര്‍റോഡ്‌ (മീഞ്ച പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പാടടുക്ക-ഉപ്പിന റോഡ് (പുത്തിഗെ പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "തുര്‍ക്കമൂല-കന്തല്‍ റോഡ്‌ (പുത്തിഗെ പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കുദിരട്ക്ക -കങ്കിനമൂല -ദര്‍ബഡുക്ക റോഡ്‌(എന്മകജെ ഗ്രാമപഞ്ചായത്ത്)",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "പള്ളം ആയുര്‍വേദിക് സബ്സെന്‍റ്റിനു കെട്ടിടം(എന്മകജെ ഗ്രാമപഞ്ചായത്ത്)",
+            "implementing_agency": "Executive Engineer PWD (buildings) Division  Kasaragod)",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 29.0,
+            "concurrence_lakhs": 29.0
+        },
+        {
+            "project_name": "പൈവളിക ഗ്രാമപഞ്ചായത്ത് സ്റ്റേഡിയം വികസനം",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മഞ്ചേശ്വരം ലോ കോളേജ് ക്യാമ്പസില്‍ ക്ലാസ് മുറി കെട്ടിടനിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer PWD (buildings) Division  Kasaragod)",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 51.0,
+            "concurrence_lakhs": 50.84
+        },
+        {
+            "project_name": "ചർച്ച് കൃഷ്ണ നഗർ ഷെടിഗുമ്മെ റോഡ് കോൺക്രീറ്റ്",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ചര്‍ച്ച് -ഷേഡിമൂല -എസ്ജി കെ റോഡ്‌ കോണ്‍ക്രീറ്റ്(കുമ്പള ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പേരാൽ-പൊട്ടേരി ഹിൽടോപ്പ് റോഡ് (കുമ്പള ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മൂകസങ്കായം ജുമാമസ്ജിദ്  -അദുക്ക റോഡ്‌ കോണ്ക്രീറ്റ് (പുത്തിഗെ ഗ്രാമ പഞ്ചായത്ത് )",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഉക്കിനടുക്ക -പാറ റോഡ്‌ (എന്മകജെ ഗ്രാമ പഞ്ചായത്ത് )",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മജീര്‍ പള്ള-പടുമൂല റോഡ്‌ (മീഞ്ച ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ധര്‍മനഗര്‍ -പാഡ റോഡ്‌ കോണ്ക്രീറ്റ് (വോര്‍ക്കാടി ഗ്രാമ പഞ്ചായത്ത് )",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഗാളിയടുക്ക് -ദുമഗുളി റോഡ്‌ കോണ്ക്രീറ്റ് (പൈവളികെ  ഗ്രാമപഞ്ചായത്ത് )",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കടമ്പാര്‍-ഇടിയ റോഡില്‍  കള്‍വര്‍ട്ടും റോഡും ഡ്രൈനേജും (മഞ്ചേശ്വരം ഗ്രാമ പഞ്ചായത്ത് )",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മണ്ണംകുഴി-തെക്കെക്കുന്ന് റോഡ് (മംഗല്‍പാടി ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഹുബുള്ളി റോഡ്‌  കോണ്‍ക്രീറ്റ് (മംഗൽപാടി ഗ്രാമ പഞ്ചായത്ത് )",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "kannur_shri_akm_ashraf_placeholder"
+}

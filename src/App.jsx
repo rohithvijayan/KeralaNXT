@@ -22,6 +22,7 @@ const UnionBudgetHighlights = lazy(() => import('./pages/UnionBudgetHighlights')
 const UnionSectorwiseAllocation = lazy(() => import('./pages/UnionSectorwiseAllocation'))
 const UnionBudgetComparison = lazy(() => import('./pages/UnionBudgetComparison'))
 const MLAFundLandingPage = lazy(() => import('./pages/MLAFundLandingPage'))
+const MLADashboardPage = lazy(() => import('./pages/MLADashboardPage'))
 import { Analytics } from "@vercel/analytics/react"
 import BottomNav from './components/BottomNav'
 
@@ -49,6 +50,7 @@ function App() {
                     <Route path="/union-sector-allocation" element={<UnionSectorwiseAllocation />} />
                     <Route path="/union-budget-comparison" element={<UnionBudgetComparison />} />
                     <Route path="/mla-fund" element={<MLAFundLandingPage />} />
+                    <Route path="/mla-fund-dashboard" element={<MLADashboardPage />} />
                 </Routes>
             </Suspense>
             <BottomNav />

@@ -1,0 +1,625 @@
+{
+    "mla_name": "Shri P. J. Joseph",
+    "constituency": "THODUPUZHA",
+    "district": "Idukki",
+    "summary": {
+        "total_expenditure_crores": 21.0724,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 15.6229
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 2.8666
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 1.085
+            },
+            {
+                "label": "Others",
+                "value_crores": 0.8979
+            },
+            {
+                "label": "Education",
+                "value_crores": 0.6
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "വണ്ണപ്പുറം ഗ്രാമപഞ്ചായത്തിലെ മുള്ളരിങ്ങാട് റേഞ്ചിനു കീഴിൽ എടത്തന അരീപ്ലാക്കൽ പുരയിടം മുതൽ എടത്തന കുത്ത് വരെയും (1 കിലോമീറ്റർ) പൂവത്തും കോളനി ഭാഗത്തും (2.1 കിലോമീറ്റർ) സോളാർ ഹാംഗിംഗ് ഫെൻസിംഗ് സ്ഥാപിക്കൽ",
+            "implementing_agency": "Divisional Forest Officer, Kothamangalam",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 29.4,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വെള്ളിയാമറ്റം ഗ്രാമപഞ്ചായത്ത് (വാർഡ് - 1) കൊന്താലപള്ളി - മുപ്പതേക്കർ റോഡ് നിർമ്മാണം - 10 ലക്ഷം രൂപ, ലത്തീൻപള്ളി - പുളിയാനിത്തണ്ട് (വാർഡ് - 12) റോഡ് നിർമ്മാണം - 12 ലക്ഷം രൂപ, മറുകുംമല (വാർഡ് - 13) റോഡ് നിർമ്മാണം - 10 ലക്ഷം രൂപ (ആകെ 32 ലക്ഷം രൂപ)",
+            "implementing_agency": "Secretary velliyamattom Grama panchayath",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 32.0,
+            "concurrence_lakhs": 32.0
+        },
+        {
+            "project_name": "പുറപ്പുഴ ഗ്രാമപഞ്ചായത്ത് (വാർഡ് 13) കണ്ണാടികണ്ടം വട്ടക്കുഴി റോഡ് നിർമ്മാണം - 12 ലക്ഷം രൂപ, മഠം ജംഗ്ഷൻ - ഇരുട്ടുതോട് (വാർഡ് - 2) റോഡ് നിർമ്മാണം - 10 ലക്ഷം രൂപ, പുറപ്പുഴ ഗ്രാമപഞ്ചായത്ത് (വാർഡ് - 4) ഇടയാടി - കല്ലുവെട്ടം, കാക്കനാട്ട് -അപ്പംതോട്ടം, കൃഷിഭവൻ മിച്ചനാട്ട് - മുളയ്ക്കതൊണ്ടിൽ, പാനിപ്ര റോഡ് എന്നീ റോഡുക ളുടെ നിർമ്മാണം - 10.48 ലക്ഷം രൂപ (ആകെ 32.48 ലക്ഷം രൂപ)",
+            "implementing_agency": "Secretary, Purapuzha Grama Panchayath",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 32.48,
+            "concurrence_lakhs": 32.48
+        },
+        {
+            "project_name": "പുറപ്പുഴ ഗ്രാമപഞ്ചായത്തിലെ  നെടുമ്പാറ ജലസംഭരണിയിൽ  പമ്പ് സെറ്റ് (60 എച്ച് പി) സ്ഥാപിക്കൽ",
+            "implementing_agency": "Executive Engineer, Kerala Water Authority, Thodupuzha",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 28.0,
+            "concurrence_lakhs": 27.95
+        },
+        {
+            "project_name": "തൊടുപുഴ ജില്ലാ ആശുപത്രിയിൽ ലിഫ്റ്റ് സ്ഥാപിക്കൽ",
+            "implementing_agency": "Executive Engineer, PWD Electrical Division, Thrissur",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 32.5,
+            "concurrence_lakhs": 32.5
+        },
+        {
+            "project_name": "തൊടുപുഴ മുനിസിപ്പാലിറ്റിയിലെ (വാർഡ് - 30) നീലമ്മാരി - അഞ്ചപ്ര റോഡ് നിർമ്മാണം - 22 ലക്ഷം രൂപ, തൊടുപുഴ മുനിസിപ്പാലിറ്റിയിലെ (വാർഡ് 30)  ഷീറോസ് - തോണിക്കുഴിമല റോഡ് നിർമ്മാണം - 10 ലക്ഷം രൂപ (ആകെ  32 ലക്ഷം രൂപ)",
+            "implementing_agency": "Secretary, Thodupuzha Muncipality",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 32.0,
+            "concurrence_lakhs": 32.0
+        },
+        {
+            "project_name": "കുമാരമംഗലം ഗ്രാമപഞ്ചായത്തിലെ (വാർഡ് 9) ഇടയ്ക്കാട്ടുകയറ്റം  - മൈലക്കൊമ്പ് റോഡ് നിർമ്മാണം - 10 ലക്ഷം രൂപ,  ബാഷാ നഗർ കുളിരിയാനിയ്ക്കൽതണ്ട് (വാർഡ് - 12) റോഡ് നിർമ്മാണം - 10 ലക്ഷം രൂപ, വാഴക്കാലകടവ് - പയ്യാവ് (വാർഡ് - 2) റോഡ് നിർമ്മാണം 10 ലക്ഷം രൂപ,  വലരിമലത്തണ്ട് (വാർഡ് - 1) റോഡ് നിർമ്മാണം - 10 ലക്ഷം രൂപ (ആകെ - 40 ലക്ഷം രൂപ)",
+            "implementing_agency": "Secretary,Kumaramangalam Grama Panchayat",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "ആലക്കോട് ഗ്രാമപഞ്ചായത്തിലെ (വാർഡ് - 1) ചിലവ് മാരാംപാറ റോഡ് നിർമ്മാണം - 13 ലക്ഷം രൂപ, തലയനാട് പള്ളി - തലയനാട് (വാർഡ് - 8) റോഡ് നിർമ്മാണം - 10  ലക്ഷം രൂപ (ആകെ - 20 ലക്ഷം രൂപ)",
+            "implementing_agency": "Block Development Officer, Elamdesam",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 22.89
+        },
+        {
+            "project_name": "ഉടുമ്പന്നൂർ ഗ്രാമപഞ്ചായത്തിലെ (വാർഡ് 11) ചെപ്പുകുളം സി.എസ്.ഐ പള്ളി -നാൽപതേക്കർ റോഡ് നിർമ്മാണം - 10 ലക്ഷം രൂപ, ചീനിക്കുഴി കൈപ്ലാവ് (വാർഡ് - 5) റോഡ് നിർമ്മാണം  - 10 ലക്ഷം രൂപ (ആകെ 20 ലക്ഷം രൂപ)",
+            "implementing_agency": "Block Development Officer, Elamdesam",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കരിമണ്ണൂർ ഗ്രാമപഞ്ചായത്തിലെ (വാർഡ് - 12) കുറുമ്പാലമറ്റം - പഴുക്കാടി പാടം റോഡ് നിർമ്മാണം - 10 ലക്ഷം രൂപ, വള്ളിക്കാട്ടുമാരി - താന്നിച്ചുവട് (വാർഡ് - 12) റോഡ് നിർമ്മാണം - 10 ലക്ഷം രൂപ, തൊമ്മൻകുത്ത് സ്‌കൂൾപടി -വെള്ളിലാംപരപ്പ് (വാർഡ് - 3) റോഡ് നിർമ്മാണം  - 10 ലക്ഷം രൂപ (ആകെ 30 ലക്ഷം രൂപ)",
+            "implementing_agency": "Secretary, Karimannoor Grama Panchayath",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "മണക്കാട് ഗ്രാപഞ്ചായത്തിലെ (വാർഡ് - 1) അരിക്കുഴ - കല്ലംമ്പിള്ളി കടവ് റോഡ് നിർമ്മാണം - 10 ലക്ഷം രൂപ., ജില്ലാ കൃഷി ഫാം - മേതലപ്പാറ (വാർഡ് 3) റോഡ് നിർമ്മാണം - 10 ലക്ഷം രൂപ, മണക്കാട് നരസിംഹ സ്വാമിക്ഷേത്രം ഐശ്വര്യസേവ ട്രസ്റ്റ് ഹാൾ (വാർഡ് - 7) റോഡ് നിർമ്മാണം - 10 ലക്ഷം രൂപ (ആകെ 30 ലക്ഷം രൂപ)",
+            "implementing_agency": "Secretary, Manakkadu Grama Panchayath",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കോടിക്കുളം ഗ്രാമപഞ്ചായത്തിലെ (വാർഡ് 2) ആനകല്ലുംപാടം റോഡ് നിർമ്മാണം - 10 ലക്ഷം രൂപ, വണ്ടമറ്റം - കപ്പത്തൊട്ടി (വാർഡ് - 9) റോഡ് നിർമ്മാണം - 12.50 ലക്ഷം രൂപ, മൈലാടുംപാറ - മില്ലുംപടി - കുറുമ്പാലമറ്റം (വാർഡ് 9) റോഡ് നിർമ്മാണം - 10 ലക്ഷം രൂപ.  (ആകെ 32.50 ലക്ഷം രൂപ)",
+            "implementing_agency": "Secretary, Kodikulam Grama Panchayath",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 32.5,
+            "concurrence_lakhs": 32.15
+        },
+        {
+            "project_name": "ഇടവെട്ടി ഗ്രാമപഞ്ചായത്തിലെ (വാർഡ് - 11) മാർത്തോമ മെറ്റൽ ക്രഷർ റോഡ് നിർമ്മാണം - 10 ലക്ഷം രൂപ, ഇടവെട്ടി എംവിഐപി കനാൽ ബണ്ട് റോഡ് നിർമ്മാണം (വാർഡ് 13) 12 ലക്ഷം രൂപ, ഇടവെട്ടി വില്ലേജ് - ബാങ്ക് ജംഗ്ഷൻ (വാർഡ് - 1 & 13) റോഡ് നിർമ്മാണം - 10 ലക്ഷം രൂപ, തൊണ്ടിക്കുഴ -നടയം റോഡ് (വാർഡ് 3) നിർമ്മാണം - 10 ലക്ഷം രൂപ (ആകെ 42 ലക്ഷം രൂപ)",
+            "implementing_agency": "Secretary, Edavetty Grama Panchayath",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 42.0,
+            "concurrence_lakhs": 42.0
+        },
+        {
+            "project_name": "കരിങ്കുന്നം ഗ്രാമപഞ്ചായത്തിലെ (വാർഡ് 9) ചന്ദ്രപ്പിള്ളിൽ റോഡ് നിർമ്മാണം - 10 ലക്ഷം രൂപ, ഒറ്റല്ലൂർ - ഐ എച്ച് ഡി പി കോളനി (വാർഡ് - 6) റോഡ് നിർമ്മാണം -10 ലക്ഷം രൂപ, നെടിയകാട് - മാവേലി പുത്തൻപുര - വടക്കുംമുറി (വാർഡ് 1) റോഡ് നിർമ്മാണം -  10 ലക്ഷം രൂപ (ആകെ 30 ലക്ഷം രൂപ)",
+            "implementing_agency": "Secretary, Karinkunnam Grama Panchayat",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "മുട്ടം ഗ്രാമപഞ്ചായത്തിലെ ഇടപ്പിള്ളി - കരിക്കനാംപാറ (വാർഡ് - 10 & 1) റോഡ് നിർമ്മാണം  - 10 ലക്ഷം രൂപ, കാക്കൊമ്പ് നസ്രത്ത് ഹോം (വാർഡ് - 6) റോഡ് നിർമ്മാണം - 10 ലക്ഷം രൂപ, അറയാനിപ്പാറ - മുന്തിരിങ്ങാട്ട് കുന്ന് (വാർഡ് - 4) റോഡ് നിർമ്മാണം - 10 ലക്ഷം രൂപ,  പള്ളിക്കവല - പ്ലാത്തോട്ടം (വാർഡ് - 7) റോഡ് നിർമ്മാണം - 10 ലക്ഷം രൂപ (ആകെ 40 ലക്ഷം രൂപ)",
+            "implementing_agency": "Secretary, Muttom Grama Panchayath",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "തൊടുപുഴ നഗരസഭ -(വാർഡ് 3, 4) കുന്നുംപുറം - പീച്ചാണിക്കുന്ന് ലിങ്ക് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Secretary, Thodupuzha Muncipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മുട്ടം ഐ.എച്ച്.ആർ.ഡി. ടെക്നിക്കൽ ഹയർസെക്കണ്ടറി സ്‌കൂളിൽ ബാസ്‌കറ്റ് ബോൾ കോർട്ട് നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer , PWD Buildings, Idukki",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ആലക്കോട് ഗ്രാമപഞ്ചായത്തിലെ തലയനാട്  പള്ളി - തലയനാട് റോഡ് നിർമ്മാണം - 12 ലക്ഷം രൂപ, കരിമണ്ണൂർ ഗ്രാമപഞ്ചായത്തിലെ (വാർഡ്  8 & 9) കുരുമ്പുപാടം - പന്നൂർ റോഡ് നിർമ്മാണം - 10 ലക്ഷം രൂപ, കരിമണ്ണൂർ ഗ്രാമപഞ്ചായത്തിലെ (വാർഡ്  13) അറകുന്നേൽപടി - തൊണ്ടിയാമല റോഡ് നിർമ്മാണം - 10 ലക്ഷം രൂപ (ആകെ 32 ലക്ഷം രൂപ)",
+            "implementing_agency": "Block Development Officer, Elamdesam",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 32.0,
+            "concurrence_lakhs": 32.0
+        },
+        {
+            "project_name": "വണ്ണപ്പുറം ഗ്രാമപഞ്ചായത്തിലെ  മുള്ളരിങ്ങാട് മേഖലയിൽ സോളാർ ഫെൻസിംഗ് സ്ഥാപിക്കൽ",
+            "implementing_agency": "Divisional Forest Officer, Kothamangalam",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പുറപ്പുഴ സാമൂഹിക ആരോഗ്യ കേന്ദ്രം (സി എച്ച് സി) - ലേക്ക് ബൊലേറോ വാങ്ങൽ",
+            "implementing_agency": "DISTRICT MEDICAL OFFICER, IDUKKI",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 9.09
+        },
+        {
+            "project_name": "പുറപ്പുഴ ഗവണ്മെന്റ് ടെക്നിക്കൽ ഹൈസ്‌കൂൾ - ന് ബസ് വാങ്ങൽ (27 സീറ്റ്)",
+            "implementing_agency": "Superintendent, Goverment Technical High School, Purapuzha",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 21.49
+        },
+        {
+            "project_name": "തൊടുപുഴ നിയോജക മണ്‌ഡലത്തിലെ മുള്ളരിങ്ങാട് ഗവ. ഹയർ സെക്കണ്ടറി സ്‌കൂൾ, തൊടുപുഴ വെങ്ങല്ലൂർ റ്റി എം യു പി സ്‌കൂൾ, തൊടുപുഴ എ പി ജെ അബ്ദു‌ദുൾകലാം ഹയർ സെക്കണ്ടറി സ്‌കൂൾ എന്നിവയ്ക്ക് ബസ് വാങ്ങൽ (27 സീറ്റ്)",
+            "implementing_agency": "Deputy Director of Education,Idukki",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 66.0,
+            "concurrence_lakhs": 66.0
+        },
+        {
+            "project_name": "തൊടുപുഴ നിയോജക മണ്‌ഡലത്തിലെ മുള്ളരിങ്ങാട് ഗവ. ഹയർ സെക്ക ണ്ടറി സ്‌കൂൾ, പുറപ്പുഴ ഗവ. ടെക്നിക്കൽ ഹൈസ്‌കൂൾ എന്നിവയ്ക്ക് ബസ് വാങ്ങൽ (27 സീറ്റ്)",
+            "implementing_agency": "Deputy Director of Education,Idukki",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 42.76,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇടവെട്ടി ഗ്രാമപഞ്ചായത്ത്  വെയിറ്റിംഗ് ഷെഡ് - അയ്യംപാറ റോഡ് നിർമ്മാണം (വാർഡ് - 7) 10 ലക്ഷം രൂപ, ഇടവെട്ടി ഗവ. എൽ പി സ്‌കൂൾ ഓഡി റ്റോറിയം നിർമ്മാണം 10 ലക്ഷം രൂപ (ആകെ 20 ലക്ഷം രൂപ)",
+            "implementing_agency": "Secretary, Edavetty Grama Panchayath",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "വണ്ണപ്പുറം ഗ്രാമപഞ്ചായത്തിലെ  കൂവപ്പുറം അംഗൻവാടി നിർമ്മാണം (വാർഡ് - 8) 10 ലക്ഷം രൂപ, രാമപുരംപടി തേക്കുംകുപ്പ് റോഡ് നിർമ്മാണം   (വാർഡ് - 9) 10 ലക്ഷം രൂപ - ആകെ 20 ലക്ഷം രൂപ",
+            "implementing_agency": "Secretary, Vannappuram Grama Pannchayath",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പുറപ്പുഴ ഗ്രാമപഞ്ചായത്ത്  കൂവച്ചാൽ - ആറ്റുപുറം റോഡ് നിർമ്മാണം (വാർഡ് - 12) 10 ലക്ഷം രൂപ, അമ്പാട്ടുകണ്ടം - ചുരയ്ക്കാകുഴി റോഡ് നിർമ്മാണം  (വാർഡ് 13) 10 ലക്ഷം രൂപ (ആകെ 20 ലക്ഷം രൂപ)",
+            "implementing_agency": "Block Development Officer Thodupuzha",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കരിങ്കുന്നം ഗ്രാമപഞ്ചായത്തിലെ  തേവരാനി ചൈതന്യനഗർ - വേങ്ങച്ചേരി റോഡ് നിർമ്മാണം (വാർഡ് - 9) 12 ലക്ഷം രൂപ, മുട്ടുതൊട്ടി - വീരംമല വാട്ടർ ടാങ്ക് റോഡ് നിർമ്മാണം (വാർഡ് 13)  10 ലക്ഷം രൂപ (ആകെ 22 ലക്ഷം രൂപ)",
+            "implementing_agency": "Secretary, Karinkunnam Grama Panchayat",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 22.0
+        },
+        {
+            "project_name": "മണക്കാട് ഗ്രാമപഞ്ചായത്ത്  ഓലിത്താഴം - മണിമല റോഡ് നിർമ്മാണം (വാർഡ് - 13)",
+            "implementing_agency": "Secretary, Manakkadu Grama Panchayath",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഉടുമ്പന്നൂർ ഗ്രാമപഞ്ചായത്ത്  ചീനിക്കുഴി പള്ളി - കുരിശു പള്ളി റോഡ് നിർമ്മാണം (വാർഡ് - 5) 10 ലക്ഷം രൂപ, കപ്പിലാംചുവട് - മണ്ണൂർകാട് റോഡ് നിർമ്മാണം (വാർഡ് - 2)  12 ലക്ഷം രൂപ,  ഉടുമ്പന്നൂർ മിഷൻകുന്ന് - മുളപ്പുറം റോഡ് നിർമ്മാണം  (വാർഡ് - 16 )15 ലക്ഷം രൂപ (ആകെ 37 ലക്ഷം രൂപ)",
+            "implementing_agency": "Secretary, Udumbannoor Grama Panchayath",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 37.0,
+            "concurrence_lakhs": 37.0
+        },
+        {
+            "project_name": "കുമാരമംഗലം ഗ്രാമപഞ്ചായത്ത്  ഏഴല്ലൂർ - പേഴുംകണ്ടം റോഡ് നിർമ്മാണം (വാർഡ് -13) 10 ലക്ഷം രൂപ,  പാലക്കുഴി - മൈലക്കൊമ്പ് ഡിസ്ട്രിബ്യൂട്ടറി റോഡ് നിർമ്മാണം (വാർഡ് -10) 10 ലക്ഷം രൂപ  (ആകെ 20 ലക്ഷം രൂപ)",
+            "implementing_agency": "Secretary,Kumaramangalam Grama Panchayat",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വെള്ളിയാമറ്റം ഗ്രാമപഞ്ചായത്ത്  പന്നിമറ്റം - ചെപ്പുകുളം റോഡ് നിർമ്മാണം (വാർഡ് - 4) 10 ലക്ഷം രൂപ,    ചന്ദ്രൻകുന്നേൽ - പാടത്തിക്കടവ് റോഡ് നിർമ്മാണം (വാർഡ് - 5) 10 ലക്ഷം രൂപ (ആകെ 20 ലക്ഷം രൂപ)",
+            "implementing_agency": "Secretary velliyamattom Grama panchayath",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കരിമണ്ണൂർ ഗ്രാമപഞ്ചായത്ത് നെയ്യശ്ശേരി വാട്ടർ ടാങ്ക് റോഡ് നിർമ്മാണം (വാർഡ് - 1)  12 ലക്ഷം രൂപ,  തൊമ്മൻകുത്ത് - വെള്ളിലാംപറമ്പ് റോഡ് നിർമ്മാണം  (വാർഡ് -3) - 11.89 ലക്ഷം രൂപ (ആകെ 23.89 ലക്ഷം രൂപ)",
+            "implementing_agency": "Secretary, Karimannoor Grama Panchayath",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 23.89,
+            "concurrence_lakhs": 23.89
+        },
+        {
+            "project_name": "തൊടുപുഴ മുനിസിപ്പാലിറ്റിയിലെ പഴുക്കാകുളം - കാരുപ്പാറ റോഡ് നിർമ്മാണം (വാർഡ് 12)  15 ലക്ഷം രൂപ,   ഉണ്ടപ്ലാവ് - യത്തീംഖാന റോഡ് നിർമ്മാണം (വാർഡ് - 14) 10 ലക്ഷം രൂപ, മുതലിയാർമഠം റോഡ് നിർമ്മാണം (വാർഡ് - 23)  10 ലക്ഷം രൂപ, കൈതക്കോട് - മഠത്തിക്കണ്ടം - ഗുരുനഗർ റോഡ് നിർമ്മാണം (വാർഡ് 4,5,8)   25 ലക്ഷം രൂപ,  മലേപ്പറമ്പ് കോളനി റോഡ് നിർമ്മാണം (വാർഡ് - 18) 10 ലക്ഷം രൂപ, പഞ്ചവടിപ്പാലം - ആലയ്ക്കൽ - ഡ്രൈവിംഗ് ടെസ്റ്റ് ഗ്രൗണ്ട് റോഡ് നിർമ്മാണം (വാർഡ് - 32)  10 ലക്ഷം രൂപ (ആകെ 80 ലക്ഷം രൂപ)",
+            "implementing_agency": "Secretary, Thodupuzha Muncipality",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 80.0,
+            "concurrence_lakhs": 80.0
+        },
+        {
+            "project_name": "ആലക്കോട് ഗ്രാമപഞ്ചായത്തിലെ (വാർഡ് 10) അംഗൻവാടി നിർമ്മാണം",
+            "implementing_agency": "Block Development Officer, Elamdesam",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 22.0
+        },
+        {
+            "project_name": "കോടിക്കുളം ഗ്രാമപഞ്ചായത്ത് പ്രാഥമിക ആരോഗ്യ കേന്ദ്രം (പി എച്ച് സി) കെട്ടിടം നിർമ്മാണം - 50 ലക്ഷം രൂപ, വാഴക്കാല - പള്ളിക്കടവ്  അരണയം പമ്പ്ഹൗസ് റോഡ് നിർമ്മാണം  (വാർഡ് 13) 10 ലക്ഷം രൂപ, തടിക്കയം - കൊടുവേലി ബൈപാസ് റോഡ് നിർമ്മാണം - 10 ലക്ഷം രൂപ (ആകെ 70 ലക്ഷം രൂപ)",
+            "implementing_agency": "Secretary, Kodikulam Grama Panchayath",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 70.0,
+            "concurrence_lakhs": 70.0
+        },
+        {
+            "project_name": "മുട്ടം ജില്ലാ കോടതി കെട്ടിട നിര്‍മ്മാണം (ലൈബ്രറി)",
+            "implementing_agency": "ASSISTANT EXECUTIVE ENGINEER,PWD(BUILDIGS) SUB DIVISION , THODUPUZHA",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "കരിങ്കുന്നം ഗ്രാമപഞ്ചായത്തിലെ (വാര്‍ഡ് - 10) കരിങ്കുന്നം - അടുതാറ്റ് റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "Secretary, Karinkunnam Grama Panchayat",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഇടവെട്ടി ഗ്രാമപഞ്ചായത്തിലെ ചാലങ്കോട് -ഇടവെട്ടിച്ചിറ  എം വി ഐ പി കനാൽ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer,Muvattupuzha Valley Irrigation Project.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കുമാരമംഗലം ഗ്രാമപഞ്ചായത്തിലെ പെരുമ്പിള്ളിച്ചിറ-മുതലക്കോടം എം വി ഐ പി  കനാൽ  റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Secretary,Kumaramangalam Grama Panchayat",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കുമാരമംഗലം ഗ്രാമപഞ്ചായത്തിലെ  (വാർഡ് -9) പള്ളിപീഠിക -മൈലക്കൊമ്പ്  റോഡ്  നിർമ്മാണം",
+            "implementing_agency": "Secretary,Kumaramangalam Grama Panchayat",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പുറപ്പുഴ ഗ്രാമപഞ്ചായത്തിലെ ഇടയാടി -ഇരുട്ടുതോട്  ലക്ഷം കോളനി  റോഡ്  (10 ലക്ഷം) ,നെടിയശാല ചെള്ളൽ ലക്ഷം കോളനി - വടക്കുംമുറി  റോഡ്  ( 10ലക്ഷം) എന്നിവയുടെ നിർമ്മാണം (ആകെ20 ലക്ഷം)",
+            "implementing_agency": "Secretary, Purapuzha Grama Panchayath",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "തൊടുപുഴ മുൻസിപ്പാലിറ്റിയിലെ  വെങ്ങല്ലൂർ ഗവ. യു പി സ്കൂൾ കെട്ടിട  നിർമ്മാണം",
+            "implementing_agency": "Secretary, Thodupuzha Muncipality",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "തൊടുപുഴ മുൻസിപ്പാലിറ്റിയിലെ പുതുച്ചിറ-മുതലക്കോടം റോഡ്(15 ലക്ഷം), വാർഡ് 24 ലെ ഗുരുദേവ റോഡ്(10 ലക്ഷം) ,  മുതലയാർമഠം-പാതിരിക്കുന്ന്- കാപ്പിത്തോട്ടം റോഡ് ( 10 ലക്ഷം) എന്നിവയുടെ  നിർമ്മാണം( അകെ 35 ലക്ഷം)",
+            "implementing_agency": "Secretary, Thodupuzha Muncipality",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "വെള്ളിയാമറ്റം ഗ്രാമപഞ്ചായത്തിലെ  പന്നിമറ്റം - മറ്റം സിറ്റി (വാര്‍ഡ് - 4)  റോഡ്(10ലക്ഷം), കറുകപ്പിള്ളി -മൈലാടി  റോഡ് (15 ലക്ഷം),വെട്ടിമറ്റം-എണ്ണപ്പന വട്ടോളിൽ ഭാഗം മണിക്കൊമ്പേൽ പ്ലാൻറേഷൻ ലിങ്ക് റോഡ് (10 ലക്ഷം)  എന്നിവയുടെ നിർമ്മാണം (ആകെ 35 ലക്ഷം)",
+            "implementing_agency": "Secretary velliyamattom Grama panchayath",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "വണ്ണപ്പുറം ഗ്രാമപഞ്ചായത്തിലെ  കക്കാട്ടുപടി - ചതുപ്പ് റോഡ്(10ലക്ഷം), നാരുംകാനം(ചാത്തൻപുഴപ്പടി )-ഇടത്തൊട്ടി അപ്രോച്ച് റോഡ്(12.70 ലക്ഷം) , വാർഡ് 5 ലെ ബ്ലാത്തിക്കവല-നാക്കയം റോഡ് (25 ലക്ഷം) എന്നിവയുടെ നിർമ്മാണം( ആകെ 47.70 ലക്ഷം)",
+            "implementing_agency": "Secretary, Vannappuram Grama Pannchayath",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 47.7,
+            "concurrence_lakhs": 47.7
+        },
+        {
+            "project_name": "ഉടുമ്പന്നൂർ ഗ്രാമപഞ്ചായത്തിലെ  കിഴക്കുംപാടം  സ്മാർട്ട് അങ്കണവാടി നിർമ്മാണം",
+            "implementing_agency": "Secretary, Udumbannoor Grama Panchayath",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഉടുമ്പന്നൂർ ഗ്രാമപഞ്ചായത്തിലെ പെരിങ്ങാശ്ശേരി -താഴേമൂലേക്കാട് റോഡ് (12 ലക്ഷം), കുന്നുകുന്ന്-വള്ളിയാടി  റോഡ്(10 ലക്ഷം), ചെപ്പുകുളം-കെപി സി കവല  റോഡ്(10ലക്ഷം) , പൂന്തോട്ടം-പറമ്പാട്ടുകവല റോഡ് ( 10 ലക്ഷം), ചെപ്പുകുളം -പേപ്പാറ- റെയിനി റോഡ് (10 ലക്ഷം)  എന്നിവയുടെ നിർമ്മാണം (ആകെ  52 ലക്ഷം)",
+            "implementing_agency": "Secretary, Udumbannoor Grama Panchayath",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 52.0,
+            "concurrence_lakhs": 52.0
+        },
+        {
+            "project_name": "മണക്കാട് ഗ്രാമപഞ്ചായത്തിലെ നെടിയശാല ആലുങ്കൽപാറ&മൂഴിച്ചാൽ പൊട്ടമ്പ്രപ്പാറ റോഡ്(10ലക്ഷം), മുണ്ടുപാലത്തിങ്കൽ ഫിലിപ്പ് സാർ റോഡ് (10ലക്ഷം) എന്നിവയുടെ നിർമ്മാണം (ആകെ20 ലക്ഷം)",
+            "implementing_agency": "Secretary, Manakkadu Grama Panchayath",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കരിങ്കുന്നം ഗ്രാമപഞ്ചായത്തിലെ എം വി ഐ പി ഇടതുകനാൽ മ്രാല -പൊന്നന്താനം റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Secretary, Karinkunnam Grama Panchayat",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കരിമണ്ണൂർ ഗ്രാമപഞ്ചായത്തിലെ മനയ്ക്കപ്പാടം-ഉള്ളാട്ടിൽപടി റോഡ്(16.82 ലക്ഷം), നെല്ലിമല-മൂന്ത്രാണി എസ് സി ഹോസ്റ്റൽ റോഡ്(10 ലക്ഷം),മില്ലുംപടി -സംഗതിമുക്ക് റോഡ്(10.40 ലക്ഷം), ചാലശ്ശേരി-പാറച്ചാൽ-കുരിശുപാറ(10 ലക്ഷം), ഏഴുമുട്ടം-കിളിയറ റോഡ്(20 ലക്ഷം)എന്നിവയുടെ നിർമ്മാണം (ആകെ 67.22 ലക്ഷം)",
+            "implementing_agency": "Secretary, Karimannoor Grama Panchayath",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 67.22,
+            "concurrence_lakhs": 67.22
+        },
+        {
+            "project_name": "മുട്ടം ഗ്രാമപഞ്ചായത്തിലെ മുട്ടം  ഐ എച്ച് ആർ ഡി കോളേജ്  റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Assistant Executive Engineer PWD Roads Thodupuzha",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "തൊടുപുഴ ബ്ലോക്ക്  പഞ്ചായത്ത് ഓഫീസിന് അഡീഷണൽ ബ്ലോക്ക് നിർമ്മാണം",
+            "implementing_agency": "Block Development Officer Thodupuzha",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 36.4,
+            "concurrence_lakhs": 36.34
+        },
+        {
+            "project_name": "ഇടവെട്ടി ഗ്രാമപഞ്ചായത്തിലെ  (വാർഡ് 5) പാലാക്കണ്ടം ഡിപ്പോ റോഡ്  നിർമ്മാണം",
+            "implementing_agency": "Secretary, Edavetty Grama Panchayath",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "തൊടുപുഴ മുൻസിപ്പാലിറ്റിയിലെ ( വാർഡ്14,15) ഉണ്ടപ്ലാവ് -മുതലക്കോടം-യത്തീംഖാന റോഡിൽ ഡ്രെയിനേജ്, സ്ലാബ്  എന്നിവയുടെ നിർമ്മാണം",
+            "implementing_agency": "Secretary, Thodupuzha Muncipality",
+            "category": "Irrigation",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ഉടുമ്പന്നൂർ ഗ്രാമപഞ്ചായത്തിലെ ഉടുമ്പന്നൂർ മിഷൻകുന്ന് (ബി എസ്  എൻ  എൽ ഓഫീസ് വഴി )  റോഡ്  നിർമ്മാണം",
+            "implementing_agency": "Secretary, Udumbannoor Grama Panchayath",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മണക്കാട് ഗ്രാമപഞ്ചായത്തിലെ വാർഡ്-12ലെ കൊലടി ലക്ഷം കോളനി -വെള്ളക്കിഴങ്ങ് പാറ റോഡ്( 10 ലക്ഷം),വാർഡ്-13ലെ   ഓലിത്താഴം -മണിമല റോഡ്(10 ലക്ഷം) എന്നിവയുടെ നിർമ്മാണം (ആകെ 20 ലക്ഷം)",
+            "implementing_agency": "Secretary, Manakkadu Grama Panchayath",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "വണ്ണപ്പുറം  പ്രൈമറി ഹെൽത്ത് സെൻററിന്  കെട്ടിടനിർമ്മാണം",
+            "implementing_agency": "Executive Engineer , PWD Buildings, Idukki",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 98.5,
+            "concurrence_lakhs": 98.5
+        },
+        {
+            "project_name": "കരിങ്കുന്നം ഗ്രാമപഞ്ചായത്ത്  ഓഫീസിന്  അഡീഷണൽ ബ്ലോക്ക് നിർമ്മാണം",
+            "implementing_agency": "Secretary, Karinkunnam Grama Panchayat",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 17.24,
+            "concurrence_lakhs": 16.9
+        },
+        {
+            "project_name": "തൊടുപുഴ മുൻസിപ്പാലിറ്റിയിലെ തൊടുപുഴ മാരിയിൽ കലുങ്ക് ഭാഗത്ത്  പാലത്തിന് അപ്രോച്ച് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer, PWD Roads, Idukki",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 180.0,
+            "concurrence_lakhs": 180.0
+        },
+        {
+            "project_name": "കോടിക്കുളം ഗ്രാമപഞ്ചായത്തിലെ കോടിക്കുളം വലിയതോടിനുകുറുകെ വാഴക്കാല ഭാഗത്ത്  പാലം നിർമ്മാണ പൂർത്തീകരണം",
+            "implementing_agency": "Secretary, Kodikulam Grama Panchayath",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "വെള്ളിയാമറ്റം ഗ്രാമപഞ്ചായത്തിലെ (വാർഡ്-5) പന്നിമറ്റം -ചെമ്പകത്തിനാൽ  റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Secretary velliyamattom Grama panchayath",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "തൊടുപുഴ മുൻസിപ്പാലിറ്റി വാർഡ് 20ലെ കീരികോട്- മുതലിയാർമഠം റോഡിൽ ഓട,കലുങ്ക്,സംരക്ഷണ ഭിത്തി എന്നിവയുടെ നിർമ്മാണം  (13.37 ലക്ഷം),വാർഡ് 18 ലെ കുമ്മംങ്കല്ല് -തൊണ്ടിക്കുഴ -ചാലംകോട് റോഡ് (15 ലക്ഷം) വാർഡ് 23ലെ പോസ്റ്റ് ഓഫീസ് റോഡ് (10ലക്ഷം)  വാർഡ് 8 ലെ മഠത്തിക്കണ്ടം അങ്കണവാടി റോഡ് (തീയാടി റോഡ് ) (10ലക്ഷം) എന്നീ റോഡുകളുടെ നിർമ്മാണം ( ആകെ 48.37 ലക്ഷം)",
+            "implementing_agency": "Secretary, Thodupuzha Muncipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 48.37,
+            "concurrence_lakhs": 48.37
+        },
+        {
+            "project_name": "കരിമണ്ണൂർ ഗ്രാമപഞ്ചായത്ത്   വാർഡ് 13 ലെ എഴുമുട്ടം-താബോർ-ചാലാശ്ശേരി  റോഡ്(10 ലക്ഷം), വാർഡ് 5 ലെ കൈതമറ്റം ചെക്ക് ഡാം  റോഡ്  (10ലക്ഷം),വാർഡ്-3ലെ പാമ്പുംകയം-നിരപ്പാറക്കടവ്  റോഡ് (10 ലക്ഷം) എന്നീറോഡുകളുടെ നിർമ്മാണം (ആകെ 30 ലക്ഷം)",
+            "implementing_agency": "Secretary, Karimannoor Grama Panchayath",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കോടിക്കുളം ഗ്രാമപഞ്ചായത്തിലെ (വാർഡ്  -12 )പടി. കോടിക്കുളം മിനിപ്പടി -ഒഴാക്കോട്-വെള്ളംചിറ സാക്ഷരതാ സെൻറർ റോഡ്  നിർമ്മാണം",
+            "implementing_agency": "Block Development Officer, Elamdesam",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ആലക്കോട് ഗ്രാമപഞ്ചായത്തിലെ ചിലവ്-മാരാംപാറ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Block Development Officer, Elamdesam",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 22.93,
+            "concurrence_lakhs": 22.93
+        },
+        {
+            "project_name": "കരിങ്കുന്നം ഗ്രാമപഞ്ചാത്തിലെ നടുക്കണ്ടം -പൊന്നന്താനം എം. വി. ഐ .പി കനാൽ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Secretary, Karinkunnam Grama Panchayat",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.2,
+            "concurrence_lakhs": 16.2
+        },
+        {
+            "project_name": "ഉടുമ്പന്നൂർ ഗ്രാമപഞ്ചായത്തിലെ (വാർഡ്-7) ആൾക്കല്ല്- കട്ടിക്കയം അമ്പലം-പെരിങ്ങാശ്ശേരി  റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Block Development Officer, Elamdesam",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "കരിമണ്ണൂർ ഗ്രാമപഞ്ചായത്തിലെ (വാർഡ്-5) ചക്കാലമുക്ക്-വാഴാച്ചേരി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Block Development Officer, Elamdesam",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കുമാരമംഗലം ഗ്രാമപഞ്ചായത്തിലെ   (വാർഡ്-1) പെരുമാംകണ്ടം-പ്ളാൻറേഷൻ ലിങ്ക് റോഡ്  നിർമ്മാണം",
+            "implementing_agency": "Secretary,Kumaramangalam Grama Panchayat",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പുറപ്പുഴ  ഗ്രാമപഞ്ചായത്തിലെ (വാർഡ് -7) പാറേപ്പീടിക-കുര്യനാൽകുന്ന് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Secretary, Purapuzha Grama Panchayath",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "വെള്ളിയാമറ്റം ഗ്രാമപഞ്ചായത്തിലെ ഇളംദേശം  സാമൂഹികാരോഗ്യകേന്ദ്രത്തിന് കെട്ടിടനിർമ്മാണ പൂർത്തീകരണം",
+            "implementing_agency": "ASSISTANT EXECUTIVE ENGINEER,PWD(BUILDIGS) SUB DIVISION , THODUPUZHA",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 11.15,
+            "concurrence_lakhs": 11.15
+        },
+        {
+            "project_name": "കരിമണ്ണൂർ ഗ്രാമപഞ്ചായത്തിലെ ചേന്നാപ്പിള്ളിൽ-മുളപ്പുറം-കാരാംകോട് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Secretary, Karimannoor Grama Panchayath",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "തൊടുപുഴ ജില്ലാആശുപത്രിയിൽ കോവിഡ് -19 പരിശോധനയ്കുള്ള Truenat Rapid PCR Test Machine  വാങ്ങൽ",
+            "implementing_agency": "DISTRICT MEDICAL OFFICER, IDUKKI",
+            "category": "Irrigation",
+            "fy": "2021-2022",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 10.74
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "idukki_shri_p_j_joseph_placeholder"
+}

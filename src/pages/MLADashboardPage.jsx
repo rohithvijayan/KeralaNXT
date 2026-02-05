@@ -1,0 +1,482 @@
+import { useState, useMemo, useEffect } from 'react'
+import { useNavigate, Link } from 'react-router-dom'
+import { motion, AnimatePresence } from 'framer-motion'
+import Header from '../components/Header'
+import BottomNav from '../components/BottomNav'
+import {
+    getAllMLAs,
+    getMLAsByDistrict,
+    searchMLAs,
+    sortMLAs,
+    getAggregateStats,
+    getAllDistricts,
+    formatAmount,
+    getInitials
+} from '../data/mlaFundLoader'
+import './MLADashboardPage.css'
+
+const districtOptions = [
+    { id: 'all', label: 'All Districts' },
+    { id: 'Thiruvananthapuram', label: 'Trivandrum' },
+    { id: 'Ernakulam', label: 'Ernakulam' },
+    { id: 'Kozhikode', label: 'Kozhikode' },
+    { id: 'Thrissur', label: 'Thrissur' },
+    { id: 'Kottayam', label: 'Kottayam' }
+]
+
+const sortOptions = [
+    { id: 'expenditure', label: 'Expenditure (High → Low)' },
+    { id: 'name', label: 'Alphabetical' },
+    { id: 'district', label: 'District' },
+    { id: 'projects', label: 'Project Count' }
+]
+
+function MLADashboardPage() {
+    const navigate = useNavigate()
+
+    // State
+    const [searchQuery, setSearchQuery] = useState('')
+    const [selectedDistrict, setSelectedDistrict] = useState('all')
+    const [sortBy, setSortBy] = useState('expenditure')
+    const [currentPage, setCurrentPage] = useState(1)
+    const [loading, setLoading] = useState(true)
+    const [allMLAs, setAllMLAs] = useState([])
+    const [globalStats, setGlobalStats] = useState({ totalExpenditure: 0, totalProjects: 0, totalMLAs: 0, totalDistricts: 0 })
+    const [districtStats, setDistrictStats] = useState([])
+
+    const itemsPerPage = 12
+
+    // Load initial data
+    useEffect(() => {
+        const loadInitialData = async () => {
+            setLoading(true)
+            try {
+                const mlas = getAllMLAs()
+                const stats = getAggregateStats()
+                const districts = getAllDistricts()
+
+                setAllMLAs(mlas)
+                setGlobalStats(stats)
+                setDistrictStats(districts.slice(0, 5))
+            } catch (error) {
+                console.error('Error loading MLA data:', error)
+            } finally {
+                setLoading(false)
+            }
+        }
+        loadInitialData()
+    }, [])
+
+    // Current stats based on selected district filter
+    const currentStats = useMemo(() => {
+        if (selectedDistrict === 'all') {
+            return globalStats
+        }
+        const districtMLAs = getMLAsByDistrict(selectedDistrict)
+        const totalExp = districtMLAs.reduce((sum, mla) => sum + mla.totalExpenditure, 0)
+        const totalProj = districtMLAs.reduce((sum, mla) => sum + mla.projectCount, 0)
+        return {
+            totalExpenditure: totalExp,
+            totalProjects: totalProj,
+            totalMLAs: districtMLAs.length
+        }
+    }, [selectedDistrict, globalStats])
+
+    const currentDistrictLabel = districtOptions.find(d => d.id === selectedDistrict)?.label || 'All Districts'
+
+    // Filter and sort MLAs
+    const filteredMLAs = useMemo(() => {
+        let mlas = selectedDistrict === 'all'
+            ? allMLAs
+            : getMLAsByDistrict(selectedDistrict)
+        mlas = searchMLAs(mlas, searchQuery)
+        mlas = sortMLAs(mlas, sortBy)
+        return mlas
+    }, [selectedDistrict, searchQuery, sortBy, allMLAs])
+
+    // Pagination
+    const totalPages = Math.ceil(filteredMLAs.length / itemsPerPage)
+    const paginatedMLAs = useMemo(() => {
+        const start = (currentPage - 1) * itemsPerPage
+        return filteredMLAs.slice(start, start + itemsPerPage)
+    }, [filteredMLAs, currentPage])
+
+    // Reset to page 1 when filters change
+    useEffect(() => {
+        setCurrentPage(1)
+    }, [selectedDistrict, searchQuery, sortBy])
+
+    // Get rank for an MLA
+    const getRank = (mla) => {
+        return allMLAs.findIndex(m => m.id === mla.id) + 1
+    }
+
+    // Get performance level based on rank
+    const getPerformanceLevel = (rank) => {
+        if (rank <= 20) return 'high'
+        if (rank <= 70) return 'medium'
+        return 'low'
+    }
+
+    if (loading) {
+        return <div className="loading-container">Loading MLA Fund Data...</div>
+    }
+
+    return (
+        <div className="mla-dashboard">
+            {/* Mobile Header */}
+            <Header
+                showBack
+                title="MLA Fund Dashboard"
+                onBack={() => navigate('/mla-fund')}
+            />
+
+            <div className="mla-layout">
+                {/* Desktop Sidebar */}
+                <aside className="mla-sidebar">
+                    <div className="sidebar-brand">
+                        <div className="brand-icon">
+                            <span className="material-symbols-outlined">account_balance</span>
+                        </div>
+                        <h2>keralaStory</h2>
+                    </div>
+
+                    <div className="sidebar-content">
+                        <div className="sidebar-section">
+                            <p className="section-title">Total Statistics</p>
+                            <div className="stat-cards">
+                                <div className="stat-card">
+                                    <div className="stat-header">
+                                        <span className="material-symbols-outlined stat-icon">payments</span>
+                                        <span className="stat-badge">FY25</span>
+                                    </div>
+                                    <p className="stat-label">Total Expenditure</p>
+                                    <p className="stat-value">{formatAmount(currentStats.totalExpenditure)}</p>
+                                </div>
+                                <div className="stat-card">
+                                    <div className="stat-header">
+                                        <span className="material-symbols-outlined stat-icon">task_alt</span>
+                                        <span className="stat-badge positive">Active</span>
+                                    </div>
+                                    <p className="stat-label">Total Projects</p>
+                                    <p className="stat-value">{currentStats.totalProjects?.toLocaleString()}</p>
+                                </div>
+                                <div className="stat-card progress-card">
+                                    <div className="progress-ring-container">
+                                        <svg className="progress-ring" viewBox="0 0 36 36">
+                                            <circle className="progress-ring-bg" cx="18" cy="18" r="16" fill="none" strokeWidth="3" />
+                                            <circle className="progress-ring-fill" cx="18" cy="18" r="16" fill="none" strokeWidth="3" strokeLinecap="round" strokeDasharray="100, 100" />
+                                        </svg>
+                                        <span className="progress-ring-value">{currentStats.totalMLAs}</span>
+                                    </div>
+                                    <div className="progress-info">
+                                        <p className="stat-label">Active MLAs</p>
+                                        <p className="stat-value-sm">{currentDistrictLabel}</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div className="sidebar-section">
+                            <p className="section-title">Top Districts</p>
+                            <div className="district-stats">
+                                {districtStats.map(district => (
+                                    <div key={district.code} className="district-stat">
+                                        <div className="district-stat-header">
+                                            <span>{district.name}</span>
+                                            <span className="district-count">{district.mlaCount} MLAs</span>
+                                        </div>
+                                        <div className="mini-progress">
+                                            <div className="mini-progress-fill" style={{ width: `${(district.mlaCount / 14) * 100}%` }} />
+                                        </div>
+                                    </div>
+                                ))}
+                            </div>
+                        </div>
+
+                        <nav className="sidebar-nav">
+                            <p className="section-title">Navigation</p>
+                            <a href="/mla-fund-dashboard" className="nav-item active">
+                                <span className="material-symbols-outlined">dashboard</span>
+                                <span>Dashboard</span>
+                            </a>
+                            <a href="/mla-fund" className="nav-item">
+                                <span className="material-symbols-outlined">insights</span>
+                                <span>Overview</span>
+                            </a>
+                        </nav>
+                    </div>
+                </aside>
+
+                {/* Main Content */}
+                <main className="mla-main">
+                    {/* Mobile Hero Card */}
+                    <div className="mla-hero-card">
+                        <div className="hero-header">
+                            <div>
+                                <p className="hero-label">{currentDistrictLabel} Fund Overview</p>
+                                <h1 className="hero-amount">{formatAmount(currentStats.totalExpenditure)}</h1>
+                            </div>
+                            <div className="hero-actions">
+                                <div className="hero-icon-wrapper">
+                                    <span className="material-symbols-outlined">trending_up</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="hero-progress-section">
+                            <div className="hero-progress-header">
+                                <p>Projects Tracked</p>
+                                <p className="hero-percent">{currentStats.totalProjects?.toLocaleString()}</p>
+                            </div>
+                            <div className="hero-progress-bar">
+                                <div className="hero-progress-fill" style={{ width: '75%' }} />
+                            </div>
+                            <p className="hero-footnote">{currentStats.totalMLAs} MLAs | Data updated Feb 2026</p>
+                        </div>
+                    </div>
+
+                    {/* Desktop Page Header */}
+                    <header className="page-header">
+                        <nav className="breadcrumb">
+                            <Link to="/">Dashboard</Link>
+                            <span className="material-symbols-outlined">chevron_right</span>
+                            <Link to="/mla-fund">MLA Fund</Link>
+                            <span className="material-symbols-outlined">chevron_right</span>
+                            <span className="current">MLA Dashboard</span>
+                        </nav>
+                        <div className="page-header-content">
+                            <h1 className="page-title">MLA Fund Dashboard</h1>
+                            <p className="page-subtitle">Detailed constituency-level fund tracking and project metrics across Kerala.</p>
+                        </div>
+                        <div className="header-actions">
+                            <div className="desktop-search">
+                                <span className="material-symbols-outlined search-icon">search</span>
+                                <input
+                                    type="text"
+                                    className="search-input"
+                                    placeholder="Search MLA or Constituency..."
+                                    value={searchQuery}
+                                    onChange={(e) => setSearchQuery(e.target.value)}
+                                />
+                            </div>
+                        </div>
+                    </header>
+
+                    {/* Filters Bar */}
+                    <section className="filters-bar">
+                        <div className="district-toggle">
+                            {districtOptions.map(option => (
+                                <button
+                                    key={option.id}
+                                    className={`district-pill ${selectedDistrict === option.id ? 'active' : ''}`}
+                                    onClick={() => setSelectedDistrict(option.id)}
+                                >
+                                    {option.label}
+                                </button>
+                            ))}
+                        </div>
+
+                        <div className="mobile-search">
+                            <span className="material-symbols-outlined search-icon">search</span>
+                            <input
+                                type="text"
+                                className="search-input"
+                                placeholder="Search MLA by name or constituency"
+                                value={searchQuery}
+                                onChange={(e) => setSearchQuery(e.target.value)}
+                            />
+                        </div>
+
+                        <div className="sort-wrapper">
+                            <span className="sort-label">Sort by:</span>
+                            <select
+                                className="sort-select"
+                                value={sortBy}
+                                onChange={(e) => setSortBy(e.target.value)}
+                            >
+                                {sortOptions.map(option => (
+                                    <option key={option.id} value={option.id}>{option.label}</option>
+                                ))}
+                            </select>
+                        </div>
+                    </section>
+
+                    {/* Compact Disclaimer */}
+                    <div className="methodology-disclaimer">
+                        <span className="material-symbols-outlined disclaimer-icon">info</span>
+                        <div className="disclaimer-content">
+                            <p>
+                                <strong>MLA Development Fund:</strong> Tracking expenditure across all 140 constituencies.
+                                <span className="perf-legend high">✓ Top performers</span>
+                                <span className="perf-legend medium">→ Mid range</span>
+                                <span className="perf-legend low">⚠ Lower</span>
+                            </p>
+                            <p className="update-disclaimer">
+                                <span className="material-symbols-outlined">update</span>
+                                Data aggregated from official sources. Updated periodically.
+                            </p>
+                        </div>
+                    </div>
+
+                    {/* MLA Cards */}
+                    <section className="mla-cards-section">
+                        <div className="section-header mobile-only">
+                            <h3>MLA Expenditure Ranking</h3>
+                            <span className="view-all">View All</span>
+                        </div>
+
+                        <motion.div className="mla-cards-grid" layout>
+                            <AnimatePresence mode="popLayout">
+                                {paginatedMLAs.map((mla, index) => {
+                                    const rank = getRank(mla)
+                                    const perfLevel = getPerformanceLevel(rank)
+                                    const cleanName = mla.name.replace(/^(Shri|Smt)\s+/i, '')
+
+                                    return (
+                                        <motion.div
+                                            key={mla.id}
+                                            className={`mla-card ${perfLevel}`}
+                                            initial={{ opacity: 0, y: 20 }}
+                                            animate={{ opacity: 1, y: 0 }}
+                                            exit={{ opacity: 0, scale: 0.95 }}
+                                            transition={{ delay: index * 0.03 }}
+                                            layout
+                                            onClick={() => navigate(`/mla-fund/${encodeURIComponent(mla.id)}`)}
+                                        >
+                                            {/* Glow effect - desktop only via CSS */}
+                                            <div className="card-glow" />
+
+                                            {/* Avatar with Rank */}
+                                            <div className="mla-avatar-wrapper">
+                                                <div className="mla-avatar-placeholder">
+                                                    <span>{getInitials(mla.name)}</span>
+                                                </div>
+                                                <span className={`rank-badge ${rank <= 3 ? 'top-3' : perfLevel}`}>
+                                                    #{rank}
+                                                </span>
+                                            </div>
+
+                                            {/* Mobile Card Content */}
+                                            <div className="mla-card-content">
+                                                <h3 className="mla-name">{cleanName}</h3>
+                                                <div className="mla-constituency">
+                                                    <span className="material-symbols-outlined">location_on</span>
+                                                    {mla.constituency}
+                                                </div>
+                                                <p className="mla-amount">
+                                                    {formatAmount(mla.totalExpenditure)}
+                                                    <span>utilized</span>
+                                                </p>
+                                            </div>
+
+                                            {/* Mobile Chevron */}
+                                            <div className="card-chevron">
+                                                <span className="material-symbols-outlined">chevron_right</span>
+                                            </div>
+
+                                            {/* Desktop Card Header */}
+                                            <div className="mla-card-header">
+                                                <div className="mla-info">
+                                                    <div className="mla-details">
+                                                        <h3 className="mla-name">{cleanName}</h3>
+                                                        <div className="mla-constituency">
+                                                            <span className="material-symbols-outlined">location_on</span>
+                                                            {mla.constituency}
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <span className="district-badge">{mla.district}</span>
+                                            </div>
+
+                                            {/* Desktop Card Body */}
+                                            <div className="mla-card-body">
+                                                <div className="utilization-header">
+                                                    <span className="util-label">Total Expenditure</span>
+                                                    <span className={`util-percent ${perfLevel}`}>
+                                                        <span className="material-symbols-outlined perf-icon">
+                                                            {perfLevel === 'high' && 'check_circle'}
+                                                            {perfLevel === 'medium' && 'trending_flat'}
+                                                            {perfLevel === 'low' && 'warning'}
+                                                        </span>
+                                                        {formatAmount(mla.totalExpenditure)}
+                                                    </span>
+                                                </div>
+                                                <div className="progress-bar">
+                                                    <motion.div
+                                                        className={`progress-fill ${perfLevel}`}
+                                                        initial={{ width: 0 }}
+                                                        animate={{ width: `${Math.min((mla.totalExpenditure / 50) * 100, 100)}%` }}
+                                                        transition={{ duration: 1, ease: "easeOut" }}
+                                                    />
+                                                </div>
+                                                <div className="fund-details">
+                                                    <div className="fund-item">
+                                                        <span className="fund-label">Projects</span>
+                                                        <span className="fund-value">{mla.projectCount}</span>
+                                                    </div>
+                                                    <div className="fund-item">
+                                                        <span className="fund-label">District</span>
+                                                        <span className="fund-value spent">{mla.district}</span>
+                                                    </div>
+                                                </div>
+                                                <div className="card-footer-actions">
+                                                    <button
+                                                        className="view-more-btn"
+                                                        onClick={(e) => {
+                                                            e.stopPropagation()
+                                                            navigate(`/mla-fund/${encodeURIComponent(mla.id)}`)
+                                                        }}
+                                                    >
+                                                        View Details
+                                                        <span className="material-symbols-outlined">arrow_forward</span>
+                                                    </button>
+                                                </div>
+                                            </div>
+                                        </motion.div>
+                                    )
+                                })}
+                            </AnimatePresence>
+                        </motion.div>
+
+                        {filteredMLAs.length === 0 && (
+                            <div className="empty-state">
+                                <span className="material-symbols-outlined">search_off</span>
+                                <p>No MLAs found matching your criteria</p>
+                            </div>
+                        )}
+                    </section>
+
+                    {/* Pagination */}
+                    {totalPages > 1 && (
+                        <footer className="pagination">
+                            <p className="pagination-info">
+                                Showing <span>{paginatedMLAs.length}</span> of <span>{filteredMLAs.length}</span> MLAs
+                            </p>
+                            <div className="pagination-controls">
+                                <button
+                                    className="pagination-btn prev"
+                                    disabled={currentPage === 1}
+                                    onClick={() => setCurrentPage(p => p - 1)}
+                                >
+                                    Previous
+                                </button>
+                                <button
+                                    className="pagination-btn next"
+                                    disabled={currentPage === totalPages}
+                                    onClick={() => setCurrentPage(p => p + 1)}
+                                >
+                                    Next
+                                </button>
+                            </div>
+                        </footer>
+                    )}
+                </main>
+            </div>
+
+            {/* Bottom Navigation */}
+            <BottomNav />
+        </div>
+    )
+}
+
+export default MLADashboardPage

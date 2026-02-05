@@ -1,0 +1,577 @@
+{
+    "mla_name": "Shri K.V. Sumesh",
+    "constituency": "AZHIKODE",
+    "district": "Kannur",
+    "summary": {
+        "total_expenditure_crores": 20.7339,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 6.849
+            },
+            {
+                "label": "Others",
+                "value_crores": 5.076
+            },
+            {
+                "label": "Education",
+                "value_crores": 2.2273
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 1.7723
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 1.6587
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 1.067
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 0.7336
+            },
+            {
+                "label": "Water Supply",
+                "value_crores": 0.7
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.65
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "Reenovation works to Azhikode Sri.Puthiyakavu Bhagavathi Temple Pond in Azhikode GP.",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നോര്‍ത്ത് അതിരകം കോറോത്ത് കാവ്‌ റോഡ്‌ അന്നമ്മ ക്വാര്‍ട്ടേഴ്സുമായി ബന്ധിപ്പിക്കുന്ന കനാലിനു പാലം",
+            "implementing_agency": "Executive Engineer, Pzhassi Irrigation Project Division, Kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "അഴീക്കോട് ഗ്രാമ പഞ്ചായത്ത്-  അഴീക്കോട് ചന്തന്‍ കുട്ടി റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "അഴീക്കോട് ഗ്രാമ പഞ്ചായത്ത്- തെക്ക് ഭാഗം  ചേരക്കിവയല്‍ ആത്മവിദ്യാമന്ദിരം റോഡില്‍ ഡ്രെയിനേജ് കവറിംഗ് സ്ലാബ് നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 22.23,
+            "concurrence_lakhs": 22.23
+        },
+        {
+            "project_name": "കണ്ണൂർ  മുനിസിപ്പല്‍   കോര്‍പ്പറേഷൻ ചാലാട് പുഞ്ചവയൽ റോഡ് ഒറ്റത്തെങ്ങ് റോഡ് ബന്ധിപ്പിക്കാൻ പുതിയ പാലം നിർമ്മാണം പ്രവൃത്തി.",
+            "implementing_agency": "EXECUTIVE ENGINEER KANNUR MUNICIPAL CORPORATION",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ചിറക്കൽ ഗ്രാമപഞ്ചായത്ത് കൊട്ടാരത്തും ചാൽ നീരൊഴുക്കുംചാൽ റോഡ് സൈഡ് ഭിത്തി നിർമ്മാണം  പ്രവൃത്തി",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ചിറക്കല്‍  ഗ്രാമ പഞ്ചായത്തില്‍ പുഞ്ചവയല്‍ റോഡില്‍  സ്ലാബിട്ടു റോഡ്‌ നിര്‍മ്മാണം  പ്രവൃത്തി",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 23.2,
+            "concurrence_lakhs": 23.2
+        },
+        {
+            "project_name": "ചിറക്കൽ ഗ്രാമപഞ്ചായത്ത് കോട്ടക്കുന്ന് സെൻറർ നമ്പർ 6 പുതിയ അംഗൻവാടി കെട്ടിട നിർമ്മാണം പ്രവൃത്തി",
+            "implementing_agency": "Executive Engineer PWD Building Division Thalassery",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ചിറക്കല്‍ ഫോക് ലോര്‍ അക്കാദമിയില്‍ ഓപ്പണ്‍ ഓഡിറ്റോറിയം നിര്‍മ്മാണം പ്രവൃത്തി",
+            "implementing_agency": "Executive Engineer PWD Building Division Thalassery",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 28.7,
+            "concurrence_lakhs": 28.7
+        },
+        {
+            "project_name": "അഴീക്കോട് ഗ്രാമ പഞ്ചായത്ത് അഴീക്കോട് ഇ എസ് റോഡില്‍ ഡ്രെയിനേജ് കവറിംഗ് സ്ലാബ് നിര്‍മ്മാണം പ്രവൃത്തി.",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "നാറാത്ത് ഗ്രാമ പഞ്ചായത്ത്‌ മിനി സ്റ്റേഡിയം നവീകരണം പ്രവൃത്തി .",
+            "implementing_agency": "CHIEF ENGINEER SPORTS KERALA FOUNDATION",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "ബഹു.അഴീക്കോട്‌ നിയോജകമണ്ഡലം എംഎല്‍എ ശ്രീ. കെ വി സുമേഷ് അവര്‍കളുടെ 2024-25 സാമ്പത്തിക വര്‍ഷത്തിലെ ആസ്തി  പദ്ധതിയില്‍ ഉള്‍പ്പെടുത്തി നിര്‍ദ്ദേശിച്ച നാറാത്ത് ഗ്രാമ പഞ്ചായത്തിലെ   ആശാരികോട്ടം റോഡ്‌ കോണ്‍ക്രീറ്റും  അനുബന്ധ നടപ്പാതയും മാവിലവയല്‍ തോടിനു സ്ലാബ് ഇടുന്ന പ്രവൃത്തി.",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 59.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "2023-24 വര്‍ഷത്തെ MLA ADS ല്‍ ഉള്‍പ്പെടുത്തി നടപ്പാക്കാന്‍ ബഹു അഴിക്കോട് നിയോജകമണ്ഡലം എംഎല്‍എ ശ്രീ കെ വി സുമേഷ് നിര്‍ദ്ദേശിച്ച കണ്ണൂര്‍ മുനിസിപ്പല്‍ കോര്‍പറേഷന്‍ പരിധിയില്‍ ഉള്ള ചാലാട് ശ്രീ ധര്‍മ്മശാസ്താ ക്ഷേത്രക്കുളം നവീകണം പ്രവൃത്തി",
+            "implementing_agency": "EXECUTIVE ENGINEER KANNUR MUNICIPAL CORPORATION",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 48.0,
+            "concurrence_lakhs": 48.0
+        },
+        {
+            "project_name": "ബഹു. അഴീക്കോട് നിയോജക മണ്ഡലം എം.എല്‍.എ ശ്രീ. കെ.വി സുമേഷ് അവര്‍കളുടെ 2025-26 സാമ്പത്തിക വര്‍ഷത്തെ ആസ്തി വികസന ഫണ്ടില്‍ നിന്നും 35 ലക്ഷം രൂപ ചെലവഴിച്ച്  നാറാത്ത് ഗ്രാമ പഞ്ചായത്തില്‍  കണ്ണാടിപറമ്പ്  റോഡില്‍ ഫുട്പാത്ത് കോണ്‍ക്രീറ്റ് കൈവരി നിര്‍മ്മാണം.",
+            "implementing_agency": "Executive Engineer PWD Roads Division kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "വളപട്ടണം സ്റ്റേഡിയത്തിന് പുറത്തു ഇന്റര്‍ലോക്ക് നിര്‍മ്മാണം.",
+            "implementing_agency": "Executive Engineer PWD Roads Division kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ബഹു. അഴീക്കോട് നിയോജക മണ്ഡലം എം.എല്‍.എ ശ്രീ. കെ.വി സുമേഷ് അവര്‍കളുടെ 2023-24 സാമ്പത്തിക വര്‍ഷത്തിലെ ആസ്തി വികസന ഫണ്ടില്‍ നിന്നും 10 ലക്ഷം രൂപ ചെലവഴിച്ച് അഴീക്കോട് ചാല്‍ ബീച്ചില്‍ 5 മിനി മാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കുന്ന പ്രവൃത്തി.",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD ELECTRICAL DIVISION KANNUR",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "2025-26  എം എൽ എ ആസ്തി വികസന ഫണ്ടിൽ ഉൾപ്പെടുത്തി   കണ്ണൂർ കോർപ്പറേഷൻ പള്ളിക്കുന്ന് സോണൽ പള്ളിക്കുന്ന് മിനി സ്റ്റേഡിയം നവീകരണം  - 50 ലക്ഷം രൂപ",
+            "implementing_agency": "CHIEF ENGINEER SPORTS KERALA FOUNDATION",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "വളപട്ടണം ടാക്സി സ്റ്റാൻറ് ഇൻറർലോക്ക് നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer PWD Roads Division kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "അഴിക്കോട് കീച്ചിപ്രത്ത് രമേശന്‍ വീട് മുതല്‍ വെള്ളക്കല്ല് വരെ റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "അഴിക്കൽ ബോട്ട് ജെട്ടി നിർമ്മാണം പ്രവൃത്തി",
+            "implementing_agency": "EXECUTIVE ENGINEER, INLAND NAVIGATION",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 79.0,
+            "concurrence_lakhs": 79.0
+        },
+        {
+            "project_name": "അഴീക്കോട് ഗ്രാമ പഞ്ചായത്തില്‍ വാര്‍ഡ് 13 ല്‍  നിർമ്മൽ വീട് മുതൽ കരുണാകരൻ കട വരെ സോളിംഗ് ആൻ്റ് ടാറിംഗ് പ്രവർത്തി",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 11.1
+        },
+        {
+            "project_name": "കണ്ണൂര്‍ മുനിസിപ്പല്‍ കോര്‍പ്പറേഷന്‍ 8 ഡിവിഷനില്‍ കൊറ്റാളി പാല്‍ സൊസൈറ്റിക്ക് സമീപം രാജശ്രീ വീട് വരെ തോടിന് കവറിംഗ് സ്ലാബിട്ട്‌ ഫൂട്ട്പാത്ത് നിര്‍മ്മാണം",
+            "implementing_agency": "EXECUTIVE ENGINEER KANNUR MUNICIPAL CORPORATION",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ചിറക്കല്‍ ഓണപ്പറമ്പ് റോഡില്‍ ഡ്രൈനേജ്, കവറിംഗ് സ്ലാബ്, റോഡ് നിര്‍മ്മാണം പ്രവൃത്തി",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കല്ലാളത്തില്‍ ശേഖരന്‍ റോഡ് ഉയര്‍ത്തി റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "EXECUTIVE ENGINEER KANNUR MUNICIPAL CORPORATION",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "കല്ലാളത്തില്‍ ശേഖരന്‍ റോഡ് ഉയര്‍ത്തി റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "EXECUTIVE ENGINEER KANNUR MUNICIPAL CORPORATION",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഗവ. ഫിഷറീസ് എല്‍.പി സ്കൂള്‍ നീര്‍ക്കടവ് - പുതിയ കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer PWD Building Division Thalassery",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "നാറാത്ത് ഗ്രാമ പഞ്ചായത്തിലെ മാതോടം ലക്ഷം വീട് കോളനി അംഗണവാടി പുതിയ കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "നാറാത്ത് പഞ്ചായത്ത്‌ മുത്താറത്ത് മുച്ചിലോട്ട് കാവ് റോഡില്‍ ഡ്രൈനേജ് നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "GVHSS കണ്ണാടിപ്പറമ്പ് സ്റ്റേജ് നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "അഴീക്കോട് ഗ്രാമ പഞ്ചായത്തിലെ മോളോളം വാസുലാല്‍ കമ്പനി റോഡ് ഉയര്‍ത്തി കോണ്‍ക്രീറ്റ് റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "കണ്ണൂര്‍ കോര്‍പ്പറേഷന്‍ - പുഴാതി സോണല്‍, ഒണ്ടേന്‍പറമ്പ് കനാല്‍ റോഡ് മുതല്‍ എളയാവൂര്‍ അതർത്തി വരെ സൈഡ് ഫൂട്പാത്ത് കോണ്‍ക്രീറ്റ്, കൈവരി നിര്‍മ്മാണം.",
+            "implementing_agency": "EXECUTIVE ENGINEER KANNUR MUNICIPAL CORPORATION",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "അഴീക്കോട് ഗ്രാമ പഞ്ചായത്തിലഎ മീന്‍കുന്ന് അയനിവയല്‍ കുളത്തിന് സമീപം തോടിന് സൈഡ് പ്രൊട്ടക്ഷന്‍ വാള്‍ നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "അഴീക്കോട് നിയോജക മണ്ഡലത്തിലെ അഴീക്കോട് കാപ്പിലെ പീടിക ജംഗ്ഷന്‍, പാപ്പിനിശ്ശേരി പഞ്ചായത്ത്,  അഴീക്കല്‍ ബോട്ട് പാലം,  അഴീക്കോട് നാലുമുക്ക് ജംഗ്ഷന്‍ എന്നീ നാല് സ്ഥലങ്ങളില്‍ ബസ് കാത്തിരിപ്പ് കേന്ദ്രം നിര്‍മ്മാണം.",
+            "implementing_agency": "Executive Engineer PWD Building Division Thalassery",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "ചിറക്കല്‍ ചിറ - ഹാന്‍വീവ് റെയില്‍വ്വേ ഓവര്‍ ബ്രിഡ്ജ് റോഡ് ഇന്റര്‍ലോക്ക്, സൈഡ് കോണ്‍ക്രീറ്റ് നിര്‍മാണം",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "കണ്ണൂര്‍ മുനിസിപ്പല്‍ കോര്‍പറേഷന്‍ 8-ാം ഡിവിഷനിലെ ഗോപാലന്‍കട പയങ്ങോടന്‍ പാറയ്ക്ക് സമീപത്തെ തോടിന് കവറിംഗ് സ്ലാബ് & ഫുട്പാത്ത് നിര്‍മ്മാണം",
+            "implementing_agency": "EXECUTIVE ENGINEER KANNUR MUNICIPAL CORPORATION",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "അഴിക്കൽ ഫെറി ബോട്ട് ജെട്ടി നിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യുട്ടീവ് എഞ്ചിനീയര്‍, ഉള്‍നാടന്‍ ജല ഗതാഗത വിഭാഗം, കണ്ണൂര്‍.",
+            "category": "Water Supply",
+            "fy": "2014-2015",
+            "estimate_lakhs": 70.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അഴീക്കോട് വന്‍കുളത്ത് വയല്‍ ഓലാടത്താഴെ റോഡില്‍ ഫുട്പാത്ത് കോണ്‍ക്രീറ്റ് ഡ്രൈനേജ് നിര്‍മ്മാണം.",
+            "implementing_agency": "Executive Engineer PWD Roads Division kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "നാറാത്ത് ഗ്രാമ പഞ്ചായത്തില്‍ ആശാരിക്കോട്ടം റോഡ് നിര്‍മ്മാണം.",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "കല്ല് കെട്ട്ചിറ കൊറ്റാളി റോഡില്‍ കള്‍വര്‍ട്ട് നിര്‍മ്മാണം",
+            "implementing_agency": "EXECUTIVE ENGINEER KANNUR MUNICIPAL CORPORATION",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF CULVERT ROAD AT PALLIKKUNNU JAI JAWAN ROAD IN PALLIKKUNNU ZONAL IN KANNUR CORPORATION",
+            "implementing_agency": "Superintending Engineer, Kannur Coporation",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "MLAADS-2023-24 AZHIKODE LAC CHIRAKKAL KADALAYI THERU GANAPATHI MANDAPAM KSHETRAKULAM NAVEEKARANAM",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 11.7,
+            "concurrence_lakhs": 11.7
+        },
+        {
+            "project_name": "MLAADS-2022-23 AZHIKODE LAC SUPPLY&INSTTALATION OF 21+1 MINIMAST&HIMAST LIGHTS AT VARIOUS LOCATIONS OF AZHIKODE LAC.",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 44.89,
+            "concurrence_lakhs": 44.89
+        },
+        {
+            "project_name": "MLAADS-2024-25 AZHIKODE LAC -KANDAMBETH ROAD CONCRETE IN NARATH GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLAADS-2023-24 AZHIKODE LAC-CONSTRUCTION OF COLONY GATE-VATTAKANDY ROAD BRIDGE AT AZHIKODE GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLAADS-2022-23 AZHIKODE LAC -CONSTRUCTION OF  BUDS SCHOOL AT CHIRAKKAL",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        },
+        {
+            "project_name": "MLAADS-2024-25 AZHIKODE LAC - AZHIKODE VANKULATH VAYALTAXISTAND ROAD CONSTRUCTION WITH ROAD  RAISING AND SIDE CONCRETING.",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 22.0
+        },
+        {
+            "project_name": "MLAADS 2024-25 AZHIKODE LAC-CONSTRUCTION OF DRAINAGE COVERING SLAB AT NAALUMUKKU KAANATHUR ROAD AT CHIRAKKAL GP.",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 17.2,
+            "concurrence_lakhs": 17.2
+        },
+        {
+            "project_name": "MLAADS-2024-25 AZHIKODE LAC-CHIRAKKAL SUBHRAMANYASWAMY TEMPLE ROAD -WITH ROAD RAISING AND SIDE CONCRETING",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "MLAADS-2023-24 AZHIKODE LAC -NARATH THRIKKANMADAM SHIVAKSHETRKULAM & NARATH SREE MAHAVISHNU KSHETRAKULAM NAVEEKARANAM.",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 24.0,
+            "concurrence_lakhs": 24.0
+        },
+        {
+            "project_name": "MLAADS-2023-24 AZHIKODE LAC-1) CHIRAKKAL PANANKAV KULAM NAVEEKARANAM(15.20),2)AZHIKODE SREE PAMBAADIAALINKEEZHIL KSHETRAM KULAM NAVEEKARANAM(40),3)CHIRAKKAL PUZHATHI SOMESWARI KSHETRAKULAM NAVEEKARANAM(5.70)",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 60.9,
+            "concurrence_lakhs": 60.9
+        },
+        {
+            "project_name": "MLAADS-2023-24-AZHIKODE LAC-RENOVATION OF KALARIVATHUKKAL KSHETRA KULAM IN CHIRAKKAL GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 80.0,
+            "concurrence_lakhs": 80.0
+        },
+        {
+            "project_name": "MLAADS-2022-23 -AZHIKODE LAC-Establishment of sports infrastructure facilities at CHMKS Memorial GHSS,Valapattanam",
+            "implementing_agency": "Director Sports Kerala Foundation Thiruvananthapuram",
+            "category": "Sports",
+            "fy": "2022-2023",
+            "estimate_lakhs": 65.0,
+            "concurrence_lakhs": 65.0
+        },
+        {
+            "project_name": "MLADAS-2023-24-AZHIKODE LAC-CONSTRUCTION OF SIDEWALL,COVERING SLAB AT KADALAKIYIL CHEKKICHIRA THIDU IN DIVISION 10 KANNUR MUNICIPAL CORPARATION.",
+            "implementing_agency": "Superintending Engineer, Kannur Coporation",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 28.0,
+            "concurrence_lakhs": 28.0
+        },
+        {
+            "project_name": "MLA ADS 2022-23-AZHIKODE LAC -CONSTRUCTION OF HOMEO & AYURVEDADISPENSARY BUILDING AT PUZHATHI ZONAL DIVISION NO 8 KANNUR CORPORATION",
+            "implementing_agency": "Superintending Engineer, Kannur Coporation",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 85.0,
+            "concurrence_lakhs": 85.0
+        },
+        {
+            "project_name": "MLA ADS-2022-23 AZHIKKODE LAC -CONSTRUCTION OF MODERN  CONFERENCEHALL ABOVE  CHIRAKKAL PHC",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "MLA ADS-2022-23 AZHIKODE LAC- CHIRAKKAL CHIRAKKU CHUTTUM HI MAST-MINI MAST LIGHT",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.47,
+            "concurrence_lakhs": 18.47
+        },
+        {
+            "project_name": "MLA ADS-2022-23 AZHIKODE LAC-CHC AZHIKODE,FHC CHIRAKKAL-AMBULANCE.",
+            "implementing_agency": "District Medical Officer Kannur",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.87,
+            "concurrence_lakhs": 30.87
+        },
+        {
+            "project_name": "MLA ADS-2022-23-AZHIKODE LAC-ONE PANCHAYATH ONE PLAYGROUND-AZHIKODE GRAMAPANCHAYATH STADIUM IN VANKULATH VAYAL.",
+            "implementing_agency": "Director Sports Kerala Foundation Thiruvananthapuram",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "MLA ADS 2023-24 AZHIKODE LAC CONSTRUCTION OF FOOTPATH AND HANDRAIL IN VANKULATHVAYAL TOWN AT AZHIKODE GP",
+            "implementing_agency": "Executive Engineer PWD Roads Division kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "MLA ADS 2022-23 AZHIKODE LAC-VEHICLE FOR -AROLI GHSS,KATAMBALLI GMUPS,PAPPINISSERI GWLPS.",
+            "implementing_agency": "Deputy Director of Education Kannur",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 42.73,
+            "concurrence_lakhs": 42.73
+        },
+        {
+            "project_name": "Construction of a modern conference hall in Narath FHC-General civil work at Narath grama panchayath",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കണ്ണൂര്‍ കോര്‍പറേഷന്‍ ഡിവിഷന്‍ 7 കൊറ്റാളി മുത്തപ്പന്‍ കാവ് മുതല്‍  പൂശാരി രാമേശന്‍ വീട്  വരെ റോഡില്‍ കള്‍വര്‍ട്ട്  സൈഡ് സംരക്ഷണ പ്രവര്‍ത്തിയും  ഇന്റര്‍ ലോക്ക് നിര്‍മ്മാണവും",
+            "implementing_agency": "Superintending Engineer, Kannur Coporation",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 19.25
+        },
+        {
+            "project_name": "അഴീക്കോട്‌ നിയോജകമണ്ഡലം ലൈബ്രറികളിലേക്ക് സൌണ്ട് സിസ്റ്റം,ലാപ്ടോപ്,പ്രിന്‍റര്‍,എല്‍ സി ഡി പ്രൊജക്ടര്‍ എന്നിവ വാങ്ങല്‍",
+            "implementing_agency": "ASSISTANT EXECUTIVE ENGINEER PWD ELECTRONIC SECTION KANNUR DIVISION KANNUR",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "അഴീക്കോട് നിയോജകമണ്ഡലത്തിലെ അംഗീകൃത ലൈബ്രറികളുടെ ഡിജിറ്റലൈസേഷന്‍",
+            "implementing_agency": "ASSISTANT EXECUTIVE ENGINEER PWD ELECTRONIC SECTION KANNUR DIVISION KANNUR",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കണ്ണൂര്‍ കൃഷ്ണ മേനോന്‍ സ്മാരക ഗവ. വനിതാ കോളേജ് ലൈബ്രറിയില്‍ റീഡിംങ്ങ് റും നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer PWD Building Division Thalassery",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "kannur_shri_kv_sumesh_placeholder"
+}

@@ -1,0 +1,341 @@
+{
+    "mla_name": "Shri Roshy Augustine",
+    "constituency": "IDUKKI",
+    "district": "Idukki",
+    "summary": {
+        "total_expenditure_crores": 12.2478,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 6.89
+            },
+            {
+                "label": "Education",
+                "value_crores": 1.945
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 1.3628
+            },
+            {
+                "label": "Others",
+                "value_crores": 1.25
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 0.7
+            },
+            {
+                "label": "Water Supply",
+                "value_crores": 0.1
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "കട്ടപ്പന മുനിസിപ്പാലിറ്റി/കാഞ്ചിയാർ ഗ്രാമപഞ്ചായത്തിലെ കടമാക്കുഴി - മുക്കത്തേകട - മേപ്പാറ റോഡ്",
+            "implementing_agency": "Executive Engineer, PWD Roads, Idukki",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വാഴത്തോപ്പ് ഗ്രാമപഞ്ചായത്തിലെ കരിമ്പൻ കുട്ടപ്പൻ സിറ്റി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "SECRETARY,VAZHATHOP GRAMA PANCHAYAT",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മരിയാപുരം ഗ്രാമപഞ്ചായത്തിലെ മിനി ഡാം ചിറ്റേട്ട് പടി ഡാം ടോപ് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Secretary mariyapuram Grama panchayath",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കൊന്നത്തടി ഗ്രാമപഞ്ചായത്തിലെ അടക്കനട്ടി തൊണ്ടിപടി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "SECRETARY,KONNATHADY GRAMA PANCHAYAT",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കാമാക്ഷി ഗ്രാമപഞ്ചായത്തിലെ (വാർഡ് 11) തങ്കമണി ബസ് സ്റ്റാന്റ് നിർമ്മാണവും അടിസ്ഥാന സൌകര്യ വികസനവും",
+            "implementing_agency": "Secretary Kamakshi grama Panchayath",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "പൈനാവ് ജംഗ്ഷനിൽ കേരള വാട്ടർ അതോറിറ്റിക്ക് പി.എച്ച്. സബ് ഡിവിഷൻ, സെക്ഷൻ ഓഫീസ് കെട്ടിടനിർമ്മാണം",
+            "implementing_agency": "Executive Engineer, Kerala Water Authority, Project Division, Kattappana",
+            "category": "Water Supply",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കൊന്നത്തടി ഗ്രാമപഞ്ചായത്തിലെ മുക്കുടം ഗവ. ഹൈസ്കൂളിന് ഇൻഡോർ ഓഡിറ്റോറിയം നിർമ്മാണം",
+            "implementing_agency": "SECRETARY,KONNATHADY GRAMA PANCHAYAT",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കൊന്നത്തടി ഗ്രാമപഞ്ചായത്തിലെ മുനിയറ ഗവ. ഹൈസ്കൂളിന് കെട്ടിടനിർമ്മാണം",
+            "implementing_agency": "SECRETARY,KONNATHADY GRAMA PANCHAYAT",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇടുക്കി നിയോജകമണ്ഡലത്തിലെ വിവിധ ഭാഗങ്ങളിൽ ഹൈമാസ്റ്റ് ലൈറ്റുകൾ സ്ഥാപിക്കൽ",
+            "implementing_agency": "Executive Engineer, LSGD, Idukki",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 39.28,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കട്ടപ്പന മുനിസിപ്പാലിറ്റിയിലെ 20 ഏക്കര്‍ - തൊവരയാര്‍ റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "Regional Engineer State Nirmithi Kendra Pala Kottayam",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കട്ടപ്പന മുനിസിപ്പാലിറ്റിയിലെ വലിയകണ്ടം 90-ാം നമ്പര്‍ അങ്കണവാടി കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "Block development officer kattappana",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വാഴത്തോപ്പ് ഗ്രാമപഞ്ചായത്തിലെ ചെറുതോണി ബസ് സ്റ്റാന്റ് കോൺക്രീറ്റിംഗ്",
+            "implementing_agency": "Project engineer, District Nirmithi Kendram, Idukki",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കൊന്നത്തടി ഗ്രാമപഞ്ചായത്തിലെ മൈപ്പാൻപടി - കാറ്റാടിപ്പാറ റോഡ് കോൺക്രീറ്റിംഗ്",
+            "implementing_agency": "SECRETARY,KONNATHADY GRAMA PANCHAYAT",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "കൊന്നത്തടി ഗ്രാമപഞ്ചായത്തിലെ  തെള്ളിത്തോട് – പുളിക്കപ്പടി – പാറത്തോട് റോഡ് കോൺക്രീറ്റിംഗ്",
+            "implementing_agency": "SECRETARY,KONNATHADY GRAMA PANCHAYAT",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "വാത്തിക്കുടി ഗ്രാമപഞ്ചായത്തിലെ ചെമ്പകപ്പാറ - ദൈവംമേട് റോഡ് (25 ലക്ഷം), ചപ്പാത്ത്പടി - ഇടമനപ്പാട്ട് പടി റോഡ് (10 ലക്ഷം) എന്നീ റോഡുകളുടെ നിർമ്മാണം (ആകെ 35 ലക്ഷം)",
+            "implementing_agency": "Block Development Officer Idukki",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "വാഴത്തോപ്പ് ഗ്രാമപഞ്ചായത്തിലെ കരിമ്പന്‍ ബൈപ്പാസ് റോഡ് കോണ്‍ക്രീറ്റിംഗ്",
+            "implementing_agency": "Block Development Officer Idukki",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മരിയാപുരം ഗ്രാമപഞ്ചായത്തിലെ ആലാംപുഴ പ്രിയദര്‍ശിനിമേട് റോഡ് (10 ലക്ഷം), കാമാക്ഷി ഗ്രാമപഞ്ചായത്തിലെ പാണ്ടിപ്പാറ - ഈട്ടിക്കവല - അല്‍ഫോണ്‍സാനഗര്‍ - കാല്‍വരി മൌണ്ട് റോഡ് (10 ലക്ഷം), കഞ്ഞിക്കുഴി ഗ്രാമപഞ്ചായത്തിലെ മൈലപ്പുഴ - മക്കുവള്ളി റോഡ് കോണ്‍ക്രീറ്റ് (15 ലക്ഷം) ആകെ (35 ലക്ഷം രൂപ)",
+            "implementing_agency": "Block Development Officer Idukki",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "കട്ടപ്പന മുനിസിപ്പാലിറ്റിയിലെ പുല്ലാട്ട്പടി ടാങ്ക്പടി വള്ളക്കടവ് റോഡ് (10 ലക്ഷം), കാരിപ്പടി - കല്യാണത്തണ്ട് റോഡ് (10 ലക്ഷം), ആശ്രമംപടി - പൂവേഴ്സ് മൌണ്ട് റോഡ് (10 ലക്ഷം) എന്നീ റോഡുകളുടെ നിര്‍മ്മാണം (ആകെ 30 ലക്ഷം)",
+            "implementing_agency": "Secretary Kattappana Muncipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "ഇടുക്കി നിയോജകമണ്ഡലത്തിന്‍റെ വിവിധ ഭാഗങ്ങളില്‍ ഹൈമാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കല്‍",
+            "implementing_agency": "Executive Engineer, LSGD, Idukki",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 97.0,
+            "concurrence_lakhs": 95.22
+        },
+        {
+            "project_name": "ഇടുക്കി ഗവ. മെഡിക്കല്‍ കോളേജില്‍ മോഡുലാര്‍ ഓപ്പറേഷന്‍ തിയേറ്റര്‍ (2 എണ്ണം) സ്ഥാപിക്കല്‍",
+            "implementing_agency": "Principal, Govt. Medical College ,Idukki",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 56.0,
+            "concurrence_lakhs": 56.0
+        },
+        {
+            "project_name": "കൊന്നത്തടി ഗ്രാമപഞ്ചായത്തിലെ പണിക്കന്‍കുടി ഗവണ്മെന്‍റ് ഹൈസ്കൂള്‍ കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "SECRETARY,KONNATHADY GRAMA PANCHAYAT",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കൊന്നത്തടി ഗ്രാമപഞ്ചായത്തിലെ  കമ്പിളികണ്ടം - കുരിശുകുത്തി – ഇഞ്ചത്തൊട്ടി റോഡ് കോണ്‍ക്രീറ്റിംഗ് (രണ്ടാം ഘട്ടം)",
+            "implementing_agency": "SECRETARY,KONNATHADY GRAMA PANCHAYAT",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "മരിയാപുരം ഗ്രാമപഞ്ചായത്തിലെ കൊച്ചുകരിമ്പന്‍ - സ്കൂള്‍പടി - സി.എസ്.ഐ. കുന്ന് റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "Block Development Officer Idukki",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കൊന്നത്തടി ഗ്രാമപഞ്ചായത്തിലെ ചിന്നാര്‍പാലം - പുളിക്കപ്പടി റോഡ് കോണ്‍ക്രീറ്റിംഗ്",
+            "implementing_agency": "Block Development Officer Adimali",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പഴയരിക്കണ്ടം ഗവ. ഹൈസ്ക്കൂളിന്   സ്കൂൾ ബസ് വാങ്ങൽ( 18 സീറ്റ്)",
+            "implementing_agency": "Deputy Director of Education,Idukki",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 14.69
+        },
+        {
+            "project_name": "ഇടുക്കി മെഡിക്കൽ കോളേജ്  ജംഗ്ഷൻ- ചെറുതോണി  ഡാം റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Project engineer, District Nirmithi Kendram, Idukki",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "1.ഗവ.യു പി സ്കൂൾ പൈനാവ്, വാഴത്തോപ്പ്, 2.ഗവ.എൽ പി  സ്കൂൾ നങ്കി , കഞ്ഞിക്കുഴി 3. ഗവ.എൽ പി  സ്കൂൾ ചേലച്ചുവട്, കഞ്ഞിക്കുഴി  എന്നിവിടങ്ങളിൽ സ്കൂൾ ബസ് വാങ്ങൽ(18 സീറ്റ്)",
+            "implementing_agency": "Deputy Director of Education,Idukki",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 46.0,
+            "concurrence_lakhs": 44.06
+        },
+        {
+            "project_name": "വാഴത്തോപ്പ്  ഗ്രാമപഞ്ചായത്തിലെ മുക്കണ്ണൻകുടി -ചേലക്കൽ പ്പടി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Project engineer, District Nirmithi Kendram, Idukki",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "വാഴത്തോപ്പ് ഗ്രാമപഞ്ചായത്തിലെ പുത്തൻപുരപ്പടി -തറപ്പേൽപ്പടി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Project engineer, District Nirmithi Kendram, Idukki",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 17.03
+        },
+        {
+            "project_name": "മരിയാപുരം ഗ്രാമ പഞ്ചായത്തിലെ വെള്ളക്കയം-പെരിയാർ -ആലിൻചുവട് റോഡിൽ വെള്ളക്കയം ഭാഗത്ത്പാലങ്ങളും(2 എണ്ണം) അപ്രോച്ച് റോഡും നിർമ്മാണം",
+            "implementing_agency": "Secretary mariyapuram Grama panchayath",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കൊന്നത്തടി ഗ്രാമപഞ്ചായത്തിലെ ചിന്നാർ-പുളിയ്ക്കപ്പടി റോഡ്(മാടപ്പറമ്പിൽഭാഗം മുതൽ) കോൺക്രീറ്റിംഗ്",
+            "implementing_agency": "Block Development Officer Adimali",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കാഞ്ചിയാർ ഗ്രാമപഞ്ചായത്തിലെ  പള്ളിക്കവല - പേഴുംകണ്ടം  റോഡ് നിർമ്മാണം",
+            "implementing_agency": "SECRETARY,KANCHIYAR GRAMAPANCHAYAT",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കൊന്നത്തടി ഗ്രാമ പഞ്ചായത്തിലെ  കമ്പിളികണ്ടം - കുരുശുകുത്തി  റോഡ്  കോൺക്രീറ്റിംഗ്",
+            "implementing_agency": "SECRETARY,KONNATHADY GRAMA PANCHAYAT",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "കാഞ്ചിയാർ  ഗ്രാമപഞ്ചായത്തിലെ  സ്വർണ്ണവിലാസം -മേപ്പാറ  റോഡ് നിർമ്മാണം",
+            "implementing_agency": "SECRETARY,KANCHIYAR GRAMAPANCHAYAT",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "ഇടുക്കി ഗവ. മെഡിക്കൽ കോളേജിന് കോളേജ് ബസ് വാങ്ങൽ (51 സീറ്റ്)",
+            "implementing_agency": "Principal, Govt. Medical College ,Idukki",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 24.13
+        },
+        {
+            "project_name": "ചെറുതോണി ബസ് ടെർമിനലിൽ പാർക്കിംഗ് ലോട്ട് നിർമ്മാണം",
+            "implementing_agency": "Project engineer, District Nirmithi Kendram, Idukki",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കൊന്നത്തടി ഗ്രാമപഞ്ചായത്തിലെ പാറത്തോട് ക്ഷീരസഹകരണസംഘം നം.കെ 14(ഡി) യ്ക് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "Block Development Officer Adimali",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "idukki_shri_roshy_augustine_placeholder"
+}

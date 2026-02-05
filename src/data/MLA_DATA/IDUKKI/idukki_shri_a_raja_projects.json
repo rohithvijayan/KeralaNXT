@@ -1,0 +1,685 @@
+{
+    "mla_name": "Shri A. Raja",
+    "constituency": "DEVIKULAM",
+    "district": "Idukki",
+    "summary": {
+        "total_expenditure_crores": 20.4005,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 11.9904
+            },
+            {
+                "label": "Others",
+                "value_crores": 4.67
+            },
+            {
+                "label": "Education",
+                "value_crores": 1.6801
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 0.94
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.5
+            },
+            {
+                "label": "Water Supply",
+                "value_crores": 0.3
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 0.22
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.1
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "കാന്തല്ലൂർ ഗ്രാമപഞ്ചായത്തിലെ മിഷ്യൻ വയൽ - കട്ടിയനാട് റോഡ് കോൺക്രീറ്റ് - 20 ലക്ഷം, കോവിൽക്കടവ് - ദണ്ഡ് കൊമ്പ് റോഡ് കോൺക്രീറ്റ് - 15 ലക്ഷം (ആകെ 35 ലക്ഷം)",
+            "implementing_agency": "Block Development Officer Devikulam",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അടിമാലി ഗ്രാമപഞ്ചായത്തിലെ പാട്ടയിടമ്പ് - ഉന്നതി റോഡ് കോൺക്രീറ്റ് - 12.50 ലക്ഷം, പൂപ്പാത്ത്പടി റോഡ് നവീകരണം (വാർഡ് 17) - 12.50 ലക്ഷം (ആകെ 25 ലക്ഷം)",
+            "implementing_agency": "Block Development Officer Adimali",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ദേവികുളം നിയോജകമണ്ഡലത്തിലെ വിവിധ ഭാഗങ്ങളിൽ LED ഹൈമാസ്റ്റ് / മിനിമാസ്റ്റ് ലൈറ്റുകൾ സ്ഥാപിക്കൽ",
+            "implementing_agency": "Block Development Officer Devikulam",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ബൈസൺവാലി ഗ്രാമപഞ്ചായത്തിലെ ബൈസൺ വാലി ഗവൺമെൻറ് ഹൈസ്കൂളിന് ബസ് വാങ്ങൽ",
+            "implementing_agency": "Deputy Director of Education,Idukki",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പള്ളിവാസൽ ഗ്രാമപഞ്ചായത്തിലെ കുഞ്ചിത്തണ്ണി ഗവൺമെൻറ് ഹൈസ്കൂളിന് ബസ് വാങ്ങൽ",
+            "implementing_agency": "Deputy Director of Education,Idukki",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ദേവികുളം ഗ്രാമപഞ്ചായത്തിലെ ചെണ്ടുവര ടോപ്പ് ഡിവിഷൻ റോഡ് കോൺക്രീറ്റ്",
+            "implementing_agency": "Block Development Officer Devikulam",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ദേവികുളം ഗ്രാമപഞ്ചായത്തിലെ എക്കോപോയിന്റ് - അരുവിക്കാട് റോഡ് കോൺക്രീറ്റ് - 20 ലക്ഷം, ഗുണ്ടുമല ന്യൂ ഡിവിഷൻ റോഡ് കോൺക്രീറ്റ് - 15 ലക്ഷം (ആകെ 35 ലക്ഷം)",
+            "implementing_agency": "Block Development Officer Devikulam",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മൂന്നാർ ഗ്രാമപഞ്ചായത്തിലെ പാമ്പൻ മല റോഡ് കോൺക്രീറ്റ് -20 ലക്ഷം,  ലക്ഷ്മി ഈസ്റ്റ് ഡിവിഷൻ റോഡ് കോൺക്രീറ്റ് - 25 ലക്ഷം (ആകെ 45 ലക്ഷം)",
+            "implementing_agency": "Block Development Officer Devikulam",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മറയൂർ ഗ്രാമപഞ്ചായത്തിലെ കവകുടി റോഡ് കോൺക്രീറ്റ്",
+            "implementing_agency": "Block Development Officer Devikulam",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 17.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കാന്തല്ലൂർ ഗ്രാമപഞ്ചായത്തിലെ ഇടക്കടവ് - ചുരക്കുളം റോഡ് പുനരുദ്ധാരണം",
+            "implementing_agency": "Block Development Officer Devikulam",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചിന്നക്കനാൽ ഗ്രാമപഞ്ചായത്തിലെ സൂര്യനെല്ലി -അപ്പർ സൂര്യനെല്ലി റോഡ് കോൺക്രീറ്റ് - 30 ലക്ഷം, ബിയൽറാവ് കൊളുത്താംപാറ റോഡ് കോൺക്രീറ്റ്  - 20 ലക്ഷം (ആകെ 50 ലക്ഷം)",
+            "implementing_agency": "Block Development Officer Devikulam",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "വെള്ളത്തൂവൽ ഗ്രാമപഞ്ചായത്തിലെ ഹോമിയോപ്പടി - കപ്പേളപ്പടി -ചെങ്കുളം റോഡ് കോൺക്രീറ്റ് - 15 ലക്ഷം, ട്രാൻസ്ഫോർമർ കാംകോ റോഡ് കോൺക്രീറ്റ് - 15 ലക്ഷം (ആകെ 30 ലക്ഷം)",
+            "implementing_agency": "Block Development Officer Adimali",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മാങ്കുളം ഗ്രാമപഞ്ചായത്തിലെ പാമ്പുകയം താളുംകണ്ടം കലുങ്ക് നിർമ്മാണം",
+            "implementing_agency": "Block Development Officer Devikulam",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പള്ളിവാസൽ ഗ്രാമപഞ്ചായത്തിലെ അമ്പഴച്ചാൽ കാണ്ടിയാമ്പാറ റോഡ് ടാറിംഗ്",
+            "implementing_agency": "Block Development Officer Adimali",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 29.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ബൈസൺ വാലി ഗ്രാമപഞ്ചായത്തിലെ ജോസ് ഗിരി ഈറ്റക്കാനം റോഡ് കോൺക്രീറ്റ് - 10 ലക്ഷം,  കുഴിക്കാട്ട് മറ്റം വയലിൽപ്പറ്റി സ്കൂൾപടി റോഡ് കോൺക്രീറ്റ് - 10 ലക്ഷം (ആകെ 20 ലക്ഷം)",
+            "implementing_agency": "Block Development Officer Adimali",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കാന്തല്ലൂർ ഗ്രാമപഞ്ചായത്തിലെ മിഷ്യൻവയൽ - കട്ടിയനാട് റോഡ് പുനരുദ്ധാരണം",
+            "implementing_agency": "Block Development Officer Devikulam",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മറയൂർ ഗ്രാമപഞ്ചായത്തിലെ ഗുണശേഖരൻ അംഗൻവാടി കനാൽ",
+            "implementing_agency": "SECRETARY, MARAYOOR GRAMAPANCHAYAT",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മൂന്നാർ ഗ്രാമപഞ്ചായത്തിലെ മൂന്നാർ ജിഎച്ച് റോഡ് പുനരുദ്ധാരണം",
+            "implementing_agency": "Block Development Officer Devikulam",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "വെള്ളത്തൂവല്‍ ഗ്രാമപഞ്ചായത്തിലെ  (വാര്‍ഡ് 17) ആയിരം ഏക്കര്‍ -കല്ലാര്‍കുട്ടി  കൈത്തറി റോഡില്‍ കലുങ്ക് നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer, PWD Roads, Idukki",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അടിമാലി ഗ്രാമപഞ്ചായത്തിലെ 200 ഏക്കർ സ്നേഹദീപ് റിംഗ് റോഡ് കോൺക്രീറ്റ് (10 ലക്ഷം),  അടിമാലി ഐക്കരക്കുന്ന് നടപ്പാത നിർമ്മാണം  (10 ലക്ഷം) ആകെ 20 ലക്ഷം",
+            "implementing_agency": "Secretary, Adimali Grama Panchayath",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "വെള്ളത്തൂവൽ ഗ്രാമപഞ്ചായത്തിലെ കല്ലാർകുട്ടി ഗവ. ഹൈസ്കൂളിന് ബസ് വാങ്ങൽ",
+            "implementing_agency": "Deputy Director of Education,Idukki",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ബൈസൺവാലി ഗ്രാമപഞ്ചായത്തിലെ 20 ഏക്കർ നോർത്ത് റോഡ് പുനരുദ്ധാരണം (15 ലക്ഷം),  പൊട്ടൻകാട് ഉപ്പാർ റോഡ് കോൺക്രീറ്റ് (20 ലക്ഷം), പൊട്ടൻകാട് മഞ്ഞപ്പിള്ളി സിറ്റി റോഡ് കോൺക്രീറ്റ് (10 ലക്ഷം) ആകെ 45 ലക്ഷം",
+            "implementing_agency": "Secretary, Baisonvalley Grama Panchayath",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        },
+        {
+            "project_name": "അടിമാലി ഗ്രാമപഞ്ചായത്തിലെ ഇരുന്നൂറേക്കർ മെഴുകും ചാൽ കാംകോ കൊറ്റാഞ്ചേരിപ്പടി റോഡ് കോൺക്രീറ്റിംഗ്",
+            "implementing_agency": "Secretary, Adimali Grama Panchayath",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "മറയൂർ ഗ്രാമപഞ്ചായത്തിലെ വിക്ടർ വീട് കൊച്ചാരം റോഡ് കോൺക്രീറ്റ് (30 ലക്ഷം), ചാനൽമേട് വെയ്റ്റിംഗ് ഷെഡ് റോഡ് കോൺക്രീറ്റ് (10 ലക്ഷം) ആകെ 40 ലക്ഷം",
+            "implementing_agency": "SECRETARY, MARAYOOR GRAMAPANCHAYAT",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കാന്തല്ലൂർ ഗ്രാമപഞ്ചായത്തിലെ പുത്തൂർ പാലം അപ്രോച്ച് റോഡ് കോൺക്രീറ്റിംഗ്",
+            "implementing_agency": "Secretary, Kanthalloor Grama Panchayath",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കാന്തല്ലൂർ ഗ്രാമപഞ്ചായത്തിലെ ചുരക്കുളം പാമ്പൻപാറ റോഡ് ടാറിംഗ് (15 ലക്ഷം), പൊങ്ങംമ്പിള്ളി ഇടക്കിടവ് റോഡ് ടാറിംഗ് (15 ലക്ഷം) ആകെ 30 ലക്ഷം",
+            "implementing_agency": "Secretary, Kanthalloor Grama Panchayath",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കാന്തല്ലൂർ ഗ്രാമപഞ്ചായത്തിലെ മിഷ്യൻവയൽ - കട്ടിയനാട് -ചാനൽമേട് റോഡ് ടാറിംഗ്",
+            "implementing_agency": "Secretary, Kanthalloor Grama Panchayath",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കാന്തല്ലൂർ ഗ്രാമപഞ്ചായത്തിലെ കർശനാട് കമ്മ്യൂണിറ്റി ഹാൾ നിർമ്മാണം",
+            "implementing_agency": "Secretary, Kanthalloor Grama Panchayath",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "അടിമാലി ഗ്രാമപഞ്ചായത്തിലെ മെഴുകുംചാൽ മുനിയിറച്ചാൽ റോഡ് കോൺക്രീറ്റിംഗ്",
+            "implementing_agency": "Secretary, Adimali Grama Panchayath",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "അടിമാലി ഗ്രാമപഞ്ചായത്തിലെ കനകപ്പൻപടി - അമ്പാടിപ്പടി റോഡ് കോൺക്രീറ്റ് (10ലക്ഷം), രാജൻ പടി കുരിശുംപടി റോഡ് കോൺക്രീറ്റ് (10 ലക്ഷം) ആകെ 20 ലക്ഷം",
+            "implementing_agency": "Secretary, Adimali Grama Panchayath",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ചിന്നക്കനാൽ ഗ്രാമപഞ്ചായത്തിലെ സിംഗുകണ്ടം  സൂര്യനെല്ലി റോഡ് ടാറിംഗ് (20 ലക്ഷം), മുട്ടുകാട് ഏത് വിഷൻ മുതൽ വേണൽ വരെ റോഡ് ടാറിംഗ് (20 ലക്ഷം) ആകെ 40 ലക്ഷം",
+            "implementing_agency": "SECRETARY, CHINNAKKANAL GRAMA PANCHAYAT",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "വെള്ളത്തൂവൽ ഗ്രാമപഞ്ചായത്തിലെ കൂമ്പൻപാറ പള്ളിപ്പടി ഓടക്കാ സിറ്റി റോഡ് സംരക്ഷണഭിത്തി നിർമ്മാണം",
+            "implementing_agency": "Secretary, Vellathooval Grama PAnchayath",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "വെള്ളത്തൂവൽ ഗ്രാമപഞ്ചായത്തിലെ ആമക്കണ്ടം  മുസ്ലിം പള്ളിപ്പടി മുതുവാൻകുടി റോഡ് ടാറിംഗ്",
+            "implementing_agency": "Secretary, Vellathooval Grama PAnchayath",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "വെള്ളത്തൂവൽ ഗ്രാമപഞ്ചായത്തിലെ പുള്ളിക്കുടിപ്പടി - പള്ളിപ്പടി റോഡ് കോൺക്രീറ്റ് (10 ലക്ഷം), ശാരോൺപുരം - അട്ടിക്കുന്ന് റോഡ് കോൺക്രീറ്റ് (10 ലക്ഷം) ആകെ 20 ലക്ഷം",
+            "implementing_agency": "Secretary, Vellathooval Grama PAnchayath",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ബൈസൺവാലി ഗ്രാമപഞ്ചായത്തിലെ 40 ഏക്കർ -കോമാളിക്കുടി റോഡ് കോൺക്രീറ്റ് (20 ലക്ഷം), ലക്ഷംവീട് -  ചൊക്രമുടി റോഡ് കോൺക്രീറ്റ് (10 ലക്ഷം), ബൈസൺവാലി -ചന്ദ്രഗിരി - ചൊക്രമുടി റോഡ് കോൺക്രീറ്റ് (10 ലക്ഷം) ആകെ 40 ലക്ഷം",
+            "implementing_agency": "Secretary, Baisonvalley Grama Panchayath",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "പള്ളിവാസൽ ഗ്രാമപഞ്ചായത്തിലെ പ്ലാമല പീച്ചാട് റോഡ് കോൺക്രീറ്റിംഗ്",
+            "implementing_agency": "Secretary, Pallivasal Grama Panchayath",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "മാങ്കുളം ഗ്രാമപഞ്ചായത്തിലെ പാമ്പുംകയം പന്നിപ്പാറ റോഡ് കോൺക്രീറ്റിംഗ് (10 ലക്ഷം), ആനക്കുളം വലിയപാറക്കുടി റോഡ് കോൺക്രീറ്റിംഗ് (10 ലക്ഷം) ആകെ 20 ലക്ഷം",
+            "implementing_agency": "Secretary, Mankulam Grama Panchayath",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "വെള്ളത്തൂവൽ ഗ്രാമപഞ്ചായത്തിൽ കളിക്കളം (വാർഡ് 6 ഈട്ടിസിറ്റി)",
+            "implementing_agency": "Secretary, Vellathooval Grama PAnchayath",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചിന്നക്കനാൽ ഗ്രാമപഞ്ചായത്തിലെ സൂര്യനെല്ലി ടൗൺ ഡ്രെയിനേജ് നിർമ്മാണം",
+            "implementing_agency": "SECRETARY, CHINNAKKANAL GRAMA PANCHAYAT",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വട്ടവട ഗ്രാമപഞ്ചായത്തിൽ കമ്മ്യൂണിറ്റി ഹാൾ നിർമ്മാണം",
+            "implementing_agency": "Secretary, Vattavada Grama Panchayath",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 39.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മൂന്നാർ ഗ്രാമപഞ്ചായത്തിലെ ലക്ഷ്മി ഫാക്ടറി -  മിഡിൽ ഡിവിഷൻ റോഡ് പുനരുദ്ധാരണം",
+            "implementing_agency": "Secretary, Munnar Grama Panchayath",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 24.0,
+            "concurrence_lakhs": 24.0
+        },
+        {
+            "project_name": "ദേവികുളം ഗ്രാമപഞ്ചായത്തിലെ നെറ്റിക്കുടി ടോപ് ഡിവിഷൻ റോഡ് ടാറിംഗ്",
+            "implementing_agency": "Secretary, Devikulam Grama Panchayath",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 24.0,
+            "concurrence_lakhs": 24.0
+        },
+        {
+            "project_name": "മൂന്നാർ ഗ്രാമപഞ്ചായത്തിലെ മൂന്നാർ ജിഎച്ച് റോഡ് പുനരുദ്ധാരണം",
+            "implementing_agency": "Secretary, Munnar Grama Panchayath",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചിന്നക്കനാൽ ഗ്രാമപഞ്ചായത്ത് പവർഹൗസ് ചെക്ക് ഡാം മുതൽ ചിന്നക്കനാൽ വിലക്ക് വരെ കുടിവെള്ള പദ്ധതി (20 ലക്ഷം)ഷണ്മുഖവിലാസം കുടിവെള്ള പദ്ധതി (10 ലക്ഷം) ആകെ 30 ലക്ഷം",
+            "implementing_agency": "SECRETARY, CHINNAKKANAL GRAMA PANCHAYAT",
+            "category": "Water Supply",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മാങ്കുളം ഗ്രാമപഞ്ചായത്തിലെ മാങ്കുളം ബസ് സ്റ്റാൻഡ് നിർമ്മാണം",
+            "implementing_agency": "Secretary, Devikulam Grama Panchayath",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ദേവികുളം ഗ്രാമപഞ്ചായത്തിലെ മാട്ടുപ്പെട്ടി ടോപ് ഡിവിഷൻ റോഡ് ടാറിംഗ്",
+            "implementing_agency": "Secretary, Devikulam Grama Panchayath",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ദേവികുളം ഗ്രാമപഞ്ചായത്തിലെ ചെണ്ടുവര ടോപ്പ് ഡിവിഷൻ റോഡ് കോൺക്രീറ്റിംഗ്",
+            "implementing_agency": "Secretary, Devikulam Grama Panchayath",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 24.0
+        },
+        {
+            "project_name": "മൂന്നാർ ഗ്രാമപഞ്ചായത്തിലെ കല്ലാർ പുതുക്കാട് റോഡ് ടാറിംഗ്",
+            "implementing_agency": "Secretary, Munnar Grama Panchayath",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പള്ളിവാസൽ ഗ്രാമപഞ്ചായത്തിലെ കരടിപ്പാറ മൂലക്കട റോഡ് കോൺക്രീറ്റ് (10 ലക്ഷം) ചെകുത്താൻമുക്ക് മാതിരംപള്ളികുന്ന് റോഡ് കോൺക്രീറ്റ് (10 ലക്ഷം) ആകെ 20 ലക്ഷം",
+            "implementing_agency": "Secretary, Pallivasal Grama Panchayath",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പള്ളിവാസൽ ഗ്രാമപഞ്ചായത്തിലെ ദേശീയം അമ്പലപ്പടി പുല്ലുമല റോഡ് കോൺക്രീറ്റിംഗ്",
+            "implementing_agency": "Secretary, Pallivasal Grama Panchayath",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ദേവികുളം നിയോജകമണ്ഡലത്തിലെ വിവിധ സ്ഥലങ്ങളിൽ സ്മാർട്ട് ബസ് സ്റ്റോപ്പ് നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer, LSGD, Idukki",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മറയൂർ ടൗണിൽ സ്മാർട്ട് ബസ് സ്റ്റോപ്പ് നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer, LSGD, Idukki",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അടിമാലി ബസ് സ്റ്റാൻഡിൽ സ്മാർട്ട് ബസ് സ്റ്റോപ്പ് നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer, LSGD, Idukki",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വട്ടവട സ്മാർട്ട് ബസ് സ്റ്റോപ്പും അനുബന്ധ സൗകര്യങ്ങളും നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer, LSGD, Idukki",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മൂന്നാർ ടൗൺ സ്മാർട്ട് ബസ് സ്റ്റോപ്പ് നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer, LSGD, Idukki",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കോളേജ്  ഓഫ് അപ്ലൈഡ്  സയൻസ് ( ഐ എച്ച് ആർ ഡി ) കാന്തല്ലൂരിന്   കോളേജ് ബസ് വാങ്ങൽ",
+            "implementing_agency": "Principal , College of Applied Science, Kanthalloor",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 23.69,
+            "concurrence_lakhs": 22.16
+        },
+        {
+            "project_name": "വെള്ളത്തൂവൽ ഗ്രാമപഞ്ചായത്തിലെ  പന്നിയാർകുട്ടി പോത്തുപാറ നടപ്പാലം നിർമ്മാണം",
+            "implementing_agency": "Secretary, Vellathooval Grama PAnchayath",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 27.0,
+            "concurrence_lakhs": 27.0
+        },
+        {
+            "project_name": "സംസ്ഥാന സർക്കാരിൻറെ ഒരു പഞ്ചായത്തിൽ ഒരു കളിക്കളം  പദ്ധതിയിൽ ഉൾപ്പെടുത്തി പള്ളിവാസൽ ഗ്രാമപഞ്ചായത്തിൽ  കളിസ്ഥലം നിർമ്മാണം",
+            "implementing_agency": "Managing Director ,Sports Kerala Foundation,Vellayambalam, Thiruvananthapuram",
+            "category": "Sports",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "മൂന്നാർ ഗ്രാമപഞ്ചായത്തിലെ  (വാർഡ് 11) പഴയമൂന്നാർ ഹാങ്ങിംഗ് ബ്രിഡ്ജ്  നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer, LSGD, Idukki",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 115.0,
+            "concurrence_lakhs": 115.0
+        },
+        {
+            "project_name": "മാങ്കുളം ഗ്രാമപഞ്ചായത്തിലെ  മാങ്കുളം   ബസ് സ്റ്റാൻഡ്  നിർമ്മാണം - പ്രാരംഭഘട്ടം",
+            "implementing_agency": "Secretary, Mankulam Grama Panchayath",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 38.0,
+            "concurrence_lakhs": 38.0
+        },
+        {
+            "project_name": "മറയൂർ ഗ്രാമപഞ്ചായത്തിലെ മറയൂർ ഗവ. ഹൈ സ്കൂളിന്  സ്കൂൾ ബസ് വാങ്ങൽ",
+            "implementing_agency": "Deputy Director of Education,Idukki",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 22.66,
+            "concurrence_lakhs": 22.66
+        },
+        {
+            "project_name": "മറയൂർ ഗ്രാമപഞ്ചായത്തിലെ മറയൂർ ഗവ. എൽ പി സ്കൂളിന്  സ്കൂൾ ബസ് വാങ്ങൽ",
+            "implementing_agency": "Deputy Director of Education,Idukki",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 22.66,
+            "concurrence_lakhs": 22.66
+        },
+        {
+            "project_name": "ബൈസൺവാലി ഗ്രാമപഞ്ചായത്ത് വാർഡ് 7 ലെ   നാൽപതേക്കർ കോമാളിക്കുടി റോഡ്  (15 ലക്ഷം) , കാക്കാക്കട കോമാളിപ്പാറ റോഡ് (10 ലക്ഷം), വാർഡ് 3 ലെ പൊട്ടൻകാട് പൂമല റോഡ് ( 10 ലക്ഷം )  , വാർഡ് 13 ലെ  ചെറിയപാലം  പള്ളിപ്പടി റോഡ്(10 ലക്ഷം)  എന്നീ റോഡുകളുടെ കോൺക്രീറ്റിംഗ്  (ആകെ 45 ലക്ഷം)",
+            "implementing_agency": "Secretary, Baisonvalley Grama Panchayath",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        },
+        {
+            "project_name": "കാന്തല്ലൂർ ഗ്രാമപഞ്ചായത്തിലെ  കാന്തല്ലൂർ ഗുഹനാഥപുരം കുട്ടിയാർ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Secretary, Kanthalloor Grama Panchayath",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 23.54,
+            "concurrence_lakhs": 23.54
+        },
+        {
+            "project_name": "ചിന്നക്കനാൽ ഗ്രാമപഞ്ചായത്തിലെ (വാർഡ് 7) ബിയൽറാം  ഏലമുടി റോഡ് കോൺക്രീറ്റിംഗ്",
+            "implementing_agency": "SECRETARY, CHINNAKKANAL GRAMA PANCHAYAT",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ചിന്നക്കനാൽ ഗ്രാമപഞ്ചായത്തിലെ  (വാർഡ് 5) അപ്പർ സൂര്യനെല്ലി നാഗമല റോഡ് കോൺക്രീറ്റിംഗ്",
+            "implementing_agency": "SECRETARY, CHINNAKKANAL GRAMA PANCHAYAT",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ദേവികുളം ഗ്രാമപഞ്ചായത്തിലെ ദേവികുളം ഗവ. എൽ .പി. സ്കൂളിന് ഓപ്പൺ എയർ ഓഡിറ്റോറിയം  നിർമ്മാണം",
+            "implementing_agency": "Secretary, Devikulam Grama Panchayath",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "അടിമാലി ഗ്രാമപഞ്ചായത്തിലെ അമ്പലപ്പടി  ചെമ്പോത്തിങ്കൽ റോഡ് (10 ലക്ഷം), കമ്പിലൈൻ -ഒഴുവത്തടം  (20 ലക്ഷം) എന്നീ റോഡുകളുടെ കോൺക്രീറ്റിംഗ് (ആകെ 30 ലക്ഷം)",
+            "implementing_agency": "Secretary, Adimali Grama Panchayath",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "വെള്ളത്തൂവൽ ഗ്രാമപഞ്ചായത്തിലെ (വാർഡ് 12,13)കല്ല് റോഡ് -ചെല്ലിയാമ്പാറ റോഡ് കോൺക്രീറ്റിംഗ്(10ലക്ഷം), ആനകുളം-ഇടശ്ശേരി പടി മണ്ഡലംകുന്ന്-സധിപടി റോഡ്  കോൺക്രീറ്റിംഗ്(10 ലക്ഷം) ആകെ 20 ലക്ഷം",
+            "implementing_agency": "Secretary, Vellathooval Grama PAnchayath",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "അടിമാലി ഗ്രാമപഞ്ചായത്തിലെ കൂമ്പൻപാറ -ഇരുന്നൂറേക്കർ റോഡിൽ (വാർഡ്12) കൂമ്പൻപാറ അങ്കണവാടിക്ക് സമീപം കലുങ്ക് , സംരക്ഷണ ഭിത്തി  എന്നിവയുടെ നിർമ്മാണം",
+            "implementing_agency": "Secretary, Adimali Grama Panchayath",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ദേവികുളം സാമൂഹികാരോഗ്യകേന്ദ്രത്തിന് ഡോക്ടേഴ്സ് ക്വോട്ടേഴ്സ് നിർമ്മാണം",
+            "implementing_agency": "Block Development Officer Devikulam",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചിന്നക്കനാൽ ഗ്രാമപഞ്ചായത്ത് പ്രൈമറി ഹെെൽത്ത് സെൻററിന് ഒ. പി ബ്ലോക്ക് നിർമ്മാണം",
+            "implementing_agency": "SECRETARY, CHINNAKKANAL GRAMA PANCHAYAT",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കാന്തല്ലൂർ ഗ്രാമപഞ്ചായത്തിലെ (വാർഡ്-11) കാന്തല്ലൂർ ടൌൺ വികസനം (ടൈൽസ് വിരിക്കൽ",
+            "implementing_agency": "Secretary, Kanthalloor Grama Panchayath",
+            "category": "Infrastructure",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പള്ളിവാസൽ ഗ്രാമപഞ്ചായത്തിലെ (വാർഡ് 8) ഓഡിറ്റ് മതിരംപിള്ളി കുന്ന് റോഡിൽ കലുങ്കും സൈഡ് വാൾ   നിർമ്മാണം",
+            "implementing_agency": "Secretary, Pallivasal Grama Panchayath",
+            "category": "Irrigation",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മറയൂർ ഗ്രാമപഞ്ചായത്തിലെ ( വാർഡ്12) അനക്കൽപെട്ടി അങ്കണവാടി കെട്ടിടനിർമ്മാണം",
+            "implementing_agency": "SECRETARY, MARAYOOR GRAMAPANCHAYAT",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മാങ്കുളം ഗ്രാമപഞ്ചായത്തിലെ (വാർഡ്11) സി കെ പാറ-കണ്ണാടിപാറ റോഡ്  കോൺക്രീറ്റിംഗും കലുങ്ക് നിർമ്മാണവും",
+            "implementing_agency": "Secretary, Mankulam Grama Panchayath",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ബൈസൺവാലി ഗ്രാമപഞ്ചായത്തിലെ ( വാർഡ് 1) ഇരുപതേക്കർ നോർത്ത് റോഡിൽ കൽവർട്ട് നിർമ്മാണം",
+            "implementing_agency": "Secretary, Baisonvalley Grama Panchayath",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "വെള്ളത്തൂവൽ ഗ്രാമപഞ്ചാത്തിലെ  (വാർഡ് 5) ആനച്ചാൽ-ആലീസ് ചാൾസ് -പമ്പിരുമുടി -ആമക്കണ്ടം റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Secretary, Vellathooval Grama PAnchayath",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "അടിമാലി ഗ്രാമപഞ്ചായത്തിലെ (വാർഡ് 8)കുര്യൻസ് പടി -അപ്സര റോഡിൽ പാലം നിർമ്മാണം",
+            "implementing_agency": "Secretary, Adimali Grama Panchayath",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "idukki_shri_a_raja_placeholder"
+}

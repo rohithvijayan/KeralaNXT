@@ -1,0 +1,701 @@
+{
+    "mla_name": "Shri Saneeshkumar Joseph",
+    "constituency": "CHALAKKUDY",
+    "district": "Thrissur",
+    "summary": {
+        "total_expenditure_crores": 20.8159,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 9.916
+            },
+            {
+                "label": "Others",
+                "value_crores": 4.58
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 3.2
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 2.6899
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.33
+            },
+            {
+                "label": "Education",
+                "value_crores": 0.1
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "പടിഞ്ഞാറെ ചാലക്കുടി ഹെല്‍ത്ത് ആന്റ് വെല്‍നെസ്സ് സെന്ററിന് പുതിയ കെട്ടിടം-ചാലക്കുടി നഗരസഭ വാര്‍ഡ് 25",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പരിയാരം ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 2-പോത്തൊടി കമ്മളം റോഡ്",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കോണ്‍വെന്റ് റോഡ്-ചാലക്കുടി നഗരസഭ",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 19.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കോണ്‍വെന്റ് റോഡ്-ചാലക്കുടി നഗരസഭ",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 19.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കെ.എസ്.ആര്‍.ടി.സി ബസ്സ് സ്റ്റാന്റില്‍ ഡ്രവിംഗ് ടെസ്റ്റ് ഗ്രൗണ്ട് നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ജെ.ടി.എസ് കുണ്ടുപാടം റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ബിന്ദു ടാക്കീസ് റോഡ്നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചാലക്കുടി ബ്ലോക്ക് പഞ്ചായത്തിലെ പുതിയ ഓഫീസ് കെട്ടിടത്തിന്റെ രണ്ടാംഘട്ട നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കോടശ്ശേരി ഗ്രാമപഞ്ചായത്ത്-നായരങ്ങാടി പരിയാരം റോഡ്",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മേലൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ അങ്കണവാടി അനശ്വര റോഡ് ,സാന്‍ജോ നഗര്‍",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 19.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചാലക്കുടി നഗരസഭ-വാര്‍ഡ്7-നോര്‍ത്ത് ചാലക്കുടി ഹെല്‍ത്ത്&വെല്‍നെസ്സ് സെന്ററിന് പുതിയ കെട്ടിടം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "സെന്റ് തോമസ് റോഡ് -കാടുകുറ്റി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 16.6,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചാലക്കുടി നിയോജക മണ്ഡലത്തിലെ വിവിധ പ്രദേശങ്ങളിൽ 29  മിനിമാസ്റ്റ് ലൈറ്റുകളും രണ്ട് ഹൈമാസ്റ്റ് ലൈറ്റുകളും സ്ഥാപിക്കൽ",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 84.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചാലക്കുടി നഗരസഭ വാര്‍ഡ് 22-കണ്ണമ്പുഴ അമ്പലം റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 39.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തോട്ടവീഥിക്കടവ് റോഡ് നിര്‍മ്മാണം-വാര്‍ഡ് 26-ചാലക്കുടി നഗരസഭ",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പടിഞ്ഞാറ്റുമുറി ഹരിജന്‍ കോളനി -കരിപ്പായി ലൈന്‍ റോഡ്-പരിയാരം ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 19.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കൊരട്ടി ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 11ല്‍ പകല്‍ വീട് നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചാലക്കുടി നിയോജകമണ്ഡലത്തിലെ വിവിധ പ്രദേശങ്ങളില്‍ 29 മിനിമാസ്റ്റ് ലൈറ്റുകളും 2 ഹൈമാസ്റ്റ് ലൈറ്റുകളും സ്ഥാപിക്കല്‍",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 84.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പാലപ്പിളളി ഇളംചേരി റോഡ് നിര്‍മ്മാണം-കൊരട്ടി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2020-2021",
+            "estimate_lakhs": 20.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ദേശീയപാത-അഞ്ചുവീട് റോഡ് നോര്‍ത്ത് മെയിന്‍ കനാല്‍ ബണ്ട് റോഡ് നിര്‍മ്മാണം-ചാലക്കുടി നഗരസഭ-വാര്‍ഡ് 2",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഗാന്ധിനഗര്‍ സിയോണ്‍ റോഡ് നിര്‍മ്മാണം-കാടുകുറ്റി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 19.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അരിയമ്പുറം എസ് സി കോളനി റോഡ് നിര്‍മ്മാണം-കാടുകുറ്റി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കനാല്‍ ബണ്ട് റോഡ് നിര്‍മ്മാണം-വാര്‍ഡ് 6,ചാലക്കുടി നഗരസഭ",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചക്രപാണി -ചാട്ടുകല്ലുതറ റോ‍ഡ് നിര്‍മ്മാണം പരിയാരം ഗ്രാമപഞ്ചായത്ത്ചവാര്‍ഡ് 9",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കാടുകുറ്റി ഗ്രാമപഞ്ചായത്ത്-സൗത്ത് ചാപ്പല്‍ നൂറ്റപ്പാലം റോഡ് നിര്‍മ്മാണെം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കോടശ്ശേരി,കൊടകര,കാടുകുറ്റി ഗ്രാമപഞ്ചായത്തുകളിലെ വിവിധ പ്രദേശങ്ങളില്‍ മിനിമാസ്റ്റ്(9 മീ.5 ലൈറ്റ്)",
+            "implementing_agency": "സ്റ്റീല്‍ ഇന്‍ഡസ്ട്രീസ് ലിമിറ്റഡ്, കണ്ണൂര്‍",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.49,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പൂങ്കുടിപ്പാടം റൈറ്റ് ബൈലൈന്‍ റോഡ് നിര്‍മ്മാണം-ചാലക്കുടി നഗര സഭ-വാര്‍ഡ് 12",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചാലക്കുടി  നഗരസഭ വാര്‍ഡ് 1 താണിപ്പാറ ലിഫ്റ്റ് ഇറിഗേഷന്‍ പൈപ്പ് ലൈന്‍ വിപുലീകരണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പോട്ടച്ചിറ ബൈറോഡ് പടിഞ്ഞാറെ ഭാഗം നിര്‍മ്മാണം -വാര്‍ഡ് 4 ചാലക്കുടിമുനിസിപ്പാലിറ്റി",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വെട്ടിയാടാന്‍ മേലേടന്‍ റോഡ് നിര്‍മ്മാണം-കാടുകുറ്റി ഗ്രാമപഞ്ചായത്ത് -വാര്‍ഡ് 5",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചാലക്കുടി നഗരസഭ-വാര്‍ഡ് 18 പാലസ് റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ദേശീയപാത താണിപ്പാറ റോഡ് നിര്‍മ്മാണം-ചാലക്കുടി നഗരസഭ-വാര്‍ഡ് 1",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ദേശീയപാത താണിപ്പാറ റോഡ് നിര്‍മ്മാണം-ചാലക്കുടി നഗരസഭ വാര്‍ഡ് 1",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പകല്‍ വീട് നിര്‍മ്മാണം-കോടശ്ശേരി ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 4",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചാലക്കുടി നഗരസഭ വാര്‍ഡ്22 കണ്ണംമ്പുഴ അമ്പലം റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 31.0,
+            "concurrence_lakhs": 31.0
+        },
+        {
+            "project_name": "ചാലക്കുടി വാര്‍ഡ്-1, ദേശീയ പാത-താണിപ്പാറ റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കൊരട്ടി ഗ്രാമ പഞ്ചായത്ത് - വാർഡ്-8- തിരുമുടിക്കുന്ന് - എൽ-എഫ് ചർച്ച് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "വെട്ടുകുഴി ചൂളക്കടവ് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ചാലക്കുടി ബിആർസിയിൽ പുതിയ കെട്ടിടം നിർമ്മിച്ച് സെൻസറി റൂം സജ്ജീകരിക്കൽ",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "ചാലക്കുടി ബി.ആർ.സിയിൽ പുതിയ കെട്ടിടം നിർമ്മിച്ച് സെൻസറി റൂം സജ്ജീകരിക്കൽ",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചാലക്കുടി നഗരസഭയുടെ വിവിധ പ്രദേശങ്ങളിൽ മിനിമാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കൽ",
+            "implementing_agency": "സ്റ്റീല്‍ ഇന്‍ഡസ്ട്രീസ് ലിമിറ്റഡ്, കണ്ണൂര്‍",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 55.0,
+            "concurrence_lakhs": 55.0
+        },
+        {
+            "project_name": "കോടശ്ശേരി , പരിയാരം ,മേലൂര്‍ എന്നീ ഗ്രാമ പഞ്ചായത്തുകളിലെ വിവിധ സ്ഥലങ്ങളിൽ മിനി മാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കല്‍",
+            "implementing_agency": "സ്റ്റീല്‍ ഇന്‍ഡസ്ട്രീസ് ലിമിറ്റഡ്, കണ്ണൂര്‍",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.5,
+            "concurrence_lakhs": 22.5
+        },
+        {
+            "project_name": "കോടശ്ശേരി ഗ്രാമപഞ്ചായത്ത്  വാർഡ് 12 ല്‍  38-ാം നമ്പര്‍ അംഗനവാടിയ്ക്ക് പുതിയ കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കൊടകര  ഗ്രാമപഞ്ചായത്ത് പത്തൊമ്പതാം   വാർഡില്‍ കൊടകരതോടിന്റെ പാര്‍ശ്വഭിത്തി കെട്ടി സംരക്ഷിക്കല്‍‍",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കോടശ്ശേരി ഗ്രാമപഞ്ചായത്ത്  വാർഡd 19 കൊട്ടാരം റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ചാലക്കുടി നഗരസഭ വാര്‍‍ഡ് 29- കാരകുളത്തുനാട് റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "ചാലക്കുടി നഗരസഭ വാര്‍‍ഡ് 21- കോണ്‍വെന്റ് റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കൊടകര  ഗ്രാമപഞ്ചായത്ത് പതിനൊന്നാം  വാർഡില്‍ ചെറുകുന്ന് സരസ്വതി സ്കൂള്‍ ലിങ്ക് റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "മേലൂര്‍  ഗ്രാമപഞ്ചായത്ത് ആറാം  വാർഡില്‍ ആലയ്ക്കാപ്പിള്ളി കുന്നപ്പിള്ളി ലിഫ്റ്റ് ഇറിഗേഷന്‍ പദ്ധതിയുടെ പൈപ്പ് ലൈന്‍‍ വിപുലീകരണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കോടശ്ശേരി ഗ്രാമപഞ്ചായത്ത് അഞ്ചാം  വാർഡില്‍ ഒരു പഞ്ചായത്തില്‍ ഒരു കളിക്കളം പദ്ധതിയുടെ ഭാഗമായി മാരാങ്കോട് കളിസ്ഥല നിര്‍മ്മാണം",
+            "implementing_agency": "സ്പോർട്സ് കേരള ഫൌണ്ടേഷൻ",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ചാലക്കുടിനഗരസഭ പതിനാറാം   വാർഡിലുളള കലാഭവന്‍ മണി സ്മാരക റോഡില്‍ കാന നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് റോഡ്സ് ഡിവിഷന്‍",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "അതിരപ്പിള്ളി വിനോദസഞ്ചാര കേന്ദ്രത്തില്‍ എന്‍ട്രന്‍സ് പ്ലാസ നിർമ്മാണം",
+            "implementing_agency": "Divisional Forest Office Vazhachal",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 99.0
+        },
+        {
+            "project_name": "ചാലക്കുടി നഗരസഭ കാര്യലയം അനക്സ് രണ്ടാംഘട്ട നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ചാലക്കുടിനഗരസഭ ഏഴാം  വാർഡില്‍ പോട്ടച്ചിറ കനാല്‍‍ ബണ്ട് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "പരിയാരം ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 14- കോണ്‍വെന്റ് റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കാടുകുറ്റി ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ്16- മഹാത്മഗാന്ധി റോ‍ഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പരിയാരം ഗ്രാമപഞ്ചായത്ത്- വാര്‍ഡ് 7 മോതിരക്കണ്ണി- പീലാര്‍മുഴി റോ‍ഡ്( പീലാര്‍ മുഴി- കോട്ടമല റോ‍ഡ്)",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ചാലക്കുടി നഗരസഭ  മൂന്നാം  വാർഡില്‍ പോട്ടച്ചിറ പാമ്പാംമ്പോട്ട് ശിവക്ഷേത്രം റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "5-)ം നമ്പര്‍ അംഗനവാടിക്ക് പുതിയ കെട്ടിടം, വാര്‍ഡ് 1, കാടുകുറ്റി",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "കൊരട്ടി ഗ്രാമപഞ്ചായത്ത്  നാലാം  വാർഡില്‍ 11 മെയിൻ കനാലിന് കുറുകെ എലവൻകുന്ന് റോഡും കാരുണ്യ റോഡും ബന്ധിപ്പിച്ച് കലുങ്ക്",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കൊരട്ടി ശ്മശാനത്തിൽ ജനറേറ്റർ സ്ഥാപിക്കലും അനുബന്ധപ്രവർത്തികളും കൊരട്ടി ഗ്രാമപഞ്ചായത്ത് - വാർഡ് 14",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "എം.എസ്.യു.പി.സ്കൂള്‍  കൊരട്ടി പാചകപുര നിർമ്മാണം,കൊരട്ടി ഗ്രാമപഞ്ചായത്ത്,വാർഡ് 13",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "എസ്.കെ. എം.എല്‍.പി.എസ്.ആറ്റപ്പാടം ടോയ് ലെറ്റ് ബ്ലോക്ക് നിർമ്മാണം,കൊരട്ടി ഗ്രാമപഞ്ചായത്ത്,വാർഡ് 1",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ചാലക്കുടി ബ്ലോക്ക് പഞ്ചായത്ത് ഓഫീസിന്  പുതിയ കെട്ടിടം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "കൈതപ്പിള്ളി ലിഫ്റ്റ് ഇറിഗേഷൻ പദ്ധതിക്ക് പുതിയ സബ് മേഴ്സിബിള്‍ മോട്ടോർ പമ്പ്സെറ്റ് സ്ഥാപിക്കല്‍(45HP) പരിയാരം ഗ്രാമപഞ്ചായത്ത് വാർഡ് 2",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കനകമല കനാല്‍ ബണ്ട് റോഡില്‍ കനാലിന് കുറുകെ പാലം നിർമ്മാണം(ആറേശ്വരം ബ്രാഞ്ച് കനാല്‍) കൊടകര ഗ്രാമപഞ്ചായത്ത് വാർഡ് 7",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "തൈലവളപ്പില്‍ റോഡ് നിർമ്മാണം കാടുകുറ്റി ഗ്രാമപഞ്ചായത്ത് - വാർഡ് 9",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Koodappuzha Road Rennovation",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കോടശ്ശേരി     ഗ്രാമപഞ്ചായത്തിലെ വാർഡ് 5 ല്‍ അംഗന്‍വാടി നമ്പർ 41 ന് പുതിയ കെട്ടിടം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കോടശ്ശേരി ഗ്രാമപഞ്ചായത്ത് ഓഫീസ് കെട്ടിടപുനരുദ്ധാരണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "പടിഞ്ഞാറേ അങ്ങാടി റോഡ് നവീകരണം, കൊരട്ടി ഗ്രാമപഞ്ചായത്ത്, വാർഡ് 17",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 93.0,
+            "concurrence_lakhs": 93.0
+        },
+        {
+            "project_name": "കാടുക്കുറ്റി ഗ്രാമപഞ്ചായത്തിലെ വാർഡ് 7 ല്‍ അംഗൻവാടി നമ്പർ 18 ന് ഒന്നാം നിലയില്‍ മീറ്റിംഗ് ഹാള്‍ നിർമ്മാണവും        മുറ്റം ടൈല്‍ വിരിക്കലും കുട്ടികളുടെ പാർക്ക് സജ്ജീകരണവും",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "ചാലക്കുടി നഗരസഭ ഓഫീസിന്  പുതിയകെട്ടിടം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 99.0
+        },
+        {
+            "project_name": "മണ്ണംപുരം കനാല്‍ ബണ്ട് റോഡും ഹരിജൻ കോളനി റോഡും ബന്ധിപ്പിച്ച് കലുങ്ക് നിർമ്മാണം, പരിയാരം ഗ്രാമപഞ്ചായത്ത് വാർഡ് 6",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "പോത്തോടി-കമ്മളം റോഡ് നവീകരണം- പരിയാരം ഗ്രാമപഞ്ചായത്ത്, വാർഡ്  2",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ആലക്കപ്പിള്ളി കുന്നപ്പിള്ളി ലിഫ്റ്റ് ഇറിഗേഷൻ പദ്ധതി പൈപ്പ് ലൈൻ വിപുലീകരണം മേലൂർ ഗ്രാമപഞ്ചായത്ത് വാർഡ് 6",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ചാലക്കുടി നഗരസഭയിലെ വാര്‍ഡ്15 ലെ      ആറാട്ട്കടവ് റോഡ് നവീകരണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "കസ്തൂര്‍ബാ ഗ്രാമകേന്ദ്രം പുനര്‍നിര്‍മാണം - ചാലക്കുടി നഗരസഭ",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ചട്ടിക്കുളം താഴൂര്‍ ട്രംവേ റോഡ് - വാര്‍ഡ് 4 - കോടശേരി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കാവില്‍പ്പാടം തോട് പര്‍ശ്വഭിത്തികെട്ടി സംരക്ഷിക്കല്‍- വാര്‍ഡ് 1 - കൊടകര ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.89,
+            "concurrence_lakhs": 15.89
+        },
+        {
+            "project_name": "പോട്ടച്ചിറ- മഠത്തിക്കാവ് അമ്പലം റോഡ് നവീകരണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 25.22,
+            "concurrence_lakhs": 25.22
+        },
+        {
+            "project_name": "പെരിയച്ചിറ റോഡ് നവീകരണം - വാര്‍ഡ് 2 - ചാലക്കുടി നഗരസഭ",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 23.89,
+            "concurrence_lakhs": 23.89
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "thrissur_shri_saneeshkumar_joseph_placeholder"
+}

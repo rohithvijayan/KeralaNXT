@@ -1,0 +1,617 @@
+{
+    "mla_name": "Prof. R. Bindu",
+    "constituency": "IRINJALAKKUDA",
+    "district": "Thrissur",
+    "summary": {
+        "total_expenditure_crores": 18.926,
+        "breakdown": [
+            {
+                "label": "Others",
+                "value_crores": 7.53
+            },
+            {
+                "label": "Road",
+                "value_crores": 5.12
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 1.89
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 1.57
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 1.196
+            },
+            {
+                "label": "Education",
+                "value_crores": 1.02
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.6
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "മുരിയാട് ഗ്രാമ പഞ്ചായത്തിലെ പി എൽ ഒ സ്മാരക വായനശാലക്ക് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നഗരസഭ വാർഡ് 29 ലെ കണ്ഠേശ്വരം പാർക്ക് നവീകരണവും ഓപ്പൺ ജിം  നിർമ്മാണവും",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Sports",
+            "fy": "2024-2025",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നഗരസഭയിലെ നടുവിലാൽ കുന്നുമ്മക്കര റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വേളൂക്കര ഗ്രാമ പഞ്ചായത്തിലെ കടുപ്പാശ്ശേരിയിലെ എ കെ ജി സ്മാരക വായനശാലക്ക് (Reg No 6441/2003) കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പടിയൂർ ഗ്രാമപഞ്ചായത്തിലെ 3-ാം വാർഡിലെ കുമാരൻ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കാറളം ഗ്രാമപഞ്ചായത്തിലെ കാറളം പൊതു മൈതാനം നവീകരണവും ഓപ്പൺസ്റ്റേജ് നിർമ്മാണവും",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Sports",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നഗരസഭയുടെ കീഴിൽ പ്രവർത്തിയ്ക്കുന്ന ജനറൽ ആശുപത്രിയുടെ പുതിയ ഒ പി ബ്ലോക്ക് കെട്ടിടത്തിന് മുൻപിൽ മതിലും ഗേറ്റ് വേയും നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Healthcare",
+            "fy": "2025-2026",
+            "estimate_lakhs": 32.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വെളൂക്കര ഗ്രാമപഞ്ചായത്തിലെ വാർഡ് 9 ലെ ഡീസൻ്റ്  റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 11.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജക മണ്ഡലം പൂമംഗലം ഗ്രാമപഞ്ചായത്തിലെ പൂമംഗലം കുടുംബാരോഗ്യ കേന്ദ്രത്തിലെ ഒ പി ബ്ലോക്ക് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജക മണ്ഡലം ഇരിങ്ങാലക്കുട മുൻസിപ്പാലിറ്റി ഡിവിഷൻ 1 ൽ കരുവന്നൂർ പുഴയിൽ നിന്നുള്ള പൈങ്കിളിപ്പാടം – നീരോലിത്തോട് എന്നീ ഭാഗങ്ങളിൽ ഷട്ടർ നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജക മണ്ഡലം ഇരിങ്ങാലക്കുട നഗരസഭയിലെ ഗവ.ഗേൾസ് ഹൈസ്കൂളിൽ പ്രവൃത്തിക്കുന്ന ബി ആർ സി ക്ക് ഓട്ടിസം സെൻ്റർ കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 52.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മുരിയാട് ഗ്രാമപഞ്ചായത്തിലെ വാർഡ് 13 ൽ തകർന്ന് കിടക്കുന്ന മുടിച്ചിറയുടെ സൈഡ് കെട്ടി സംരക്ഷണം പൂർത്തീകരണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 54.6,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജക മണ്ഡലം പടിയൂർ ഗ്രാമ പഞ്ചായത്തിലെ ഹോമിയോ ആശുപത്രി കെട്ടിടത്തിൻ്റെ ഒന്നാം നില നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Healthcare",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജക മണ്ഡലം പടിയൂർ ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 2 ലെ കള്ളിയത്ത് ഗാർഡൻസ് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജക മണ്ഡലം ഇരിങ്ങാലക്കുട നഗരസഭയുടെ കീഴിലുള്ള ജനറൽ ആശുപത്രിയുടെ മുൻവശത്തെ മതിലും ഗേറ്റ് വേയും നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Healthcare",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജക മണ്ഡലം വേളൂക്കര ഗ്രാമ പഞ്ചായത്തിലെ  വാർഡ് 10 ലെ വെൺകുളം റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജക മണ്ഡലം ആളൂർ ഗ്രാമ പഞ്ചായത്തിലെ  വാർഡ് 10 ലെ തിരുത്തിപ്പറമ്പ് പൂഴിച്ചിറ ബണ്ട് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജക മണ്ഡലം - കാട്ടൂർ ഗ്രാമപഞ്ചായത്തിലെ ചോളക്കത്തോട് സൈഡ് കെട്ടൽ",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജകമണ്ഡലത്തിലെ പടിയൂർ ഗ്രാമ പഞ്ചായത്തിലെ എടതിരിഞ്ഞി HDPS ഹയർ സെക്കണ്ടറി സ്കൂളിന് പാചകപ്പുര നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജക മണ്ഡലം - കാറളം ഗ്രാമ പഞ്ചായത്ത് വാർഡ് 9 ലെ പത്തനാപുരം ദേവർ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജക മണ്ഡലം ആളൂർ ഗ്രാമ പഞ്ചായത്തിലെ  വാർഡ് 5 ലെ ഐനിച്ചിറ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജക മണ്ഡലം ആളൂർ ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 20 ലെ നാരായണത്ത് അമ്പലം & ജൂബിലി നഗർ ആർ എം എച്ച് എസ് എസ് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജക മണ്ഡലം വേളൂക്കര ഗ്രാമ പഞ്ചായത്തിലെ  വാർഡ് 2 ലെ 100 നമ്പർ നിവേദ്യ അംഗൻവാടി കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജക മണ്ഡലത്തിലെ ഇരിങ്ങാലക്കുട നഗരസഭയിലെ വാർഡ് 36 ലെ പള്ളിക്കാട് വെസ്റ്റ് ബൈലൈൻ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജക മണ്ഡലം ഇരിങ്ങാലക്കുട നഗരസഭയിലെ വാർഡ് 36 ലെ പ്രേംജി നഗർ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നഗരസഭയുടെ കീഴിലുള്ള ഗവ മോഡൽ ബോയ്സ് ഹയർ സെക്കണ്ടറി സ്കൂളിന് ആധുനിക രീതിയിലുള്ള ഓഡിറ്റോറിയം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജക മണ്ഡലം പൂമംഗലം ഗ്രാമ പഞ്ചായത്ത് ഓഫീസ് കെട്ടിട നിർമ്മാണം മൂന്നാം ഘട്ടം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 65.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജക മണ്ഡലം കാറളം ഗ്രാമ പഞ്ചായത്തിലെ  മൃഗാശുപത്രി കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജക മണ്ഡലം കാറളം ഗ്രാമ പഞ്ചായത്ത് വാർഡ് 10 ലെ പൂവ്വത്തുംകടവിൽ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കാറളം ഗ്രാമ പഞ്ചായത്ത് വാർഡ് 8 ലെ 08/MKM/1665 നം കിഴുത്താനി ഗ്രാമീണ വായനശാല കെട്ടിട നിർമ്മാണം & ഇലക്ട്രിഫിക്കേഷൻ വർക്ക്",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജക മണ്ഡലം മുരിയാട് ഗ്രാമ പഞ്ചായത്തിലെ ആനന്ദപുരം ഗവൺമെൻ്റ് യു പി സ്കൂളിൻ്റെ  ക്ലാസ്സ് മുറി , അസംബ്ലി ഹാൾ നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജക മണ്ഡലം കാട്ടൂർ ഗ്രാമ പഞ്ചായത്തിലെ  വാർഡ് 10 ലെ മഹാത്മാ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജകമണ്ഡലത്തിലെ പൂമംഗലം ഗ്രാമ പഞ്ചായത്ത് വലിയ മേനോൻ കോൾപടവിൽ പമ്പ് ഹൗസ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നഗരസഭയുടെ കീഴിലുള്ള ഇരിങ്ങാലക്കുട  ജനറല്‍ ആശുപത്രിയില്‍ ആധുനിക രീതിയിലുള്ള ആംബുലന്‍സ് വാങ്ങൽ",
+            "implementing_agency": "സൂപ്രണ്ട്, ജനറല്‍ ആശുപത്രി, ഇരിങ്ങാലക്കുട",
+            "category": "Healthcare",
+            "fy": "2023-2024",
+            "estimate_lakhs": 24.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജകമണ്ഡലത്തിലെ  കാറളം ഗ്രാമ പഞ്ചായത്ത് വാർഡ് 1 ലെ 61 നമ്പർ അംഗൻവാടിക്ക്  കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജക മണ്ഡലം മുരിയാട് ഗ്രാമ പഞ്ചായത്തിലെ പൊതുമ്പ് ചിറ വികസന പ്രവർത്തനം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജകമണ്ഡലത്തിലെ കാറളം ഗ്രാമ പഞ്ചായത്തിലെ വെള്ളാനി എ എൽ പി സ്കൂളിന് പാചകപ്പുര നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജകമണ്ഡലത്തിലെ കാറളം ഗ്രാമ പഞ്ചായത്ത് വാർഡ് 1 ലെ 61 നമ്പർ അംഗൻവാടിക്ക് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജകമണ്ഡലത്തിലെ  കാറളം ഗ്രാമ പഞ്ചായത്ത് വാർഡ് 1 ലെ 61 നമ്പർ അംഗൻവാടിക്ക്  കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "വേളൂക്കര ഗ്രാമ പഞ്ചായത്ത് വാർഡ് 3 ലെ നടവരമ്പ്  കോളനിയിൽ സാംസ്ക്കാരിക നിലയം നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നഗരസഭയുടെ കീഴിലുള്ള ശ്രീ പി കെ ചാത്തൻ മാസ്റ്റർ മെമ്മോറിയൽ ഗവ യു പി സ്കൂളിലേക്ക്  ബസ് വാങ്ങൽ",
+            "implementing_agency": "Head Mistress  P K Chathan Master UP School Irinjalakuda",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 24.0,
+            "concurrence_lakhs": 24.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജകമണ്ഡലത്തിലെ ആളൂർ ഗ്രാമ പഞ്ചായത്ത് വാർഡ് 10 ലെ 17 നമ്പർ അംഗൻവാടിക്ക് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "പൂമംഗലം ഗ്രാമ പഞ്ചായത്ത് ഓഫീസ് കെട്ടിട നിർമ്മാണം രണ്ടാം ഘട്ട പ്രവൃത്തികൾ",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 34.0,
+            "concurrence_lakhs": 34.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജകമണ്ഡലത്തിലെ കാറളം ഗ്രാമ പഞ്ചായത്ത് വാർഡ് 8 ലെ 54 നമ്പർ അംഗൻവാടിക്ക് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജകമണ്ഡലത്തിലെ മുരിയാട് ഗ്രാമ പഞ്ചായത്ത് വാർഡ് 10 ലെ 98 നമ്പർ അംഗൻവാടിക്ക് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 21.0,
+            "concurrence_lakhs": 21.0
+        },
+        {
+            "project_name": "വേളൂക്കര ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 17 ലെ പറക്കാട്ടുകുന്ന് കോളനി കമ്മ്യൂണിറ്റി ഹാൾ നിർമ്മാണം രണ്ടാം ഘട്ടം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "വേളൂക്കര ഗ്രാമ പഞ്ചായത്തിലെ നടവരമ്പ് ഗവൺമെന്റ് മോഡൽ ഹയർ സെക്കണ്ടറി സ്കൂളിനു പരിധിയിൽപ്പെടുന്ന ഹൈസ്ക്കൂൾ വിഭാഗത്തിനു ബസ് വാങ്ങൽ",
+            "implementing_agency": "Head Mistess Nadavarambu School",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 24.0,
+            "concurrence_lakhs": 24.0
+        },
+        {
+            "project_name": "വേളൂക്കര ഗ്രാമ പഞ്ചായത്തിലെ നടവരമ്പ് ഗവൺമെന്റ് മോഡൽ ഹയർ സെക്കണ്ടറി സ്കൂളിനു പരിധിയിൽപ്പെടുന്ന ഹൈസ്ക്കൂൾ വിങാഗത്തിനു ബസ് വാങ്ങൽ",
+            "implementing_agency": "Head Mistess Nadavarambu School",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 24.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വേളൂക്കര ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 11 ലെ പറക്കാട്ടുകുന്ന് കോളനി കമ്മ്യൂണിറ്റി ഹാൾ നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട   നിയോജകമണ്ഡലം  - ആളൂർ ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 21 ലെ കുണ്ടേപ്പാടം റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 31.0,
+            "concurrence_lakhs": 31.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജക മണ്ഡലത്തിലെ ആളൂർ ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 13 ലെ ആളൂപ്പറമ്പൻ അമ്പലം റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട മുൻസിപ്പാലിറ്റിയിലെ ഗവ. ഹോമിയോ ആശുപത്രി  കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 34.0,
+            "concurrence_lakhs": 34.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജക മണ്ഡലം മുരിയാട് ഗ്രാമ പഞ്ചായത്തിലെ പൊതുമ്പ് ചിറ വികസന പ്രവർത്തനം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നഗരസഭ വാർഡ് 4 ലെ പുത്തൻതോടിന്റെ സൈഡ് സംരക്ഷണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട ബ്ലോക്ക് പഞ്ചായത്തിനു കീഴിൽ പ്രവർത്തിക്കുന്ന  ആനന്ദപുരം സാമൂഹ്യ ആരോഗ്യ കേന്ദ്രത്തിന്റെ നിർമ്മാണ പ്രവർത്തികൾ",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 31.0,
+            "concurrence_lakhs": 31.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നഗരസഭ ഡിവിഷൻ 2 ലെ 27 നമ്പർ അംഗൻവാടി കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "ആളൂർ ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 7 ലെ 127 നമ്പർ മാതൃകാ അംഗൻവാടി കെട്ടിട   നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "വേളൂക്കര ഗ്രാമ പഞ്ചായത്തിലെ നടവരമ്പ് ഗവൺമെന്റ് മോഡൽ ഹയർ സെക്കണ്ടറി സ്കൂളിൽ സ്റ്റേജ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നഗരസഭ വാർഡ് 23 ലെ ക്രൈസ്റ്റ് കോളേജിനു മുൻവശമുള്ള റോഡിന്റെ സൈഡ് ഉയർത്തി ടൈൽ വിരിച്ച് ഐറിഷ് കാന നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കാറളം ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 6 ലെ പറളം അംഗൻവാടി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കാറളം ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 11 ലെ കൊട്ടിൽ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കാറളം ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 1 ലെ കട്ടപ്പുറം റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "പടിയൂർ ഗ്രാമപഞ്ചായത്ത് വാർഡ് 9 ലെ മഴുവഞ്ചേരി തുരുത്ത് പാലം റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട ഡിവിഷൻ 8 ലെ കൈരളി വാട്ടർ ടാങ്ക് ലിങ്ക് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കാട്ടൂർ ഗ്രാമ പഞ്ചായത്ത് 78 നമ്പർ അംഗൻവാടി കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പടിയൂർ ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 5 ൽ ശിവകുമാരേശ്വരം ഈസ്റ്റ് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കാട്ടൂർ ഗ്രാമ പഞ്ചായത്ത് വാർഡ് 6 ലെ നമ്പർ 71 അംഗൻവാടി കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "പടിയൂർ ഗ്രാമ പഞ്ചായത്ത് വാർഡ് 14 ലെ മുനയം റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ഇരിങ്ങാലക്കുട നിയോജകമണ്ഡലം- ഇരിങ്ങാലക്കുട മുൻസിപ്പാലിറ്റിയിലെ ഗാന്ധിഗ്രാം ടെസ്റ്റിംഗ് ഗ്രൌണ്ട് ടേക്ക് എ ബ്രേക്ക് കംഫർട്ട് സ്റ്റേഷൻ നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "എൽ എ സി എ ഡി എസ്  ഇരിങ്ങാലക്കുട 2021-22 പൂമംഗലം ഗ്രാമ പഞ്ചായത്ത് ഓഫീസ് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "മുരിയാട് ഗ്രാമപഞ്ചാത്തിലെ മുടിച്ചിറ സംരക്ഷണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Irrigation",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "thrissur_prof_r_bindu_placeholder"
+}

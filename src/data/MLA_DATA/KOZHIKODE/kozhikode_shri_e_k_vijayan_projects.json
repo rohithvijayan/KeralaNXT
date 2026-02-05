@@ -1,0 +1,593 @@
+{
+    "mla_name": "Shri E K Vijayan",
+    "constituency": "NADAPURAM",
+    "district": "Kozhikode",
+    "summary": {
+        "total_expenditure_crores": 19.9,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 9.89
+            },
+            {
+                "label": "Education",
+                "value_crores": 5.69
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 2.5
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 1.06
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.5
+            },
+            {
+                "label": "Others",
+                "value_crores": 0.25
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.01
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "പച്ചപ്പാലം - ചിറ്റാരി റോഡ് -വാണിമേൽ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "വേട്ടോറ ബാലവാടി റോഡ്-മരുതോങ്കര ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ഗവ. സിംഗിൾ ടീച്ചേഴ്സ് സ്കൂൾ - തിനൂർ (മുള്ളമ്പത്ത്) കെട്ടിട നിർമ്മാണം-നരിപ്പറ്റ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 99.0
+        },
+        {
+            "project_name": "മിനി സ്റ്റേഡിയം നിർമ്മാണം  കല്ലുനിര-വളയം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Chief Engineer Sports Kerala Foundation",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "മൊട്ടത്തറ പേരോടൻകണ്ടി മുക്ക് റോഡ്-കായക്കൊടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ഒതിയോത്ത്മുക്ക് കുറ്റേരിച്ചിക്കണ്ടി മുക്ക്-ചെക്യാട്‌ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "നാദാപുരം നിയോജക മണ്ഡലത്തിലെ വിവിധ പഞ്ചായത്തുകളിൽ ഹൈമാസ്സ്‌/ലോമാസ്സ്‌ ലൈറ്റുകൾ സ്ഥാപിക്കുന്നത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 61.0,
+            "concurrence_lakhs": 61.0
+        },
+        {
+            "project_name": "LAC-ADS-2024-2025 ഇഞ്ചി കുറുങ്ങോട്ട് കുമിളിപ്പള്ളി ഫൂട്പാത്  -എടച്ചേരി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "NADAPURAM LAC ADS - 2025-26 - ചാലിൽ - മാമുണ്ടേരി റോഡ്, വളയം ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "NADAPURAM LAC ADS - 2025-26 - തച്ചനാണ്ടിയിൽ - പുത്തൻപുരയിൽ റോഡ്, വളയം ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "NADAPURAM LAC ADS - 2024-25 - കോമൻറമൂല - താവുള്ളകൊല്ലി റോഡ്, നരിപ്പറ്റ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "NADAPURAM LAC ADS - 2024-25 - കച്ചേരി തറ - പുതുക്കാട് - മാണിക്കോത്ത് കട എസ് വളവ് റോഡിൽ പാലം നിർമ്മാണം, കാവിലുംപാറ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "NADAPURAM LAC ADS - 2024-25 - കവ്വാത്തുമ്മൽ - പാലോള്ളകാട്ടിൽ ഈശ്വരംപുറത്ത് താഴെ റോഡിൽ കൽവർട്ട് & അപ്രോച്ച് റോഡ്, നാദാപുരം ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "NADAPURAM LAC ADS - 2024-25 - മുണ്ടയോടൻപൊയിൽ മുക്ക് - പുളിയുള്ളതിൽ താഴെ റോഡ്, എടച്ചേരി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "NADAPURAM LAC ADS - 2024-25 - പയ്യേരിക്കാവ് - ഒയ്യാല - മാവുള്ള ചാലിൽ റോഡ്, വളയം ഗ്രാമപഞ്ചായത്ത് - സംബന്ധിച്ച്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "NADAPURAM LAC ADS - 2024-25 - കണ്ണക്കൈ - എടത്തിപറമ്പ് മുക്ക് റോഡ്, തൂണേരി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer Kuttiyadi Irrigation",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "NADAPURAM LAC ADS - 2024-25 - വയലാമ്പ്രത്ത് - കാട്ടിൽതാഴ റോഡ്, തൂണേരി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "NADAPURAM LAC ADS - 2024-25 - കണ്ണോത്ത്കണ്ടി ട്രാൻസ്ഫോർമർ - കൊല്ലൻറവിടെ റോഡ്, തൂണേരി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "NADAPURAM LAC ADS - 2024-25 - കാവ് ചേലേലകാവ് റോഡിൽ പാലം നിർമ്മാണം - വാണിമേൽ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "NADAPURAM LAC ADS - 2023-24 - പയന്തോങ്ങ് വി പി മുക്ക് റോഡ് - നാദാപുരം ഗ്രാ പ - സംബന്ധിച്ച്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "NADAPURAM LAC ADS -  എടച്ചേരി ഗ്രാമപഞ്ചായത്ത് ഓഫീസ് കെട്ടിട നിര്‍മ്മാണം - (2018-19, 2019-20, 2020-21 ടെണ്ടര്‍ സേവിംഗ്സ് തുക ഉപയോഗിച്ച്)",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 150.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എടച്ചേരി ഗ്രാമ പഞ്ചായത്ത് ഓഫീസ് കെട്ടിടം നിർമ്മാണം ( 2018-18,2019 - 20, 2020 - 21 ടെണ്ടർ സേവിങ്ങ്സ് തുക (ഉപയോഗിച്ച് നടപ്പിലാക്കുന്നത്)",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 150.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കെ.സി.ചോയി സാംസ്ക്കാരിക കേന്ദ്രം കെട്ടിടം നിർമ്മാണം, പരപ്പുപ്പാറ, വാണിമേൽ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ചേറ്റുപൊയിൽ മുണ്ട്യോട് റോഡ്, കായക്കൊടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "പി.ടി.ചാക്കോ സമാരകം - കൊട്ടര റോഡ് പാലം നിർമ്മാണം, കാവിലുംപാറ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കാവുതിയ്യൻറവിട - എരഞ്ഞിമ്പാട്ടിൽ റോഡ് നിർമ്മാണം, എടച്ചേരി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഗവ.എൽ.പി.സ്കൂൾ    മരുതോങ്കര  കെട്ടിട നിർമ്മാണം, മരുതോങ്കര ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "ഗവ.എം.എൽ.പി സ്കൂൾ കണ്ണക്കൈകെട്ടിട നിർമ്മാണം, തൂണേരി  ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "പാറയിൽ അമ്പലം മോച്ചം വീട്ടിൽ താഴെ റോഡ്, നാദാപുരം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പേരോട് ഷാഫിമുക്ക് - പുളിയാവ് റോഡ് , നാദാപുരം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "NADAPURAM LAC ADS - 2021-2022 - ഹെൽത്ത് സെൻറർ - വരിക്കോളി റോഡ് നിർമ്മാണം - നാദാപുരം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "മണ്ണൂര്‍ ഗവ.എല്‍.പി. സ്കൂള്‍ കെട്ടിടം നിര്‍മ്മാണം, മരുതോങ്കര ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "തുവ്വാട്ടപ്പൊയില്‍ അംഗന്‍വാടി റോഡില്‍ പാലം നിര്‍മ്മാണം, ചെക്യാട് ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "അറക്കേൻറവിടമുക്ക് പിണക്കന്‍റവിടമുക്ക് റോഡ് - ചെക്യാട് ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "നാദാപുരം നിയോജക മണ്ഡലത്തിലെ വിവിധ പഞ്ചായത്തുകളിൽ  ഹൈമാസ്റ്റ് / മിനിമാസ്റ്റ് ലൈറ്റുകൾ സ്ഥാപിക്കൽ                                                                                                   മിനിമാസ്റ്റ് ലൈറ്റുകൾ-----കരിങ്ങാട് ടൌൺ,കാവിലുംപാറ  ഗ്രാമ പഞ്ചായത്ത്  , അടുക്കത്ത് ടൌൺ -മരുതോങ്കര ഗ്രാമ പഞ്ചായത്ത്, വേറവുമ്മൽ ടൌൺ - തൂണേരി ഗ്രാമ പഞ്ചായത്ത്, കച്ചേരി ചാലോട് റേഷൻ കട സമീപം - എടച്ചേരി ഗ്രാമ പഞ്ചായത്ത്   , ചെറു പീടികക്കണ്ടി മുക്ക്  വാണിമേൽ പാലം സമീപം  - നാദാപുരം ഗ്രാമ പഞ്ചായത്ത്   , കല്ലാച്ചി ടൌൺ  മിനി ബൈപാസ് സമീപം -   നാദാപുരം ഗ്രാമ പഞ്ചായത്ത് ,   കൊക്രി  ടൌൺ - വളയം ഗ്രാമ പഞ്ചായത്ത്,  നിടുംപറമ്പ്  ടൌൺ     - വാണിമേൽ ഗ്രാമ പഞ്ചായത്ത്,  അരയാക്കൂൽ ടൌൺ  - നരിപ്പറ്റ  ഗ്രാമ പഞ്ചായത്ത്,   കുളശ്ശേരി, ചാലപ്പുറം  -  തുണേരി ഗ്രാമ പഞ്ചായത്ത്,   മീത്തൽവയൽ - നരിപ്പറ്റ  ഗ്രാമ പഞ്ചായത്ത്                                                                                                                ഹൈ മാസ്റ്റ്  ലൈറ്റുകൾ                                                                      കുളങ്ങരത്താഴ ടൌൺ  - കായക്കൊടി  ഗ്രാമ പഞ്ചായത്ത്, ചേലക്കാട് ടൌൺ-നാദാപുരം  ഗ്രാമ പഞ്ചായത്ത്,  കസ്തുരികുളം ടൌൺ- നാദാപുരം  ഗ്രാമ പഞ്ചായത്ത് , തെരുവൻപറമ്പ് ടൌൺ ബിനു സ്മാരക സമീപം - നാദാപുരം  ഗ്രാമ പഞ്ചായത്ത്, KSRTC ബസ്    സ്റ്റാന്റ്  സമീപം - കാവിലുംപാറ  ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 53.0,
+            "concurrence_lakhs": 53.0
+        },
+        {
+            "project_name": "നാദാപുരം  നിയോജക മണ്ഡലത്തിലെ വിവിധ പഞ്ചായത്തുകളിൽ ഹൈമാസ്റ്റ്/മിനിമാസ്റ്റ് ലൈറ്റുകൾ നാദാപുരം നിയോജക മണ്ഡലത്തിലെ വിവിധ പഞ്ചായത്തുകളിൽ  ഹൈമാസ്റ്റ് / മിനിമാസ്റ്റ് ലൈറ്റുകൾ സ്ഥാപിക്കൽ                                                                                                   മിനിമാസ്റ്റ് ലൈറ്റുകൾ----- കരിങ്ങാട് ടൌൺ,കാവിലുംപാറ  ഗ്രാമ പഞ്ചായത്ത്  , അടുക്കത്ത് ടൌൺ -മരുതോങ്കര ഗ്രാമ പഞ്ചായത്ത്, വേറവുമ്മൽ ടൌൺ - തൂണേരി ഗ്രാമ പഞ്ചായത്ത്, കച്ചേരി ചാലോട് റേഷൻ കട സമീപം - എടച്ചേരി ഗ്രാമ പഞ്ചായത്ത്   , ചെറു പീടികക്കണ്ടി മുക്ക്  വാണിമേൽ പാലം സമീപം  - നാദാപുരം ഗ്രാമ പഞ്ചായത്ത്   , കല്ലാച്ചി ടൌൺ  മിനി ബൈപാസ് സമീപം -   നാദാപുരം ഗ്രാമ പഞ്ചായത്ത് ,   കൊക്രി  ടൌൺ - വളയം ഗ്രാമ പഞ്ചായത്ത്,  നിടുംപറമ്പ്  ടൌൺ     - വാണിമേൽ ഗ്രാമ പഞ്ചായത്ത്,  അരയാക്കൂൽ ടൌൺ  - നരിപ്പറ്റ  ഗ്രാമ പഞ്ചായത്ത്,   കുളശ്ശേരി, ചാലപ്പുറം  -  തുണേരി ഗ്രാമ പഞ്ചായത്ത്,   മീത്തൽവയൽ - നരിപ്പറ്റ  ഗ്രാമ പഞ്ചായത്ത്                                                                                                                                ഹൈ മാസ്റ്റ്  ലൈറ്റുകൾ - -----  കുളങ്ങരത്താഴ ടൌൺ  - കായക്കൊടി  ഗ്രാമ പഞ്ചായത്ത്, ചേലക്കാട് ടൌൺ-നാദാപുരം  ഗ്രാമ പഞ്ചായത്ത്,  കസ്തുരികുളം ടൌൺ- നാദാപുരം  ഗ്രാമ പഞ്ചായത്ത് , തെരുവൻപറമ്പ് ടൌൺ ബിനു സ്മാരക സമീപം - നാദാപുരം  ഗ്രാമ പഞ്ചായത്ത്, KSRTC ബസ്    സ്റ്റാന്റ്  സമീപം - കാവിലുംപാറ  ഗ്രാമ പഞ്ചായത്ത്സ്ഥാപിക്കൽ",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 53.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നാദാപുരം  നിയോജക മണ്ഡലത്തിലെ വിവിധ പഞ്ചായത്തുകളിൽ ഹൈമാസ്റ്റ്/മിനിമാസ്റ്റ് ലൈറ്റുകൾ നാദാപുരം നിയോജക മണ്ഡലത്തിലെ വിവിധ പഞ്ചായത്തുകളിൽ  ഹൈമാസ്റ്റ് / മിനിമാസ്റ്റ് ലൈറ്റുകൾ സ്ഥാപിക്കൽ                                                                                                   മിനിമാസ്റ്റ് ലൈറ്റുകൾ----- കരിങ്ങാട് ടൌൺ,കാവിലുംപാറ  ഗ്രാമ പഞ്ചായത്ത്  , അടുക്കത്ത് ടൌൺ -മരുതോങ്കര ഗ്രാമ പഞ്ചായത്ത്, വേറവുമ്മൽ ടൌൺ - തൂണേരി ഗ്രാമ പഞ്ചായത്ത്, കച്ചേരി ചാലോട് റേഷൻ കട സമീപം - എടച്ചേരി ഗ്രാമ പഞ്ചായത്ത്   , ചെറു പീടികക്കണ്ടി മുക്ക്  വാണിമേൽ പാലം സമീപം  - നാദാപുരം ഗ്രാമ പഞ്ചായത്ത്   , കല്ലാച്ചി ടൌൺ  മിനി ബൈപാസ് സമീപം -   നാദാപുരം ഗ്രാമ പഞ്ചായത്ത് ,   കൊക്രി  ടൌൺ - വളയം ഗ്രാമ പഞ്ചായത്ത്,  നിടുംപറമ്പ്  ടൌൺ     - വാണിമേൽ ഗ്രാമ പഞ്ചായത്ത്,  അരയാക്കൂൽ ടൌൺ  - നരിപ്പറ്റ  ഗ്രാമ പഞ്ചായത്ത്,   കുളശ്ശേരി, ചാലപ്പുറം  -  തുണേരി ഗ്രാമ പഞ്ചായത്ത്,   മീത്തൽവയൽ - നരിപ്പറ്റ  ഗ്രാമ പഞ്ചായത്ത്                                                                                                                                ഹൈ മാസ്റ്റ്  ലൈറ്റുകൾ - -----  കുളങ്ങരത്താഴ ടൌൺ  - കായക്കൊടി  ഗ്രാമ പഞ്ചായത്ത്, ചേലക്കാട് ടൌൺ-നാദാപുരം  ഗ്രാമ പഞ്ചായത്ത്,  കസ്തുരികുളം ടൌൺ- നാദാപുരം  ഗ്രാമ പഞ്ചായത്ത് , തെരുവൻപറമ്പ് ടൌൺ ബിനു സ്മാരക സമീപം - നാദാപുരം  ഗ്രാമ പഞ്ചായത്ത്, KSRTC ബസ്    സ്റ്റാന്റ്  സമീപം - കാവിലുംപാറ  ഗ്രാമ പഞ്ചായത്ത്സ്ഥാപിക്കൽ",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 53.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തുണ്ടിയിൽമുക്ക്  -  കുറുമഞ്ഞിമുക്ക് റോഡ്,  എടച്ചേരി ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കൈവേലി ടൌണിൽ കൈവേലിതോടിനു കുറുകെ പാലം നിർമ്മാണം,",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കുങ്കിയുള്ളതിൽ പൂതലാംകുന്ന് റോഡ്,  വളയം ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "നാദാപുരം നിയോജക മണ്ഡലത്തിലെ വിവിധ സ്ഥലങ്ങളിൽ ഹൈമാസ്റ്റ്/മിനിമാസ്റ്റ് ലൈറ്റുകൾ സ്ഥാപിക്കൽ\r\n1\tഎടച്ചേരി\tചുണ്ടയില്‍\r\n2\tഎടച്ചേരി\tജനതാമുക്ക്\r\n3\tഎടച്ചേരി\tബാരക്കണ്ടത്തില്‍ പീടിക സമീപം തുരുത്തി\r\n4\tഎടച്ചേരി\tകായപ്പനച്ചി ടൌണ്‍\r\n5\tതൂണേരി\tപട്ടാണി പെട്രോള്‍ പമ്പിന് സമീപം\r\n6\tതൂണേരി\tപേരോട് ടൌണ്‍\r\n7\tകായക്കൊടി\tകായക്കൊടി കൃഷിഭവന് സമീപം\r\n8\tനരിപ്പറ്റ\tതിനൂര്‍ ടൌണ്‍\r\n9\tനരിപ്പറ്റ\tകണ്ടോത്ത് കുനി ടൌണ്‍\r\n10\tനരിപ്പറ്റ\tമൂടിക്കല്‍ ടൌണ്‍\r\n11\tനരിപ്പറ്റ\tതാഴെ നരിപ്പറ്റ ടൌണ്‍\r\n12\tനാദാപുരം\tസിവില്‍ സ്റ്റേഷന്‍ പരിസരം\r\n13\tവാണിമേല്‍\tകരുകുളംടൌണ്‍\r\n14\tചെക്യാട്\tബാബൂന്റപീടിക ജംഗ്ഷന്‍",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 44.5
+        },
+        {
+            "project_name": "തിനൂർ ഗവ.സിംഗിൾ ടീച്ചേഴ്സ് സ്കൂളിന് വാഹനം വാങ്ങൽ (ടെണ്ടർ സേവിങ്ങ്സ് തുക), നരിപ്പറ്റ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Deputy Director of Education, Kozhikode",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 6.0,
+            "concurrence_lakhs": 6.0
+        },
+        {
+            "project_name": "കോമ്പിമുക്ക് - മാമുണ്ടേരിമുക്ക് റോഡ് - ചെക്യാട് ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ചെക്കോറ്റ ക്ഷേത്രം - കണ്ടോത്ത് - അറക്കൻറവിട റോഡ്, വളയം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കായക്കൊടി - പരപ്പുമ്മൽ - വലിയപ്പൊയിൽ - കുരുവന്തൊടിതറ റോഡ് , കായക്കൊടി ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ആയുർവ്വേദ ആശുപത്രി  കെട്ടിട നിർമ്മാണം, കൈവേലി, നാദാപുരം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "തൂണേരി ബ്ലോക്ക് പഞ്ചായത്ത് ഓഫീസ് കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 99.0
+        },
+        {
+            "project_name": "കുളങ്ങരതാഴ പാലപ്പൊയിൽ നടപ്പാത നിർമ്മാണം, കായക്കൊടി ഗ്രമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ചെക്യാട് ഗവ.എല്‍.പി.സ്കൂള്‍ കെട്ടിടം നിര്‍മ്മാണം പൂര്‍ത്തീകരണം, മരുതോങ്കര ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പുളിക്കൂല്‍ തോടിന് കുറുകെ മുവ്വാഞ്ചേരിപാലം നിര്‍മ്മാണം,നാദാപുരം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 44.0,
+            "concurrence_lakhs": 44.0
+        },
+        {
+            "project_name": "ഹെല്‍ത്ത് സെന്‍റര്‍ വരിക്കോളി റോഡ്, നാദാപുരം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കമ്മ്യൂണിറ്റിഹാള്‍ കെട്ടിട നിര്‍മ്മാണം, കൂളിക്കുന്ന്- വാണിമേല്‍ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "വാടപ്പൊയില്‍ താനിക്കുഴി റോഡ്, വളയം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ചേന്നാട്ട് കവല - പന്നിമലകുന്നേല്‍ റോഡില്‍ പാലം നിര്‍മ്മാണം- നരിപ്പറ്റ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 22.0
+        },
+        {
+            "project_name": "മേലേ കൂമുള്ളി കൈതോള്ളതില്‍ മുക്ക് റോഡ്, എടച്ചേരി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "തൂണേരി ബ്ലോക്ക് ഓഫീസ്  -  കനവത്ത് മുക്ക് റോഡ് നിര്‍മ്മാണം, തൂണേരി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "എരാംവീട് - മലയില്‍ ലക്ഷം വീട് റോഡ് നിര്‍മ്മാണം, നാദപുരം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "കരിന്ത്രയില്‍ മുക്ക് പൂവത്താംകണ്ടി നല്ലര്താഴെ റോഡ് നിര്‍മ്മാണം, ചെക്യാട് ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "നാമത്ത് എടവലപ്പാലം അപ്രോച്ച് റോഡ്  നിര്‍മ്മാണം, ചെക്യാട് ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ചുഴലി ഗവ.എല്‍.പി.സ്കൂള്‍ കെട്ടിട നിര്‍മ്മാണം പൂര്‍ത്തീകരണം, ചെക്യാട് ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "നൊട്ടയില്‍താഴെ ട്രാന്‍സ്ഫോര്‍മര്‍ നോല്ലിക്കളത്തില്‍ മുക്ക് റോഡ്, എടച്ചേരി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഹനുമാൻ തോട് പാലം അപ്രോച്ച് റോഡ് നിർമ്മാണം,മരുതോങ്കര ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 44.0,
+            "concurrence_lakhs": 44.0
+        },
+        {
+            "project_name": "പാലോളി - താഴേമുണ്ട്യോട് റോഡ് നിർമ്മാണം, കായക്കൊടി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": ".",
+            "implementing_agency": "Chief Engineer Sports Kerala Foundation",
+            "category": "Sports",
+            "fy": "2022-2023",
+            "estimate_lakhs": 1.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കോതോട് ഗവ:എൽ.പി. സ്ക്കൂൾ കെട്ടിട നിർമ്മാണം പൂർത്തീകരണം, മരുതോങ്കര ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കുണ്ടുതോട് പി. എച്ച്. സി. കെട്ടിട നിർമ്മാണം, കാവിലുംപാറ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "തച്ചൻകണ്ടിമുക്ക് - നന്തോത്ത്താഴെ റോഡ് നിർമ്മാണം ,തുണേരി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 28.0
+        },
+        {
+            "project_name": "കായക്കൊടി പി. എച്ച്. സി. - ദേവർ കോവിൽ കനാൽ റോഡ് , കായക്കൊടി  ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer Kuttiyadi Irrigation",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "kozhikode_shri_e_k_vijayan_placeholder"
+}

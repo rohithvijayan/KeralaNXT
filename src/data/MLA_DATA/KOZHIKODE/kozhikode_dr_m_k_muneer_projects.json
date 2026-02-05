@@ -1,0 +1,697 @@
+{
+    "mla_name": "Dr. M. K. Muneer",
+    "constituency": "KODUVALLY",
+    "district": "Kozhikode",
+    "summary": {
+        "total_expenditure_crores": 21.5649,
+        "breakdown": [
+            {
+                "label": "Education",
+                "value_crores": 6.1211
+            },
+            {
+                "label": "Road",
+                "value_crores": 5.7548
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 5.6998
+            },
+            {
+                "label": "Others",
+                "value_crores": 2.294
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 0.7952
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.5
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.4
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "കണിയാൻ തൊടുക പാലം - കിഴക്കോത്ത് ഗ്രാമ പഞ്ചായത്ത് - കൊടുവളളി നിയോജക മണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "പെരിയാം തോട് നടപ്പാത  - കൊടുവളളി നഗരസഭ -കൊടുവളളി നിയോജക മണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "ജി എൽ പി എസ് പന്നിക്കോട്ടൂർ മേൽക്കൂര, കവാടം നിർമ്മാണം- നരിക്കുനി ഗ്രാമ പഞ്ചായത്ത് - കൊടുവളളി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 24.4,
+            "concurrence_lakhs": 24.4
+        },
+        {
+            "project_name": "ജി വി എച്ച് എസ് എസ്  താമരശ്ശേരി ഡ്രൈനേജ് നിർമ്മാണവും, കവാടം ക്യാപസ് നവീകരണം - കൊടുവളളി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ആരാമ്പ്രം GUP സ്ക്കൂൾ ക്ലാസ്സ് റൂം നിർമ്മാണം - മടവൂർ ഗ്രാമ പഞ്ചായത്ത് - കൊടുവളളി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "മടവൂർ കൃഷിഭവൻ നിർമ്മാണം പൂർത്തീകരണം - മടവൂർ ഗ്രാമ പഞ്ചായത്ത് - കൊടുവളളി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കരുവാരപ്പറ്റ ക്രസൻറ് സ്റ്റേഡിയം റോഡ് -മടവൂർ ഗ്രാമ പഞ്ചായത്ത് - കൊടുവളളി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - GVHSS താമരശ്ശേരി ഹൈസ്കൂൾ വിഭാഗത്തിനും,  GMLPS കൊടുവളളി സ്കൂളിലും സ്മാർട്ട് ക്ലാസ്സ് റൂം നിർമ്മാണം",
+            "implementing_agency": "Deputy Director of Education, Kozhikode",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 11.9,
+            "concurrence_lakhs": 11.9
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - സബ്സെൻറർ കെട്ടിട നിർമ്മാണം പന്നൂർ - കിഴക്കോത്ത് ഗ്രാമ പഞ്ചായത്ത് - കൊടുവളളി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 -കൊടുവളളി നിയോജകമണ്ഡലത്തിലെ വിവിധ പഞ്ചായത്തുകളിൽ ലോമാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കൽ",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 40.6,
+            "concurrence_lakhs": 40.6
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - ഗവ. വൊക്കേഷണൽ ഹയർ സെക്കണ്ടറി സ്കൂൾ താമരശ്ശേരി - സ്മാർട്ട് ക്ലാസ്സ് റൂം നിർമ്മാണം-കൊടുവളളി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Principal Govt. Vocational Higher Secondary School Thamarasseri",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - GVHSS താമരശ്ശേരി ക്ലാസ്സ് റൂം നിർമ്മാണം - താമരശ്ശേരി ഗ്രാമ പഞ്ചായത്ത് - കൊടുവളളി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - പാലാട്ട് മഖാം പാണ്ടിക്കടവ് റോഡ് - ഓമശ്ശേരി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26- GMUP സ്ക്കൂൾ  വെണ്ണക്കാട് ക്ലാസ്സ് റൂം നിർമ്മാണം - കൊടുവളളി  നഗരസഭ -കൊടുവളളി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - പെരിയാം തോട് നവീകരണം പാർശ്വഭിത്തി, കവറിംഗ് സ്ലാബ് നിർമ്മാണം   - കൊടുവളളി നഗരസഭ.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25- മണ്ഡലത്തിലെ പഞ്ചായത്തുകളിലെ വിവിധ സ്ഥലങ്ങളിൽ ലോമാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കൽ -കൊടുവളളി നിയോജക മണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 38.92,
+            "concurrence_lakhs": 38.92
+        },
+        {
+            "project_name": "മണ്ഡലത്തിലെ 4 ഹയർ സെക്കണ്ടറി സ്ക്കൂളുകളിൽ ലൈബ്രറി മോഡണൈസേഷൻ ആന്റ്  സ്മാർട്ട് ഡിജിറ്റലൈസേഷൻ - കൊടുവളളി നിയോജകമണ്ഡലം",
+            "implementing_agency": "മേഖല ഉപ മേധാവി പൊതു വിദ്യാഭ്യാസ വകുപ്പ് ഹയർ സെക്കണ്ടറി വിഭാഗം, കോഴിക്കോട്",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 48.0,
+            "concurrence_lakhs": 48.0
+        },
+        {
+            "project_name": "ലൈബ്രറി മോഡണൈസേഷൻ  & സ്മാർട്ട് ഡിജിറ്റലൈസേഷൻ-ഗവ. മാപ്പിള സ്കൂൾ രാരോത്ത് - കൊടുവളളി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Deputy Director of Education, Kozhikode",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KODUVALLY LAC ADS 2025-26- കൃഷിഭവൻ കെട്ടിട നിർമ്മാണം, ഓമശ്ശേരി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "KODUVALLY LAC ADS 2025-26 - കട്ടിപ്പാറ ഹെൽത്ത് സെൻറർ നിർമ്മാണം - കൊടുവളളി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 99.0
+        },
+        {
+            "project_name": "LAC ADS 2023-24 - ഗവ. എൽ.പി, യു.പി സ്ക്കൂൾ താമരശ്ശേരി ക്ലാസ്സ് മുറി നിർമ്മാണം - കൊടുവളളി നിയോജക മണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - കാഞ്ഞിരത്താൻ പൊയിൽ അരിയിൽ ബൈപ്പാസ് റോഡ് -കൊടുവളളി നഗരസഭ - കൊടുവളളി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - IUMLP സ്ക്കൂൾ കന്നൂട്ടിപ്പാറ കിച്ചൻ നിർമ്മാണം - കട്ടിപ്പാറ ഗ്രാമ പഞ്ചായത്ത് - കൊടുവളളി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - വേനപ്പാറ കാട്ടുമുണ്ട ചമോറ കൊല്ലപ്പടി റോഡ് - കൊടുവളളി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 -  കമ്മ്യൂണിറ്റി ഹെൽത്ത് സബ് സെൻറർ മാനിപുരം - കെട്ടിട നിർമ്മാണ പൂർത്തീകരണം - കൊടുവളളി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - കൊടുവള്ളി മിനി സിവില്‍സ്റ്റേഷനില്‍ ലിഫ്റ്റ് സ്ഥാപിക്കല്‍ - കൊടുവളളി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 49.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KODUVALLY LAC ADS - 2024-25 - ഐ.എച്ച്.ആർ.ഡി കോളേജ് ഫോർ അപ്ലൈഡ് സയൻസ് താമരശ്ശേരിയ്ക്ക് കവാടവും ഓഫീസ് മുറിയും നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 -  കൊടുവളളി നിയോജകമണ്ഡലം -ഇരട്ടകുളങ്ങര ചോയി മഠം റോഡ് -താമരശ്ശേരി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KODUVALLY LAC ADS 2024-25 - വട്ടകണ്ടി കുന്നത്ത് പളളി റോഡ്  നവീകരണം - മടവൂർ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - കൊടുവളളി നിയോജകമണ്ഡലം- ഗവ. യുനാനി ഡിസ്പെൻസറി കെട്ടിട നിർമ്മാണം - മടവൂർ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Healthcare",
+            "fy": "2024-2025",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - കൊടുവളളി നിയോജക മണ്ഡലം  -  ALP സ്ക്കൂൾ മുട്ടാഞ്ചേരി പാചകപുര നിർമ്മാണം - മടവൂർ ഗ്രാമ പഞ്ചായത്ത് ഭരണാനുമതി നൽകുന്നത് സംബന്ധിച്ച്.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "MLA ADS 2024-25 - കൊടുവളളി LAC ഗവ. ഹയർ സക്കൻററി  സ്ക്കൂൾ നരിക്കുനി, സ്ക്കൂൾ ബസ് വാങ്ങൽ",
+            "implementing_agency": "Deputy Director of Education, Kozhikode",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 27.49,
+            "concurrence_lakhs": 27.49
+        },
+        {
+            "project_name": "KODUVALLY LAC ADS - 2022-23 - GHSS കൊടുവള്ളി ആർട്ടിഫിഷ്യൽ ഇൻറലിജൻസ് ലാബ് - സ്ഥാപിക്കൽ",
+            "implementing_agency": "Deputy Director of Education, Kozhikode",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.83,
+            "concurrence_lakhs": 18.5
+        },
+        {
+            "project_name": "നരിക്കുനി ബസ് സ്റ്റാന്‍റ് കം കൊമേഴ്സ്യല്‍ കോപ്ലക്സ്   നവീകരണവും സൌന്ദര്യവല്‍ക്കരണവും(കവാടം,ഓട്ടോബേ തുടങ്ങിയവയുടെ നിര്‍മ്മാണം ഉള്‍പ്പടെ) -കൊടുവള്ളി നിയോജകമണ്ഡലം എം.എല്‍.എ ഡോ.എം.കെ മുനീര്‍ അവര്‍കളുടെ 2024-25 ആസ്തി വികസന പദ്ധതി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കണ്ണന്‍കുന്ന്-പറക്കുന്ന് പൂവ്വത്തൊടുക-ചാരിച്ചിപറമ്പ് റോഡ്- കൊടുവള്ളി നിയോജക മണ്ഡലം എം.എല്‍.എ ഡോ.എം.കെ മുനീര്‍ അവര്‍കളുടെ 2024-25 ആസ്തി വികസന പദ്ധതി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "പന്നൂര്‍ ഗവ.ഹയര്‍സെക്കണ്ടറി സ്ക്കൂളില്‍ ആര്‍ട്ടിഫിഷല്‍ ഇന്‍റലിജന്‍സ് ലാബ് സ്ഥാപിക്കല്‍-കൊടുവള്ളി നിയോജക മണ്ഡലം എം.എല്‍.എ ഡോ.എം.കെ മുനീര് അവര്കളുടെ 2024-25 ആസ്തി വികസന പദ്ധതി",
+            "implementing_agency": "Deputy Director of Education, Kozhikode",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 19.6,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കമ്മ്യൂണിറ്റി ഹെല്‍ത്ത് സെന്‍റര്‍ കൊടുവള്ളി-എക്സ് റേ മുറികളുടെ  നിര്‍മ്മാണവും ഇലക്ട്രിഫിക്കേഷനും-കൊടുവള്ളി നിയോജക മണ്ഡലം എ.എല്‍.എ ഡോ.എം.കെ മുനീര്‍ അവര്‍കളുടെ 2024-25 ആസ്തി വികസന പദ്ധതി",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "ജി.വി.എച്ച്.എസ്.എസ് താമരശ്ശേരി ഓഡിറ്റോറിയം നിര്‍മ്മാണം-കൊടുവള്ളി നിയോജക മണ്ഡലം എ.എല്‍.എ ഡോ.എം.കെ മുനീര്‍ അവര്‍കളുടെ 2023-24 ആസ്തി വികസന പദ്ധതി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "കൊടുവള്ളി നിയോജകമണ്ഡലത്തിലെ  ആസ്തി വികസന പദ്ധതി 2024-25 പദ്ധതിയില്‍ ഉള്‍പ്പെട്ട കൊടുവള്ളി മിനി സിവില്‍ സ്റ്റേഷനില്‍ ലിഫ്റ്റ് നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 49.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കരുവൻപൊയിൽ ജി.എം.യു.പി.സ്കൂളിൽ സ്മാർട്ട് ക്ലാസ്സ് റൂം & ഇലക്ട്രിഫിക്കേഷൻ",
+            "implementing_agency": "Executive Engineer, PWD, Electricals,Kozhikode",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മടവൂര്‍ ഗ്രാമപഞ്ചായത്ത് ഓഡിറ്റോറിയം  പ്രവൃത്തി  - മടവൂര്‍ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 35.98,
+            "concurrence_lakhs": 35.98
+        },
+        {
+            "project_name": "തലപ്പെരുമണ്ണ സബ് സെൻറർ കെട്ടിട നിർമ്മാണം - കൊടുവള്ളി മുൻസിപാലിറ്റി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ഒളാട്ടപൊയില്‍ തൈപ്പൊയില്‍  റോഡ്‌ പൂര്‍ത്തീകരണം - കൊടുവള്ളി മുനിസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "മുത്തങ്ങൽ - വരിക്കോട്ട് റോഡ് നരിക്കുനി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ജി.എം.എൽ.പി സ്കൂൾ കെടയത്തൂർ ക്ലാസ് മുറികൾ നിർമ്മാണം ഓമശ്ശേരി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ഓഡിറ്റോറിയം നിർമ്മാണം  ജി.എം.യു.പി സ്കൂൾ പള്ളിപ്പുറം - താമരശ്ശേരി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "താമരശ്ശേരി ഗ്രാമ പഞ്ചായത്ത് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        },
+        {
+            "project_name": "നീരാട്ടുപാറ – ചരപറമ്പിൽ - കിഴക്കേക്കര റോഡ് - നരിക്കുനി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പന്നിയൂക്കിൽ തങ്ങൾ റോഡ് സംരക്ഷണ ഭിത്തി നിർമ്മാണം കോടുവള്ളി മുൻസിപാലിറ്റി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഇ.കെ ഉണ്ണിമോയി സ്മാരക ഗ്രൌണ്ട്  ഓമശ്ശേരി ഗ്രാമ പഞ്ചായത്ത് (പഞ്ചായത്തിൽ ഒരു കളി സ്ഥലം പദ്ധതി)",
+            "implementing_agency": "Chief Engineer Sports Kerala Foundation",
+            "category": "Sports",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "നിയോജക മണ്ഡലത്തിലെ പഞ്ചായത്തുകളിലെ വിവിധ സ്ഥലങ്ങളിൽ ലോമാസ്റ്റ് ലൈറ്റുകൾ സ്ഥാപിക്കൽ -     മടവൂർ ഗ്രാമ പഞ്ചായത്ത് – പരപ്പാറ പള്ളിക്ക് സമീപം (വാർഡ് 4) ,അങ്കത്തായി സ്റ്റേഡിയം പരിസരം (വാർഡ്1), ജി.എം.യു.പി സ്കൂൾ ആരാമ്പ്രം മുൻവശം (വാർഡ് 13) നരിക്കുനി ഗ്രാമ പഞ്ചായത്ത് – പാറന്നൂർ എൽ.പി.സ്കൂൾ പരിസരം  (വാർഡ്7),വെളഞ്ഞം കണ്ടി താഴം – പടനിലം റോഡ്(വാർഡ് 6) , അത്താണി ബസ്സ് സ്റ്റോപ്പ് പാറന്നൂർ (വാർഡ് 7),കുന്നത്ത് പറമ്പ് അംഗൻവാടിക്ക് സമീപം (വാർഡ് 11 ),പന്നിക്കോട്ടൂർ ഗവ ആയ്യുർവേദ ആശുപത്രിക്ക് സമീപം (വാർഡ് 2) കിഴക്കോത്ത് ഗ്രാമ പഞ്ചായത്ത് - ആലുങ്ങൽ മുക്ക് (വാർഡ്12), പടിക്കോട്ടിൽ മണ്ണിൽതൊടുക (വാർഡ് 10) , പറക്കുന്ന് മദ്രസ്സ പരിസരം(വാർഡ്7),കൊത്തിൾ കണ്ടി പള്ളിക്ക് സമാപം (വാർഡ് 10) ഓമശ്ശേരി ഗ്രാമ പഞ്ചായത്ത് - ചാമോറ അങ്ങാടി (വാർഡ് 5)        കെടയത്തൂർ സ്കൂളിന് മുൻവശം (വാർഡ്12), രായരുകണ്ടി പള്ളിക്ക് മുൻവശം (വാർഡാ 11), കോളിക്കടവ് പള്ളിക്ക് മുൻവശം (വാർഡ് 13)  കട്ടിപ്പാറ ഗ്രാമ പഞ്ചായത്ത് –കട്ടിപ്പാറ ക്വാറി പരിസരം (വാർഡ് 15), അമ്പായത്തോട് അവനി ജംഗ്ഷൻ(വാർഡ് 9)-",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.02,
+            "concurrence_lakhs": 25.02
+        },
+        {
+            "project_name": "താഴെ പരപ്പൻപൊയിൽ - ആലിമുക്ക് റോഡ് താമരശ്ശേരി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "പ്രാവിൽ പാടിപ്പറ്റ കുന്നത്ത് ചാലിൽ റോഡ് കോടുവള്ളി മുൻസിപാലിറ്റി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കോരങ്ങാട് – മൂന്നാം തോട് – നഴ് സറി മുക്ക് – കന്നൂട്ടിപ്പാറ റോഡ്  - കട്ടിപ്പാറ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ഗവ:ആർട്സ്& സയൻസ് കോളേജ് കൊടുവള്ളി ക്ലാസ് മുറികളുടെ നിർമ്മാണം കിഴക്കോത്ത് ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 95.0,
+            "concurrence_lakhs": 95.0
+        },
+        {
+            "project_name": "ഗവ:ആർട്സ് & സയൻസ് കോളേജ് കൊടുവള്ളി ക്ലാസ് മുറികളുടെ നിർമ്മാണം - കിഴക്കോത്ത് ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 95.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പന്നിയങ്കര ആമോളി പറമ്പ് - ചെറുതാഴം പറമ്പ് തോട് നവീകരിച്ച്  ഭിത്തി കെട്ടി",
+            "implementing_agency": "Executive engineer, Minor Irrigation",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "സബ് സെന്‍റര്‍ കെട്ടിടം നിര്‍മ്മാണം, തേക്കുംതോട്ടം - താമരശ്ശേരി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "അറമുക്ക് -അമ്പായകുന്ന് റോഡ്,   കട്ടിപ്പാറ ഗ്രാമപഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.6,
+            "concurrence_lakhs": 11.6
+        },
+        {
+            "project_name": "മടവൂര്‍ കൃഷിഭവന്‍ കെട്ടിട നിര്‍മ്മാണം, മടവൂര്‍ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "സ്കൂളുകള്‍ക്ക് വാഹനം വാങ്ങല്‍ (1. ഗവ. എല്‍.പി. സ്കൂള്‍ വെട്ടി ഒഴിഞ്ഞ തോട്ടം  -വാഹനം വാങ്ങല്‍ - കട്ടിപ്പാറ ഗ്രാമപഞ്ചായത്ത് - 16 ലക്ഷം, 2. ഗവ.എല്‍.പി.സ്കൂള്‍ പൈമ്പാലുശ്ശേരി വാഹനം വാങ്ങല്‍, മടവൂര്‍ ഗ്രാമ പഞ്ചായത്ത് -  -12 ലക്ഷം)",
+            "implementing_agency": "Deputy Director of Education, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 32.0,
+            "concurrence_lakhs": 32.0
+        },
+        {
+            "project_name": "കമ്മ്യൂണിറ്റി ഹെല്‍ത്ത് സബ് സെന്‍റര്‍ മാനിപുരം കെട്ടിടം നിര്‍മ്മാണം, കൊടുവള്ളി മുനിസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "പ്രൈമറി ഹെല്‍ത്ത് സബ് സെന്‍റര്‍, കച്ചേരിമുക്ക് കെട്ടിടം നിര്‍മ്മാണം, കിഴക്കോത്ത് ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "പാടി - പുന്നപ്പിലാക്കില്‍ റോഡ്, കട്ടിപ്പാറ ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഗവ.യു.പി. സ്കൂള്‍,  പുത്തൂര്‍ കെട്ടിട നിര്‍മ്മാണം,  ഓമശ്ശേരി ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 22.0
+        },
+        {
+            "project_name": "ഇല്ലപ്പൊയില്‍ - മുണ്ടപ്പുറംപമ്പ് ഹൌസ് റോഡ്, കട്ടിപ്പാറ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കൂടത്തായി ക്ഷീരോല്‍പാദക സഹകരണ സംഘം കെട്ടിട നിര്‍മ്മാണം, ഓമശ്ശേരി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ജി.എം.എല്‍.പി & /യു.പി സ്കൂള്‍ വെളിമണ്ണ  ക്ലാസ്സ് മുറികള്‍ നിര്‍മ്മിക്കല്‍, ഓമശ്ശേരി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "ചോലക്കരത്താഴം - കുണ്ടത്തില്‍ റോഡ്  കോണ്‍ക്രീറ്റ്, മടവൂര്‍ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പൊയിലങ്ങാടി തൂക്കുപാലം നിര്‍മ്മാണം,",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 55.0,
+            "concurrence_lakhs": 55.0
+        },
+        {
+            "project_name": "ഗവ.ഹയര്‍സെക്കണ്ടറി സ്കൂള്‍, താമരശ്ശേരി  - താമരശ്ശേരി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 17.5,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ജി.എം.എല്‍.പി. സ്കൂള്‍ പാറന്നൂര്‍  ക്ലാസ്സ് മുറികള്‍ നവീകരിക്കല്‍, നരിക്കുനി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ഗവ.ആര്‍ട്സ്  &  സയന്‍സ് കോളേജ് , കൊടുവള്ളി   - ക്ലാസ്സ് മുറികള്‍ നിര്‍മ്മിക്കല്‍",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 99.0
+        },
+        {
+            "project_name": "മേച്ചേരി ഗവ. കോളേജ് റോഡ് നവീകരണം - കിഴക്കോത്ത് ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.2,
+            "concurrence_lakhs": 10.2
+        },
+        {
+            "project_name": "ഗവ.യു.പി.സ്കൂള്‍ ആരാമ്പ്രം - സ്കൂള്‍ വാന്‍ വാങ്ങല്‍,  മടവൂര്‍ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Deputy Director of Education, Kozhikode",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.8,
+            "concurrence_lakhs": 15.77
+        },
+        {
+            "project_name": "ഗവ.യു.പി.സ്കൂള്‍ ആരാമ്പ്രം - സ്കൂള്‍ വാന്‍ വാങ്ങല്‍ - മടവൂര്‍ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Deputy Director of Education, Kozhikode",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.8,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ജി.എല്‍.പി സ്കൂള്‍ പന്നിക്കോട്ടൂര്‍ ക്ലാസ്സ് മുറിയുടെ നിര്‍മ്മാണവും ഇലക്ട്രിഫിക്കേഷനും",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 21.79,
+            "concurrence_lakhs": 21.79
+        },
+        {
+            "project_name": "പന്നിക്കോട്ടൂര്‍ കുണ്ടായി റോഡ്, നരിക്കുനി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 11.66,
+            "concurrence_lakhs": 11.66
+        },
+        {
+            "project_name": "കരീറ്റിപറമ്പ് അങ്കണവാടി (സെന്‍റര്‍ നമ്പര്‍ 36, കൊടുവള്ളി ഐ.സി.ഡി.എസ്) - കെട്ടിടം നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 11.4,
+            "concurrence_lakhs": 11.4
+        },
+        {
+            "project_name": "കരീറ്റിപറമ്പ് അങ്കണവാടി ( സെന്‍റര്‍ നമ്പര്‍ 36, കൊടുവള്ളി ഐസിഡിഎസ് ) - കെട്ടിടം നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഓമശ്ശേരി - പാച്ചാക്കല്‍ - നടമ്മല്‍പൊയില്‍ (പാച്ചാംതോട്) സൈഡ് കെട്ടി സംരക്ഷിച്ച് നവീകരിക്കല്‍",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "kozhikode_dr_m_k_muneer_placeholder"
+}
