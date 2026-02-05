@@ -19,10 +19,19 @@ import './MLADashboardPage.css'
 const districtOptions = [
     { id: 'all', label: 'All Districts' },
     { id: 'Thiruvananthapuram', label: 'Trivandrum' },
+    { id: 'Kollam', label: 'Kollam' },
+    { id: 'Pathanamthitta', label: 'Pathanamthitta' },
+    { id: 'Alappuzha', label: 'Alappuzha' },
+    { id: 'Kottayam', label: 'Kottayam' },
+    { id: 'Idukki', label: 'Idukki' },
     { id: 'Ernakulam', label: 'Ernakulam' },
-    { id: 'Kozhikode', label: 'Kozhikode' },
     { id: 'Thrissur', label: 'Thrissur' },
-    { id: 'Kottayam', label: 'Kottayam' }
+    { id: 'Palakkad', label: 'Palakkad' },
+    { id: 'Malappuram', label: 'Malappuram' },
+    { id: 'Kozhikode', label: 'Kozhikode' },
+    { id: 'Wayanad', label: 'Wayanad' },
+    { id: 'Kannur', label: 'Kannur' },
+    { id: 'Kasaragod', label: 'Kasaragod' }
 ]
 
 const sortOptions = [
@@ -440,7 +449,7 @@ function MLADashboardPage() {
                                                         className="view-more-btn"
                                                         onClick={(e) => {
                                                             e.stopPropagation()
-                                                            navigate(`/mla-fund/${encodeURIComponent(mla.id)}`)
+                                                            navigate(`/mla-fund-analytics/${encodeURIComponent(mla.id)}`)
                                                         }}
                                                     >
                                                         View Details

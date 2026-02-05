@@ -1,46 +1,93 @@
+import { useState, useEffect, useMemo } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import Header from '../components/Header'
+import BottomNav from '../components/BottomNav'
+import {
+    getAggregateStats,
+    getTopMLAs,
+    getTopDistricts,
+    formatAmount,
+    getInitials
+} from '../data/mlaFundLoader'
 import './MLAFundLandingPage.css'
 
-// Dummy data for the landing page
-const stats = {
-    totalExpenditure: '₹2,450 Cr',
-    yoyGrowth: '+12%',
-    totalMLAs: 140,
-    totalDistricts: 14,
-    totalSectors: 8,
-    lastUpdated: 'Feb 2026'
+// Sector icon and color mapping
+const sectorConfig = {
+    'Road': { icon: 'directions_car', color: 'blue' },
+    'Infrastructure': { icon: 'apartment', color: 'indigo' },
+    'Healthcare': { icon: 'favorite', color: 'rose' },
+    'Education': { icon: 'school', color: 'amber' },
+    'Electricity': { icon: 'bolt', color: 'yellow' },
+    'Irrigation': { icon: 'water_drop', color: 'cyan' },
+    'Sports': { icon: 'emoji_events', color: 'emerald' },
+    'Others': { icon: 'more_horiz', color: 'slate' }
 }
-
-const topDistricts = [
-    { id: 1, name: 'Thiruvananthapuram', percent: 87, amount: '₹180 Cr' },
-    { id: 2, name: 'Kollam', percent: 82, amount: '₹165 Cr' },
-    { id: 3, name: 'Ernakulam', percent: 79, amount: '₹210 Cr' }
-]
-
-const topMLAs = [
-    { id: 1, name: 'V. Joy', constituency: 'CPI(M)', amount: '₹23.2 Cr', initials: 'VJ' },
-    { id: 2, name: 'K.N. Balagopal', constituency: 'CPI(M)', amount: '₹21.8 Cr', initials: 'KN' },
-    { id: 3, name: 'C.R. Mahesh', constituency: 'INC', amount: '₹19.5 Cr', initials: 'CR' }
-]
-
-const sectors = [
-    { id: 1, name: 'Road', icon: 'directions_car', amount: '₹1.0k Cr', color: 'blue' },
-    { id: 2, name: 'Infra', icon: 'apartment', amount: '₹687 Cr', color: 'indigo' },
-    { id: 3, name: 'Health', icon: 'favorite', amount: '₹196 Cr', color: 'rose' },
-    { id: 4, name: 'Education', icon: 'school', amount: '₹147 Cr', color: 'amber' },
-    { id: 5, name: 'Electricity', icon: 'bolt', amount: '₹157 Cr', color: 'yellow' },
-    { id: 6, name: 'Irrigation', icon: 'water_drop', amount: '₹133 Cr', color: 'cyan' },
-    { id: 7, name: 'Sports', icon: 'emoji_events', amount: '₹74 Cr', color: 'emerald' },
-    { id: 8, name: 'Others', icon: 'more_horiz', amount: '₹1.1k Cr', color: 'slate' }
-]
 
 function MLAFundLandingPage() {
     const navigate = useNavigate()
+    const [loading, setLoading] = useState(true)
+
+    // Load real data from mlaFundLoader
+    const aggregateStats = useMemo(() => getAggregateStats(), [])
+    const topMLAsData = useMemo(() => getTopMLAs(3), [])
+    const topDistrictsData = useMemo(() => getTopDistricts(3), [])
+
+    useEffect(() => {
+        // Data is loaded synchronously via import.meta.glob, just set loading false
+        setLoading(false)
+    }, [])
+
+    // Compute stats object from real data
+    const stats = useMemo(() => ({
+        totalExpenditure: formatAmount(aggregateStats.totalExpenditure),
+        yoyGrowth: '+18%', // This would need historical data to compute
+        totalMLAs: aggregateStats.totalMLAs,
+        totalDistricts: aggregateStats.totalDistricts,
+        totalSectors: aggregateStats.sectorBreakdown?.length || 8,
+        lastUpdated: 'Feb 2026'
+    }), [aggregateStats])
+
+    // Transform top MLAs for display
+    const topMLAs = useMemo(() => topMLAsData.map((mla, index) => ({
+        id: index + 1,
+        name: mla.name.replace(/^(Shri|Smt)\s+/i, ''),
+        constituency: mla.constituency,
+        amount: formatAmount(mla.totalExpenditure),
+        initials: getInitials(mla.name)
+    })), [topMLAsData])
+
+    // Transform top districts for display
+    const topDistricts = useMemo(() => {
+        const maxExp = topDistrictsData[0]?.totalExpenditure || 1
+        return topDistrictsData.map((district, index) => ({
+            id: index + 1,
+            name: district.name,
+            percent: Math.round((district.totalExpenditure / maxExp) * 100),
+            amount: formatAmount(district.totalExpenditure)
+        }))
+    }, [topDistrictsData])
+
+    // Transform sectors for display
+    const sectors = useMemo(() => {
+        return (aggregateStats.sectorBreakdown || []).slice(0, 8).map((sector, index) => {
+            const config = sectorConfig[sector.label] || { icon: 'category', color: 'slate' }
+            return {
+                id: index + 1,
+                name: sector.label,
+                icon: config.icon,
+                amount: formatAmount(sector.value_crores),
+                color: config.color
+            }
+        })
+    }, [aggregateStats])
 
     const handleExploreDashboard = () => {
         navigate('/mla-fund-dashboard')
+    }
+
+    if (loading) {
+        return <div className="loading-container">Loading MLA Fund Data...</div>
     }
 
     return (
@@ -148,7 +195,7 @@ function MLAFundLandingPage() {
                             ))}
                         </div>
 
-                        <button className="card-cta">
+                        <button className="card-cta" onClick={() => navigate('/mla-fund-dashboard')}>
                             View MLA Dashboard
                             <span className="material-symbols-outlined">arrow_forward</span>
                         </button>
@@ -270,6 +317,9 @@ function MLAFundLandingPage() {
                     <p>© 2024 KeralaNXT • Transparency Protocol • Data updated {stats.lastUpdated}</p>
                 </footer>
             </main>
+
+            {/* Bottom Navigation */}
+            <BottomNav />
         </div>
     )
 }

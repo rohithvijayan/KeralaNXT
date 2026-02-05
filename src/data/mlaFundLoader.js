@@ -165,10 +165,45 @@ export function getAggregateStats() {
  * @returns {Array} Array of district objects with name and code
  */
 export function getAllDistricts() {
-    return Object.entries(districtNames).map(([code, name]) => ({
-        code,
-        name
-    }))
+    const mlas = getAllMLAs()
+    const districtData = {}
+
+    // Aggregate data per district
+    mlas.forEach(mla => {
+        const districtCode = Object.entries(districtNames).find(([code, name]) => name === mla.district)?.[0]
+        if (!districtData[mla.district]) {
+            districtData[mla.district] = {
+                code: districtCode || mla.district,
+                name: mla.district,
+                totalExpenditure: 0,
+                totalProjects: 0,
+                mlaCount: 0
+            }
+        }
+        districtData[mla.district].totalExpenditure += mla.totalExpenditure
+        districtData[mla.district].totalProjects += mla.projectCount
+        districtData[mla.district].mlaCount++
+    })
+
+    return Object.values(districtData).sort((a, b) => b.totalExpenditure - a.totalExpenditure)
+}
+
+/**
+ * Get top performing MLAs
+ * @param {number} count - Number of top MLAs to return
+ * @returns {Array} Top MLAs sorted by expenditure
+ */
+export function getTopMLAs(count = 5) {
+    return getAllMLAs().slice(0, count)
+}
+
+/**
+ * Get top performing districts
+ * @param {number} count - Number of top districts to return  
+ * @returns {Array} Top districts sorted by expenditure
+ */
+export function getTopDistricts(count = 5) {
+    return getAllDistricts().slice(0, count)
 }
 
 /**
