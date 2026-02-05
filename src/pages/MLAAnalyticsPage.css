@@ -372,6 +372,12 @@
     box-shadow: 0 8px 24px rgba(19, 236, 178, 0.25);
 }
 
+.mla-analytics-page .mla-photo {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
 .mla-analytics-page .profile-avatar .avatar-initials {
     font-size: 36px;
     font-weight: 800;

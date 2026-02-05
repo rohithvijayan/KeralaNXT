@@ -705,13 +705,13 @@
             "concurrence_lakhs": 12.5
         },
         {
-            "project_name": NaN,
-            "implementing_agency": NaN,
+            "project_name": null,
+            "implementing_agency": null,
             "category": "Others",
-            "fy": NaN,
+            "fy": null,
             "estimate_lakhs": 0.0,
             "concurrence_lakhs": 0.0
         }
     ],
-    "image": "alappuzha_shri_ms_arun_kumar_placeholder"
+    "image": "109_MS_Arunkumar_Mavelikkara_luqhp3"
 }

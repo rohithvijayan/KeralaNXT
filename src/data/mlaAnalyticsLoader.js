@@ -4,6 +4,8 @@
  * Data source: MLA_DATA/{DISTRICT}/*_projects.json files
  */
 
+import { getMlaImageId } from './mlaImageMapper'
+
 // Import all MLA data files dynamically
 const rawModules = import.meta.glob('./MLA_DATA/**/*_projects.json', {
     eager: true,
@@ -70,7 +72,8 @@ export function getAllMLAsForAnalytics() {
             districtCode: districtCode,
             totalExpenditure: data.summary?.total_expenditure_crores || 0,
             breakdown: data.summary?.breakdown || [],
-            projectCount: data.projects?.length || 0
+            projectCount: data.projects?.length || 0,
+            image: getMlaImageId(data.constituency, data.mla_name, data.image)
         })
     }
 
@@ -111,6 +114,7 @@ export function getMLASpendingBreakdown(mlaId) {
         districtCode: districtCode,
         totalExpenditure: totalExpenditure,
         projectCount: mlaData.projects?.length || 0,
+        image: getMlaImageId(mlaData.constituency, mlaData.mla_name, mlaData.image),
         breakdown: (mlaData.summary?.breakdown || []).map((item, index) => ({
             id: index,
             label: item.label,

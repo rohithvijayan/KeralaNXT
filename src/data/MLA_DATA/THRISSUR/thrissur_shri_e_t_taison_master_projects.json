@@ -661,13 +661,13 @@
             "concurrence_lakhs": 15.0
         },
         {
-            "project_name": NaN,
-            "implementing_agency": NaN,
+            "project_name": null,
+            "implementing_agency": null,
             "category": "Others",
-            "fy": NaN,
+            "fy": null,
             "estimate_lakhs": 0.0,
             "concurrence_lakhs": 0.0
         }
     ],
-    "image": "thrissur_shri_e_t_taison_master_placeholder"
+    "image": "E_T_Taison_Master_MLA_az5prs"
 }

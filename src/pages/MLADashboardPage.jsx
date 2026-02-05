@@ -3,6 +3,7 @@ import { useNavigate, Link } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
 import Header from '../components/Header'
 import BottomNav from '../components/BottomNav'
+import CldImage from '../components/CldImage'
 import { Spotlight } from '../components/ui/Spotlight'
 import {
     getAllMLAs,
@@ -488,7 +489,17 @@ function MLADashboardPage() {
                                             {/* Avatar with Rank */}
                                             <div className="mla-avatar-wrapper">
                                                 <div className="mla-avatar-placeholder">
-                                                    <span>{getInitials(mla.name)}</span>
+                                                    {mla.image ? (
+                                                        <CldImage
+                                                            src={mla.image}
+                                                            alt={mla.name}
+                                                            width={80}
+                                                            height={80}
+                                                            className="mla-photo"
+                                                        />
+                                                    ) : (
+                                                        <span>{getInitials(mla.name)}</span>
+                                                    )}
                                                 </div>
                                                 <span className={`rank-badge ${rank <= 3 ? 'top-3' : perfLevel}`}>
                                                     #{rank}

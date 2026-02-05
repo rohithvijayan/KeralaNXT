@@ -585,13 +585,13 @@
             "concurrence_lakhs": 20.87
         },
         {
-            "project_name": NaN,
-            "implementing_agency": NaN,
+            "project_name": null,
+            "implementing_agency": null,
             "category": "Others",
-            "fy": NaN,
+            "fy": null,
             "estimate_lakhs": 0.0,
             "concurrence_lakhs": 0.0
         }
     ],
-    "image": "kannur_shri_sajeev_joseph_placeholder"
+    "image": "9_sajeev_joseph_irikkoor_py2lq2"
 }

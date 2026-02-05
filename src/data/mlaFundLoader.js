@@ -3,6 +3,8 @@
  * Aggregates data from individual MLA JSON files in MLA_DATA directory
  */
 
+import { getMlaImageId } from './mlaImageMapper'
+
 // District mapping for proper display names
 const districtNames = {
     'TRIVANDRUM': 'Thiruvananthapuram',
@@ -70,7 +72,8 @@ export function getAllMLAs() {
             district: district,
             totalExpenditure: data.summary?.total_expenditure_crores || 0,
             breakdown: data.summary?.breakdown || [],
-            projectCount: data.projects?.length || 0
+            projectCount: data.projects?.length || 0,
+            image: getMlaImageId(data.constituency, data.mla_name, data.image)
         })
     }
 

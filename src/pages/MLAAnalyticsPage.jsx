@@ -14,6 +14,7 @@ import {
 } from '../data/mlaAnalyticsLoader'
 import Header from '../components/Header'
 import BottomNav from '../components/BottomNav'
+import CldImage from '../components/CldImage'
 import { shareElementAsImage } from '../utils/shareUtils'
 import './MLAAnalyticsPage.css'
 
@@ -291,7 +292,17 @@ const MLAAnalyticsPage = () => {
                                             {/* MLA Profile Card */}
                                             <div className="mla-profile-card">
                                                 <div className="profile-avatar">
-                                                    <span className="avatar-initials">{getInitials(mlaData.name)}</span>
+                                                    {mlaData.image ? (
+                                                        <CldImage
+                                                            src={mlaData.image}
+                                                            alt={mlaData.name}
+                                                            width={120}
+                                                            height={120}
+                                                            className="mla-photo"
+                                                        />
+                                                    ) : (
+                                                        <span className="avatar-initials">{getInitials(mlaData.name)}</span>
+                                                    )}
                                                 </div>
                                                 <div className="profile-info">
                                                     <h3 className="profile-name">{mlaData.displayName}</h3>

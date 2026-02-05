@@ -773,13 +773,13 @@
             "concurrence_lakhs": 20.3
         },
         {
-            "project_name": NaN,
-            "implementing_agency": NaN,
+            "project_name": null,
+            "implementing_agency": null,
             "category": "Others",
-            "fy": NaN,
+            "fy": null,
             "estimate_lakhs": 0.0,
             "concurrence_lakhs": 0.0
         }
     ],
-    "image": "ernakulam_shri_kn_unnikrishnan_placeholder"
+    "image": "kn-unnikrishnan-mla_dvozpr"
 }

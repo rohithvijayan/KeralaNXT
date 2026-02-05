@@ -605,13 +605,13 @@
             "concurrence_lakhs": 40.0
         },
         {
-            "project_name": NaN,
-            "implementing_agency": NaN,
+            "project_name": null,
+            "implementing_agency": null,
             "category": "Others",
-            "fy": NaN,
+            "fy": null,
             "estimate_lakhs": 0.0,
             "concurrence_lakhs": 0.0
         }
     ],
-    "image": "palakkad_shri_k_premkumar_placeholder"
+    "image": "K_Premkumar_ochzwq"
 }

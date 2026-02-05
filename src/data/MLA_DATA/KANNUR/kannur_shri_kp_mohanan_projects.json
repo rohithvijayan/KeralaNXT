@@ -601,13 +601,13 @@
             "concurrence_lakhs": 10.0
         },
         {
-            "project_name": NaN,
-            "implementing_agency": NaN,
+            "project_name": null,
+            "implementing_agency": null,
             "category": "Others",
-            "fy": NaN,
+            "fy": null,
             "estimate_lakhs": 0.0,
             "concurrence_lakhs": 0.0
         }
     ],
-    "image": "kannur_shri_kp_mohanan_placeholder"
+    "image": "14_kp_mohanan_koothuparamba_x4sqp9"
 }

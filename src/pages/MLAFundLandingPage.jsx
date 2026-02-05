@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import Header from '../components/Header'
 import BottomNav from '../components/BottomNav'
+import CldImage from '../components/CldImage'
 import {
     getAggregateStats,
     getTopMLAs,
@@ -54,7 +55,8 @@ function MLAFundLandingPage() {
         name: mla.name.replace(/^(Shri|Smt)\s+/i, ''),
         constituency: mla.constituency,
         amount: formatAmount(mla.totalExpenditure),
-        initials: getInitials(mla.name)
+        initials: getInitials(mla.name),
+        image: mla.image
     })), [topMLAsData])
 
     // Transform top districts for display
@@ -182,7 +184,17 @@ function MLAFundLandingPage() {
                                 >
                                     <div className="mla-avatar-wrapper">
                                         <div className="mla-avatar">
-                                            {mla.initials}
+                                            {mla.image ? (
+                                                <CldImage
+                                                    src={mla.image}
+                                                    alt={mla.name}
+                                                    width={80}
+                                                    height={80}
+                                                    className="mla-photo"
+                                                />
+                                            ) : (
+                                                mla.initials
+                                            )}
                                         </div>
                                         {index === 0 && <span className="top-badge" />}
                                     </div>

@@ -525,13 +525,13 @@
             "concurrence_lakhs": 22.06
         },
         {
-            "project_name": NaN,
-            "implementing_agency": NaN,
+            "project_name": null,
+            "implementing_agency": null,
             "category": "Others",
-            "fy": NaN,
+            "fy": null,
             "estimate_lakhs": 0.0,
             "concurrence_lakhs": 0.0
         }
     ],
-    "image": "kannur_shri_m_vijin_placeholder"
+    "image": "7_M_Vijin_Kalliassery_q9nkzf"
 }

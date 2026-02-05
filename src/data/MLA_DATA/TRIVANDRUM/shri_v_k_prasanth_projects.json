@@ -684,13 +684,13 @@
             "concurrence_lakhs": 15.0
         },
         {
-            "project_name": NaN,
-            "implementing_agency": NaN,
+            "project_name": null,
+            "implementing_agency": null,
             "category": "Others",
-            "fy": NaN,
+            "fy": null,
             "estimate_lakhs": 0.0,
             "concurrence_lakhs": 0.0
         }
     ],
-    "image": "shri_v_k_prasanth_placeholder"
+    "image": "V_K_Prasanth_gdx8v0"
 }

@@ -577,13 +577,13 @@
             "concurrence_lakhs": 0.0
         },
         {
-            "project_name": NaN,
-            "implementing_agency": NaN,
+            "project_name": null,
+            "implementing_agency": null,
             "category": "Others",
-            "fy": NaN,
+            "fy": null,
             "estimate_lakhs": 0.0,
             "concurrence_lakhs": 0.0
         }
     ],
-    "image": "alappuzha_shri_ramesh_chennithala_placeholder"
+    "image": "RAMESH_CHENNITHALA_rmnybt"
 }
