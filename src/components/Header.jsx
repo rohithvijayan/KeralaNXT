@@ -37,7 +37,7 @@ function Header({
                             <span className="material-symbols-outlined">account_balance</span>
                         </div>
                         <h1 className="header-logo-text">
-                            kerala<span>Story</span>
+                            Kerala<span>Story</span>
                         </h1>
                     </Link>
                 </div>

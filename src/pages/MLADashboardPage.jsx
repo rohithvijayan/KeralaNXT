@@ -452,7 +452,7 @@ function MLADashboardPage() {
                             </p>
                             <p className="update-disclaimer">
                                 <span className="material-symbols-outlined">update</span>
-                                Data aggregated from official sources. Updated periodically.
+                                All Data Is Sourced From Public Government Portal , Data Updation Process Is Ongoing
                             </p>
                         </div>
                     </div>

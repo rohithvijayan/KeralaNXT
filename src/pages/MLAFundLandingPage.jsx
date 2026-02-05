@@ -314,6 +314,7 @@ function MLAFundLandingPage() {
 
                 {/* Footer */}
                 <footer className="mla-footer">
+                    <p>All Data Is Sourced From Public Government Portal , Data Updation Process Is Ongoing</p>
                     <p>© 2024 KeralaNXT • Transparency Protocol • Data updated {stats.lastUpdated}</p>
                 </footer>
             </main>

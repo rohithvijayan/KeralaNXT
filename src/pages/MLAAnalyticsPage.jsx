@@ -452,6 +452,15 @@ const MLAAnalyticsPage = () => {
 
             {/* Bottom Navigation for Mobile */}
             <BottomNav />
+
+            {/* Footer Disclaimer */}
+            <footer className="mla-footer-disclaimer">
+                <div className="disclaimer-content">
+                    <span className="material-symbols-outlined">info</span>
+                    <p>All Data Is Sourced From Public Government Portal , Data Updation Process Is Ongoing</p>
+                </div>
+                <p className="copyright">© 2024 KeralaNXT • Transparency Protocol</p>
+            </footer>
         </div>
     )
 }
