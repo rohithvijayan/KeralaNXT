@@ -46,12 +46,21 @@ function MLADashboardPage() {
     const navigate = useNavigate()
 
     // State
-    const [searchQuery, setSearchQuery] = useState('')
-    const [selectedDistricts, setSelectedDistricts] = useState(['all'])
-    const [tempSelectedDistricts, setTempSelectedDistricts] = useState(['all'])
+    const [searchQuery, setSearchQuery] = useState(() => sessionStorage.getItem('mla_searchQuery') || '')
+    const [selectedDistricts, setSelectedDistricts] = useState(() => {
+        const saved = sessionStorage.getItem('mla_selectedDistricts')
+        return saved ? JSON.parse(saved) : ['all']
+    })
+    const [tempSelectedDistricts, setTempSelectedDistricts] = useState(() => {
+        const saved = sessionStorage.getItem('mla_selectedDistricts')
+        return saved ? JSON.parse(saved) : ['all']
+    })
     const [isFilterSidebarOpen, setIsFilterSidebarOpen] = useState(false)
-    const [sortBy, setSortBy] = useState('expenditure')
-    const [currentPage, setCurrentPage] = useState(1)
+    const [sortBy, setSortBy] = useState(() => sessionStorage.getItem('mla_sortBy') || 'expenditure')
+    const [currentPage, setCurrentPage] = useState(() => {
+        const saved = sessionStorage.getItem('mla_currentPage')
+        return saved ? parseInt(saved, 10) : 1
+    })
     const [loading, setLoading] = useState(true)
     const [allMLAs, setAllMLAs] = useState([])
     const [globalStats, setGlobalStats] = useState({ totalExpenditure: 0, totalProjects: 0, totalMLAs: 0, totalDistricts: 0 })
@@ -131,10 +140,30 @@ function MLADashboardPage() {
         return filteredMLAs.slice(start, start + itemsPerPage)
     }, [filteredMLAs, currentPage])
 
-    // Reset to page 1 when filters change
+    // Reset to page 1 when filters change (unless it's the initial load with saved state)
     useEffect(() => {
-        setCurrentPage(1)
+        const isFirstRender = !allMLAs.length
+        if (!isFirstRender) {
+            setCurrentPage(1)
+        }
     }, [selectedDistricts, searchQuery, sortBy])
+
+    // Persist states to sessionStorage
+    useEffect(() => {
+        sessionStorage.setItem('mla_searchQuery', searchQuery)
+    }, [searchQuery])
+
+    useEffect(() => {
+        sessionStorage.setItem('mla_selectedDistricts', JSON.stringify(selectedDistricts))
+    }, [selectedDistricts])
+
+    useEffect(() => {
+        sessionStorage.setItem('mla_sortBy', sortBy)
+    }, [sortBy])
+
+    useEffect(() => {
+        sessionStorage.setItem('mla_currentPage', currentPage.toString())
+    }, [currentPage])
 
     // Get rank for an MLA
     const getRank = (mla) => {
@@ -481,7 +510,7 @@ function MLADashboardPage() {
                                             exit={{ opacity: 0, scale: 0.95 }}
                                             transition={{ delay: index * 0.03 }}
                                             layout
-                                            onClick={() => navigate(`/mla-fund/${encodeURIComponent(mla.id)}`)}
+                                            onClick={() => navigate('/mla-fund-analytics', { state: { selectedMLA: mla.id } })}
                                         >
                                             {/* Glow effect - desktop only via CSS */}
                                             <div className="card-glow" />
@@ -585,6 +614,7 @@ function MLADashboardPage() {
                                         </motion.div>
                                     )
                                 })}
+
                             </AnimatePresence>
                         </motion.div>
 
