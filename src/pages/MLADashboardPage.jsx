@@ -449,7 +449,7 @@ function MLADashboardPage() {
                                                         className="view-more-btn"
                                                         onClick={(e) => {
                                                             e.stopPropagation()
-                                                            navigate(`/mla-fund-analytics/${encodeURIComponent(mla.id)}`)
+                                                            navigate('/mla-fund-analytics', { state: { selectedMLA: mla.id } })
                                                         }}
                                                     >
                                                         View Details
