@@ -188,9 +188,10 @@ function MLAFundLandingPage() {
                                                 <CldImage
                                                     src={mla.image}
                                                     alt={mla.name}
-                                                    width={80}
-                                                    height={80}
+                                                    width={60}
+                                                    height={60}
                                                     className="mla-photo"
+                                                    loading="lazy"
                                                 />
                                             ) : (
                                                 mla.initials
@@ -327,7 +328,7 @@ function MLAFundLandingPage() {
                 {/* Footer */}
                 <footer className="mla-footer">
                     <p>All Data Is Sourced From Public Government Portal , Data Updation Process Is Ongoing</p>
-                    <p>© 2024 KeralaNXT • Transparency Protocol • Data updated {stats.lastUpdated}</p>
+                    <p>© 2025 KeralaNXT • Transparency Protocol • Data updated {stats.lastUpdated}</p>
                 </footer>
             </main>
 

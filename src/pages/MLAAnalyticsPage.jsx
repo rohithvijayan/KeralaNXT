@@ -50,11 +50,11 @@ const MLAAnalyticsPage = () => {
 
     // Load spending data for selected MLA
     useEffect(() => {
-        const loadMLAStats = () => {
+        const loadMLAStats = async () => {
             if (!selectedMLA) return
             setLoading(true)
             try {
-                const data = getMLASpendingBreakdown(selectedMLA)
+                const data = await getMLASpendingBreakdown(selectedMLA)
                 setMlaData(data)
             } catch (error) {
                 console.error('Error loading MLA spending breakdown:', error)
@@ -296,9 +296,10 @@ const MLAAnalyticsPage = () => {
                                                         <CldImage
                                                             src={mlaData.image}
                                                             alt={mlaData.name}
-                                                            width={120}
-                                                            height={120}
+                                                            width={80}
+                                                            height={80}
                                                             className="mla-photo"
+                                                            loading="lazy"
                                                         />
                                                     ) : (
                                                         <span className="avatar-initials">{getInitials(mlaData.name)}</span>

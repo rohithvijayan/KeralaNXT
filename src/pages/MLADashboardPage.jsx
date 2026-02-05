@@ -516,9 +516,10 @@ function MLADashboardPage() {
                                                         <CldImage
                                                             src={mla.image}
                                                             alt={mla.name}
-                                                            width={80}
-                                                            height={80}
+                                                            width={60}
+                                                            height={60}
                                                             className="mla-photo"
+                                                            loading="lazy"
                                                         />
                                                     ) : (
                                                         <span>{getInitials(mla.name)}</span>
