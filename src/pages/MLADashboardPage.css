@@ -4,25 +4,25 @@
    CSS VARIABLES
    ========================================== */
 .mla-dashboard {
-    --mla-primary: #13ecb2;
-    --mla-primary-dark: #10d4a0;
+    --mla-primary: #0d9e77;
+    --mla-primary-dark: #0b8a6a;
     --mla-bg-light: #f6f8f7;
     --mla-bg-dark: #10221d;
-    --mla-teal-hero: #4B7C6F;
+    --mla-teal-hero: #4A7C6F;
     --mla-teal-deep: #3A6157;
-    --mla-performance-high: #13ecb2;
-    --mla-performance-medium: #f59e0b;
-    --mla-performance-low: #ef4444;
+    --mla-performance-high: #0d9e77;
+    --mla-performance-medium: #b45309;
+    --mla-performance-low: #dc2626;
     --mla-slate-900: #0f172a;
     --mla-slate-800: #1e293b;
     --mla-slate-700: #334155;
     --mla-slate-600: #475569;
-    --mla-slate-500: #64748b;
-    --mla-slate-400: #94a3b8;
-    --mla-slate-300: #cbd5e1;
-    --mla-slate-200: #e2e8f0;
-    --mla-slate-100: #f1f5f9;
-    --mla-slate-50: #f8fafc;
+    --mla-slate-500: #475569;
+    --mla-slate-400: #64748b;
+    --mla-slate-300: #94a3b8;
+    --mla-slate-200: #cbd5e1;
+    --mla-slate-100: #e2e8f0;
+    --mla-slate-50: #f1f5f9;
 }
 
 /* ==========================================
@@ -87,7 +87,7 @@
     font-weight: 500;
     text-transform: uppercase;
     letter-spacing: 0.1em;
-    opacity: 0.7;
+    opacity: 0.9;
 }
 
 .hero-amount {
@@ -141,7 +141,7 @@
 
 .hero-footnote {
     font-size: 10px;
-    opacity: 0.6;
+    opacity: 0.85;
     font-style: italic;
     margin-top: 2px;
 }
@@ -344,11 +344,11 @@
 .mla-card {
     display: flex;
     align-items: center;
-    gap: 12px;
+    gap: 15px;
     background: white;
-    border-radius: 16px;
+    border-radius: 20px;
     border: 1px solid var(--mla-slate-100);
-    padding: 16px;
+    padding: 20px;
     cursor: pointer;
     transition: all 0.2s ease;
     overflow: hidden;
@@ -371,8 +371,8 @@
 }
 
 .mla-avatar-placeholder {
-    width: 48px;
-    height: 48px;
+    width: 62px;
+    height: 62px;
     border-radius: 50%;
     background: linear-gradient(135deg, rgba(19, 236, 178, 0.2), rgba(19, 236, 178, 0.1));
     border: 2px solid rgba(19, 236, 178, 0.3);
@@ -381,7 +381,7 @@
     justify-content: center;
     color: var(--mla-slate-700);
     font-weight: 700;
-    font-size: 14px;
+    font-size: 18px;
     overflow: hidden;
 }
 
@@ -397,9 +397,9 @@
     right: -2px;
     background: var(--mla-primary);
     color: white;
-    font-size: 9px;
+    font-size: 11px;
     font-weight: 900;
-    padding: 2px 5px;
+    padding: 3px 7px;
     border-radius: 9999px;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
 }
@@ -426,7 +426,7 @@
 }
 
 .mla-name {
-    font-size: 15px;
+    font-size: 18px;
     font-weight: 700;
     color: var(--mla-slate-900);
     white-space: nowrap;
@@ -438,7 +438,7 @@
     display: flex;
     align-items: center;
     gap: 2px;
-    font-size: 11px;
+    font-size: 13px;
     color: var(--mla-slate-500);
 }
 
@@ -447,7 +447,7 @@
 }
 
 .mla-amount {
-    font-size: 14px;
+    font-size: 17px;
     font-weight: 700;
     color: var(--mla-primary-dark);
     margin-top: 2px;
@@ -1210,68 +1210,30 @@
     /* Desktop Card Body */
     .mla-card-body {
         flex-direction: column;
-        gap: 16px;
+        gap: 20px;
     }
 
     .utilization-header {
         display: flex;
         justify-content: space-between;
-        align-items: flex-end;
+        align-items: center;
+        padding-bottom: 12px;
+        border-bottom: 1px solid var(--mla-slate-100);
     }
 
     .util-label {
-        font-size: 10px;
+        font-size: 12px;
         font-weight: 700;
         text-transform: uppercase;
-        color: var(--mla-slate-400);
+        color: var(--mla-slate-500);
     }
 
     .util-percent {
-        font-size: 18px;
+        font-size: 20px;
         font-weight: 900;
         display: flex;
         align-items: center;
-        gap: 4px;
-    }
-
-    .util-percent.high {
-        color: var(--mla-performance-high);
-    }
-
-    .util-percent.medium {
-        color: var(--mla-performance-medium);
-    }
-
-    .util-percent.low {
-        color: var(--mla-performance-low);
-    }
-
-    .util-percent .perf-icon {
-        font-size: 18px;
-    }
-
-    .progress-bar {
-        height: 10px;
-        background: var(--mla-slate-100);
-        border-radius: 9999px;
-        overflow: hidden;
-    }
-
-    .progress-fill {
-        height: 100%;
-        border-radius: 9999px;
-    }
-
-    .progress-fill.high {
-        background: var(--mla-performance-high);
-    }
-
-    .progress-fill.medium {
-        background: var(--mla-performance-medium);
-    }
-
-    .progress-fill.low {
-        background: var(--mla-performance-low);
+        gap: 6px;
     }
 
     .fund-details {

@@ -474,12 +474,6 @@ function MLADashboardPage() {
                     <div className="methodology-disclaimer">
                         <span className="material-symbols-outlined disclaimer-icon">info</span>
                         <div className="disclaimer-content">
-                            <p>
-                                <strong>MLA Development Fund:</strong> Tracking expenditure across all 140 constituencies.
-                                <span className="perf-legend high">✓ Top performers</span>
-                                <span className="perf-legend medium">→ Mid range</span>
-                                <span className="perf-legend low">⚠ Lower</span>
-                            </p>
                             <p className="update-disclaimer">
                                 <span className="material-symbols-outlined">update</span>
                                 All Data Is Sourced From Public Government Portal , Data Updation Process Is Ongoing
@@ -579,14 +573,6 @@ function MLADashboardPage() {
                                                         </span>
                                                         {formatAmount(mla.totalExpenditure)}
                                                     </span>
-                                                </div>
-                                                <div className="progress-bar">
-                                                    <motion.div
-                                                        className={`progress-fill ${perfLevel}`}
-                                                        initial={{ width: 0 }}
-                                                        animate={{ width: `${Math.min((mla.totalExpenditure / 50) * 100, 100)}%` }}
-                                                        transition={{ duration: 1, ease: "easeOut" }}
-                                                    />
                                                 </div>
                                                 <div className="fund-details">
                                                     <div className="fund-item">
