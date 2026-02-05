@@ -202,10 +202,7 @@ const MLAAnalyticsPage = () => {
                         </div>
                     )}
 
-                    <button className="export-btn" onClick={handleShare}>
-                        <span className="material-symbols-outlined">share</span>
-                        Share Analytics
-                    </button>
+
                 </aside>
 
                 {/* Content Area */}

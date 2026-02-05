@@ -46,7 +46,9 @@ function MLADashboardPage() {
 
     // State
     const [searchQuery, setSearchQuery] = useState('')
-    const [selectedDistrict, setSelectedDistrict] = useState('all')
+    const [selectedDistricts, setSelectedDistricts] = useState(['all'])
+    const [tempSelectedDistricts, setTempSelectedDistricts] = useState(['all'])
+    const [isFilterSidebarOpen, setIsFilterSidebarOpen] = useState(false)
     const [sortBy, setSortBy] = useState('expenditure')
     const [currentPage, setCurrentPage] = useState(1)
     const [loading, setLoading] = useState(true)
@@ -79,10 +81,16 @@ function MLADashboardPage() {
 
     // Current stats based on selected district filter
     const currentStats = useMemo(() => {
-        if (selectedDistrict === 'all') {
+        const isAllSelected = selectedDistricts.includes('all')
+        if (isAllSelected) {
             return globalStats
         }
-        const districtMLAs = getMLAsByDistrict(selectedDistrict)
+
+        let districtMLAs = []
+        selectedDistricts.forEach(d => {
+            districtMLAs = [...districtMLAs, ...getMLAsByDistrict(d)]
+        })
+
         const totalExp = districtMLAs.reduce((sum, mla) => sum + mla.totalExpenditure, 0)
         const totalProj = districtMLAs.reduce((sum, mla) => sum + mla.projectCount, 0)
         return {
@@ -90,19 +98,30 @@ function MLADashboardPage() {
             totalProjects: totalProj,
             totalMLAs: districtMLAs.length
         }
-    }, [selectedDistrict, globalStats])
+    }, [selectedDistricts, globalStats])
 
-    const currentDistrictLabel = districtOptions.find(d => d.id === selectedDistrict)?.label || 'All Districts'
+    const currentDistrictLabel = useMemo(() => {
+        if (selectedDistricts.includes('all')) return 'All Districts'
+        if (selectedDistricts.length === 1) {
+            return districtOptions.find(d => d.id === selectedDistricts[0])?.label || selectedDistricts[0]
+        }
+        return `${selectedDistricts.length} Districts`
+    }, [selectedDistricts])
 
     // Filter and sort MLAs
     const filteredMLAs = useMemo(() => {
-        let mlas = selectedDistrict === 'all'
-            ? allMLAs
-            : getMLAsByDistrict(selectedDistrict)
+        let mlas = []
+        if (selectedDistricts.includes('all')) {
+            mlas = allMLAs
+        } else {
+            selectedDistricts.forEach(d => {
+                mlas = [...mlas, ...getMLAsByDistrict(d)]
+            })
+        }
         mlas = searchMLAs(mlas, searchQuery)
         mlas = sortMLAs(mlas, sortBy)
         return mlas
-    }, [selectedDistrict, searchQuery, sortBy, allMLAs])
+    }, [selectedDistricts, searchQuery, sortBy, allMLAs])
 
     // Pagination
     const totalPages = Math.ceil(filteredMLAs.length / itemsPerPage)
@@ -114,7 +133,7 @@ function MLADashboardPage() {
     // Reset to page 1 when filters change
     useEffect(() => {
         setCurrentPage(1)
-    }, [selectedDistrict, searchQuery, sortBy])
+    }, [selectedDistricts, searchQuery, sortBy])
 
     // Get rank for an MLA
     const getRank = (mla) => {
@@ -127,6 +146,31 @@ function MLADashboardPage() {
         if (rank <= 70) return 'medium'
         return 'low'
     }
+
+    const toggleDistrict = (districtId) => {
+        setTempSelectedDistricts(prev => {
+            if (districtId === 'all') return ['all']
+            const withoutAll = prev.filter(id => id !== 'all')
+
+            if (withoutAll.includes(districtId)) {
+                const updated = withoutAll.filter(id => id !== districtId)
+                return updated.length === 0 ? ['all'] : updated
+            } else {
+                return [...withoutAll, districtId]
+            }
+        })
+    }
+
+    const handleApplyFilters = () => {
+        setSelectedDistricts(tempSelectedDistricts)
+        setIsFilterSidebarOpen(false)
+    }
+
+    const handleOpenSidebar = () => {
+        setTempSelectedDistricts(selectedDistricts)
+        setIsFilterSidebarOpen(true)
+    }
+
 
     if (loading) {
         return <div className="loading-container">Loading MLA Fund Data...</div>
@@ -188,19 +232,22 @@ function MLADashboardPage() {
                         </div>
 
                         <div className="sidebar-section">
-                            <p className="section-title">Top Districts</p>
+                            <p className="section-title">Top Districts (Expenditure)</p>
                             <div className="district-stats">
-                                {districtStats.map(district => (
-                                    <div key={district.code} className="district-stat">
-                                        <div className="district-stat-header">
-                                            <span>{district.name}</span>
-                                            <span className="district-count">{district.mlaCount} MLAs</span>
+                                {(() => {
+                                    const maxExp = Math.max(...districtStats.map(d => d.totalExpenditure), 1);
+                                    return districtStats.map(district => (
+                                        <div key={district.code} className="district-stat">
+                                            <div className="district-stat-header">
+                                                <span>{district.name}</span>
+                                                <span className="district-count">{formatAmount(district.totalExpenditure)}</span>
+                                            </div>
+                                            <div className="mini-progress">
+                                                <div className="mini-progress-fill" style={{ width: `${(district.totalExpenditure / maxExp) * 100}%` }} />
+                                            </div>
                                         </div>
-                                        <div className="mini-progress">
-                                            <div className="mini-progress-fill" style={{ width: `${(district.mlaCount / 14) * 100}%` }} />
-                                        </div>
-                                    </div>
-                                ))}
+                                    ));
+                                })()}
                             </div>
                         </div>
 
@@ -283,18 +330,28 @@ function MLADashboardPage() {
                                         onChange={(e) => setSearchQuery(e.target.value)}
                                     />
                                 </div>
+                                <button
+                                    className="desktop-filter-trigger"
+                                    onClick={handleOpenSidebar}
+                                >
+                                    <span className="material-symbols-outlined">tune</span>
+                                    <span>Filter Districts</span>
+                                    {selectedDistricts.length > 0 && !selectedDistricts.includes('all') && (
+                                        <span className="filter-count-badge">{selectedDistricts.length}</span>
+                                    )}
+                                </button>
                             </div>
                         </div>
                     </header>
 
-                    {/* Filters Bar */}
-                    <section className="filters-bar">
+                    {/* Filters Bar - Fixed/Pills for Mobile, Hidden for Desktop */}
+                    <section className="filters-bar mobile-only">
                         <div className="district-toggle">
                             {districtOptions.map(option => (
                                 <button
                                     key={option.id}
-                                    className={`district-pill ${selectedDistrict === option.id ? 'active' : ''}`}
-                                    onClick={() => setSelectedDistrict(option.id)}
+                                    className={`district-pill ${selectedDistricts.includes(option.id) ? 'active' : ''}`}
+                                    onClick={() => setSelectedDistricts([option.id])}
                                 >
                                     {option.label}
                                 </button>
@@ -325,6 +382,63 @@ function MLADashboardPage() {
                             </select>
                         </div>
                     </section>
+
+                    <AnimatePresence>
+                        {isFilterSidebarOpen && (
+                            <>
+                                <motion.div
+                                    className="filter-overlay"
+                                    initial={{ opacity: 0 }}
+                                    animate={{ opacity: 1 }}
+                                    exit={{ opacity: 0 }}
+                                    onClick={() => setIsFilterSidebarOpen(false)}
+                                />
+                                <motion.div
+                                    className="filter-sidebar-popup"
+                                    initial={{ x: '100%' }}
+                                    animate={{ x: 0 }}
+                                    exit={{ x: '100%' }}
+                                    transition={{ type: 'spring', damping: 25, stiffness: 200 }}
+                                >
+                                    <div className="filter-sidebar-header">
+                                        <h3>Filter Districts</h3>
+                                        <button className="close-filter-btn" onClick={() => setIsFilterSidebarOpen(false)}>
+                                            <span className="material-symbols-outlined">close</span>
+                                        </button>
+                                    </div>
+                                    <div className="filter-sidebar-content">
+                                        <p className="filter-subtitle">Select one or more districts to filter the dashboard results.</p>
+                                        <div className="filter-options-grid">
+                                            {districtOptions.map(option => (
+                                                <label key={option.id} className={`filter-option ${tempSelectedDistricts.includes(option.id) ? 'active' : ''}`}>
+                                                    <div className="filter-checkbox">
+                                                        {tempSelectedDistricts.includes(option.id) && (
+                                                            <span className="material-symbols-outlined">check</span>
+                                                        )}
+                                                    </div>
+                                                    <input
+                                                        type="checkbox"
+                                                        className="hidden-checkbox"
+                                                        checked={tempSelectedDistricts.includes(option.id)}
+                                                        onChange={() => toggleDistrict(option.id)}
+                                                    />
+                                                    <span>{option.label}</span>
+                                                </label>
+                                            ))}
+                                        </div>
+                                    </div>
+                                    <div className="filter-sidebar-footer">
+                                        <button className="clear-filters-btn" onClick={() => setTempSelectedDistricts(['all'])}>
+                                            Reset All
+                                        </button>
+                                        <button className="apply-filters-btn" onClick={handleApplyFilters}>
+                                            Done
+                                        </button>
+                                    </div>
+                                </motion.div>
+                            </>
+                        )}
+                    </AnimatePresence>
 
                     {/* Compact Disclaimer */}
                     <div className="methodology-disclaimer">

@@ -30,9 +30,11 @@
     padding: 24px;
     display: flex;
     flex-direction: column;
-    position: fixed;
-    height: calc(100vh - 69px);
+    position: sticky;
+    top: 73px;
+    height: calc(100vh - 73px);
     overflow-y: auto;
+    flex-shrink: 0;
 }
 
 .mla-analytics-page .sidebar-brand {
@@ -198,7 +200,6 @@
 .mla-analytics-page .analytics-content {
     flex: 1;
     padding: 24px;
-    margin-left: 280px;
     padding-bottom: 100px;
 }
 
@@ -731,7 +732,6 @@
     }
 
     .mla-analytics-page .analytics-content {
-        margin-left: 280px;
         padding: 32px 40px;
         padding-bottom: 40px;
     }
