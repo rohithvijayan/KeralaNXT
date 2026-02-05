@@ -73,7 +73,7 @@ function MLAFundLandingPage() {
                     >
                         <div className="hero-glow" />
                         <div className="hero-grid-pattern">
-                            <span className="material-symbols-outlined">grid_view</span>
+                            <span className="material-symbols-outlined">account_balance</span>
                         </div>
 
                         <div className="hero-content">
@@ -149,7 +149,7 @@ function MLAFundLandingPage() {
                         </div>
 
                         <button className="card-cta">
-                            View Detailed Leaderboard
+                            View MLA Dashboard
                             <span className="material-symbols-outlined">arrow_forward</span>
                         </button>
                     </motion.section>

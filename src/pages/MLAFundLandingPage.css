@@ -471,12 +471,12 @@
     margin-top: 2rem;
     width: 100%;
     padding: 1rem;
-    background: var(--slate-50);
+    background: var(--emerald-800);
     border: none;
     border-radius: 1rem;
     font-size: 0.75rem;
     font-weight: 700;
-    color: var(--slate-600);
+    color: var(--slate-200);
     text-transform: uppercase;
     letter-spacing: 0.1em;
     display: flex;

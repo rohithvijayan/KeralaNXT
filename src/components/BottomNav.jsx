@@ -6,6 +6,7 @@ import './BottomNav.css'
 const navItems = [
     { path: '/', icon: 'home', label: 'Home' },
     { path: '/projects', icon: 'construction', label: 'Projects' },
+    { path: '/mla-fund', icon: 'person_search', label: 'MLA TRACKER' },
     { path: '/state-budget', icon: 'account_balance', label: 'Budget', isBudget: true },
     { path: '/mp-fund-dashboard', icon: 'account_balance', label: 'MP Fund' },
     { path: '/initiatives', icon: 'verified', label: 'Policies' },

@@ -67,6 +67,7 @@ function Header({
                                 Budget
                             </div>
                             <Link to="/initiatives" className="header-nav-link">Policies</Link>
+                            <Link to="/mla-fund" className="header-nav-link">Track Your MLA</Link>
                             <Link to="/mp-fund-dashboard" className="header-nav-link">MP Fund</Link>
                             <Link to="/about" className="header-nav-link">About</Link>
                         </nav>
