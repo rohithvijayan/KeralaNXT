@@ -1,4 +1,4 @@
-# 🌴 KeralamEvide: Development Visualization Dashboard
+# 🌴 KeralaStory: Development Visualization Dashboard
 
 A premium, data-driven platform designed to visualize and track development projects and MP fund utilization across Kerala (2016-2025).
 
@@ -6,7 +6,7 @@ A premium, data-driven platform designed to visualize and track development proj
 
 ## ✨ Project Showcase
 
-Explore the stunning interface and powerful analytics tools of KeralamEvide.
+Explore the stunning interface and powerful analytics tools of KeralaStory.
 
 ### 🏠 Interactive Map Home
 ![Home Page](src/assets/images/pageScreenshot/home.png)
@@ -44,9 +44,9 @@ Explore the stunning interface and powerful analytics tools of KeralamEvide.
 ![Policy Initiatives](src/assets/images/pageScreenshot/policiesinBudget.png)
 *Budgetary impact and progress tracking of key state policy initiatives.*
 
-### ℹ️ About KeralamEvide
+### ℹ️ About KeralaStory
 ![About Page](src/assets/images/pageScreenshot/about.png)
-*In-depth look at the KeralamEvide mission, data sources, and the vision for transparent development tracking.*
+*In-depth look at the KeralaStory mission, data sources, and the vision for transparent development tracking.*
 
 ---
 
