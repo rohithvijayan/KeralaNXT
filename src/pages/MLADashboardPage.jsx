@@ -287,6 +287,10 @@ function MLADashboardPage() {
                                 <span className="material-symbols-outlined">dashboard</span>
                                 <span>Dashboard</span>
                             </a>
+                            <a href="/mla-comparison" className="nav-item">
+                                <span className="material-symbols-outlined">compare_arrows</span>
+                                <span>Comparison</span>
+                            </a>
                             <a href="/mla-fund" className="nav-item">
                                 <span className="material-symbols-outlined">insights</span>
                                 <span>Overview</span>

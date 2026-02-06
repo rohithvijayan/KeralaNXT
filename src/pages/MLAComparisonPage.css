@@ -1,0 +1,594 @@
+/* ==================== CSS VARIABLES ==================== */
+:root {
+    --comparison-bg: #f6f8f7;
+    --comparison-surface: #ffffff;
+    --comparison-border: #e2e8f0;
+    --comparison-text: #0f172a;
+    --comparison-text-secondary: #64748b;
+    --comparison-primary: #0d9e77;
+    --comparison-a: #0d9e77;
+    --comparison-b: #b45309;
+    --comparison-success: #10b981;
+    --comparison-error: #ef4444;
+}
+
+/* ==================== MAIN LAYOUT ==================== */
+.comparison-page {
+    min-height: 100vh;
+    background: var(--comparison-bg);
+    font-family: 'Plus Jakarta Sans', 'Public Sans', system-ui, sans-serif;
+}
+
+.comparison-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 32px 24px;
+}
+
+/* ==================== PAGE HEADER ==================== */
+.comparison-header {
+    margin-bottom: 32px;
+}
+
+.header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.title-group {
+    flex: 1;
+}
+
+.comparison-header h1 {
+    font-size: 32px;
+    font-weight: 800;
+    color: var(--comparison-text);
+    margin: 0 0 8px 0;
+    letter-spacing: -1px;
+}
+
+.comparison-header p {
+    font-size: 16px;
+    color: var(--comparison-text-secondary);
+    margin: 0;
+}
+
+.share-comparison-btn {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 12px 24px;
+    background: var(--comparison-primary);
+    color: white;
+    border: none;
+    border-radius: 12px;
+    font-size: 14px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 4px 12px rgba(13, 158, 119, 0.2);
+}
+
+.share-comparison-btn:hover {
+    background: #0b8a6a;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(13, 158, 119, 0.3);
+}
+
+/* ==================== COMPARISON SPLIT VIEW ==================== */
+.comparison-split {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0;
+    background: var(--comparison-surface);
+    border: 1px solid var(--comparison-border);
+    border-radius: 20px;
+    overflow: hidden;
+    margin-bottom: 32px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+}
+
+.comparison-panel {
+    padding: 40px;
+}
+
+.panel-a {
+    border-right: 1px solid var(--comparison-border);
+}
+
+.panel-content {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+/* ==================== MLA SELECTOR ==================== */
+.mla-selector {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.mla-selector label {
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.panel-a .mla-selector label {
+    color: var(--comparison-a);
+}
+
+.panel-b .mla-selector label {
+    color: var(--comparison-b);
+}
+
+.mla-selector select {
+    width: 100%;
+    padding: 14px 16px;
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--comparison-text);
+    background: #f8faf9;
+    border: 1px solid var(--comparison-border);
+    border-radius: 12px;
+    outline: none;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.panel-a .mla-selector select:focus {
+    border-color: var(--comparison-a);
+    box-shadow: 0 0 0 3px rgba(13, 158, 119, 0.1);
+}
+
+.panel-b .mla-selector select:focus {
+    border-color: var(--comparison-b);
+    box-shadow: 0 0 0 3px rgba(180, 83, 9, 0.1);
+}
+
+/* ==================== PROFILE CARD ==================== */
+.profile-card {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 24px;
+    border-radius: 16px;
+    border: 1px solid;
+}
+
+.card-a {
+    background: rgba(13, 158, 119, 0.04);
+    border-color: rgba(13, 158, 119, 0.15);
+}
+
+.card-b {
+    background: rgba(180, 83, 9, 0.04);
+    border-color: rgba(180, 83, 9, 0.15);
+}
+
+.profile-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    border: 3px solid white;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.card-a .profile-image {
+    background: var(--comparison-a);
+}
+
+.card-b .profile-image {
+    background: var(--comparison-b);
+}
+
+.profile-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.profile-image .material-symbols-outlined {
+    font-size: 40px;
+    color: white;
+}
+
+.profile-info {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.profile-info h3 {
+    font-size: 20px;
+    font-weight: 800;
+    color: var(--comparison-text);
+    margin: 0;
+    letter-spacing: -0.5px;
+}
+
+.profile-info .constituency {
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--comparison-text-secondary);
+    margin: 0;
+}
+
+.badges {
+    display: flex;
+    gap: 8px;
+    margin-top: 8px;
+}
+
+.badge {
+    padding: 4px 12px;
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: white;
+    border-radius: 6px;
+}
+
+.badge-primary {
+    background: var(--comparison-a);
+}
+
+.badge-secondary {
+    background: var(--comparison-b);
+}
+
+/* ==================== SPENDING STATS ==================== */
+.spending-stats {
+    padding-top: 24px;
+    border-top: 1px solid var(--comparison-border);
+}
+
+.stats-info {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.stats-label {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--comparison-text-secondary);
+    margin: 0;
+}
+
+.stats-amount {
+    font-size: 36px;
+    font-weight: 900;
+    margin: 0;
+    letter-spacing: -1px;
+}
+
+.amount-a {
+    color: var(--comparison-a);
+}
+
+.amount-b {
+    color: var(--comparison-b);
+}
+
+.stats-utilization {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--comparison-success);
+    margin: 0;
+}
+
+.stats-utilization .material-symbols-outlined {
+    font-size: 18px;
+}
+
+/* ==================== CATEGORY COMPARISON ==================== */
+.category-comparison {
+    background: var(--comparison-surface);
+    border: 1px solid var(--comparison-border);
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+}
+
+.section-header {
+    padding: 24px 32px;
+    border-bottom: 1px solid var(--comparison-border);
+    background: #fcfdfd;
+}
+
+.section-header h2 {
+    font-size: 22px;
+    font-weight: 800;
+    color: var(--comparison-text);
+    margin: 0 0 4px 0;
+    letter-spacing: -0.5px;
+}
+
+.section-header p {
+    font-size: 15px;
+    color: var(--comparison-text-secondary);
+    margin: 0;
+}
+
+/* ==================== COMPARISON TABLE ==================== */
+.comparison-table {
+    overflow-x: auto;
+}
+
+.table-header {
+    display: grid;
+    grid-template-columns: 2fr 1.5fr 1.5fr 1fr;
+    gap: 16px;
+    padding: 16px 32px;
+    background: #fcfdfd;
+    border-bottom: 1px solid var(--comparison-border);
+}
+
+.header-cell {
+    font-size: 11px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--comparison-text-secondary);
+}
+
+.mp-a-header {
+    color: var(--comparison-a);
+}
+
+.mp-b-header {
+    color: var(--comparison-b);
+}
+
+.table-row {
+    display: grid;
+    grid-template-columns: 2fr 1.5fr 1.5fr 1fr;
+    gap: 16px;
+    padding: 24px 32px;
+    border-bottom: 1px solid var(--comparison-border);
+    transition: background 0.2s ease;
+}
+
+.table-row:hover {
+    background: #f8faf9;
+}
+
+.table-row:last-child {
+    border-bottom: none;
+}
+
+.table-cell {
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+}
+
+.category-cell {
+    gap: 12px;
+    font-weight: 700;
+    color: var(--comparison-text);
+}
+
+.category-cell .material-symbols-outlined {
+    color: var(--comparison-text-secondary);
+    font-size: 22px;
+}
+
+.amount-cell {
+    font-family: 'Space Mono', 'Courier New', monospace;
+    font-weight: 700;
+}
+
+.delta-cell {
+    justify-content: flex-start;
+}
+
+.delta-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 8px 14px;
+    font-size: 13px;
+    font-weight: 800;
+    border-radius: 8px;
+}
+
+.delta-badge.positive {
+    color: #065f46;
+    background: #d1fae5;
+}
+
+.delta-badge.negative {
+    color: #991b1b;
+    background: #fee2e2;
+}
+
+.delta-badge .material-symbols-outlined {
+    font-size: 16px;
+}
+
+/* Mobile labels - hidden by default, shown on mobile */
+.mobile-label {
+    display: none;
+}
+
+/* ==================== RESPONSIVE DESIGN ==================== */
+
+/* Tablet */
+@media (max-width: 1024px) {
+    .comparison-container {
+        padding: 24px 16px;
+    }
+
+    .comparison-header h1 {
+        font-size: 28px;
+    }
+
+    .comparison-panel {
+        padding: 32px;
+    }
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+    .comparison-container {
+        padding: 16px;
+    }
+
+    .comparison-header {
+        margin-bottom: 24px;
+    }
+
+    .header-top {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .share-comparison-btn {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .comparison-header h1 {
+        font-size: 26px;
+    }
+
+    .comparison-header p {
+        font-size: 14px;
+    }
+
+    /* Stack panels vertically */
+    .comparison-split {
+        grid-template-columns: 1fr;
+        gap: 0;
+    }
+
+    .panel-a {
+        border-right: none;
+        border-bottom: 1px solid var(--comparison-border);
+    }
+
+    .comparison-panel {
+        padding: 24px;
+    }
+
+    .profile-card {
+        padding: 20px;
+    }
+
+    .profile-image {
+        width: 64px;
+        height: 64px;
+    }
+
+    .profile-info h3 {
+        font-size: 18px;
+    }
+
+    .stats-amount {
+        font-size: 32px;
+    }
+
+    /* Mobile comparison table */
+    .section-header {
+        padding: 20px;
+    }
+
+    .section-header h2 {
+        font-size: 20px;
+    }
+
+    .section-header p {
+        font-size: 13px;
+    }
+
+    .table-header {
+        display: none;
+    }
+
+    .table-row {
+        grid-template-columns: 1fr;
+        gap: 12px;
+        padding: 20px;
+    }
+
+    .category-cell {
+        font-size: 16px;
+    }
+
+    .amount-cell,
+    .delta-cell {
+        justify-content: space-between;
+        padding-left: 34px;
+    }
+
+    .mobile-label {
+        display: inline;
+        font-size: 11px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        margin-right: 8px;
+    }
+
+    .amount-a .mobile-label {
+        color: var(--comparison-a);
+    }
+
+    .amount-b .mobile-label {
+        color: var(--comparison-b);
+    }
+
+    .delta-cell .mobile-label {
+        color: var(--comparison-text-secondary);
+    }
+}
+
+/* Small Mobile */
+@media (max-width: 480px) {
+    .comparison-header h1 {
+        font-size: 24px;
+    }
+
+    .comparison-panel {
+        padding: 20px;
+    }
+
+    .profile-info h3 {
+        font-size: 16px;
+    }
+
+    .stats-amount {
+        font-size: 28px;
+    }
+}
+
+#comparison-card {
+    background: transparent;
+    border-radius: 20px;
+}
+
+.loading-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--comparison-text-secondary);
+}
