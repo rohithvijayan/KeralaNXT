@@ -4,31 +4,13 @@
  * Data source: MLA_DATA/{DISTRICT}/*_projects.json files
  */
 
+import mlaSummary from './mlaSummary.json'
 import { getMlaImageId } from './mlaImageMapper'
 
-// Import all MLA data files dynamically
+// Process all modules lazily
 const rawModules = import.meta.glob('./MLA_DATA/**/*_projects.json', {
-    eager: true,
     as: 'raw'
 })
-
-// District mapping for proper display names
-const districtNames = {
-    'TRIVANDRUM': 'Thiruvananthapuram',
-    'KOLLAM': 'Kollam',
-    'PATHANAMTHITTA': 'Pathanamthitta',
-    'ALAPPUZHA': 'Alappuzha',
-    'KOTTYAM': 'Kottayam',
-    'IDUKKI': 'Idukki',
-    'ERNAKULAM': 'Ernakulam',
-    'THRISSUR': 'Thrissur',
-    'PALAKKAD': 'Palakkad',
-    'MALAPPURAM': 'Malappuram',
-    'KOZHIKODE': 'Kozhikode',
-    'WAYANAD': 'Wayanad',
-    'KANNUR': 'Kannur',
-    'KASARGOD': 'Kasaragod'
-}
 
 // Parse JSON strings - handle NaN values which are invalid JSON
 function parseMLAJson(rawStr) {
@@ -41,43 +23,16 @@ function parseMLAJson(rawStr) {
     }
 }
 
-// Pre-process all modules
-const mlaDataModules = {}
-for (const path in rawModules) {
-    const parsed = parseMLAJson(rawModules[path])
-    if (parsed) {
-        mlaDataModules[path] = parsed
-    }
-}
-
 /**
  * Get all MLAs for analytics with summary data
  * @returns {Array} Array of MLA objects sorted by expenditure
  */
 export function getAllMLAsForAnalytics() {
-    const mlas = []
-
-    for (const path in mlaDataModules) {
-        const data = mlaDataModules[path].default || mlaDataModules[path]
-        const pathParts = path.split('/')
-        const districtCode = pathParts[2]
-        const district = districtNames[districtCode] || districtCode
-
-        mlas.push({
-            id: path,
-            name: data.mla_name || 'Unknown MLA',
-            displayName: (data.mla_name || 'Unknown MLA').replace(/^(Shri|Smt|Dr\.?)\s+/i, ''),
-            constituency: data.constituency || 'Unknown',
-            district: district,
-            districtCode: districtCode,
-            totalExpenditure: data.summary?.total_expenditure_crores || 0,
-            breakdown: data.summary?.breakdown || [],
-            projectCount: data.projects?.length || 0,
-            image: getMlaImageId(data.constituency, data.mla_name, data.image)
-        })
-    }
-
-    return mlas.sort((a, b) => b.totalExpenditure - a.totalExpenditure)
+    return mlaSummary.mlas.map(mla => ({
+        ...mla,
+        displayName: mla.name.replace(/^(Shri|Smt|Dr\.?)\s+/i, ''),
+        image: getMlaImageId(mla.constituency, mla.name, mla.image)
+    }))
 }
 
 /**
@@ -92,38 +47,43 @@ export function getMLAsByDistrictForAnalytics(district = 'all') {
 }
 
 /**
- * Get detailed spending breakdown for a specific MLA
+ * Get detailed spending breakdown for a specific MLA asynchronously
  * @param {string} mlaId - MLA ID (file path)
- * @returns {Object|null} MLA spending breakdown data
+ * @returns {Promise<Object|null>} MLA spending breakdown data
  */
-export function getMLASpendingBreakdown(mlaId) {
-    const data = mlaDataModules[mlaId]
-    if (!data) return null
+export async function getMLASpendingBreakdown(mlaId) {
+    const loadFn = rawModules[mlaId]
+    if (!loadFn) return null
 
-    const mlaData = data.default || data
-    const pathParts = mlaId.split('/')
-    const districtCode = pathParts[2]
-    const totalExpenditure = mlaData.summary?.total_expenditure_crores || 0
+    try {
+        const raw = await loadFn()
+        const mlaData = parseMLAJson(raw)
+        if (!mlaData) return null
 
-    return {
-        id: mlaId,
-        name: mlaData.mla_name || 'Unknown MLA',
-        displayName: (mlaData.mla_name || 'Unknown MLA').replace(/^(Shri|Smt|Dr\.?)\s+/i, ''),
-        constituency: mlaData.constituency || 'Unknown',
-        district: districtNames[districtCode] || districtCode,
-        districtCode: districtCode,
-        totalExpenditure: totalExpenditure,
-        projectCount: mlaData.projects?.length || 0,
-        image: getMlaImageId(mlaData.constituency, mlaData.mla_name, mlaData.image),
-        breakdown: (mlaData.summary?.breakdown || []).map((item, index) => ({
-            id: index,
-            label: item.label,
-            shortLabel: shortenLabel(item.label),
-            value: item.value_crores || 0,
-            percentage: totalExpenditure > 0
-                ? ((item.value_crores / totalExpenditure) * 100).toFixed(1)
-                : '0.0'
-        })).sort((a, b) => b.value - a.value)
+        const totalExpenditure = mlaData.summary?.total_expenditure_crores || 0
+
+        return {
+            id: mlaId,
+            name: mlaData.mla_name || 'Unknown MLA',
+            displayName: (mlaData.mla_name || 'Unknown MLA').replace(/^(Shri|Smt|Dr\.?)\s+/i, ''),
+            constituency: mlaData.constituency || 'Unknown',
+            district: mlaData.district || 'Unknown',
+            totalExpenditure: totalExpenditure,
+            projectCount: mlaData.projects?.length || 0,
+            image: getMlaImageId(mlaData.constituency, mlaData.mla_name, mlaData.image),
+            breakdown: (mlaData.summary?.breakdown || []).map((item, index) => ({
+                id: index,
+                label: item.label,
+                shortLabel: shortenLabel(item.label),
+                value: item.value_crores || 0,
+                percentage: totalExpenditure > 0
+                    ? ((item.value_crores / totalExpenditure) * 100).toFixed(1)
+                    : '0.0'
+            })).sort((a, b) => b.value - a.value)
+        }
+    } catch (e) {
+        console.error('Error loading MLA spending breakdown:', e)
+        return null
     }
 }
 
