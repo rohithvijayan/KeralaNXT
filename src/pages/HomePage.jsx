@@ -336,14 +336,14 @@ function HomePage() {
                                     <span className="material-symbols-outlined">search</span>
                                 </div>
                                 <h2>Kerala Budget — real Kerala story 🔍</h2>
-                                <p>evide paisa kitti , evide paisa poyi,— ellam njan paranj theram .</p>
+                                <p>Where We Spend The Money, Where We Earned -Everything At One Click .</p>
                                 <div className="popup-btn-group">
-                                    <Link to="/budget-highlights" className="popup-cta-btn highlight">
+                                    <Link to="/union-budget-glance" className="popup-cta-btn highlight">
                                         <span className="material-symbols-outlined">auto_awesome</span>
                                         Union Budget
                                     </Link>
                                     <Link to="/state-budget?year=2026-27" className="popup-cta-btn secondary">
-                                        Check Budget Details
+                                        State Budget
                                         <span className="material-symbols-outlined">arrow_forward</span>
                                     </Link>
                                 </div>
