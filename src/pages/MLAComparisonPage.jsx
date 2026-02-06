@@ -1,4 +1,4 @@
-import { useState, useMemo, useEffect } from 'react'
+import { useState, useMemo, useEffect, useRef } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
 import Header from '../components/Header'
@@ -7,6 +7,74 @@ import { getMLASpendingBreakdown, getCategoryIcon, formatAmountCr } from '../dat
 import { shareElementAsImage } from '../utils/shareUtils'
 import CldImage from '../components/CldImage'
 import './MLAComparisonPage.css'
+
+const SoftDropdown = ({ value, options, onChange, label, color }) => {
+    const [isOpen, setIsOpen] = useState(false)
+    const dropdownRef = useRef(null)
+
+    const selectedOption = options.find(opt => opt.id === value) || options[0]
+
+    useEffect(() => {
+        const handleClickOutside = (event) => {
+            if (dropdownRef.current && !dropdownRef.current.contains(event.target)) {
+                setIsOpen(false)
+            }
+        }
+        document.addEventListener('mousedown', handleClickOutside)
+        return () => document.removeEventListener('mousedown', handleClickOutside)
+    }, [])
+
+    return (
+        <div className="soft-dropdown" ref={dropdownRef}>
+            <label className="dropdown-label" style={{ color: color }}>{label}</label>
+            <div
+                className={`dropdown-trigger ${isOpen ? 'active' : ''}`}
+                onClick={() => setIsOpen(!isOpen)}
+            >
+                <div className="trigger-content">
+                    <span className="selected-name">{selectedOption?.name}</span>
+                    <span className="selected-sub">{selectedOption?.constituency}</span>
+                </div>
+                <span className="material-symbols-outlined dropdown-icon">
+                    {isOpen ? 'expand_less' : 'expand_more'}
+                </span>
+            </div>
+
+            <AnimatePresence>
+                {isOpen && (
+                    <motion.div
+                        className="dropdown-menu"
+                        initial={{ opacity: 0, y: -10, scale: 0.95 }}
+                        animate={{ opacity: 1, y: 0, scale: 1 }}
+                        exit={{ opacity: 0, y: -10, scale: 0.95 }}
+                        transition={{ duration: 0.2, ease: "easeOut" }}
+                    >
+                        <div className="menu-inner">
+                            {options.map((option) => (
+                                <div
+                                    key={option.id}
+                                    className={`menu-item ${option.id === value ? 'selected' : ''}`}
+                                    onClick={() => {
+                                        onChange(option.id)
+                                        setIsOpen(false)
+                                    }}
+                                >
+                                    <div className="item-content">
+                                        <span className="item-name">{option.name}</span>
+                                        <span className="item-sub">{option.constituency} • {option.district}</span>
+                                    </div>
+                                    {option.id === value && (
+                                        <span className="material-symbols-outlined check-icon">check</span>
+                                    )}
+                                </div>
+                            ))}
+                        </div>
+                    </motion.div>
+                )}
+            </AnimatePresence>
+        </div>
+    )
+}
 
 const MLAComparisonPage = () => {
     const navigate = useNavigate()
@@ -156,16 +224,13 @@ const MLAComparisonPage = () => {
                         <div className="comparison-panel panel-a">
                             <div className="panel-content">
                                 {/* Selector */}
-                                <div className="mla-selector">
-                                    <label>Select MLA A</label>
-                                    <select value={mlaA} onChange={(e) => setMlaA(e.target.value)}>
-                                        {mlasData.map(mla => (
-                                            <option key={mla.id} value={mla.id}>
-                                                {mla.name} ({mla.constituency})
-                                            </option>
-                                        ))}
-                                    </select>
-                                </div>
+                                <SoftDropdown
+                                    label="Select MLA A"
+                                    value={mlaA}
+                                    options={mlasData}
+                                    onChange={setMlaA}
+                                    color="var(--comparison-a)"
+                                />
 
                                 {/* Profile Card */}
                                 {mlaADetails && (
@@ -212,16 +277,13 @@ const MLAComparisonPage = () => {
                         <div className="comparison-panel panel-b">
                             <div className="panel-content">
                                 {/* Selector */}
-                                <div className="mla-selector">
-                                    <label>Select MLA B</label>
-                                    <select value={mlaB} onChange={(e) => setMlaB(e.target.value)}>
-                                        {mlasData.map(mla => (
-                                            <option key={mla.id} value={mla.id}>
-                                                {mla.name} ({mla.constituency})
-                                            </option>
-                                        ))}
-                                    </select>
-                                </div>
+                                <SoftDropdown
+                                    label="Select MLA B"
+                                    value={mlaB}
+                                    options={mlasData}
+                                    onChange={setMlaB}
+                                    color="var(--comparison-b)"
+                                />
 
                                 {/* Profile Card */}
                                 {mlaBDetails && (
