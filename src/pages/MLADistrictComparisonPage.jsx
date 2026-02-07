@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
 import Header from '../components/Header'
 import districtData from '../data/districtSummary.json'
+import { shareElementAsImage } from '../utils/shareUtils'
 import './MLADistrictComparisonPage.css'
 
 const SectorItem = ({ sector, index }) => (
@@ -53,6 +54,7 @@ const ConstituencyCard = ({ constituency }) => (
 
 const DistrictCard = ({ district, rank, isExpanded, onToggle }) => {
     const scrollRef = useRef(null)
+    const cardId = `dc-district-card-${district.name.toLowerCase().replace(/\s+/g, '-')}`
 
     const handleScroll = (direction, e) => {
         e.stopPropagation()
@@ -65,8 +67,17 @@ const DistrictCard = ({ district, rank, isExpanded, onToggle }) => {
         }
     }
 
+    const handleShare = (e) => {
+        e.stopPropagation()
+        shareElementAsImage(cardId, {
+            title: `${district.name} Development Stats`,
+            text: `Check out the fund utilization and sectoral breakdown for ${district.name} via keralaStory.`,
+            fileName: `keralastory-${district.name.toLowerCase()}-stats.png`
+        })
+    }
+
     return (
-        <div className={`dc-district-card ${isExpanded ? 'expanded' : ''}`}>
+        <div className={`dc-district-card ${isExpanded ? 'expanded' : ''}`} id={cardId}>
             <div className="dc-card-main" onClick={onToggle}>
                 <div className="dc-rank-section">
                     <div className={`dc-rank-badge rank-${rank}`}>
@@ -101,7 +112,13 @@ const DistrictCard = ({ district, rank, isExpanded, onToggle }) => {
                         transition={{ duration: 0.3 }}
                     >
                         <div className="dc-expanded-content">
-                            <div className="dc-section-label">Sectoral Breakdown</div>
+                            <div className="dc-section-header-flex">
+                                <div className="dc-section-label">Sectoral Breakdown</div>
+                                <button className="dc-share-btn mobile-only" onClick={handleShare}>
+                                    <span className="material-symbols-outlined">share</span>
+                                    <span>Share Card</span>
+                                </button>
+                            </div>
                             <div className="dc-sectors-grid">
                                 {district.sectors.slice(0, 4).map((s, i) => (
                                     <SectorItem key={s.label} sector={s} index={i} />

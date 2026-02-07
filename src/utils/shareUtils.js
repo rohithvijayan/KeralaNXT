@@ -269,6 +269,41 @@ export const shareElementAsImage = async (elementId, options = {}) => {
                         brandTagline.style.color = '#0fb48c';
                         brandHeader.style.marginBottom = '20px';
                     }
+                    // District Comparison Cards
+                    else if (elementId.startsWith('dc-district-card-')) {
+                        brandName.style.color = '#ffffff';
+                        clonedElement.style.padding = '60px 40px';
+                        clonedElement.style.minHeight = 'auto';
+                        clonedElement.style.background = 'linear-gradient(180deg, #1A1F1E 0%, #2D3436 100%)';
+                        clonedElement.style.color = '#ffffff';
+                        clonedElement.style.width = '600px';
+                        clonedElement.style.borderRadius = '32px';
+
+                        // Hide non-essential sections as requested: keep .dc-card-main, .dc-section-label, .dc-sectors-grid
+                        // Hide constituency scroll and share buttons
+                        const elementsToHide = clonedElement.querySelectorAll('.dc-scroll-wrapper, .dc-share-btn, .dc-expand-icon');
+                        elementsToHide.forEach(el => el.style.display = 'none');
+
+                        // Ensure sectoral labels are visible
+                        const labels = clonedElement.querySelectorAll('.dc-section-label');
+                        labels.forEach(l => {
+                            l.style.marginTop = '2rem';
+                            l.style.display = 'block';
+                        });
+
+                        // Only keep the first section label (Sectoral Breakdown) and hide the second one (Constituency Expenditure)
+                        const allLabels = clonedElement.querySelectorAll('.dc-section-label');
+                        if (allLabels.length > 1) {
+                            allLabels[1].style.display = 'none';
+                        }
+
+                        // Increase font sizes for better visibility in share
+                        const mainAmount = clonedElement.querySelector('.dc-main-amount');
+                        if (mainAmount) mainAmount.style.fontSize = '2.5rem';
+
+                        const districtName = clonedElement.querySelector('.dc-district-info h3');
+                        if (districtName) districtName.style.fontSize = '1.75rem';
+                    }
 
                     // For MP Dashboard related cards, make brand name black for visibility
                     if (elementId === 'hero-summary-card' || elementId.startsWith('mp-card-')) {

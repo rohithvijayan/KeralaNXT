@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>District Fund Leaderboard Comparison</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#4a7d70",
+                        "accent-success": "#10B981",
+                        "background-light": "#f6f7f7",
+                        "background-dark": "#1A1F1E",
+                        "card-dark": "#2D3436",
+                    },
+                    fontFamily: {
+                        "display": ["Inter", "sans-serif"]
+                    },
+                    borderRadius: {
+                        "DEFAULT": "1rem",
+                        "lg": "2rem",
+                        "xl": "3rem",
+                        "full": "9999px"
+                    },
+                },
+            },
+        }
+    </script>
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .glass {
+            background: rgba(74, 125, 112, 0.1);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .bento-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 12px;
+        }
+
+        .no-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+
+        .no-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+    </style>
+</head>
+
+<body class="bg-background-light dark:bg-background-dark text-slate-900 dark:text-white font-display min-h-screen">
+    <!-- Top Navigation Bar -->
+    <header class="sticky top-0 z-50 px-4 md:px-40 py-4 glass border-b border-white/5">
+        <div class="max-w-[800px] mx-auto flex items-center justify-between">
+            <div class="flex items-center gap-4">
+                <button
+                    class="flex items-center justify-center size-10 rounded-full hover:bg-white/10 transition-colors">
+                    <span class="material-symbols-outlined text-white">arrow_back</span>
+                </button>
+                <h2 class="text-white text-lg font-bold tracking-tight">District Comparison</h2>
+            </div>
+            <div class="flex items-center gap-3">
+                <button
+                    class="flex items-center justify-center size-10 rounded-full bg-primary/20 text-primary hover:bg-primary/30 transition-colors">
+                    <span class="material-symbols-outlined">share</span>
+                </button>
+                <div class="size-10 rounded-full overflow-hidden border-2 border-primary/40 bg-cover bg-center"
+                    data-alt="User profile avatar"
+                    style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuCenJ6Mxi4_nbc4zq_kH5Na0N6KaPDFfNw4O3dsN2kZQxa8beSkymrWIeKIFNNFp4W5ceSn3U3YHr4n5dm9ghFBNlcwLrSc96eywN-Td_p-DqAPAzsyFfs02fF0BWMxzzJew-qOGEs53aDo4KRqCBq7VRVxpGfPrzF-RLNMNeVDsCEqBYnfPlYRPLy-6eQeGe_fK7Q_rXcuGTD1pB7d8bemtIFnSbEm762pDVUP0sYQrpyaduyvvSg0UznGhDpdTV5zHjtjpDzF9rs')">
+                </div>
+            </div>
+        </div>
+    </header>
+    <main class="max-w-[800px] mx-auto px-4 py-8">
+        <!-- Title & Stats Summary -->
+        <div class="mb-8">
+            <h1 class="text-3xl md:text-4xl font-bold text-white mb-2">Leaderboard</h1>
+            <p class="text-slate-400">Comparing fund utilization across 14 Kerala districts</p>
+        </div>
+        <!-- Leaderboard List -->
+        <div class="space-y-4">
+            <!-- Rank 1 Card (Expanded Example) -->
+            <div class="bg-card-dark rounded-xl p-5 border border-white/5 shadow-xl">
+                <div class="flex items-center justify-between mb-6">
+                    <div class="flex items-center gap-4">
+                        <div
+                            class="size-12 rounded-full bg-accent-success flex items-center justify-center text-white font-bold text-xl shadow-[0_0_20px_rgba(16,185,129,0.3)]">
+                            1
+                        </div>
+                        <div>
+                            <h3 class="text-xl font-bold text-white leading-none mb-1">Thiruvananthapuram</h3>
+                            <span class="text-accent-success text-xs font-semibold tracking-wider uppercase">Top
+                                Performer</span>
+                        </div>
+                    </div>
+                    <div class="text-right">
+                        <p class="text-2xl font-black text-white">₹245.5 <span
+                                class="text-sm font-medium text-slate-400">Cr</span></p>
+                        <div class="flex items-center justify-end gap-1 text-accent-success text-xs">
+                            <span class="material-symbols-outlined text-sm">trending_up</span>
+                            <span>98.2% Utilized</span>
+                        </div>
+                    </div>
+                </div>
+                <!-- Sectoral Breakdown (Expanded Content) -->
+                <div class="pt-6 border-t border-white/5">
+                    <p class="text-slate-400 text-sm font-medium mb-4 uppercase tracking-widest">Sectoral Breakdown</p>
+                    <div class="bento-grid mb-6">
+                        <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                            <div class="flex items-center gap-3 mb-3">
+                                <span class="text-2xl">🛣️</span>
+                                <span class="text-sm font-medium text-white">Roads</span>
+                            </div>
+                            <div class="w-full bg-white/10 h-2 rounded-full overflow-hidden">
+                                <div class="bg-primary h-full rounded-full" style="width: 85%"></div>
+                            </div>
+                            <p class="mt-2 text-right text-xs text-slate-400">85%</p>
+                        </div>
+                        <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                            <div class="flex items-center gap-3 mb-3">
+                                <span class="text-2xl">🎓</span>
+                                <span class="text-sm font-medium text-white">Schools</span>
+                            </div>
+                            <div class="w-full bg-white/10 h-2 rounded-full overflow-hidden">
+                                <div class="bg-accent-success h-full rounded-full" style="width: 94%"></div>
+                            </div>
+                            <p class="mt-2 text-right text-xs text-slate-400">94%</p>
+                        </div>
+                        <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                            <div class="flex items-center gap-3 mb-3">
+                                <span class="text-2xl">🏥</span>
+                                <span class="text-sm font-medium text-white">Health</span>
+                            </div>
+                            <div class="w-full bg-white/10 h-2 rounded-full overflow-hidden">
+                                <div class="bg-primary h-full rounded-full" style="width: 72%"></div>
+                            </div>
+                            <p class="mt-2 text-right text-xs text-slate-400">72%</p>
+                        </div>
+                        <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                            <div class="flex items-center gap-3 mb-3">
+                                <span class="text-2xl">💧</span>
+                                <span class="text-sm font-medium text-white">Water</span>
+                            </div>
+                            <div class="w-full bg-white/10 h-2 rounded-full overflow-hidden">
+                                <div class="bg-amber-500 h-full rounded-full" style="width: 61%"></div>
+                            </div>
+                            <p class="mt-2 text-right text-xs text-slate-400">61%</p>
+                        </div>
+                    </div>
+                    <!-- Constituency Scroller -->
+                    <p class="text-slate-400 text-sm font-medium mb-4 uppercase tracking-widest">Constituency
+                        Utilization</p>
+                    <div class="flex gap-4 overflow-x-auto no-scrollbar pb-2">
+                        <div
+                            class="flex-shrink-0 w-32 bg-white/5 p-4 rounded-xl border border-white/5 flex flex-col items-center">
+                            <div class="relative size-14 mb-3">
+                                <svg class="size-full" viewbox="0 0 36 36">
+                                    <path class="text-white/10"
+                                        d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"
+                                        fill="none" stroke="currentColor" stroke-width="3"></path>
+                                    <path class="text-primary"
+                                        d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"
+                                        fill="none" stroke="currentColor" stroke-dasharray="85, 100"
+                                        stroke-linecap="round" stroke-width="3"></path>
+                                </svg>
+                                <div class="absolute inset-0 flex items-center justify-center text-[10px] font-bold">85%
+                                </div>
+                            </div>
+                            <span class="text-xs text-white text-center font-medium">Varkala</span>
+                        </div>
+                        <div
+                            class="flex-shrink-0 w-32 bg-white/5 p-4 rounded-xl border border-white/5 flex flex-col items-center">
+                            <div class="relative size-14 mb-3">
+                                <svg class="size-full" viewbox="0 0 36 36">
+                                    <path class="text-white/10"
+                                        d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"
+                                        fill="none" stroke="currentColor" stroke-width="3"></path>
+                                    <path class="text-accent-success"
+                                        d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"
+                                        fill="none" stroke="currentColor" stroke-dasharray="92, 100"
+                                        stroke-linecap="round" stroke-width="3"></path>
+                                </svg>
+                                <div class="absolute inset-0 flex items-center justify-center text-[10px] font-bold">92%
+                                </div>
+                            </div>
+                            <span class="text-xs text-white text-center font-medium">Kovalam</span>
+                        </div>
+                        <div
+                            class="flex-shrink-0 w-32 bg-white/5 p-4 rounded-xl border border-white/5 flex flex-col items-center">
+                            <div class="relative size-14 mb-3">
+                                <svg class="size-full" viewbox="0 0 36 36">
+                                    <path class="text-white/10"
+                                        d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"
+                                        fill="none" stroke="currentColor" stroke-width="3"></path>
+                                    <path class="text-primary"
+                                        d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"
+                                        fill="none" stroke="currentColor" stroke-dasharray="78, 100"
+                                        stroke-linecap="round" stroke-width="3"></path>
+                                </svg>
+                                <div class="absolute inset-0 flex items-center justify-center text-[10px] font-bold">78%
+                                </div>
+                            </div>
+                            <span class="text-xs text-white text-center font-medium">Nedumangad</span>
+                        </div>
+                        <div
+                            class="flex-shrink-0 w-32 bg-white/5 p-4 rounded-xl border border-white/5 flex flex-col items-center">
+                            <div class="relative size-14 mb-3">
+                                <svg class="size-full" viewbox="0 0 36 36">
+                                    <path class="text-white/10"
+                                        d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"
+                                        fill="none" stroke="currentColor" stroke-width="3"></path>
+                                    <path class="text-primary"
+                                        d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"
+                                        fill="none" stroke="currentColor" stroke-dasharray="65, 100"
+                                        stroke-linecap="round" stroke-width="3"></path>
+                                </svg>
+                                <div class="absolute inset-0 flex items-center justify-center text-[10px] font-bold">65%
+                                </div>
+                            </div>
+                            <span class="text-xs text-white text-center font-medium">Attingal</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Rank 2 Card -->
+            <div
+                class="bg-card-dark rounded-xl p-5 border border-white/5 flex items-center justify-between hover:bg-card-dark/80 cursor-pointer transition-all">
+                <div class="flex items-center gap-4">
+                    <div
+                        class="size-12 rounded-full bg-slate-700 flex items-center justify-center text-white font-bold text-xl">
+                        2
+                    </div>
+                    <div>
+                        <h3 class="text-lg font-bold text-white">Ernakulam</h3>
+                        <p class="text-slate-400 text-xs">91.4% Utilization Rate</p>
+                    </div>
+                </div>
+                <div class="flex items-center gap-6">
+                    <div class="text-right">
+                        <p class="text-xl font-bold text-white">₹210.2 Cr</p>
+                        <p class="text-primary text-[10px] font-bold uppercase tracking-widest">On Track</p>
+                    </div>
+                    <span class="material-symbols-outlined text-slate-500">expand_more</span>
+                </div>
+            </div>
+            <!-- Rank 3 Card -->
+            <div
+                class="bg-card-dark rounded-xl p-5 border border-white/5 flex items-center justify-between hover:bg-card-dark/80 cursor-pointer transition-all">
+                <div class="flex items-center gap-4">
+                    <div
+                        class="size-12 rounded-full bg-slate-700 flex items-center justify-center text-white font-bold text-xl">
+                        3
+                    </div>
+                    <div>
+                        <h3 class="text-lg font-bold text-white">Kozhikode</h3>
+                        <p class="text-slate-400 text-xs">88.7% Utilization Rate</p>
+                    </div>
+                </div>
+                <div class="flex items-center gap-6">
+                    <div class="text-right">
+                        <p class="text-xl font-bold text-white">₹198.4 Cr</p>
+                        <p class="text-primary text-[10px] font-bold uppercase tracking-widest">High Growth</p>
+                    </div>
+                    <span class="material-symbols-outlined text-slate-500">expand_more</span>
+                </div>
+            </div>
+            <!-- Generic Rank Cards (4-14) -->
+            <div
+                class="bg-card-dark/40 rounded-xl p-4 border border-white/5 flex items-center justify-between opacity-80">
+                <div class="flex items-center gap-4">
+                    <div
+                        class="size-10 rounded-full bg-slate-800 flex items-center justify-center text-slate-400 font-medium">
+                        4
+                    </div>
+                    <h3 class="text-base font-medium text-slate-200">Thrissur</h3>
+                </div>
+                <div class="flex items-center gap-6">
+                    <p class="text-lg font-bold text-slate-200">₹176.9 Cr</p>
+                    <span class="material-symbols-outlined text-slate-600">expand_more</span>
+                </div>
+            </div>
+            <div
+                class="bg-card-dark/40 rounded-xl p-4 border border-white/5 flex items-center justify-between opacity-80">
+                <div class="flex items-center gap-4">
+                    <div
+                        class="size-10 rounded-full bg-slate-800 flex items-center justify-center text-slate-400 font-medium">
+                        5
+                    </div>
+                    <h3 class="text-base font-medium text-slate-200">Malappuram</h3>
+                </div>
+                <div class="flex items-center gap-6">
+                    <p class="text-lg font-bold text-slate-200">₹165.2 Cr</p>
+                    <span class="material-symbols-outlined text-slate-600">expand_more</span>
+                </div>
+            </div>
+            <div
+                class="bg-card-dark/40 rounded-xl p-4 border border-white/5 flex items-center justify-between opacity-70">
+                <div class="flex items-center gap-4">
+                    <div
+                        class="size-10 rounded-full bg-slate-800 flex items-center justify-center text-slate-400 font-medium">
+                        6
+                    </div>
+                    <h3 class="text-base font-medium text-slate-300">Kollam</h3>
+                </div>
+                <div class="flex items-center gap-6">
+                    <p class="text-lg font-bold text-slate-300">₹158.4 Cr</p>
+                    <span class="material-symbols-outlined text-slate-600">expand_more</span>
+                </div>
+            </div>
+            <!-- View More Button -->
+            <button
+                class="w-full py-4 text-center text-primary font-bold text-sm tracking-widest uppercase hover:bg-primary/5 rounded-xl transition-colors mt-4">
+                View All 14 Districts
+            </button>
+        </div>
+    </main>
+    <!-- Floating Action Button -->
+    <div class="fixed bottom-8 right-8">
+        <button
+            class="size-14 bg-primary text-white rounded-full shadow-2xl flex items-center justify-center hover:scale-105 active:scale-95 transition-transform">
+            <span class="material-symbols-outlined">filter_list</span>
+        </button>
+    </div>
+    <!-- Background Ambient Glows -->
+    <div class="fixed -top-20 -left-20 size-96 bg-primary/10 rounded-full blur-[100px] pointer-events-none"></div>
+    <div class="fixed top-1/2 -right-20 size-80 bg-accent-success/5 rounded-full blur-[100px] pointer-events-none">
+    </div>
+</body>
+
+</html>

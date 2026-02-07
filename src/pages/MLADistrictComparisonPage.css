@@ -155,13 +155,57 @@
     border-top: 1px solid rgba(255, 255, 255, 0.05);
 }
 
+.dc-section-header-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1.5rem 0 1rem;
+}
+
+.dc-section-header-flex .dc-section-label {
+    margin: 0;
+}
+
 .dc-section-label {
     text-transform: uppercase;
     letter-spacing: 0.1em;
     font-size: 0.75rem;
     color: #94A3B8;
     font-weight: 600;
-    margin: 1.5rem 0 1rem;
+}
+
+.dc-share-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: rgba(16, 185, 129, 0.1);
+    border: 1px solid rgba(16, 185, 129, 0.2);
+    color: #10B981;
+    padding: 0.5rem 0.875rem;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.dc-share-btn .material-symbols-outlined {
+    font-size: 1rem;
+}
+
+.dc-share-btn:active {
+    background: rgba(16, 185, 129, 0.2);
+    transform: scale(0.95);
+}
+
+.mobile-only {
+    display: none;
+}
+
+@media (max-width: 1023px) {
+    .mobile-only {
+        display: flex;
+    }
 }
 
 /* Sectors Grid */
