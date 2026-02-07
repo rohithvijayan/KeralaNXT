@@ -187,6 +187,14 @@ function HomePage() {
                                 <span>Filter Projects</span>
                                 <span className="material-symbols-outlined sidebar-action-arrow">chevron_right</span>
                             </button>
+
+                            <button className="sidebar-action-btn sidebar-action-btn-highlight" onClick={() => navigate('/mla-fund')}>
+                                <div className="sidebar-action-icon">
+                                    <span className="material-symbols-outlined">account_balance</span>
+                                </div>
+                                <span>MLA Fund Insights</span>
+                                <span className="material-symbols-outlined sidebar-action-arrow">chevron_right</span>
+                            </button>
                         </div>
                     </div>
 

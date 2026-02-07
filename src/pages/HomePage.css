@@ -269,6 +269,27 @@
     color: var(--color-primary);
 }
 
+/* Highlight variant for featured actions */
+.sidebar-action-btn-highlight {
+    background: linear-gradient(135deg, rgba(13, 158, 119, 0.08) 0%, rgba(13, 158, 119, 0.12) 100%);
+    border-color: rgba(13, 158, 119, 0.3);
+}
+
+.sidebar-action-btn-highlight:hover {
+    background: linear-gradient(135deg, rgba(13, 158, 119, 0.12) 0%, rgba(13, 158, 119, 0.18) 100%);
+    border-color: rgba(13, 158, 119, 0.5);
+}
+
+.sidebar-action-btn-highlight .sidebar-action-icon {
+    background-color: rgba(13, 158, 119, 0.15);
+    color: #0d9e77;
+}
+
+.sidebar-action-btn-highlight:hover .sidebar-action-icon {
+    background-color: #0d9e77;
+    color: white;
+}
+
 /* Map Section */
 .home-map-section {
     display: flex;
