@@ -56,9 +56,11 @@ function App() {
                     <Route path="/mla-fund" element={<MLAFundLandingPage />} />
                     <Route path="/mla-fund-dashboard" element={<MLADashboardPage />} />
                     <Route path="/mla-fund-analytics" element={<MLAAnalyticsPage />} />
+                    <Route path="/mla-fund-analytics/:mlaId" element={<MLAAnalyticsPage />} />
                     <Route path="/mla-comparison" element={<MLAComparisonPage />} />
                     <Route path="/district-comparison" element={<MLADistrictComparisonPage />} />
                     <Route path="/mla-projects" element={<MLAProjectsPage />} />
+                    <Route path="/mla-projects/:mlaId" element={<MLAProjectsPage />} />
                 </Routes>
             </Suspense>
             <BottomNav />

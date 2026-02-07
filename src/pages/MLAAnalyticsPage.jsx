@@ -1,5 +1,5 @@
 import { useState, useMemo, useEffect } from 'react'
-import { useNavigate, useLocation, Link } from 'react-router-dom'
+import { useNavigate, useLocation, Link, useParams } from 'react-router-dom'
 import { PieChart, Pie, Cell, ResponsiveContainer, Tooltip } from 'recharts'
 import { motion, AnimatePresence } from 'framer-motion'
 import {
@@ -21,8 +21,11 @@ import './MLAAnalyticsPage.css'
 const MLAAnalyticsPage = () => {
     const navigate = useNavigate()
     const location = useLocation()
+    const { mlaId } = useParams()
     const [selectedDistrict, setSelectedDistrict] = useState('all')
-    const [selectedMLA, setSelectedMLA] = useState(location.state?.selectedMLA || '')
+    const [selectedMLA, setSelectedMLA] = useState(() => {
+        return mlaId || location.state?.selectedMLA || sessionStorage.getItem('last_selected_mla') || ''
+    })
     const [mlasList, setMlasList] = useState([])
     const [mlaData, setMlaData] = useState(null)
     const [loading, setLoading] = useState(true)
@@ -56,6 +59,8 @@ const MLAAnalyticsPage = () => {
             try {
                 const data = await getMLASpendingBreakdown(selectedMLA)
                 setMlaData(data)
+                // Persist for refresh state
+                sessionStorage.setItem('last_selected_mla', selectedMLA)
             } catch (error) {
                 console.error('Error loading MLA spending breakdown:', error)
             } finally {

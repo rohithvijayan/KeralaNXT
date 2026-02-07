@@ -88,6 +88,25 @@ export async function getMLASpendingBreakdown(mlaId) {
 }
 
 /**
+ * Get all projects for an MLA asynchronously
+ * @param {string} mlaId - MLA ID (file path)
+ * @returns {Promise<Array>} Array of project objects
+ */
+export async function getMLAProjects(mlaId) {
+    const loadFn = rawModules[mlaId]
+    if (!loadFn) return []
+
+    try {
+        const raw = await loadFn()
+        const mlaData = parseMLAJson(raw)
+        return mlaData?.projects || []
+    } catch (e) {
+        console.error('Error loading MLA projects:', e)
+        return []
+    }
+}
+
+/**
  * Shorten sector labels for display
  */
 function shortenLabel(label) {
@@ -205,6 +224,7 @@ export default {
     getAllMLAsForAnalytics,
     getMLAsByDistrictForAnalytics,
     getMLASpendingBreakdown,
+    getMLAProjects,
     getCategoryColor,
     getCategoryIcon,
     formatAmountCr,

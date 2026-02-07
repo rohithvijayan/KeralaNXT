@@ -9,7 +9,8 @@ function Header({
     onBack,
     centerContent = null,
     rightContent = null,
-    showActions = true
+    showActions = true,
+    isDark = false
 }) {
     const navigate = useNavigate()
     const location = useLocation()
@@ -23,7 +24,7 @@ function Header({
     const isBudgetActive = location.pathname.includes('budget')
 
     return (
-        <header className="header">
+        <header className={`header ${isDark ? 'is-dark' : ''}`}>
             <div className="header-content">
                 <div className="header-left">
                     {showBack ? (
