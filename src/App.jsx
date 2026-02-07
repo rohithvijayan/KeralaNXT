@@ -26,6 +26,7 @@ const MLADashboardPage = lazy(() => import('./pages/MLADashboardPage'))
 const MLAAnalyticsPage = lazy(() => import('./pages/MLAAnalyticsPage'))
 const MLAComparisonPage = lazy(() => import('./pages/MLAComparisonPage'))
 const MLADistrictComparisonPage = lazy(() => import('./pages/MLADistrictComparisonPage'))
+const MLAProjectsPage = lazy(() => import('./pages/MLAProjectsPage'))
 import { Analytics } from "@vercel/analytics/react"
 import BottomNav from './components/BottomNav'
 
@@ -57,6 +58,7 @@ function App() {
                     <Route path="/mla-fund-analytics" element={<MLAAnalyticsPage />} />
                     <Route path="/mla-comparison" element={<MLAComparisonPage />} />
                     <Route path="/district-comparison" element={<MLADistrictComparisonPage />} />
+                    <Route path="/mla-projects" element={<MLAProjectsPage />} />
                 </Routes>
             </Suspense>
             <BottomNav />

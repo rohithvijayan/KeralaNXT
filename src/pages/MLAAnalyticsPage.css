@@ -170,6 +170,34 @@
     color: var(--analytics-primary);
 }
 
+.mla-analytics-page .view-detailed-btn {
+    width: 100%;
+    margin-top: 20px;
+    padding: 14px;
+    background: #111816;
+    color: var(--analytics-primary);
+    border: 1px solid rgba(19, 236, 178, 0.3);
+    border-radius: 12px;
+    font-size: 13px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.mla-analytics-page .view-detailed-btn:hover {
+    background: #1a2521;
+    border-color: var(--analytics-primary);
+    transform: translateY(-2px);
+}
+
+.view-detailed-btn .material-symbols-outlined {
+    font-size: 20px;
+}
+
 .mla-analytics-page .export-btn {
     margin-top: auto;
     width: 100%;
@@ -441,6 +469,23 @@
     font-size: 12px;
     color: var(--analytics-text-muted);
     margin: 0;
+}
+
+.mla-analytics-page .mobile-view-projects-btn {
+    margin-top: 14px;
+    width: 100%;
+    padding: 12px;
+    background: white;
+    border: 1.5px solid var(--analytics-primary);
+    border-radius: 12px;
+    color: var(--analytics-text);
+    font-size: 13px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    box-shadow: 0 4px 12px rgba(19, 236, 178, 0.1);
 }
 
 .mla-analytics-page .profile-projects .material-symbols-outlined {

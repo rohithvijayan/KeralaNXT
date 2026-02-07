@@ -200,6 +200,14 @@ const MLAAnalyticsPage = () => {
                                     <span className="stat-mini-value primary">{mlaData.breakdown[0]?.shortLabel || 'N/A'}</span>
                                 </div>
                             </div>
+
+                            <button
+                                className="view-detailed-btn"
+                                onClick={() => navigate('/mla-projects', { state: { selectedMLA } })}
+                            >
+                                <span className="material-symbols-outlined">dashboard_customize</span>
+                                View Detailed Projects
+                            </button>
                         </div>
                     )}
 
@@ -321,6 +329,14 @@ const MLAAnalyticsPage = () => {
                                                         <span className="material-symbols-outlined">construction</span>
                                                         {mlaData.projectCount} Projects
                                                     </p>
+
+                                                    <button
+                                                        className="mobile-view-projects-btn mobile-only"
+                                                        onClick={() => navigate('/mla-projects', { state: { selectedMLA } })}
+                                                    >
+                                                        <span>Detailed Projects Dashboard</span>
+                                                        <span className="material-symbols-outlined">arrow_forward</span>
+                                                    </button>
                                                 </div>
                                             </div>
 
