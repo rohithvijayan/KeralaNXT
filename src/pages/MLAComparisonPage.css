@@ -22,7 +22,7 @@
 .comparison-container {
     max-width: 1400px;
     margin: 0 auto;
-    padding: 32px 24px;
+    padding: 100px 24px 32px;
 }
 
 /* ==================== PAGE HEADER ==================== */
@@ -558,7 +558,7 @@
 /* Mobile */
 @media (max-width: 768px) {
     .comparison-container {
-        padding: 16px;
+        padding: 80px 16px 16px;
     }
 
     .comparison-header {

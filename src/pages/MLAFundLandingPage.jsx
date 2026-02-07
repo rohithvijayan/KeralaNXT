@@ -208,10 +208,16 @@ function MLAFundLandingPage() {
                             ))}
                         </div>
 
-                        <button className="card-cta" onClick={() => navigate('/mla-fund-dashboard')}>
-                            View MLA Dashboard
-                            <span className="material-symbols-outlined">arrow_forward</span>
-                        </button>
+                        <div className="card-actions">
+                            <button className="card-cta" onClick={() => navigate('/mla-fund-dashboard')}>
+                                View MLA Dashboard
+                                <span className="material-symbols-outlined">arrow_forward</span>
+                            </button>
+                            <button className="compare-btn" onClick={() => navigate('/mla-comparison')}>
+                                <span>Compare MLAs</span>
+                                <span className="material-symbols-outlined">chevron_right</span>
+                            </button>
+                        </div>
                     </motion.section>
 
                     {/* Sectors Card */}
@@ -292,10 +298,13 @@ function MLAFundLandingPage() {
                             ))}
                         </div>
 
-                        <button className="compare-btn" onClick={() => navigate('/district-comparison')}>
-                            <span>Compare Districts</span>
-                            <span className="material-symbols-outlined">chevron_right</span>
-                        </button>
+                        <div className="card-actions">
+                            <button className="compare-btn" onClick={() => navigate('/district-comparison')}>
+                                <span>Compare Districts</span>
+                                <span className="material-symbols-outlined">chevron_right</span>
+                            </button>
+
+                        </div>
                     </motion.section>
 
                     {/* CTA Section */}
@@ -313,7 +322,7 @@ function MLAFundLandingPage() {
 
                                 <div className="cta-content">
                                     <h4>Access Granular Project Data</h4>
-                                    <p>View individual project photos, completion certificates, and contractor details for every constituency.</p>
+                                    <p>View individual project data, completion certificates, and contractor details for every constituency.</p>
                                 </div>
 
                                 <button className="cta-button" onClick={handleExploreDashboard}>

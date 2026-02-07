@@ -10,18 +10,18 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 2rem 1rem;
+    padding: 80px 1rem 2rem;
 }
 
 @media (min-width: 768px) {
     .home-main {
-        padding: 2rem 2.5rem;
+        padding: 100px 2.5rem 2rem;
     }
 }
 
 @media (min-width: 1024px) {
     .home-main {
-        padding: 3rem;
+        padding: 100px 3rem 3rem;
     }
 }
 

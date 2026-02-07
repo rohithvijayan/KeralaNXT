@@ -58,7 +58,7 @@
     flex: 1;
     width: 100%;
     max-width: 100%;
-    padding: 0 16px 120px;
+    padding: 80px 16px 120px;
     overflow-x: hidden;
     box-sizing: border-box;
 }
@@ -900,6 +900,7 @@
     /* Main Content Desktop */
     .mla-main {
         padding: 32px;
+        padding-top: 100px;
         padding-bottom: 32px;
     }
 

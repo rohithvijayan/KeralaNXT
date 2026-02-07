@@ -12,7 +12,14 @@
     flex: 1;
     max-width: 1440px;
     margin: 0 auto;
-    width: 100%;
+    /* Padding to account for fixed header */
+    padding-top: 80px;
+}
+
+@media (min-width: 768px) {
+    .initiatives-layout {
+        padding-top: 100px;
+    }
 }
 
 /* ===============================================

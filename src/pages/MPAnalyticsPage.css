@@ -104,7 +104,9 @@
 /* Main Layout */
 .analytics-main {
     display: flex;
-    min-height: calc(100vh - 69px);
+    min-height: calc(100vh - 80px);
+    /* Mobile header height */
+    padding-top: 80px;
 }
 
 /* Desktop Sidebar */
@@ -116,7 +118,9 @@
     display: flex;
     flex-direction: column;
     position: fixed;
-    height: calc(100vh - 69px);
+    height: calc(100vh - 100px);
+    /* Desktop header height */
+    top: 100px;
     overflow-y: auto;
 }
 
