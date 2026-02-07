@@ -15,6 +15,7 @@ import {
     formatAmount,
     getInitials
 } from '../data/mlaFundLoader'
+import { shareElementAsImage } from '../utils/shareUtils'
 import './MLADashboardPage.css'
 
 const districtOptions = [
@@ -199,6 +200,14 @@ function MLADashboardPage() {
     const handleOpenSidebar = () => {
         setTempSelectedDistricts(selectedDistricts)
         setIsFilterSidebarOpen(true)
+    }
+
+    const handleShareClick = (elementId, title, text) => {
+        shareElementAsImage(elementId, {
+            title,
+            text,
+            fileName: `${elementId}.png`
+        })
     }
 
 
@@ -502,6 +511,7 @@ function MLADashboardPage() {
                                     return (
                                         <motion.div
                                             key={mla.id}
+                                            id={`mla-card-${mla.name.replace(/\s+/g, '-')}`}
                                             className={`mla-card ${perfLevel}`}
                                             initial={{ opacity: 0, y: 20 }}
                                             animate={{ opacity: 1, y: 0 }}
@@ -547,9 +557,20 @@ function MLADashboardPage() {
                                                 </p>
                                             </div>
 
-                                            {/* Mobile Chevron */}
-                                            <div className="card-chevron">
-                                                <span className="material-symbols-outlined">chevron_right</span>
+                                            {/* Mobile Actions */}
+                                            <div className="card-mobile-actions">
+                                                <button
+                                                    className="mobile-share-btn"
+                                                    onClick={(e) => {
+                                                        e.stopPropagation()
+                                                        handleShareClick(`mla-card-${mla.name.replace(/\s+/g, '-')}`, `MLA Performance: ${mla.name}`, `Check out the fund utilization for ${mla.name} (${mla.constituency}).`)
+                                                    }}
+                                                >
+                                                    <span className="material-symbols-outlined">share</span>
+                                                </button>
+                                                <div className="card-chevron">
+                                                    <span className="material-symbols-outlined">chevron_right</span>
+                                                </div>
                                             </div>
 
                                             {/* Desktop Card Header */}
