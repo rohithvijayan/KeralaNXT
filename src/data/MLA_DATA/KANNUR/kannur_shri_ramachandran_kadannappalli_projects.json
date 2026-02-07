@@ -1,0 +1,437 @@
+{
+    "mla_name": "Shri Ramachandran Kadannappalli",
+    "constituency": "KANNUR",
+    "district": "Kannur",
+    "summary": {
+        "total_expenditure_crores": 16.6707,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 5.2731
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 3.119
+            },
+            {
+                "label": "Others",
+                "value_crores": 3.06
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 1.81
+            },
+            {
+                "label": "Education",
+                "value_crores": 1.794
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 0.6146
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.5
+            },
+            {
+                "label": "Water Supply",
+                "value_crores": 0.5
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "Construction of Drainage and Covering Slab behind Kannur Corporation New Bus Stand and Installation of Lights in Kannur Municipal Corporation .",
+            "implementing_agency": "EXECUTIVE ENGINEER KANNUR MUNICIPAL CORPORATION",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 70.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Kannur Collectorate Ground -Toilet Block ,Footpath and Other works",
+            "implementing_agency": "Executive Engineer PWD Building Division Thalassery",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ജില്ലാ ആയുര്‍വേദ ആശു പത്രി കേഷ്യാലിറ്റി ഔട്ട്‌ പേഷ്യന്റ്  യൂനിറ്റ് അനുബന്ധ സൗകര്യങ്ങള്‍",
+            "implementing_agency": "Executive Engineer PWD Building Division Thalassery",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കണ്ണൂര്‍ ജില്ലാ പോലീസ് DHP യില്‍ ഇലക്ട്രിക് വാഹന ചര്‍ജിങ്ങ് സ്റ്റേഷന്‍",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD ELECTRICAL DIVISION KANNUR",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 23.76,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കണ്ണൂര്‍ മുനിസിപ്പല്‍ കോര്‍പ്പറേഷന്‍-  പയ്യാമ്പലം കൈത്തറി മ്യൂസിയം റോഡ്‌ നിര്‍മ്മാണം പ്രവൃത്തി.",
+            "implementing_agency": "Executive Engineer PWD Roads Division kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നോര്‍ത്ത് അതിരകം കോറോത്ത് കാവ്‌ റോഡ്‌ അന്നമ്മ ക്വാര്‍ട്ടേഴ്സുമായി ബന്ധിപ്പിക്കുന്ന കനാലിനു പാലം",
+            "implementing_agency": "Executive Engineer, Pzhassi Irrigation Project Division, Kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ഒരു പഞ്ചായത്ത്‌ ഒരു കളിക്കളം പദ്ധതിയില്‍ കണ്ണൂര്‍ ശ്രീനാരായണ കോളേജ് ഗ്രൗണ്ട് പ്രവര്‍ത്തി",
+            "implementing_agency": "CHIEF ENGINEER SPORTS KERALA FOUNDATION",
+            "category": "Sports",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "Chelora 62 Number Anganvadi Building Division 20 in Kannur Muncipal Corporation -General Civil Work",
+            "implementing_agency": "EXECUTIVE ENGINEER KANNUR MUNICIPAL CORPORATION",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "VATTAKULAM KADALAYI NADA ROAD MACCADAM TARRING - EDAKKAD ZONAL KANNUR MUNICIPPAL CORPORATION",
+            "implementing_agency": "EXECUTIVE ENGINEER KANNUR MUNICIPAL CORPORATION",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "മുണ്ടേരി ഗ്രാമ പഞ്ചായത്തിലെ കാഞ്ഞിരോട് സാംസ്‌കാരിക നിലയം നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 96.0,
+            "concurrence_lakhs": 96.0
+        },
+        {
+            "project_name": "ബഹു.കണ്ണൂര്‍ നിയോജക മണ്ഡലം എം.എല്‍.എ/ രജിസ്ട്രേഷന്‍, മ്യൂസിയം പുരാവസ്തു പുരാരേഖ വകുപ്പ് മന്ത്രി ശ്രീ. രാമചന്ദ്രന്‍ കടന്നപ്പള്ളി അവര്‍കളുടെ 2024-25 സാമ്പത്തിക വര്‍ഷത്തിലെ ആസ്തി വികസന ഫണ്ടില്‍ നിന്നും ശിപാര്‍ശ ചെയ്ത പന്ന്യോട്ട്  ദേശ സേവാസംഘം വായനശാലാ കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 31.0,
+            "concurrence_lakhs": 31.0
+        },
+        {
+            "project_name": "കണ്ണൂര്‍ കെ.എസ്.ആര്‍.ടി സിക്ക് മുന്‍ വശം ഇന്‍റര്‍ലോക്ക് സൌന്ദര്യവല്‍ക്കരണം - 50 ലക്ഷം.",
+            "implementing_agency": "EXECUTIVE ENGINEER KANNUR MUNICIPAL CORPORATION",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "കണ്ണൂക്കര തോട് സ്ലാബ്  നിര്‍മ്മാണം",
+            "implementing_agency": "EXECUTIVE ENGINEER KANNUR MUNICIPAL CORPORATION",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ജില്ലാ ആശുപത്രിക്ക് ഗ്ലാസ് ആംബുലന്‍സ് വാങ്ങിക്കുന്ന പ്രവര്‍ത്തി",
+            "implementing_agency": "District Medical Officer Kannur",
+            "category": "Healthcare",
+            "fy": "2024-2025",
+            "estimate_lakhs": 31.0,
+            "concurrence_lakhs": 30.85
+        },
+        {
+            "project_name": "മുണ്ടേരി ഗ്രാമ പഞ്ചായത്തിലെ പന്ന്യോട് ദേശ സേവാസംഘം വായനശാല കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 31.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഹൈ മാസ്റ്റ് ലൈറ്റ് - കണ്ണൂര്‍ KSRTC ബസ്സ്സ്റ്റാന്റ് ,മിനി മാസ്റ്റ്‌ ലൈറ്റ് -  കാനച്ചേരിക്കാവ്, മാച്ചേരി പള്ളി,  മുണ്ടേരി റാസിക്കിന്റെ പീടിക",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD ELECTRICAL DIVISION KANNUR",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 10.8
+        },
+        {
+            "project_name": "കണ്ണൂക്കര സ്കൂള്‍ ബാക്കി കെട്ടിട നിര്‍മ്മാണ പ്രവര്‍ത്തികള്‍",
+            "implementing_agency": "EXECUTIVE ENGINEER KANNUR MUNICIPAL CORPORATION",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മുണ്ടേരി ഗവ. ഹയര്‍ സെക്കണ്ടറി സ്കൂളിന് സ്കൂള്‍ ബസ്",
+            "implementing_agency": "Deputy Director of Education Kannur",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 24.75
+        },
+        {
+            "project_name": "ഗവ. മിക്സഡ് യു.പി. സ്കൂള്‍ തളാപ്പിന് സ്കൂള്‍ ബസ്സ്‌",
+            "implementing_agency": "Deputy Director of Education Kannur",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 23.4,
+            "concurrence_lakhs": 23.4
+        },
+        {
+            "project_name": "കണ്ണൂര്‍ ജില്ലാ ഹോമിയോ സ്പെഷാലിറ്റി ബ്ലോക്ക് ഹോസ്പിറ്റല്‍ കെട്ടിട നിര്‍മ്മാണം.",
+            "implementing_agency": "Executive Engineer PWD Building Division Thalassery",
+            "category": "Healthcare",
+            "fy": "2024-2025",
+            "estimate_lakhs": 70.0,
+            "concurrence_lakhs": 70.0
+        },
+        {
+            "project_name": "വാരം മത്സ്യ മാര്‍ക്കറ്റ് പ്രവര്‍ത്തിക്കാന്‍ ആവശ്യമായ അടിസ്ഥാന സൌകര്യങ്ങള്‍ ഒരുക്കല്‍",
+            "implementing_agency": "EXECUTIVE ENGINEER KANNUR MUNICIPAL CORPORATION",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കണ്ണൂര്‍ കളക്ട്രേറ്റ് കോമ്പൌണ്ടില്‍ ജന സൌഹൃദ കേന്ദ്രം നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer PWD Building Division Thalassery",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "ജംഗ്ഷന്‍ സൌന്ദര്യ വല്‍ക്കരണം - തോട്ടട",
+            "implementing_agency": "EXECUTIVE ENGINEER, PWD, National Highways, Kozhikode.",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 99.9,
+            "concurrence_lakhs": 99.9
+        },
+        {
+            "project_name": "മുണ്ടേരി ഗ്രാമപഞ്ചായത്തിലെ കാറ്റാടിക്കുന്ന് കാഞ്ഞിരോട് എ.എല്‍.പി സ്കൂള്‍ റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 35.6,
+            "concurrence_lakhs": 35.6
+        },
+        {
+            "project_name": "MLAADS-2023-24 KANNUR LAC MUNDERI HIGHER SECONDARY SCHOOL KITCHEN BLOCK",
+            "implementing_agency": "Executive Engineer PWD Building Division Thalassery",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 51.0,
+            "concurrence_lakhs": 51.0
+        },
+        {
+            "project_name": "MLAADS-2023-24 KANNUR LAC -PURCHASE OF ANTHIPACHA MATHSYAFED VEHICLE-REG",
+            "implementing_agency": "Deputy Director of Fisheries, Kannur",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "MLAADS 2023-24 THALIPARAMBA LAC PROVIDING ROOFING OVER KANNUR TOWN SQUARE PARKING AREA",
+            "implementing_agency": "Executive Engineer PWD Building Division Thalassery",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 99.9,
+            "concurrence_lakhs": 99.9
+        },
+        {
+            "project_name": "MLAADS 2023-24 KANNUR LAC -CONSTRUCTION OF TOILET BLOCK IN PAYYAMBALAM GIRLS HIGHER SECONDARY SCHOOL",
+            "implementing_agency": "Executive Engineer PWD Building Division Thalassery",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "MLAADS-2022-23-KANNUR LAC CHALA CUTTING RAILWAY OVERBRIDGE -BALANCE AMOUNT FOR RAILWAY",
+            "implementing_agency": "Executive Engineer PWD Roads Division kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 105.81,
+            "concurrence_lakhs": 105.81
+        },
+        {
+            "project_name": "MLAADS-2022-23-KANNUR LAC SITC OF HIMAST LIGHT AT EACHUR,MINIMAST LIGHTS AT NEAR EACHUR ELETRIC SECTION OFFICE AND AT KAMAL PEEDIKA IN MUNDERI GP AND MINIMAST AT KURUVAN VAIDYAR PEEDIKA IN KANNUR MUNICIPAL CORPORATION.",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD ELECTRICAL DIVISION KANNUR",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLAADS-2021-22",
+            "implementing_agency": "Assistant Executive Engineer, PWD Electricals, Thalaserry",
+            "category": "Electricity",
+            "fy": "2021-2022",
+            "estimate_lakhs": 11.7,
+            "concurrence_lakhs": 11.7
+        },
+        {
+            "project_name": "MLA ADS-2021-22 THOTTADA RP/RC MUKK TO JOSE HOUSE FOOTPATH CONCRETING IN DIV 32 EDAKKAD ZONAL IN KANNUR MUNICIPAL CORPORATION",
+            "implementing_agency": "Superintending Engineer, Kannur Coporation",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA ADS-2021-22-Grandhashala Naveekaranam Deshaposhini Vayanashala Grandhalayam Koshormoola in Kannur Munucipal Corporation",
+            "implementing_agency": "Superintending Engineer, Kannur Coporation",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA ADS-2021-22 -KANNUR LAC--Deshaposhini Vayanashala Grandhalayam Koshormoola,Edakkad Grandhashala naveekaranam",
+            "implementing_agency": "Superintending Engineer, Kannur Coporation",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "MLA ADS-2022-23-KANNUR -LAC -Tarring of Kovilakath Kunnumbram mullanmada road in Kannur Municipal Corporation",
+            "implementing_agency": "Superintending Engineer, Kannur Coporation",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA ADS-2022-23 KANNUR LAC-Mammali haji Thottontavida road tarring in Munderi GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA ADS 2022-23-Construction of slab at Kannookkara thodu,Anjukandy Poovalapp thodu, & Kappicheri thodu  in Kannur Corporation",
+            "implementing_agency": "Superintending Engineer, Kannur Coporation",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "MLA ADS 2022-23 Construction of Night Shelter at District Hospital Kannur",
+            "implementing_agency": "Executive Engineer PWD Building Division Thalassery",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "MLA ADS 2022-23 Orayil anganawadi first floor construction for ELDERLY RESPITE CENTRE at Kannur Corporation Division 17",
+            "implementing_agency": "Superintending Engineer, Kannur Coporation",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS-2022-23 Thottada West UP School  Kootampally Road tarring in Kannur Municipal Corporation Division 37.",
+            "implementing_agency": "Superintending Engineer, Kannur Coporation",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഡിജിറ്റല്‍ വില്ലേജ്ഓഫീസ്",
+            "implementing_agency": "Executive Engineer PWD Electronics Kannur",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കണ്ണൂര്‍ കോര്‍പ്പറേഷനിലെ വിവിധ റോഡുകളുടെ നിര്‍മ്മാണം- 40 ലക്ഷം\r\n1) തോട്ടട ഐ ടി ഐ തോണിയോട്ട് കാവ്‌ റോഡ്‌  തുടക്കത്തില്‍ വളവ് ഒഴിവാക്കല്‍  ഡിവിഷന്‍  37-10 ലക്ഷം \r\n2)എളയാവൂര്‍ സൌത്ത്   പവിഴം റോഡ്‌ ഡിവിഷന്‍ 28-10ലക്ഷം \r\n3) കൌസല്യ വീട് കൂടത്തില്‍ ജമീല വീട് റോഡ്‌  ഡിവിഷന്‍ 17-10ലക്ഷം\r\n4)ചന്ദ്രോത്ത് കാട് റോഡ്‌  ഡിവിഷന്‍ 19-10ലക്ഷം",
+            "implementing_agency": "Superintending Engineer, Kannur Coporation",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "ചാലക്കുന്നു കുടി വെള്ള പദ്ധതി",
+            "implementing_agency": "Executive Engineer, Kerala Water Authority, Kannur",
+            "category": "Water Supply",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ഗവ: എല്‍ പി സ്കൂള്‍ കണ്ണൂക്കര കെട്ടിടനിര്‍മ്മാണം",
+            "implementing_agency": "Superintending Engineer, Kannur Coporation",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "മൌവഞ്ചേരി സ്കൂള്‍ കാഞ്ഞിരോട്  വയല്‍ റോഡ്‌ ബാക്കി ഭാഗം, ചെന്നിയിറക്കല്‍  ശങ്കരവിലാസം റോഡ്‌, ഏച്ചൂര്‍ കോട്ടം ആശാരിക്കാവ് മുണ്ടേരി വയല്‍ റോഡ്‌ ,മുണ്ടേരി ഗ്രാമ പഞ്ചായത്ത് (ഒറ്റ പ്രവര്ത്തി)",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 31.0,
+            "concurrence_lakhs": 31.0
+        },
+        {
+            "project_name": "പടന്നോട്ട് അംഗന്‍വാടി കെട്ടിടം (മുണ്ടേരി പഞ്ചായത്ത്‌",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കണ്ണൂര്‍ വനിതാ ഐ ടി ഐ  ഹാള്‍ നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer PWD Building Division Thalassery",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "കുടുംബക്ഷേമ ഉപകേന്ദ്രം കൂടത്തിന്‍ താളെ പുതിയകെട്ടിടം",
+            "implementing_agency": "Superintending Engineer, Kannur Coporation",
+            "category": "Infrastructure",
+            "fy": "2021-2022",
+            "estimate_lakhs": 27.0,
+            "concurrence_lakhs": 27.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "kannur_shri_ramachandran_kadannappalli_placeholder"
+}

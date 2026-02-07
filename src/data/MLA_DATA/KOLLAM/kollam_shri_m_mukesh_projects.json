@@ -1,0 +1,317 @@
+{
+    "mla_name": "Shri M. Mukesh",
+    "constituency": "KOLLAM",
+    "district": "Kollam",
+    "summary": {
+        "total_expenditure_crores": 23.0816,
+        "breakdown": [
+            {
+                "label": "Others",
+                "value_crores": 19.5639
+            },
+            {
+                "label": "Road",
+                "value_crores": 1.4118
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.9999
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.5
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.371
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 0.235
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "കടപ്പാക്കട സ്പോർട്‌സ് ക്ലബ് ആൻഡ് റീഡിങ് റൂം എന്ന സ്ഥാപനത്തിലെ സ്വരലയ ഓപ്പൺ സ്റ്റേജിനെ ഓഡിറ്റോറിയമായി വികസിപ്പിക്കൽ",
+            "implementing_agency": "സെക്രട്ടറി കൊല്ലം കോര്‍പ്പറേഷന്‍",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 97.86,
+            "concurrence_lakhs": 97.86
+        },
+        {
+            "project_name": "Construction of a new bus terminal and associated facilities at the existing garage of KSRTC depot, Kollam.",
+            "implementing_agency": "ചീഫ്‌ എഞ്ചിനീയര്‍, പൊതുമരാമത്ത് വകുപ്പ് (കെട്ടിട വിഭാഗം)",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 500.0,
+            "concurrence_lakhs": 500.0
+        },
+        {
+            "project_name": "കൊല്ലം കെ.എസ്.ആര്‍.ടി.സി ഡിപ്പോ ഗ്യാരേജ് നില്‍ക്കുന്ന സ്ഥലത്ത് ഗ്യാരേജ് സൗകര്യങ്ങള്‍ ഉള്‍പ്പെടുത്തിക്കൊണ്ട് തന്നെ ഒരു പുതിയ ഡിപ്പോ കെട്ടിടം നിര്‍മാണം",
+            "implementing_agency": "ചീഫ്‌ എഞ്ചിനീയര്‍, പൊതുമരാമത്ത് വകുപ്പ് (കെട്ടിട വിഭാഗം)",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 5.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തൃക്കരുവ ഗ്രാമപഞ്ചായത്തില്‍ അഷ്ടമുടി ഹയര്‍സെക്കന്‍ഡറി സ്കൂളില്‍ കോംപൗണ്ട് വാളും പ്രവേശന കവാടവും നിര്‍മ്മിച്ച് ഗേറ്റ് സ്ഥാപിക്കുന്ന പ്രവൃത്തി",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "തൃക്കരുവ ഗ്രാമപഞ്ചായത്തില്‍ തെക്കേച്ചേരി വാര്‍ഡില്‍ മേനാക്കിമുക്ക്-കൊന്നമുക്ക് റോഡ്‌ നവീകരണ പ്രവൃത്തി",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.89,
+            "concurrence_lakhs": 12.89
+        },
+        {
+            "project_name": "തൃക്കരുവ ഗ്രാമപഞ്ചായത്തില്‍ മധുരശ്ശേരി വാര്‍ഡില്‍ 83-ാം നമ്പര്‍ അംഗനവാടിക്ക് ഒരു പുതിയ കെട്ടിടം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.5,
+            "concurrence_lakhs": 18.5
+        },
+        {
+            "project_name": "കൊല്ലം കോര്‍പ്പറേഷനില്‍ പള്ളിത്തോട്ടം  ഡിവിഷനില്‍ പള്ളിത്തോട്ടം പോലീസ് സ്റ്റേഷന് ഒരു പുതിയ കെട്ടിട നിര്‍മാണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 99.99,
+            "concurrence_lakhs": 99.99
+        },
+        {
+            "project_name": "കൊല്ലം കോര്‍പ്പറേഷനില്‍ കുരീപ്പുഴ വെസ്റ്റ്‌ ഡിവിഷനില്‍ മാമൂട്ടില്‍കടവ് ബോട്ട്ജെട്ടിയുടെ നവീകരണവും ഇന്റര്‍ലോക്കിംഗ്, ഹാന്റ്റെയിലിംഗ് ഉള്‍പ്പടെ അനുബന്ധ പ്രവൃത്തികളും.",
+            "implementing_agency": "EXECUTIVE ENGINEER, INLAND NAVIGATION DEPARTMENT, KOLLAM",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 99.89,
+            "concurrence_lakhs": 99.89
+        },
+        {
+            "project_name": "കൊല്ലം കോര്‍പ്പറേഷനില്‍ കുരീപ്പുഴ വെസ്റ്റ്‌ ഡിവിഷനില്‍ മാമൂട്ടില്‍കടവ് ബോട്ട്ജെട്ടിയുടെ നവീകരണവും ഇന്റര്‍ലോക്കിംഗ്, ഹാന്റ്റെയിലിംഗ് ഉള്‍പ്പടെ അനുബന്ധ പ്രവൃത്തികളും",
+            "implementing_agency": "EXECUTIVE ENGINEER, INLAND NAVIGATION DEPARTMENT, KOLLAM",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 99.89,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കൊല്ലം കോര്‍പ്പറേഷനില്‍ കുരീപ്പുഴ വെസ്റ്റ്‌ ഡിവിഷനില്‍ മാമൂട്ടില്‍കടവ് ബോട്ട്ജെട്ടിയുടെ നവീകരണവും ഇന്റര്‍ലോക്കിംഗ്, ഹാന്റ്റെയിലിംഗ് ഉള്‍പ്പടെ അനുബന്ധ പ്രവൃത്തികളും",
+            "implementing_agency": "EXECUTIVE ENGINEER, INLAND NAVIGATION DEPARTMENT, KOLLAM",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 99.89,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കൊല്ലം നിയോജകമണ്ഡലത്തില്‍ പുനര്‍ നിര്‍മാണം നടന്നു വരുന്ന ആശ്രാമം ലിങ്ക് റോഡിലെ  മീഡിയനില്‍ Double Arm- ഓടു കൂടിയ Octogonal pole (8 മീറ്റര്‍ ഉയരം) സ്ഥാപിച്ച് (40 എണ്ണം) 100 വാട്സിന്റെ എല്‍.ഇ.ഡി സ്ട്രീറ്റ് ലൈറ്റുകള്‍ (80 എണ്ണം) സ്ഥാപിച്ച് നല്‍കുന്ന പ്രവൃത്തി.",
+            "implementing_agency": "സെക്രട്ടറി കൊല്ലം കോര്‍പ്പറേഷന്‍",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 37.94,
+            "concurrence_lakhs": 37.94
+        },
+        {
+            "project_name": "തൃക്കരുവ ഗ്രാമപഞ്ചായത്തില്‍ സ്റ്റേഡിയം വാര്‍ഡില്‍ കുളങ്ങരമുക്ക് - കരുവാ മുസ്ലീം പള്ളി - കോയിപ്പുറത്ത് റോഡ്‌ കോണ്‍ക്രീറ്റ്.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.75,
+            "concurrence_lakhs": 12.75
+        },
+        {
+            "project_name": "തൃക്കരുവ ഗ്രാമപഞ്ചായത്തില്‍ വടക്കേക്കര സംഘക്കടവ് ബോട്ട്ജെട്ടിയ്ക്ക് സമീപം ഓട നിര്‍മ്മിച്ച് വെള്ളക്കെട്ട് ഒഴിവാക്കുന്ന പ്രവൃത്തിയും ഹാന്റ്റെയില്‍, ഇരിപ്പിടങ്ങള്‍ മുതലായവ സ്ഥാപിച്ച് സൗന്ദര്യവല്‍ക്കരണം നടത്തുന്ന പ്രവൃത്തിയും.",
+            "implementing_agency": "EXECUTIVE ENGINEER, INLAND NAVIGATION DEPARTMENT, KOLLAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.6,
+            "concurrence_lakhs": 17.6
+        },
+        {
+            "project_name": "ആശ്രാമം അഡ്വഞ്ചര്‍ പാര്‍ക്കില്‍ ബോട്ട് ടെര്‍മിനല്‍ നിര്‍മാണം.",
+            "implementing_agency": "EXECUTIVE ENGINEER, INLAND NAVIGATION DEPARTMENT, KOLLAM",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 96.86,
+            "concurrence_lakhs": 96.86
+        },
+        {
+            "project_name": "കൊല്ലം ബീച്ചില്‍ പുതുതായി നിര്‍മ്മിച്ചിട്ടുള്ള ടോയ് ലെറ്റ് ബ്ലോക്കിന് കോംപൗണ്ട് വാള്‍ നിര്‍മ്മിച്ച് ഗേറ്റ് സ്ഥാപിക്കുന്ന പ്രവൃത്തിയും  ടോയ് ലെറ്റ് ബ്ലോക്കിന് മുന്‍വശത്തായി ഇന്റര്‍ലോക്കിംഗ് ചെയ്യുന്ന പ്രവൃത്തിയും.",
+            "implementing_agency": "EXECUTIVE ENGINEER, INLAND NAVIGATION DEPARTMENT, KOLLAM",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കൊല്ലം നിയോജകമണ്ഡലത്തില്‍ വെസ്റ്റ്‌ കൊല്ലം ഹയര്‍സെക്കന്‍ഡറി സ്കൂളില്‍ പുതുതായി നിര്‍മ്മിച്ച കെട്ടിടത്തിന്റെ ഇലക്‌ട്രിഫിക്കേഷന്‍ പ്രവൃത്തികളും പ്രവേശന കവാടം നിര്‍മ്മിച്ച് പുതിയ ഗേറ്റ് സ്ഥാപിക്കുന്ന പ്രവൃത്തിയും.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കൊല്ലം നിയോജകമണ്ഡലത്തില്‍ കൊല്ലം കോര്‍പ്പറേഷനില്‍ അറുനൂറ്റിമംഗലം ഡിവിഷനില്‍ 123-ാം നമ്പര്‍ അംഗനവാടിയ്ക്ക് ഒരു പുതിയ കെട്ടിട നിര്‍മാണം.",
+            "implementing_agency": "സെക്രട്ടറി കൊല്ലം കോര്‍പ്പറേഷന്‍",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കൊല്ലം നിയോജകമണ്ഡലത്തില്‍ പനയം ഗ്രാമപഞ്ചായത്തില്‍ പെരുമണ്‍ 1-ാം വാര്‍ഡില്‍ 52-ാം നമ്പര്‍ അംഗനവാടിയ്ക്ക് ഒരു പുതിയ കെട്ടിട നിര്‍മാണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കൊല്ലം നിയോജകമണ്ഡലത്തില്‍ തൃക്കരുവ ഗ്രാമപഞ്ചായത്തില്‍ മണലിക്കട വാര്‍ഡില്‍ 81-ാം നമ്പര്‍ അംഗനവാടിയ്ക്ക് ഒരു പുതിയ കെട്ടിട നിര്‍മാണം .",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.6,
+            "concurrence_lakhs": 15.6
+        },
+        {
+            "project_name": "കൊല്ലം നിയോജകമണ്ഡലത്തില്‍ തിരുവിതാംകൂര്‍ ദേവസ്വം ബോര്‍ഡിന്റെ കീഴിലുള്ള ആനന്ദവല്ലീശ്വരം മഹാദേവ ക്ഷേത്രത്തിന്റെ ക്ഷേത്രകുളത്തിന് ഫെന്‍സിംഗ്, കുളപ്പടവുകളുടെ നിര്‍മ്മാണവും അനുബന്ധ പ്രവൃത്തികളും ഉള്‍പ്പെടുന്ന നവീകരണ പ്രവൃത്തി",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയര്‍ മൈനര്‍ ഇറിഗേഷന്‍ ഡവിഷന്‍, കൊല്ലം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "കൊല്ലം നിയോജകമണ്ഡലത്തില്‍ തിരുവിതാംകൂര്‍ ദേവസ്വം ബോര്‍ഡിന്റെ കീഴിലുള്ള ആനന്ദവല്ലീശ്വരം മഹാദേവ ക്ഷേത്രത്തിന്റെ ക്ഷേത്രകുളത്തിന് ഫെന്‍സിംഗ്, കുളപ്പടവുകളുടെ നിര്‍മ്മാണവും അനുബന്ധ പ്രവൃത്തികളും ഉള്‍പ്പെടുന്ന നവീകരണ പ്രവൃത്തി",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയര്‍ മൈനര്‍ ഇറിഗേഷന്‍ ഡവിഷന്‍, കൊല്ലം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കൊല്ലം നിയോജകമണ്ഡലത്തില്‍ തൃക്കരുവ മിനി സ്റ്റേഡിയത്തിന്റെ നവീകരണം (ഒരു പഞ്ചായത്തില്‍ ഒരു കളിക്കളം പദ്ധതി പ്രകാരം)",
+            "implementing_agency": "Director,Sports Kerala Foundation",
+            "category": "Sports",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "കൊല്ലം കോര്‍പ്പറേഷനില്‍ തങ്കശ്ശേരി ഡിവിഷനില്‍ അഞ്ചുകല്ലുംമൂട് ജംഗ്ഷനില്‍ ഒരു ബസ് കാത്തിരിപ്പ് കേന്ദ്രം.",
+            "implementing_agency": "സെക്രട്ടറി കൊല്ലം കോര്‍പ്പറേഷന്‍",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 11.7,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കൊല്ലം ജില്ലാ ആശുപത്രിയില്‍ ബേണ്‍സ് യൂണിറ്റിന്റെ പ്രവര്‍ത്തനത്തിനു സഹായകരമായി ഒരു പേഷ്യന്റ് ലിഫ്റ്റ്‌ സ്ഥാപിച്ചു നല്‍കല്‍.",
+            "implementing_agency": "Executive Engineer,PWD Electrical Division ,Alapuzha",
+            "category": "Healthcare",
+            "fy": "2023-2024",
+            "estimate_lakhs": 37.1,
+            "concurrence_lakhs": 37.1
+        },
+        {
+            "project_name": "വടക്കേക്കര സംഘക്കടവ് ബാേട്ട്ജെട്ടിയുടെ നവീകരണവും അനുബന്ധ തീരപാര്‍ശ്വ സംരക്ഷണ  പ്രവൃത്തിയും",
+            "implementing_agency": "EXECUTIVE ENGINEER, INLAND NAVIGATION DEPARTMENT, KOLLAM",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 45.9,
+            "concurrence_lakhs": 45.9
+        },
+        {
+            "project_name": "കൊല്ലം നിയോജകമണ്ഡലത്തില്‍ 12 ജംഗ്ഷനുകളിൽ  ഹൈമാസ്റ്റ് ലൈറ്റുകൾ സ്ഥാപിക്കൽ",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 67.8,
+            "concurrence_lakhs": 67.8
+        },
+        {
+            "project_name": "ആശ്രാമം ലിങ്ക് റോഡിനോടു ചേര്‍ന്നുള്ള മഹാകവി കുമാരനാശാന്‍ സ്മാരക പുനര്‍ജനി പാര്‍ക്കിന്റെ ഫെന്‍സിഗും മറ്റ് അനുബന്ധ അടിസ്ഥാന സൗകര്യവികസനവും.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, ഇറിഗേഷന്‍ ഡിപ്പാര്‍ട്ട്മെന്‍റ്, കൊല്ലം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 76.0,
+            "concurrence_lakhs": 76.0
+        },
+        {
+            "project_name": "അഞ്ചാലുംമൂട് ഗവ.എല്‍.പി.സ്കൂളില്‍ യൂറിനല്‍ ബ്ലോക്കിന്‍റെ നിര്‍മ്മാണം , ഗേറ്റ് സ്ഥാപിക്കല്‍. ഇന്‍റര്‍ലോക്കിംഗും അനുബന്ധ പ്രവ്യത്തികളും",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കൊല്ലം കോര്‍പ്പറേഷനില്‍ പോര്‍ട്ട്‌ ഡിവിഷനില്‍ അര്‍ബന്‍ പ്രൈമറി ഹെല്‍ത്ത് സെന്‍ററിന് പുതിയ കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "സെക്രട്ടറി കൊല്ലം കോര്‍പ്പറേഷന്‍",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 100.0,
+            "concurrence_lakhs": 100.0
+        },
+        {
+            "project_name": "കൊല്ലം നിയോജക മണ്ഡലത്തിലെ സാമ്പ്രാണികോടി ടൂറിസം സെന്ററില്‍ ടോയലെറ്റ് ബ്ലോക്കും അടിസ്ഥാന സൗകര്യ വികസനവും",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 100.0,
+            "concurrence_lakhs": 100.0
+        },
+        {
+            "project_name": "കൊല്ലം കോര്‍പ്പറേഷനില്‍ കുരീപ്പുഴ ഡിവിഷനില്‍ കൊച്ചാലുംമൂട് - കളിയില്‍ പടിഞ്ഞാറ്റതില്‍ ഹെല്‍ത്ത്‌ സെന്റര്‍- കൂട്ടിംഗല്‍ റോഡ്‌ ഗ്രാനുലാര്‍ സബ് ബേസ് (GSB), വെറ്റ് മിക്സ് മെക്കാഡം (WMM) എന്നീ പ്രവൃത്തികള്‍ അധികമായി ചെയ്ത് നവീകരിയ്ക്കുന്ന പ്രവൃത്തി",
+            "implementing_agency": "സെക്രട്ടറി കൊല്ലം കോര്‍പ്പറേഷന്‍",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "കൊല്ലം കോര്‍പ്പറേഷനില്‍ മങ്ങാട് ഡിവിഷനില്‍ കിളികൊല്ലൂര്‍ പോലീസ് സ്റ്റേഷന് പുതിയ കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 200.0,
+            "concurrence_lakhs": 200.0
+        },
+        {
+            "project_name": "LAC ADS 2022-23-കൊല്ലം നിയോജകമണ്ഡലം - കൊല്ലം കോര്‍പറേഷനില്‍ അഞ്ചാലുംമൂട് ബസ് ബേയ്ക്ക് മുന്‍വശം മുതല്‍ അഞ്ചാലുംമൂട് ഹയര്‍സെക്കന്‍ഡറി സ്കൂളിന്‍റെ കോമ്പൌണ്ട് വാള്‍ തീരുന്ന ഭാഗം വരെ ഇന്റര്‍ലോക്ക് ചെയ്ത് നവീകരിക്കല്‍",
+            "implementing_agency": "സെക്രട്ടറി കൊല്ലം കോര്‍പ്പറേഷന്‍",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കൊല്ലം ആശ്രാമം പിക് നിക് വില്ലേജില്‍ ചില്‍ട്രന്‍സ്‌ പാര്‍ക്കില്‍ ടോയ് ലെറ്റ്‌ ബ്ലോക്ക്‌ കം അമിനിറ്റി സെന്‍റര്‍ നിര്‍മ്മാണം",
+            "implementing_agency": "EXECUTIVE ENGINEER, INLAND NAVIGATION DEPARTMENT, KOLLAM",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 95.0,
+            "concurrence_lakhs": 95.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "shri_m_mukesh_placeholder"
+}

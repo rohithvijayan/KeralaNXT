@@ -1,0 +1,477 @@
+{
+    "mla_name": "Shri K. B. Ganesh Kumar",
+    "constituency": "PATHANAPURAM",
+    "district": "Kollam",
+    "summary": {
+        "total_expenditure_crores": 15.0798,
+        "breakdown": [
+            {
+                "label": "Others",
+                "value_crores": 11.0595
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 1.9603
+            },
+            {
+                "label": "Road",
+                "value_crores": 0.951
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.5002
+            },
+            {
+                "label": "Education",
+                "value_crores": 0.3838
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.225
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "തലവൂർ ഗ്രാമപഞ്ചായത്തിലെ തലവൂർ ഗവൺമെൻറ് യൂ.പി സ്‌കൂളിനു പുതിയ കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 136.3,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വിളക്കുടി ഗ്രാമപഞ്ചായത്തിലെ കുന്നിക്കോട് ഗവ .എൽ പി & പ്രീ-പ്രൈമറി സ്‌കൂളിന് ബസ് വാങ്ങി നൽകൽ",
+            "implementing_agency": "വിദ്യാഭ്യാസ ഉപഡയറക്ടര്‍, കൊല്ലം",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 17.18,
+            "concurrence_lakhs": 17.18
+        },
+        {
+            "project_name": "പട്ടാഴി ഗ്രാമപഞ്ചായത്തിലെ തെക്കേത്തേരി വാർഡിൽ (വാർഡ് നമ്പർ 12 ) സാംസകാരിക നിലയത്തിനു പുതിയ കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 22.4,
+            "concurrence_lakhs": 22.4
+        },
+        {
+            "project_name": "പട്ടാഴി വടക്കേക്കര ഗ്രാമപഞ്ചായത്തിലെ കടുവത്തോട് വാർഡിൽ ക്ഷീരോല്പാദക സഹകരണ സംഘത്തിനു കെട്ടിട നിർമ്മാണം (KUCSQ No.126(D) APCOS",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 22.5,
+            "concurrence_lakhs": 22.5
+        },
+        {
+            "project_name": "പട്ടാഴി ഗ്രാമപഞ്ചായത്തിലെ പുളിവിളയിൽ EMS സ്‌മാരക ലൈബ്രറിക്കു പുതിയ കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 21.2,
+            "concurrence_lakhs": 21.2
+        },
+        {
+            "project_name": "പിറവന്തൂർ ഗ്രാമപഞ്ചായത്തിലെ മഹാദേവവർമ്മൻ അംഗനവാടിക്ക് കെട്ടിടനിർമ്മാണം-Phase II",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 13.55,
+            "concurrence_lakhs": 13.55
+        },
+        {
+            "project_name": "construction of new building for Health & Wellness Center,Dharmapuri in Vilakkudy GP",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Healthcare",
+            "fy": "2024-2025",
+            "estimate_lakhs": 22.5,
+            "concurrence_lakhs": 22.5
+        },
+        {
+            "project_name": "തലവൂർ ഗ്രാമപഞ്ചായത്തിലെ 126 നമ്പർ അംഗന വാടി കെട്ടിട നിർമ്മാണം (ദേവീവിലാസം അംഗന വാടി)",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.85,
+            "concurrence_lakhs": 20.85
+        },
+        {
+            "project_name": "പിറവന്തൂർ ഗ്രാമപഞ്ചായത്തിലെ 175 നമ്പർ കിഴക്കേമുറി അംഗനവാടിക്ക് പുതിയ കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.9,
+            "concurrence_lakhs": 25.9
+        },
+        {
+            "project_name": "വിളക്കുടി ഗ്രാമപഞ്ചായത്തിലെ പ്ലാമൂട് 141 നമ്പർ അംഗനവാടിക്ക് പുതിയ കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 23.75,
+            "concurrence_lakhs": 23.75
+        },
+        {
+            "project_name": "പട്ടാഴി വടക്കേക്കര ഗ്രാമപഞ്ചായത്തിലെ വാർഡ് 4 ൽ ഉൾപ്പെട്ട ചെളിക്കുഴി ഫാമിലി വെൽഫയർ സബ് സെന്ററിനു കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 22.2,
+            "concurrence_lakhs": 22.2
+        },
+        {
+            "project_name": "വെട്ടിക്കവല ഗ്രാമപഞ്ചായത്തിലെ കീഴൂട്ട് മൂഴിയിൽ ഏലാ റോഡ് കോൺക്രീറ്റിങ്",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് ,റോഡ്സ് ഡിവിഷന്‍,കൊല്ലം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 26.0
+        },
+        {
+            "project_name": "വെട്ടിക്കവല ഗ്രാമപഞ്ചായത്തിലെ മടത്തിയറ പത്തൊൻപതാം നമ്പർ വാർഡിൽ 44 നമ്പർ അംഗന വാടി കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.8,
+            "concurrence_lakhs": 16.8
+        },
+        {
+            "project_name": "വെട്ടിക്കവല ഗ്രാമപഞ്ചായത്തിലെ കോട്ടവട്ടം നോർത്ത് (വാർഡ് 11 )ഫാമിലി വെൽഫയർ സബ് സെൻറ്റിനു പുതിയ കെട്ടിട നിർമ്മണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 24.5,
+            "concurrence_lakhs": 24.5
+        },
+        {
+            "project_name": "പിറവന്തൂർ ഗ്രാമപഞ്ചായത്തിലെ പന്തനാഴിപ്പടി- മരോട്ടിവിള പടി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് ,റോഡ്സ് ഡിവിഷന്‍,കൊല്ലം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 13.8,
+            "concurrence_lakhs": 13.8
+        },
+        {
+            "project_name": "പിറവന്തൂർ ഗ്രാമപഞ്ചായത്തിലെ കൊല്ലറാടി റോഡ് കോൺക്രീറ്റിംഗ്",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് ,റോഡ്സ് ഡിവിഷന്‍,കൊല്ലം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "പിറവന്തൂർ ഗ്രാമപഞ്ചായത്തിലെ കടമ്പുപാറ പാലം ബോക്സ് കൾവർട്ട് നിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് ,റോഡ്സ് ഡിവിഷന്‍,കൊല്ലം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.3,
+            "concurrence_lakhs": 10.3
+        },
+        {
+            "project_name": "പിറവന്തൂർ ഗ്രാമപഞ്ചായത്തിലെ കൂട്ടുമുക്ക് സെമിത്തേരി മുക്ക് റോഡ് കോൺക്രീറ്റി0ഗ്",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് ,റോഡ്സ് ഡിവിഷന്‍,കൊല്ലം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "വിളക്കുടി ഗ്രാമപഞ്ചായത്തിലെ കുന്നിക്കോട് ഗവ എൽ പി സ്‌കൂളിനു ചുറ്റുമതിൽ നിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.28,
+            "concurrence_lakhs": 15.28
+        },
+        {
+            "project_name": "പട്ടാഴി  വടക്കേക്കര ഗ്രാമപഞ്ചായത്തിലെ ചെളിക്കുഴി ( വാർഡ് 4) യിൽ ഗവ .കുടുംബ ആരോഗ്യ ഉപകേന്ദ്രത്തിനു പുതിയ കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 22.2,
+            "concurrence_lakhs": 22.2
+        },
+        {
+            "project_name": "പട്ടാഴി ഗ്രാമപഞ്ചായത്തിലെ കോളൂർ പനയനം ഏലാ റോഡില്‍ ബോക്സ്‌ കള്‍വര്‍ട്ട്നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് ,റോഡ്സ് ഡിവിഷന്‍,കൊല്ലം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "Construction Of New Building For Anganwadi No.54  at  Pathirikkal  in pathanapuram  gramapanchayth",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 16.85,
+            "concurrence_lakhs": 16.85
+        },
+        {
+            "project_name": "Construction Of New Building For Anganwadi No.173 at Nedumparambu ward 7 in pathanapuram  gramapanchayth",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 16.3,
+            "concurrence_lakhs": 16.3
+        },
+        {
+            "project_name": "Construction Of New Building For Homeo Dispensary at Ward No 16 In Thalavoor gramapanchayth",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 23.7,
+            "concurrence_lakhs": 23.7
+        },
+        {
+            "project_name": "Construction Of Family welfare Sub Center In Thekketheri Nadutheri Ward In Pattazhi Gramapanchayth",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.43,
+            "concurrence_lakhs": 20.43
+        },
+        {
+            "project_name": "Construction Of Smart Class Room For DVUPS At Thekketheri In Pattazhi Gramapanchayth",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "Construction Of New Building For Family Welfare Sub Center at Kannimel,Panayam In Pattazhi Gramapanchayth",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.43,
+            "concurrence_lakhs": 20.43
+        },
+        {
+            "project_name": "Construction of New Building For Anganwadi No.90 at Iringoor  Ward No.I in Malila Gramapanchayath",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 23.8,
+            "concurrence_lakhs": 23.8
+        },
+        {
+            "project_name": "പത്തനാപുരം നിയോജകമണ്ഡലത്തിലെ വിളക്കുടി ഗ്രാമപഞ്ചായത്തില്‍ മണ്ണാങ്കുഴി ഭാഗത്ത് റെയില്‍വേ മേല്‍പ്പാലം നിര്‍മ്മാണം",
+            "implementing_agency": "സെക്രട്ടറി,വിളക്കുടി ഗ്രാമപഞ്ചായത്ത്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 150.0,
+            "concurrence_lakhs": 150.0
+        },
+        {
+            "project_name": "Construction Of Retaining Wall For GMHSS Vettikavala",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 27.52,
+            "concurrence_lakhs": 27.52
+        },
+        {
+            "project_name": "Construction Of New Building For Anganwadi no 53 at Muttukonam In Kamukincodu Ward of Vettikkavala Gramapnchayath",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 16.3,
+            "concurrence_lakhs": 16.3
+        },
+        {
+            "project_name": "പത്തനാപുരം നിയോജകമണ്ഡലത്തിലെ 05 സ്ഥലങ്ങളിൽ 200 W LED 4 ലീഫ് ലൈറ്റുകളും 35 സ്ഥലങ്ങളിൽ 200 W LED 3  ലീഫ് ലൈറ്റുകളും സ്ഥാപിക്കൽ",
+            "implementing_agency": "അസ്സിസ്റ്റന്‍റ് എക്സിക്യുട്ടീവ് എഞ്ചിനീയര്‍ പൊതുമരാമത്ത് ഇലക്ട്രിക്കല്‍ ഡിവിഷന്‍,കൊല്ലം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 90.5,
+            "concurrence_lakhs": 90.5
+        },
+        {
+            "project_name": "Consruction Of New Building  For Family Welfare Sub Center at  Pattazhi  Vadakkekara Gramapanchayath",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 19.25,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Consruction Of New Building For Family Welfare Sub Center PulimukkuOf Pattazhi Gramapanchayath",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 19.4,
+            "concurrence_lakhs": 19.4
+        },
+        {
+            "project_name": "Consruction Of New Building For Anganwadi No 75 ,Ward 3, Chelikkuzhi of  Pattazhi Vadakkekara Gramapanchayath",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Consruction Of New Building For Anganwadi No 75 ,Ward 3, Chelikkuzhi of  Pattazhi Vadakkekara Gramapanchayath",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പത്തനാപുരം ഗ്രാമപഞ്ചായത്തിലെ നെല്ലുംപടി  അംഗൻവാടിക്ക് പുതിയ കെട്ടിട നിർമ്മാണം-",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 19.26,
+            "concurrence_lakhs": 19.26
+        },
+        {
+            "project_name": "പിറവന്തൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ    കടശ്ശേരി  വാര്‍ഡിലെ  36 നമ്പർ  അംഗനവാടിക്ക്പുതിയ കെട്ടിട    \r\n                   നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.01,
+            "concurrence_lakhs": 18.01
+        },
+        {
+            "project_name": "പിറവന്തൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ \r\n       വന്‍വിള വാര്‍ഡിലെ 24 നമ്പര്‍  അംഗനവാടി കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.3,
+            "concurrence_lakhs": 16.3
+        },
+        {
+            "project_name": "പിറവന്തൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ കണിയാംപടിക്കല്‍ അംഗനവാടി കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.3,
+            "concurrence_lakhs": 16.3
+        },
+        {
+            "project_name": "മേലില ഗ്രാമപഞ്ചായത്തിലെ അന്നൂർ വാർഡിൽ 75  നമ്പർ അംഗൻ വാടി കെട്ടിടനിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.3,
+            "concurrence_lakhs": 16.3
+        },
+        {
+            "project_name": "മേലില ഗ്രാമപഞ്ചായത്തിലെ മയിലാടുംപാറ വാർഡിൽ 77 നമ്പർ അംഗൻ വാടി കെട്ടിടനിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.3,
+            "concurrence_lakhs": 16.3
+        },
+        {
+            "project_name": "പട്ടാഴി  ഗ്രാമപഞ്ചായത്തിലെ വട്ടക്കാല മാലൂർ 80   നമ്പർ അംഗൻവാടി കെട്ടിടനിർമാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.3,
+            "concurrence_lakhs": 16.3
+        },
+        {
+            "project_name": "പട്ടാഴി  ഗ്രാമപഞ്ചായത്തിലെ തെക്കെത്തേഴി 177  നമ്പർ അംഗൻവാടി കെട്ടിടനിർമാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.3,
+            "concurrence_lakhs": 16.3
+        },
+        {
+            "project_name": "തലവൂർ ഗ്രാമപഞ്ചായത്തിലെ പറങ്കിമുകൾ 113 നമ്പർ അംഗൻവാടി കെട്ടിടനിർമാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.3,
+            "concurrence_lakhs": 16.3
+        },
+        {
+            "project_name": "തലവൂർ  ഗ്രാമപഞ്ചായത്തിലെ പാണ്ടിത്തിട്ട 102 നമ്പർ അംഗനവാടി കെട്ടിടനിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.3,
+            "concurrence_lakhs": 16.3
+        },
+        {
+            "project_name": "പട്ടാഴി ഗ്രാമപഞ്ചായത്തിലെ നടുത്തേരി 89 നമ്പർ അംഗനവാടി കെട്ടിടനിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.3,
+            "concurrence_lakhs": 16.3
+        },
+        {
+            "project_name": "വെട്ടിക്കവല (തലച്ചിറ )പ്രാഥമികാരോഗ്യ കേന്ദ്രത്തിന് പുതിയ കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 199.0,
+            "concurrence_lakhs": 199.0
+        },
+        {
+            "project_name": "പട്ടാഴി വടക്കേക്കര ഗ്രാമപഞ്ചായത്തിലെ കടുവാത്തോടു വാർഡിലെ (വാർഡ് നമ്പർ 10 )78 നമ്പർ അങ്കണവാടിക്ക് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.3,
+            "concurrence_lakhs": 16.3
+        },
+        {
+            "project_name": "പട്ടാഴി  ഗ്രാമപഞ്ചായത്തിലെ 99 നമ്പര്‍ അങ്കണവാടിക്ക് കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.81,
+            "concurrence_lakhs": 15.81
+        },
+        {
+            "project_name": "പത്തനാപുരം ഗ്രാമപഞ്ചയാത്തിലെ 40- നമ്പര്‍ അങ്കണവാടിക്ക് കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.81,
+            "concurrence_lakhs": 15.81
+        },
+        {
+            "project_name": "പട്ടാഴി  ഗ്രാമപഞ്ചായത്തിലെ 100-  നമ്പര്‍ അങ്കണവാടിക്ക് കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.8,
+            "concurrence_lakhs": 15.8
+        },
+        {
+            "project_name": "പത്തനാപുരം ഗ്രാമപഞ്ചയാത്തിലെ 45- നമ്പര്‍ അങ്കണവാടിക്ക് കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.8,
+            "concurrence_lakhs": 15.8
+        },
+        {
+            "project_name": "പത്തനാപുരം ഗ്രാമപഞ്ചയാത്തിലെ പാതിരിക്കല്‍ 52 നമ്പര്‍ അങ്കണവാടിക്ക് കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.8,
+            "concurrence_lakhs": 15.8
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "shri_k_b_ganesh_kumar_placeholder"
+}

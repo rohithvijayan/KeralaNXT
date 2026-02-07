@@ -1,0 +1,641 @@
+{
+    "mla_name": "Shri A.K. Saseendran",
+    "constituency": "ELATHUR",
+    "district": "Kozhikode",
+    "summary": {
+        "total_expenditure_crores": 17.1606,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 12.5556
+            },
+            {
+                "label": "Others",
+                "value_crores": 2.155
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 1.25
+            },
+            {
+                "label": "Education",
+                "value_crores": 0.6
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 0.6
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "പുന്നശ്ശേരി രാമല്ലൂർ ക്രാഷ് റോഡ്- കാക്കൂർ ഗ്രാമ പഞ്ചായത്ത് - എലത്തൂർ നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പറമ്പിൽ പൂളക്കടവ് റോഡ് - കുരുവട്ടൂർ ഗ്രാമ പഞ്ചായത്ത് - എലത്തൂർ നിയോജക മണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പോലൂർ പയമ്പ്ര റോഡ് - കുരുവട്ടൂർ ഗ്രാമ പഞ്ചായത്ത്- എലത്തൂർ നിയോജക മണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പാർത്ഥസാരഥി പുറ്റാട്ട് താഴം റോഡ്  - കക്കോടിഗ്രാമ പഞ്ചായത്ത് - എലത്തൂർ നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26- കച്ചേരി പാലോറ നടുത്തുരുത്തി റോഡ്- തലക്കുളതതൂർ ഗ്രാമ പഞ്ചായത്ത് - എലത്തൂർ നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26- പാവയിൽ പെരുമമ്പലത്ത് പരപ്പാറ റോഡ് - തലക്കുളത്തൂർ ഗ്രാമ പഞ്ചായത്ത് -എലത്തൂർ നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - കല്ലുംപുറത്ത് താഴം ഓളോപ്പാറ റോഡ് - ചേളനൂർ ഗ്രാമ പഞ്ചായത്ത്- എലത്തൂർ നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 26.5,
+            "concurrence_lakhs": 26.5
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - ചാത്തോത്ത് താഴം - നമ്പിവീട്ടിൽ താഴം റോഡ് - തലക്കുളത്തൂർ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - പറമ്പിച്ചേരി മുക്ക് വടക്കയിൽ മുക്ക് റോഡ് - നൻമണ്ട ഗ്രാമ പഞ്ചായത്ത് - എലത്തൂർ നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - ആലിൻചുവട് കൂത്തുകല്ലുളളതിൽ ഉരുളത്ത് - പുറായിൽ റോഡ് - നൻമണ്ട ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - എടവലത്ത് താഴം കോതങ്കൽ പണിക്കരുകണ്ടി താഴം റോഡ് - നൻമണ്ട ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - ബദിരൂർ ഞാവറാട്ടിൽ താഴം റോഡ് - കക്കോടി ഗ്രാമ പഞ്ചായത്ത് - എലത്തൂർ നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - പുതിയേടത്ത് താഴം അമ്മംമലയിൽ റോഡ് - ചേളന്നൂർ ഗ്രാമ പഞ്ചായത്ത്- എലത്തൂർ നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26- ഈന്താട് മുതുവാട്ട് താഴം റോഡ് - കാക്കൂർ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - പാവണ്ടൂർ ചീക്കിലോട് റോഡ് - കാക്കൂർ ഗ്രാമ പഞ്ചായത്ത് - എലത്തൂർ നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - കക്കോടി മദ്രസ മാളിക്കടവ് റോഡ് - കക്കോടി ഗ്രാമ പഞ്ചായത്ത് - എലത്തൂർ നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - തിരുവോത്ത്താഴം തത്തറക്കൽ കനാൽ റോഡ് - എലത്തൂർ നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer Kuttiyadi Irrigation",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25- ചെലപ്രം - ഒളോപ്പാറ പൊറോത്ത് താഴം റോഡ്- ചേളനൂർ ഗ്രാമ പഞ്ചായത്ത് - എലത്തൂർ നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 -പോലോത്തറ വേട്ടയോട്ട് കുന്നുമ്മൽ റോഡ് - തലക്കുളത്തൂർ ഗ്രാമ പഞ്ചായത്ത്-  എലത്തൂർ നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "LAC ADS 2023-24 - മൾട്ടി ഓഫീസ് ബിൽഡിംഗ് പൂർത്തീകരണം കുരുവട്ടൂർ ഗ്രാമ പഞ്ചായത്ത് - എലത്തൂർ നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 57.5,
+            "concurrence_lakhs": 57.5
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - പറമ്പത്ത് പാവയിൽ പോങ്ങിലോടിപ്പാറ റോഡ്- തലക്കുളത്തൂർ ഗ്രാമ പഞ്ചായത്ത് - എലത്തൂർ നിയോജകമണ്ഡലം.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 -മേക്കയിൽ പെരിഞ്ചിലമല റോഡ് - കക്കോടി ഗ്രാമ പഞ്ചായത്ത് - എലത്തൂർ നിയോജക മണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ELATHUR LAC ADS - 2024-25 - പുതിയേടത്ത്മുക്ക് തൊടുവക്കണ്ടി മുക്ക് റോഡ് - നൻമണ്ട ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - എലത്തൂർ  നിയോജകമണ്ഡലം  - മോയിൻകണ്ടി നടുത്തുരുത്തി കടവ് ഡ്രൈനേജ് റോഡ്  (വാർഡ്.2) കോഴിക്കോട് കോർപ്പറേഷൻ",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - എലത്തൂർ നിയോജകമണ്ഡലം -  എളവനപ്പുറത്ത് കല്ലറത്താഴം റോഡ്  ടാറിങ്ങ് (വാർഡ്.1) നൻമണ്ട ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25- എലത്തൂർ നിയോജകമണ്ഡലം - കണ്ടികുന്നുമ്മൽ നടപ്പാത വാർഡ്.11  - നൻമണ്ട ജി.പി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 -എലത്തൂർ നിയോജകമണ്ഡലം -  നമ്പ്യാമ്പുറത്ത് റോഡ് -ചേളനൂർ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25- എലത്തൂർ നിയോജക മണ്ഡലം -ഈന്താട് സാംസ്ക്കാരിക നിലയം വിഷ്ണുക്ഷേത്രം റോഡ് - കാക്കൂർ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25- എലത്തൂർ നിയോജക മണ്ഡലം -ജില്ലാ ഹോമിയോ ആശുപത്രി റോഡ് ഡ്രൈനേജ് -കണ്ടംകുളങ്ങര (വാർഡ്.4)",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25  - ഏലത്തൂർ നിയോജക മണ്ഡലം - വേങ്ങാട് താഴം കാക്കൂർ മല റോഡ് ഭരണാനുമതി അനുവദിക്കുന്നത് സംബന്ധിച്ച്.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എലത്തൂർ നിയോജക മണ്ഡലം - MLA ADS 2024-25 - പാറക്കണ്ടത്തിൽ മന്ദലത്തിൽ താഴം ഫുട്പാത്ത് - കാക്കൂർ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ELATHUR LAC ADS - 2023-24 - ബഡ്സ് സ്കൂൾ - കാക്കൂർ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "ELATHUR LAC ADS - 2023-24 - കൈതപറമ്പത്ത് - കാപ്പുമ്മൽ റോഡ് - കാക്കൂർ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.96,
+            "concurrence_lakhs": 15.96
+        },
+        {
+            "project_name": "ELATHUR LAC ADS - 2023-24 - നന്മണ്ട പഞ്ചായത്ത് മിനി സ്റ്റേഡിയം ചീക്കിലോട്",
+            "implementing_agency": "Chief Engineer Sports Kerala Foundation",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "എരവത്ത് താഴം റോഡ്-തലക്കുളത്തൂര്‍  ഗ്രാമപഞ്ചായത്ത്-ബഹു.വനം വന്യജീവി സംരക്ഷണം വകുപ്പ് മന്ത്രിയും എലത്തൂര്‍ നിയോജക മണ്ഡലം എം.എല്‍.എ യുമായ ശ്രീ.എ,കെ ശശീന്ദ്രന്‍ അവര്‍കളുടെ 2024-25 ആസ്തി വികസന പദ്ധതി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "Elathur LAC -2023-24-Edakkara Milk Society Building in Ward  4 of Thalakulathur GP",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അന്നശ്ശേരി ബസ് ബേ കം കംഫർട്ട് സ്റ്റേഷൻ",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "എലത്തൂര്‍ നിയോജകമണ്ഡലം 2023-24- എരഞ്ഞിലോട്ട് താഴം - വരിക്കണ്ടി - കൊളത്തൂര്‍ കനാല്‍ റോഡ്‌",
+            "implementing_agency": "Executive Engineer Kuttiyadi Irrigation",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "നരിക്കുനി താഴം- ടി.വി സെൻന്റർ റോഡ് പ്രവൃത്തി",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പഞ്ചായത്ത് ശ്മശാനം തുടർ പ്രവൃത്തി തലക്കുളത്തൂർ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "പാണ്ടികശാല വളപ്പിൽ ഡ്രൈനേജ് കം പാത്ത് വേ കോഴിക്കോട് കേർപ്പറേഷൻ",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "മോയിൻകണ്ടി റോഡ് ഡ്രൈനേജ് കം കോൺക്രീറ്റ് കോഴിക്കോട് കോർപ്പറേഷൻ",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "നെല്ലിപ്പുനം വീട്ടിൽ താഴം കനാൽ റോഡ്  ചേളന്നൂർ ഗ്രാമപഞ്ചായത്ത് വാർഡ് 10",
+            "implementing_agency": "Executive Engineer Kuttiyadi Irrigation",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ചെറുവലത്ത് താഴം ഹൈടെക് റോഡ്  ചേളന്നൂർ ഗ്രാമപഞ്ചായത്ത് വാർഡ് 13",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ചോറ്റൂകോട്ടയിൽ താഴം – മുന്നൂർക്കെയിൽ റോഡ് – നന്മണ്ട  ഗ്രാമപഞ്ചായത്ത് വാർഡ് 16",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ആയോളി – ചെറാങ്കരത്താഴം – കൂളിപ്പൊയിൽ റോഡ് – നന്മണ്ട  ഗ്രാമപഞ്ചായത്ത് വാർഡ് 11",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കോഴോത്ത് താഴം പാലാട്ട്പറമ്പ് ഫുട് പാത്ത്  കക്കോടി ഗ്രാമപഞ്ചായത്ത് വാർഡ് 5",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ചെലപ്രം ചേളന്നൂർ 7/6 റോഡ്  - ചേളന്നൂർ ഗ്രാമപഞ്ചായത്ത് വാർഡ് 19",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "വള്ളശ്ശേരി താഴം – മേടപ്പുറത്ത് പമ്പ് ഹൌസ് റോഡ്   കക്കോടി ഗ്രാമപഞ്ചായത്ത് വാർഡ് 10",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കോട്ടാരക്കുന്ന് മന്ദലത്തിൽ റോഡ്  കാക്കൂർ  ഗ്രാമപഞ്ചായത്ത് വാർഡ് 14",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കാരിയേരി – തെക്കയിൽ റോഡ് കോഴിക്കോട് കോർപ്പറേഷൻ വാർഡ് 5",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 17.1,
+            "concurrence_lakhs": 17.1
+        },
+        {
+            "project_name": "ഊട്ടുകുളം - പുളിക്കും പറമ്പത്ത് താഴം റോഡ് , വാർഡ്-11 ചേളന്നൂർ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "11-ാം മൈൽ -രാമല്ലൂർ - പുന്നശ്ശേരി റോഡ് - കാക്കൂർ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "കോട്ടക്കല്‍ താഴം -  വനശ്രീ റോഡ്, കക്കോടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "തറോല്‍ താഴം - ഉരുളാട്ട് റോഡ്, (വാര്‍ഡ് - 4), കാക്കൂര്‍ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ചെറുവറ്റ വെളുത്തേടത്ത് താഴം റോഡ് (11,14 & 8 വാര്‍ഡ്), കുരുവട്ടൂര്‍ ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "ചെറുവറ്റ - പറമ്പില്‍ റോഡ് (12 & 14  വാര്‍ഡ് ), കുരുവട്ടൂര്‍ ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കക്കോടി പറമ്പില്‍ കടവ് റോഡ്, കക്കോടി ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "എലത്തൂര്‍ ചെട്ടികുളം ഇ.എം.എസ് സാംസ്ക്കാരിക നിലയം -  മേല്‍ക്കൂര ചുറ്റുമതില്‍  നിര്‍മ്മാണം, എലത്തൂര്‍ എരഞ്ഞിക്കല്‍ ഭാഗം",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "നമ്പുകുന്നത്തര - നടുക്കണ്ടിമീത്തല്‍ റോഡ്, വാര്‍ഡ് - 16, ചേളന്നൂര്‍ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കാലങ്ങോട്ടുതാഴം  - വളയനാട് ക്ഷേത്രം റോഡ്,  തലക്കുളത്തൂര്‍ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "അരണാട്ടില്‍ താഴം – 8/2 പാടകശ്ശേരിതാഴം – അക്വഡറ്റ് , ചേളന്നൂര്‍ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer Kuttiyadi Irrigation",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 95.0,
+            "concurrence_lakhs": 95.0
+        },
+        {
+            "project_name": "കാരോത്ത് താഴം - കണ്ണാടിച്ചാലില്‍ റോഡ്, കക്കോടി ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer Kuttiyadi Irrigation",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ചീക്കിലോട് അങ്ങാടി നവീകരണം, നന്മണ്ട ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer Kuttiyadi Irrigation",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "തെഞ്ചരിതാഴം എമ്മണേക്കാവില്‍ കനാല്‍ റോഡ്, വാര്‍ഡ്-18, ചേളന്നൂര്‍ ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer Kuttiyadi Irrigation",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കൈതാപറമ്പത്ത് പള്ളിത്താഴം കനാല്‍ റോഡ് - വാര്‍ഡ് - 15, കാക്കൂര്‍ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer Kuttiyadi Irrigation",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "സ്കൂള്‍ വാഹനം വാങ്ങല്‍ - ജി.യു.പി സ്കൂള്‍, ഇരുവള്ളൂര്‍, ചേളന്നൂര്‍ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Deputy Director of Education, Kozhikode",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "നന്മണ്ട വനിത വ്യവസായ കേന്ദ്രം റോഡ്, വാര്‍ഡ്  - 14, നന്മണ്ട ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "തറോല്‍ മുക്ക് റോഡ്, വാര്‍ഡ് - 4 , നന്മണ്ട ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ഞാറക്കാട്ട്താഴം - മഠത്തില്‍താഴം റോഡ്, ചേളന്നൂര്‍ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കിഴക്കേടത്ത് ഇടവഴി റോഡ്,  കോഴിക്കോട് കോര്‍പ്പറേഷന്‍",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കക്കോടി പി.എച്ച്.സി ഇന്‍റര്‍ലോക്ക് പ്രവൃത്തികള്‍ , കക്കോടി ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "തോട്ടായി നടാറുകണ്ടി റോഡ്, നന്മണ്ട ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "പയിമ്പ്ര  കുളമുള്ളയില്‍ താഴം റോഡ്, കുരുവട്ടൂര്‍ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "നടുവല്ലൂര്‍ (നവദര്‍ശന ) - ചാത്തന്‍കുളം റോഡ്, കാക്കൂര്‍ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": null,
+            "implementing_agency": null,
+            "category": "Others",
+            "fy": null,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "A.K_Saseendran_rb1ota"
+}

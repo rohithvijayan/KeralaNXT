@@ -1,0 +1,705 @@
+{
+    "mla_name": "Shri P. T. A. Rahim",
+    "constituency": "KUNNAMNGLAM",
+    "district": "Kozhikode",
+    "summary": {
+        "total_expenditure_crores": 21.3504,
+        "breakdown": [
+            {
+                "label": "Others",
+                "value_crores": 8.611
+            },
+            {
+                "label": "Road",
+                "value_crores": 5.1944
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 2.685
+            },
+            {
+                "label": "Sports",
+                "value_crores": 1.5
+            },
+            {
+                "label": "Education",
+                "value_crores": 1.4
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 0.81
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.5
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.4
+            },
+            {
+                "label": "Water Supply",
+                "value_crores": 0.25
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "ടെണ്ടർ സേവിംഗ്സ് 2022-23 - കൊല്ലാൽ താഴം ഭൂമിയിടിഞ്ഞ കുഴി മുണ്ടക്കൽ റോഡ് - പെരുവയൽ ഗ്രാമ പഞ്ചായത്ത് - കുന്ദമംഗലം നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.63,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മുഴാപ്പാലം തലപ്പനകുന്ന് പാലം അപ്രോച്ച് റോഡ് - മാവൂർ ഗ്രാമ പഞ്ചായത്ത് - കുന്ദമംഗലം നിയോജക മണ്ഡലം",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "LAC ADS 2022-23 - ടെണ്ടർ സേവിംഗ്സ് -  കുഴിപ്പളളി മൊരട്ടകുന്ന് റോഡ് - പെരുമണ്ണ ഗ്രാമ പഞ്ചായത്ത് - കുന്ദമംഗലം നിയോജക മണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - കൊടിനാട്ട് മുക്ക് കീരിപ്പാടം റോഡ്-ഒളവണ്ണ ഗ്രാമ പഞ്ചായത്ത് -കുന്ദമംഗലം നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - മേലാമ്പുറത്ത് മീത്തൽ മണകോട്ട്  മീത്തൽ റോഡ് - ഒളവണ്ണ ഗ്രാമ പഞ്ചായത്ത് -കുന്ദമംഗലം നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25- അയ്യപ്പൻ ചോല തിരുത്തി പളളിമീത്തൽ റോഡ് -പെരുവയൽ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - പിലാശ്ശേരി ഗ്രാമോദയ വായനശാല കെട്ടിടം - കുന്ദമംഗലം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - കായലം വാര്യപ്പാടം റോഡ് - പെരുവയൽ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - അരിക്കര മണ്ണാറക്കൽ റോഡ് -ചാത്തമംഗലം ഗ്രാമ പഞ്ചായത്ത്- തിരുവമ്പാടി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 26.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26- കുതിരാടൻ ക്രഷർ അരയൻങ്കോട്  റോഡ് - മാവൂർ ഗ്രാമ പഞ്ചായത്ത്  -കുന്ദമംഗലം നിയോജക മണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 -ചിറക്കൽ വീട്ടിക്കാട് റോഡ് -മാവൂർ ഗ്രാമ പഞ്ചായത്ത് -കുന്ദമംഗലം നിയോജകമണ്ഡലം.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - ഒടിനിലം തവിട്ടുചുര കുന്ന് റോഡ് - പെരുമണ്ണ  ഗ്രാമ പഞ്ചായത്ത് -കുന്ദമംഗലം നിയോജക മണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25- ചാത്തമംഗലം AUP സ്ക്കൂൾ കിച്ചൺ കോപ്ലക്സ് നിർമ്മാണം -കുന്ദമംഗലം നിയോജക മണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 -വെളളനൂർ സ്ക്കൂൾ ഗ്രൌണ്ട് നവീകരണം- ചാത്തമംഗലം ഗ്രാമ പഞ്ചായത്ത് - ഒരു പഞ്ചായത്ത് ഒരു കളിക്കളം പദ്ധതി  - കുന്ദമംഗലം നിയോജകമണ്ഡലം",
+            "implementing_agency": "Chief Engineer Sports Kerala Foundation",
+            "category": "Sports",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - പുളളനൂർ ന്യൂ ഗവ. എൽ .പി സ്ക്കൂൾ കിച്ചൺ കോപ്ലക്സ് - കുന്ദമംഗലം നിയോജകമണ്ഡലം.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - മാണിയേടത്ത് കുന്നത്ത്കുഴി റോഡ് - ചാത്തമംഗലം ഗ്രാമ പഞ്ചായത്ത് -കുന്ദമംഗലം നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 -പാലക്കാടി പുളളനൂർ ശിവക്ഷേത്രം റോഡ് - ചാത്തമംഗലം ഗ്രാമ പഞ്ചായത്ത് - ചാത്തമംഗലം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26- ചെത്തുകടവ് മുഹമ്മദ് അബ്ദുറഹിമാൻ പാലം സർവ്വീസ് റോഡ് (ബാലൻസ്  വർക്ക്) - കുന്ദമംഗലം നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 46.0,
+            "concurrence_lakhs": 46.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - മാക്കൂട്ടം  AUP സ്ക്കൂൾ കിച്ചൺ നിർമ്മാണം - കുന്ദമംഗലം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26- പടനിലം  ഗ്രൌണ്ട് നവീകരണം  കുന്ദമംഗലം ഗ്രാമ പഞ്ചായത്ത് - ഒരു പഞ്ചായത്തിൽ ഒരു കളിക്കളം പദ്ധതി - കുന്ദമംഗലം നിയോജകമണ്ഡലം",
+            "implementing_agency": "Chief Engineer Sports Kerala Foundation",
+            "category": "Sports",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - GHSS കുറ്റിക്കാട്ടൂർ ഗ്രൌണ്ട് നവീകരണം -കുന്ദമംഗലം  നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 -ചാത്തമംഗലം ഗവ. വൊക്കേഷണൽ ഹയർ സെക്കന്ററി സ്ക്കൂൾ ഗ്രൌണ്ട് നിർമ്മാണം - ചാത്തമംഗലം ഗ്രാമ പഞ്ചായത്ത് -കുന്ദമംഗലം നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25-  AMLPS കൈലമഠം  കിച്ചൻ കോപ്ലക്സ് - കുന്ദമംഗലം നിയോജക മണ്ഡലം - ഒളവണ്ണ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - കുന്ദമംഗലം നിയോജകമണ്ഡലം - പറക്കുന്ന് കാഞ്ഞിരക്കടവ് റോഡ് - ചാത്തമംഗലം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുന്ദമംഗലം ഗവ: ആര്‍ട്സ് & സയന്‍സ് കോളേജില്‍ വുഷു കോംപറ്റീഷന്‍ പ്ലാറ്റ് ഫോം നിര്‍മ്മാണം, ചാത്തമംഗലം ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കുന്ദമംഗലം ഗവ.കോളേജ് റോഡ് മെച്ചപ്പടുത്തല്‍ (ചാത്തമംഗലം ഗ്രാമപഞ്ചായത്ത് )-കുന്ദമംഗലം നിയോജകമണ്ഡലം എം.എല്‍.എ ശ്രീ.പി.ടി.എ റഹിം അവര്‍കളുടെ 2024-25 ആസ്തി വികസന പദ്ധതി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പെരുമണ്ണ ഗ്രാമപഞ്ചായത്ത് ബഡ്സ് സ്ക്കൂള്‍ ഹാള്‍നിര്‍മ്മാണം-കുന്ദമംഗലം നിയോജകമണ്ഡലം എം.എല്‍.എ ശ്രീ.പി.ടി.എ റഹിം അവര്‍കളുടെ 2024-25 ആസ്തി വികസന പദ്ധതി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "പുള്ളന്നൂര്‍ ജി.എല്‍.പി സ്ക്കൂള്‍ കെട്ടിട നിര്‍മ്മാണം-കുന്ദമംഗലം നിയോജകമണ്ഡലം എം.എല്‍.എ ശ്രീ.പി.ടി.എ റഹിം അവര്‍കളുടെ 2024-25 ആസ്തിവികസന പദ്ധതി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 27.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചാത്തമംഗലം ഗ്രാമപഞ്ചായത്തിലെ കൂളിമാട് പാലത്തിന് താഴെ പാര്‍ക്ക് സ്ഥാപിക്കല്‍-കുന്ദമംഗലം നിയോജകമണ്ഡലം എം.എല്‍.എ ശ്രീ.പി.ടി.എ റഹിം അവര്‍കളുടെ 2024-25 ആസ്തി വികസന പദ്ധതി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "മാവൂര്‍ ഫയര്‍ സ്റ്റേഷന്‍ ഭൌതിക സാഹചര്യം മെച്ചപ്പെടുത്തല്‍-കുന്ദമംഗലം നിയോജകമണ്ഡലം എം.എല്‍. എ ശ്രീ.പി.ടി.എ റഹിം അവര്‍കളുടെ 2024-25 ആസ്തി വികസന പദ്ധതി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കുന്ദമംഗലം എ.എം.എല്.പി സ്ക്കൂള്‍ കിച്ചണ്‍ കോപ്ലക്സ് നിര്‍മ്മാണം- കുന്ദമംഗലം നിയോജകമണ്ഡലം എം.എല്‍.എ ശ്രീ.പി.ടി.എ റഹിം അവര്‍കളുടെ 2024-25 ആസ്തി വികസന പദ്ധതി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മുണ്ടക്കല്‍ ജി.എല്‍.പി സ്ക്കൂള്‍ കെട്ടിട നിര്‍മ്മാണം-കുന്ദമംഗലം നിയോജകമണ്ഡലം എം.എല്‍.എ ശ്രീ.പി.ടി.എ റഹിം അവര്‍കളുടെ 2024-25 ആസ്തി വികസനപദ്ധതി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 29.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുന്ദമംഗലം നിയോജകമണ്ഡലം എം.എല്‍.എ ശ്രീ.പി.ടി.എ റഹിം അവര്‍കളുടെ 2024-25 ആസ്തി വികസനപദ്ധതിയില്‍ ഉള്‍പ്പെടുത്തി   കുന്ദമംഗലം, പെരുമണ്ണ, ഒളവണ്ണ ഗ്രാമപഞ്ചായത്തുകളിലെ വിവിധ സ്ഥലങ്ങളില്‍ മിനിമാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കല്‍",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 81.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുന്ദമംഗലം ഹോമിയോ ഡിസ്പെന്‍സറി കെട്ടിടനിര്‍മ്മാണം -കുന്ദമംഗലം നിയോജകമണ്ഡലം എം.എല്‍.എ ശ്രീ.പി.ടിഎ റഹിം അവര്‍കളുടെ 2024-25 ആസ്തി വികസന പദ്ധതി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Healthcare",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പാഴൂര്‍ യു.പി.സ്ക്കൂള്‍ കിച്ചണ്‍ കോപ്ലക്സ് കുന്ദമംഗലം നിയോജക മണ്ഡലം എം.എല്‍.എ ശ്രീ.പി.ടി.എ റഹിം അവര്കളുടെ 2024-25 ആസ്തി വികസന പദ്ധതി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വെള്ളിപറമ്പ് ജി.എല്‍.പി.സ്ക്കൂള്‍ കെട്ടിടനിര്‍മ്മാണം ബാലന്‍സ്",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.5,
+            "concurrence_lakhs": 12.5
+        },
+        {
+            "project_name": "പുഴമ്പ്രം മാങ്ങോട്ടു കുന്നു ഹൈസ്കൂള്‍ റോഡ്‌ ഒളവണ്ണ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.1,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തെക്കണഞ്ചേരി ഇരുമ്പിടം  കണ്ടി റോഡ്‌ - കുന്ദമംഗലം ഗ്രാ. പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 14.31,
+            "concurrence_lakhs": 14.31
+        },
+        {
+            "project_name": "പുനത്തിൽ താഴം ഉണ്ണിച്ചാൽ റോഡ് പെരുമണ്ണ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ഡെസ്റ്റിനേഷൻ ചലഞ്ച് പദ്ധതി – ചാലിയാർ എക്കോ ടൂറിസം  പെരുമണ്ണ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "എക്സിക്യുട്ടീവ് എഞ്ചിനിയർ  ഇറിഗേഷൻ ഡിവിഷൻ കോഴിക്കോട്",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "മങ്ങത്തായ  മഠത്തിൽപുറായിൽ റോഡ് കോൺക്രീറ്റ് പെരുമണ്ണ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "പെരുമണ്ണ ഇ.എം.എസ് എച്ച്.എസ്.എസ് ഗ്രൌണ്ട് നിർമ്മാണം പെരുമണ്ണ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ഇരിങ്ങല്ലൂർ എച്ച്.എസ്.എസ് ഗ്രൌണ്ട് നിർമ്മാണം ഒളവണ്ണ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "നായർകുഴി എച്ച്.എസ്.എസ് ഗ്രൌണ്ട് നിർമ്മാണം ചാത്തമംഗലം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "മുഹമ്മദ് അബ്ദുറഹിമാൻ ബ്രിഡ്ജ് (ചെത്തുകടവ്) സർവ്വീസ് റോഡ് നവീകരണ പ്രവൃത്തി  കുന്ദമംഗലം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 27.55,
+            "concurrence_lakhs": 27.55
+        },
+        {
+            "project_name": "മാവൂർ എച്ച്.എച്ച്.എസ് സ്വിമ്മിംഗ് പൂൾ നിർമ്മാണം   മാവൂർ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "ഒളവണ്ണ മാവത്തുംപടി ഗ്രൌണ്ട് നവീകരണം (പഞ്ചായത്തിൽ ഒരു കളി സ്ഥലം പദ്ധതി)",
+            "implementing_agency": "Chief Engineer Sports Kerala Foundation",
+            "category": "Sports",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ജി.എൽ.പി.എസ്. കൂടത്തുംപാറ കെട്ടിട വിപുലീകരണം -  ഒളവണ്ണ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 56.0,
+            "concurrence_lakhs": 56.0
+        },
+        {
+            "project_name": "എയ് ഡഡ് സ്കൂൾ  കിച്ചൺ കോപ്ലക്സ് നിർമ്മാണം-  എ.യു.പി സ്കൂൾ ചൂലൂർ ചാത്തമംഗലം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "വള്ളിക്കുന്ന്  പുതിയോട്ടിൽ താഴെ തേവർകണ്ടി റോഡ് - പെരുമണ്ണ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 11.45,
+            "concurrence_lakhs": 11.45
+        },
+        {
+            "project_name": "എയ് ഡഡ് സ്കൂൾ കിച്ചൺ കോംപ്ലക്സ്  നിർമ്മാണം - എ.എൽ.പി സ്കൂൾ അടുവാട് - മാവൂർ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "എയ് ഡഡ് സ്കൂൾ കിച്ചൺ കോംപ്ലക്സ്  നിർമ്മാണം - മർക്കസ് ബോയ്ക് ഹൈസ്കൂൾ കുന്ദമംഗലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മത്സ്യഫെഡിൻറെ അന്തിപ്പച്ച യൂണിറ്റിന്  സഞ്ചരിക്കുന്ന വിപണന വാഹനം - കുന്ദമംഗലം നിയോജക മണ്ഡലം",
+            "implementing_agency": "ഡപ്യൂട്ടി ഡയറക്ടർ ഫിഷറീസ്  കോഴിക്കോട്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "കുന്ദമംഗലം ആയുർവ്വേദ ഡിസ്പൻസറിക്ക് കെട്ടിടം നിർമ്മിക്കൽ - കുന്ദമംഗലം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "ചെമ്പകശ്ശേരി റോഡ്   ചാത്തമംഗലം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ജി.എല്‍.പി.എസ് ചെനോത്ത് കെട്ടിട നിര്‍മ്മാണം, ചാത്തമംഗലം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 69.38,
+            "concurrence_lakhs": 69.38
+        },
+        {
+            "project_name": "കുന്ദമംഗലം ഗവ.കോളേജ് റോഡ് വീതികൂട്ടല്‍,  ചാത്തമംഗലം ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പാച്ചാക്കല്‍ കാനങ്ങോട്ട് റോഡ്, പെരുവയല്‍ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "സി ഡബ്ല്യു ആര്‍ ഡി എം  ജല    ഗുണ നിലവാര പരിശോധന കൌണ്ടര്‍, കുന്ദമംഗലം ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Water Supply",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "പൈങ്ങോട്ടുപുറം എ.എല്‍.പി.സ്കൂള്‍  ടോയ്ലറ്റ് കോംപ്ലക്സ് നിര്‍മ്മാണം, കുന്ദമംഗലം ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പെരുമണ്ണ ഗ്രാമ പഞ്ചായത്ത് ബഡ്സ് സ്കൂള്‍ കെട്ടിടത്തില്‍ കമ്മ്യൂണിറ്റിഹാള്‍ നിര്‍മ്മാണം, പെരുമണ്ണ ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "കുന്ദമംഗലം കുടുംബാരോഗ്യ കേന്ദ്രം കെട്ടിടം നിര്‍മ്മാണം, കുന്ദമംഗലം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "മാവൂര്‍ ഫയര്‍ സ്റ്റേഷന്‍ ഓഫീസ് കെട്ടിടം നിര്‍മ്മാണ പ്രവൃത്തി, മാവൂര്‍ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ആമ്പിലേരി വില്ലേരിക്കുന്ന് റോഡ്, മാവൂര്‍ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 19.4,
+            "concurrence_lakhs": 19.4
+        },
+        {
+            "project_name": "നെല്ലിക്കോട്ടുകുഴിയില്‍ അംഗനവാടി കെട്ടിട നിര്‍മ്മാണം, മാവൂര്‍ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 23.22,
+            "concurrence_lakhs": 23.22
+        },
+        {
+            "project_name": "പെരുവയല്‍ ഖാദി ഉത്പാദന കേന്ദ്രം കെട്ടിടം നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 63.0,
+            "concurrence_lakhs": 63.0
+        },
+        {
+            "project_name": "ഒളവണ്ണ ആയുര്‍വ്വേദ ഡിസ്പന്‍സറി കെട്ടിട നിര്‍മ്മാണം, ഒളവണ്ണ ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 80.0,
+            "concurrence_lakhs": 80.0
+        },
+        {
+            "project_name": "സര്‍വ്വീസ് സ്റ്റേഷന്‍ മാക്കിനിയാട്ടുതാഴം റോഡില്‍ കള്‍വര്‍ട്ട് നിര്‍മ്മാണം - പെരുവയല്‍ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "പെരുവയല്‍ ഖാദി ഉത്പാദന കേന്ദ്രം കെട്ടിടം നിര്‍മ്മാണം - പെരുവയല്‍ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 59.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ജി.എല്‍.പി.എസ് ചാത്തമംഗലം, കെട്ടിടം നിര്‍മ്മാണം, ചാത്തമംഗലം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 34.0,
+            "concurrence_lakhs": 34.0
+        },
+        {
+            "project_name": "തെന്നഞ്ചേരി പറമ്പില്‍  റോഡില്‍  കള്‍വര്‍ട്ടും അപ്രോച്ച് റോഡും നിര്‍മ്മാണം,  ചാത്തമംഗലം ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ആനക്കുഴിക്കര നീലാഞ്ചേരി റോഡും കള്‍വര്‍ട്ടും, പെരുവയല്‍ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ചെറുവറ്റടത്തി തടത്തില്‍ റോഡ്, പെരുവയല്‍ ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മാവൂര്‍ ഫയര്‍സ്റ്റേഷന്‍ ഷെഡ് നിര്‍മ്മാണം, മാവൂര്‍ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "മാവൂര്‍ ഫയര്‍സ്റ്റേഷന്‍ ഷെഡ് നിര്‍മ്മാണം, മാവൂര്‍ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പാഴൂര്‍ എ.എം.എല്‍.പി.എസ് കിച്ചന്‍ നിര്‍മ്മാണം, ചാത്തമംഗലം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കുന്ദമംഗലം പോലീസ് സ്റ്റേഷന്‍ ഗേറ്റ് നിര്‍മ്മാണം, കുന്ദമംഗലം ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "അരിപ്പാപ്പുറം മജ് ലിസ്   റോഡ്, പെരുവയല്‍,  പെരുമണ്ണ ,  ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "പാണ്ട്യാലത്തൊടി കള്ളിക്കുന്ന് റോഡും സ്റ്റെപ്പ് നിര്‍മ്മാണവും,   ഒളവണ്ണ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 11.0,
+            "concurrence_lakhs": 11.0
+        },
+        {
+            "project_name": "കുറ്റിക്കാട്ടൂര്‍  ഗവ.ഹയര്‍ സെക്കണ്ടറി സ്കൂള്‍ ഗ്രൌണ്ട് നിര്‍മ്മാണം ,    പെരുവയല്‍ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കാരന്തൂര്‍ എ.എം.എല്‍.പി സ്കൂള്‍ കിച്ചന്‍ നിര്‍മ്മാണം, കുന്ദമംഗലം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "kozhikode_shri_p_t_a_rahim_placeholder"
+}

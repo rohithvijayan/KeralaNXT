@@ -13,8 +13,16 @@
     min-height: 100vh;
     background: var(--union-bg);
     color: var(--union-text);
+    padding-top: 80px;
+    /* Header */
     padding-bottom: 80px;
     /* Space for bottom nav or padding */
+}
+
+@media (min-width: 768px) {
+    .union-glance-page {
+        padding-top: 100px;
+    }
 }
 
 /* Hero Section */

@@ -1,0 +1,421 @@
+{
+    "mla_name": "Shri A. C Moideen",
+    "constituency": "KUNNAMKULAM",
+    "district": "Thrissur",
+    "summary": {
+        "total_expenditure_crores": 16.8376,
+        "breakdown": [
+            {
+                "label": "Others",
+                "value_crores": 7.4579
+            },
+            {
+                "label": "Education",
+                "value_crores": 3.9999
+            },
+            {
+                "label": "Road",
+                "value_crores": 1.68
+            },
+            {
+                "label": "Water Supply",
+                "value_crores": 1.4675
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 0.99
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.6288
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.5
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 0.1135
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "KUNNAMKULAM LAC ADS 2024-25 - VELUR PANCHAYATH - PAKALVEED NIRMANAM",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KUNNAMKULAM LAC - MLA ADS 2024-25 - CONSTRUCTION OF VELLAKKUNNU ANGANAWADI - NO.16 IN ERUMAPETTY GP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 32.1,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KUNNAMKULAM MLA ADS 2024-25 - KAATTAKAMPAL GP - PAZHANJI SCHOOL GROUND - 50 LAKHS",
+            "implementing_agency": "സ്പോർട്സ് കേരള ഫൌണ്ടേഷൻ",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഗുരുവായൂര്‍ നിയോജക മണ്ഡലം ആസ്തി വികസനപദ്ധതി (2025-26)\r\nഒരുമനയൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ ഇസ്ലാമിക്‌ വോക്കഷണല്‍\r\nഹയര്‍ സെക്കണ്ടറി സ്കൂളിന് പാചകപ്പുര നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KUNNAMKULAM LAC - MLA ADS 2024-25 - KATTAKAMPAL GP – CONSTRUCTION OF KSRTC BUS WAITING ROOM, CHOWANNUR BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KUNNAMKULAM LAC -MLA-ADS-2024-25- CONSTRUCTION OF KUTTENKULAM ANGANWADI NO. 84 KUNNAMKULAM MUNICIPALITY",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുന്നംകുളം നഗരസഭ ,വാര്‍ഡ്‌ 17 ലെ  അജന്ത ഐലന്‍റ്റിലെ റോഡുകളുടെ  നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പഴവൂര്‍ ഫോറസ്റ്റ്  ഓഫീസ് പരിസര കുടിവെള്ള പദ്ധതി",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Water Supply",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വെങ്ങിലാശ്ശേരി കുടിവെള്ള പദ്ധതി (വേലൂര്‍ GP ,ചൊവ്വന്നൂര്‍ ബ്ലോക്ക്‌ പഞ്ചായത്ത് )",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Water Supply",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കാട്ടാകാമ്പല്‍ പഴഞ്ഞി സ്കൂള്‍ ഗ്രൌണ്ടിന്ഒരു പഞ്ചായത്ത് ഒരു കളിക്കളം പദ്ധതി",
+            "implementing_agency": "സ്പോർട്സ് കേരള ഫൌണ്ടേഷൻ",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "സംസ്ഥാനകായിക വകുപ്പിന്‍റെ  ഒരു പഞ്ചായത്ത് ഒരു കളിക്കളം പദ്ധതി",
+            "implementing_agency": "സ്പോർട്സ് കേരള ഫൌണ്ടേഷൻ",
+            "category": "Sports",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മരത്തം കോട് ഗവ.ഹൈസ്കൂള്‍ ചുറ്റുമതില്‍ നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അമ്പിളി അങ്കണവാടി ട്രെസ്സ്വര്‍ക്കും അനുബന്ധ പ്രവൃത്തികളും",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുന്നംകുളം നിയോജകമണ്ഡലത്തിലെ കടവലൂര്‍ പഞ്ചായത്ത് ഗ്രൗണ്ടിന് ഒരു കളിക്കളം പദ്ധതി",
+            "implementing_agency": "സ്പോർട്സ് കേരള ഫൌണ്ടേഷൻ",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഹൈമാസ്റ്റ്  ലൈറ്റ് എരുമപെട്ടി സി.എച്ച്.സിക്ക് മുന്‍വശം & നെല്ലുവായ് ധന്വന്തരി  ക്ഷേത്രത്തിന് മുന്‍വശം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 11.35,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുന്നംകുളം നിയോജകമണ്ഡലം  വേലൂര്‍ സ്മാര്‍ട്ട്‌ വില്ലേജ്  ഓഫീസ് നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കരിക്കാട് സബ് സെന്‍റ്ററിന്  ചുറ്റു മതിലും കവാടവും നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 13.7,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കടങ്ങോട് ദുബായ് പടി  കുടിവെള്ള പദ്ധതി",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Water Supply",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുന്നംകുളം വൊക്കേഷണല്‍ ഹയര്‍സെക്കന്‍ഡറി സ്കൂള്‍ ചുറ്റുമതില്‍ നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പെരുമ്പിലാവ് പി .എച്ച് .സി കെട്ടിടത്തിന് കോമ്പൗണ്ട് വാള്‍",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 29.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വേലൂര്‍ ബഡ്സ് സ്കൂള്‍ ബസ്‌",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 24.0,
+            "concurrence_lakhs": 24.0
+        },
+        {
+            "project_name": "കുന്നംകുളം താലുക്ക് ഹോസ്പ്പിറ്റലിലേക്ക്  ആധുനിക ആംബുലന്‍സ്",
+            "implementing_agency": "ജില്ല മെഡിക്കല്‍ ഓഫീസര്‍ (ആരോഗ്യം) തൃശ്ശൂര്‍",
+            "category": "Healthcare",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.88,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുന്നംകുളം നിയോജകമണ്ഡലത്തിലെ  കുന്നംകുളം നഗരസഭാ അനക്സ്  നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 220.0,
+            "concurrence_lakhs": 220.0
+        },
+        {
+            "project_name": "ഒല്ലൂർ നിയോജക മണ്ഡലത്തിലെ പാണഞ്ചേരി ഗ്രാമ പഞ്ചായത്ത് വാർഡ് 5 ലെ ചുവന്ന മണ്ണ് – പൂവ്വൻചിറ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 53.0,
+            "concurrence_lakhs": 53.0
+        },
+        {
+            "project_name": "കടവല്ലൂര്‍ ശ്രീരാമസ്വാമിക്ഷേത്രം  റോഡ്‌  നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 38.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കടങ്ങോട്  98-)0 നമ്പര്‍ അങ്കണവാടി നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "എരുമപെട്ടി ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ്‌ 15 അങ്കണവാടി നമ്പര്‍ 15 നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 29.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എരുമപെട്ടി ഗ്രാമപഞ്ചായത്ത്  വാര്‍ഡ്‌ 6 അങ്കണവാടിനമ്പര്‍ 12 നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എരുമപെട്ടി ഗ്രാമപഞ്ചായത്തിലെ തൃക്കണിപതിയാരം  അങ്കണവാടിനമ്പര്‍ 25 നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തളിര്‍വായന ശാല കെട്ടിട നിര്‍മ്മാണം -തിരുത്തികാട് (കുന്നംകുളം നഗരസഭാ )",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കരുവാന്‍ അങ്ങാടി കുടിവെള്ള പദ്ധതി (പോര്‍കുളംഗ്രാമപഞ്ചായത്ത് ഒന്നാം വാര്‍ഡ്‌)",
+            "implementing_agency": "ഭൂഗര്‍ഭ ജല വകുപ്പ്",
+            "category": "Water Supply",
+            "fy": "2022-2023",
+            "estimate_lakhs": 13.75,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഗുരുവായൂര്‍ നഗരസഭാ-ഒന്നാം വാര്‍ഡിലെ തൊഴിയൂര്‍ ഹൈ സ്കൂള്‍ റോഡ്‌ ,ചേറ്റു വട്ടി ടെമ്പിള്‍  റോഡ്‌ എന്നിവയുടെ നവീകരണം",
+            "implementing_agency": "സെക്രട്ടറി,ഗുരുവായൂർ നഗരസഭ",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 42.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Vertical Extension and construction of toilet block to govt .up school puliyannur ,Thrissur in kunnamkulam LAC",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 99.99,
+            "concurrence_lakhs": 99.99
+        },
+        {
+            "project_name": "കുന്നംകുളം ഗവ .താലുക്ക് ഹോസ്പിറ്റലിലെ ഡയാലിസിസ് സെന്‍റ്ററില്‍  3  ഡയാലിസിസ് യുണിറ്റുകള്‍ സ്ഥാപിക്കല്‍",
+            "implementing_agency": "ജില്ല മെഡിക്കല്‍ ഓഫീസര്‍ (ആരോഗ്യം) തൃശ്ശൂര്‍",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 19.53,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുന്നംകുളം ഗവ .താലുക്ക് ഹോസ്പിറ്റലിലെ ഡയാലിസിസ് സെന്‍റ്ററില്‍  3 ഡയാലിസിസ്  യൂണിറ്റുകള്‍ സ്ഥാപിക്കല്‍",
+            "implementing_agency": "ജില്ല മെഡിക്കല്‍ ഓഫീസര്‍ (ആരോഗ്യം) തൃശ്ശൂര്‍",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 17.47,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുന്നംകുളം \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nകുന്നംകുളം ബസ് ടെർമിനൽ ഷോപ്പിംഗ് കോംപ്ലക്സ് വൈദ്യുതീകരണവും ലിഫ്റ്റ് സ്ഥാപിക്കലും",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 66.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുന്നംകുളം ബസ്‌ ടെര്‍മിനല്‍ ഷോപ്പിംഗ്‌ കോംപ്ലക്സ്  വൈദുതികരണവും  ലിഫ്റ്റ് സ്ഥാപിക്കലും",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 66.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുന്നംകുളം നിയോജകമണ്ഡലം കുന്നംകുളം നഗരസഭ 1, 2, 36 &37 വാർഡുകളിലേക്കുള്ള കുടിവെള്ള പദ്ധതി",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Water Supply",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "കാട്ടാക്കാമ്പൽ ഗ്രാമ പഞ്ചായത്തിലെ പെരുംതിരുത്തി അഞ്ചാം വാർഡ്  അംഗൻവാടി പുതിയ കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of Madhavan Road in front of Pillakkadu Muslim Church, Ward 30,in  Kunnamkulam Municipality",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുന്നംകുളം നിയോജകമണ്ഡലം എരുമപ്പെട്ടി ഗ്രാമ പഞ്ചായത്ത് കരിയന്നൂർ എസ് സി കോളനി കുടിവെള്ള പദ്ധതി",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Water Supply",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കുന്നംകുളം നിയോജകമണ്ഡലം എരുമപ്പെട്ടി ഗ്രാമ പഞ്ചായത്ത് ഓഫീസ് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 99.99,
+            "concurrence_lakhs": 99.99
+        },
+        {
+            "project_name": "കുന്നംകുളം നിയോജകമണ്ഡലം വേലൂർ ഗ്രാമ പഞ്ചായത്തിലെ വെള്ളാറ്റഞ്ഞൂർ ഹരിജൻ കോളനി കുടിവെള്ള പദ്ധതി",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Water Supply",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "കുന്നംകുളം നിയോജകമണ്ഡലം- കടവല്ലൂർ ഗ്രാമ പഞ്ചായത്ത് കൊങ്ങന്നൂർ വിഷ്ണു ടെമ്പിൾ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA ADS 2022-23-KUNNAMKULAM LAC-CONSTRUCTION OF FIRST FLOOR FOR ERUMAPETTY POLICE STATION QUARTERS",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 29.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുന്നംകുളം പോലീസ് സ്റ്റേഷൻ കെട്ടിടം രണ്ടാം നിലയും അനുബന്ധ പ്രവർത്തികളും",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2021-2022",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 99.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "thrissur_shri_a_c_moideen_placeholder"
+}

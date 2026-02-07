@@ -1,0 +1,696 @@
+{
+    "mla_name": "Shri V K Prasanth",
+    "constituency": "VATTIYOORKAVU",
+    "summary": {
+        "total_expenditure_crores": 22.2897,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 11.4837
+            },
+            {
+                "label": "Others",
+                "value_crores": 7.3619
+            },
+            {
+                "label": "Education",
+                "value_crores": 1.775
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 1.21
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 0.4591
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "കാച്ചാണി വാർഡിലെ മൂന്നാമൂട്  മേലെക്കടവ് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "കൊടുങ്ങാനൂർ വാർഡിലെ പുതുക്കുളങ്ങര നമ്പവൻകാവ് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം മുനിസിപ്പൽ കോർപ്പറേഷൻ",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.05,
+            "concurrence_lakhs": 10.05
+        },
+        {
+            "project_name": "ഗൗരീശപട്ടം ക്ഷേത്രക്കുളം നവീകരണം",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.7,
+            "concurrence_lakhs": 18.7
+        },
+        {
+            "project_name": "നെട്ടയം വാർഡിലെ തട്ടാൻചിറ കുളം എൻ.എസ്‌.എസ് കരയോഗം റോഡ് ഓട സ്ലാബ് നിർമ്മാണം",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "വട്ടിയൂർക്കാവ് നിയോജക മണ്ഡലം ശാസ്തമംഗലം വാർഡിലെ ജഡ്ജ് ലെയിൻ പ്രവൃത്തി",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 11.0,
+            "concurrence_lakhs": 11.0
+        },
+        {
+            "project_name": "പി എം ജി ജംഗ്ഷനിൽ ഹൈ മാസ്സ് ലൈറ്റും നിയമസഭാ മന്ദിരത്തിന് മുന്നിൽ ഡെക്കറേറ്റീവ് സ്ട്രീറ്റ് ലൈറ്റുകളും സ്ഥാപിക്കുന്നത്",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പൊതുമരാമത്ത് വകുപ്പ് ഇലക്ട്രിക്കല്‍ വിഭാഗം, തിരുവനന്തപുരം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 31.6,
+            "concurrence_lakhs": 31.6
+        },
+        {
+            "project_name": "വട്ടിയൂർക്കാവ് വില്ലേജ് ഓഫീസ് ഇന്റീരിയൽ പ്രവൃത്തികളും വെയ്റ്റിംഗ് ഏരിയയും പൊതു ശൗചാലയവും എന്ന പ്രവൃത്തി",
+            "implementing_agency": "പ്രോജക്ട് മാനേജർ, ജില്ലാ നിർമിതി കേന്ദ്രം, തിരുവനന്തപുരം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 53.31,
+            "concurrence_lakhs": 53.31
+        },
+        {
+            "project_name": "മരപ്പാലം ബണ്ട് റോഡ് നിർമ്മാണം സംബന്ധിച്ച്",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 43.2,
+            "concurrence_lakhs": 43.2
+        },
+        {
+            "project_name": "മുട്ടട വാർഡിലെ കൈരളി നഗർ ഓട നിർമ്മാണം സംബന്ധിച്ച്",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 31.4,
+            "concurrence_lakhs": 31.4
+        },
+        {
+            "project_name": "നാലാഞ്ചിറ കുരിശ്ശടി ജംഗ്ഷൻ നവീകരണം സംബന്ധിച്ച്",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 22.11,
+            "concurrence_lakhs": 22.11
+        },
+        {
+            "project_name": "കുടപ്പനക്കുന്ന് സോണൽ ഓഫീസ് ഇളയം പള്ളി റോഡും അനുബന്ധ റോഡുകളും",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "കുടപ്പനക്കുന്ന് ജയപ്രകാശ് ലെയിൻപുല്ലുകുളം റോഡിന്റ നവീകരണം",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "കനകക്കുന്ന് കൊട്ടാരത്തിന് മുന്നില്‍ ഹൈ ടെക് ബസ്‌ കാത്തിരിപ്പ് കേന്ദ്രം നിര്മ്മാനണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 21.0,
+            "concurrence_lakhs": 21.0
+        },
+        {
+            "project_name": "വട്ടിയൂര്‍ക്കാവ് നിയോജക മണ്ഡലത്തില്‍ 7 സ്ഥലങ്ങളില്‍ മിനി മാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കുന്നതിന്.",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.41,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുറവന്‍കോണം വാര്‍ഡില്‍ പറമ്പുകോണം - നാഗരുകാവ് റോഡും ബ്രാഹ്മിന്‍സ് കോളനി റോഡും നിര്‍മ്മാണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Others",
+            "fy": "2020-2021",
+            "estimate_lakhs": 24.0,
+            "concurrence_lakhs": 24.0
+        },
+        {
+            "project_name": "വേട്ടമുക്ക് പാര്‍ക്ക് നവീകരണം.",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2020-2021",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ശാസ്തമംഗലം പൈപ്പിന്‍മൂട് കടപ്പത്തല നഗര്‍ കൊക്കോട് ലെയിനും അനുബന്ധ റോഡുകളും നവീകരണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.41,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പട്ടം വൃന്ദാവന്‍ ഗാര്‍ഡന്‍സ് റോഡ്‌ നവീകരണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 14.5,
+            "concurrence_lakhs": 14.5
+        },
+        {
+            "project_name": "വട്ടിയൂര്‍ക്കാവ് വാര്‍ഡില്‍ വിശ്വകലാകേന്ദ്രം റോഡ്‌ കോണ്‍ക്രീറ്റിംഗ്.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.5,
+            "concurrence_lakhs": 12.5
+        },
+        {
+            "project_name": "പട്ടം ഗവ. മോഡല്‍ ഗേള്‍സ്‌ ഹയര്‍സെക്കന്‍ഡറി സ്കൂളിനു ബസ്‌ വാങ്ങി നല്‍കുന്നതിന്.",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ ഉപ ഡയറക്ടർ",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "മണ്ണന്തല വാര്‍ഡില്‍ അമ്പലത്തുനട റോഡ്‌ റീ ടാറിംഗും കോണ്‍ക്രീറ്റും.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കവടിയാര്‍ ഭഗവതി നഗറില്‍ B1 ലെയിന്‍ & B2 ലെയിന്‍ ഓട നിര്‍മ്മാണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "വാഴോട്ടുകോണം വാര്‍ഡില്‍ പഞ്ചമി ലെയിന്‍ തോട് സൈഡ് വാള്‍ ബൈ ലെയിന്‍ കോണ്‍ക്രീറ്റ്.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "കിണവൂര്‍ വാര്‍ഡില്‍ ബഥനി ആശ്രമം ലെയിന്‍ വഴി ചാത്തിയോടു റോഡ്‌ നവീകരണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.5,
+            "concurrence_lakhs": 12.5
+        },
+        {
+            "project_name": "നന്ദന്‍കോട് വാര്‍ഡില്‍ നന്ദനം റോഡ്‌ ഓട നിര്‍മ്മാണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 45.79,
+            "concurrence_lakhs": 45.79
+        },
+        {
+            "project_name": "വലിയവിള വാര്‍ഡില്‍ കല്ലംപൊറ്റ പാര്‍ശ്വഭിത്തി നിര്‍മ്മാണം പൂര്‍ത്തീകരണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "കുടപ്പനക്കുന്ന് വാര്‍ഡില്‍ എ.കെ.ജി നഗര്‍ റോഡ്‌ നവീകരണവും ഓട നിര്‍മ്മാണവും, എ.കെ.ജി നഗര്‍  കൃഷ്ണ നഗര്‍ റോഡ്‌ നവീകരണവും.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം മുനിസിപ്പൽ കോർപ്പറേഷൻ",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 38.5,
+            "concurrence_lakhs": 38.5
+        },
+        {
+            "project_name": "കുടപ്പനക്കുന്ന് വാര്‍ഡില്‍ ദയാ നഗര്‍ തെറ്റിക്കുഴി റോഡ്‌ നവീകരണവും, ദര്‍ശന്‍ നഗര്‍ റോഡ്‌ നവീകരണവും.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം മുനിസിപ്പൽ കോർപ്പറേഷൻ",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 62.6,
+            "concurrence_lakhs": 62.6
+        },
+        {
+            "project_name": "കാച്ചാണി സ്കൂള്‍ ജംഗ്ഷന്‍ മലമുകള്‍ റോഡ്‌ നവീകരണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം മുനിസിപ്പൽ കോർപ്പറേഷൻ",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 55.0,
+            "concurrence_lakhs": 55.0
+        },
+        {
+            "project_name": "വേറ്റിക്കോണം ശ്രീ നഗര്‍ ചീനിക്കോണം റോഡ്‌ നവീകരണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം മുനിസിപ്പൽ കോർപ്പറേഷൻ",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 39.0,
+            "concurrence_lakhs": 39.0
+        },
+        {
+            "project_name": "ഇയ്യക്കുഴി ഹരിത നഗര്‍ റോഡ്‌ നവീകരണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം മുനിസിപ്പൽ കോർപ്പറേഷൻ",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കാച്ചാണി വാര്‍ഡില്‍ പുന്നാംകോണം ക്ഷേത്രം - നെല്ലിവിള ARR സ്കൂള്‍ റോഡ്‌ നവീകരണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം മുനിസിപ്പൽ കോർപ്പറേഷൻ",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "കുന്നുകുഴി പ്ലാമൂട് ചര്‍ച്ച് റോഡ്‌ നവീകരണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം മുനിസിപ്പൽ കോർപ്പറേഷൻ",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 36.23,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മെഡിക്കല്‍കോളേജ് ബര്‍മ്മാ റോഡ്‌ ഓട സ്ലാബിടല്‍.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം മുനിസിപ്പൽ കോർപ്പറേഷൻ",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ഗൌരീശപട്ടം ക്ഷേത്രക്കുളം നവീകരണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം മുനിസിപ്പൽ കോർപ്പറേഷൻ",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.7,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കിണവൂര്‍ കുരിശ്ശടി കോണ്‍വെന്റ് റോഡില്‍ ടേക്ക് എ ബ്രേക്ക് കെട്ടിട നിര്‍മ്മാണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം മുനിസിപ്പൽ കോർപ്പറേഷൻ",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "ഗൌരീശപട്ടം അമ്പലം റോഡ്‌ നിര്‍മ്മാണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 33.6,
+            "concurrence_lakhs": 33.6
+        },
+        {
+            "project_name": "കൊടുങ്ങാനൂര്‍ കടയല്‍ മുടുമ്പ് റോഡ്‌ നവീകരണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ബാര്‍ട്ടണ്‍ ഹില്‍ ഗവ. എഞ്ചിനീയറിംഗ് കോളേജിനു ബസ്‌ വാങ്ങി നല്‍കല്‍.",
+            "implementing_agency": "ഡയറക്ടര്‍, സാങ്കേതിക വിദ്യാഭ്യാസ വകുപ്പ്.",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "മെഡിക്കല്‍ കോളേജ് ജംഗ്ഷനിലെ ട്രിഡ ഷോപ്പിംഗ്‌ കോംപ്ലക്സ് കോമ്പൗണ്ടില്‍ പൊതു ശൌചാലയം നിര്‍മ്മാണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 21.7,
+            "concurrence_lakhs": 21.7
+        },
+        {
+            "project_name": "കിണവൂര്‍ വാര്‍ഡില്‍ കുശവര്‍ക്കല്‍ നാലാഞ്ചിറ റോഡും ബൈ ലൈനുകളും നവീകരണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 26.0
+        },
+        {
+            "project_name": "കുടപ്പനക്കുന്ന് ഇരപ്പുകുഴി എന്‍.എസ്.എസ് റോഡ്‌ നവീകരണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "കനകക്കുന്നു കൊട്ടാരത്തിന് മുന്നില്‍ ഹൈ ടെക് ബസ്‌ കാത്തിരിപ്പ് കേന്ദ്രം നിര്‍മ്മാണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പാതിരപ്പള്ളി വാര്‍ഡില്‍ കുടപ്പനക്കുന്ന് ദേവി ക്ഷേത്രം പേരാപ്പൂര്‍ റോഡിലെ ഓട നവീകരണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 14.8,
+            "concurrence_lakhs": 14.8
+        },
+        {
+            "project_name": "ജവഹര്‍ നഗറില്‍ ഓട നിര്‍മ്മാണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "പട്ടം വാര്‍ഡില്‍ പൊട്ടക്കുഴി കൈരളി ഹോട്ടലിനു സമീപത്തെ റോഡിലെ സിവറേജ് ലൈന്‍ നവീകരണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, സ്വീവറേജ്‌ ഡിവിഷൻ",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.48,
+            "concurrence_lakhs": 10.48
+        },
+        {
+            "project_name": "കവടിയാര്‍ വാര്‍ഡില്‍ എസ്.എസ്.കോവില്‍ ലെയിന്‍ സീവറേജ് ലൈന്‍ നവീകരണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, സ്വീവറേജ്‌ ഡിവിഷൻ",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 65.0,
+            "concurrence_lakhs": 62.0
+        },
+        {
+            "project_name": "വട്ടിയൂര്‍ക്കാവ് വാര്‍ഡില്‍ വിശ്വകലാകേന്ദ്രം റോഡ്‌ ടാറിംഗ്.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കിണവൂര്‍ വാര്‍ഡിലെ പറക്കോട് ലെയിന്‍ റോഡ്‌ ടാറിംഗ്.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 26.0
+        },
+        {
+            "project_name": "പേരൂര്‍ക്കട കണ്‍കോര്‍ഡിയ ലൂഥറന്‍ എച്ച്.എസ്.എസ് ല്‍ ശുചി മുറി നിര്‍മ്മാണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പട്ടം സെന്റ്‌ മേരീസ് എച്ച്.എസ് എസ് നു പാചകപ്പുര നിര്‍മ്മാണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "തുരുത്തുമ്മൂല വാര്‍ഡില്‍ എം.ജി നഗറില്‍ ഓട നിര്‍മ്മാണവും റോഡ്‌ പുനരുദ്ധാരണവും.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 73.0,
+            "concurrence_lakhs": 73.0
+        },
+        {
+            "project_name": "പേരൂര്‍ക്കട ഗവ.പി.എസ്.എന്‍.എം എച്ച്.എസ്.എസ് നു സ്കൂള്‍ ബസ്‌ വാങ്ങി നല്‍കുന്നതിനു.",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ ഉപ ഡയറക്ടർ",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 16.8,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പേരൂര്‍ക്കട പി.എസ്.എന്‍.എം ഗവ.എച്ച്.എസ്.എസ് നു ബസ്‌ വാങ്ങി നല്‍കുന്നതിന്.",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ ഉപ ഡയറക്ടർ",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.25,
+            "concurrence_lakhs": 15.25
+        },
+        {
+            "project_name": "കാഞ്ഞിരംപാറ വാര്‍ഡില്‍ കരിത്തോട് റോഡ്‌ നവീകരണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "നാലാഞ്ചിറ വാര്‍ഡില്‍ കാക്കനാട് ലെയിന്‍, കൈലാസ് നഗര്‍ റോഡ്‌,പിള്ള വീട് ലെയിന്‍ എന്നിവയുടെ നവീകരണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "തുരുത്തുമ്മൂല വാര്‍ഡില്‍ രാധാകൃഷ്ണ ലൈന്‍ റോഡ്‌ നവീകരണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.2,
+            "concurrence_lakhs": 40.2
+        },
+        {
+            "project_name": "വഴോട്ടുകോണം വാര്‍ഡില്‍ പാപ്പാട് മഹിളാ മന്ദിരത്തിന്റെ പൂര്‍ത്തീകരണ പ്രവര്‍ത്തികള്‍.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 26.4,
+            "concurrence_lakhs": 26.4
+        },
+        {
+            "project_name": "ജവഹര്‍ ബാലഭവന് സ്കൂള്‍ ബസ്‌ വാങ്ങി നല്‍കുന്നതിന്.",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ ഉപ ഡയറക്ടർ",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എസ്.പി.റ്റി.പി.എം ഗവ.യു.പി.എസ് & നഴ്സറി സ്കൂള്‍ കുറവന്‍കോണത്തിനു ബസ്‌ വാങ്ങി നല്‍കുന്നതിനു.",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ ഉപ ഡയറക്ടർ",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 16.8,
+            "concurrence_lakhs": 16.8
+        },
+        {
+            "project_name": "വട്ടിയൂര്‍ക്കാവ് നിയോജകമണ്ഡലത്തിലെ ശാസ്തമംഗലം ഗവ.എല്‍.പി.എസ്സ്നും(16.80 ലക്ഷം രൂപ), കുമാരപുരം ഗവ.യു.പി.എസ്സ്നും(15.25 ലക്ഷം രൂപ) ബസ്‌ വാങ്ങി നല്‍കല്‍.",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ ഉപ ഡയറക്ടർ",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 32.05,
+            "concurrence_lakhs": 32.05
+        },
+        {
+            "project_name": "ശാസ്തമംഗലം വാര്‍ഡില്‍ ഇലങ്കം ഗാര്‍ഡന്‍സ് എഫ് സ്ട്രീറ്റ് റോഡ്‌ കോണ്‍ക്രീറ്റ് & ഇന്റര്‍ ലോക്ക്.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 18.4,
+            "concurrence_lakhs": 18.4
+        },
+        {
+            "project_name": "കേശവദാസപുരത്തു സ്ത്രീ സൌഹൃദ കാത്തിരിപ്പു കേന്ദ്രത്തിന്‍റെയും മുലയൂട്ടല്‍ മുറിയുടെയും ശുചിമുറി സമുച്ചയത്തിന്‍റെയും നിര്‍മ്മാണ പൂര്‍ത്തീകരണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.48,
+            "concurrence_lakhs": 18.48
+        },
+        {
+            "project_name": "കേശവദാസപുരം കേദാരം ഷോപ്പിംഗ്‌ കോംപ്ലക്സിനു മുന്‍ വശത്തുള്ള പൊതു ശൌചാലയത്തിലേക്ക് 150mm SW സ്വീവര്‍ ലൈന്‍ സ്ഥാപിക്കുന്നതിന്.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, സ്വീവറേജ്‌ ഡിവിഷൻ",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 19.01,
+            "concurrence_lakhs": 19.01
+        },
+        {
+            "project_name": "പി.എം.ജി ജംഗ്ഷനിലെ മോഡല്‍ ഫിനിഷിംഗ് സ്കൂളിനു കമ്പ്യൂട്ടറും അനുബന്ധ ഉപകരണങ്ങളും വാങ്ങി നല്‍കുന്നതിനു.",
+            "implementing_agency": "ജനറൽ മാനേജർ, കേരളാ  സ്റ്റേറ്റ്  ഇലക്ട്രോണിക് ഡെവലപ്മെന്റ്  കോർപറേഷൻ ലിമിറ്റഡ്  (കെൽട്രോൺ)",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പാതിരപ്പള്ളി വാര്‍ഡില്‍ കുടപ്പനക്കുന്ന് ദേവി ക്ഷേത്രം മുതല്‍ പേരാവൂര്‍ വരെയുള്ള റോഡ്‌ നവീകരണം.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 64.0,
+            "concurrence_lakhs": 64.0
+        },
+        {
+            "project_name": "ഉദിയന്നൂര്‍ നാലാഞ്ചിറ റോഡ്‌ 40 mm ചിപ്പിംഗ് കാര്‍പ്പെറ്റ് ചെയ്തു നവീകരിക്കല്‍.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "കുടപ്പനക്കുന്ന് എം.എല്‍.എ റോഡ്‌ 40 mm ചിപ്പിംഗ് കാര്‍പ്പെറ്റ് ചെയ്തു നവീകരിക്കല്‍.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 90.0,
+            "concurrence_lakhs": 90.0
+        },
+        {
+            "project_name": "പാതിരപ്പള്ളി വാര്‍ഡില്‍ കുഴിവിള കൂലിയോട്ടുകോണം റോഡ്‌ റീ ടാറിംഗ്.",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ,  പി.ഡബ്ള്യു.ഡി.റോഡ്സ് ഡിവിഷൻ, തിരുവനന്തപുരം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പി.റ്റി.പി വാര്‍ഡ്‌ പാറയ്ക്കല്‍ ആറ്റുമൂല മുട്ടട ഓട കാവറിംഗ് സ്ലാബ് നിര്‍മ്മാണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.97,
+            "concurrence_lakhs": 10.97
+        },
+        {
+            "project_name": "കവടിയാര്‍ വാര്‍ഡില്‍ ഭഗവതി നഗറില്‍ വെള്ളക്കെട്ട് ഒഴിവാക്കുന്നതിനുള്ള പ്രവര്‍ത്തികള്‍.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 31.42,
+            "concurrence_lakhs": 31.42
+        },
+        {
+            "project_name": "കാച്ചാണി വാര്‍ഡില്‍ സി.പി.റ്റി സൂര്യ നഗര്‍ റോഡും പാതിരപ്പള്ളി വാര്‍ഡില്‍ ഭഗത് സിംഗ് നഗര്‍ ടവര്‍ വ്യു ലൈന്‍ റോഡും നിര്‍മ്മാണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "വട്ടിയൂര്‍ക്കാവ്‌ നിയോജക മണ്ഡലത്തില്‍ താഴെ പറയുന്ന സ്കൂളുകള്ക്ക് ബസ്‌ വാങ്ങി നല്‍കുന്നതിനു. \r\n1) കാച്ചാണി ഗവ. എച്ച്.എച്ച്.എസ് (20,10,000/- രൂപ),\r\n2) കുലശേഖരം ഗവ. യു.പി.എസ് (13,50,000/- രൂപ),",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ ഉപ ഡയറക്ടർ",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 33.6,
+            "concurrence_lakhs": 33.39
+        },
+        {
+            "project_name": "കുണ്ടമണ്‍കടവ് തോടിന്‍റെ ഇടതു തീരത്ത് സംരക്ഷണ ഭിത്തി നിര്‍മ്മാണം (D/s of Kochupalam).",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയർ, മൈനർ ഇറിഗേഷൻ ഡിവിഷൻ,തിരുവനന്തപുരം",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 71.0,
+            "concurrence_lakhs": 71.0
+        },
+        {
+            "project_name": "പട്ടം വാര്‍ഡില്‍ ആദര്‍ശ് നഗര്‍ റോഡ്‌ നിര്‍മ്മാണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം നഗരസഭ",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "വട്ടിയൂര്‍ക്കാവ് മണ്ഡലത്തില്‍ വിവിധ സ്ഥലങ്ങളിലായി 6 എണ്ണം മിനി മാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കുന്നതിന്.",
+            "implementing_agency": "ജനറൽ  മാനേജർ, കേരളാ  ഇലക്ട്രിക്കൽ  & അലിയ്ഡ് എഞ്ചിനീയറിംഗ് കമ്പനി ലിമിറ്റഡ്.",
+            "category": "Electricity",
+            "fy": "2021-2022",
+            "estimate_lakhs": 12.5,
+            "concurrence_lakhs": 11.35
+        },
+        {
+            "project_name": "വാഴോട്ടുകോണം വാര്‍ഡില്‍ പാപ്പാടു കുളം റോഡ്‌ പുനരുദ്ധാരണവും ടാറിംഗും.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം മുനിസിപ്പൽ കോർപ്പറേഷൻ",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "വാഴോട്ടുകോണം വാര്‍ഡില്‍ വയലിക്കട തോടില്‍ സംരക്ഷണ ഭിത്തി നിര്‍മ്മാണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം മുനിസിപ്പൽ കോർപ്പറേഷൻ",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 18.5,
+            "concurrence_lakhs": 18.5
+        },
+        {
+            "project_name": "വട്ടിയൂര്‍ക്കാവ് വാര്‍ഡില്‍ സരസ്വതി സ്കൂളിനു സമീപത്തായി സ്വാഗത് ലൈന്‍ അറപ്പുര റോഡ്‌ ടാറിംഗ്.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം മുനിസിപ്പൽ കോർപ്പറേഷൻ",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കിനവൂര്‍ വാര്‍ഡിലെ നാലാഞ്ചിറ സെന്റ് ഗൊരത്തീസ് ഹൈ സ്കൂളില്‍ ആണ്‍ കുട്ടികള്‍ക്കായി മൂത്രപ്പുരയുടെ നിര്‍മ്മാണം.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം മുനിസിപ്പൽ കോർപ്പറേഷൻ",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പാതിരാപള്ളി വാര്‍ഡിലെ കുന്നുംപുറം പാറച്ചാണി അംഗനവാടിയും സാംസ്‌കാരിക നിലയവും ഉള്‍പെട്ട കെട്ടിടത്തിന്‍റെ ചുറ്റുമതില്‍ നിര്‍മ്മാണവും ഒന്നാം നിലയുടെ നിര്‍മ്മാണം പൂര്‍ത്തിയാക്കുന്നതിനും.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം മുനിസിപ്പൽ കോർപ്പറേഷൻ",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "കൊടുങ്ങാനൂര്‍ വാര്‍ഡിലെ നംബവന്‍ കാവ് റോഡ്‌ ടാറിംഗും സംരക്ഷണ ഭിത്തി നിര്‍മ്മാണവും.",
+            "implementing_agency": "സൂപ്രണ്ടിംഗ് എഞ്ചിനീയർ, തിരുവനന്തപുരം മുനിസിപ്പൽ കോർപ്പറേഷൻ",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": null,
+            "implementing_agency": null,
+            "category": "Others",
+            "fy": null,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "V_K_Prasanth_gdx8v0"
+}

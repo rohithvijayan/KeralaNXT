@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>KeralaNXT Refined Project Detail Card</title>
+    <link href="https://fonts.googleapis.com" rel="preconnect" />
+    <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&amp;family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        brand: {
+                            bg: "#FAFBF9",
+                            surface: "#FFFFFF",
+                            border: "#E5E8E4",
+                            primary: "#4A7C6F",
+                            textPrimary: "#2D3436",
+                            textSecondary: "#636E72",
+                        }
+                    },
+                    fontFamily: {
+                        display: ["'Plus Jakarta Sans'", "sans-serif"],
+                    },
+                    borderRadius: {
+                        '48': "48px",
+                    },
+                },
+            },
+        };
+    </script>
+    <style type="text/tailwindcss">
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 1, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+        }
+    </style>
+</head>
+
+<body class="bg-[#FAFBF9] font-display min-h-screen flex items-center justify-center p-6">
+    <div
+        class="w-full max-w-[380px] bg-white border border-[#E5E8E4] rounded-[48px] overflow-hidden shadow-sm hover:shadow-md transition-shadow duration-300">
+        <div class="relative aspect-[4/5] w-full p-4 pb-0">
+            <img alt="Modern bridge architecture reflecting Kochi Metro project"
+                class="w-full h-full object-cover rounded-[36px]"
+                src="https://lh3.googleusercontent.com/aida-public/AB6AXuDdeieORgNyii5xnzHbWbMPf_Xp0uG0E6WnVib1ABG7U6Op-JVvxdksPy_MxpXfA96Uq2e7fA15fkApZW3ux0q0K8CzC8NcjUF3CnmE9l2FwvFZmS6ReSYGWq6lHc4cp-jSFRQukiNRhNaBFs_FqyCU1i3duEfFeDoKkZcwZuEwLH8Exg3wYhXEPNNAzsX8iL_sj2-1ZDoH-92gEl48YLw9xczfTQccMmR-M596FX78t8MttwSPImmkEBuGkI7KIHPee4A6g3oUYrM" />
+        </div>
+        <div class="p-8 pt-6">
+            <div class="flex items-center gap-2 mb-3">
+                <h2 class="text-2xl font-bold text-[#2D3436] tracking-tight">
+                    Kochi Metro Extension
+                </h2>
+                <span aria-hidden="true" class="material-symbols-outlined text-[#22C55E] text-2xl">
+                    verified
+                </span>
+            </div>
+            <p class="text-[#636E72] text-base leading-relaxed line-clamp-2 mb-8">
+                Expanding urban connectivity through sustainable transit solutions.
+            </p>
+            <div class="flex items-center justify-between gap-4">
+                <div class="flex items-center gap-4">
+                    <div class="flex items-center gap-1.5">
+                        <span class="material-symbols-outlined text-[#636E72] text-lg opacity-70">payments</span>
+                        <span class="text-[#2D3436] font-semibold text-sm">₹2,310 Cr</span>
+                    </div>
+                    <div class="flex items-center gap-1.5">
+                        <span class="material-symbols-outlined text-[#636E72] text-lg opacity-70">analytics</span>
+                        <span class="text-[#2D3436] font-semibold text-sm">85%</span>
+                    </div>
+                </div>
+                <button
+                    class="bg-[#4A7C6F] px-5 py-3 rounded-2xl text-white font-semibold text-sm flex items-center gap-1.5 hover:bg-[#3d665b] transition-all active:scale-95 group">
+                    View Details
+                    <span
+                        class="material-symbols-outlined text-sm transition-transform group-hover:translate-x-0.5">add</span>
+                </button>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>

@@ -269,6 +269,142 @@ export const shareElementAsImage = async (elementId, options = {}) => {
                         brandTagline.style.color = '#0fb48c';
                         brandHeader.style.marginBottom = '20px';
                     }
+                    // District Comparison Cards
+                    else if (elementId.startsWith('dc-district-card-')) {
+                        brandName.style.color = '#ffffff';
+                        clonedElement.style.padding = '60px 40px';
+                        clonedElement.style.minHeight = 'auto';
+                        clonedElement.style.background = 'linear-gradient(180deg, #1A1F1E 0%, #2D3436 100%)';
+                        clonedElement.style.color = '#ffffff';
+                        clonedElement.style.width = '600px';
+                        clonedElement.style.borderRadius = '32px';
+
+                        // Hide non-essential sections as requested: keep .dc-card-main, .dc-section-label, .dc-sectors-grid
+                        // Hide constituency scroll and share buttons
+                        const elementsToHide = clonedElement.querySelectorAll('.dc-scroll-wrapper, .dc-share-btn, .dc-expand-icon');
+                        elementsToHide.forEach(el => el.style.display = 'none');
+
+                        // Ensure sectoral labels are visible
+                        const labels = clonedElement.querySelectorAll('.dc-section-label');
+                        labels.forEach(l => {
+                            l.style.marginTop = '2rem';
+                            l.style.display = 'block';
+                        });
+
+                        // Only keep the first section label (Sectoral Breakdown) and hide the second one (Constituency Expenditure)
+                        const allLabels = clonedElement.querySelectorAll('.dc-section-label');
+                        if (allLabels.length > 1) {
+                            allLabels[1].style.display = 'none';
+                        }
+
+                        // Increase font sizes for better visibility in share
+                        const mainAmount = clonedElement.querySelector('.dc-main-amount');
+                        if (mainAmount) mainAmount.style.fontSize = '2.5rem';
+
+                        const districtName = clonedElement.querySelector('.dc-district-info h3');
+                        if (districtName) districtName.style.fontSize = '1.75rem';
+                    }
+
+                    // For MLA Dashboard cards, force desktop layout for share (even on mobile)
+                    if (elementId.startsWith('mla-card-')) {
+                        brandName.style.color = '#000000';
+
+                        // Reset container styles to match desktop layout
+                        clonedElement.style.width = '600px';
+                        clonedElement.style.maxWidth = 'none';
+                        clonedElement.style.minWidth = '600px';
+                        clonedElement.style.height = 'auto'; // Reset fixed height if any
+                        clonedElement.style.aspectRatio = 'auto'; // Reset square aspect ratio
+                        clonedElement.style.alignItems = 'stretch';
+                        clonedElement.style.justifyContent = 'flex-start';
+                        clonedElement.style.textAlign = 'left';
+                        clonedElement.style.display = 'flex';
+                        clonedElement.style.flexDirection = 'column';
+                        clonedElement.style.padding = '32px';
+                        clonedElement.style.background = '#ffffff';
+                        clonedElement.style.borderRadius = '24px';
+
+                        // Force show desktop elements
+                        const desktopHeader = clonedElement.querySelector('.mla-card-header');
+                        const desktopBody = clonedElement.querySelector('.mla-card-body');
+                        const districtBadge = clonedElement.querySelector('.district-badge');
+
+                        if (desktopHeader) {
+                            desktopHeader.style.display = 'flex';
+                            desktopHeader.style.justifyContent = 'space-between';
+                            desktopHeader.style.alignItems = 'flex-start';
+                            desktopHeader.style.marginBottom = '24px';
+                            desktopHeader.style.width = '100%';
+
+                            // Fix inner header layout
+                            const mlaInfo = desktopHeader.querySelector('.mla-info');
+                            if (mlaInfo) {
+                                mlaInfo.style.display = 'flex';
+                                mlaInfo.style.alignItems = 'center';
+                                mlaInfo.style.gap = '16px';
+
+                                // Inject avatar if missing (clone from mobile)
+                                let avatar = mlaInfo.querySelector('.mla-avatar-placeholder');
+                                if (!avatar) {
+                                    const mobileAvatar = clonedElement.querySelector('.mla-card-content .mla-avatar-placeholder');
+                                    if (mobileAvatar) {
+                                        avatar = mobileAvatar.cloneNode(true);
+                                        mlaInfo.insertBefore(avatar, mlaInfo.firstChild);
+                                    }
+                                }
+
+                                // Fix avatar size
+                                if (avatar) {
+                                    avatar.style.width = '84px';
+                                    avatar.style.height = '84px';
+                                    avatar.style.minWidth = '84px';
+                                    avatar.style.fontSize = '27px';
+                                    avatar.style.display = 'flex'; // Ensure it's visible
+                                    avatar.style.alignItems = 'center';
+                                    avatar.style.justifyContent = 'center';
+                                    avatar.style.borderRadius = '50%';
+                                }
+                            }
+                        }
+
+                        if (desktopBody) {
+                            desktopBody.style.display = 'flex';
+                            desktopBody.style.flexDirection = 'column';
+                            desktopBody.style.gap = '20px';
+                            desktopBody.style.width = '100%';
+
+                            // Fix utilization header
+                            const utilHeaders = desktopBody.querySelectorAll('.utilization-header');
+                            utilHeaders.forEach(header => {
+                                header.style.display = 'flex';
+                                header.style.justifyContent = 'space-between';
+                                header.style.alignItems = 'center';
+                                header.style.width = '100%';
+                                header.style.borderBottom = '1px solid #e2e8f0';
+                                header.style.paddingBottom = '12px';
+                                header.style.marginBottom = '12px';
+                            });
+
+                            // Fix stats rows
+                            const statRows = desktopBody.querySelectorAll('.fund-details');
+                            statRows.forEach(row => {
+                                row.style.display = 'flex';
+                                row.style.justifyContent = 'space-between';
+                                row.style.width = '100%';
+                                row.style.marginTop = '12px';
+                            });
+                        }
+                        if (districtBadge) districtBadge.style.display = 'inline-block';
+
+                        // Hide mobile-only elements
+                        const mobileContent = clonedElement.querySelector('.mla-card-content');
+                        const mobileActions = clonedElement.querySelector('.card-mobile-actions');
+                        const mobileChevron = clonedElement.querySelector('.card-chevron');
+
+                        if (mobileContent) mobileContent.style.display = 'none';
+                        if (mobileActions) mobileActions.style.display = 'none';
+                        if (mobileChevron) mobileChevron.style.display = 'none';
+                    }
 
                     // For MP Dashboard related cards, make brand name black for visibility
                     if (elementId === 'hero-summary-card' || elementId.startsWith('mp-card-')) {

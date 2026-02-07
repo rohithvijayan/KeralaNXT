@@ -1,0 +1,741 @@
+{
+    "mla_name": "Shri P.P. Chitharanjan",
+    "constituency": "ALAPPUZHA",
+    "district": "Alappuzha",
+    "summary": {
+        "total_expenditure_crores": 30.4016,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 11.3578
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 7.9957
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 5.6677
+            },
+            {
+                "label": "Others",
+                "value_crores": 3.3585
+            },
+            {
+                "label": "Education",
+                "value_crores": 1.0219
+            },
+            {
+                "label": "Sports",
+                "value_crores": 1.0
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "ആലപ്പുഴ നഗരസഭ തത്തംപ്പളളി ചർച്ച് ബോട്ട്ജെട്ടി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "കലവൂർ സ്മാർട്ട് വില്ലേജ് ഓഫീസ് കോൺഫറൻസ് ഹാൾ ഫസ്റ്റ് ഫ്ളോർ നിർമ്മാണം",
+            "implementing_agency": "കേരള സംസ്ഥാന നിര്‍മ്മിതി കേന്ദ്രം",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 16.73,
+            "concurrence_lakhs": 16.73
+        },
+        {
+            "project_name": "ആലപ്പുഴ    നിയോജക മണ്ഡലത്തിലെ വിവിധ കേന്ദ്രങ്ങളിൽ മിനിമാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കുന്ന പ്രവൃത്തി",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 39.43,
+            "concurrence_lakhs": 39.43
+        },
+        {
+            "project_name": "ഒരു പഞ്ചായത്ത് ഒരു കളിക്കളം പദ്ധതിയിൽ ഉൾപ്പെടുത്തി കാട്ടൂർ ഹോളിഫാമിലി ഹയർ സെക്കണ്ടറി സ്കൂൾ ഗ്രൗണ്ട് നിർമ്മാണം",
+            "implementing_agency": "Sports Kerala Foundation",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "മണ്ണഞ്ചേരി ഗ്രാമ പഞ്ചായത്ത്  വാർഡ് -9 താഴ്ചയിൽ പുത്തൻവീട് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.7,
+            "concurrence_lakhs": 12.7
+        },
+        {
+            "project_name": "കണിച്ചുകുളങ്ങര വൊക്കേഷണൽ ഹയർ   സെക്കണ്ടറി സ്കൂളിന് ടോയിലറ്റ് ബ്ലോക്ക് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മാരാരിക്കുളം വടക്ക് എസ് എൻ പുരം എസ് എൻ ട്രസ്റ്റ് ഹയർ സെക്കണ്ടറി സ്കൂളിന് പാചകപ്പുര നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഒരു പഞ്ചായത്ത് ഒരു കളിക്കളം പദ്ധതിയിലുൾപ്പെടുത്തി മാരാരിക്കുളം സെൻ്റ് അഗസ്റ്റിൻസ് ഹൈസ്കൂളിലെ ഗ്രൗണ്ട് നിർമ്മാണം",
+            "implementing_agency": "Sports Kerala Foundation",
+            "category": "Sports",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "തത്തംപ്പള്ളി വാർഡ് വിവേകോദയം വായനശാല കെട്ടിടം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 38.4,
+            "concurrence_lakhs": 38.4
+        },
+        {
+            "project_name": "മണ്ണഞ്ചേരി ഗ്രാമപഞ്ചായത്ത് വാർഡ്-3 സൊസൈറ്റി പഴഞ്ഞാല റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "ചുനക്കര ഗ്രാമപഞ്ചായത്ത് വാർഡ് -8 വി.വി.എച്ച്.എസ് നഗർ റോഡ് കോൺക്രീറ്റ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മാരാരിക്കുളം തെക്ക് ഗ്രാമപഞ്ചായത്ത് - കലവൂർ ജി എൽ പി എസ്, ഫസ്റ്റ് ഫ്ലോർ ക്ലാസ്സ് റൂം നിർമ്മാണം.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "ആലപ്പുഴ മാരാരിക്കുളം തെക്ക് ഗ്രാമപഞ്ചായത്ത്കൊറ്റാട്ടുപാടം കുറുപ്പെതൈയ്യിൽ ട്രാൻസ്ഫോർമർ റോഡ് നിർമ്മാണം ഫേസ് - 2",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 66.0,
+            "concurrence_lakhs": 66.0
+        },
+        {
+            "project_name": "ആലപ്പുഴ എസ്.ഡി.വി ബോയ്സ്  ഹൈസ്ക്കൂളിന് ടോയ് ലെറ്റ് ബ്ലോക്ക് നിർമ്മാണം.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ആലപ്പുഴ നിയോജക മണ്ഡലത്തിലെ വിവിധ കേന്ദ്രങ്ങളിൽ ഹൈമാസ്റ്റ്/മിനിമാസ്റ്റ്\r\nലൈറ്റ് സ്ഥാപിക്കല്‍",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 11.38,
+            "concurrence_lakhs": 11.38
+        },
+        {
+            "project_name": "മാരാരിക്കുളം തെക്ക്   ഗ്രാമപഞ്ചായത്ത് വാർഡ് – 14   മാവേലിപുരം  റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 27.7,
+            "concurrence_lakhs": 27.7
+        },
+        {
+            "project_name": "ആലപ്പുഴ മുനിസിപ്പാലിറ്റി - ജില്ലാകോടതി വാർഡ്  -കിടങ്ങാംപറമ്പ് ക്ഷേത്രം റോഡ് പുനരുദ്ധാരണം",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 99.0
+        },
+        {
+            "project_name": "മണ്ണഞ്ചേരി ഗ്രാമപഞ്ചായത്ത്  പൊന്നാട് ഗവ.എൽ പി സ്കൂളിൽ ഓപ്പൺ ഓഡിറ്റോറിയം നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 28.0,
+            "concurrence_lakhs": 28.0
+        },
+        {
+            "project_name": "ആലപ്പുഴ നഗരസഭ തുമ്പോളി വാർഡ് -തുമ്പോളി വെസ്റ്റ് അയ്യപ്പന്‍റെ അമ്പലം റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.72,
+            "concurrence_lakhs": 15.72
+        },
+        {
+            "project_name": "മാരാരിക്കുളം വടക്ക്  ഗ്രാമ പഞ്ചായത്ത് ചെത്തി മത്സ്യഭവൻ നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 31.9,
+            "concurrence_lakhs": 31.9
+        },
+        {
+            "project_name": "ആര്യാട് ഗ്രാമ പഞ്ചായത്ത്  വാർഡ് -17 തുമ്പോളി -കൂട്ടുങ്കൽ റോഡ്  നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.7,
+            "concurrence_lakhs": 20.7
+        },
+        {
+            "project_name": "ആലപ്പുഴ എസ്.ഡി.വി ബോയ്സ്  ഹൈസ്ക്കൂളിന്  ടോയ് ലെറ്റ് ബ്ലോക്ക് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.3,
+            "concurrence_lakhs": 14.3
+        },
+        {
+            "project_name": "ആലപ്പുഴ നഗരസഭ കൊമ്മാടി വാർഡ്  ദൃശ്യവേദി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.7,
+            "concurrence_lakhs": 14.7
+        },
+        {
+            "project_name": "ആലപ്പുഴ നഗരസഭ ലിയോ തേർട്ടീന്ത് സ്ക്കൂളിന്  സമീപം ഡ്രൈനേജ് നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "ആലപ്പുഴ തമ്പകച്ചുവട് യു.പി.സ്ക്കൂളിന് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "KILA",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "മാരാരിക്കുളം തെക്ക് ഗ്രാമ പഞ്ചായത്ത് വാർഡ് -11 കോൺവെന്‍റ് വൈ. എം. സി.എ ലൈബ്രറി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 11.26,
+            "concurrence_lakhs": 11.26
+        },
+        {
+            "project_name": "ആലപ്പുഴ മുൻസിപ്പാലിറ്റി ബീച്ച് വാർഡിൽ പ്രവൃത്തി പൂർത്തീകരിക്കുന്ന മുപ്പാലം വൈദ്യുതീകരിച്ച് വഴിവിളക്കുകൾ സ്ഥാപിക്കുക",
+            "implementing_agency": "പൊതുമരാമത്ത് ഇലക്ട്രിക്കൽ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "മണ്ണഞ്ചേരി  സ്മാർട്ട് വില്ലേജ് ഓഫീസ് കോൺഫ്രൻസ് ഹാൾ ഫസ്റ്റ് ഫ്ലോർ നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മാരാരിക്കുളം  വടക്ക്   ഗ്രാമ പഞ്ചായത്ത് ചെത്തി കോസ്റ്റൽ സഹകരണ ഗ്രന്ഥശാല കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 29.5,
+            "concurrence_lakhs": 29.5
+        },
+        {
+            "project_name": "മാരാരിക്കുളം  വടക്ക് ഗ്രാമ പഞ്ചായത്ത്-ചെത്തി ഹാർബർ എൻജിനീയറിംഗ് വകുപ്പ് ഓഫീസ് അനുബന്ധ നിർമ്മാണ പ്രവൃത്തികൾ",
+            "implementing_agency": "ഹാര്‍ബര്‍ എന്‍ജിനീയറിംഗ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ആര്യാട് ഗ്രാമ പഞ്ചായത്ത്- ഐക്യഭാരതം വായനശാല കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ആലപ്പുഴ നിയോജക മണ്ഡലത്തിലെ വിവിധ കേന്ദ്രങ്ങളിൽ ഹൈമാസ്റ്റ്/മിനിമാസ്റ്റ് ലൈറ്റുകൾ",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 66.59,
+            "concurrence_lakhs": 66.59
+        },
+        {
+            "project_name": "മാരാരിക്കുളം തെക്ക് പഞ്ചായത്ത് വാർഡ്-13 ,പി.വി.പ്രഭാകരൻ സ്മാരക റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 33.0,
+            "concurrence_lakhs": 33.0
+        },
+        {
+            "project_name": "മാരാരിക്കുളം  വടക്ക് ഗ്രാമ പഞ്ചായത്ത് -  പൊക്ലാശ്ശേരി  ഗവ.എൽ.പി.സ്ക്കൂളിന് പാചകപ്പുര കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 39.45,
+            "concurrence_lakhs": 39.45
+        },
+        {
+            "project_name": "മണ്ണഞ്ചേരി മനയ്ക്കൽ ദേവീക്ഷേത്രം റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 33.0,
+            "concurrence_lakhs": 33.0
+        },
+        {
+            "project_name": "മണ്ണഞ്ചേരി ഗ്രാമ പഞ്ചായത്ത്  വാർഡ് -20 കാവുങ്കൽ ഗ്രന്ഥശാല & വായനശാല ഓപ്പൺ ഓഡിറ്റോറിയം നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 21.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ആലപ്പുഴ  നഗരസഭ - മംഗലം വാർഡ് മംഗലം റോഡ് നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 43.4,
+            "concurrence_lakhs": 43.4
+        },
+        {
+            "project_name": "മണ്ണഞ്ചേരി ഗ്രാമപഞ്ചായത്ത് വാർഡ് 1 ദേശാഭിമാനി വായനശാല കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.8,
+            "concurrence_lakhs": 16.8
+        },
+        {
+            "project_name": "ആലപ്പുഴ മുനിസിപ്പാലിറ്റി കാളാത്ത് വാർഡ് പൂന്തോപ്പ് ലീയോതേർട്ടീന്ത് സ്ക്കൂൾ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "ആലപ്പുഴ മുനിസിപ്പാലിറ്റി ജില്ലാകോടതി വാർഡ് കിടങ്ങാംപറമ്പ് ക്ഷേത്രം റോഡ് നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 65.0,
+            "concurrence_lakhs": 65.0
+        },
+        {
+            "project_name": "മണ്ണഞ്ചേരി ഗ്രാമപഞ്ചായത്തിലെ മണ്ണഞ്ചേരി ബസ് ഷെൽട്ടറും അനുബന്ധപ്രവൃത്തികളും",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 45.84,
+            "concurrence_lakhs": 45.84
+        },
+        {
+            "project_name": "മണ്ണഞ്ചേരി ഗ്രാമപഞ്ചായത്ത് വാർഡ് 21 പനയിൽ ഗുരുമന്ദിരം റോഡ് നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 29.0,
+            "concurrence_lakhs": 29.0
+        },
+        {
+            "project_name": "ആര്യാട് ഗ്രാമപഞ്ചായത്ത് വാർഡ് 9 വലിയെകോവിലകം -മിയാത്ത് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.9,
+            "concurrence_lakhs": 12.9
+        },
+        {
+            "project_name": "മണ്ണഞ്ചേരി ഗ്രാമപഞ്ചായത്ത് 5,6 വാർഡുകളെ തമ്മിൽ ബന്ധിപ്പിക്കുന്ന മസ്ജിദ് പാലം നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 82.0,
+            "concurrence_lakhs": 82.0
+        },
+        {
+            "project_name": "മണ്ണഞ്ചേരി ഗ്രാമപഞ്ചായത്ത് 5,6 വാർഡുകളെ തമ്മിൽ ബന്ധിപ്പിക്കുന്ന മസ്ജിദ് പാലം നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 82.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഒരു പഞ്ചായത്തിൽ ഒരുകളിക്കളം-ആലപ്പുഴ എസ്.ഡി.വി  സ്ക്കൂൾ കളിക്കളം",
+            "implementing_agency": "Sports Kerala Foundation",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "മണ്ണഞ്ചേരി ഗ്രാമപഞ്ചായത്ത് വാർഡ് 1 ദേശാഭിമാനി വായനശാല കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 16.8,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മണ്ണഞ്ചേരി ഗ്രാമപഞ്ചായത്ത് വാർഡ് 9 താഴ്ചയിൽ പുത്തൻ വീട് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മാരാരി്ക്കുളം വടക്ക് ഗ്രാമപഞ്ചായത്തിലെ കസ്തൂർബ വായനശാല & ഗ്രന്ഥശാലയ്ക്ക് കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 55.0,
+            "concurrence_lakhs": 55.0
+        },
+        {
+            "project_name": "മണ്ണഞ്ചേരി ഗ്രാമപഞ്ചായത്ത് കിഴക്കേവെളി-മാളിയേക്കൽ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "ആര്യാട് ഗ്രാമപഞ്ചായത്ത് ഇ.കെ നായനാർ സാംസ്ക്കാരികനിലയം നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 75.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മണ്ണഞ്ചേരി ഗ്രാമപഞ്ചായത്ത് നേതാജി ജംഗ്ഷനിൽ യുവപ്രഭ വായനശാല കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 46.0,
+            "concurrence_lakhs": 46.0
+        },
+        {
+            "project_name": "മാരാരിക്കുളം വടക്ക് ഗ്രാമപഞ്ചായത്ത് കുറുപ്പന്‍കുളങ്ങര-കണിച്ചുകുളങ്ങര റോഡിന്‍റെ ഇരുവശങ്ങളിലും ഇന്‍റര്‍ലോക്ക്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "മണ്ണഞ്ചേരി ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 16,17 പുന്നയ്ക്കല്‍ വെളി-നരിച്ചംപള്ളി റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "ആര്യാട് ഗ്രാമപഞ്ചായത്ത് പി.എച്ച്.സി കെട്ടിടം നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 166.0,
+            "concurrence_lakhs": 166.0
+        },
+        {
+            "project_name": "ആര്യാട് ഗ്രാമപഞ്ചായത്ത് പി.എച്ച്.സി കെട്ടിടം നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 166.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ആലപ്പുഴ മണ്ഡലത്തിലെ വിവിധ കേന്ദ്രങ്ങളിൽ  10 ബസ് കാത്തിരിപ്പ് കേന്ദ്രം നിര്‍മ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 37.23,
+            "concurrence_lakhs": 37.23
+        },
+        {
+            "project_name": "മണ്ണഞ്ചേരി പോലീസ് സ്റ്റേഷന്‍ കാത്തിരിപ്പ് കേന്ദ്രം നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "ആലപ്പുഴ നോര്‍ത്ത് പോലീസ് സ്റ്റേഷന്‍ കാത്തിരിപ്പ് കേന്ദ്രം നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.85,
+            "concurrence_lakhs": 12.85
+        },
+        {
+            "project_name": "ആലപ്പുഴ നഗരസഭ സിവ്യൂ വാർഡ് കോമ്പൌണ്ട് സി.എം.എസ് എൽ.പി സ്ക്കൂളിന് 6 ടോയ് ലെറ്റുകൾ ഉൾക്കൊള്ളുന്ന ടോയ് ലെറ്റ് ബ്ലോക്ക് നിർമ്മിക്കുക",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മാരാരിക്കുളം തെക്ക് പഞ്ചായത്ത് കാട്ടൂർ ഹോളി ഫാമിലി എച്ച്.എസ്.എസ് ന് 5 ടോയ് ലെറ്റുകൾ അടങ്ങുന്ന ടോയ് ലെറ്റ് ബ്ലോക്ക് നിർമ്മിക്കുക",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മണ്ണഞ്ചേരി ഗ്രാമ പഞ്ചായത്ത് ആര്യാട് നോർത്ത് ഗവ:യു.പി സ്ക്കൂളിന് മിനി ബസ് വാങ്ങുക",
+            "implementing_agency": "പൊതുവിദ്യാഭ്യാസം",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 16.19,
+            "concurrence_lakhs": 16.19
+        },
+        {
+            "project_name": "ആലപ്പുഴ നിയോജക മണ്ഡലത്തിലെ വിവിധ സ്ഥങ്ങളിൽ ഹൈ മാസ്റ്റ്/മിനിമാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കൽ-\r\n\r\n1. മാരാരിക്കുളം തെക്ക് പഞ്ചായത്ത് കാട്ടൂർ പുതിയ വീട്ടിൽ ഹനുമൽ ക്ഷേത്രം - ഹൈമാസ്റ്റ്\r\n2. മാരാരിക്കുളം വടക്ക് പഞ്ചായത്ത് കണിച്ചുകുളങ്ങര റെയിൽവേ ക്രോസ് - മിനിമാസ്റ്റ്\r\n3. മണ്ണഞ്ചേരി പഞ്ചായത്ത് റോഡുമുക്ക് ജംഗ്ഷൻ - മിനിമാസ്റ്റ്\r\n4. മണ്ണഞ്ചേരി പഞ്ചായത്ത് നേതാജി ജംഗ്ഷൻ - മിനിമാസ്റ്റ്\r\n5. മണ്ണഞ്ചേരി പഞ്ചായത്ത് വിരിശ്ശേരി ക്ഷേത്രം - മിനിമാസ്റ്റ്\r\n6. ആലപ്പുഴ മുനിസിപ്പാലിറ്റി തുമ്പോളി പൊഴി - മിനിമാസ്റ്റ്\r\n7. ആലപ്പുഴ മുനിസിപ്പാലിറ്റി തോട്ടാതോട് പാലം(കടത്ത്) - മിനിമാസ്റ്റ്\r\n8. മാരാരിക്കുളം തെക്ക് പഞ്ചായത്ത് സർവ്വോദയപുരം മാർക്കറ്റ് - മിനിമാസ്റ്റ്\r\n9. മാരാരിക്കുളം തെക്ക് പഞ്ചായത്ത് പാതിരപ്പള്ളി തീരദേശ ജംഗ്ഷൻ മിനിമാസ്റ്റ്\r\n10. മാരാരിക്കുളം വടക്ക് പഞ്ചായത്ത് കണിച്ചുകുളങ്ങര ചന്ത മിനിമാസ്റ്റ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 26.48,
+            "concurrence_lakhs": 26.48
+        },
+        {
+            "project_name": "മാരാരിക്കുളം തെക്ക് ഗ്രാമ പഞ്ചായത്ത് വാർഡ് -14 മാവേലിപുരം റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "മണ്ണഞ്ചേരി ഗ്രാമ പഞ്ചായത്ത് വാർഡ് -7 എച്ചിക്കുഴി -മാടത്തുംകര റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "ആലപ്പുഴ നിയോജക മണ്ഡലത്തിലെ വളവനാട് ക്ഷേത്ര പരിസരത്ത് ഹൈമാസ്റ്റ് -1,മിനിമാസ്റ്റ് -2,പൂങ്കാവ് പള്ളിക്ക് സമീപം മിനി മാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കൽ",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.61,
+            "concurrence_lakhs": 12.61
+        },
+        {
+            "project_name": "ആലപ്പുഴ നിയോജക മണ്ഡലത്തിലെ മണ്ണഞ്ചേരി ഗവ:ഹൈസ്ക്കൂളിന് 32 സീറ്റുള്ള സ്ക്കൂൾ ബസ് വാങ്ങിക്കുക",
+            "implementing_agency": "പൊതുവിദ്യാഭ്യാസം",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 26.0
+        },
+        {
+            "project_name": "ആലപ്പുഴ നിയോജകമണ്ഡലം മാരാരി ബീച്ച് പാര്‍ക്കിംഗ് ഗ്രൌണ്ടിന്‍റെ ഇന്‍റര്‍ലോക്ക് നിര്‍മ്മാണം",
+            "implementing_agency": "ജില്ലാ നിര്‍മ്മിതി കേന്ദ്രം, ആലപ്പുഴ",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 60.2,
+            "concurrence_lakhs": 60.2
+        },
+        {
+            "project_name": "ആലപ്പുഴ നിയോജക മണ്ഡലം-മാമാരി ബീച്ച് പാര്‍ക്കിംഗ് ഗ്രൌണ്ട് ഇന്‍റര്‍ ലോക്ക്",
+            "implementing_agency": "ജില്ലാ നിര്‍മ്മിതി കേന്ദ്രം, ആലപ്പുഴ",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 60.2,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ആലപ്പുഴ നഗരസഭ-തോണ്ടന്‍ കുളങ്ങര വാര്‍ഡിലെ കൈചൂണ്ടി മാര്‍ക്കറ്റ് റോഡ് ടാറിംഗ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 29.9,
+            "concurrence_lakhs": 29.9
+        },
+        {
+            "project_name": "മാരാരിക്കുളം തെക്ക് ഗ്രാമപഞ്ചായത്ത്  വാര്‍ഡ് 16 കുളമാക്കില്‍-കുരിശ്ശിങ്കല്‍ ബീച്ച് റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "മണ്ണഞ്ചേരി ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 21 പനയില്‍ ഗുരുമന്ദിരം റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "മാരാരിക്കുളം തെക്ക് ഗ്രാമപഞ്ചായത്ത് ഫ്ലെമിംഗോ-കുരിശ്ശുപുര റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 21.0,
+            "concurrence_lakhs": 21.0
+        },
+        {
+            "project_name": "ആലപ്പുഴ ജില്ലാ ഹോര്‍ട്ടികള്‍ച്ചര്‍ സൊസൈറ്റിക്ക് കെട്ടിടം",
+            "implementing_agency": "Centre of Science And Technology for Rural Development",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കലവൂരില്‍ അസാപ്പിന്‍റെ കമ്മ്യൂണിറ്റി സ്കില്‍ പാര്‍ക്കില്‍ ഇ ലേണിംഗ് കമ്പ്യൂട്ടര്‍ ലാബ് സജ്ജീകരിക്കല്‍",
+            "implementing_agency": "കേരള സ്റ്റേറ്റ് ഇലക്ട്രോണിക്സ് ഡെവലപ്പ്മെന്റ് കോർപ്പറേഷൻ ലിമിറ്റഡ്",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 110.0,
+            "concurrence_lakhs": 110.0
+        },
+        {
+            "project_name": "മണ്ണഞ്ചേരി ഗ്രാമപഞ്ചായത്ത് -നാഷണല്‍ ഹൈവേ-അസാപ്പ് റോഡ്  നിര്‍മ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 21.0,
+            "concurrence_lakhs": 21.0
+        },
+        {
+            "project_name": "ജ്ഞാനദീപഗൃഹം വായനശാല & ഗൃന്ഥശാല സാംസ്ക്കാരിക സമുച്ചയം നിര്‍മ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "കലവൂര്‍ ഗവ.ഹയര്‍സെക്കന്‍ററി സ്ക്കൂള്‍ ഒന്നാംനിലയില്‍ ക്ലാസ്റൂം നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ആലപ്പുഴ നഗര സഭ പൂന്തോപ്പ് വാര്‍ഡ്-നെല്ല്തീപ്പെട്ടി കമ്പനി റോഡ്",
+            "implementing_agency": "LSGD MUNICIPAL DIVISION",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.21,
+            "concurrence_lakhs": 15.21
+        },
+        {
+            "project_name": "മണ്ണഞ്ചേരി ഗ്രാമപഞ്ചായത്ത് 5,6 വാര്‍ഡുകളെ തമ്മില്‍ ബന്ധിപ്പിക്കുന്ന മസ്ജിദ് പാലം നിര്‍മ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 90.81,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ആലപ്പുഴ നിയോജക മണ്ഡലം-വളവനാട്ക്ഷേത്ര പരിസരത്ത് ഹൈമാസ്റ്റ്,മിനിമാസ്റ്റ്,ആലപ്പുഴ പൂങ്കാവ് പള്ളിക്ക് സമീപം മിനിമാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കല്‍",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കായികവകുപ്പിന്‍റെ ഒരു പഞ്ചായത്ത് ഒരു കളിസ്ഥലം പദ്ധതി-തുമ്പോളി സെന്‍റ്.തോമസ് സ്ക്കൂള്‍ ഗ്രൌണ്ട് നിര്‍മ്മാണം",
+            "implementing_agency": "Sports Kerala Foundation",
+            "category": "Sports",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "നെഹ്റുട്രോഫി വാര്‍ഡില്‍ നെഹ്റു ജെട്ടി മുതല്‍ സ്വാമിചിറ ജെട്ടി വരെയും വിളക്കുമരം ജെട്ടിമുതല്‍  ചീര്‍പ്പുമുട്ട് വരെയും വൈദ്യുതിലൈന്‍",
+            "implementing_agency": "കെ എസ് ഇ ബി",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 13.3,
+            "concurrence_lakhs": 13.27
+        },
+        {
+            "project_name": "ഗവ.യു.പി.എസ് തമ്പകച്ചുവട്,ജി.എല്‍.പി.എസ് പൊക്ലാശ്ശേരി എന്നീ സ്ക്കൂളുകള്‍ക്ക് മിനിബസ്",
+            "implementing_agency": "പൊതുവിദ്യാഭ്യാസം",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 36.0,
+            "concurrence_lakhs": 36.0
+        },
+        {
+            "project_name": "ആലപ്പുഴ നിയോജക മണ്ഡലത്തിലെ വിവിധ കേന്ദ്രങ്ങളില്‍ ഹൈ മാസ്റ്റ്/മിനി മാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കല്‍(1.ആലപ്പുഴ മുനിസിപ്പാലിറ്റി ഡച്ച് സക്വയര്‍ ഷാഫി ജമാത്ത് മുസ്ലിം പള്ളിക്ക് സമീപം-ഹൈമാസ്റ്റ്.\r\n2.മാരാരിക്കുളം സൌത്ത് പഞ്ചായത്ത് തീരദേശ റോഡില്‍ പൊള്ളേത്തൈ പള്ളി ജംഗ്ഷന്‍-ഹൈമാസ്റ്റ്.\r\n3.നാഷണല്‍ ഹൈവേ കണിച്ചുകുളങ്ങര ജംഗ്ഷന്‍ ഹൈമാസ്റ്റ് ലൈറ്റ്\r\n4.മാരാരിക്കുളം സൌത്ത് പഞ്ചായത്ത് ഉദയവായനശാല ഓപ്പണ്‍ ജിമ്മിനു സമീപം മിനിമാസ്റ്റ് ലൈറ്റ്.\r\n5.മണ്ണഞ്ചേരി ഗ്രാമപഞ്ചായത്ത് ,ഷണ്‍മുഖവിലാസം ക്ഷേത്രം മിനിമാസ്റ്റ് ലൈറ്റ്.\r\n6.ആലപ്പുഴ മുനിസിപ്പാലിറ്റി പുന്നമടജെട്ടി കിഴക്കേക്കര മിനിമാസ്റ്റ് ലൈറ്റ്.\r\n7.ആലപ്പുഴമുനിസിപ്പാലിറ്റി നെഹ്റു ട്രോഫി ജെട്ടി മിനിമാസ്റ്റ് ലൈറ്റ്.\r\n8.തീരദേശറോഡില്‍ പൂങ്കാവ് പള്ളിക്ക് സമീപം ഹൈമാസ്റ്റ് ലൈറ്റ്.)",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2021-2022",
+            "estimate_lakhs": 32.38,
+            "concurrence_lakhs": 32.38
+        },
+        {
+            "project_name": "ആര്യാട് ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 17 ല്‍ 23-ാം നമ്പര്‍ അംഗനവാടി റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 28.3,
+            "concurrence_lakhs": 28.3
+        },
+        {
+            "project_name": "മണ്ണഞ്ചേരി പഞ്ചായത്ത് കലവൂർ GHSLPS നിലവിലുള്ള കെട്ടിടത്തിന് മുകളിൽ 3 ക്ലാസ്സ്‌റൂം നിർമ്മാണം",
+            "implementing_agency": "ജില്ലാ നിര്‍മ്മിതി കേന്ദ്രം, ആലപ്പുഴ",
+            "category": "Irrigation",
+            "fy": "2021-2022",
+            "estimate_lakhs": 39.3,
+            "concurrence_lakhs": 39.3
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "alappuzha_shri_pp_chitharanjan_placeholder"
+}

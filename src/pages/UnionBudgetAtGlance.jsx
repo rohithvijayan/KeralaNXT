@@ -27,7 +27,7 @@ const UnionBudgetAtGlance = () => {
     const handleShare = () => {
         shareElementAsImage('kerala-share-card', {
             title: "Kerala's Budget Share 2026",
-            text: "Analyzing Kerala's share in the Union Budget 2026 via KeralaNXT.",
+            text: "Analyzing Kerala's share in the Union Budget 2026 via KealaStory.",
             fileName: 'kerala-budget-share-2026.png',
             backgroundColor: '#ffffff'
         })

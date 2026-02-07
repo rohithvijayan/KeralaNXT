@@ -1,0 +1,785 @@
+{
+    "mla_name": "Shri K.N. Unnikrishnan",
+    "constituency": "VYPIN",
+    "district": "Ernakulam",
+    "summary": {
+        "total_expenditure_crores": 22.9264,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 16.3719
+            },
+            {
+                "label": "Others",
+                "value_crores": 2.0247
+            },
+            {
+                "label": "Sports",
+                "value_crores": 1.65
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 1.494
+            },
+            {
+                "label": "Education",
+                "value_crores": 0.9858
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 0.3
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.1
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "MLA-ADS - 2025-2026 - VYPIN LAC - FORMATION OF VACHAKKAL - KADAKKARA  SOUTH EXTENSION 2 ND REACH AND VACHAKKAL KADAKKARA EAST VEERAMPUZHA -FROM SHANI - THEVERTHARA  UPTO AANI THANNIPPILLY ROAD IN WARD 5 OF EDAVANAKKAD GP",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 42.7,
+            "concurrence_lakhs": 42.7
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - VYPIN LAC - CONSTRUCTION OF PALLITHODU PALAM AT  SOUTH  SIDE OF KOCHUMUKKU IN ELAMKUNNAPUZHA  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.2,
+            "concurrence_lakhs": 14.2
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - VYPIN LAC - OOKANS  ROAD IN WARD 7 OF KUZHUPPILLY G P",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - VYPIN LAC - THAIKKADANPALLY ROAD IN WARD -2 OF KUZHUPPILY GP",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "MLA-ADS -2025-2026 -  VYPIN LAC - THACHERI RESENENCE ROAD IN WARD 4 OF MULAVUKAD GP",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 16.7,
+            "concurrence_lakhs": 16.7
+        },
+        {
+            "project_name": "MLA-ADS - 2025-26- VYPIN LAC - VILLAGE ROAD UPTO SOUTH WEST OLIPARAMBIL AYYAPPA  TEMPLE  IN WARD 13 OF EDAVANAKAD GP",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 33.8,
+            "concurrence_lakhs": 33.8
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - VYPIN LAC - ELLATHU NIKATHU  ROAD IN   WARD -3 OF EDAVANAKKAD  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 37.4,
+            "concurrence_lakhs": 37.4
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - VYPIN LAC - KANDATHIPARAMBU ROAD IN WARD - 3 EDAVANAKKAD GP",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 32.9,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - VYPIN LAC - KANDATHIPARAMBU ROAD IN WARD - 3 EDAVANAKKAD GP",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 32.9,
+            "concurrence_lakhs": 32.9
+        },
+        {
+            "project_name": "MLA-ADS - 2022-23 - VYPIN LAC - CONSTRUCTION OF PAPPUNJI KADAV  ROAD  AND THODU SIDE PROTECTION  WORKS IN WARD 5 OF MULAVUKAD GP എന്ന പ്രവർത്തിക്ക് 2017-18 മുതൽ 2021-22 വരെയുള്ള ടെൻഡർ സേവിങ്‌സിൽ നിന്നും ടെൻഡർ എസ്സെസ് അനുവദിക്കുന്നത് - സംബന്ധിച്ച്",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 0.32,
+            "concurrence_lakhs": 0.32
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25 - VYPIN LAC - CONSTRUCTION OF PATTERIKULANGARA EAST  ROAD  DRAIN , LINK  ROAD  TILING  AND CULVER",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 13.5,
+            "concurrence_lakhs": 13.5
+        },
+        {
+            "project_name": "MLA-ADS - 2025-26 - VYPIN LAC - IMPROVMENTS  TO  MYTHRI  ROAD   WARD 9  KADAMAKUDY  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 12.5,
+            "concurrence_lakhs": 12.5
+        },
+        {
+            "project_name": "MLA-ADS - 2025-26 - VYPIN LAC - IMPROVMENTS  TO ST-MARYS  ROAD  WARD -6  KADAMAKUDY  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 49.0,
+            "concurrence_lakhs": 49.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-26 - VYPIN LAC - CONSTRUCTION OF BALABHADRA  ROAD   WARD 15  PALLIPURAM  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 34.0,
+            "concurrence_lakhs": 34.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-26 - VYPIN LAC - CONSTRUCTION OF SEMITHERY  ROAD  WARD-4 NJARAKKAL GP",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 22.5,
+            "concurrence_lakhs": 22.5
+        },
+        {
+            "project_name": "MLA-ADS - 2025-26 - VYPIN LAC - IMPROVMENTS TO SKVA  ROAD   WARD -14  NJARAKKAL GP",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.8,
+            "concurrence_lakhs": 15.8
+        },
+        {
+            "project_name": "MLA-ADS - 2025-26- VYPIN LAC - CONSTRUCTION OF SCHOOLMUTTAM EAST  ROAD  WARD - 10 OF ELAMKUNNAPUZHA GP",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 23.4,
+            "concurrence_lakhs": 23.4
+        },
+        {
+            "project_name": "MLA - ADS - 2025-26- VYPIN LAC - CONSTRUCTION OF   22   COLONY  ROAD   WARD 16   ELAMKUNNAPUZHA   GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 38.0,
+            "concurrence_lakhs": 38.0
+        },
+        {
+            "project_name": "MLA-ADS - VYPIN LAC - 2025-26 - MULAVUKAD ROAD 1 ST   PHASE TARRING",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 55.0,
+            "concurrence_lakhs": 55.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25 - VYPIN LAC - CONSTRUCTION OF ILLATHUPARAMBU (INDIRAJI)ROAD IN WARD 5 OF MULAVUKAD GP എന്ന പ്രവർത്തിക്ക് 2017-18 മുതൽ 2021-22 വരെയുള്ള ടെൻഡർ സേവിങ്‌സിൽ നിന്നും ടെൻഡർ എസ്സെസ് അനുവദിക്കുന്നത് - സംബന്ധിച്ച്",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 1.62,
+            "concurrence_lakhs": 1.62
+        },
+        {
+            "project_name": "MLA-ADS- 2022-23 - VYPIN  LAC -  CONSTRUCTION OF BUND CHIRA -MUKKAM BOAT JETTY ROAD  MULAVUKAD   GP -  എന്ന   പ്രവർത്തിക്ക്   2017-18 മുതൽ 2021-22 വരെയുള്ള ടെൻഡർ സേവിങ്‌സിൽ നിന്നും   ടെൻഡർ   എസ്സെസ്   അനുവദിക്കുന്നത് - സംബന്ധിച്ച്",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 1.5,
+            "concurrence_lakhs": 1.5
+        },
+        {
+            "project_name": "LIBRARY MODERNISATION AND SMART DIGITALISATION PROGRAMME—\r\n1.Vypin Govt. Arts & Science College\r\n2. Govt. Voccational H.S.S, Njarakkal\r\n3. Govt. Voccational H.S.S, Kadamakkudi\r\n4. Govt.H.S.S, Elamkunnapuzha\r\n5.Sahodara Bhavan (Cultural Affairs Department",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 61.66,
+            "concurrence_lakhs": 61.66
+        },
+        {
+            "project_name": "CONSTRUCTION OF CANAL ROAD SIDE PROTECTION , COVERING SLAB FOR EXISTING THODU AND ROAD TILING IN WARD 2 OF EDAVANAKKAAD GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-205 - VYPIN LAC - CONSTRUCTION OF CANAL ROAD SIDE PROTECTION , COVERING SLAB FOR EXISTING THODU AND ROAD TILING IN WARD 2 OF EDAVANAKKAAD GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA-ADS   2024-2025 - VYPIN LAC - CONSTRUCTION OF CULTURAL  FINE ARTS  ROAD  IN WARD - 2   OF MULAVUKAAD  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 21.15,
+            "concurrence_lakhs": 21.15
+        },
+        {
+            "project_name": "MLA-ADS - 2024-2025 VYPIN LAC - IMPROVEMENTS TO THE THOTTAKATH MATHEW ROAD IN WARD 5 OF KADAMAKUDY GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25--VYPIN LAC - CONSTRUCTION OF SCHOOLMUTTAM EAST JETTY ROAD IN WARD OF ELAMKUNNAPUZHA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 33.7,
+            "concurrence_lakhs": 33.7
+        },
+        {
+            "project_name": "MLA-ADS - 2023-24 - VYPIN LAC - FISH FARM ROAD  IN WARD 1  NJARACKAL  PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 46.0,
+            "concurrence_lakhs": 46.0
+        },
+        {
+            "project_name": "MLA-ADS 2024-2025 - VYPIN LAC - IMPROVEMENTS TO ST:JOHNS CHURCH ROAD IN WARD 2 OF KUZHUPPILLY  GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS -2024-25 - VYPIN LAC - CONSTRUCTION OF VEMBLAY  THODU ROAD AND CULVERT IN WARD   6 OF KUZHUPILLY  GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "MLA-ADS 2024-25 -   VYPIN LAC - CONSTRUCTION OF PATTERIKULANGARA LINK  ROAD  DRAIN   AND CULVERT , WARD 10 , 11 OF   PALLIPURAM  G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 13.5,
+            "concurrence_lakhs": 13.5
+        },
+        {
+            "project_name": "MLA-ADS 2024-2025  VYPIN LAC - MARIA LINE ROAD  CONSTRUCTION   IN   WARD 3  OF NAYARAMBALAM  G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 19.0,
+            "concurrence_lakhs": 19.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-2025  NAVAJEEVAN ANGANAWADI APPROACH  ROAD  AND   CULVERT  CONSTRUCTION  IN   WARD - 14  OF NAYARAMBALAM G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.5,
+            "concurrence_lakhs": 20.5
+        },
+        {
+            "project_name": "MLA-ADS -2024-25-VYPIN LAC - CONSTRUCTION OF CHERADI  ROAD AND CULVERT  IN   WARD 8  OF EDAVANAKKAD  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 33.3,
+            "concurrence_lakhs": 33.3
+        },
+        {
+            "project_name": "MLA-ADS 2023-2024 - VYPIN LAC - PAVING INTERLOCK TILES AT MULAVUKAD - BOLGATI  ROAT   FIRST PHASE IN MULAVUKAAD   GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 80.0,
+            "concurrence_lakhs": 80.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25-VYPIN LAC - CONSTRUCTION OF KAPPIKKADAVARAM LINK ROAD  IN WARD  14  OF MULAVUKAD GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.5,
+            "concurrence_lakhs": 12.5
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25 - VYPIN LAC - CONSTRUCTION OF ILLATHUPARAMBU (INDIRAJI)ROAD  IN WARD 5 OF MULAVUKAD GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.32,
+            "concurrence_lakhs": 16.32
+        },
+        {
+            "project_name": "MLA-ADS-2024-2025-VYPIN LAC - CONSTRUCTION OF  SOUTH MALIPURAM MAZJID  ROAD   IN WARD  -17  ELAMKUNNAPUZHA GP",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 38.43,
+            "concurrence_lakhs": 38.43
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25- VYPIN LAC - CONSTRUCTION OF FISHERIES ROAD  IN WARD 15,16 OF NJARAKKAL GP",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 60.5,
+            "concurrence_lakhs": 60.5
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25 - VYPIN LAC - CONSTRUCTION  ROAD  AND DRAIN  NERA JANATHA ROAD  IN   WARD -9  OF  ELEMKUNNAPPUZHA  PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 23.5,
+            "concurrence_lakhs": 23.5
+        },
+        {
+            "project_name": "MLA-ADS --2024-2025 - VYPIN LAC - FORMATION OF POZHIL  ROAD IN WARD 13 OF NJARAKKAL PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 41.7,
+            "concurrence_lakhs": 41.7
+        },
+        {
+            "project_name": "MLA-ADS - VAIPIN LAC - 2023-2024 - SIDE PRITECTION WORK  TO  EAST OF VASTHERI  BRODGE IN WARD  10  OF  PALLIPIURAM  PANCHAYATH",
+            "implementing_agency": "Executive  Engineer,Irrigation Division Ernakulam",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "MLA-ADS -2024-2025 - VYPIN LAC - CONSTRUCTION OF ANGANAWADI BUILDING WARD 13 OF KUZHUPILLY GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "MLA-ADS -2024-2025 - VYPIN LAC - 2024-25 -- CDS OFFICE CONSTRUCTION AT EDAVANAKKAD GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 19.3,
+            "concurrence_lakhs": 19.3
+        },
+        {
+            "project_name": "MLA-ADS  2024-2025 - VYPIN LAC - KALATHIYEDATH  SANKETHAM ROAD  SLUICE  CONSTRUCTION  IN WARD   4 OF  NAYARAMBALAM G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.6,
+            "concurrence_lakhs": 30.6
+        },
+        {
+            "project_name": "MLA-ADS  VYPIN LAC - 2023-2024  CONSTRUCTION OF AMBADI  ANGANAVADI NO:24  WARD -11 OF PALLIPURAM  G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 27.0,
+            "concurrence_lakhs": 27.0
+        },
+        {
+            "project_name": "MLA-ADS  VYPIN  LAC - 2023-2024  - CONSTRUCTION OF PRAKASH  ANGANAWADI  NO: 1   WARD -1 OF PALLIPURAM G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "MLA ADS-VYPIN LAC-CONSTRUCTION OF  VAYANASHALA ROAD WARD 15-MULAVUKAD GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA ADS-VYPIN LAC - 2023-24  NEDIYARA MARANA FUND ROAD WARD 11 PALLIPURAM  G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS   2023-2024   VYPIN LAC -CONSTRUCTION OF THAJAL LINK  ROAD IN WARD – 1 ELAMKUNNAPUZHA GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA ADS-VYPIN LAC-CONSTRUCTION OF DRAIN AND IMPROVEMENTS OF SN SANGAM SOUTH WEST ROAD  IN W-15 OF EDAVANCKKAD GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA ADS- 2023-2024  - VYPIN LAC - CONSTRUCTION OF  TILING EAST APPANGAD   BRIDGE   ROAD IN  WARD 9 OF NJARAKKAL GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA ADS-VYPIN LAC  - CONCRETING AND DRAIN AT LIBIN SAW MILL LINK ROAD IN WARD 22 OF PALLIPURAM GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA ADS - CONSTRUCTION  OF FRIENDS ROADS LINK ROAD IN  WARD 21 OF  ELAMKUNNAPUZHA  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS , VYPPIN LAC- 2023-2024 - MALIKAMUKKU LINK ROAD WARD 11 IN KADAMAKKUDY GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 11.0,
+            "concurrence_lakhs": 11.0
+        },
+        {
+            "project_name": "MLA-ADS   VYPIIN LAC - 2023-2024 -SETTLEMENT COLONY ROAD - WARD 20 - ELAMKUNNAPPUZHA  G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 36.7,
+            "concurrence_lakhs": 36.7
+        },
+        {
+            "project_name": "LAC VYPPIN TILING AT BHYAKKARA TEMPLLE ROAD NJARAKKAL GP WARD 10",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "INTERLOCK TILE WORK AND CONSTRUCTION OF DRAIN AT AZHEEKAL SHENOYS ROAD ,WARD -15 ,ELAMKUNNAPUZHA GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA ADS-VYPIN LAC-TILING OF PAYYAPILLY PAZHANGAD ROAD IN WARD 6-EDAVANAKKAD GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "2023-2024- VYPPIN MLA ADS- BALANCE WORK  SEA SHORE ROAD NAYARAMBHALAM GP",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "2023-2024- VYPPIN MLA ADS- BALANCE WORK  SEA SHORE ROAD NAYARAMBHALAM GP",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF PLAY GROUND OPEN STAGE, BOUNDARY WALL AND BEAUTIFICATION WORK OF MALIPPURAM MAIDANAM AT ELAMKUNNAPUZHA PANCHAYTH IN VYPIN CONSTITUENCY",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 99.4,
+            "concurrence_lakhs": 99.4
+        },
+        {
+            "project_name": "CONSTRUCTION OF MULTIPURPOSE PLAY GROUND , OPEN STAGE , PLAY AREA AT KACHERIPPADI GROUND & NDASH , PHASE 1 PALLIPURAM GP",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Sports",
+            "fy": "2022-2023",
+            "estimate_lakhs": 115.0,
+            "concurrence_lakhs": 115.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF DRAIN AND IMPROVMENTS OF S.N SANGHAM SOUTH WEST ROAD IN WARD 15 OF EDAVANAKKAD GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF SUBHRAMANYA SWAMY TEMPLE - CHIRA ROAD IN WARD 9 OF KUZHUPPILLY GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLAADS 2022-23-Supplying & Installation of Gas Furnace for Kadamakkudy Crematorium at Kadamakkudy GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 32.99,
+            "concurrence_lakhs": 32.99
+        },
+        {
+            "project_name": "MLA ADS-2022-2023-CONSTRUCTION OF MAHADEVA TEMPLE WEST ROAD IN WARD 4 OF KUZHUPPILLY GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 22.0
+        },
+        {
+            "project_name": "MLA ADS 2022-2023(2017-2018 Savings Amount)-Construction of Side Protection and Road in Cemetery Road in Ward 7 of Kuzhuppilly Grama Panchayath",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ഒരു പഞ്ചായത്തിൽ ഒരു കളിക്കളം പദ്ധതി -വൈപ്പിൻ നിയോജകമണ്ഡലത്തിലെ ഞാറക്കൽ ഗ്രാമ പഞ്ചായത്തിലെ ഞാറക്കൽ  ജയ്‌ഹിന്ദ്‌ മൈതാനം",
+            "implementing_agency": "Director,Sports & Youth Affairs, Vellayambalam, Thiruvananthapuram",
+            "category": "Sports",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF NJANODHAYA ANGANWADI NO.37 IN WARD 17 OF PALLIPPURAM GRAMA PANCHAYTH",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF BANK ROAD IN WARD 10 OF EDAVANAKKAD GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF KANDANADU KAPPELA  ROAD IN WARD 5 OF KADAMAKKUDY GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2018-2019",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "MLA ADS 2022-23-Construction of Bund Chira- Mukkam Boat Jetty Road in Ward-16- Mulavukad GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "Construction of Kuttickal road in ward-6 of Kadamakkudy GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "PURCHASE , ABOVE 17  SEATER SCHOOL BUS FOR G.V.H.S.S,KADAMAKKUDY",
+            "implementing_agency": "Deputy Director (Education)Ernakulam",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.92,
+            "concurrence_lakhs": 20.92
+        },
+        {
+            "project_name": "CONSTRUCTION OF CHOOLAKKAL ROAD MULAVUKAD GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF KANIPPILLY ROAD IN WARD 3 KADAMAKKUDY GRAMA PANCHAYAT",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF KOCHAMUKKU JUNCTION SOUTH ROAD IN ELAMKUNNAPUZHA GRAMA PANCHAYAT",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 23.6,
+            "concurrence_lakhs": 23.6
+        },
+        {
+            "project_name": "Const.of Pappunjikadavu Road and Thodu side prottection work ward 5 in Mulavukad GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 14.3,
+            "concurrence_lakhs": 14.3
+        },
+        {
+            "project_name": "Const.of Bustand Ambalapparambu road ward -1,Mulavukad GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 29.5,
+            "concurrence_lakhs": 29.5
+        },
+        {
+            "project_name": "Const.Of Priyadarshini Road in ward-4,Elamkunnappuzha GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "SIDE PROTECTION WORK AT VEERAPANCHIRA ROAD FIRST PHASE IN WARD 22 OF PALLIPPURAM GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.57,
+            "concurrence_lakhs": 16.57
+        },
+        {
+            "project_name": "Construction of Areeparambu Road in Ward-3 , Mulavukad GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 22.0
+        },
+        {
+            "project_name": "HARIJAN COLONY ROAD IN WARD 14 OF EDAVANAKKAD GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 14.95,
+            "concurrence_lakhs": 14.95
+        },
+        {
+            "project_name": "CONSTRUCTION OF MENACHERRY RAOD IN NJARAKKAL GP -",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.98,
+            "concurrence_lakhs": 15.98
+        },
+        {
+            "project_name": "MAITHRI ROAD CULVERT AND DRAIN IN WARD NO.2 OF KUZHUPPILLY GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 14.33,
+            "concurrence_lakhs": 14.33
+        },
+        {
+            "project_name": "Janasakthi road tiling and side protection in ward 2 of Kuzhuppilly Grama Panchayat",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "FORMATION AND SIDE PROTECTION OF PALLIYERIKKAL TEMPLE NORTH SOUTHBEXTENSION ROAD IN WARD NO.5 OF EDAVANAKKAD GRAMA PANCHAYAT",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 17.2,
+            "concurrence_lakhs": 17.2
+        },
+        {
+            "project_name": "IMPROVEMENTS TO AYURVEDA HOSPITAL IN PALLIPPURAM GRAMA PANCHAYAT",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Healthcare",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Const. of Bridge at Rajivji Road at ward. 13 of Njarakkal GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "Const. Sahakarana Road in ward 6 Kadamakkudy GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 12.5,
+            "concurrence_lakhs": 12.5
+        },
+        {
+            "project_name": "Const. Of Renkakala west road and drain with coverslab in ward-16 of Elamkunnapuzha GP _1",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.3,
+            "concurrence_lakhs": 20.3
+        },
+        {
+            "project_name": null,
+            "implementing_agency": null,
+            "category": "Others",
+            "fy": null,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "kn-unnikrishnan-mla_dvozpr"
+}

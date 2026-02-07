@@ -101,6 +101,7 @@ function HomePage() {
                                 Budget
                             </div>
                             <Link to="/initiatives" className="header-nav-link">Policies</Link>
+                            <Link to="/mla-fund" className="header-nav-link">Track Your MLA</Link>
                             <Link to="/mp-fund-dashboard" className="header-nav-link">MP Fund</Link>
                             <Link to="/about" className="header-nav-link">About</Link>
                         </nav>
@@ -184,6 +185,14 @@ function HomePage() {
                                     <span className="material-symbols-outlined">filter_alt</span>
                                 </div>
                                 <span>Filter Projects</span>
+                                <span className="material-symbols-outlined sidebar-action-arrow">chevron_right</span>
+                            </button>
+
+                            <button className="sidebar-action-btn sidebar-action-btn-highlight" onClick={() => navigate('/mla-fund')}>
+                                <div className="sidebar-action-icon">
+                                    <span className="material-symbols-outlined">account_balance</span>
+                                </div>
+                                <span>MLA Fund Insights</span>
                                 <span className="material-symbols-outlined sidebar-action-arrow">chevron_right</span>
                             </button>
                         </div>
@@ -335,12 +344,12 @@ function HomePage() {
                                 <div className="popup-icon">
                                     <span className="material-symbols-outlined">search</span>
                                 </div>
-                                <h2>Kerala Budget — real Kerala story 🔍</h2>
-                                <p>Where We Spend The Money, Where We Earned -Everything At One Click .</p>
+                                <h2>Know The Real KeralaStory</h2>
+                                <p>Where We Spend, Where We Earned Everything At One Click</p>
                                 <div className="popup-btn-group">
-                                    <Link to="/union-budget-glance" className="popup-cta-btn highlight">
+                                    <Link to="/mla-fund" className="popup-cta-btn highlight">
                                         <span className="material-symbols-outlined">auto_awesome</span>
-                                        Union Budget
+                                        Track Your MLA
                                     </Link>
                                     <Link to="/state-budget?year=2026-27" className="popup-cta-btn secondary">
                                         State Budget

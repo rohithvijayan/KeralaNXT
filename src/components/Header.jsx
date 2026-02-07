@@ -9,7 +9,8 @@ function Header({
     onBack,
     centerContent = null,
     rightContent = null,
-    showActions = true
+    showActions = true,
+    isDark = false
 }) {
     const navigate = useNavigate()
     const location = useLocation()
@@ -23,7 +24,7 @@ function Header({
     const isBudgetActive = location.pathname.includes('budget')
 
     return (
-        <header className="header">
+        <header className={`header ${isDark ? 'is-dark' : ''}`}>
             <div className="header-content">
                 <div className="header-left">
                     {showBack ? (
@@ -37,7 +38,7 @@ function Header({
                             <span className="material-symbols-outlined">account_balance</span>
                         </div>
                         <h1 className="header-logo-text">
-                            kerala<span>Story</span>
+                            Kerala<span>Story</span>
                         </h1>
                     </Link>
                 </div>
@@ -67,6 +68,7 @@ function Header({
                                 Budget
                             </div>
                             <Link to="/initiatives" className="header-nav-link">Policies</Link>
+                            <Link to="/mla-fund" className="header-nav-link">Track Your MLA</Link>
                             <Link to="/mp-fund-dashboard" className="header-nav-link">MP Fund</Link>
                             <Link to="/about" className="header-nav-link">About</Link>
                         </nav>

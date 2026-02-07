@@ -1,0 +1,597 @@
+{
+    "mla_name": "Shri Sajeev Joseph",
+    "constituency": "IRIKKUR",
+    "district": "Kannur",
+    "summary": {
+        "total_expenditure_crores": 20.087,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 14.1965
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 2.0913
+            },
+            {
+                "label": "Others",
+                "value_crores": 1.73
+            },
+            {
+                "label": "Education",
+                "value_crores": 1.4464
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.5
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 0.1228
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "ഇരിക്കൂര്‍ പഞ്ചായത്ത് ബസ് സ്റ്റാന്‍ഡില്‍ ആധുനീക രീതിയില്‍ ബസ് ഷെല്‍ട്ടര്‍ നിര്‍മ്മാണം പ്രവൃത്തി",
+            "implementing_agency": "Secretary Irrikur Gramapanchayath",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 11.0,
+            "concurrence_lakhs": 11.0
+        },
+        {
+            "project_name": "ഇരിക്കൂര്‍ നിയോജക മണ്ഡലത്തിലെ വിവിധ കേന്ദ്രങ്ങളില്‍ മിനിമാസ്റ്റ് LED ലൈറ്റുകള്‍ സ്ഥാപിക്കുന്ന പ്രവൃത്തി.",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 75.0,
+            "concurrence_lakhs": 75.0
+        },
+        {
+            "project_name": "ഇരിക്കൂര്‍ നിയോജക മണ്ഡലത്തിലെ വിവിധസ്ഥലങ്ങളില്‍  റോഡ്‌ നിര്‍മ്മാണം പ്രവൃത്തി .",
+            "implementing_agency": "Secretary Sreekandapuram Municipality",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 38.65,
+            "concurrence_lakhs": 38.65
+        },
+        {
+            "project_name": "ഗവ. യു.പി സ്കൂള്‍ പഴയങ്ങാടിയില്‍ ഫെന്‍സിങ്ങോട്കൂടിയ ഗ്രൌണ്ട് നിര്‍മ്മാണ പ്രവൃത്തി",
+            "implementing_agency": "Secretary Sreekandapuram Municipality",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ശ്രീകണ്ഠാപുരം നഗരസഭയിലെ -മടമ്പം മേരി ലാന്‍ഡ് എച്ച്.എസ് ടോയിലറ്റ് നിര്‍മ്മാണം",
+            "implementing_agency": "Secretary Sreekandapuram Municipality",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഇരിക്കൂര്‍ നിയോജകമണ്ഡലം -2025-26)  ആലക്കോട്ട് ഗ്രാമ പഞ്ചായത്ത്‌ ഇലക്ട്രിഫിക്കേഷന്‍.",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD ELECTRICAL DIVISION KANNUR",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 39.0,
+            "concurrence_lakhs": 39.0
+        },
+        {
+            "project_name": "ബഹു. ഇരിക്കൂര്‍ നിയോജക മണ്ഡലം എം.എല്‍.എ  ശ്രീ. സജീവ് ജോസഫ് അവര്‍കളുടെ 2025-26 സാമ്പത്തിക വര്‍ഷത്തിലെ ആസ്തി വികസന ഫണ്ടില്‍ നിന്നും നടപ്പാക്കുന്ന പ്രവൃത്തികള്‍ ആലക്കോട് ഗ്രാമ പഞ്ചായത്തിലെ എ) ദാരാപ്പം കുന്ന് - മുളകുവള്ളി റോഡ് പ്രവൃത്തി,ബി) പെരുവട്ടം - കുളത്വവാ റോഡ് പ്രവൃത്തി ,സി) ഞാറ്റുതോട്ടി കവല - ചെറുകുളം തോട് - ശാലോം നഗര്‍ റോഡ് പ്രവൃത്തി.\r\n\r\nഡി) പനംകുറ്റി - നേതാജി റോഡ് പ്രവൃത്തി",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "ബഹു. ഇരിക്കൂര്‍ നിയോജക മണ്ഡലം എം.എല്‍.എ  ശ്രീ. സജീവ് ജോസഫ് അവര്‍കളുടെ 2025-26 സാമ്പത്തിക വര്‍ഷത്തിലെ ആസ്തി വികസന ഫണ്ടില്‍ നിന്നും 30 ലക്ഷം രൂപ ചെലവഴിച്ച്,ഉദയഗിരി ഗ്രാമ പഞ്ചായത്തിലെ എ) മധുവനം - എ.കെ.ജി പടി റോഡ് പ്രവൃത്തി,ബി) കാര്‍ത്തിക പുരം സ്റ്റേഡിയം - കുടക്കചിറപ്പടി റോഡ് പ്രവൃത്തി,സി)തെങ്ങനചാലില്‍ പടി - പെരുമുണ്ട നൂറക്കര്‍ റോഡ് പ്രവൃത്തി -",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "എരുവശ്ശേരി ഗ്രാമ പഞ്ചായത്തിലെ 1. വെണ്ണായി പള്ളികവല കുളിരാനി റോഡ് നിര്‍മ്മാണം, 2. കൂട്ടക്കളം കല്ലുളി കടവ് റോഡ് , എന്നീ  പ്രവൃത്തികള്‍",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "എരുവശ്ശേരി ഗ്രാമ പഞ്ചായത്തിലെ 1. വെണ്ണായി പള്ളികവല കുളിരാനി റോഡ് നിര്‍മ്മാണം  2. കൂട്ടക്കളം കല്ലുളി കടവ് റോഡ്  എന്നീ  പ്രവൃത്തികള്‍",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എരുവശ്ശേരി ഗ്രാമ പഞ്ചായത്തിലെ 1. വെണ്ണായി പള്ളികവല കുളിരാനി റോഡ് നിര്‍മ്മാണം 2. കൂട്ടക്കളം കല്ലുളി കടവ് റോഡ്  എന്നീ  പ്രവൃത്തികള്‍",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ബഹു. ഇരിക്കൂര്‍ നിയോജക മണ്ഡലം എം.എല്‍.എ  ശ്രീ. സജീവ് ജോസഫ് അവര്‍കളുടെ 2025-26 സാമ്പത്തിക വര്‍ഷത്തിലെ ആസ്തി വികസന ഫണ്ടില്‍ നിന്നും,ചെങ്ങളായി ഗ്രാമ പഞ്ചായത്തിലെ (എ) തവറൂള്‍ കടവ്  റോഡും അനുബന്ധ പ്രവൃത്തികളും - 10 ലക്ഷം,(ബി) കുളത്തൂര്‍ തൊണ്ടച്ചന്‍ ദേവസ്ഥാനം റോഡ് പ്രവൃത്തി - 10 ലക്ഷം,",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ബഹു. ഇരിക്കൂര്‍ നിയോജക മണ്ഡലം എം.എല്‍.എ  ശ്രീ. സജീവ് ജോസഫ് അവര്‍കളുടെ 2025-26 സാമ്പത്തിക വര്‍ഷത്തിലെ ആസ്തി വികസന ഫണ്ടില്‍ നിന്നും 50 ലക്ഷം രൂപ ചെലവഴിച്ച് നിര്‍മ്മിക്കുന്ന വിവധ റോഡ്‌ നിര്‍മ്മാണ പ്രവര്‍ത്തികള്‍",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "Community Hall for Alakkode Grama Panchayath Electrification-General Election Work",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD ELECTRICAL DIVISION KANNUR",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 12.28,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "THAVAKKUNNU UDUMBAN CHEETHA BYPASS ROAD (NADUVIL GRAMA PANCHAYATH)",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "നടുവില്‍ ഗ്രാമ പഞ്ചായത്തിലെ താവക്കുന്ന് ഉടുംമ്പംചീത്ത ബൈപ്പാസ് റോഡ് പ്രവൃത്തി",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "എരുവശ്ശേരി ഗ്രാമ പഞ്ചായത്തിലെ,\r\n1. ഏഴരകുണ്ട് ജലപാത റോഡ് നിര്‍മ്മാണം (15 ലക്ഷം), \r\n2. ചുണ്ടക്കുന്ന് അംഗണവാടി - നെല്ലിയാട്ടു പറമ്പ റോഡ് പ്രവൃത്തി  (10 ലക്ഷം)",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ഉളിക്കല്‍ ഗ്രാമ പഞ്ചായത്തിലെ \r\nഎ) ചീരംകരി - പ്രിയദര്‍ശിനി റോഡ് പ്രവൃത്തി, \r\nബി) മയംമുക്ക് കലുങ്ക് ജംഗ്ഷന്‍ - മലമൂട് റോഡ് പ്രവൃത്തി,  \r\nസി) തെങ്ങനാല്‍ - വട്ടക്കവലയയില്‍ റോഡ് പ്രവൃത്തി, \r\nഡി) പരിക്കളം - കൊടാപറമ്പ് റോഡ് പ്രവൃത്തി, \r\nഇ) ചക്കാല കവിട് - ചപ്പുങ്കരി റോഡ് പ്രവൃത്തി, \r\nഎഫ്) പേര ചുവട് - കുഞ്ചിലിക്കാട്ട് പടി റോഡ് പ്രവൃത്തി",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "പയ്യാവൂര്‍ ഗ്രാമ പഞ്ചായത്തിലെ,\r\nഎ) എടാട്ട് കവല - ഉപ്പു പടന്ന - മൂഴിയില്‍ കവല  റോഡും അനുബന്ധ പ്രവൃത്തികളും,\r\nബി) മലയോര ഹൈവേ - കൈനിക്കര കുറിഞ്ചിറ വയല്‍ റോഡ് പ്രവൃത്തി.",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "നടുവില്‍ ഗ്രാമ പഞ്ചായത്തിലെ a) തേര്‍മല മുത്തായംകുന്ന് കോളനി റോഡ്‌ നവീകരണം,  b)  വേങ്കുന്ന്  പുതുശ്ശേരിക്കവല റോഡ്‌ നവീകരണം  c) ജോണ്‍ മാത്യു റോഡ്‌ നവീകരണം.",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "നടുവയല്‍ ഗ്രാമ പഞ്ചായത്തിലെ മണ്ഡലം സെന്‍റ് ജോര്‍ജ്ജ് ഓയംവയല്‍ റോഡ് ടാറിംഗ്",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഉളിക്കല്‍ ഗ്രാമ പഞ്ചായത്തിലെ മുണ്ടാനൂര്‍ - കാവുംകരി റോഡ് ടാറിംഗ് പ്രവര്‍ത്തി",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "എരിവശേരി ഗ്രാമ പഞ്ചായത്തില്‍  a)ചുണ്ടക്കുന്ന് -എക്ലി -മുയിപ്ര റോഡ്‌ പ്രവൃത്തി, b)കരിവല്ലേരി ജങ്ക്ഷന്‍ -ഹോളി ക്രോസ് പൂപ്പറമ്പ റോഡില്‍ കലുങ്ക് നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "MLAADS-2024-25-IRIKKUR LAC A) VENGALODU AANARA ROAD(10),B)MANKUNNU VAYAL AMBEDKAR COLONY ROAD(15)GENARAL CIVIL WORK IN ULIKKAL GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "MLAADS 2024-25 IRIKKUR LAC MANNAMKUND VETTIKKAL ROAD CONSTRUCTION IN ERUVESSY GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLAADS-2024-25 IRIKKUR LAC-AANAKUZHI ST COLONY ROAD IN NADUVIL GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLAADS-2024-25 IRIKKUR LAC-SEBASTIAN ROAD,KOONAM-COMPANY ROAD,PARIPPAYI-KOKKUNNU ROAD RENOVATION",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "MLAADS-2024-25 IRIKKUR LAC AALATHODI 2ND STREET ROAD IMPROVEMENT,B)SEMINARI PAISSAI ROAD CONCRETE,(C)PATTUVAM KOLOD NEDULALLUR DIANAMOS GROUND ROAD CONCRETE.",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "MLAADS-2024-25 IRIKKUR LAC PADIVILANG-AMBEDKAR ROAD,ULIKKUNNU-KANDAKASSERI ROAD,ANAPPARA-KURISHINKALKALAPPURA ROAD-UPGRADATION IN PAYYAVOOR GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "MLAADS-2024-25 IRIKKUR LAC-CHEEKAD ANATHODU KALUNK NIRMMAANAM,THAALIPPAARA EPREPPADI ROAD RENOVATION,MADHATHILPADI KAAMALA ROAD RENOVATION",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "MLAADS-2024-25 IRIKKUR LAC -NJALLIMAKKAL KAVALA-THOLAMBUZHAPADI ROAD(10), THALIPARA-ERUVAM VAYAL ROAD(10),KATTAAYI-AALAPPURAPPADI ROAD(10) RENOVATION",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "MLAADS-2024-25 IRIKKUR LAC -ARANGAM-UDAYAM ROAD ,PRUNILAM-ANANDABHAVAN ROAD, PATHAYAMKUND -CHAPPARAMALA ROAD, RAYAROM-BEEMBUMKAADU JALANIDHI ROAD RENOVATION WORK",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "MLAADS-2024-25 IRIKKUR LAC-ONE PANCHAYATH ONE PLAYGROUND-DEVELOPMENT OF ULIKKAL GHSS GROUND IN ULIKKAL GP",
+            "implementing_agency": "CHIEF ENGINEER SPORTS KERALA FOUNDATION",
+            "category": "Sports",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "MLAADS-2024-25-IRIKKUR LAC-ODACHAM VAYAL-VANJOOR(10),KAIVETTICHAL-ALEXNAGAR(10),THRIKADAMBU-THALAKKAAMCHEETHA-VANJOOR(10)",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "MLAADS-2023-24 IRIKKUR LAC-ROOFING FOR ASSEMBLY AREA TO SREEKANDAPURAM GOVT HSS",
+            "implementing_agency": "Secretary Sreekandapuram Municipality",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 72.0,
+            "concurrence_lakhs": 72.0
+        },
+        {
+            "project_name": "MLAADS-2023-24-IRIKUR LAC- CONSTRUCTION OF FAROOQ NAGAR -ADUVAPURAM ROAD DRAINAGE",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA ADS 202324-IRIKKUR LAC-Construction of side protection work  in  Kattakayam Vattakund road  Irikkur GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "MLA ADS 2023-24 IRIKKUR LAC VALAPP-NAGA THATT-MOONAM KUPP ROAD WORK -NADUVIL GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA ADS-2023-24 IRIKKUR LAC-MULAK VALLI-PATTAKULAM ROAD,MUNDACHAL HOMEO ROAD,HIPPIKAVALA-MAHATMA ROAD AT NADUVIL GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "MLA ADS-2023-24-A)CHUZHALI-UNDACHERY THOLOOR ROAD,B)MARUTHENITHATTU-THERTHALA ROAD,C)VALAKAI LP SCHOOL- AANPATTAM ROAD,D)NADAYIL PEEDIKA-ARANOOR-NJALIL ROAD",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "MLA ADS 2023-24-PALAMPADI CULVERT AT PALAMPADI-MUNNOORKOCHI ROAD AT NADUVIL GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA-ADS-2023-24 1)Moonnamthidu-Kolathinalmala road,2)Thundipadi-Kurishukunnelpadi Road,3)Alinka thaazhath-kuttivelipadi road-genaral civil work.",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "MLAADS-2023-24-CONSTRUCTION OF COLVERT AT MUTHARIKULAM-KALIKUZHI ROAD IN PAYYAVUR GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLAADS-2023-24-IRIKKUR LAC 1)Vannaayikkadavu-chanakund-kaalikkandi road,2)Kallolip-pilakkavmala road,3)Kunnolkadavu-Karikkankunnu-Ettupara road,4)kottatikavala-Santhigiri nagar road,5)Sharanamkuzhi-Kunnathur road",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "MLAADS-2023-24 a)Pulikkal kavala-Varikkal thottippadi road,b)Kottappara-Aanara road,c)Ancham company-Kocheripalam road, d)Kallamthodmadham-Ancham company road.",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 42.0,
+            "concurrence_lakhs": 42.0
+        },
+        {
+            "project_name": "LAC ADS 2022-23-IRIKKUR LAC-MOORIKKADAVU-MAMBUZHAPPUZHA ROAD IN UDAYAGIRI GP(chainage0/270to0/492km)",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA ADS-2022-23-IRIKKUR LAC-INSTALLATION OF SOLAR POWER FENCING AT UDAYAGIRI PANCHAYATH THALIPARAMBA RANGE KANNUR DIVISION(CHAINAGE 9.00 TO 11.00 KM)",
+            "implementing_agency": "SECRETARY, UDAYAGIRI GRAMAPANCHAYATH",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "MLA ADS-IRIKKUR LAC-2023-24-CONSTRUCTION OF1) KS Mangattukunnel Road,2)Shivagiri-Pallolikavala Road in Eruvessy GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "CONSTRUCTION OFCULVERT AT NEDUVODE POOKAD ROAD IN ALAKODE GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA-ADS-IRIKKUR-LAC -OTTAMUNDA-KURISHUPALLI-PALUMCHEETHA COLONY RD,KAKKADAV-PAALAKKALPADI RD,OTTATHAI-SNEHAGIRI RD,JAYAGIRI-MOTANIPARA RD",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 42.0,
+            "concurrence_lakhs": 42.0
+        },
+        {
+            "project_name": "Naduvil Uthoor Kannadippara road -Naduvil Grama Panchayath",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "MLA ADS-2023-24 Purchase of School Bus for Irikkur govt Higher Secondary School",
+            "implementing_agency": "Deputy Director of Education Kannur",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.37,
+            "concurrence_lakhs": 22.37
+        },
+        {
+            "project_name": "MLA ADS- 2023/24- PURCHASE OF SCHOOL BUS FOR KANIYANCHAL-GHSS",
+            "implementing_agency": "Deputy Director of Education Kannur",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.2,
+            "concurrence_lakhs": 22.2
+        },
+        {
+            "project_name": "MLA ADS- 2023-24-IRIKKUR LAC-PURCHASE OF SCHOOL BUS -NUCHIYAD G.U.P",
+            "implementing_agency": "Deputy Director of Education Kannur",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.2,
+            "concurrence_lakhs": 22.2
+        },
+        {
+            "project_name": "കോറക്കുഴി വടക്കെമുറി ജംങ്ഷന്‍ കല്ലൂര്‍ റോഡ്,ഇടമന കിഴക്കെക്കര പാലം ജംങ്ഷന്‍  റോഡ്,മദര്‍തെരേസ കവല വട്ടക്കുന്നേല്‍കവല രാജീവ് ഗാന്ധി റോഡ് എരുവേശി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "ഏലപ്പാറ - ശശിപ്പാറ റോഡ്,മടക്കകുരിശുപള്ളി-മുണ്ടക്കകവല റോഡ്,ഏറ്റുപാറ-മദര്‍തെരേസ റോഡ്,കുന്നത്തൂര്‍ അംഗന്‍വാടി-കോളിത്തട്ട് കുന്നത്തൂര്‍പാടി റോഡ് പയ്യാവൂര്‍ ഗ്രാമപഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 46.0,
+            "concurrence_lakhs": 46.0
+        },
+        {
+            "project_name": "ഇരിക്കൂര്‍ പാലം മുതല്‍ മാമാനം അമ്പലം -നിലാമുറ്റം വരെ PWD റോഡിന്‍റെ ഒരുവശത്ത് ഫൂട്ട്പാത്ത് ഹാന്‍റ് റെയില്‍ ഉള്‍പ്പെടെ നിര്‍മാണം",
+            "implementing_agency": "Executive Engineer PWD Roads Division kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 75.0,
+            "concurrence_lakhs": 74.99
+        },
+        {
+            "project_name": "അപ്പര്‍ കാലാങ്കി ടോപ്പ്സ്റ്റേഷന്‍ റോഡ്,കയനി കൊമ്പന്‍പാറ റോഡ്,അഞ്ചാം കമ്പനി കൊച്ചേരിപ്പാലം റോഡ് ഉളിക്കല്‍ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 42.0,
+            "concurrence_lakhs": 42.0
+        },
+        {
+            "project_name": "പെരുമ്പള്ളി കരുമാങ്കായം റോഡില്‍ GUPS സമീപം കലുങ്ക് ഡ്രൈനേജ്,പീടിക കുന്ന് കമ്പിപ്പാലം ആനപ്പാറ റോഡിലെ കലുങ്ക് -ഉളിക്കല്‍ ഗ്രാമപഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 22.0
+        },
+        {
+            "project_name": "മണ്ഡലം ടൌണ്‍ സെന്‍റ് ജോര്‍ജ് നഗര്‍ റോഡ്,മണ്ണംകുണ്ട് തട്ട്കുന്ന് റോഡ്,തുരുമ്പി മഞ്ഞുമല പാലക്കയം തട്ട് റോഡ്,മഹാത്മ റോഡ് 143. നടുവില്‍ ഗ്രാമപഞ്ചായത്ത്.(ഒറ്റ പ്രവൃത്തി)",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 41.0,
+            "concurrence_lakhs": 41.0
+        },
+        {
+            "project_name": "കോറങ്ങോട്- കൊമ്പനാല്‍പടി- തോപ്പില്‍പടി റോഡ് ശ്രീകണ്ഠാപുരം നഗരസഭ",
+            "implementing_agency": "Secretary Sreekandapuram Municipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "നെടുവോട് സിഎച്ച് നഗര്‍ റോഡില്‍ കലുങ്ക് നിര്‍മാണം,അരങ്ങം കുരിടികൊല്ലി റോഡില്‍ കലുങ്ക് നിര്‍മാണം ആലക്കോട് ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "മൂരിക്കടവ് കപ്പിമല ബൈപാസ് റോഡ്,ഉപ്പന്‍ മാക്കല്‍പടി മുതുശ്ശേരി റോഡ്,മാമ്പൊയില്‍ ചിറക്കല്‍പടി സ്കൂള്‍ റോഡ്.ഉദയഗിരി ഗ്രാമപഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കുച്ചം കുരിശുമല റോഡ്,ചോന്നമ്മക്കോട്ടം എള്ളരിഞ്ഞി റോഡ്,പൊടിക്കളം പന്ന്യാല്‍ റോഡ്,കട്ടായി കരയത്തും ചാല്‍ റോഡ് ശ്രീകണ്ഠാപുരം നഗരസഭ.",
+            "implementing_agency": "Secretary Sreekandapuram Municipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "പച്ചാണി ചീത്തചെമ്മരം എളയാട് റോഡ്,മേലേരം തട്ട്-അചാര്‍കൊല്ലി റോഡ് ആലക്കോട് ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "പനംകുറ്റി അംഗനവാടി കെട്ടിട നിര്‍മാണം ആലക്കോട് ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കൊയ്യം എല്‍പി സ്കൂള്‍ മുനമ്പ് കടവ് റോഡ്,കൊളത്തൂര്‍ പുറ്റടക്കം വട്ടപ്പാറ റോഡ്,അഞ്ചങ്ങാടി തോപ്പിലായി റോഡ്,സ്വാമിമഠം വെള്ളായിതട്ട് റോഡ് ചെങ്ങളായി ഗ്രാമപഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "ഇരിക്കൂര്‍ നിയോജകമണ്ഡലത്തിലെ പ്രധാന കേന്ദ്രങ്ങളില്‍ മിനിമാസ്റ്റ് എല്‍.ഇ.ഡി ലൈറ്റുകള്‍ സ്ഥാപിക്കല്‍(35 എണ്ണം)",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Electricity",
+            "fy": "2021-2022",
+            "estimate_lakhs": 79.13,
+            "concurrence_lakhs": 78.7
+        },
+        {
+            "project_name": "ഉളിക്കല്‍ ഗവ. ഹയര്‍സെക്കൻ്‍ററി സ്കൂളിന് പുതിയ ബസ് വാങ്ങല്‍ ഉളിക്കല്‍ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Deputy Director of Education Kannur",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.87,
+            "concurrence_lakhs": 20.87
+        },
+        {
+            "project_name": null,
+            "implementing_agency": null,
+            "category": "Others",
+            "fy": null,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "9_sajeev_joseph_irikkoor_py2lq2"
+}

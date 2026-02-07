@@ -1,0 +1,637 @@
+{
+    "mla_name": "Shri Antony John",
+    "constituency": "KOTHAMANGALAM",
+    "district": "Ernakulam",
+    "summary": {
+        "total_expenditure_crores": 19.0292,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 11.7992
+            },
+            {
+                "label": "Others",
+                "value_crores": 1.8142
+            },
+            {
+                "label": "Education",
+                "value_crores": 1.535
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 1.48
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.987
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 0.8303
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 0.4335
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.15
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "MLA-ADS - 2025-2026 - KOTHAMANGALAM LAC - POOCHAKUTHU MUSLIM PALLI  ROAD  TILING IN WARD - 2   OF PINDIMANA GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS -2024-2025 - KOTHAMANGALAM LAC - 2024-25 - ISTALLATION OF SOLAR TRAFIC SIGNAL SYSTEM AT THANGALAM JUNCTION",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 19.96,
+            "concurrence_lakhs": 19.96
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - KOTHAMANGALAM  LAC - CONSTRUCTIOM OF BRIDGE  ACROSS  KUROOR  THODU  FOR   TOWN HALL",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 200.0,
+            "concurrence_lakhs": 200.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - KOTHAMANGALAM LAC - RENOVATION OF PLAY  GROUND  FOR KUTTAMPUZHA  GOVT : HSS",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Sports",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - KOTHAMANGALAM   LAC - CONSTRUCTION OF VALIYAKAVU  AMBALAPARAMBU ROAD  VALIKAVU  ANGANAWADI  ROAD  IN WARD : 15",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 11.2,
+            "concurrence_lakhs": 11.2
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - KOTHAMANGALAM LAC - CONSTRUCTION  OF LEFT  BUND  ROAD  BETWEEN CH.2/000KM  AND  2/268 KM   OF   MAIN  CANAL",
+            "implementing_agency": "Executive Engineer, PVIP Div I Perumbavoor",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA-ADS- 2023-2024 - KOTHAMANGALAM LAC- 50 NUMBER OF 7 MEETERS MINI HIGH MAST OCTOGONAL POLE WITH 60 W LED LIGHT SYSTEM AT THANGALAM KOZHIPILLY NEW BYEPASS",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 43.35,
+            "concurrence_lakhs": 43.35
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - KOTHAMANGALAM LAC - MANIMARUTHUMCHAL MENTHANDU EETTICHUVADU  ROAD   WARD 7  IN   KAVALANGAD  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - KOTHAMANGALAM LAC - KARSHIKA  VIPANANA  KENDRAM NAVEEKARANAM  WARD -2   OF KEERAMPARA GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-2025 - KOTHAMANGALAM LAC - CONSTRUCTION OF CULVERT AR VELLARAMKUTH COLONY CHANJAPLACKAL PADY IN KUTTAMPUZHA GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 42.0,
+            "concurrence_lakhs": 42.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - KOTHAMANGALAM LAC - CONSTRUCTION OF RAMALLOOR KP  LINK  ROAD IN   WARD 4 KOTHAMANGALAM  MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026- KOTHAMANGALAM   LAC - CONSTRUCTION OF   EMBASSERY  NURSERY  ROAD  IN WARD 3 OD KOTHAMANGALAM MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 11.0,
+            "concurrence_lakhs": 11.0
+        },
+        {
+            "project_name": "MLA-ADS - KOTHAMANGALAM LAC - 2025-26 - MAINTENANCE  OF KSRTC  ROAD  IN WARD 17 KOTHAMANGALAM MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026- KOTHAMANGALAM LAC - CONSTRUCTION OF INDIRA GANDHI COLLEGE OF THURUTH ELAMBRA 314  ROAD  WARD 10 IN NELLIKUZHI GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - KOTHAMANGALAM LAC - CHEMBIKODE  CHEENIKUTH  SC  NAGAR  ROAD  CONSTRUCTION   IN WARD - 11 OF  KEERAMBARA GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - KOTHAMANGALAM LAC - CONCRETING OF CHAKKANAKAVU PARA  LINK  ROAD  WARD 21  IN NELLIKUZHI G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS - 2025-2026 - KOTHAMANGALAM LAC  - CONSTRUCTION OF PAREKKARA PV ISSAC  ROAD IN   WARD 8 OF NELLIKUZHY G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-2025 - KOTHAMANGALAM LAC - CONSTRUCTION OF STADIUM PATHRACHALICHIRA  ROAD IN WARD 2 OF NELLIKUZHU G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25 - KOTHAMANGALAM LAC - PURCHASE MAHINDRA BOLERO CAMPER VEHICLE 2 NUMBER FOR INJATHOTTI FOREST STATION AND NAGARAMPARA FOREST STATION",
+            "implementing_agency": "DIVITIONAL FOREST OFFICER , MUNAR DIVITION , DEVIKULAM",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 22.46,
+            "concurrence_lakhs": 22.46
+        },
+        {
+            "project_name": "MLA-ADS -  2024-25 - KOTHAMANGALAM LAC - CONSTRUCTION OF THERAKUDI THALAVACHAPPAARA  ROAD IN WARD -6 OF KUTTAMPUZHA  GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25 - KOTHAMANGALAM LAC - CONSTRUCTION OF THATTEKKAD  GOVT:UPS   SCHOOL  BUILDING COMPLETION AND   BOUNDARY WALL  IN KUTTAMPUZHA G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25 - KOTHAMANGALAM LAC - CONSTRUCTION OF CHEENAKUZHY CANAL PALAM MUTHUKKADANPPADY  ROAD IN WARD 5 KOTTAPADY GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.1,
+            "concurrence_lakhs": 12.1
+        },
+        {
+            "project_name": "MLA-ADS - 2024-2025 - KOTHAMANGALAM LAC - CONSTRUCTION OF KAMALA SURAYYA NAGAR HIGH LEVEL  CANAL SUPER  PASS  LINK  ROAD IN WARD 10  OF PINDIMANA  GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25 - KOTHAMANGALAM LAC - THONIKANDAM PARAYITHOTTAM  ROAD   WARD -8  KEERAMPARA  GP   KOTHAMANGALAM BP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25 - STREETLINE LAYING   AT PUNNEKKATT   TO THATTEKKAD  BRIDGE  IN  KEERAMPARA GP",
+            "implementing_agency": "EXICUTIVE ENGINEER , ELECTRICAL DIVISION ,MUVATTUPUZHA",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.16,
+            "concurrence_lakhs": 10.16
+        },
+        {
+            "project_name": "MLA-ADS - KOATHAMANGALAM LAC - 2024-25 - CONSTRUCTION OF KARUKADAM CHELIKKUZHITHANDU  ANGANAWADI  ROAD   IN WARD   26  OF KOTHAMANGALAM MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA-ADS - KOTHAMANGALAM - LAC - 2024-25 - CONSTRUCTION  VALIYAPALLIKUNNU  THOUDU (MALAYINKEEZHU  KOZHIPILLY  THODU)  IN WARD NO : 17  IN KOTHAMANGALAM MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "MLA-ADS - KOTHAMANGALAM LAC - 2024-25 - PROTECTING THE RIGHT  BANK OF KOTHAMANGALAM RIVER  AT KARUKKUNNAM IN WARD 22 OF KOTHAMANGALAM MUNICIPALITY",
+            "implementing_agency": "Executive  Engineer,Irrigation Division Ernakulam",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-2025 - KOTHAMANGALAM LAC - CONSTRUCTION OF KANIYARPADAM PALAKKOTTU FARM ROAD WARD -12 IN VARAPETTY GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA-ADS , KOTHAMANGALAM LAC - 2023-2024- SITE OF GD  FOR NEW BLOCK - SITC OF DG SET   AC UNITS AND UPS IN NEW CASUALTY AND DIALYSIS BLOCK UNDER  THALUK HOSPITAL AT KOTHAMANGALAM",
+            "implementing_agency": "EXECUTIVE ENGINEER  PWD ELECTRICAL DIVISION THRISSUR",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-2025- KOTHAMANGALAM LAC - CONSTRUCTION OF NAMBOORICHAL  ROAD  IN WARD 4   OF KOTTAPPADY G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-2025 , KOTHAMANGALAM LAC - CONSTRUCTION OF KUTTILANJI - IRAMALLOOR - RESHAN KADA PADI CANAL  ROAD   IN WARD -14 OF NELLIKUZHI G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 21.0,
+            "concurrence_lakhs": 21.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25 - KOTHAMANGALAM LAC - CONSTRUCTION OF MALIKEPEEDIKA - CHAKKUMCHIRA  ROAD IN WARD 21  OF NELLIKUZHI  G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25 - KOTHAMANGALAM LAC - CONSTRUCTION OF CULVERT AT VELLARAMKUTH  COLONY CHANJAPLACKAL  PADY IN  KUTTAMPUZHA  G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 36.3,
+            "concurrence_lakhs": 36.3
+        },
+        {
+            "project_name": "MLA-ADS 2023-2024  KOTHAMANGALAM   LAC - CONSTRUCTION OF   PARKING GROUND  NEAR IRAMALLUR CHIRA   OF   NELLIKUZHY GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "MLA-ADS-2023-2024- കോതമംഗലം LAC - നെല്ലിക്കുഴി പഞ്ചായത്തിലെ 3-)0 വാർഡിലെ പഞ്ചായത്തുംപടി - നായ്ക്കൻ കോളനി റോഡ് - ഇടനാട് വികാസ് കോളനി റോഡ് (അൽ അമൽ റോഡ്)   നിർമാണം",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 16.92,
+            "concurrence_lakhs": 16.92
+        },
+        {
+            "project_name": "MLA-ADS -2023-2024- KOTHAMANGALAM LAC - CONSTRUCTION OF APPROACH  ROAD    KUDAMUNDA  BRIDGE  IN KAVALANGAD   AND VARAPETTY GRAMA  PANCHAYATH",
+            "implementing_agency": "Executive  Engineer,Irrigation Division Ernakulam",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "MLA-ADS - 2023-2024- KOTHAMANGALAM LAC - PAIMATTOM GOV:UP SCHOOL  BUILDING  CONSTRUCTION  IN PALLARIMANGALAM GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA-ADS 2023-2024  KOTHAMANGALAM LAC - SITC OF LIFT   AND CONNECTED ACCESSORIES IN CASUALITY AND DIALYSIS UNIT AT   THQ HOSPITAL  AT KOTHAMANGALAM",
+            "implementing_agency": "EXECUTIVE ENGINEER  PWD ELECTRICAL DIVISION THRISSUR",
+            "category": "Healthcare",
+            "fy": "2023-2024",
+            "estimate_lakhs": 32.7,
+            "concurrence_lakhs": 32.7
+        },
+        {
+            "project_name": "MLA-ADS - 2023-2024 - KOTHAMANGALAM LAC - PURCHASE FOF SCHOOL BUS (20+D SEET)  FOR GLPS VENDUVAZHY",
+            "implementing_agency": "Deputy Director (Education)Ernakulam",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.5,
+            "concurrence_lakhs": 22.5
+        },
+        {
+            "project_name": "MLA-ADS - 2023-2024-KOTHAMANGALAM LAC - PURCHASE OF SCHOOL BUS (17+D SEET) FOR GLPS THRIKARIYOOR",
+            "implementing_agency": "Deputy Director (Education)Ernakulam",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 21.0,
+            "concurrence_lakhs": 21.0
+        },
+        {
+            "project_name": "MLA-ADS-- 2023-2024- KOTHAMANGALAM LAC - PURCHASE SCHOOL BUS (20+D SEET)  FOR GLPS KOTTAPADY  NORTH SCHOOL",
+            "implementing_agency": "Deputy Director (Education)Ernakulam",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.5,
+            "concurrence_lakhs": 22.5
+        },
+        {
+            "project_name": "MLA-ADS   2023-2024 - KOTHAMANGALAM LAC - PURCHASE  NEW SCHOOL  BUS   FOR  GUPS  KUTTILANJI",
+            "implementing_agency": "Deputy Director (Education)Ernakulam",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.5,
+            "concurrence_lakhs": 22.5
+        },
+        {
+            "project_name": "MLA-ADS -2023-2024, KOTHAMANGALAM LAC - NCONCREATING OF MAHIMAPADI ANGANAWADI 90 CENT SOUTH  ROAD IN WARD 9  AT KAVALANGAD GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "MLA-ADS - KOTHAMANGALAM LAC -2023-2024 - CONSTRUCTION  OF   ANGANAWADY IN  WARD 11  PALLARIMANGALAM G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "MLA-ADS - 2023-2024 , KOTHAMANGALAM LAC - COMPLETION OF JAWARHAR COLONY   COMMUNITY HALL IN   WARD 1 - KOTHAMANGALAM MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "MLA-ADS 2023-2024  KOTHAMANGALAM LAC - COMPLETION OF THRIKKARIYOOR SUB CENTRE BUILDING AT AYAKADAVU- NELLIKUZHY  G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.03,
+            "concurrence_lakhs": 17.03
+        },
+        {
+            "project_name": "MLA-ADS  2022-2023 -KOTHAMANGALAM LAC - SREE:ANTONY JOHN MLA - CONSTRUCTION OF CASUALITY AND DIALYSIS UNIT  AT GOVT:TALUK HEAD QUARTERS HOSPITAL KOTHAMANGALAM PHASE II",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Healthcare",
+            "fy": "2023-2024",
+            "estimate_lakhs": 66.0,
+            "concurrence_lakhs": 66.0
+        },
+        {
+            "project_name": "KOTHAMANGALAM LAC - CONSTRUCTION OF  SIDE PROTECTION WALL AT KOOTTIKKULAM BRIDGE IN WARD -10 OF KUTTAMPUZHA G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 22.0
+        },
+        {
+            "project_name": "PVIP CONSTRUCTION OF SIDE PROTECTION WORKS TO LEFT BUND OF HIGH LEVEL CANAL FROM CH1/250 TO CH 1/600 KM",
+            "implementing_agency": "Executive Engineer, PVIP Div I Perumbavoor",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "RECONSTRUCTION OF RIGHT SIDE BUND ROAD OF PANELI F C  CH:1/000 KM TO 2/000 KM- GENERAL WORKS",
+            "implementing_agency": "Executive Engineer, PVIP Div I Perumbavoor",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "RECONSTRUCTION OF INSPECTION ROAD (RIGHT SIDE BUND) OF MAIN CANAL IN BETWEEN CH:4/200 TO 7/800 KM - TARRING - GENERAL CIVIL WORK",
+            "implementing_agency": "Executive Engineer, PVIP Div I Perumbavoor",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 36.5,
+            "concurrence_lakhs": 36.5
+        },
+        {
+            "project_name": "RECONSTRUCTION OF INSPECTION ROAD ( RIGHT SIDE BUND) OF MANIN CANAL IN BETWEEN CH:0/000KM TO 4/000 KM - TARRING - GENERAL CIVIL WORKS",
+            "implementing_agency": "Executive Engineer, PVIP Div I Perumbavoor",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 34.5,
+            "concurrence_lakhs": 34.5
+        },
+        {
+            "project_name": "RECONSTRUCTION OF LEFT SIDE BUND OF HIGH LEVEL CANAL FROM CH:0.00 KM TO 4.00 KM AND RIGHT SIDE BUND OF HLC FROM CH.1.000 TO 2.000 KM",
+            "implementing_agency": "Executive Engineer, PVIP Div I Perumbavoor",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 55.0,
+            "concurrence_lakhs": 55.0
+        },
+        {
+            "project_name": "RECONSTRUCTION OF RIGHT SIDE BUND OF HIGH LEVEL CANAL FROM CH:4/000 KM TO 6/300 KM - GENERAL CIVIL WORKS",
+            "implementing_agency": "Executive Engineer, PVIP Div I Perumbavoor",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 22.0
+        },
+        {
+            "project_name": "RECONSTRUCITON OF LEFT SIDE BUND ROAD OF HLC BETWEEN CH:07/500 KM TO 08/500 KM -  GENERAL CIVIL WORK",
+            "implementing_agency": "Executive Engineer, PVIP Div I Perumbavoor",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.0,
+            "concurrence_lakhs": 11.0
+        },
+        {
+            "project_name": "RECONSTRUCTION OF INSPECTION ROAD (RIGHT SIDE BUND) OF LLC IN BETWEEN CH:7/800 TO 13/600 KM-TARRING- GENERAL CIVIL WORK",
+            "implementing_agency": "Executive Engineer, PVIP Div I Perumbavoor",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 51.0,
+            "concurrence_lakhs": 51.0
+        },
+        {
+            "project_name": "RECONSTRUCTION OF INSPECTION ROAD (LEFT SIDE BUND) OF LLC IN BETWEEN CH:7/800 TO 09/300 KM - TARRING - GENERAL CIVIL WORK",
+            "implementing_agency": "Executive Engineer, PVIP Div I Perumbavoor",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 24.0,
+            "concurrence_lakhs": 24.0
+        },
+        {
+            "project_name": "RECONSTRUCTION OF INSPECTION ROAD (LEFT SIDE BUND) OF MULAVOOR BRANCH CANAL IN BETWEEN CH:0/300 TO 5/500 KM- GENERAL CIVIL WORK",
+            "implementing_agency": "Executive Engineer, PVIP Div I Perumbavoor",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 44.0,
+            "concurrence_lakhs": 44.0
+        },
+        {
+            "project_name": "Re-Construction of Inspection road (Left side bund) of Thankalam MD in between ch:0/000 to 01/700- Tarring - general civil work",
+            "implementing_agency": "Executive Engineer, PVIP Div I Perumbavoor",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "RECONSTRUCTION OF LEFT SIDE BUND ROAD OF CHERUVATTOOR M D BETWEEN Ch.0/800km to 1/600km- General Civil Work.",
+            "implementing_agency": "Executive Engineer, PVIP Div I Perumbavoor",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "KOTHAMANGALAM MUNICIPALITY - GANAPATHIAMABALAM VALIYAPARA ROAD TARRING IN WARD X",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.11,
+            "concurrence_lakhs": 11.11
+        },
+        {
+            "project_name": "VALIYAPARA-AMBALAPARAMBU ROAD IN WARD X - KOTHAMANGALAM MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 23.26,
+            "concurrence_lakhs": 23.26
+        },
+        {
+            "project_name": "CONSTRUCTION OF CREMATORIUM ROAD THROUGH RUBBER ESTATE ROAD IN KOTHAMANGALAM MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.87,
+            "concurrence_lakhs": 30.87
+        },
+        {
+            "project_name": "RE-CONSTRUCTION OF CULVERT AT PAPPACHANPADY IN WARD-6 KUTTAMPUZHA GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 31.0,
+            "concurrence_lakhs": 31.0
+        },
+        {
+            "project_name": "TARRING OF ROAD AT REVENUE TOWER, KOTHAMANGALAM",
+            "implementing_agency": "KERALA STATE HOUSING BOARD, ERNAKUALAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.79,
+            "concurrence_lakhs": 11.79
+        },
+        {
+            "project_name": "CONSTRUCTION OF CREMATORIUM ROAD THROUGH DUMPING YARD  IN KOTHAMANGALAM MUNICIPALITY.",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 56.1,
+            "concurrence_lakhs": 56.1
+        },
+        {
+            "project_name": "GANAPATHIAMBALAM - VALIYAPARA ROAD RETARRING IN WARD  X- IN KOTHAMANGALAM MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.11,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "RE-CONSTRUCTION OF CULVERT AT PAPPACHANPADY IN WARD6-KUTTAMPUZHA GRAMA PANCHAYT",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 31.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Stadium Auditorium road concrete in ward no.2 of nellikuzhy GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "Completion of Women Cultural Centre in ward 11 of Kottappady GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 44.0,
+            "concurrence_lakhs": 44.0
+        },
+        {
+            "project_name": "Construction of Modern Bus Terminal at KSRTC Depot Kothamangalam Phase II",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2021-2022",
+            "estimate_lakhs": 46.0,
+            "concurrence_lakhs": 46.0
+        },
+        {
+            "project_name": "Construction of Kozhippilly Parakkadav Kulikadav Footpath in Ward 2 of Varappetty GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "ernakulam_shri_antony_john_placeholder"
+}

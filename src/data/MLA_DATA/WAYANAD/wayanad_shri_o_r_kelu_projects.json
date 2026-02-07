@@ -1,0 +1,557 @@
+{
+    "mla_name": "Shri O. R. Kelu",
+    "constituency": "MANANTHAVADY",
+    "district": "Wayanad",
+    "summary": {
+        "total_expenditure_crores": 19.306,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 9.8518
+            },
+            {
+                "label": "Education",
+                "value_crores": 3.75
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 3.17
+            },
+            {
+                "label": "Others",
+                "value_crores": 2.5342
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "താന്നിക്കൽ പ്രണവം വായനശ്ശാല ഹാൾ നിർമ്മാണം",
+            "implementing_agency": "PWD Buildings Division Kalpetta",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "വട്ടക്കുനിഹൈസ്കൂൾറോഡ് നിർമ്മാണം",
+            "implementing_agency": "PWD ROADS DIVSION KALPETTA",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പുളിമൂട് കുന്ന് റോഡ് പൂർത്തികരണം തിരുനെല്ലി ഗ്രാമപഞ്ചായത",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "പഴഞ്ചന റോഡ്-മുത്തറ അംഗൻവാടി കോൺക്രീറ്റ്",
+            "implementing_agency": "PWD ROADS DIVSION KALPETTA",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കാപ്പംകുന്ന് അംഗനവാടി -പള്ളിവയൽ റോഡ് സൈഡ് കെട്ട്",
+            "implementing_agency": "PWD ROADS DIVSION KALPETTA",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "എം.എൽ.എ -എ.ഡി.എഫ് മാനന്തവാടി നിയോജകമണ്ഡലം -തിരുനെല്ല്ലി ഗ്രാമപഞ്ചായത്ത്   പ്ലാമൂല ഫോറസ്റ്റ് സെറ്റിൽമെന്റ് മുള്ളൻകൊല്ലി റോഡ് കോൺക്രീറ്റ്",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "\"വെള്ളമുണ്ട എ.കെ.കെ റോഡ് കോണ്‍ക്രീറ്റ്\"",
+            "implementing_agency": "PWD ROADS DIVSION KALPETTA",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "\"പണിച്ചിപ്പാലം മുസ്ലീംപള്ളി  റോഡ്  സൈഡ് കെട്ട്, കോണ്‍ക്രീറ്റ്\"",
+            "implementing_agency": "PWD ROADS DIVSION KALPETTA",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "\"ആറോല പുല്ലുകുറിഞ്ഞി യവനാര്‍കുളം റോഡ് കോണ്‍ക്രീറ്റ്\"",
+            "implementing_agency": "PWD ROADS DIVSION KALPETTA",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "\"വലിയകുന്ന് ചെറുപുഷ്പഗിരി കരിക്കാറ്റില്‍ റോഡ് കോണ്‍ക്രീറ്റ്\"",
+            "implementing_agency": "PWD ROADS DIVSION KALPETTA",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 24.0,
+            "concurrence_lakhs": 24.0
+        },
+        {
+            "project_name": "\"വാളാട് മേപ്പാടന്‍കുന്ന് റോഡ് കോണ്‍ക്രീറ്റ്\"",
+            "implementing_agency": "PWD ROADS DIVSION KALPETTA",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "\"തരുവണ ഗവര്‍മെന്റ് യു. പി. സ്കൂളിന് ബസ്\"",
+            "implementing_agency": "Deputy Director of Education",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "\"അയനിക്കല്‍ കല്ലന്‍പുഴ-അയനിക്കല്‍ റോഡ് കോണ്‍ക്രീറ്റ്\"",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "\"കാട്ടറപള്ളി കൊയിലേരി റോഡ് ടാറിംഗ്\"",
+            "implementing_agency": "PWD ROADS DIVSION KALPETTA",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "\"അടയാട്ട് ചുണ്ടക്കുന്ന് എസ്.സി. ഉന്നതി റോഡ് കോണ്‍ക്രീറ്റ്\"",
+            "implementing_agency": "PWD ROADS DIVSION KALPETTA",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "\"പുത്തങ്ങാടി പണിയ ഉന്നതി റോഡ് കോണ്‍ക്രീറ്റ്\"",
+            "implementing_agency": "PWD ROADS DIVSION KALPETTA",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "\"ഇല്ലത്തുവയല്‍ കള്‍വര്‍ട്ട് നിര്‍മ്മാണം\"",
+            "implementing_agency": "PWD ROADS DIVSION KALPETTA",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "\"മാംബെ തിയ്യേരിക്കൊല്ലി റോഡ് സൈഡ് കെട്ട് കോണ്‍ക്രീറ്റ്\"",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "\"ഉദിരച്ചിറ റോഡ് ടാറിംഗ്\"",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "പ്രശാന്തഗിരി കിഴക്കേടത്ത് കോളിച്ചാല്‍ റോഡ് കോണ്‍ക്രീറ്റ്",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "\"പാടുകാണ - വേമം കോളനി - കനാൽ റോഡ് കോണ്‍ക്രീറ്റിംഗ്\"",
+            "implementing_agency": "PWD ROADS DIVSION KALPETTA",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "പാറപ്പുറം - അയനിമല റോഡ് കോൺക്രീറ്റ്",
+            "implementing_agency": "PWD ROADS DIVSION KALPETTA",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "അനന്തോത്ത് കുളിയൻകണ്ടി കോളനി റോഡ് സൈഡ് കെട്ട് കോൺക്രീറ്റ്",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "MDY LAC MLA-ADF 2023 -24 - തവിഞ്ഞാൽ , വെള്ളമുണ്ട ഗ്രാമ പഞ്ചായത്തുകളിലെ വിവിധ സ്ഥലങ്ങളിൽ ലോ മാസ്ററ് സ്ഥാപിക്കൽ",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "മതിശ്ശേരി കാപ്പുകുന്ന് - മനക്കൽ പുതിയ കോളനി റോഡ്  ടാറിംഗ്",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "വയനാട് മെഡിക്കൽ കോളേജിൽ ഡയാലിസിസ് സെൻറ്ററിന് RO പ്ലാൻറ് ഉൾപ്പടെ അടിസ്ഥാന സൗകര്യം ഒരുക്കൽ",
+            "implementing_agency": "Superintendent ,District Hospital, Mananthavady",
+            "category": "Healthcare",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "കരിമ്പുമ്മൽ -വാളേരി റോഡ് കോൺക്രീറ്റ്",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "'എടവക  ഗ്രാമപഞ്ചായത്തിലെ പുതിയിടം കുന്ന്  , പൈങ്ങാട്ടേരി , മാനന്തവാടി ഗവ.കോളേജ് ബസ് സ്റ്റോപ്പ് ,പായോട് , കാരക്കുനി , കാപ്പുംചാൽ ,പുലിക്കാട് , കുന്നമംഗലം , മാനന്തവാടി പോളിടെക്‌നിക്‌ ജംഗ്ഷൻ , തോണിച്ചാൽ -ഇരുമ്പ് പാലം , കാവണകുന്ന് , ഇടഞ്ചേരി നാല് സെൻറ് കോളനി , കൊയിലേരി - കമ്മന പാലം എന്നീ സ്ഥലങ്ങളിൽ  ലോമാസ്റ്റ് ലൈറ്റ്  സ്ഥാപിക്കൽ'",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "തോണിച്ചാൽ അംബേദ്കർ ആശുപത്രി റോഡ് ഐറിഷ് ഡ്രൈനേജ് നിർമ്മാണം",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ഒഴക്കോടി കുളങ്ങര അമ്പലം റോഡ് കോൺക്രീറ്റ്",
+            "implementing_agency": "PWD ROADS DIVSION KALPETTA",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "വള്ളിയൂർക്കാവ് - ഫയർസ്റ്റേഷൻ - കാവണ കോളനി - പള്ളിയറക്കൊല്ലി റോഡ് സൈഡ് കെട്ട്, കോൺക്രീറ്റ്",
+            "implementing_agency": "PWD ROADS DIVSION KALPETTA",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കെല്ലൂർ എൽ.പി സ്കൂൾ ഡൈനിംഗ് ഹാളും സ്റ്റേജും നിർമ്മാണം",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പുളിഞ്ഞാൽ-ക്രിസ്തുരാജ ഓട്ടപ്പള്ളി പടി റോഡ് സൈഡ് കെട്ട്, ടാറിംഗ്",
+            "implementing_agency": "Secretary Vellamunda Gramapanchayath",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "പേരേറ്റക്കുന്ന് കുടുംബശ്രീ പരിശീലന കേന്ദ്രം",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കോറോം പി.എച്ച്.സി കെട്ടിടം",
+            "implementing_agency": "PWD Buildings Division Kalpetta",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "ബാവലി എടക്കോട് റോഡ് കോൺക്രീറ്റ്",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "മീൻകൊല്ലി കോളനി റോഡ് ഫോർമേഷൻ",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "മാനന്തവാടി ഗവണ്‍മെന്‍റ് വൊക്കേഷണൽ ഹയർസെക്കണ്ടറി സ്കൂള്‍ ഓഡിറ്റോറിയം നിർമ്മാണം പൂർത്തീകരണം",
+            "implementing_agency": "PWD Buildings Division Kalpetta",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "എട്ട്കയം - പരാരി റോഡ് സൈഡ് കെട്ട് കോണ്‍ക്രീറ്റ്",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കോക്കുഴി മാനിയിൽ കോളനി റോഡ് കോണ്‍ക്രീറ്റ്",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "അരിമന്ദംകുന്ന് റോഡ് സൈഡ് കെട്ട് ഫോർമേഷന്‍",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ആലാന്‍പടി - പഴഞ്ചന അങ്കണ്‍വാടി റോഡ് കോണ്‍ക്രീറ്റ്",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "മാനന്തവാടി മെഡിക്കൽ കോളേജ് പൂർത്തീകരണ പ്രവൃത്തികള്‍",
+            "implementing_agency": "PWD Buildings Division Kalpetta",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "മെഡിക്കൽ കോളേജിന് ഉപകരണങ്ങളും ഫർണിച്ചറും വാങ്ങൽ",
+            "implementing_agency": "Superintendent ,District Hospital, Mananthavady",
+            "category": "Healthcare",
+            "fy": "2017-2018",
+            "estimate_lakhs": 267.0,
+            "concurrence_lakhs": 267.0
+        },
+        {
+            "project_name": "മെഡിക്കൽ കോളേജ് മുതൽ താഴെയങ്ങാടി വരെയുള്ള റോഡ് കോണ്‍ക്രീറ്റ്",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.0,
+            "concurrence_lakhs": 11.0
+        },
+        {
+            "project_name": "പനവല്ലികൊല്ലി കോളനി - മാപ്പിളകൊല്ലി റോഡ് ഫോർമേഷന്‍",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "വെള്ളോട്ട് - കല്ലുമൊട്ടംകുന്ന് സംരക്ഷണ ഭിത്തി നിർമ്മാണം",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "തോല്‍പ്പെട്ടി ജി.എച്ച്.എസ് ഗ്രൗണ്ട് നിര്‍മ്മാണം",
+            "implementing_agency": "PWD Buildings Division Kalpetta",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "മണിയന്‍കുന്ന് - അയനിവളവ് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "വയനാട് മെഡിക്കൽ കോളേജ് മോർച്ചറിയിൽ ഫ്രീസർ , മോഡേൺ ഓട്ടോപ്‌സി ടേബിൾ എന്നിവ സ്ഥാപിക്കൽ",
+            "implementing_agency": "Superintendent ,District Hospital, Mananthavady",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.18,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ദാസനക്കര മുതൽ കൂടൽ കടവ് വരെ സോളാർ ഹാങ്ങിങ് ഫെൻസിങ് സ്ഥാപിക്കൽ",
+            "implementing_agency": "District Forest  Officer, South Wayanad Division",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.42,
+            "concurrence_lakhs": 25.42
+        },
+        {
+            "project_name": "മാനന്തവാടി ഗവ.നേഴ്സിങ് കോളേജ് കെട്ടിടത്തിന്റെ മുൻവശവും പിൻവശവും സംരക്ഷണ ഭിത്തി നിർമ്മാണം",
+            "implementing_agency": "PWD Buildings Division Kalpetta",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 170.0,
+            "concurrence_lakhs": 170.0
+        },
+        {
+            "project_name": "വർക്കിംഗ് വിമൻസ് ഹോസ്റ്റൽ അപ്പ്രോച്ച് റോഡ്",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ഇല്ലത്തുമൂല കാത്തിരിക്കൽ-ചോയിമൂല റോഡ് സൈഡ് പ്രൊട്ടക്ഷൻ & കോൺക്രീറ്റ്",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ഒഴക്കൊല്ലി-ദൈവസ്ഥലം റോഡ് കോൺക്രീറ്റിംഗ്, ടാറിംഗ്",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "നീർവാരം ഗവ.ഹയർ സെക്കണ്ടറി സ്കൂളിന് പാചകപ്പുര നിർമ്മാണം",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "അരീക്കര-എ.കെ.കെ റോഡ് കോൺക്രീറ്റ്",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പാൽവെളിച്ചം മുതൽ ബാവലി വരെ സോളാർ ഹാങ്ങിങ് ഫെൻസിങ് സ്ഥാപിക്കൽ",
+            "implementing_agency": "Divisional forest officer North wayanad division",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.5,
+            "concurrence_lakhs": 25.5
+        },
+        {
+            "project_name": "അരണപ്പാറ റേഷൻകട മുതൽ തോൽപ്പെട്ടി വരെ സോളാർ ഹാങ്ങിങ് ഫെൻസിങ് സ്ഥാപിക്കൽ",
+            "implementing_agency": "Divisional forest officer North wayanad division",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 29.75,
+            "concurrence_lakhs": 29.75
+        },
+        {
+            "project_name": "മേലെ വരയാൽ മുതൽ താരാഭായി വരെ സോളാർ ഹാങ്ങിങ് ഫെൻസിങ് സ്ഥാപിക്കൽ",
+            "implementing_agency": "Divisional forest officer North wayanad division",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.5,
+            "concurrence_lakhs": 12.5
+        },
+        {
+            "project_name": "ഇരുമ്പുപാലം   മുതൽ കാപ്പികണ്ടി  വരെ സോളാർ ഹാങ്ങിങ് ഫെൻസിങ് സ്ഥാപിക്കൽ",
+            "implementing_agency": "Divisional forest officer North wayanad division",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 51.0,
+            "concurrence_lakhs": 51.0
+        },
+        {
+            "project_name": "ഓലഞ്ചേരി  മുതൽ കാപ്പികണ്ടി  വരെ സോളാർ ഹാങ്ങിങ് ഫെൻസിങ് സ്ഥാപിക്കൽ",
+            "implementing_agency": "Divisional forest officer North wayanad division",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "മുത്തുമാരി മുതൽ ചാത്തനാട് വരെ സോളാർ ഹാങ്ങിങ് ഫെൻസിങ് സ്ഥാപിക്കൽ",
+            "implementing_agency": "Divisional forest officer North wayanad division",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.5,
+            "concurrence_lakhs": 25.5
+        },
+        {
+            "project_name": "കാപ്പിക്കണ്ടി മുതൽ കാളിന്ദി കോളനി വരെ സോളാർ ഹാങ്ങിങ് ഫെൻസിങ് സ്ഥാപിക്കൽ",
+            "implementing_agency": "Divisional forest officer North wayanad division",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.75,
+            "concurrence_lakhs": 12.75
+        },
+        {
+            "project_name": "കോട്ടൂർ അംഗനവാടിക്ക് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "lsgd, engineering wing",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "wayanad_shri_o_r_kelu_placeholder"
+}

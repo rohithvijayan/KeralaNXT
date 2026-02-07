@@ -1,0 +1,593 @@
+{
+    "mla_name": "Shri V. R. Sunil Kumar",
+    "constituency": "KODUNGALLUR",
+    "district": "Thrissur",
+    "summary": {
+        "total_expenditure_crores": 19.8627,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 5.845
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 4.3506
+            },
+            {
+                "label": "Education",
+                "value_crores": 3.0
+            },
+            {
+                "label": "Others",
+                "value_crores": 2.627
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 1.515
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 1.1851
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.5
+            },
+            {
+                "label": "Water Supply",
+                "value_crores": 0.44
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.4
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "KODUNGALLUR LAC - MLA-ADS-2025-26 - CONSTRUCTION OF NEW MUNICIPAL OFFICE BUILDING AT KODUNGALLUR – SECOND PHASE – CONSTRUCTION OF FIRST FLOOR",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 275.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KODUNGALLUR LAC - MLA ADS 2022-23 - CONSTRUCTION OF PUTHENCHIRA SMART VILLAGE OFFICE AT MUKUNDAPURAM TALUK, THRISSUR DISTRICT",
+            "implementing_agency": "സംസ്ഥാന നിര്‍മ്മിതി കേന്ദ്രം, തൃശ്ശൂര്‍",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KODUNGALLUR LAC - MLA-ADS-2025-26 - RENNOVATION OF UDUMBUTHURUTHI THODU – SIDE PROTECTION OF UDUMBUTHURUTHY THODU (START FROM POYYA PULIPARAMP ROAD) IN WARD 11 IN POYYA GRAMAPANCHAYATH",
+            "implementing_agency": "ഇറിഗേഷന്‍ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 28.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KODUNGALLUR LAC - CONSTRUCTION OF NEW BUILDING AND ENTRANCE GATEWAY FOR RAMAVILASAM GOVT. L. P. SCHOOL, KURUVILASSERY IN MALA GRAMAPANCHAYATH, THRISSUR DISTRICT",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 125.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KODUNGALLUR LAC - MLA-ADS-2024-25 - CONSTRUCTION OF VANIYAMPADAM ROAD IN PUTHENCHIRA GP WARD 05, VELLANGALLUR BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KODUNGALLUR LAC MLA-ADS-2024-25- LIFT FACILITIES IN VELLANGALLUR GP IN VELLANGALLUR BLOCK PANCHAYATH",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KODUNGALLUR LAC - MLA-ADS-2023-24- CONSTRUCTION OF NEW STAFF QUARTERS FOR FAMILY HEALTH CENTRE, PUTHANCHIRA IN VELLANGALLUR BP",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Healthcare",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KODUNGALLUR LAC - MLA-ADS-2024-25 - CONSTRUCTION OF NEW BUILDING FOR ANGANWADI NO. 79, KUZHUR GP IN MALA BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KODUNGALLUR LAC - MLA ADS 2024-25 - GOVERNMENT U P SCHOOL KONATHUKUNNU, THRISSUR DISTRICT, CONSTRUCTION OF TOILET BLOCK AND ASSOCIATED WORKS IN VELLANGALLUR GP",
+            "implementing_agency": "Kerala State Coastal Area Development Corporation Limited (KSCADC)",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KODUNGALLUR LAC - MLA ADS 2023-24 - SUPPLY AND INSTALLATION OF 04 HIGH MAST LIGHTS AT VARIOUS PLACES OF KODUNGALLUR LAC - KODUNGALLUR MUNICIPALITY, ANNAMANADA GP, PUTHENCHIRA GP",
+            "implementing_agency": "SILK, BEPOOR, KOZHIKKODE",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.71,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "SUPPLY AND INSTALLATION OF 04 NOS OF HIGH MAST LIGHTS AT VARIOUS PLACES OF KODUNGALLUR LAC",
+            "implementing_agency": "SILK, BEPOOR, KOZHIKKODE",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 21.8,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "SUPPLY AND INSTALLATION OF 37 NOS OF MINI MAST LIGHTS AT VARIOUS PLACES OF KODUNGALLUR LAC",
+            "implementing_agency": "SILK, BEPOOR, KOZHIKKODE",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 74.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KODUNGALLUR LAC MLA ADS 2024-25 - RECONSTRUCTION OF VARIOUS ROADS IN KODUNGALLUR MUNICIPALITY- PALIYAM THURUTH LP SCHOOL ROAD WARD 20, AGATHI MANDIRAM ROAD WARD 10, THURUTH ROAD WARD 10, MANNARATHAZHAM KAYALORAM ROAD WAD 16",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് - നിരത്തുകളും പാലങ്ങളും",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 72.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KODUNGALLUR LAC - MLA ADS- 2024-25- CONSTRUCTION OF NEW BUILDING FOR ANGANWADI NO. 37, MALA GP  IN MALA BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KODUNGALLUR LAC- MLA ADS 2024-25 - CONSTRUCTION OF ST. MARYS KRISHNANKOTTA ROAD, POYYA GP WARD 14  IN MALA BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KODUNGALLUR LAC - MLA ADS 2024-25 - CONSTRUCTION OF THANKULAM AMBALAM PLAVINMURI  ROAD, POYYA GP IN MALA BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KODUNGALUR LAC - MLA ADS 2024-25 - CONSTRUCTION OF WEST KORATTY CANAL BUND ROAD, ANNAMANADA GP IN MALA BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KODUNGALLUR LAC - MLA-ADS-2024-25- CONSTRUCTION OF LIS POOKKOTTUPADAM ROAD IN KUZHUR GP WARD 12 IN MALA BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KODUNGALLUR LAC- MLA ADS - 2024-25- CONSTRUCTION OF VATTAKKOTTA KANAKAKKUNNU MALA HOSPITAL ROAD IN POYYA GP IN MALA BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KODUNGALLUR LAC- MLA ADS 2024-25 - CONSTRUCTION OF KUNDOOR KANIYARATH ROAD IN KUZHUR GP IN MALA BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KODUNGALLUR LAC- MLA-ADS 2024-25- CONSTRUCTION OF MAMBRA ANGANWADI NO. 107, ANNAMANADA GP IN MALA BP.",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KODUNGALLUR LAC- MLA ADS- 2024-25- CONSTRUCTION OF MAMBRA ANGANWADI NO. 107, ANNAMANADA GP IN MALA BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KUZHUR GRAMAPANCHAYATH - CONSTRUCTION OF FOOT PATH, OPEN FITNESS GYM, PEDAL BOATS AROUND POLAKULAM",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KODUNGALLUR LAC - MLA ADS 2024-25 - POYYA GRAMAPANCHAYATH - CONSTRUCTION OF PLAVIDA AMBALATHAZHAM ROAD",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KODUNGALLUIR LAC - 2024-25 MLA ADS -MALA GRAMAPANCHAYATH WARD 03- CONSTRUCTION OF BUILDING FOR ANGANWADI NUMBER 41 IN ANNALLUR",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KODUNGALLUR LAC - MALA GRAMA PANCHAYATH WARD 03- CONSTRUCTION OF BUILDING FOR ANGANWADI NO. 41 IN ANNALLUR",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "GOVERNMENT UP SCHOOL KONATHUKUNNU, THRISSUR DISTRICT – CONSTRUCTION OF KITCHEN SHED – CIVIL AND ELECTRICAL WORK",
+            "implementing_agency": "Kerala State Coastal Area Development Corporation Limited (KSCADC)",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "POYYA KADAVU - TRANSFORMER ROAD",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF NEW BUILDING FOR USHAS ANGANVADI -KODUNGALLUR MUNICIPALITY",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF INDIAN PHARMACY BYLANE ROAD IN WARD 5 OF KODUNGALLUR MUNICIPALITY",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 21.5,
+            "concurrence_lakhs": 21.4
+        },
+        {
+            "project_name": "CONSTRUCTION OF PUZHAYORAM ROAD IN POYYA G P",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF PUZHAYORAM ROAD IN POYYA G P",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF PUZHAYORAM ROAD IN POYYA G P",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF NEW BUILDING FOR USHAS ANKANAVADI NO. 110 IN WARD 12 OF KODUNGALLUR MUNICIPALITY",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF ERAVATHUR MOONNUMURI MELATHURUTHU AMBILITHARA ROAD-KUZHUR GP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF PROTECTION OF PARAMEL THRIKKOVIL SRI KRISHNA TEMPLE POND UNDER TRAVANCORE DEVASWAM, PUTHENCHIRA G P",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF NEEW BUILDING FOR KUNNATHUKADU ANGANVADI IN WARD 17 OF MALA G P",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF PUTHURUTHY MUTTAKADAVU ROAD IN WARD 12 OF KUZHUR G P",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF POZHOLIPARAMBIL ROAD, ANNAMANADA G P",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF SALT WATER  EXTRUSION SLUICE IN KANDEKKADU THODU  NEAR PADANNA AT WARD 30 OF KODUNGALLUR MUNICIPALITY",
+            "implementing_agency": "ഇറിഗേഷന്‍ വകുപ്പ്",
+            "category": "Water Supply",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF MADATHRA MALAYAMKUNNU ROAD-ANNAMANADA G P",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "KODUNGALLUR LAC-CONSTRUCTION OF CLUB ANJILIPADAM ROAD-ANNAMANADA G P-MALA B P- GENERAL CIVIL WORK",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "KODUNGALLUR MUNICIPALITY-FLOOD PUNARADHIVASA FLAT-ELECTRIFICATION, FLOORING, TILING,& AMP-PAINTING, KODUNGALLUR MUNICIPALITY-GENERAL CIVIL WORK",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "\" ONE PANCHAYATH ONE PLAY GROUND\" - DEVELOPMENT OF SPORTS INFRASTRUCTURE FACILITIES IN VALIYAPARAMB GROUND AT MALA GRAMAPANCHAYATH",
+            "implementing_agency": "സ്പോർട്സ് കേരള ഫൌണ്ടേഷൻ",
+            "category": "Sports",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "KKTM Govt. College Pullut - Indoor stadiun- Prevention of flooding, construction of entrance and pathway at Indoor Stadium of KKTM Govt. College, Pullut-General Civil Work",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കൊടുങ്ങല്ലർ  നിയോജക മണ്ഡലം- കൊടുങ്ങല്ലർ മുനിസിപ്പാലിററിയിലെ  പുല്ലൂറ്റ് വി കെ രാജൻ മെമ്മോറിയൽ ഗവ. ഹയർ സെക്കണ്ടറി സ്കൂളിൻറെ ഗ്രൌണ്ട് നിർമ്മാണം.",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "Puliparambu mala pallippuram road construction, Poyya GP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പുത്തൻചിറ ഗ്രാമപഞ്ചായത്തിലെ വെള്ളൂർ സബ്ബ് സെൻ്ററിന് ചുറ്റുമതിലും ഗേറ്റും നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പൊയ്യ ഗ്രാമപഞ്ചായത്തിലെ പുളിപ്പറമ്പ് മാള പുള്ളിപ്പുറം റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വെള്ളാങ്ങല്ലൂർ ഗ്രാമപഞ്ചായത്തിലെ  കോണത്തുകുന്ന് യു.പി സ്കൂളിന് ഹെഡ് റൂഫ് സ്ലാബും 3 ക്ലാസ്സ് മുറികളുടെ നിർമ്മാണവും",
+            "implementing_agency": "Kerala State Coastal Area Development Corporation Limited (KSCADC)",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "പുത്തൻചിറ ഗ്രാമപഞ്ചായത്തിലെ പുത്തൻചിറ ഗവ.എൽ.പി സ്കൂളിന് പുതിയ കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 100.0,
+            "concurrence_lakhs": 100.0
+        },
+        {
+            "project_name": "മാള ഗ്രാമപഞ്ചായത്തിലെ വാർഡ് 4 ലെ സബ്ബ് സെൻ്ററിന് പുതിയ കെട്ടിടം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "കൊടുങ്ങല്ലൂർ നഗരസഭയിലെ ആനാപ്പുഴ സബ്ബ് സെൻ്ററിന് പുതിയ കെട്ടിടം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 36.5,
+            "concurrence_lakhs": 36.5
+        },
+        {
+            "project_name": "കൊടുങ്ങല്ലൂർ നഗരസഭയിലെ വാർഡ് 14 ലെ പൊന്നമ്പത്ത് ചടയം മുറി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കൊടുങ്ങല്ലൂർ നഗരസഭയിലെ വാർഡ് 12 ലെ പാറൻ തുരുത്ത് റോഡ് പുനരുദ്ധാരണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കൊടുങ്ങല്ലൂർ നഗരസഭയിലെ  വാർഡ് 20 ലെ പാലിയം തുരുത്ത് തിരുവഞ്ചിക്കുളം തോടിൽ സ്ലൂയിഡും സൈഡ് സംരക്ഷണവും",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.0,
+            "concurrence_lakhs": 11.0
+        },
+        {
+            "project_name": "കൊടുങ്ങല്ലൂർ നഗരസഭയിലെ വാർഡ് 35 ലെ കീഴ്ത്തളി ശിവക്ഷേത്രം ബൈലൈൻ റോഡും കാന നിർമ്മാണവും പ്രവൃത്തി",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 13.5,
+            "concurrence_lakhs": 13.5
+        },
+        {
+            "project_name": "കൊടുങ്ങല്ലൂർ നഗരസഭയിലെ വാർഡ് 24 ലെ കുറുമ്പനാംകുളം തോട് സൈഡ് കെട്ടി സംരക്ഷിച്ചു സ്ലാബ് വിരിച്ച് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കൊടുങ്ങല്ലൂർ നഗരസഭയിലെ വാർഡ് 10 നാരായണമംഗലം റോഡ് റീസ്റ്റൊറേഷൻ പ്രവൃത്തി",
+            "implementing_agency": "കേരള വാട്ടര്‍ അതോറിറ്റി",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കൊടുങ്ങല്ലൂർ നഗരസഭയിലെ വാർഡ് 10 നാരായണമംഗലം ഹോട്ട് ലൈൻ പൈപ്പ് സ്ഥാപിച്ച് തിരുത്ത് പ്രദേശത്ത് കുടിവെള്ളം ലഭ്യമാക്കുന്ന പ്രവൃത്തി",
+            "implementing_agency": "കേരള വാട്ടര്‍ അതോറിറ്റി",
+            "category": "Water Supply",
+            "fy": "2022-2023",
+            "estimate_lakhs": 24.0,
+            "concurrence_lakhs": 24.0
+        },
+        {
+            "project_name": "മാള ഗ്രാമപഞ്ചായത്ത് പരിധിയിലുള്ള അമ്പഴക്കാട്-കോട്ടവാതിൽ-വടമ-കോട്ടമുറി റോഡിലെ വൈന്തോട് പാലവും ഗതാഗതയോഗ്യമാക്കുന്നതിനുള്ള പ്രവർത്തി",
+            "implementing_agency": "പൊതുമരാമത്ത് റോഡ്സ് ഡിവിഷന്‍",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "വെള്ളാങ്ങല്ലൂർ ഗ്രാമപഞ്ചായത്തിലെ 43,51,56 നമ്പർ അംഗൻവാടികൾക്ക് സ്മാർട്ട് അംഗൻവാടി കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.06,
+            "concurrence_lakhs": 25.06
+        },
+        {
+            "project_name": "കൊടുങ്ങല്ലൂർ DYSP ഓഫീസിന് അത്യാവശ സൌകര്യം ഒരുക്കുന്നതിന് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 31.2,
+            "concurrence_lakhs": 31.2
+        },
+        {
+            "project_name": "വെളളാങ്ങല്ലൂർ ഗ്രാമ പഞ്ചായത്തിലെ ഗവ.യു.പി സ്കൂളിന് പാചകപ്പുര നിർമ്മാണം",
+            "implementing_agency": "Kerala State Coastal Area Development Corporation Limited (KSCADC)",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "പുല്ലൂറ്റ് ഗവ.എൽ.പി സ്കൂളിന് ചുറ്റുമതിലും ഗേറ്റും നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കുഴൂർ ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 14 ൽ കുഴൂർ ഐരാണിക്കുളം റോഡിൽ കാന നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കൊടുങ്ങല്ലൂർ DYSP ഓഫീസിന് അത്യാവശ്യ സൌകര്യം ഒരുക്കുന്നതിന് കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "സ്റ്റീല്‍ ഇന്‍ഡസ്ട്രീസ് ലിമിറ്റഡ് കേരള, അത്താണി",
+            "category": "Infrastructure",
+            "fy": "2021-2022",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "thrissur_shri_v_r_sunil_kumar_placeholder"
+}

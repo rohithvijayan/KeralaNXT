@@ -1,0 +1,577 @@
+{
+    "mla_name": "Shri Linto Joseph",
+    "constituency": "THIRUVAMBADY",
+    "district": "Kozhikode",
+    "summary": {
+        "total_expenditure_crores": 22.0762,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 12.969
+            },
+            {
+                "label": "Others",
+                "value_crores": 3.2975
+            },
+            {
+                "label": "Education",
+                "value_crores": 2.7347
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 2.575
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.5
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "ചൂരമുണ്ട പൊരുന്നേരംപടി തൊഴിലാളികുന്ന് റോഡ് - കോടഞ്ചേരി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - താഴെ ചെറുശ്ശേരി മാവാതുക്കൽ റോഡും, കലുങ്കും - തിരുവമ്പാടി ഗ്രാമ പഞ്ചായത്ത്  -തിരുവമ്പാടി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - പളളിത്താഴെ മേടരഞ്ഞി കരിക്കാട് റോഡ്- കൊടിയത്തൂർ  ഗ്രാമ പഞ്ചായത്ത് - തിരുവമ്പാടി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26- കുറുവേടത്ത് കുന്ന് ഉപ്പൂത്തികുന്ന് റോഡ് - പുതുപ്പാടി ഗ്രാമ പഞ്ചായത്ത് - തിരുവമ്പാടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS 204-25 - മാങ്കുന്ന് റോഡ് - കാരശ്ശേരി ഗ്രാമ പഞ്ചായത്ത് - തിരുവമ്പാടി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 11.0,
+            "concurrence_lakhs": 11.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - മാങ്കുന്ന് റോഡ് - കാരശ്ശേരി ഗ്രാമ പഞ്ചായത്ത് - തിരുവമ്പാടി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - വെസ്റ്റ് പുതുപ്പാടി പറശ്ശേരി റോഡ് -പുതുപ്പാടി ഗ്രാമ പഞ്ചായത്ത് -തിരുവമ്പാടി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - പൂവ്വാട്ട് തച്ചമ്പറ്റക്കണ്ടി റോഡ് - മുക്കം നഗരസഭ - തിരുവമ്പാടി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - കാഞ്ഞിരമൂഴി അമ്പലക്കടവ് ഗ്രൌണ്ട്  മുക്കം നഗരസഭ -തിരുവമ്പാടി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - പൂവാറൻതോട് ഉടുമ്പുപാറ പൂതൻകുഴി റോഡ് - കൂടരഞ്ഞി ഗ്രാമ പഞ്ചായത്ത് - തിരുവമ്പാടി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - മാനിപ്പുരം മുപ്പതേക്ര റോഡ് - പുതുപ്പാടി ഗ്രാമ പഞ്ചായത്ത് -തിരുവമ്പാടി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26- കുന്തൻചാരി ജലനിധി ടാങ്ക് റോഡ് - കാരശ്ശേരി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26- കളളിപ്പാറ  പീടികപ്പാറ താന്നിക്കുന്ന് കുടിവെളള പദ്ധതി - കൂടരഞ്ഞി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, KWA",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 64.92,
+            "concurrence_lakhs": 64.92
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - തണ്ണീർപൊയിൽ മലാംകുന്ന് റോഡ് - കാരശ്ശേരി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - കുളിരാമുട്ടി -ഉറുമി -ചുളിയകം- അകമ്പുഴ റോഡ് - കൂടരഞ്ഞി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25-മഞ്ഞപ്പൊയിൽ മൂസാപ്പടി റോഡ് - തിരുവമ്പാടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - കൂളിപൊയിൽ മണിയംപറ്റ റോഡ് - തിരുവമ്പാടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25- വനാതിർത്തിയിൽ ഫെൻസിംഗ് സ്ഥാപിക്കൽ - തിരുവമ്പാടി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Divisional Forest Officer",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 88.0,
+            "concurrence_lakhs": 88.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - മുറത്തുംമൂല വിളക്കോട്ടിൽ തടായി റോഡ് - തിരുവമ്പാടി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 16.9,
+            "concurrence_lakhs": 16.9
+        },
+        {
+            "project_name": "LAC ADS 2023-24 - കരിമ്പിൽ ലക്ഷം വീട് കോളനി കുടിവെളള പദ്ധതി -  മുക്കം നഗരസഭ - തിരുവമ്പാടി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, KWA",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 34.0,
+            "concurrence_lakhs": 34.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - മരഞ്ചാട്ടി അംഗനവാടി റോഡ് - കൂടരഞ്ഞി ഗ്രാമ പഞ്ചായത്ത് - തിരുവമ്പാടി  നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - കുന്തൻചാരി കോളനി റോഡ് - കാരശ്ശേരി ഗ്രാമ പഞ്ചായത്ത് - തിരുവമ്പാടി നിയോജക മണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - ബായ്മുക്ക്  മാപ്പറ്റ റോഡ് - കോടഞ്ചേരി ഗ്രാമ പഞ്ചായത്ത്  - തിരുവമ്പാടി നിയോജക മണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26- നെല്ലിക്കയത്തുപ്പടി - പുല്ലുവേലിപ്പടി -പുലിക്കയം റോഡ് - കോടഞ്ചേരി  ഗ്രാമ പഞ്ചായത്ത് - തിരുവമ്പാടി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 -സെൻറ് ജോസഫ് ഹൈസ്കൂൾ ടോയ് ലറ്റ് ബ്ലോക്ക് നിർമ്മാണം - കോടഞ്ചേരി ഗ്രാമ പഞ്ചായത്ത്-തിരുവമ്പാടി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "LAC ADS 2023-24 - കൊടിയത്തൂർ ജി.എം.യു.പി സ്ക്കൂൾ ബസ് വാങ്ങൽ - തിരുവമ്പാടി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Deputy Director of Education, Kozhikode",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 21.9,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 -ചെറുവാടി ഗ്രൌണ്ട് നവീകരണം - തിരുവമ്പാടി  ഗ്രാമ പഞ്ചായത്ത് - തിരുവമ്പാടി നിയോജക മണ്ഡലം.",
+            "implementing_agency": "Chief Engineer Sports Kerala Foundation",
+            "category": "Sports",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 -  കാരക്കുറ്റി പന്നിക്കോട് റോഡ് - കൊടിയത്തൂർ ഗ്രാമ പഞ്ചായത്ത് - തിരുവമ്പാടി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 130.0,
+            "concurrence_lakhs": 130.0
+        },
+        {
+            "project_name": "LAC ADS 2023-24 -പുതുപ്പാടി ഗവ.ഹൈസ്ക്കൂളിന് ബസ് വാങ്ങൽ - തിരുവമ്പാടി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Deputy Director of Education, Kozhikode",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 21.57,
+            "concurrence_lakhs": 21.57
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - പുല്ലൂരാംപാറ സെൻറ് ജോസഫ് ഹൈസ്ക്കൂൾ ടോയ് ലറ്റ് ബ്ലോക്ക് നിർമ്മാണം - തിരുവമ്പാടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - സൌത്ത് കൊടിയത്തൂർ ഇടവഴിക്കടവ് റോഡ് - തിരുവമ്പാടി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - ഉച്ചക്കാവ് ആനപ്പാറ റോഡ് കൊടിയത്തൂർ ഗ്രാമ പഞ്ചായത്ത് - തിരുവമ്പാടി നിയോജകമണ്ഡലം.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - പുന്നക്കൽ നടപ്പാലം  തിരുവമ്പാടി ഗ്രാമ പഞ്ചായത്ത് -തിരുവമ്പാടി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 -  കച്ചേരി കിഴക്ക് പാടം റോഡ് -  തിരുവമ്പാടി നിയോജക മണ്ഡലം .",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "THIRUVAMBADI LAC ADS - 2024-25 - ചേലോട്ട്പറമ്പ് - മരുതുംകുണ്ട് റോഡ്, കൊടിയത്തൂർ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "THIRUVAMBADI LAC ADS - 2023-24 - കക്കാടംപൊയിൽ ഹൈസ്കൂൾ റോഡ് - കൊട്ടാരത്തിൽ റോഡ്, കൂടരഞ്ഞി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "THIRUVAMBADI LAC ADS - 2024-25 - കാക്കവയൽ അമ്പലമുക്ക് ചേലോട് റോഡ് - പുതുപ്പാടി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "THIRUVAMBADI LAC ADS - 2024-25 - ഉണ്ണിമോയി ഹാജി സ്മാരക റോഡ്, കൊടിയത്തൂർ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "LAC ADS 2023-24 - മലപ്പുറം ക്ഷേത്രം വയൽ റോഡ് പുതുപ്പാടി ഗ്രാമ പഞ്ചായത്ത് - തിരുവമ്പാടി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "LAC ADS 2023-24 - അമ്പലപ്പടി കാപ്പാട് റോഡ് - പുതുപ്പാടി ഗ്രാമ പഞ്ചായത്ത് -തിരുവമ്പാടി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "LAC ADS 2023-24  - തടയണമുക്ക് വളളിയാട് റോഡ് - പുതുപ്പാടി ഗ്രാമ പഞ്ചായത്ത് - തിരുവമ്പാടി നിയോജക മണ്ഡലം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "LAC ADS 2023-24  -കുരിശുപളളി മണൽ വയൽ റോഡ് - പുതുപ്പാടി ഗ്രാമ പഞ്ചായത്ത് - തിരുവമ്പാടി നിയോജകമണ്ഡലം.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "THIRUVAMBADI LAC ADS - 2023-24 - കോടഞ്ചേരി കോളേജിന് ബസ് വാങ്ങി നൽകൽ",
+            "implementing_agency": "പ്രിൻസിപ്പാൾ, ഗവ. കോളേജ്, കോടഞ്ചേരി",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 27.83,
+            "concurrence_lakhs": 27.83
+        },
+        {
+            "project_name": "LAC ADS 2024-25- തിരുവമ്പാടി  നിയോജകമണ്ഡലം- മഠത്തിൽ ചെറുവറ്റയിൽ വെളുത്തേടത്ത് റോഡ് - മുക്കം മുനിസിപ്പാലിറ്റി  സംബ.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "താഴക്കോട് ഗവ.എല്‍.പി.സ്ക്കൂളിന് ക്ലാസ് റൂം നിര്‍മ്മാണം -ബഹു. തിരുവമ്പാടി നിയോജകമണ്ഡലംഎം.എല്‍.എ ശ്രീ.ലിന്‍റോ ജോസഫ് അവര്‍കളുടെ  2023-24  ആസ്തി വികസന പദ്ധതി",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.5,
+            "concurrence_lakhs": 30.5
+        },
+        {
+            "project_name": "മണാശ്ശേരി ബസ് സ്റ്റോപ്പ് ആന്‍റ് കംഫര്‍ട്ട് സ്റ്റേഷന്‍ കെട്ടിട നിര്‍മ്മാണം-ബഹു. തിരുവമ്പാടി നിയോജകമണ്ഡലം എം.എല്‍. എ ശ്രീ ലിന്‍റോ ജോസഫ് അവര്‍കളുടെ 2023-24 ആസ്തി വികസന പദ്ധഥി",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 68.0,
+            "concurrence_lakhs": 68.0
+        },
+        {
+            "project_name": "മുണ്ടൂർ പാലം നിർമ്മാണം  കോടഞ്ചേരി ഗ്രാമ പഞ്ചായത്ത് - 2022-23 -തിരുവമ്പാടി നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 199.0,
+            "concurrence_lakhs": 199.0
+        },
+        {
+            "project_name": "തിരുവമ്പാടി നിയോജക മണ്ഡലം - കുമാരനല്ലൂര്‍ കപ്പാല റോഡ്‌ 2022 - 23",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 99.0
+        },
+        {
+            "project_name": "മുണ്ടൂർ പാലം നിർമ്മാണം  കോടഞ്ചേരി ഗ്രാമ പഞ്ചായത്ത്  - എം.എൽ.എ തിരുവമ്പാടി നിയോജകമണ്ഡലം 2022-23",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 199.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ജി.എൽ.പി സ്കൂൾ മലപുറം ക്ലാസ് മുറികളുടെ നിർമ്മാണം പുതുപ്പാടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ഗവ.എച്ച്.എസ്.എസ്. നീലേശ്വരം ക്ലാസ് മുറികളുടെ നിർമ്മാണം  മുക്കം നഗരസഭ",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "കണലാട് റോഡ് പുതുപ്പാടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "എലോക്കര – പാലക്കുന്ന് – ഷാവേസ് നഗർ റോഡ് - പുതുപ്പാടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "തൊണ്ടൂർകണ്ടി വയൽ - പുളിക്കൽപടി റോഡ് കൂടരഞ്ഞി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പാത്തിപ്പാറ – നിലമ്പൂർകാട് കലുങ്ക് നിർമ്മാണം – പുതുപ്പാടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "തേൻപാറ – ഒലിച്ചുചാട്ടം റോഡ് തിരുവമ്പാടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ആറാം ബ്ലോക്ക് – കവളോറ റോഡ് കാരശ്ശേരി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഗവ:യു.പി സ്കൂൾ മണാശ്ശേരി റൂ ഫിംഗ് പൂർത്തീകരണം - മുക്കം നഗരസഭ",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "ജി.യു.പി . സ്കൂള്‍ മണാശ്ശേരി റൂഫിംഗ് പൂര്‍ത്തീകരണം, മുക്കം നഗര സഭ",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കൂടരഞ്ഞി കുടുംബാരോഗ്യ കേന്ദ്രം കെട്ടിട നിര്‍മ്മാണം,  കൂടരഞ്ഞി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 99.0
+        },
+        {
+            "project_name": "പുല്ലൂരാംപാറ സബ്സെന്‍റര്‍ പൂര്‍ത്തീകരണം, തിരുവമ്പാടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പുല്ലുമല -  കുവ്വപ്പട്ടച്ചാല്‍ - നീറ്റിക്കല്‍ റോഡ്, പുതുപ്പാടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കാക്കവയല്‍ നാക്കിലംപാട് റോഡ്, പുതുപ്പാടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കാക്കവയല്‍ നാക്കിലംപാട് റോഡ്, പുതുപ്പാടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "സ്കൂള്‍ വാഹനം വാങ്ങല്‍ -1.  ജി.യു.പി സ്കൂള്‍ ചെമ്പുകടവ്, കോടഞ്ചേരി ഗ്രാമ പഞ്ചായത്ത്     2. ജി.ടി.എല്‍.പി സ്കൂള്‍ കൂമ്പാറ, കൂടരഞ്ഞി  ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Deputy Director of Education, Kozhikode",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "മലപ്പുറം ജി.എം.എല്‍.പി സ്കൂള്‍ ക്ലാസ്സ് റൂമുകളുടെ നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "പുല്ലൂരാംപാറ  -  ചെറുശ്ശേരി റോഡ്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "kozhikode_shri_linto_joseph_placeholder"
+}

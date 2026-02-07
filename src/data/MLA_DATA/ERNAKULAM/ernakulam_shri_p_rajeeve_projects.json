@@ -1,0 +1,725 @@
+{
+    "mla_name": "Shri P. Rajeeve",
+    "constituency": "KALAMASSERY",
+    "district": "Ernakulam",
+    "summary": {
+        "total_expenditure_crores": 25.0723,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 20.4853
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 1.68
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.99
+            },
+            {
+                "label": "Others",
+                "value_crores": 0.9003
+            },
+            {
+                "label": "Education",
+                "value_crores": 0.8317
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.185
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "MLA-ADS 2025 -26 -KALAMASSERY LAC –  TILE LAYING   AT DUMINGOS LANE    IN WARD 1 OF ALANGAD G P-GENERAL CIVIL WORK",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.02,
+            "concurrence_lakhs": 30.02
+        },
+        {
+            "project_name": "MLA-ADS 2025 -26 -KALAMASSERY LAC –  TILE LAYING AND RE TARRING  AT KALLUPALAM  -PULIYKKAPARAMPU MARAYIL ROAD  WARD 4 OF ALANGAD G P-GENERAL CIVIL WORK",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 48.92,
+            "concurrence_lakhs": 48.92
+        },
+        {
+            "project_name": "MLA-ADS 2023 -24 -KALAMASSERY LAC – INTERLOCK TILE LAYING MUTTAR LINK ROAD WARD 22 -ELOOR  MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "MLA-ADS 2023 -24 -KALAMASSERY LAC – CANAL BUND ROAD RENOVATION - WARD 2 ELOOR  MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA-ADS 2025 -26 -KALAMASSERY LAC – BUND ROAD FORMATION OF THANDIRIKAL KADAVU   ROAD UNDER VELIYATHUNADU NO.1 LIS IN WARD 8 -KARUMALLOOR G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "MLA-ADS 2025 -26 -KALAMASSERY LAC – TILE PAVING AND RETARRING OF CONSTRUCTION OF SIDE DRAIN OF ALUMPARAMBU ROAD WARD 19 -KARUMALLOOR G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 32.0,
+            "concurrence_lakhs": 32.0
+        },
+        {
+            "project_name": "MLA-ADS 2025 -26 -KALAMASSERY LAC – THOPPIL ROAD TILE PAVING  WARD 8\r\n KARUMALUR GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "MLA-ADS 2025 -26 -KALAMASSERY LAC – THOPPIL ROAD TILE PAVING  WARD 8\r\n KARUMALUR GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA-ADS 2024 -25 -KALAMASSERY LAC – CONSTRUCTION OF DOCTORS LAINE ROAD TARRING KARUMALUR GP WARD-13 & 14",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.7,
+            "concurrence_lakhs": 18.7
+        },
+        {
+            "project_name": "MLA-ADS 2024 -25 -KALAMASSERY LAC – PALLIMUKKU AMBEDKAR    VATTAPANK  ROAD AND AMBEDKAR HDPY SCHOOL ROAD GENERAL CIVIL WORK TARRING   WARD 1  OF KARUMALLUR G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 21.3,
+            "concurrence_lakhs": 21.3
+        },
+        {
+            "project_name": "MLA-ADS-2023-24 -KALAMASSERY LAC - SCHOOL BUS PURCHASE FOR GOVT.L P SCHOOL  PANAYIKULAM",
+            "implementing_agency": "Deputy Director (Education)Ernakulam",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 16.83,
+            "concurrence_lakhs": 16.83
+        },
+        {
+            "project_name": "MLA-ADS-2022-23 -KALAMASSERY LAC -കാരു ചിറ അമ്പലം റോഡ് ,കുളകുഴി റോഡ് ,ആറാം മൈൽ കാരക്കുളം സബ് റോഡ് -ടാറിങ് &പോട്ടറീസ് റോഡ് ടൈൽ -(വാർഡ് 18)കരുമാല്ലൂർ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 32.0,
+            "concurrence_lakhs": 32.0
+        },
+        {
+            "project_name": "MLA-ADS 2025 -26 -KALAMASSERY LAC – IRIMBAKKULAM -ELATHODU -RECONSTRUCTION OF SIDE PROTECTION WALL FOR ELATHODU AT IRIMBAKKULAM -PULLARAM ROAD SIDE  IN   WARD 2 OF KADUNGALLUR  G P",
+            "implementing_agency": "EXECUTIVE ENGINEER ,MINOR IRRIGATION DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.8,
+            "concurrence_lakhs": 14.8
+        },
+        {
+            "project_name": "MLA-ADS 2023 -24 -KALAMASSERY LAC – KORATTIPARAMBU RATIONKADA KAVALA ROAD TILE PAVING  IN   WARD 11&12 0F  KUNNUKARA G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 38.7,
+            "concurrence_lakhs": 38.7
+        },
+        {
+            "project_name": "MLA-ADS 2023 -24 -KALAMASSERY LAC – JAYANTHI ROAD TILE LAYING AND CONSTRUCTION OF DRAINAGE WARD 19 OF ALANGADU G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 33.4,
+            "concurrence_lakhs": 33.4
+        },
+        {
+            "project_name": "MLA-ADS 2023 -24 -KALAMASSERY LAC – MAHILASAMAJAM LINK ROAD IN   WARD 4 OF KUNNUKARA G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.3,
+            "concurrence_lakhs": 17.3
+        },
+        {
+            "project_name": "MLA-ADS 2023 -24 -KALAMASSERY LAC – JAYANTHI ROAD TILE LAYING AND CONSTRUCTION OF DRAINAGE  WARD 19 OF ALANGADU  G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 33.4,
+            "concurrence_lakhs": 33.4
+        },
+        {
+            "project_name": "MLA-ADS 2024 -25 -KALAMASSERY LAC – CONSTRUCTION OF DRAINAGE ON CHEKKATTIPADI (PARA ROAD ) IN WARD 3 OF KUNNUKARA G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.36,
+            "concurrence_lakhs": 18.36
+        },
+        {
+            "project_name": "MLA-ADS 2024 -25 -KALAMASSERY LAC – VELANKANNIMATHA S C NAGAR  ROAD  RE TARRING IN WARD 15 OF KUNNUKARA G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 44.08,
+            "concurrence_lakhs": 44.08
+        },
+        {
+            "project_name": "MLA-ADS 2025 -26-KALAMASSERY LAC – SOUTH ADUVASSERY MALAYIKUNNU ROAD  RE TARRING IN WARD 5 OF KUNNUKARA G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.63,
+            "concurrence_lakhs": 14.63
+        },
+        {
+            "project_name": "MLA-ADS 2024 -25-KALAMASSERY LAC – ARATTUKADAVU  ROAD RE TARRING IN WARD 1 OF KUNNUKARA G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 21.0,
+            "concurrence_lakhs": 21.0
+        },
+        {
+            "project_name": "MLA-ADS 2024 -25-KALAMASSERY LAC – KUTTIPUZHA CHANDRATHIKADAVU ROAD RE TARRING IN WARD 8 OF KUNNUKARA G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "MLA-ADS-2025-26- KALAMASSERY LAC-PUTHUSSERY ILLAM ROAD RENOVATION   IN WARD 11 OF KUNNUKARA G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 38.0,
+            "concurrence_lakhs": 38.0
+        },
+        {
+            "project_name": "MLA-ADS 2024 -25-KALAMASSERY LAC – KIZHAKKETHIL THACHORAPARAMBIL    ROAD  TILE LAYING  WARD-7 ALANGADU GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 13.7,
+            "concurrence_lakhs": 13.7
+        },
+        {
+            "project_name": "MLA-ADS 2024 -25-KALAMASSERY LAC – MYTHRI ROAD FORMATION  & TILE LAYING  WARD-6 ALANGADU GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 14.9,
+            "concurrence_lakhs": 14.9
+        },
+        {
+            "project_name": "MLA-ADS 2024 -25-KALAMASSERY LAC – THADI PADAM  ROAD TILE LAYING  WARD-4 ALANGADU GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.3,
+            "concurrence_lakhs": 15.3
+        },
+        {
+            "project_name": "MLA-ADS 2024 -25-KALAMASSERY LAC – THACHETHU KUNJUMUHAMMED SMARAKA ROAD TILE LAYING  WARD-11 ALANGADU GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.7,
+            "concurrence_lakhs": 10.7
+        },
+        {
+            "project_name": "MLA-ADS 2024 -25-KALAMASSERY LAC - CONSTRUCTION OF GANDHI NAGAR ROAD IN FORMATION AND TAIL PAVINGIN ALANGADU GP WARD-7",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.9,
+            "concurrence_lakhs": 16.9
+        },
+        {
+            "project_name": "MLA-ADS-2024-25-ഐഡിയ ടവർ റോഡ് കാന നിർമ്മാണവും കട്ടവിരിക്കലും -ആലങ്ങാട് ഗ്രാമപഞ്ചായത്ത് (വാർഡ്-17)",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.8,
+            "concurrence_lakhs": 18.8
+        },
+        {
+            "project_name": "MLA-ADS-2025-26 -KALAMASSERY LAC -PVIP CANAL ROAD IN HARITHA NAGAR WARD  13   KARUMALLUR  G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "MLA-ADS-2024-25 -KALAMASSERY LAC -CONSRTUCTION OF VELANKANNI MATHA-  S C  NAGAR ROAD TARRING WARD 15 OF KUNNUKARA G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 39.2,
+            "concurrence_lakhs": 39.2
+        },
+        {
+            "project_name": "KK",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 0.01,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "MLA ADS-2024-25-CONSTRUCTION OF THADIPPADAM ROAD   TILE    LAYING  IN   ALANGADU GP  WARD-4",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 14.1,
+            "concurrence_lakhs": 14.1
+        },
+        {
+            "project_name": "MLA ADS-2024-25 CONSTRUCTION OF KIZHAKKETHIL-THACHORAPARAMBIL  ROAD  TILE    LAYING  IN   ALANGADU GP  WARD-7",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.9,
+            "concurrence_lakhs": 12.9
+        },
+        {
+            "project_name": "MLA ADS-2024-25-CONSTRUCTION OF THACHETH KUNJUMUHAMMED SMARAKA ROAD INTER  LOCK TILE PAVINGIN ALANGADU GP WARD -11",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS-2024-25-ഐഡിയ ടവർ റോഡ് കാന നിർമ്മാണവും കട്ടവിരിക്കലും -ആലങ്ങാട് ഗ്രാമപഞ്ചായത്ത് (വാർഡ്-17)",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "MAL ADS 2023-24-KALAMASSERY LAC-CONSTRUCTION OF DRAINAGE AND INTER   LOCK TILE   FOR JAYATHI ROAD IN ALANGADU GP   WARD -19",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "MAL ADS 2023-24-KALAMASSERY LAC-CONSTRUCTION OF DRAINAGE AND INTER   LOCK TILE   FOR JAYATHI ROAD IN ALANGADU GP   WARD -19",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "MAL ADS 2023-24- KALAMASSEY LAC-CONSTRUCTION OF DRAINAGE AND INTER   LOCK TILE   FOR JAYATHI ROAD IN ALANGADU GP   WARD -19",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "MLA-ADS 2024 -25-KALAMASSERY LAC - CONSTRUCTION OF GANDHI NAGAR ROAD IN FORMATION AND TAIL PAVINGIN ALANGADU GP  WARD-7",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.8,
+            "concurrence_lakhs": 15.8
+        },
+        {
+            "project_name": "MLA-ADS 2024 -25-KALAMASSERY LAC -  FORMATION AND LAYING OF TILE IN MAYTHRI ROAD  WARD 6 ALANGADU G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "MLA-ADS 2024-25-KALAMASSERY LAC -PROVIDING TILE WORKS TO MILLUPADY VAYALODAM ROAD IN KARUMALLOOR G P",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "MLA ADS-2024-25-CONSTRUCTION OF SOUTH ADUVASSERY  MALAYIKUNNU  ROAD IN WARD 5 0F KUNNUKARA G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.5,
+            "concurrence_lakhs": 12.5
+        },
+        {
+            "project_name": "MLA ADS-2023-24-CONSTRUCTION OF HELTH CENTER ROAD TARRING IN ELOOR MUNICIPALITY WARD-31",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "MLA ADS-2024-25-CONSTRUCTION OF  VANITHA VYAVASAYA VIPANANA KENDRAM  BUILDING   AT   ELOOR MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 69.0,
+            "concurrence_lakhs": 69.0
+        },
+        {
+            "project_name": "MLA-ADS-2023-24 -KALAMASSERY LAC -CONSRTUCTION MAHILA SAMAJAM LINK ROAD WARD 4 OF KUNNUKARA G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA-ADS - 2024-25 - KALAMASSERY LAC - CONSTRUCTION OF  DRAINAGE  ON CHEKKATTIPADI  (PARA  ROAD ) WARD-3 OF -KUNNUKARA G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "MLA-ADS 2023-24- CONSTRUCTION  OF PATHELAKKADU ROAD CULVERT WARD 19 ELLOOR MUNICIPALLITY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA-ADS-2022-23-ERAMAM ROAD (PANCHAYATH JN PANAYIKKULAM),KALUNK JUNCTION POTTA ROAD(ERAMAM ROAD-POTTA NAGAR),PAMPA KUDA-PALAM RAD (MAHATMA RESIDENCE ASSOCIATION ROAD)WARD 20 AND 19 IN KADUNGALLOOR GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 27.0,
+            "concurrence_lakhs": 27.0
+        },
+        {
+            "project_name": "MLA-ADS-2023-24 CONSTRUCTION OF DRAIN AT VATTEKKUNNAM IN EDAPPALLY METHANAM ROAD",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS 2024-25- PUTHALAM KADAVU ROAD RENOVATION IN ELOOR MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 45.92,
+            "concurrence_lakhs": 45.92
+        },
+        {
+            "project_name": "MLA-ADS 2024-25 CONSTRUCTION OF KADAMBU VALAVANMALI ROAD TARRING AND DRAINAGE IN  KADUNGALOOR GP",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 52.0,
+            "concurrence_lakhs": 52.0
+        },
+        {
+            "project_name": "MLA-ADS-2023-24-CONSTRUCTION OF NEERIKODE KATTUKANDAM ROAD WARD-2 IN ALANGAD GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 43.2,
+            "concurrence_lakhs": 43.2
+        },
+        {
+            "project_name": "MLA-ADS 2024-25 -PUTHALAM KADAVU ROAD RENOVATION IN ELOOR MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 45.92,
+            "concurrence_lakhs": 45.92
+        },
+        {
+            "project_name": "MLA-ADS-2023-24-CONSTRUCTION KORATTYPARAMBU RATIONKADA KAVALA ROAD IN KUNNUKARA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.5,
+            "concurrence_lakhs": 20.5
+        },
+        {
+            "project_name": "MLA-ADS 2021-22- YARD IMPROVEMENT WORKS,CONSTRUCTION OF COMPOUND WALL AND DRAIN Etc.",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Irrigation",
+            "fy": "2021-2022",
+            "estimate_lakhs": 18.5,
+            "concurrence_lakhs": 18.5
+        },
+        {
+            "project_name": "MAL ADS-2023-24- CONSTRUCTIONN OF KADOOPADAM SUBAIR ROAD",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.5,
+            "concurrence_lakhs": 15.5
+        },
+        {
+            "project_name": "MLA-ADS-2023-24  CONSTRUCTION OF BRIDGE ACROSS PERIYAR VALLEY CANAL AT PERINGATTUMUGAL ROAD IN WARD 18, KALAMASSERY MUNICIPALITY.",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 33.0,
+            "concurrence_lakhs": 33.0
+        },
+        {
+            "project_name": "MLA-ADS-2023-24 CONSTRUCTION OF PARELI PALLAM JUNCTION ROAD IN KARUMALOOR GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "MLA-ADS 2023-24 -CONSTRUCTION OF  KALAMASSERY MUNICIPALITY -KANGARAPPADI STADIUM",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 99.0
+        },
+        {
+            "project_name": "MLA-ADS 2023-24 CONSTRUCTION OF KAAMBILLI ERAMAM CONCRETE ROAD (BALANCE WORK) IN KADUNGALLUR GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        },
+        {
+            "project_name": "MLA-ADS 2023-24-CONSTRUCTION OF KARTHAPARAMBU VAYALATHITTA IRRIGATION CANAL ROAD (WARD-6 )",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 29.7,
+            "concurrence_lakhs": 29.7
+        },
+        {
+            "project_name": "MLA-ADS 2023-24- TARRING WORK OF NARASIMHA NAGAR ROAD IN KADUNGALLUR GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.5,
+            "concurrence_lakhs": 12.5
+        },
+        {
+            "project_name": "MLA ADS -KALAMASSERY LAC 2022-23 CONSTRUCTION OF  FIRST FLOOR BULDING FOR BUDS SCHOOL",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 46.34,
+            "concurrence_lakhs": 46.34
+        },
+        {
+            "project_name": "Construction of open stage and land development at kunnukara gp",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 21.0,
+            "concurrence_lakhs": 21.0
+        },
+        {
+            "project_name": "Construction of open gym, open stage and land beautification at kalamassery muncipality",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 39.0,
+            "concurrence_lakhs": 39.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF HMT ROCK WELL ROAD IN KALAMASSERY MUNICIPALITY BY PROVIDING BM & BC",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 53.0,
+            "concurrence_lakhs": 53.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF PUTHILATH KADAVU ROAD IN ELOOR MUNCIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 59.0,
+            "concurrence_lakhs": 59.0
+        },
+        {
+            "project_name": "2017-2018 to 2020-2021 SAVINGS AMOUNT-REPLACING EXISTING DAMAGED  AC/PVC PIPELINE WITH 160 MM PVC (10KG/M2) PIPE ALONG WITH VP MARAKKAR ROAD AND ALLIED WORKS- PIPELINE WORK",
+            "implementing_agency": "EXECUTIVE ENGINEER ,WATER SUPPLY DIVISION K.W.A. KOCHI",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 129.1,
+            "concurrence_lakhs": 129.1
+        },
+        {
+            "project_name": "PROVIDING TARRING WORKS TO MILLUPADY VAYALODAM ROAD IN KARUMALLOR GP",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.3,
+            "concurrence_lakhs": 15.3
+        },
+        {
+            "project_name": "SNDP MANJALY LINK ROAD - CONSTRUCTION AND TARRING TO SNDP MANJALY LINK ROAD IN KARUMALLOOR GP",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "TARRING OF MEDICAL  COLLEGE - MUNDANPALAM BYE LINE  ROAD VAZHAKKAPURATHMOOLA -VATTAPPURATHA MUNDAKKAMUGHAL PUTHUSSERIMALA PUTHIYA ROAD VIA CONNECTING EDAPPALLY PUKKATTUPADY ROAD",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 29.6,
+            "concurrence_lakhs": 29.6
+        },
+        {
+            "project_name": "CONSTRUCTION OF KADAMBU VALAVNMALI ROAD IN KADUNGALLUR GP",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 27.0,
+            "concurrence_lakhs": 27.0
+        },
+        {
+            "project_name": "PROVIDING TARRING WORKS TO THATTAMPADY THANTHONNY ROAD IN KARUMALLOR PANCHAYTH",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "PROVIDING PAVING TILES IN ATTUPURAM - VELANKADAVU ROAD IN KUNNUKARA GP",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 29.6,
+            "concurrence_lakhs": 29.6
+        },
+        {
+            "project_name": "PROVIDING TARRING OF KUNDOOR KADAVU ROAD",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 38.0,
+            "concurrence_lakhs": 38.0
+        },
+        {
+            "project_name": "PROVIDING PAVING TILES TO KAYAINTIKKARA STANDARD KADAVU ROAD AND  GOUPURATHINKAL KARIVELIL ROAD IN KADUNGALLUR GP",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "PROVIDING PAVING TILES TO MINAMPARAMBU MANJALI LINK ROAD IN KARUMALOOR PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 32.0,
+            "concurrence_lakhs": 32.0
+        },
+        {
+            "project_name": "PROVIDING PAVING TILES IN ARAKKAL ROAD",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "PROVIDING PAVING TILES IN EMS THEKKUMTHALA ROAD",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "PROVIDING TILES PAVING IN SREYAS ROAD IN ALANGAD GP - GENERAL WORK",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 24.3,
+            "concurrence_lakhs": 24.3
+        },
+        {
+            "project_name": "PROVIDING TILES WORKS TO AANAPPILLY PARAYANTHURUTH ROAD",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF DEPO PATTUPURAKKAL ROAD IN ELOOR MUNCIPALITY - GENERAL CIVIL WORK",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 55.0,
+            "concurrence_lakhs": 55.0
+        },
+        {
+            "project_name": "Construction of Anganwadi Building No.13 at Ward 10 of Karumaloor Grama Panchayath",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "Construction of Family Health Centre Karingamthuruth Ward no.21 of Alangad Grama Panchayath",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Healthcare",
+            "fy": "2021-2022",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 99.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "ernakulam_shri_p_rajeeve_placeholder"
+}

@@ -13,7 +13,14 @@
 
     min-height: 100vh;
     background: var(--comp-bg);
+    padding-top: 80px;
     padding-bottom: 80px;
+}
+
+@media (min-width: 768px) {
+    .comparison-page {
+        padding-top: 100px;
+    }
 }
 
 /* Hero Section */

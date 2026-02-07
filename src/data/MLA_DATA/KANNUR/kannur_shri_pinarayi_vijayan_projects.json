@@ -1,0 +1,457 @@
+{
+    "mla_name": "Shri Pinarayi Vijayan",
+    "constituency": "DHARMADAM",
+    "district": "Kannur",
+    "summary": {
+        "total_expenditure_crores": 17.4527,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 6.0925
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 5.5462
+            },
+            {
+                "label": "Education",
+                "value_crores": 1.79
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 1.774
+            },
+            {
+                "label": "Others",
+                "value_crores": 1.05
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 0.9
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.3
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "SITC of Minimast light at various Locations in Eight Panchayath under Dharmadam LAC",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD ELECTRICAL DIVISION KANNUR",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "COMPLETION WORKS TO CHEMBILODE BUDS SCHOOL",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "UPGRADING THE QUALITY OF VARIOUS ROADS IN MUZHAPPILANGADU GP (1) SREE NARAYANA GURU MADAM- PULLANJATT PARAMBA  ROAD (2) DAROTH METTA KULAPURAMUKKU  ROAD (3) V.P. PADMANABHAN  ROAD (4) KODIYERI BALAKRISHNAN  ROAD",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "UPGRADING THE QUALITY OF VARIOUS ROADS IN DHARMADAM GP (1) KIZHAKKUMBAGAM- ANDALOOR KAVU KALIYIL ROAD (2) KARAYI-KUNNUMBRAM, VELLOZHUKK LAKSHAM VEED SAYI BRENNAN  SYNTHETIC STADIUM  ROAD (3) CHEGUVERA ROAD (4) KUNIPARAMBA ROAD",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "UPGRADING THE QUALITY OF VARIOUS ROADS IN VENGAD GP (1) CHERIYAVALAPPU KALLAYI CANAL ROAD (2) RUBBER KADU GRAMODHARANA VAYANASALA ROAD (3) THATTARAKKAL KANATHA TO UMMER'S HOUSE (4) THEKKINATH THIRUVAMBADI PARMBATH MUKKU ROAD",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "കണിയാങ്കണ്ടിമുക്ക് - എ.കെ.ജി സ്കൂള്‍ റോഡില്‍ 2 കള്‍വര്‍ട്ടും അനുബന്ധ പ്രവൃത്തികളും",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "UPGRADING THE QUALITY OF VARIOUS RURAL ROADS IN PINARAYI GRAMA PANCHAYATH 1) OLAYAMBALAM - PINARAYI THERU - CHEKKIKUNI BRIDGE ROAD (CONCRETE), 2) EDAKKADAVU KETTUTHANGI - PINARAYI WEST ROAD, 3) AYICHOTH MADAPPURA - KOZHUR THEEPPETTI COMPANY ROAD, 4) THANIKKUZHI - AALIVASU VEEDU ROAD.",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "UPGRADING THE QUALITY OF VARIOUS RURAL ROADS IN ANCHARAKKANDY GRAMA PANCHAYATH - 1) KANNADIVELICHAM - KATTERIPARAMBA ROAD, 2) ALAKKAL - KUNDATHTHIL ROAD, 3) N.GOVINDAN ROAD",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "SITC OF LIGHTNING ARRANGMENTS AT KEEZHATHUR BRIDGE",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD ELECTRICAL DIVISION KANNUR",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.1,
+            "concurrence_lakhs": 18.1
+        },
+        {
+            "project_name": "UPGRADATION OF VARIOUS ROADS IN KADAMBUR GRAMAPANCHAYATH \r\n1. VIJAYAKRISHNA MUKK KANNISAN VALAPPIL ROAD ( PEETTAKANDI THANNADA ROAD UP TO KANNISAN MUKK, \r\n2. MAALIKAPARAMBA - KAVUTHEEYAN PARAMBA ROAD,\r\n3. KANNALPALAM VALLAM KUMARAN VEEDU ROAD\r\n4. THATTUPARAMBA ROAD ( FROM AADOOR PALAM MALIKAPPARAMBA TO K O ROAD)",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "SITC OF LIGHTNING ARRANGMENTS AT KEEZHATHUR BRIDGE",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD ELECTRICAL DIVISION KANNUR",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.5,
+            "concurrence_lakhs": 15.5
+        },
+        {
+            "project_name": "CONSTRUCTION OF BUILDING FOR PINARAYI BUDS REHABILITATION CENTRE IN PINARAYI GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF BUILDING FOR CHEMBILODE BUDS REHABILITATION (PHASE II) IN CHEMBILODE GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "UPGRADATION OF VARIOUS ROADS IN CHEMBILODE GRAMA PANCHAYATH\r\n1. EERANI PALAM ACHUTHAN NAYAR ROAD\r\n2. KOOTHUPARAMBA MANDAPAM THATTUPARAMBA ROAD\r\n3.R V MOTTA PUTHUKKUDI POWLTRY ROAD\r\n4. PERUMBALA KUNNUMBRAM KANAYANNUR VAYAL ROAD\r\n5. MUTHUKUTTI JUMA MASJID AASARI MOTTA ROAD.",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "COMPLETION AND FIRST FLOOR HALL CONSTRUCTION OF ANGANVADI BUILDING AT WARD 12 IN KADANBUR GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "ADDITIONAL FACILITIES TO MAKRERI STADIUM IN PERALASSERI G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF HEALTH SUB CENTRE BUILDING AT PARAPRAM IN PINARAYI G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "UPGRADATION OF CHALAKKANDI PERFECT SCHOOL THODU IN KADAMBUR G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "UPGRADATION OF VARIOUS ROADS IN PERALASSERY G.P 1) IRUMBAN MUKK KAKKARACHAL ROAD, 2) GURUKKAL PARAMBA BAVOD ANGANAVADI ROAD, 3) KEEZHARA NORTH VAYANASHALA ROAD, 4) PARUTHIKKUND ANNIYOTH ROAD.",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "SITC OF STREET LIGHT OVER ODAKKADAVU BRIDGE, SITC OF STREET LIGHT ON KOLAD BRIDGE, IRIPPUKADAVU BRIDGE AND ODAKKADAVU BRIDGE",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD ELECTRICAL DIVISION KANNUR",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "ANDALLUR VALIYA THODU SIDE PROTECTION WORKS AND CONSTRUCTION OF SLUICE TO ANDALLUR VALIYA THODU - IN DHARMADAM G P",
+            "implementing_agency": "EXECUTIVE ENGINEER MINOR IRRIGATION DIVISION KANNUR",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF PANCHAYATH SAMSKARIKA NILAYAM (KOTTAM) PERALASSERI G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "SIDE PROTECTION AND ADJOINING WORKS IN VALIYAVEETTIL THAZHE PALAM IN CHEMBILODE G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF BUILDING FOR MUZHAPPILANGAD BUDS REHABILITATION CENTRE IN MUZHAPPILANGAD G.P (PHASE 1)",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ESTABLISHMENT OF SPORTS INFRASTRUCTURE FACILITIES AT PINARAYI MINI STADIUM IN PINARAYI G.P",
+            "implementing_agency": "CHIEF ENGINEER SPORTS ENGINEERING WING THIRUVANATHAPURAM,SPORTS&YOUTH AFFAIRS",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF BUILDING FOR VENGAD FHC- 2nd STAGE IN VENGAD G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF STAGE AND OTHER WORKS FOR KANNADIVELICHAM STADIUM IN ANJARAKKANDY G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "NURUMBIL THODU - SIDE PROTECTION TO NURUMBIL THODU IN DHARMADAM G.P",
+            "implementing_agency": "EXECUTIVE ENGINEER MINOR IRRIGATION DIVISION KANNUR",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "MOONNAM PALAM- KORAMBETH IRRIGATION SCHEME (WELL, PUMP HOUSE AND ADDITIONAL FACILITIES) IN PERALASSERI G.P",
+            "implementing_agency": "LSGD DIvision Kannur",
+            "category": "Irrigation",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "DISTRIBUTING LAPTOPS TO 6  GOVERNMENT HIGHER SECONDARY SCHOOLS IN DHARMADAM LAC",
+            "implementing_agency": "REGIONAL DEPUTY DIRECTOR, HIGHER SECONDARY EDUCATION, KANNUR",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF BUILDING FOR PERALASSERY FHC IN PERALASEERY GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 99.8,
+            "concurrence_lakhs": 99.8
+        },
+        {
+            "project_name": "CONSTRUCTION OF VENGAD FHC BUILDING- VENGAD G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF SUB CENTER BUILDING IN MAMBA AT ANJARAKKANDY GP (PHASE1)",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "RENOVATION AND LAYING INTERLOCK TO PINARAYI AKG MEMORIAL GHSS ROAD IN PINARAYI G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF PANUNDA ANGANAVADI IN PINARAYI GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF PALERI ANGANAVADI IN ANJARAKANDY GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF ANGANWADI BUILDING IN WARD NO 1 AT KADAMBUR GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 24.0,
+            "concurrence_lakhs": 24.0
+        },
+        {
+            "project_name": "PROVIDING LIGHTING FOR CHALA BRIDGE AND TOWN",
+            "implementing_agency": "Executive Engineer PWD Electronics Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "SIDE PROTECTION WORKS, CONSTRUCTION OF FOOTPATH AND PROVIDING FRP SHUTTERS TO VCB AT ELIPROM THODU IN DHARMADAM PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER MINOR IRRIGATION DIVISION KANNUR",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "SITC OF MINIMAST LIGHTS-SITC OF 21 MINI MAST LIGHTSAT VARIOUS LOCATION IN ANJARAKKANDY,CHEMBILOD,DHARMADAM,MUZHAPPILANGAD,PERALASSERY,PINARAYI,KADAMBOOR AND VENGAD GRAMA PANCHAYATHS",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD ELECTRICAL DIVISION KANNUR",
+            "category": "Electricity",
+            "fy": "2021-2022",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF BUILDING FOR ANGANWADI BUILDING IN WARD No XVII IN CHEMBILODE GRAMA PANCHAYATH",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF BUILDING FOR ANGANWADI BUILDING IN WARD No XVII IN CHEMBILODE GRAMA PANCHAYATH",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "SIDE PROTECTION WORK TO KANAYANNOR IRIVERI KANIYOTTU THAZHE THODU IN CHEMBILODE GP",
+            "implementing_agency": "EXECUTIVE ENGINEER MINOR IRRIGATION DIVISION KANNUR",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "SIDE PROTECTION WORK TO ADOOR PALAM NMG MUKKU THODU IN KADAMBOOR GP",
+            "implementing_agency": "EXECUTIVE ENGINEER MINOR IRRIGATION DIVISION KANNUR",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "PROVIDING IRRIGATION FACILITIES TO PINARAYI AMBALAM EDAKKADAVU HORTICORP CLUSTER",
+            "implementing_agency": "EXECUTIVE ENGINEER MINOR IRRIGATION DIVISION KANNUR",
+            "category": "Irrigation",
+            "fy": "2021-2022",
+            "estimate_lakhs": 17.4,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പാറപ്രം പഞ്ചായത്ത് മിനിസ്റ്റേഡിയം വികസനം -പിണറായി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2021-2022",
+            "estimate_lakhs": 19.82,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വേങ്ങാട്തെരു കനാൽക്കര റോഡ് കനാൽപ്പാലം പുനർനിർമ്മാണം -വേങ്ങാട് ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മുണ്ടലൂർ തോട് സംരക്ഷണം -അധിക തുക",
+            "implementing_agency": "EXECUTIVE ENGINEER MINOR IRRIGATION DIVISION KANNUR",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.65,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വേങ്ങാട്തെരു കനാൽക്കര റോഡ്  കനാൽപ്പാലം പുനർനിർമ്മാണം -വേങ്ങാട് ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ധർമടം നിയോജക മണ്ഡലത്തിലെ ഗവർമെന്റ് സ്കൂളിലെ ലൈബ്രറികൾക്കു അലമാര എന്നിവ നൽകുന്നതിന്",
+            "implementing_agency": "Deputy Director of Education Kannur",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "MULLAPRAM THODU SIDE PROTECTION FROM Ch:0/210 TO 0/300 Km  IN DHARMADAM GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "kannur_shri_pinarayi_vijayan_placeholder"
+}

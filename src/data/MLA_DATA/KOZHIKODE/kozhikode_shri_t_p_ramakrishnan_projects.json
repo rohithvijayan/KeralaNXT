@@ -1,0 +1,601 @@
+{
+    "mla_name": "Shri T. P. Ramakrishnan",
+    "constituency": "PERAMBRA",
+    "district": "Kozhikode",
+    "summary": {
+        "total_expenditure_crores": 20.4032,
+        "breakdown": [
+            {
+                "label": "Others",
+                "value_crores": 7.12
+            },
+            {
+                "label": "Road",
+                "value_crores": 6.5625
+            },
+            {
+                "label": "Education",
+                "value_crores": 3.7757
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 2.795
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.15
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "ഭാരത് സ്കൗട്ട്സ് ആൻഡ് ഗൈഡ്സ് കെട്ടിട നിർമ്മാണം-കീഴരിയൂർ  പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 99.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ടി എം.ബാലകുറുപ്പ് ഗ്രന്ഥാലയ നിർമ്മാണം മാനവ (ആവള)-ചെറുവണ്ണൂർ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "പഞ്ഞാട്ട് - അവണിക്കുഴി റോഡ് - കീഴരിയൂർ ഗ്രാമപഞ്ചായത്ത് -",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "വടക്കേ പറമ്പിൽ സൈഫൺ റോഡ് - അരിക്കുളം ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ചാലിൽ മീത്തൽ കോളനി റോഡ് - കീഴരിയൂർ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "വിളയാട്ട്കണ്ടി മുക്ക് അംഗൻവാടി കെട്ടിടം, കൂത്താളി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "തുറയൂർ ഗ്രാമ പഞ്ചായത്ത് ഓഫീസ് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer, KWA",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 90.0,
+            "concurrence_lakhs": 90.0
+        },
+        {
+            "project_name": "വി പി കെ അടിയോടി ഗ്രന്ഥാലയം കെട്ടിട നിർമ്മാണം-രണ്ടാം ഘട്ടം-നൊച്ചാട് ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ഹോമിയോ ഡിസ്‌പെൻസറി കെട്ടിട നിർമ്മാണം-രണ്ടാം ഘട്ടം-നൊച്ചാട് ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Healthcare",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "രാമല്ലൂർ രയരോത്ത്  മുക്ക് കനാൽ റോഡ്-നൊച്ചാട് ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer Kuttiyadi Irrigation",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ചങ്ങരംവള്ളി കാവുംന്തറ റോഡ്-അരിക്കുളം ഗ്രാമ പഞ്ചായത്ത്-രണ്ടാം ഘട്ടം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "വാകമോളി ബസ്‌സ്റ്റോപ്പ്-വാകമോളി സ്കൂൾ റോഡ് -അരിക്കുളം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പെരുവാലിശ്ശേരി മുക്ക് ആച്ചേരി തോട് ബണ്ട് റോഡ്-കീഴരിയൂർ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചമ്പോളിതാഴ-അരീക്കരതാഴ റോഡ് രണ്ടാം ഘട്ടം-കീഴരിയൂർ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "അരീക്കൽ വീതീശ്വരം റോഡ്- കൂത്താളി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കച്ചേരിക്കുനി താഴെ കുന്നുമ്മൽ റോഡ്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ആവള കുട്ടോത്ത്  ഗവഃ ഹയർ സെക്കണ്ടറി സ്കൂൾ വാഹനം വാങ്ങൽ",
+            "implementing_agency": "Deputy Director of Education, Kozhikode",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "വെങ്ങപ്പറ്റ ജി എച് എസ്  സ്കൂളിന് കമ്പ്യൂട്ടർ ലാബ് നിർമ്മാണവും കമ്പ്യൂട്ടർ അനുബന്ധ ഉപകരണങ്ങളും",
+            "implementing_agency": "Deputy Director of Education, Kozhikode",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.57,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "PERAMBRA LAC ADS - 2023-24 - താഴെപള്ളിക്കുളം നിർമ്മാണം - രണ്ടാം ഘട്ടം, പേരാമ്പ്ര ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "PERAMBRA LAC ADS - 2024-25 - മരുതിയാട്ട്മുക്ക് - മാക്കൂട്ടംചാൽ റോഡ് പ്രവൃത്തി - രണ്ടാം ഘട്ടം, അരിക്കുളം ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "PERAMBRA LAC ADS - 2023-24 - ബഡ്സ് സ്കൂൾ കെട്ടിട നിർമ്മാണം, മേപ്പയൂർ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "PERAMBRA LAC ADS - 2024-25 - കൂനിയോട് ജി എൽ പി സ്കൂൾ കെട്ടിട നിർമ്മാണം, ചങ്ങരോത്ത് ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "PERAMBRA LAC ADS - 2024-25 - കുറ്റിക്കണ്ടി മുക്ക് - കുറ്റിക്കണ്ടി താഴ റോഡ്, അരിക്കുളം ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "PERAMBRA LAC ADS - 2024-25 - തോലേരി - പുളിച്ചിനട റോഡ്, തുറയൂർ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "PERAMBRA LAC ADS - 2024-25 - അരീക്കൻപാറ - അംഗൻവാടി റോഡ്, പേരാമ്പ്ര ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "PERAMBRA LAC ADS - 2024-25 - മദ്രസ്സ കളപ്പുറത്ത് താഴ റോഡ്, നൊച്ചാട് ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "PERAMBRA LAC ADS - 2024-25 - ചാലിക്കണ്ടി താഴ - രാമല്ലൂർ സ്കൂൾ റോഡ്, നൊച്ചാട് ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 14.58
+        },
+        {
+            "project_name": "PERAMBRA LAC ADS - 2024-25 - നൊച്ചാട് മിനി സ്റ്റേഡിയം അരിയൂര - നൊച്ചാട് ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "PERAMBRA LAC - 2024-25 - കെ കെ കണാരൻ പ്രതിഭ ലൈബ്രറി കെട്ടിടം നിർമ്മാണം, നൊച്ചാട് ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "PERAMBRA LAC ADS - 2024-25 - മാവിൻ ചുവട് നെടിയപറമ്പിൽ പീടിക റോഡ് (കോയിക്കണ്ടി ഭാഗം വരെ) - കീഴരിയൂർ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "PERAMBRA LAC ADS - 2024-25 - ജി എം എൽ പി സ്കൂൾ ആവള- കെട്ടിട നിർമ്മാണം - ചെറുവണ്ണൂർ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 44.0,
+            "concurrence_lakhs": 44.0
+        },
+        {
+            "project_name": "PERAMBRA LAC ADS - 2024-25 - പുതിയപ്പുറം നടപ്പാത (രണ്ടാം ഘട്ടം) - നൊച്ചാട് ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 36.0,
+            "concurrence_lakhs": 36.0
+        },
+        {
+            "project_name": "PERAMBRA LAC ADS - 2024-25 കല്ലൂക്കരതാഴെ - പാതിരിക്കോട്ട്മീത്തൽ റോഡ് - പേരാമ്പ്ര ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "PERAMBRA LAC ADS – 2023-24 – എടത്തിൽമുക്ക് 109ാം നമ്പർ അംഗൻവാടി കെട്ടിടം നിർമ്മാണം – മേപ്പയൂർ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "PERAMBRA LAC ADS - 2023-24 - മൊയോത്ത് താഴ കനാൽ റോഡ് - പേരാമ്പ്ര ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer Kuttiyadi Irrigation",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "PERAMBRA LAC ADS - 2024-25 - കൂത്താളി GLP സ്കൂൾ കെട്ടിട നിർമ്മാണം - രണ്ടാം ഘട്ടം - കൂത്താളി ഗ്രാ പ - സംബന്ധിച്ച്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "PERAMBRA LAC ADS - 2024-25 - പള്ളിയറകുന്നുമ്മൽ താഴെ കനാൽ റോഡ് - പേരാമ്പ്ര ഗ്രാ പ - സംബന്ധിച്ച്",
+            "implementing_agency": "Executive Engineer Kuttiyadi Irrigation",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "പേരാമ്പ്ര LAC ADS - 2020-21 - സി കെ ജി എം ഗവ. കോളേജ്  റോഡ് നിർമ്മാണം - സംബന്ധിച്ച്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2020-2021",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "PEAMBRA LAC ADS - 2024-25 - രയരോത്ത് - ചെറില്ലത്ത് ഭാഗം കനാൽ റോഡ് പേരാമ്പ്ര ഗ്രാ പ",
+            "implementing_agency": "Executive Engineer Kuttiyadi Irrigation",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ചാവട്ട് - വാളേരിമുക്ക് - നെടുമ്പൊയിൽ  കനാൽ റോഡ്, മേപ്പയ്യൂർ  ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer Kuttiyadi Irrigation",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "നൊച്ചാട് വില്ലേജ് ഓഫീസ് കെട്ടിട നിർമ്മാണം  - രണ്ടാം ഘട്ടം, നൊച്ചാട് ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "നൊച്ചാട് വില്ലേജ് ഓഫീസ് കെട്ടിട നിർമ്മാണം - ഒന്നാം ഘട്ടം, നൊച്ചാട് ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "നൊച്ചാട് വില്ലേജ് ഓഫീസല് കെട്ടിട നിർമ്മാണം, നൊച്ചാട് ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നൊച്ചാട് വില്ലേജ് ഓഫീസ് കെട്ടിട നിർമ്മാണം, നൊച്ചാട് ഗ്രാമ പഞ്ചായച്ച്",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പൈതോത്ത് ജി.എൽ.പി.സ്കൂൾ കെട്ടിടം നിർമ്മാണം, കൂത്താളി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "വെള്ളിയൂര്‍ നീന്തല്‍കുളം -  പ്രവൃത്തി പൂര്‍ത്തീകരണം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കളരിയുള്ളതിൽ കനാൽ റോഡ്, പേരാമ്പ്ര ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer Kuttiyadi Irrigation",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തണ്ടയിൽതാഴെ- മാക്കൂട്ടം കണ്ടി - മരുതിയാട്ട് ചാൽ റോഡ്, അരിക്കുളം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "ആശ്വാസകേന്ദ്രം കെട്ടിടം നിർമ്മാണം, ചക്കിട്ടപ്പ3ാറ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വെള്ളിയൂർ ശ്രീ. സുബ്രഹ്മണ്യ സ്വാമി ക്ഷേത്രം കുളം നിർമ്മാണം, നൊച്ചാട് ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ചമ്പോളിതാഴെ അരീക്കരതാഴെ റോഡ്, കീഴരിയൂർ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കാഞ്ഞിരോട്ടുമുക്ക് കനാൽപാലം , അരിക്കുളം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer Kuttiyadi Irrigation",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 19.0,
+            "concurrence_lakhs": 19.0
+        },
+        {
+            "project_name": "ചങ്ങരംവള്ളി എം.എൽ.പി സ്കൂൾ മാടക്കണ്ടി റോഡ്, മേപ്പയ്യൂർ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer Kuttiyadi Irrigation",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "കീഴരിയൂർ ഫ്രീഡം ഫൈറ്റേഴ്സ് സ്റ്റേഡിയം, കീഴരിയൂർ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ഡോ.കെ.ജി അടിയോടി സ്റ്റേഡിയം , കൂത്താളി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "പേരാമ്പ്ര നിയോജക മണ്ഡലത്തിലെ വിവിധ സ്ഥലങ്ങളിൽ ഹൈമാസ്റ്റ് ലൈറ്റുകൾ സ്ഥാപിക്കൽ\r\nപേരാമ്പ്ര ബൈപാസ് റോഡ് -  1. കക്കാട് ജംഗ്ഷൻ, ഇ.എം.എസ് ഹോസ്പിറ്റൽ റോഡ് ജംഗ്ഷൻ(ചെമ്പ്ര റോഡ്), 3. പൈതോത്ത് റോഡ് ജംഗ്ഷൻ, കല്ലോട് ജംഗ്ഷൻ  - \r\nഅരിക്കുളം മുക്ക് - അരിക്കുളം ഗ്രാമ പഞ്ചായത്ത്\r\nകടിയങ്ങാട് ടൌൺ  - ചങ്ങരോത്ത് ഗ്രാമ പഞഢ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 27.25,
+            "concurrence_lakhs": 27.25
+        },
+        {
+            "project_name": "പേരാമ്പ്ര ബ്ലോക്ക് പഞ്ചായത്ത് ഓഫീസിന് കെട്ടിട നിർമ്മാണം, - രണ്ടാംഘട്ടം,",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 99.5,
+            "concurrence_lakhs": 99.5
+        },
+        {
+            "project_name": "കോറോത്ത് മുക്ക് മനക്കൽതാഴെ റോഡ്. മേപ്പയ്യൂർ ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "തുറയൂർ ജി.യു.പി സ്കൂൾ - വാഹനം വാങ്ങൽ,  തുറയൂർ പഞ്ചായത്ത്",
+            "implementing_agency": "Deputy Director of Education, Kozhikode",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "വിളയാട്ടൂർ ജി.എൽ.പി സ്കൂൾ കെട്ടിടം നിർമ്മാണം  2ാം ഘട്ടം, മേപ്പയ്യൂർ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ഭജനമഠം പുത്തലത്ത് താഴെ എളംകൂറ്റിൽ താഴെ റോഡ്, മേപ്പയ്യൂർ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "പേരാമ്പ്ര ബസ്റ്റാന്‍റ് നവീകരണ പ്രവൃത്തി - രണ്ടാംഘട്ടം, പേരാമ്പ്ര ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 14.5,
+            "concurrence_lakhs": 14.5
+        },
+        {
+            "project_name": "മാണി മാധവചാക്യാര്‍ സാംസ്ക്കാരിക കേന്ദ്രം പണി പൂര്‍ത്തീകരിക്കല്‍ (രണ്ടാം ഘട്ടം)",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 49.5,
+            "concurrence_lakhs": 49.5
+        },
+        {
+            "project_name": "അരിക്കുളം കുടുംബാരോഗ്യ കേന്ദ്രത്തിലെ നിലവിലുള്ള കെട്ടിടത്തിൻറെ മുകൾനില നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "മാണി മാധവചാക്യാർ സാംസ്കാരിക കേന്ദ്രം - നിർമ്മാണ പൂർത്തീകരണം (രണ്ടാം ഘട്ടം)",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 49.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കൂത്താളി കുടുംബാരോഗ്യ കേന്ദ്രം കെട്ടിട നിര്‍മ്മാണം, കൂത്താളി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 99.5,
+            "concurrence_lakhs": 99.5
+        },
+        {
+            "project_name": "കീഴരിയൂര്‍ കുടുംബാരോഗ്യ കേന്ദ്രത്തിന്‍റെ രണ്ടാംഘട്ട നിര്‍മ്മാണം.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "ബ്ലോക്ക് പഞ്ചായത്ത് ഓഫീസ് കെട്ടിട നിര്‍മ്മാണം, പേരാമ്പ്ര ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 99.5,
+            "concurrence_lakhs": 99.5
+        },
+        {
+            "project_name": "കിഴക്കുംപാടം ശിവപുരി റോഡ്",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ആവള ടി ഗ്രന്ഥാലയം കെട്ടിട നിർമ്മാണം , ചെറുവണ്ണൂർ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "kozhikode_shri_t_p_ramakrishnan_placeholder"
+}

@@ -1,0 +1,685 @@
+{
+    "mla_name": "Shri P. Prasad",
+    "constituency": "CHERTHALA",
+    "district": "Alappuzha",
+    "summary": {
+        "total_expenditure_crores": 19.6806,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 12.5846
+            },
+            {
+                "label": "Others",
+                "value_crores": 3.7046
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 0.953
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.7
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 0.67
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.5284
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.42
+            },
+            {
+                "label": "Education",
+                "value_crores": 0.12
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "ചേർത്തല മുനിസിപ്പാലിറ്റി - വാർഡ് 9  - ലേഡീസ് ഹോസ്റ്റൽ - വില്ലേജ് ഓഫീസ് റോഡ് നിർമ്മണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 52.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മുഹമ്മ  ഗ്രാമപഞ്ചായത്ത്  - വാർഡ് -7 - വൈക്കത്ത് തോട് ആഴംകൂട്ടി പാർശ്വഭിത്തി   നിർമ്മാണം, മുഹമ്മ വൈക്കത്ത് തോട് ഡിപ്പോ കടവ് പാർശ്വഭിത്തി നിർമ്മാണം.",
+            "implementing_agency": "ഇറിഗേഷൻ",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 42.0,
+            "concurrence_lakhs": 42.0
+        },
+        {
+            "project_name": "ചേര്‍ത്തല നഗരസഭ വാർഡ് 24 - സെൻ്റ് മാർട്ടിൻ കരുവ സ്ക്കൂൾ റോഡ് നിർമ്മാണം.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ചേർത്തല നിയോജകമണ്ഡലത്തിലെ വിവിധ സ്ഥലങ്ങളില്‍ ഹൈമാസ്റ്റ്/മിനിമാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കല്‍",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 79.52,
+            "concurrence_lakhs": 79.52
+        },
+        {
+            "project_name": "ചേർത്തല മണ്ഡലത്തിൽ  വിവിധ സ്ഥലങ്ങളിൽ  ഹൈമാസ്റ്റ്/മിനിമാസ്റ്റ് ലൈറ്റുകൾ സ്ഥാപിക്കൽ",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.94,
+            "concurrence_lakhs": 15.94
+        },
+        {
+            "project_name": "ചേര്‍ത്തല തെക്ക് ഗ്രാമപഞ്ചായത്ത്‌ - അംഗനവാടി നമ്പര്‍ 67 - കെട്ടിടനിര്‍മ്മാണം.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തണ്ണീര്‍മുക്കം ഗ്രാമപഞ്ചായത്ത്‌ - വാര്‍ഡ്‌ -1 - കാട്ടുങ്കൽ - കപ്പ്യാനത്തുകരി റോഡ്‌ ടാറിംഗ്.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ഒരു പഞ്ചായത്തിൽ ഒരു കളിക്കളം പദ്ധതിയിൽ ഉൾപ്പെടുത്തി ചേര്‍ത്തല നിയോജക മണ്ഡലത്തിലെ തണ്ണീർമുക്കം പഞ്ചായത്ത് സ്റ്റേഡിയം നിര്‍മ്മാണം.",
+            "implementing_agency": "Sports Kerala Foundation",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "വയലാർ ഗ്രാമപഞ്ചായത്ത് - വാര്‍ഡ്‌ - 3 - നെയ്യാരപ്പള്ളി പുതുമന ക്ഷേത്രം റോഡ് മെറ്റലിംഗും ടാറിംഗും",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "പട്ടണക്കാട് ഗ്രാമപഞ്ചായത്ത്‌ - വാര്‍ഡ്‌ 14 - തന്നിക്കല്‍ മൂര്‍ത്തിക്കല്‍ റോഡ്‌ മെറ്റലിംഗ് & ടാറിംഗ് .",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "മുഹമ്മ ഗ്രാമപഞ്ചായത്ത്‌ - വാര്‍ഡ്‌ - 13 - മൃഗാശുപത്രി തറയ്ക്കല്‍ പുതുപറമ്പ് റോഡ്‌ - മെറ്റലിംഗ് & ടാറിംഗ്.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 22.1,
+            "concurrence_lakhs": 22.1
+        },
+        {
+            "project_name": "മുഹമ്മ ഗ്രാമപഞ്ചായത്ത്‌ - വാര്‍ഡ്‌ -14 - പുത്തന്‍വെളി ഊരാളില്‍ റോഡ്‌ മെറ്റലിംഗ് & ടാറിംഗ്.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.22,
+            "concurrence_lakhs": 12.22
+        },
+        {
+            "project_name": "തണ്ണീര്‍മുക്കം ഗ്രാമപഞ്ചായത്ത്‌ - വാര്‍ഡ്‌ - 14 - ഉണ്ണേൃച്ചിറ തുരുത്തേല്‍ റോഡ്‌ റീ ടാറിംഗ്.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കടക്കരപ്പള്ളി ഗ്രാമപഞ്ചായത്ത്‌ - വാര്‍ഡ്‌ 5 - താഴ്ച്ചയില്‍ - കരിമന്തറ റോഡ്‌ ഫോര്‍മേഷന്‍ .",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കടക്കരപ്പള്ളി ഗ്രാമപഞ്ചായത്ത്‌ - എ എസ് ജംഗ്ഷന്‍ - തൈശ്ശേരി റോഡ്‌ നിര്‍മ്മാണം.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "വയലാർ - VRVM Govt HSS Vayalar സ്കൂൾ കെട്ടിട നിർമ്മാണം.",
+            "implementing_agency": "KILA",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "തണ്ണീര്‍മുക്കം ഗ്രാമപഞ്ചായത്ത്‌ - വാര്‍ഡ്‌ - 21 - ആനക്കോടന്‍ കവല കാക്കനാട് ക്ഷേത്രം റോഡ്‌ റീടാറിംഗ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "തണ്ണീര്‍മുക്കം ഗ്രാമപഞ്ചായത്ത്‌ - വാര്‍ഡ്‌ -21 ,ആനക്കോടന്‍ കവല കാക്കനാട് ക്ഷേത്രം റോഡ്‌ റീടാറിം.",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തണ്ണീര്‍മുക്കം ഗ്രാമപഞ്ചായത്ത്‌ - നേടുംചിറ പാല്‍ച്ചിറ റോഡ്‌ മെറ്റലിംഗും ടാറിംഗും",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "വയലാർ ഗ്രാമപഞ്ചായത്ത്‌ , വാര്‍ഡ് - 3  ചാത്തൻചിറ ബാങ്ക് റോഡ് റീ ടാറിംഗ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ചേര്‍ത്തല - വയലാര്‍  ഗ്രാമപഞ്ചായത്ത്‌ ഒതല ക്ഷീര  ക്ഷീരോത്പാത സഘം (APCOS 292) കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ചേര്‍ത്തല KSRTC ബസ്‌ സ്റ്റാന്‍ഡില്‍ വനിതാവിശ്രമകേന്ദ്രം നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "മുഹമ്മ ഗ്രാമപഞ്ചായത്ത് വിശ്വഹാജിമഠം-സമന്വയറോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "മുഹമ്മ ഗ്രാമപഞ്ചായത്ത് വാർഡ് 16 വിക്ടറി -കൊച്ചനാകുളങ്ങര റോഡ് മെറ്റലിംഗും ടാറിംഗും",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 27.47,
+            "concurrence_lakhs": 27.47
+        },
+        {
+            "project_name": "കഞ്ഞിക്കുഴി ,തണ്ണീർമുക്കം ഗ്രാമപഞ്ചായത്തുകളിലായുള്ള അയ്യപ്പൻ്‍ചേരി-പുത്തനങ്ങാടി തീയേറ്റർ റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ചേര്‍ത്തല തെക്ക് ഗ്രാമപഞ്ചായത്ത്  22,4,3,2 വാർഡുകളിലെ സെന്‍റ് ജോർജ്ജ് പള്ളി കുഞ്ഞിത്തൈ റോഡ് ടാറിംഗ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "തണ്ണീര്‍മുക്കം ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 4 ടാക്സിഹൌസ്-കുത്തുകാട് ക്ഷേത്രം കായല്‍ത്തീരം റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "ചേര്‍ത്തലതെക്ക് വാര്‍ഡ് 12 മായിത്തറ-ഇലഞ്ഞിയില്‍ പാലം റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 27.4,
+            "concurrence_lakhs": 27.4
+        },
+        {
+            "project_name": "കഞ്ഞിക്കുഴി ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 6 ഞാറുവെളി-മൂലംവെളി റോഡ് മെറ്റലിംഗും ടാറിംഗും",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 16.49,
+            "concurrence_lakhs": 16.49
+        },
+        {
+            "project_name": "തണ്ണീര്‍മുക്കം ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 5 നെടുംചിറ-പാല്‍ചിറ റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മുഹമ്മ ഗ്രാമപഞ്ചായത്ത് സംസ്കൃതം സ്ക്കൂള്‍-വേമ്പനാട് റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കടക്കരപ്പള്ളി ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 11 വാഴത്തുളശ്ശേരി-ചെറിയാപറമ്പ് കുഞ്ഞിത്തൈ റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പട്ടണക്കാട് ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 9 ഉഴവുചാല്‍-തറമൂട് റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വയലാര്‍ ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 7 പി.ആര്‍.സിയ്ക്ക് തെക്ക് മഹാവിഷ്ണുക്ഷേത്രപരിസരത്ത് ഓടനിര്‍മ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ചേര്‍ത്തല മുനിസിപ്പാലിറ്റി വാര്‍ഡ് 9 പഴയാറ്റ്-മാലിച്ചിറ റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചേര്‍ത്ത മുനിസിപ്പാലിറ്റി വാര്‍ഡ് 29 ഗാന്ധി ബസാര്‍ ഷോപ്പിംഗ് കോംപ്ലക്സിന്  തെക്ക് കാണ നിര്‍മ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചേര്‍ത്തല മുനിസിപ്പാലിറ്റി വാര്‍ഡ് 29 ടി.ഡി റോഡ് റീടാറിംഗും ഗാന്ധിബസാർ ഷോപ്പിംഗ് കോംപ്ലക്സിന് തെക്ക് വശം കാന നിർമ്മാണവും",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 33.3
+        },
+        {
+            "project_name": "വയലാര്‍ ഗ്രാമപഞ്ചായത്ത് കൈതവേലി-ആളാശ്ശേരി റോഡ് ടാറിംഗ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ചേര്‍ത്തല മള്‍ട്ടി ഡിസിപ്ലിനറി റീഹാബിലിറ്റേഷന്‍ സെന്‍റര്‍-ബി.ആര്‍.സി",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തണ്ണീര്‍‍മുക്കം ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 2 വേങ്ങയില്‍-പഴംപള്ളി റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "മുഹമ്മ ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 14 കൊറ്റാറ-നെല്ലിശ്ശേരി റോഡ് മെറ്റലിംഗും ടാറിംഗും",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ചേര്‍ത്തല തെക്ക് ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 9,10,21 ഒരുമ ജംഗ്ഷന്‍ -തിരുതേക്കാട്ട്-മച്ചുങ്കല്‍ റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 26.92,
+            "concurrence_lakhs": 26.92
+        },
+        {
+            "project_name": "തണ്ണീര്‍മുക്കം പഞ്ചായത്ത് വാര്‍ഡ് 7,14 നെല്ലാത്തോട്-കൊശവരം റോഡ് മെറ്റലിംഗും ടാറിംഗും",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ചേര്‍ത്തല മുനിസിപ്പാലിറ്റി വാര്‍ഡ് 28 ചീനം തോടിനു മുകളില്‍ സ്ലാബ് ഇട്ട് റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "മുഹമ്മ ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 9 പള്ളിക്കുന്ന് -നിവര്‍ത്തില്‍ പിച്ചിംഗ് ടൈല്‍ റോഡ് ഫോര്‍മേഷന്‍",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചേര്‍ത്തല മുനിസിപ്പാലിറ്റി വാര്‍ഡ് 2 മൂലയില്‍ പള്ളി -പുല്ലുരുത്തി റോഡ് ടാറിംഗ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ചേര്‍ത്തല എസ്.എന്‍.എം.ജി.ബി.എച്ച്.എസ്.എസ് ഹയര്‍സെക്കന്‍ററി വിഭാഗത്തിന് ക്ലാസ് റൂം നിര്‍മ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 100.0,
+            "concurrence_lakhs": 99.97
+        },
+        {
+            "project_name": "ചേർത്തല വയലാർ കളവംകോടം ഉഴുവ ക്ഷീരോത്പാദക സഹകരണ സംഘത്തിന്‍റെ  (APCOS -218 ) കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ചേർത്തല തെക്ക് ഗ്രാമ  പഞ്ചായത്ത് വാർഡ് -13 തിരുവിഴ -കൊല്ലേലി റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 28.0,
+            "concurrence_lakhs": 28.0
+        },
+        {
+            "project_name": "ചേർത്തല സി.എം.സി -24 കിഴക്കേനാൽപ്പത് -മഴുവഞ്ചേരി റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.82,
+            "concurrence_lakhs": 15.82
+        },
+        {
+            "project_name": "ചേർത്തല  സി.എം.സി -1 ഓംകാരേശ്വരം - പരപ്പേൽ റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 27.04,
+            "concurrence_lakhs": 27.04
+        },
+        {
+            "project_name": "ചേര്‍ത്തല ഗവ ബോയ്സ് ഹൈസ്ക്കൂള്‍ ഗ്രൌണ്ട്,ടി ബി കനാല്‍ പാര്‍ക്ക് എന്നിവിടങ്ങളില്‍ ഓപ്പണ്‍ ജിംനേഷ്യം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Sports",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "വയലാര്‍ കഴുന്നാരം കോളനി വയോജന പാര്‍ക്ക്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ചേര്‍ത്തല കെ.എസ്.ആര്‍.ടി.സി വനിത വിശ്രമ കേന്ദ്രം നിര്‍മ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പട്ടണക്കാട് വാര്‍ഡ് 5 ചങ്ങംവേലി-മാലി തോട് റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചേര്‍ത്തല തെക്ക് വാര്‍ഡ് 13 -തിരുവിഴ-കൊല്ലേലി  റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 28.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കടക്കരപ്പള്ളി വാര്‍ഡ് 10 പുത്തന്‍തറ-കൊച്ചു തറ റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "ചേര്‍ത്തല നഗരസഭ സി.എം.സി 16-പടിഞ്ഞാറെക്കര-തോട്ടത്തില്‍ കവല റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "തണ്ണീര്‍മുക്കം പുത്തനങ്ങാടി-പാലൂത്ര പള്ളി റോഡ് റീടാറിംഗ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "തണ്ണീര്‍മുക്കം വാര്‍ഡ് 18,19 വലിയകരിച്ചിറ തോടിന് കുറുകെ പാലം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "പട്ടണക്കാട് വാര്‍ഡ് 3 ഇളമത്ത്-ചാലുങ്കല്‍ റോഡ്(ബാലന്‍സ് ഫോര്‍മേഷന്‍)",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ചേര്‍ത്തല സ്കൌട്ട്സ് & ഗൈഡ്സ് കെട്ടിടത്തിന് ഒരു നില കൂടി പണിയുന്നതിന്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "മുഹമ്മ വാര്‍ഡ് 4 വിശ്വഗാജി മഠം-സമന്വയ റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ചേര്‍ത്തല നഗരസഭ 24 മറ്റവന-ഷണ്‍മുഖ ക്ഷേത്രം റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "സി.എം.സി 6-വഞ്ചിത്തറ-ഇടത്തുരുത്തില്‍ റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഒരു പഞ്ചായത്തില്‍ ഒരു കളിക്കളം പദ്ധതിയില്‍ ഉള്‍പ്പെടുത്തി ചാരമംഗലം ഡിവിഎച്ച് എസ് എസ് ഗ്രൌണ്ട് നവീകരണം",
+            "implementing_agency": "Sports Kerala Foundation",
+            "category": "Sports",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ചേര്‍ത്തല നിയോജകമണ്ഡലത്തിലെ വിവിധ പ്രദേശങ്ങളില്‍ ഹൈമാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കല്‍",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 42.0,
+            "concurrence_lakhs": 42.0
+        },
+        {
+            "project_name": "ചേര്‍ത്തല ഇട്ടി അച്യുതന്‍ മെമ്മോറിയല്‍ ആയുര്‍വേദ ആശുപത്രിക്ക് പുതിയ കെട്ടിടം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 52.84,
+            "concurrence_lakhs": 52.84
+        },
+        {
+            "project_name": "ചേര്‍ത്തല നഗര സഭ വാര്‍ഡ് 3 ല്‍ പട്ടാറ -പടിഞ്ഞാറെമട്ടയ്ക്കല്‍ റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.3,
+            "concurrence_lakhs": 14.39
+        },
+        {
+            "project_name": "ചേര്‍ത്തല മുനിസിപ്പാലിറ്റിയില്‍ പ്രൈവറ്റ് ബസ് സ്റ്റാന്‍ഡിന് സമീപം എ.എസ് കനാലിനു കുറുകെ ഇരുമ്പ് നടപ്പാലം നിര്‍മ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 29.3,
+            "concurrence_lakhs": 29.3
+        },
+        {
+            "project_name": "ചേർത്തല നിയോജകമണ്ഡലത്തിലെ വിവിവിധ സ്ഥലങ്ങളിൽ ഹൈമാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കൽ",
+            "implementing_agency": "പൊതുമരാമത്ത് ഇലക്ട്രിക്കൽ വിഭാഗം",
+            "category": "Electricity",
+            "fy": "2021-2022",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചേർത്തല നഗര സഭ വാർഡ് 17 ൽ ആഞ്ഞിലിപ്പാലം-പുത്തൻ പറമ്പിൽ റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.7,
+            "concurrence_lakhs": 15.7
+        },
+        {
+            "project_name": "തണ്ണീർമുക്കം പഞ്ചായത്ത് വാർഡ് 11-ൽ പുത്തനങ്ങാടി-ബലിക്കുളം മുത്തുവീട് റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ചേർത്തല തെക്ക് ആലപ്പറമ്പ്- കുരിശ്ശിങ്കൽ കുളങ്ങര റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 22.0
+        },
+        {
+            "project_name": "വയലാർ പഞ്ചായത്ത് വാർഡ് 9- മീനപ്പള്ളി-വട്ടത്തറ റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "തണ്ണീർമുക്കം പുത്തനങ്ങാ‍ടി-മുസ്ലിം പള്ളി റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 22.7,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പട്ടണക്കാട്-10 അടിവാക്കൽ-ഊട്ടു പറമ്പ് റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വയലാർ വാർഡ് 15,1,2,3 ഹെൽത്ത് സെന്റർ-പ്ലാശ്ശേരി അംബേദ് കർ റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ചേർത്തല വയലാർ രാമവർമ്മ  മെമ്മോറിയൽ ഹയർ സെക്കന്ററി സ്കൂളിൽ  ഓപ്പൺ ഓഡിറ്റോറിയം",
+            "implementing_agency": "ഗ്രാമവികസനം",
+            "category": "Infrastructure",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.3,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "alappuzha_shri_p_prasad_placeholder"
+}

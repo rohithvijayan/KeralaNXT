@@ -1,0 +1,541 @@
+{
+    "mla_name": "Shri K.P. Kunhammed Kutty Master",
+    "constituency": "KUTTIADI",
+    "district": "Kozhikode",
+    "summary": {
+        "total_expenditure_crores": 17.5663,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 10.8693
+            },
+            {
+                "label": "Others",
+                "value_crores": 3.377
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 1.9
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 0.8
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.37
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.25
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "കുറ്റ്യാടി ഗ്രാമ പഞ്ചായത്തിലെ 2 റോഡുകൾ 1.പന്തിരടി താഴ പാലോങ്കര റോഡ് 2.കുന്നമ്മൽ കുനിയിൽ റോഡ്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മത്തത് താഴെ ഫൂട്ട് പാത്ത് നിർമ്മാണം-കുറ്റ്യാടി പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 28.0,
+            "concurrence_lakhs": 28.0
+        },
+        {
+            "project_name": "കാവിൽ കുട്ടോത്ത് റോഡ്-വില്യാപ്പള്ളി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "വലതുകര മെയിൻ കനാലിന് കുറുകെ  കൾവേർട്ട്  നിർമ്മാണം-CH 23/200 -കുന്നുമ്മൽ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer Kuttiyadi Irrigation",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കാർഗിൽ മുക്ക് റോഡ് -മണിയൂർ ഗ്രാമ പഞ്ചായത്ത്(2017-18 ലെ ടെണ്ടർ സേവിംഗ്സ്)",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ചെറിയ മണ്ണന്തല മുണ്ടന്നൂർ ദേശം റോഡ്-മണിയൂർ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മുതുവന പോസ്റ്റ് ഓഫീസ് -കുയ്യാലിൽ ക്ഷേത്രം റോഡ്-മണിയൂർ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കൊക്കാലിടത്തിൽ മുക്ക്-വടക്കേ പറമ്പിൽ മുക്ക് റോഡ്-മണിയൂർ  ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കുറ്റ്യാടി -വലകെട്ട് കൈപ്രം കടവ് റോഡ് സുരക്ഷ ഭിത്തിയും അനുബന്ധ നിര്‍മ്മാണവും",
+            "implementing_agency": "Executive Engineer National Highways",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "വടയക്കണ്ടി നഗർ പശ്ചാത്തല സൗകര്യ വികസനം-കുന്നുമ്മൽ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "KUTTIADI LAC ADS - 2024-25 - വേളം ഗ്രാമപഞ്ചായത്തിലെ 4 റോഡുകൾ (1. നൊച്ചാട് - പുളിയർകണ്ടി റോഡ് 2. മെമ്മേത്ത്മുക്ക് കൊയ്യൂറക്കുന്ന് പഞ്ചായത്ത് കിണർ റോഡ് 3. കുന്നോത്ത്മീത്തൽമുക്ക് കൊറ്റോത്ത് റോഡ് 4. പുത്തൻപുരയിൽകുന്ന് ഒന്തന് കുന്ന് കുന്നുമ്മൽകണ്ടി താഴെ റോഡ്)",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "KUTTIADI LAC ADS - 2024-25 - മണിയൂർ ഗ്രാമപഞ്ചായത്ത് സ്റ്റേഡിയം നിർമ്മാണം, മണിയൂർ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Chief Engineer Sports Kerala Foundation",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "KUTTIADI LAC ADS - 2024-25 - പുതിയടത്തു താഴെ - മൊട്ടംതറ റോഡ്, തിരുവള്ളൂർ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "KUTTIADI LAC ADS - 2024-25 - മയ്യന്നൂർ സ്റ്റേഡിയം നിർമ്മാണം, വില്ല്യാപ്പള്ളി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "KUTTIADI LAC ADS - 2024-25 - വേളം ഗ്രാമപഞ്ചായത്തിലെ 3 റോഡുകൾ (1. മഠത്തിൽമുക്ക് വരിക്കോളി റോഡ് 2. ചെറുകുന്ന് അംഗൻവാടി റോഡ് 3. രയരോത്ത്മുക്ക്-കൊമ്മാട്ട്കണ്ടി റോഡ്)",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "KUTTIADI LAC ADS - 2024-25 - വടയംകണ്ടി നഗർ പാത്ത് വെ നിർമ്മാണം, കുന്നുമ്മൽ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer Kuttiyadi Irrigation",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "KUTTIADI LAC ADS - 2024-25 - 1.കുറ്റ്യാടി ഡയാലിസിസ് സെൻറർ പൂർത്തീകരണം 2.തുമ്പക്കുന്ന് വെള്ളോലിപ്പിൽ റോഡ് - കുറ്റ്യാടി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 13.5,
+            "concurrence_lakhs": 13.5
+        },
+        {
+            "project_name": "KUTTIADI LAC ADS - 2024-25 - തിരുവള്ളൂർ ഗ്രാമപഞ്ചായത്തിലെ 4 റോഡുകൾ (1. പള്ളിക്കുന്ന് ഭജനമഠം മനക്കൽമീത്തൽ റോഡ് 2. വെള്ളക്കംവീട്ടിൽ കടവത്ത് വയൽ റോഡ് 3. വടക്കയിൽമുക്ക് മലപ്പാടിമുക്ക് റോഡ് 4. വെങ്ങലാശ്ശേരിതാഴെ മാഹി കനാൽ റോഡ്)",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 37.0,
+            "concurrence_lakhs": 37.0
+        },
+        {
+            "project_name": "KUTTIADI LAC ADS - 2024-25 (2017-18 ലെ ടെണ്ടർ സേവിംഗ്സ്) - ചെറക്കൽ മുക്ക് - കോമത്ത് കണ്ടി മുക്ക് റോഡ്  - വേളം ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.8,
+            "concurrence_lakhs": 10.8
+        },
+        {
+            "project_name": "നടക്ക് മീത്തൽ - പുളിക്കൽ താഴെ റോഡ് - പുറമേരി ഗ്രാമപഞ്ചായത്ത് (2017-18 ടെണ്ടർ സേവിംഗ്സ്)",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MIM കുന്നോത്ത് താഴെ റോഡ് - പുറമേരി ഗ്രാമപഞ്ചായത്ത് (2017-18 ടെണ്ടർ സോവിംഗ്സ്)",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "KUTTIADI LAC ADS - 2024-25 - പുറമേരി ഗ്രാമപഞ്ചായത്തിലെ 6 റോഡുകൾ 1. ഉദയപുരം പുത്തൻപുര മുക്ക് റോഡ് 2. കോമൻറവിട ജംഗ്ഷൻ ചതുരോടിക്കണ്ടി റോഡ് 3. മീത്തലെ പീടിക കനാൽ റോഡ് 4. തയ്യുള്ളതിൽ പുളിക്കൂൽ ചാൽ റോഡ് 5. കാരയിൽമുക്ക് വെണ്ടേക്കുള്ളതിൽ ജലനിധി ടാങ്ക് റോഡ് 6. കൂട്ടാക്കൂൽമുക്ക് പെരുമുണ്ടശ്ശേരി എ എം എൽ പി സ്കൂൾ റോഡ്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 48.0,
+            "concurrence_lakhs": 48.0
+        },
+        {
+            "project_name": "KUTTIADI LAC ADS - 2024-25 - കുന്നുമ്മൽ കമ്മ്യൂണിറ്റി ഹാൾ പൂർത്തീകരണം - കുന്നുമ്മൽ ഗ്രാ പ - സംബന്ധിച്ച്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "KUTTIADI LAC ADS - 2023-24 - (2018-19, 2019-20 ടെണ്ടർ സേവിംഗ്സ്)  - പൊന്നത്ത്മുക്ക് പുതിയേടത്ത് താഴെ റോഡ് - പുറമേരി ഗ്രാ പ - സംബന്ധിച്ച്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.63,
+            "concurrence_lakhs": 10.63
+        },
+        {
+            "project_name": "KUTTIADI LAC ADS - 2023-24 (2018-19, 2019-20 - Tender Savings) - രയരോത്ത് മുക്ക് - പുത്തലത്ത് പാത്ത് വേ - വേളം ഗ്രാ പ - സംബന്ധിച്ച്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 33.7,
+            "concurrence_lakhs": 33.7
+        },
+        {
+            "project_name": "KUTTIADI LAC ADS - 2024-25 (2017-18 Tender Savings) - ഹരിത വയൽ ചന്തമുക്ക് റോഡ്- പുറമേരി ഗ്രാ പ - സംബന്ധിച്ച്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "KUTTIADI LAC ADS - 2024-25 (2017-18 Tender Savings) - മുതുവടത്തൂർ കുന്നത്ത് താഴെ കല്ലിൽ പള്ളി റോഡ് - പുറമേരി ഗ്രാ പ - സംബന്ധിച്ച്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കുറ്റ്യാടി ഗ്രാമ പഞ്ചായത്തിലെ 2 റോഡുകൾക്ക് തുക അനുവദിക്കൽ (കൊടകപ്പറമ്പ് തരിപ്പൊയിൽ റോഡ് - 5 ലക്ഷം, കുഴിക്കാട്ട് ഫുട്പാത്ത് - 10 ലക്ഷം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കുറ്റ്യാടി  ഗ്രാമ പഞ്ചായത്തിലെ 4 റോഡുകള്‍ക്ക് തുക അനുവദിക്കൽ (1) ആലത്താംതറമുക്ക് പുത്തൻപുര താഴെ റോഡ് – 6ലക്ഷം (2) കൊളത്താംകുഴി നീലേച്ചുകുന്ന് റോഡ് – 12 ലക്ഷം (3) കൊരട്ടോടി താഴെ റോഡ് – 6 ലക്ഷം (4) വട്ടക്കണ്ടിപാറ കൂരോട്ടു റോഡ് – 10ലക്ഷം, (",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 34.0,
+            "concurrence_lakhs": 34.0
+        },
+        {
+            "project_name": "തിരുവള്ളൂർ ഗ്രാമ പഞ്ചായത്തിലെ 6 റോഡുകൾക്ക് തുക അനുവദിക്കൽ (തുരുത്തി കിഴക്കയിൽ താഴ റോഡ് - 5ലക്ഷം, കൊയിലോത്ത് മുക്ക് വായാട്ടുപൊയിൽ റോഡ് - 9ലക്ഷം, ചിറമുക്ക് ശിവക്ഷേത്രം റോഡ് - 7 ലക്ഷം, പാറക്കെട്ടിൽമുക്ക് നെല്ലാച്ചേരി റോഡ് - 8 ലക്ഷം, പൂക്കോട്ട് അംഗൻവാടി മുത്തപ്പൻ ക്ഷേത്രം റോഡ് - 8 ലക്ഷം, നിടുങ്കുനി പരപ്പിള്ളി റോഡ് - 5 ലക്ഷം)",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 29.0,
+            "concurrence_lakhs": 42.0
+        },
+        {
+            "project_name": "വില്ല്യാപ്പള്ളി ഗ്രാമപഞ്ചായത്തിലെ 7 റോഡുകൾക്ക് തുക അനുവദിക്കൽ (1 ) വില്ല്യാപ്പള്ളി വില്ലേജ് ഓഫീസ് റോഡ് - 3  ലക്ഷം, (2 ) പൊന്നിട്ടപറമ്പ് പാലോളി പറമ്പത്ത് റോഡ് - 7 ലക്ഷം (3 )കീഴൽ ദേവി വിലാസം റോഡ് - 7 ലക്ഷം, (4 )മേമുണ്ട മഠം കൊല്ലറത്ത് താഴെ റോഡ് - 10 ലക്ഷം, (5 ) അയനിക്കൂൽകുനി പെരുമ്പയിൽ വങ്ങണമുക്ക് റോഡ് -  10  ലക്ഷം, (6 ) അയിവയൽ പുത്രോളി റോഡ് - 6 ലക്ഷം (7 ) തൊള്ളംപറക്കൽ മുതൽ രാമത്ത് മുക്ക് കനാൽ റോഡ് - 10  ലക്ഷം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 53.0,
+            "concurrence_lakhs": 53.0
+        },
+        {
+            "project_name": "ആയഞ്ചേരി ഗ്രാമ പഞ്ചായത്തിലെ 6  റോഡുകൾക്ക് തുക അനുവദിക്കൽ (1 ) രയരോത്ത് മുക്ക് പന്തലിൽ പാറ റോഡ് - 10 ലക്ഷം,(2 ) മേലേടത്ത് മുക്ക് തോണിയത്ത് താഴെ റോഡ് - 8 ലക്ഷം,(3 ) വലിയമല നാലുസെൻറ് കോളനി റോഡ് - 5 ലക്ഷം, (4 ) കൊളക്കാട്ടുതാഴെ റോഡ് - 8 ലക്ഷം,(5 ) തോട്ടോോളിമുക്ക് ഒറ്റമാക്കൂൽ താഴ നരിച്ചാക്കുനി റോഡ് - 9 ലക്ഷം, (6 )കണ്ണങ്കോട്ടുമുക്ക് ചാലിൽ റോഡ് - 5 ലക്ഷം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        },
+        {
+            "project_name": "കുുറ്റ്യാടി മണ്ഡലത്തിലെ വിവിധ സ്ഥലങ്ങളിൽ മിനിമാസ്റ്റ് ലൈറ്റുകൾ സ്ഥാപിക്കൽ",
+            "implementing_agency": "Executive Engineer, PWD, Electricals,Kozhikode",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 80.0,
+            "concurrence_lakhs": 80.0
+        },
+        {
+            "project_name": "ചെമ്മരത്തൂര്‍ ചെക്കോട്ടി ബസാര്‍ റോഡ്. തിരുവള്ളൂര്‍ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "മൊകേരി ചെക്യാട് ഇ.എം.എസ് ഇൻഡോർ സ്റ്റേഡിയം നിർമ്മാണം, കുന്നുമ്മൽ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "മണിയൂർ ഗ്രാമപഞ്ചായത്തിലെ 5 റോഡുകൾക്ക് തുക അനുവദിക്കൽ (1 ) മുതുവന പോസ്റ്റ് ഓഫീസ് കുയ്യാൽ ശിവക്ഷേത്രം റോഡ് - 10 ലക്ഷം, (2 ) കുയ്യുണ്ടതിൽമുക്ക് തെക്കെതാഴ റോഡ് - 7 ലക്ഷം (3 ) കോലാച്ചെരി മത്തം തീരദേശ റോഡ് - 8 ലക്ഷം, (4 ) ആശാരിക്കണ്ടി മുക്ക് ആശാരിക്കണ്ടി താഴ റോഡ് - 14 ലക്ഷം,തരിപ്പമല അയ്യംകുഴി മീത്തൽ റോഡ് - 10 ലക്ഷം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 49.0,
+            "concurrence_lakhs": 49.0
+        },
+        {
+            "project_name": "കാരാളിപ്പാലം ചെറുവന്തല ക്ഷേത്രം റോഡ് (രണ്ടാം ഘട്ടം)",
+            "implementing_agency": "Executive Engineer Kuttiyadi Irrigation",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കുന്നുമ്മൽ ബ്ലോക്ക് പഞ്ചായത്ത് കെട്ടിട നിർമ്മാണം, കുന്നുമ്മൽ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "മണിയൂർ എഞ്ചിനീയറിംഗ് കോളേജ് കളിസ്ഥലം നിർമ്മാണം, മണിയൂർ ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 28.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "തോടന്നൂർ AEO ഓഫീസ് കെട്ടിട നിർമ്മാണം, തിരുവള്ളൂർ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 100.0,
+            "concurrence_lakhs": 99.0
+        },
+        {
+            "project_name": "വേളം ഗ്രാമപഞ്ചായത്തിലെ 2 റോഡുകള്‍ക്ക് തുക  അനുവദിക്കല്‍\r\n  1.എളളില്‍ മുക്ക് കുറിച്ചകം ജി.എല്‍.പി സ്കൂള്‍ റോഡ്- 15 ലക്ഷം\r\n  2.കണക്കച്ചേരി മുക്ക് പുത്തലത്ത് റോഡ്- 10 ലക്ഷം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "വില്ല്യാപ്പള്ളി ഗ്രാമ പഞ്ചായത്തിലെ 2 റോഡുകൾക്ക് തുക അനുവദിക്കൽ\r\n 1. തിരുവോത്ത് കോട്ടയിൽ താഴെ റോഡ് (വാർഡ് 19) - 15 ലക്ഷം\r\n 2. പട്ടർ മഠം കുറുപ്പച്ചൻ കുന്ന് തൊഴിലാളി മുക്ക് റോഡ് – 15 ലക്ഷം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "മണിയൂർ ഗവ. എച്ച്. എസ്. എസ്. ഗ്രൗണ്ട് റിനോവേഷൻ (രണ്ടാം ഘട്ടം), മണിയൂർ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "മണിയൂർ ഗവ. എച്ച്. എസ്. എസ്. ഗ്രൗണ്ട് റിനോവേഷൻ (രണ്ടാം ഘട്ടം), മണിയൂർ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മണിയൂർ ഗവ. എച്ച്. എസ്. എസ്. ഗ്രൗണ്ട് റിനോവേഷൻ (രണ്ടാം ഘട്ടം), മണിയൂർ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പുറമേരി ഗ്രാമപഞ്ചായത്തിലെ 4 റോഡുകള്‍ക്ക് തുക  അനുവദിക്കല്‍\r\n  1.തടത്തില്‍ താഴെ വടക്കോലത്ത് താഴെ റോഡ്- 25 ലക്ഷം\r\n  2.പ്രതിഭാ വായനശാല മലയന്‍റെ പറമ്പത്ത് റോഡ്- 10 ലക്ഷം\r\n  3.മഞ്ചാം കാട്ടില്‍ വെളുത്ത പറമ്പത്ത് റോഡ്- 15 ലക്ഷം\r\n  4.കാരാളക്കണ്ടിമുക്ക് മുളളന്‍ മുക്ക് റോഡ്- 10 ലക്ഷം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "മണിയൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ 4 റോഡുകള്‍ക്ക് തുക  അനുവദിക്കല്‍ (1.തടത്തില്‍ മീത്തല്‍മുക്ക്  എടങ്കളില്‍ റോഡ്- 15 ലക്ഷം,  2.തട്ടാന്‍റെമുക്ക് വെന്തോറമല റോഡ്- 15 ലക്ഷം, 3.എടത്തും മീത്തല്‍ എടത്തും കര റോഡ്- 20 ലക്ഷം, 4.വടക്കേക്കണ്ടി മുക്ക് നന്മനമീത്തൽ റോഡ് - 10 ലക്ഷം)",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "കുറ്റ്യാടി താലൂക്ക് ഹോസ്പിറ്റൽ ഡയാലിസിസ് സെന്‍റർ - ബാലൻസ് പ്രവൃത്തികൾ, കുറ്റ്യാടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "വില്ല്യാപ്പള്ളി കുടുംബ ആരോഗ്യ കേന്ദ്രം നിർമ്മാണം , വില്ല്യാപ്പള്ളി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "തിരുവളളൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ 2 റോഡുകള്‍ക്ക് തുക  അനുവദിക്കല്‍ (1.മേക്കോത്ത് അമ്ബ്ലേരിക്കാട് റോഡ്- 15 ലക്ഷം,2.വള്ള്യാട് നോര്‍ത്ത് എൽ.പി സ്കൂള്‍, കപ്പളളി റോഡ്- 10 ലക്ഷം)",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "തിരുവളളൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ 4 റോഡുകള്‍ക്ക് തുക  അനുവദിക്കല്‍ ( 1. ചാനിയം കടവ് ഈസ്റ്റ് യു.പി സ്കൂള്‍ പൂവോട്ട് റോഡ്- 15 ലക്ഷം, 2. കിഴക്കയില്‍ മാങ്ങോട് റോഡ്- 20 ലക്ഷം, 3. പാറക്കണ്ടിമുക്ക് കൊയിലോത്തു പോയില്‍ റോഡ്- 12 ലക്ഷം,4. പുത്തന്‍പുരയിൽ വായേരിമുക്ക് റോഡ്- 10 ലക്ഷം)",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 57.0,
+            "concurrence_lakhs": 57.0
+        },
+        {
+            "project_name": "കുറ്റ്യാടി ഗ്രാമ പഞ്ചായത്തിലെ രണ്ട് പ്രവൃത്തികള്‍ക്ക് തുക അനുവദിക്കല്‍   (ഹൈസ്കൂള്‍ മത്തത് താഴെ നടപ്പാത - 15 ലക്ഷം, പുത്തന്‍  പുരയിൽ കൊടിച്ചി കണ്ടി റോഡ് - 10 ലക്ഷം)",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ആയഞ്ചേരി ഗ്രാമപഞ്ചായത്തിലെ 5 റോഡുകള്‍ക്ക് തുക  അനുവദിക്കല്‍\r\n  1.മുണ്ടോത്ത് മുക്ക് കുനിയേൽ താഴെ റോഡ് - 10 ലക്ഷം\r\n  2.അരതുരുത്തി റോഡ്- 10 ലക്ഷം\r\n  3.പൊൻമേരി വെസ്റ്റ് എൽ.പി സ്കൂള്‍ പൂന്തോട്ടം മുക്ക് എടോംവളളി റോഡ്- 15 ലക്ഷം\r\n  4.തയ്യില്‍ മുക്ക് വരയാലിൽ മുക്ക് റോഡ്- 10 ലക്ഷം\r\n  5.മേലേടത്ത് മുക്ക് കരിമ്പേരി താഴെ റോഡ്- 10 ലക്ഷം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 55.0,
+            "concurrence_lakhs": 55.0
+        },
+        {
+            "project_name": "അയ്യോത്ത് മുക്ക് കച്ചേരി പറമ്പ് റോഡ്, ആയഞ്ചേരി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "തറോൽ അമ്പലക്കണ്ടി റോഡ്, കുന്നുമ്മൽ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കാരാളിപ്പാലം ചെറുവന്തല കുട്ടിച്ചാത്തന്‍ക്ഷേത്രം കനാൽ ബണ്ട് റോഡ് - വില്ല്യാപ്പള്ളി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer Kuttiyadi Irrigation",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "മുക്കടത്തും വയല്‍ 73-ാം നമ്പര്‍ അങ്കനവാടി കെട്ടിട നിര്‍മ്മാണം - ആയഞ്ചേരി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "വല്ലാറത്ത്മുക്ക് കാര്യാട്ട് അമ്പലം റോഡ്- 10 ലക്ഷം, കൂരനാണ്ടി സാങ്കക്കോറ റോഡ് - 10 ലക്ഷം,  പുറമേരി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കടുപ്പള്ളിത്താഴ നടുവിലക്കണ്ടി റോഡ്, വില്ല്യാപ്പള്ളി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഉപ്പിലാറക്കുന്ന് റോഡ്, തിരുവളളൂര്‍ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "നിട്ടൂര്‍ സ്റ്റേഡിയം - കുറ്റ്യാടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "അഞ്ചുകണ്ടം പോൻമേരി എൽ. പി. സ്കൂൾ പള്ളിത്താഴെ റോഡ് , ആയഞ്ചേരി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "kozhikode_shri_kp_kunhammed_kutty_master_placeholder"
+}

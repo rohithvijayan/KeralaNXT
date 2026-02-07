@@ -1,0 +1,401 @@
+{
+    "mla_name": "Smt. K.K. Shailaja Teacher",
+    "constituency": "MATTANNUR",
+    "district": "Kannur",
+    "summary": {
+        "total_expenditure_crores": 10.1222,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 3.4622
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 2.6
+            },
+            {
+                "label": "Others",
+                "value_crores": 2.3
+            },
+            {
+                "label": "Education",
+                "value_crores": 0.95
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.5
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.18
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.13
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "NELLUNNI KHADI BUILDING CONSRUCTION (RENOVATION WORK)",
+            "implementing_agency": "സെക്രട്ടറി മട്ടന്നൂർ നഗരസഭ",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "SMART CLASS ROOM AT MAMBARAM GHSS, AAYITHARA- SETTING OF SMART CLASS ROOM, INSTALLATION OF LAN AND SUPPLY OF LAPTOPS AT MAMBARM GHSS, AYTHARA.",
+            "implementing_agency": "Executive Engineer PWD Electronics Kannur",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "BUILDING CONSTRUCTION FOR KODIYERI BALAKRISHNAN SMARAKA VAYANASALA, KALLYAD IN PADIYOOR KALLYAD GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ഒരു പഞ്ചായത്തിൽ ഒരു  കളിക്കളം പദ്ധതി- പടിയൂർ പഞ്ചായത്ത് കളി സ്ഥലം നവീകരണം, പടിയൂർ കല്ല്യാട് ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "CHIEF ENGINEER SPORTS KERALA FOUNDATION",
+            "category": "Sports",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "മണ്ഡപം നാല്‍പ്പാടി ശ്രീനാരായണ മഠം റോഡ്‌  (കോളയാട് പഞ്ചായത്ത് )",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചോല പാടിപ്പറമ്പ് റോഡ്‌ (കോളയാട് പഞ്ചായത്ത് )",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ആത്തൂര്‍ കോളനി ഈരായിക്കൊല്ലി റോഡ്‌ ( കോളയാട് പഞ്ചായത്ത് )",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മണ്ഡപം നാല്‍പ്പാടി ശ്രീനാരായണ മഠം റോഡ്‌  (കോളയാട്  പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മട്ടന്നൂര്‍ നിയോജക മണ്ഡലത്തിലെ മധുസൂദനന്‍ തങ്ങള്‍ സ്മാരക ജി.യു.പി.സ്കൂള്‍ മട്ടന്നൂരിന് സ്കൂള്‍ ബസ്",
+            "implementing_agency": "Deputy Director of Education Kannur",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF PANCHAYATH GROUND AND RELATED WORKS IN KOLAYAD GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF PEDAYANGOD THEEKKUNICHAL ROAD IN PADIYOOR KALLYAD G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF BUILDING FOR FAMILY WELLNESS SUBCENTRE AT KARA PERAVOOR IN KEEZHALLUR G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF CULVERT AT MUNDACHAL ROAD IN THILLANKERY G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF STADIUM IN KEEZHALLUR G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF PARK FOR MACHOORMALA TOURISM PROJECT IN THILLANKERY G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF OPEN STAGE AT GHS AYITHARA MAMBARAM IN MANGATTIDAM G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF NEW BUILDING FOR HOMEO HOSPITAL THILLANKERY IN THILLANKERY GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "ആയിപ്പുഴ ഗവണ്മെന്റ് യു.പി. സ്കൂളിനു ബസ് വാങ്ങല്‍ - കൂടാളി ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Deputy Director of Education Kannur",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "EDAYAR POOZHIYOD ROAD CONCRETE IN KOLAYAD G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "14th MILE - LAKSHAM VEEDU - VALIYA VELICHAM VYAVASAYA KENDRAM ROAD IN CHITTARIPPARAMBU G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF CLOCK TOWER AT TC ROAD KANNUR ROAD JUNCTION - MATTANNUR MUNICIPALITY",
+            "implementing_agency": "സെക്രട്ടറി മട്ടന്നൂർ നഗരസഭ",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "PRATHIBHA CLUB KOYILODE NAVODHAYA VAYANASHALA ROAD TARRING FROM ch.0/118 to 0/315 IN MANGATTIDAM G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF OPEN STAGE AT MATTANNUR BUS STAND IN MATTANNUR MUNICIPALITY",
+            "implementing_agency": "സെക്രട്ടറി മട്ടന്നൂർ നഗരസഭ",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF GREEN CORRIDOR IN MATTANNUR MUNICIPALITY",
+            "implementing_agency": "സെക്രട്ടറി മട്ടന്നൂർ നഗരസഭ",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF KOLAYAD PANCHAYATH STADIUM IN KOLAYAD G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF CHOLAKKARI SAMSKARIKA KENDRAM IN PADIYUR G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "CAREER GUIDANCE CENTER & REFERENCE LIBRARY AT MATTANNUR POLYTECHNIC COLLEGE- MATTANNUR MUNICIPALITY",
+            "implementing_agency": "സെക്രട്ടറി മട്ടന്നൂർ നഗരസഭ",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF THODIKKALAM VAYOJANA VISHRAMA KENDRAM IN CHITTARIPPARAMBA G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF BUILDING FOR SAMSKARIKA NILAYAM AT THONDILERI COLONY IN CHITTARIPPARAMBA G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF  MALUR PANCHAYATH CONFERENCE HALL -1st PHASE IN MALUR G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF BRIDGE ACROSS KARA CANAL- MATTANUR MUNICIPALITY",
+            "implementing_agency": "സെക്രട്ടറി മട്ടന്നൂർ നഗരസഭ",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF APPROACH ROAD AT VATTAKUND BRIDGE IN KEEZHALLUR G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "KANAL KOMBIL VAYAL ROAD CONCRETING FROM Ch.0/000 to Ch.0/165 IN MANGATTIDAM G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.22,
+            "concurrence_lakhs": 11.22
+        },
+        {
+            "project_name": "CONSTRUCTION OF BUS WAITING SHELTER KANHIRODE IN THILLANKERY GP, NEAR AIR PORT MOONAM GATE IN KEEZHALLUR GP, AND NEAR KPC HSS IN KOODALI GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "THEKKAMPOYIL ANGANVADI BUILDING CONSTRUCTION IN THILLENKERI G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "KOLAPPA VOLLEYBALL STADIUM CONSTRUCTION KOODALI G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കോളയാട്‌ പഞ്ചായത്തിലെ മേനചൊടി ഗവ. യു.പി സ്കൂളിന് കെട്ടിട നിര്‍മാണം",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "എടയന്നൂർ ഗ്രാമീണ വായനശാലയ്ക്ക് കെട്ടിട നിർമ്മാണം - കീഴല്ലൂർ ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കോവൂർ വിലങ്ങേരിക്കുന്നു സ്കൂൾ റോഡ്‌ , കലുങ്ക് നിര്‍മാണം - കൂടാളി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ആയിത്തറ മമ്പറം ജി.എച്ച്.എസ്.എസ്.ൽ സ്മാർട്ട് ക്ലാസ്സ് റൂം നിർമ്മാണം",
+            "implementing_agency": "Deputy Director of Education Kannur",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കുംഭം അച്ചുകുന്നു ബംഗ്ലാവ് മെട്ട  റോഡ് - കൂടാളി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പെരിങ്ങാനം വലിയ പറമ്പിൽ റോഡ് - തില്ലങ്കേരി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ചാളംവയൽ അംഗനവാടി കെട്ടിട നിർമ്മാണം - പടിയൂർ കല്ല്യാട് ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "മട്ടന്നൂർ ബസ് സ്റ്റാൻറ് പരിസരത്ത് ഓട്ടോ സ്റ്റാൻറ്, ഫുട്പാത്ത്, ഓപ്പൺ ഓഡിറ്റോറിയം നിർമ്മാണം",
+            "implementing_agency": "സെക്രട്ടറി മട്ടന്നൂർ നഗരസഭ",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "kannur_smt_kk_shailaja_teacher_placeholder"
+}

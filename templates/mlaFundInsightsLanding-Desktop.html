@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>MLA Fund Insights Dashboard</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#13ecb2",
+                        "background-light": "#f6f8f7",
+                        "background-dark": "#10221d",
+                    },
+                    fontFamily: {
+                        "display": ["Plus Jakarta Sans", "sans-serif"]
+                    },
+                    borderRadius: { "DEFAULT": "0.5rem", "lg": "1rem", "xl": "1.5rem", "full": "9999px" },
+                },
+            },
+        }
+    </script>
+    <style>
+        body {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+        }
+
+        .glass {
+            background: rgba(255, 255, 255, 0.7);
+            backdrop-filter: blur(10px);
+        }
+
+        .dark .glass {
+            background: rgba(16, 34, 29, 0.7);
+            backdrop-filter: blur(10px);
+        }
+    </style>
+</head>
+
+<body class="bg-background-light dark:bg-background-dark text-[#111816] dark:text-white font-display">
+    <div class="min-h-screen flex flex-col">
+        <!-- Top Navigation -->
+        <header
+            class="flex items-center justify-between whitespace-nowrap border-b border-solid border-[#dbe6e3] dark:border-[#1e3a32] px-10 py-4 bg-white dark:bg-[#10221d] sticky top-0 z-50">
+            <div class="flex items-center gap-8">
+                <div class="flex items-center gap-4 text-[#111816] dark:text-white">
+                    <div class="size-8 bg-primary rounded-lg flex items-center justify-center">
+                        <span class="material-symbols-outlined text-[#10221d]">account_balance</span>
+                    </div>
+                    <h2 class="text-[#111816] dark:text-white text-xl font-bold leading-tight tracking-tight">MLA Fund
+                        Insights</h2>
+                </div>
+                <label class="flex flex-col min-w-64 h-10">
+                    <div class="flex w-full flex-1 items-stretch rounded-xl h-full">
+                        <div
+                            class="text-[#61897f] flex border-none bg-white/50 dark:bg-white/5 items-center justify-center pl-4 rounded-l-xl border-r-0">
+                            <span class="material-symbols-outlined">search</span>
+                        </div>
+                        <input
+                            class="form-input flex w-full min-w-0 flex-1 resize-none overflow-hidden rounded-xl text-[#111816] dark:text-white focus:outline-0 focus:ring-0 border-none bg-white/50 dark:bg-white/5 focus:border-none h-full placeholder:text-[#61897f] px-4 rounded-l-none border-l-0 pl-2 text-base font-normal"
+                            placeholder="Search districts or MLAs..." value="" />
+                    </div>
+                </label>
+            </div>
+            <div class="flex flex-1 justify-end gap-8 items-center">
+                <nav class="flex items-center gap-8">
+                    <a class="text-[#111816] dark:text-white text-sm font-semibold border-b-2 border-primary"
+                        href="#">Dashboard</a>
+                    <a class="text-[#61897f] text-sm font-medium hover:text-primary transition-colors"
+                        href="#">Districts</a>
+                    <a class="text-[#61897f] text-sm font-medium hover:text-primary transition-colors" href="#">MLAs</a>
+                    <a class="text-[#61897f] text-sm font-medium hover:text-primary transition-colors"
+                        href="#">Sectors</a>
+                </nav>
+                <div class="flex items-center gap-4">
+                    <button
+                        class="flex min-w-[100px] cursor-pointer items-center justify-center overflow-hidden rounded-xl h-10 px-4 bg-primary text-[#10221d] text-sm font-bold tracking-tight">
+                        Sign In
+                    </button>
+                    <div class="bg-center bg-no-repeat aspect-square bg-cover rounded-full size-10 border-2 border-primary"
+                        data-alt="Official user profile avatar placeholder"
+                        style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuDaw7S0GY7ULdBb7CZr61VwULv9P-6yY56akhVWAKl4LEnXn880uxBCdQ7234e3D-bNCfbGgbk4GYMf1KcEODP03msJPQDZSLttrKUA83uOrLQ19_IXnGfGqSbMFOsMsm_RXvl4yXaqu0Yu9J8xkeyE9LnVE9RhTmLFg29kw12kPALPFHM6rr37BKeqCj-5V77xz90LAdBEwFwKCigWEkXMw7dDdveocRGzgXxFn0FXBwoCLVDM78N8sWlLPQvHma3kIb1OrBmr91o");'>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <main class="max-w-[1440px] mx-auto w-full p-8 grow">
+            <!-- Bento Grid Layout -->
+            <div class="grid grid-cols-12 gap-6">
+                <!-- Left Column (Large Stats + Districts) -->
+                <div class="col-span-8 flex flex-col gap-6">
+                    <!-- Hero Card -->
+                    <div
+                        class="relative overflow-hidden rounded-xl bg-gradient-to-br from-primary/10 via-white to-primary/5 dark:from-[#1e3a32] dark:to-background-dark p-8 border border-white/20 shadow-sm min-h-[400px] flex flex-col justify-between">
+                        <!-- Abstract Kerala Map Outline Background -->
+                        <div class="absolute right-0 top-0 w-1/2 h-full opacity-10 pointer-events-none"
+                            data-location="Kerala" style="">
+                            <span
+                                class="material-symbols-outlined text-[400px] text-[#111816] dark:text-white select-none">map</span>
+                        </div>
+                        <div class="relative z-10">
+                            <span
+                                class="inline-block px-3 py-1 bg-primary/20 text-[#111816] dark:text-primary text-xs font-bold rounded-full mb-4">STATE
+                                SUMMARY 2023-24</span>
+                            <h3 class="text-[#61897f] text-lg font-medium mb-1">Total State-wide Expenditure</h3>
+                            <div class="flex items-baseline gap-4">
+                                <h1 class="text-6xl font-extrabold text-[#111816] dark:text-white tracking-tighter">
+                                    ₹2,450 Cr</h1>
+                                <span class="text-primary font-bold flex items-center gap-1">
+                                    <span class="material-symbols-outlined">trending_up</span> +12% YoY
+                                </span>
+                            </div>
+                        </div>
+                        <div
+                            class="relative z-10 grid grid-cols-3 gap-4 pt-8 border-t border-black/5 dark:border-white/5">
+                            <div
+                                class="p-4 bg-white/40 dark:bg-white/5 rounded-xl backdrop-blur-sm border border-white/20">
+                                <p class="text-sm text-[#61897f]">Total MLAs</p>
+                                <p class="text-2xl font-bold">140</p>
+                            </div>
+                            <div
+                                class="p-4 bg-white/40 dark:bg-white/5 rounded-xl backdrop-blur-sm border border-white/20">
+                                <p class="text-sm text-[#61897f]">Districts</p>
+                                <p class="text-2xl font-bold">14</p>
+                            </div>
+                            <div
+                                class="p-4 bg-white/40 dark:bg-white/5 rounded-xl backdrop-blur-sm border border-white/20">
+                                <p class="text-sm text-[#61897f]">Active Sectors</p>
+                                <p class="text-2xl font-bold">8</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Top Performing Districts -->
+                    <div class="bg-white dark:bg-white/5 rounded-xl p-8 border border-[#dbe6e3] dark:border-white/10">
+                        <div class="flex justify-between items-center mb-6">
+                            <h2 class="text-xl font-bold">Top Performing Districts</h2>
+                            <button class="text-primary text-sm font-semibold flex items-center gap-1">View All <span
+                                    class="material-symbols-outlined text-sm">chevron_right</span></button>
+                        </div>
+                        <div class="space-y-6">
+                            <!-- District Item -->
+                            <div class="flex flex-col gap-2">
+                                <div class="flex justify-between text-sm font-medium">
+                                    <span>Thiruvananthapuram</span>
+                                    <span class="text-primary">94% Utilized</span>
+                                </div>
+                                <div class="h-2 w-full bg-[#f0f4f3] dark:bg-white/10 rounded-full overflow-hidden">
+                                    <div class="h-full bg-primary rounded-full w-[94%]"></div>
+                                </div>
+                            </div>
+                            <!-- District Item -->
+                            <div class="flex flex-col gap-2">
+                                <div class="flex justify-between text-sm font-medium">
+                                    <span>Ernakulam</span>
+                                    <span class="text-primary">91% Utilized</span>
+                                </div>
+                                <div class="h-2 w-full bg-[#f0f4f3] dark:bg-white/10 rounded-full overflow-hidden">
+                                    <div class="h-full bg-primary rounded-full w-[91%]"></div>
+                                </div>
+                            </div>
+                            <!-- District Item -->
+                            <div class="flex flex-col gap-2">
+                                <div class="flex justify-between text-sm font-medium">
+                                    <span>Kozhikode</span>
+                                    <span class="text-primary">88% Utilized</span>
+                                </div>
+                                <div class="h-2 w-full bg-[#f0f4f3] dark:bg-white/10 rounded-full overflow-hidden">
+                                    <div class="h-full bg-primary rounded-full w-[88%]"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Right Column (Top MLAs + Sectors) -->
+                <div class="col-span-4 flex flex-col gap-6">
+                    <!-- Top 3 MLAs -->
+                    <div class="bg-[#111816] text-white rounded-xl p-8 shadow-xl">
+                        <h2 class="text-xl font-bold mb-6">Top 3 MLAs</h2>
+                        <div class="space-y-6">
+                            <div class="flex items-center gap-4 group">
+                                <div class="relative">
+                                    <div class="size-12 rounded-full border-2 border-primary overflow-hidden">
+                                        <img class="w-full h-full object-cover"
+                                            data-alt="Portrait of top performing MLA"
+                                            src="https://lh3.googleusercontent.com/aida-public/AB6AXuA1gINMQuR9mvRgn74uQbKWsye8PKHuNpzlCMv5wpN090gIq6rzD-A_Lx7I9Rqk5KYh_9nH6N-HRqyl2OPyrjG8z4D1Nzk9arT2H5j3zNy-bEf_hjhhko2l5595gUIu0si5Yi5_yegwui1YIDVht-qc8cRcqtXeomhadxgq0uszEt5D7t7B2SLiDT4HkFIP8K1VNoOvzZpXO_ZpDnzNt9qA8RPEMrb1clcDwz7_eC7dQcliG_vzEr674eba-o7czmHZ5plS_hRypME" />
+                                    </div>
+                                    <div
+                                        class="absolute -bottom-1 -right-1 size-5 bg-primary text-[#10221d] flex items-center justify-center rounded-full text-[10px] font-bold">
+                                        1</div>
+                                </div>
+                                <div class="flex-1">
+                                    <p class="font-bold">Hon. V.K. Prasanth</p>
+                                    <p class="text-xs text-[#61897f]">Vattiyoorkavu • ₹12.5 Cr</p>
+                                </div>
+                                <span
+                                    class="material-symbols-outlined text-primary group-hover:translate-x-1 transition-transform">keyboard_double_arrow_right</span>
+                            </div>
+                            <div class="flex items-center gap-4 group">
+                                <div class="relative">
+                                    <div class="size-12 rounded-full border-2 border-white/20 overflow-hidden">
+                                        <img class="w-full h-full object-cover"
+                                            data-alt="Portrait of second performing MLA"
+                                            src="https://lh3.googleusercontent.com/aida-public/AB6AXuBJLdyeeC_VQk2HPFEmaWKV7jGcleSvQYU8VguSm4RVC0Twl41IuHcf_nnRU_ruJ2Fv-dT_HI2frz10-YKNhu4Mq75lySGgXPfbi5_HykqFZAjX9-nGIVwtfIbDUV5bOOm6aBdP1RqrbD5WUjXD582f2HgDB22tBKzcKfqUg9lhKpDyhBkEBz1DxhnLKbOno6k9XpqIlJlbItYKj94zdi3vWAaSOmnr9OYgqqoppceF8feG2Ry5ppo_thHsgjMl5CVMV-Wo_Psu6QE" />
+                                    </div>
+                                    <div
+                                        class="absolute -bottom-1 -right-1 size-5 bg-[#61897f] text-white flex items-center justify-center rounded-full text-[10px] font-bold">
+                                        2</div>
+                                </div>
+                                <div class="flex-1">
+                                    <p class="font-bold">Hon. P. Rajeev</p>
+                                    <p class="text-xs text-[#61897f]">Kalamassery • ₹11.8 Cr</p>
+                                </div>
+                                <span
+                                    class="material-symbols-outlined text-white/40 group-hover:translate-x-1 transition-transform">keyboard_double_arrow_right</span>
+                            </div>
+                            <div class="flex items-center gap-4 group">
+                                <div class="relative">
+                                    <div class="size-12 rounded-full border-2 border-white/20 overflow-hidden">
+                                        <img class="w-full h-full object-cover"
+                                            data-alt="Portrait of third performing MLA"
+                                            src="https://lh3.googleusercontent.com/aida-public/AB6AXuBhfsHHA4yRJWxTo-WonNIb6qgJjB4Igg1gD0isWT3sU5iFzGhdkoT7TFMD4vCJsOwPXGiYgBQtZKdSRJL0mBJlxjJCBvO_1QXDbVJHTG09DnKN7ePOu4qBIWoA7SnCfASjrqURHEsWYGLavfoBc_aZHmHcTHkiyNwSxIUzT4KRSMuFyXoRs1BINw7I6W6wVSex2h0uTeLNkCYwJ9jCSzewD-aOHUxvbfXp0dXiooJLYHp4LyZmvnVg89FIJ_aF9HiW5S3ByKrXXpo" />
+                                    </div>
+                                    <div
+                                        class="absolute -bottom-1 -right-1 size-5 bg-[#61897f] text-white flex items-center justify-center rounded-full text-[10px] font-bold">
+                                        3</div>
+                                </div>
+                                <div class="flex-1">
+                                    <p class="font-bold">Hon. K.K. Shailaja</p>
+                                    <p class="text-xs text-[#61897f]">Mattannur • ₹11.2 Cr</p>
+                                </div>
+                                <span
+                                    class="material-symbols-outlined text-white/40 group-hover:translate-x-1 transition-transform">keyboard_double_arrow_right</span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Sector Grid -->
+                    <div
+                        class="bg-white dark:bg-white/5 rounded-xl p-8 border border-[#dbe6e3] dark:border-white/10 grow">
+                        <h2 class="text-xl font-bold mb-6">Fund Split by Sector</h2>
+                        <div class="grid grid-cols-2 gap-4">
+                            <div
+                                class="p-4 bg-[#f0f4f3] dark:bg-white/5 rounded-xl flex flex-col gap-2 hover:bg-primary/10 transition-colors cursor-pointer group">
+                                <span
+                                    class="material-symbols-outlined text-blue-500 group-hover:scale-110 transition-transform">directions_car</span>
+                                <p class="text-xs font-bold">Roads</p>
+                                <p class="text-lg font-bold">42%</p>
+                            </div>
+                            <div
+                                class="p-4 bg-[#f0f4f3] dark:bg-white/5 rounded-xl flex flex-col gap-2 hover:bg-primary/10 transition-colors cursor-pointer group">
+                                <span
+                                    class="material-symbols-outlined text-red-500 group-hover:scale-110 transition-transform">medical_services</span>
+                                <p class="text-xs font-bold">Health</p>
+                                <p class="text-lg font-bold">18%</p>
+                            </div>
+                            <div
+                                class="p-4 bg-[#f0f4f3] dark:bg-white/5 rounded-xl flex flex-col gap-2 hover:bg-primary/10 transition-colors cursor-pointer group">
+                                <span
+                                    class="material-symbols-outlined text-green-500 group-hover:scale-110 transition-transform">school</span>
+                                <p class="text-xs font-bold">Education</p>
+                                <p class="text-lg font-bold">15%</p>
+                            </div>
+                            <div
+                                class="p-4 bg-[#f0f4f3] dark:bg-white/5 rounded-xl flex flex-col gap-2 hover:bg-primary/10 transition-colors cursor-pointer group">
+                                <span
+                                    class="material-symbols-outlined text-orange-500 group-hover:scale-110 transition-transform">water_drop</span>
+                                <p class="text-xs font-bold">Water</p>
+                                <p class="text-lg font-bold">12%</p>
+                            </div>
+                            <div
+                                class="p-4 bg-[#f0f4f3] dark:bg-white/5 rounded-xl flex flex-col gap-2 hover:bg-primary/10 transition-colors cursor-pointer group">
+                                <span
+                                    class="material-symbols-outlined text-purple-500 group-hover:scale-110 transition-transform">bolt</span>
+                                <p class="text-xs font-bold">Power</p>
+                                <p class="text-lg font-bold">6%</p>
+                            </div>
+                            <div
+                                class="p-4 bg-[#f0f4f3] dark:bg-white/5 rounded-xl flex flex-col gap-2 hover:bg-primary/10 transition-colors cursor-pointer group">
+                                <span
+                                    class="material-symbols-outlined text-gray-500 group-hover:scale-110 transition-transform">agriculture</span>
+                                <p class="text-xs font-bold">Agri</p>
+                                <p class="text-lg font-bold">4%</p>
+                            </div>
+                            <div
+                                class="p-4 bg-[#f0f4f3] dark:bg-white/5 rounded-xl flex flex-col gap-2 hover:bg-primary/10 transition-colors cursor-pointer group">
+                                <span
+                                    class="material-symbols-outlined text-teal-500 group-hover:scale-110 transition-transform">home</span>
+                                <p class="text-xs font-bold">Housing</p>
+                                <p class="text-lg font-bold">2%</p>
+                            </div>
+                            <div
+                                class="p-4 bg-[#f0f4f3] dark:bg-white/5 rounded-xl flex flex-col gap-2 hover:bg-primary/10 transition-colors cursor-pointer group">
+                                <span
+                                    class="material-symbols-outlined text-pink-500 group-hover:scale-110 transition-transform">more_horiz</span>
+                                <p class="text-xs font-bold">Misc</p>
+                                <p class="text-lg font-bold">1%</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Footer CTA -->
+                <div class="col-span-12">
+                    <button
+                        class="w-full h-20 bg-gradient-to-r from-primary via-[#0dd19d] to-[#111816] rounded-xl flex items-center justify-center gap-3 text-[#10221d] group relative overflow-hidden">
+                        <div class="absolute inset-0 bg-white/10 opacity-0 group-hover:opacity-100 transition-opacity">
+                        </div>
+                        <span class="text-xl font-bold tracking-tight">Explore Complete MLA Dashboard</span>
+                        <span
+                            class="material-symbols-outlined font-bold group-hover:translate-x-2 transition-transform">arrow_forward</span>
+                    </button>
+                </div>
+            </div>
+        </main>
+        <!-- Footer -->
+        <footer class="px-10 py-6 text-center text-[#61897f] text-sm border-t border-[#dbe6e3] dark:border-white/5">
+            <p>© 2024 MLA Fund Insights Platform • Government of Kerala • Transparency Portal</p>
+        </footer>
+    </div>
+</body>
+
+</html>

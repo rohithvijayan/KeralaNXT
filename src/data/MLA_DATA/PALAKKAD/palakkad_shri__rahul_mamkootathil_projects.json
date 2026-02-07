@@ -1,0 +1,261 @@
+{
+    "mla_name": "Shri  Rahul Mamkootathil",
+    "constituency": "PALAKKAD",
+    "district": "Palakkad",
+    "summary": {
+        "total_expenditure_crores": 6.2,
+        "breakdown": [
+            {
+                "label": "Infrastructure",
+                "value_crores": 1.69
+            },
+            {
+                "label": "Road",
+                "value_crores": 1.69
+            },
+            {
+                "label": "Education",
+                "value_crores": 1.47
+            },
+            {
+                "label": "Others",
+                "value_crores": 1.11
+            },
+            {
+                "label": "Water Supply",
+                "value_crores": 0.14
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.1
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "കണ്ണാടി  ഗ്രാമപഞ്ചായത്തിലെ  വാർഡ് 8 ലെ ചേറമ്പറ്റക്കാവ് വായനശാല റോഡ്",
+            "implementing_agency": "എക്സിക്യുട്ടിവ് എന്‍ജിനിയര്‍, ത.സ്വ.ഭ.വാ , ജില്ലാ പഞ്ചായത്ത്, പാലക്കാട്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പാലക്കാട്  സര്ക്കാ2ര്‍ മെഡിക്കല്‍ കോളേജ്  സിന്തറ്റിക് ട്രാക്കിന്റെ നിർമ്മാണ പൂർത്തികരണം",
+            "implementing_agency": "എക്സിക്യുട്ടിവ് എന്‍ജിനിയര്‍, ത.സ്വ.ഭ.വാ , ജില്ലാ പഞ്ചായത്ത്, പാലക്കാട്",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "മാത്തൂര്‍ ഗ്രാമപഞ്ചായത്തില്‍ ഇന്ഡോര്‍ സ്റ്റേഡിയം പൂർത്തീകരണം",
+            "implementing_agency": "എക്സിക്യുട്ടിവ് എന്‍ജിനിയര്‍, ത.സ്വ.ഭ.വാ , ജില്ലാ പഞ്ചായത്ത്, പാലക്കാട്",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "മാത്തൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ ഗവ. എല്‍.പി. സ്കൂള്‍, തണ്ണീരാംകാട് പൂര്ത്തീ കരണം",
+            "implementing_agency": "എക്സിക്യുട്ടിവ് എന്‍ജിനിയര്‍, ത.സ്വ.ഭ.വാ , ജില്ലാ പഞ്ചായത്ത്, പാലക്കാട്",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പിരായിരി ഗ്രാമ പഞ്ചായത്തിലെ GLPS കൊടുന്തിരപ്പുള്ളി സ്കൂളില്‍ ക്ലാസ്സ്‌ റൂം നിർമ്മാണ പൂർത്തികരണം",
+            "implementing_agency": "എക്സിക്യുട്ടിവ് എന്‍ജിനിയര്‍, ത.സ്വ.ഭ.വാ , ജില്ലാ പഞ്ചായത്ത്, പാലക്കാട്",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "പാലക്കാട് നഗരസഭയിലെ 28, 29  വാർഡുകളിൽ വരുന്ന യാക്കര പാലം – മലബാർ ആശുപത്രി റോഡ്",
+            "implementing_agency": "സെക്രട്ടറി, പാലക്കാട് നഗരസഭ",
+            "category": "Road",
+            "fy": "2020-2021",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പാലക്കാട് നഗരസഭയിലെ ഗവ. മോയൻ എൽ.പി സ്കൂളിലേക്ക് സ്കൂൾ ബസ് വാങ്ങൽ",
+            "implementing_agency": "വിദ്യാഭ്യാസ ഉപഡയറക്ടര്‍, പാലക്കാട്",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 27.0,
+            "concurrence_lakhs": 27.0
+        },
+        {
+            "project_name": "പിരായിരി ഗ്രാമ പഞ്ചായത്തിലെ GLP സ്കൂള്‍ പിരായിരി - ക്ലാസ്സ്‌ റൂം നിര്മ്മാ ണം",
+            "implementing_agency": "എക്സിക്യുട്ടിവ് എന്‍ജിനിയര്‍, ത.സ്വ.ഭ.വാ , ജില്ലാ പഞ്ചായത്ത്, പാലക്കാട്",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 70.0,
+            "concurrence_lakhs": 70.0
+        },
+        {
+            "project_name": "പാലക്കാട് നഗരസഭയിലെ വാർഡ് 2 ൽ സന്ന്യാസി പറമ്പ് റോഡ് ഡ്രൈനേജ്  നിർമ്മാണം",
+            "implementing_agency": "സെക്രട്ടറി, പാലക്കാട് നഗരസഭ",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പിരായിരി ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 3 ൽ ആന്ത്രാംകുന്ന് റോഡ്, ഡ്രൈനേജ്, സ്ലാബ് നിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യുട്ടിവ് എന്‍ജിനിയര്‍, ത.സ്വ.ഭ.വാ , ജില്ലാ പഞ്ചായത്ത്, പാലക്കാട്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പിരായിരി ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 14 ൽ വരുന്ന ഉമാനഗർ കോളനി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യുട്ടിവ് എന്‍ജിനിയര്‍, ത.സ്വ.ഭ.വാ , ജില്ലാ പഞ്ചായത്ത്, പാലക്കാട്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കണ്ണാടി ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 10 ൽ വക്കാട് സംരക്ഷണ ഭിത്തി നിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യുട്ടിവ് എന്‍ജിനിയര്‍, ത.സ്വ.ഭ.വാ , ജില്ലാ പഞ്ചായത്ത്, പാലക്കാട്",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മാത്തൂർ ഗ്രാമ പഞ്ചായത്തിലെ കിഴക്കേപ്പുര റോഡ് സംരക്ഷണഭിത്തി",
+            "implementing_agency": "എക്സിക്യുട്ടിവ് എന്‍ജിനിയര്‍, ത.സ്വ.ഭ.വാ , ജില്ലാ പഞ്ചായത്ത്, പാലക്കാട്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പാലക്കാട് നഗരസഭയിൽ വരുന്ന വാർഡ് 26 ൽ ദുർഗ നഗർ സ്ട്രീറ്റ് 1 ൽ ഡ്രൈനേജ് നിർമ്മാണം",
+            "implementing_agency": "സെക്രട്ടറി, പാലക്കാട് നഗരസഭ",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പാലക്കാട് നഗരസഭയിലെ വാർഡ് 43 ൽ വടക്കന്തറ ഡോക്ടർ നായർ ഗവണ്മെന്റ് യു.പി. സ്കൂളിൽ ഓഡിറ്റോറിയം",
+            "implementing_agency": "എക്സിക്യുട്ടിവ് എന്‍ജിനിയര്‍, ത.സ്വ.ഭ.വാ , ജില്ലാ പഞ്ചായത്ത്, പാലക്കാട്",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "പിരായിരി ഗ്രാമ പഞ്ചായത്തിലെ വിവിധ വാർഡുകളിൽ കേരള വാട്ടർ അതോറിറ്റിയുടെ കുടിവെള്ള ലഭ്യത ഉറപ്പാക്കുവാൻ വേണ്ടിയുള്ള പൈപ്പ് ലൈൻ സ്ഥാപിക്കൽ പ്രവർത്തി",
+            "implementing_agency": "എക്സിക്യുട്ടിവ് എന്‍ജിനിയര്‍, ത.സ്വ.ഭ.വാ , ജില്ലാ പഞ്ചായത്ത്, പാലക്കാട്",
+            "category": "Water Supply",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "പാലക്കാട് നഗരസഭയിലെ വാർഡ് 41 ൽ വരുന്ന BEMHSS സ്കൂളിൽ പാചകപ്പുര നിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യുട്ടിവ് എന്‍ജിനിയര്‍, ത.സ്വ.ഭ.വാ , ജില്ലാ പഞ്ചായത്ത്, പാലക്കാട്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മാത്തൂർ ഗ്രാമ പഞ്ചായത്തിലെ കുരുണ്ടോട് പാലം കാടകനാൽ നിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയര്‍  , ജലസേചന വിഭാഗം ഡിവിഷന്‍ , മലമ്പുഴ",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "മാത്തൂർ ഗ്രാമ പഞ്ചായത്തിലെ മാത്തൂർ പാടം കാടകനാൽ നിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എഞ്ചിനീയര്‍  , ജലസേചന വിഭാഗം ഡിവിഷന്‍ , മലമ്പുഴ",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പാലക്കാട് നഗരസഭയിലെ പ്രദേശങ്ങളിൽ വിവിധ റോഡും ഡ്രൈനേജും നിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യുട്ടിവ് എന്‍ജിനിയര്‍, ത.സ്വ.ഭ.വാ , ജില്ലാ പഞ്ചായത്ത്, പാലക്കാട്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 46.0,
+            "concurrence_lakhs": 46.0
+        },
+        {
+            "project_name": "പാലക്കാട് നഗരസഭയിലെ വാർഡ് 32 ൽ ഭാരത് നഗർ ഡ്രൈനേജ് നിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യുട്ടിവ് എന്‍ജിനിയര്‍, ത.സ്വ.ഭ.വാ , ജില്ലാ പഞ്ചായത്ത്, പാലക്കാട്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പിരായിരി ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 11 ൽ ഉപാസന നഗർ റോഡ്",
+            "implementing_agency": "എക്സിക്യുട്ടിവ് എന്‍ജിനിയര്‍, ത.സ്വ.ഭ.വാ , ജില്ലാ പഞ്ചായത്ത്, പാലക്കാട്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പാലക്കാട് നഗരസഭയിലെ 3 വിവിധ റോഡ് പ്രവ്യത്തികൾ",
+            "implementing_agency": "എക്സിക്യുട്ടിവ് എന്‍ജിനിയര്‍, ത.സ്വ.ഭ.വാ , ജില്ലാ പഞ്ചായത്ത്, പാലക്കാട്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        },
+        {
+            "project_name": "പിരായിരി ഗ്രാമപഞ്ചായത്തിലെ വാർഡ് 6 ൽ പൂഴികുന്ന് റോഡ്",
+            "implementing_agency": "എക്സിക്യുട്ടിവ് എന്‍ജിനിയര്‍, ത.സ്വ.ഭ.വാ , ജില്ലാ പഞ്ചായത്ത്, പാലക്കാട്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കണ്ണാടി ഗ്രാമപഞ്ചായത്തിലെ വാർഡ് 5 ൽ വരുന്ന കൈരളിഗ്രാമം ലിങ്ക് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യുട്ടിവ് എന്‍ജിനിയര്‍, ത.സ്വ.ഭ.വാ , ജില്ലാ പഞ്ചായത്ത്, പാലക്കാട്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പാലക്കാട് ടൌൺ ഹാൾ രണ്ടാം ഘട്ട നിർമ്മാണം",
+            "implementing_agency": "സെക്രട്ടറി, പാലക്കാട് നഗരസഭ",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പാലക്കാട് നഗരസഭയിലെ വാർഡ് 37 ൽ ഇസത്ത് നഗർ റോഡ് ഇന്റർ ലോക്കും സ്ലാബ് നിർമ്മാണം",
+            "implementing_agency": "സെക്രട്ടറി, പാലക്കാട് നഗരസഭ",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "palakkad_shri__rahul_mamkootathil_placeholder"
+}

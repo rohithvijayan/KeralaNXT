@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>MLA Fund Progress Dashboard</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;600;700&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#13ecb2",
+                        "background-light": "#F2F2F7",
+                        "background-dark": "#10221d",
+                        "ios-grey": "#8E8E93",
+                        "ios-card": "#FFFFFF"
+                    },
+                    fontFamily: {
+                        "display": ["Public Sans", "sans-serif"]
+                    },
+                    borderRadius: {
+                        "DEFAULT": "1rem",
+                        "lg": "2rem",
+                        "xl": "3rem",
+                        "full": "9999px"
+                    },
+                },
+            },
+        }
+    </script>
+    <style>
+        body {
+            font-family: 'Public Sans', sans-serif;
+        }
+
+        .glass {
+            background: rgba(255, 255, 255, 0.7);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+        }
+
+        .squircle {
+            border-radius: 24px;
+        }
+    </style>
+</head>
+
+<body class="bg-background-light dark:bg-background-dark font-display antialiased">
+    <!-- Mobile Wrapper (Centering for Desktop View as requested) -->
+    <div class="flex justify-center min-h-screen">
+        <div
+            class="relative w-full max-w-[430px] bg-background-light dark:bg-background-dark min-h-screen flex flex-col shadow-2xl">
+            <!-- Fixed Top Header -->
+            <header
+                class="sticky top-0 z-50 glass border-b border-gray-200/50 px-4 py-4 flex items-center justify-between">
+                <button class="w-10 h-10 flex items-center justify-start text-primary">
+                    <span class="material-symbols-outlined text-[28px]">arrow_back_ios</span>
+                </button>
+                <h1 class="text-lg font-bold text-gray-900 dark:text-white tracking-tight">MLA Dashboard</h1>
+                <div class="w-10"></div> <!-- Spacer for symmetry -->
+            </header>
+            <!-- Search Section -->
+            <div class="px-4 py-4">
+                <div class="glass flex items-center px-4 h-12 rounded-full border border-white/40 shadow-sm">
+                    <span class="material-symbols-outlined text-ios-grey">search</span>
+                    <input class="flex-1 bg-transparent border-none focus:ring-0 text-sm placeholder:text-ios-grey"
+                        placeholder="Search MLAs..." type="text" />
+                    <button class="text-primary ml-2">
+                        <span class="material-symbols-outlined">tune</span>
+                    </button>
+                </div>
+            </div>
+            <!-- Content Area -->
+            <main class="flex-1 px-4 pb-24 space-y-3">
+                <!-- Card 1 -->
+                <div
+                    class="squircle bg-ios-card dark:bg-gray-800 p-4 flex items-center gap-4 shadow-[0_2px_8px_rgba(0,0,0,0.04)] border border-gray-100 dark:border-gray-700">
+                    <div class="w-14 h-14 rounded-full overflow-hidden shrink-0">
+                        <img class="w-full h-full object-cover" data-alt="Portrait of an Indian male MLA official"
+                            src="https://lh3.googleusercontent.com/aida-public/AB6AXuA52yh6aIb2ca3OGEYA_5V-ci0i1pzASfOTW44b10emqlPVsREVg9L_xg1IHMJMaF97gES7U6S3-lk4mmyWA3XJ_-JdWoUxxs9V-89vd1juvfVRTLD0pK_p9UY1NJbLOLh55jm-zGakLEaAz0LEDOlSkyLIswCGPXjnuyhDr7tX0TzxtrmFyh2kmm_TzIEpUL1a_gVX0ZZGzgfKOYJxqCKr2RRq5dWSJP1pMHlBrK3J_IBHAiJTg9MtGOTcbXT_jJasC0-rwxCSU1o" />
+                    </div>
+                    <div class="flex-1 min-w-0">
+                        <h3 class="font-bold text-gray-900 dark:text-white truncate">Pinarayi Vijayan</h3>
+                        <p class="text-ios-grey text-xs uppercase tracking-wider font-semibold">Dharmadom</p>
+                        <p class="text-primary font-bold mt-1 text-sm">₹22.8 Cr <span
+                                class="text-[10px] text-ios-grey font-normal">utilized</span></p>
+                    </div>
+                    <button
+                        class="w-8 h-8 rounded-full bg-gray-100 dark:bg-gray-700 flex items-center justify-center text-gray-400">
+                        <span class="material-symbols-outlined text-[18px]">chevron_right</span>
+                    </button>
+                </div>
+                <!-- Card 2 -->
+                <div
+                    class="squircle bg-ios-card dark:bg-gray-800 p-4 flex items-center gap-4 shadow-[0_2px_8px_rgba(0,0,0,0.04)] border border-gray-100 dark:border-gray-700">
+                    <div class="w-14 h-14 rounded-full overflow-hidden shrink-0">
+                        <img class="w-full h-full object-cover" data-alt="Portrait of an Indian official in glasses"
+                            src="https://lh3.googleusercontent.com/aida-public/AB6AXuDix6vC9z8RBiwEBp0CnIbhaE7LrKpsd2XGbFFNqxa0C-iucb5jCnl6pONb_eY0kl6fdYSejDlJNUhGAF7IE-oNENvu-a683Pmm_xUJRO51t4L3hHNUg9VVLd5YETp9c6yB4iKx29RJm5PCeQbAnb0UaNvcQy0t4et1Jzi2zyO8N70TWm0c0YA5qPoy0ZpUvvSalSNPo5qIH8B3CyNEiqAfnCZGBoerceczYvJk1f8cUmK1JjnqcUgtyGsqCQvSEfrjwmhKcufha_M" />
+                    </div>
+                    <div class="flex-1 min-w-0">
+                        <h3 class="font-bold text-gray-900 dark:text-white truncate">V.D. Satheesan</h3>
+                        <p class="text-ios-grey text-xs uppercase tracking-wider font-semibold">Paravur</p>
+                        <p class="text-primary font-bold mt-1 text-sm">₹18.4 Cr <span
+                                class="text-[10px] text-ios-grey font-normal">utilized</span></p>
+                    </div>
+                    <button
+                        class="w-8 h-8 rounded-full bg-gray-100 dark:bg-gray-700 flex items-center justify-center text-gray-400">
+                        <span class="material-symbols-outlined text-[18px]">chevron_right</span>
+                    </button>
+                </div>
+                <!-- Card 3 -->
+                <div
+                    class="squircle bg-ios-card dark:bg-gray-800 p-4 flex items-center gap-4 shadow-[0_2px_8px_rgba(0,0,0,0.04)] border border-gray-100 dark:border-gray-700">
+                    <div class="w-14 h-14 rounded-full overflow-hidden shrink-0">
+                        <img class="w-full h-full object-cover" data-alt="Portrait of a female Indian political leader"
+                            src="https://lh3.googleusercontent.com/aida-public/AB6AXuDLfLrQsNLFDvlKW_YmO5KdY3q9NmqM6FRNzbjl9dpUjWEX7ez_iL7b3tavgcOJYhCsWIzoTkL-CREefFr3ng4fb3mI7sITntj5anf-bPYznoReWA7kyC-I2XOwVEsZCiRopb97fMPjosunPHofSi2Tje86gx0yZJ3rTER5KTWQ7OgBAS7SQHDT5IGPxCP1vF2nnJkktlVkuTcSEJwh9_Wy1GqARX9AhsZ9K_wReUgkl2nRVJCQdXnILDCtFj9-FRZHo4NXFzyIR7Q" />
+                    </div>
+                    <div class="flex-1 min-w-0">
+                        <h3 class="font-bold text-gray-900 dark:text-white truncate">K.K. Shailaja</h3>
+                        <p class="text-ios-grey text-xs uppercase tracking-wider font-semibold">Mattannur</p>
+                        <p class="text-primary font-bold mt-1 text-sm">₹21.2 Cr <span
+                                class="text-[10px] text-ios-grey font-normal">utilized</span></p>
+                    </div>
+                    <button
+                        class="w-8 h-8 rounded-full bg-gray-100 dark:bg-gray-700 flex items-center justify-center text-gray-400">
+                        <span class="material-symbols-outlined text-[18px]">chevron_right</span>
+                    </button>
+                </div>
+                <!-- Card 4 -->
+                <div
+                    class="squircle bg-ios-card dark:bg-gray-800 p-4 flex items-center gap-4 shadow-[0_2px_8px_rgba(0,0,0,0.04)] border border-gray-100 dark:border-gray-700">
+                    <div class="w-14 h-14 rounded-full overflow-hidden shrink-0">
+                        <img class="w-full h-full object-cover"
+                            data-alt="Portrait of a mature Indian male representative"
+                            src="https://lh3.googleusercontent.com/aida-public/AB6AXuB4PdnSNY7_yB0CYPFja4tsFZYamiqQlmSlAdwbS2vKPk45iTLuchnPGYAIttVSSM2vi3EPbserXd2E9Okbrnej8vGyElNNaNGJgPmkQddlL9SCd8IlhkfVzIe6BcAEa1TX-p5ZKJRpCu128PNJLuoWzd-mj58Azc7CiLbusBb1lZjjU6g1dPTPXkPgi5crBRI6qFGIoGjOzu_32q0q7bzm99ojhZBeEkthuSSshOENzmBXREgmRJSeA4OKJNeYfy6G03CjhifSjjo" />
+                    </div>
+                    <div class="flex-1 min-w-0">
+                        <h3 class="font-bold text-gray-900 dark:text-white truncate">K. Rajan</h3>
+                        <p class="text-ios-grey text-xs uppercase tracking-wider font-semibold">Ollur</p>
+                        <p class="text-primary font-bold mt-1 text-sm">₹16.9 Cr <span
+                                class="text-[10px] text-ios-grey font-normal">utilized</span></p>
+                    </div>
+                    <button
+                        class="w-8 h-8 rounded-full bg-gray-100 dark:bg-gray-700 flex items-center justify-center text-gray-400">
+                        <span class="material-symbols-outlined text-[18px]">chevron_right</span>
+                    </button>
+                </div>
+                <!-- Card 5 -->
+                <div
+                    class="squircle bg-ios-card dark:bg-gray-800 p-4 flex items-center gap-4 shadow-[0_2px_8px_rgba(0,0,0,0.04)] border border-gray-100 dark:border-gray-700">
+                    <div class="w-14 h-14 rounded-full overflow-hidden shrink-0">
+                        <img class="w-full h-full object-cover" data-alt="Abstract portrait placeholder"
+                            src="https://lh3.googleusercontent.com/aida-public/AB6AXuBRMPe1ltjAgbcNuVRDy0l47OZgM8AsEvBUrlsHxMgLK_hprU285NriJXg8IoYSRhMID05bi5qAGOHSHArTpyJxuDW7BWpjkZRMPhyKGdzBq618UyDuVSkNxln9kBoD7th_sL7beanFUk7C7nNZS84aHZRQin36nLrZK0LxOFPJGYel_LAktJdLorqdnUO6REv2GgGmrgDz6CclPw6atFsokmBedM7oPJ1zGmUuhRSoAuYsXoHqrOl_JhFp62lU3xkziIXu0j2GYf4" />
+                    </div>
+                    <div class="flex-1 min-w-0">
+                        <h3 class="font-bold text-gray-900 dark:text-white truncate">P. Prasad</h3>
+                        <p class="text-ios-grey text-xs uppercase tracking-wider font-semibold">Cherthala</p>
+                        <p class="text-primary font-bold mt-1 text-sm">₹14.5 Cr <span
+                                class="text-[10px] text-ios-grey font-normal">utilized</span></p>
+                    </div>
+                    <button
+                        class="w-8 h-8 rounded-full bg-gray-100 dark:bg-gray-700 flex items-center justify-center text-gray-400">
+                        <span class="material-symbols-outlined text-[18px]">chevron_right</span>
+                    </button>
+                </div>
+            </main>
+            <!-- Bottom Tab Bar -->
+            <nav
+                class="fixed bottom-0 w-full max-w-[430px] glass border-t border-gray-200/50 pb-8 pt-2 px-6 flex justify-between items-center">
+                <a class="flex flex-col items-center gap-1 text-primary" href="#">
+                    <span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 1">dashboard</span>
+                    <span class="text-[10px] font-medium">Dashboard</span>
+                </a>
+                <a class="flex flex-col items-center gap-1 text-ios-grey" href="#">
+                    <span class="material-symbols-outlined">analytics</span>
+                    <span class="text-[10px] font-medium">Reports</span>
+                </a>
+                <a class="flex flex-col items-center gap-1 text-ios-grey" href="#">
+                    <span class="material-symbols-outlined">map</span>
+                    <span class="text-[10px] font-medium">Districts</span>
+                </a>
+                <a class="flex flex-col items-center gap-1 text-ios-grey" href="#">
+                    <span class="material-symbols-outlined">settings</span>
+                    <span class="text-[10px] font-medium">Settings</span>
+                </a>
+            </nav>
+        </div>
+    </div>
+</body>
+
+</html>

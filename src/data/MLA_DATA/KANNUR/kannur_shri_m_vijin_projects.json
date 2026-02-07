@@ -1,0 +1,537 @@
+{
+    "mla_name": "Shri M. Vijin",
+    "constituency": "KALLIASSERI",
+    "district": "Kannur",
+    "summary": {
+        "total_expenditure_crores": 13.7638,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 7.13
+            },
+            {
+                "label": "Education",
+                "value_crores": 2.9112
+            },
+            {
+                "label": "Others",
+                "value_crores": 1.3484
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.88
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 0.65
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.5
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 0.3442
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "NERUVAMBRAM CHEVIDICHAL PADANNAPPURAM ROAD IN CHERUTHAZHAM GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ARATTHIPARAMBA PANCHAYATH BORE WELL RED STAR ROAD WORK AT CHERUTHAZHAM GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF WAITING AREA OF VISITORS AT GMCK PARIYARAM.",
+            "implementing_agency": "Executive Engineer PWD Building Division Thalassery",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "CHENAKI LINK ROAD IN KALLIASSERRY G P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CHENAKI LINK ROAD IN KALLIASSERRY G P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "POTTERY SOCIETY KANIYANCHAL ROAD WORK AT PATTUVAM GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "POTTER SOCIETY KANIYANCHAL ROAD WORK AT PATTUVAM GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "LOURDE-NURSING COLLEGE ROAD WORK AT PATTUVAM GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "BEAUTIFICATION OF PAYYATTAM KULAM AT IRINAV IN KALLIASSERY GRAMAPANCHAYATH AND  BEAUTIFICATION OF EDATT PARAMABATHE KULAM AT EDATT IN KUNHIMANGALAM GRAMAPANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER MINOR IRRIGATION DIVISION KANNUR",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 28.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "IMPROVEMENTS AND PROVIDING BM & BC TO ERIPURAM TB  MADAYIKKAVU ROAD (M 0/000-0/450) IN KALLIASSERY CONSTITUENCY- MADAYI GRAMAPANCHAYATH.",
+            "implementing_agency": "Executive Engineer PWD Roads Division kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 142.0,
+            "concurrence_lakhs": 142.0
+        },
+        {
+            "project_name": "Bharanool Kottam Mukkalikkadavu Muthukuda  Palli road wok at Pattuvam GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "Kattakulam Meenchal Bund Road in Cherukunnu Gramapanchayath",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കട്ടകുളം മീന്‍ചാല്‍ ബണ്ട് റോഡ്‌  (ചെറുകുന്ന് പഞ്ചായത്ത് )",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Supply of Laptop and Projector to 6 schools GHSS Kottila, GGVHSS Cherukunnu, GBHSS Cherukunnu GHSS Kalliassery , GHSS Pattuvam, and GMRHSS Pattuvam",
+            "implementing_agency": "Executive Engineer PWD Electronics Kannur",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 71.75,
+            "concurrence_lakhs": 71.75
+        },
+        {
+            "project_name": "26 സര്‍ക്കാര്‍ വിദ്യാലയങ്ങളില്‍ സ്മാര്‍ട്ട് ക്ലാസ് റൂം സജ്ജീകരിക്കുന്നതിന്‍റെ ഭാഗമായി 78 കംപ്യൂട്ടറുകള്‍ അനുവദിക്കുന്ന പദ്ധതി",
+            "implementing_agency": "Deputy Director of Education Kannur",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 27.62,
+            "concurrence_lakhs": 27.62
+        },
+        {
+            "project_name": "KURUVAT VALAAMTHOTTAM ROAD IN EZHOM G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ADIPALAM ONNAPARAMBA CHUDALAMUKKU ROAD IN EZHOM GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "KANNIYARAVAYYAL MANGAD LAKSHAMVEEDU ROAD IN KALLIASSERY GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കണ്ണൂര്‍ ഗവണ്മെന്‍റ് നഴ്സിംഗ് കോളേജിന് ബസ് വാങ്ങല്‍",
+            "implementing_agency": "PRINCIPAL GOVT. NURSING COLLAGE KANNUR",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 24.84,
+            "concurrence_lakhs": 24.84
+        },
+        {
+            "project_name": "KUNJIMUTTAM ANGANAVADI MANGALASSERY KARIKKAL AMBALAM ROAD IN PATTUVAM G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "KADANNAPPALLI EAST L P SCHOOL KITCHEN CONSTRUCTION AT KADANNAPPALLI PANAPPUZHA GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF KITCHEN BUILDING FOR EDANAT U P SCHOOL IN KUNHIMANGALAM GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF KITCHEN BUILDING FOR EDATT WEST LP SCHOOL IN KUNHIMANGALAM G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "KAYYAM THADAM PARAPPUL KAVU ROAD IN PATTUVAM G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "പരിയാരം ഗവണ്മെന്റ് മെഡിക്കല്‍കോളേജ് പബ്ലിക് സ്കൂളിന് ബസ് വാങ്ങല്‍",
+            "implementing_agency": "Deputy Director of Education Kannur",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "WORKS IN THUMBOTTA E M S STADIUM IN KADANNAPPALLY PANAPPUZHA G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "KANDAMKULANGARA MOHIYUDHEEN MOSQUE - KURUVADU TEMPLE ROAD AT KUNHIMANGALAM GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "OUSHADHI KUMBALAPPARA ROAD AT KADANNAPPALLI PANAPPUZHA G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "Supply and Installation of 1 Number of 12 meter High Mast system and 9 Numbers of 8 meter Mini Mast system at various locations in Kunhimangalam G.P, Pattuvam G.P, Ezhom G.P, Cheruthazham G.P, Kannapuram G.P, Cherukunnu G.P and Kadannappally Panappuzha G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "ESTABLISHMENT OF SPORTS INFRASTRUCTURE FACILITIES AT KUNJIMANGALAM PANCHAYATH GROUND",
+            "implementing_agency": "CHIEF ENGINEER SPORTS ENGINEERING WING THIRUVANATHAPURAM,SPORTS&YOUTH AFFAIRS",
+            "category": "Sports",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF AUDITORIUM IN SREESANKARACHARYA SAMSKRIT UNIVERSITY",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF BRIDGE IN EARYAM AT KADANNAPPALLY PANAPPUZHA G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 38.0,
+            "concurrence_lakhs": 38.0
+        },
+        {
+            "project_name": "ITTAMMAL ANGANAVADI PALAM IN CHERUKUNNU GRAMA PANCHAYATH",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "NERUMBRAM PULLANHITTA ANGANVADI ROAD IN EZHOM GRAMA PANCHAYATH",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "BUS PURCHASE FOR KALLIASSERY G.H.S.S, PANAPPUZHA GOVERNMENT L.P.S AND EZHOM G.M.U.P.S",
+            "implementing_agency": "Deputy Director of Education Kannur",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 54.35,
+            "concurrence_lakhs": 54.35
+        },
+        {
+            "project_name": "CONSTRUCTION OF GROUND IN MATTOOL GRAMAPANCHAYATH",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ഗവഃ മെഡിക്കൽ കോളേജ് കണ്ണൂർ ബസ് വാങ്ങൽ",
+            "implementing_agency": "Principal Govt .Medical College,  Pariyaram, Kannur",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "KOTTILA HIGH SCHOOL ROAD IN EZHOME GRAMA PANCHAYATH",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KOTTILA HIGH SCHOOL ROAD IN EZHOME GRAMA PANCHAYATH",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "KALIASSERY WEST VAYALIL KOTTA KOTMULLA ROAD IN KALLIASSERY GRAMAPANCHAYATH",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CENTRAL JUMA MASJID VALAPATTANAM CHAL ROAD(PET STATION) IN MAATTOOL GRAMA PANCHAYATH",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "POLLAYIL ROAD IN MADAYI GRAMA PANCHAYATH",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF PAZHAYANGADY TOWN SQUARE IN EZHOME GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF CHERUKUNNU TOWN SQUARE IN KANNAPURAM GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 22.0
+        },
+        {
+            "project_name": "CRISTIAN PALLI KHADI ANGANWADI ROAD IN PATTUVAM GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "ITTAMMALANGANWADI PALAM IN CHERUKUNNU GRAMA PANCHAYATH",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "NERUMBRAM PULLANHITTA ANGANAVADI ROAD IN EZHOME GRAMA PANCHAYATH",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "CM NAGAR ROAD IN CHERUTHAZHAM GRAMAPANCHAYATH-GENERAL CIVIL WORK",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "BEAUTIFICATION OF CHERUKUNNU TEMPLE POND IN CHERUKUNNU GP",
+            "implementing_agency": "EXECUTIVE ENGINEER MINOR IRRIGATION DIVISION KANNUR",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "CM NAGAR ROAD IN CHERUTHAZHAM GRAMAPANCHAYATH",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "PROVIDING MINI MAST LIGHTS AT VARIOUS LOCATION(KANDAMKULANGARA-KUNHIMANGALAM GP,PUTHIYANGADI IN MADAYI GP,KAVUNGAL IN PATTUVAM GP,ATHIYADAM MUCHILOTTU KAV AND CHUMADUTHANGI IN CHERUTHAZHAM GP,VALIYAPALLI JUMAMASJID IN KADANNAPPALLI PAANAPPUZHA GP)",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD ELECTRICAL DIVISION KANNUR",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.42,
+            "concurrence_lakhs": 11.42
+        },
+        {
+            "project_name": "CONSTRUCTION OF KADANNAPALLI PANAPUZHA GP PADINJAREKKARA GROUND IN KADANNAPPALLI PANAPUZHA GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "THUMBOTTA PAADIYIL PERUVILANGA ROAD IN KADANNAPPALLY PAANAPUZHA GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "EARYAM BAKKALAM ROAD IN KADANNAPPALLY PAANAPPUZHA GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ARIYIL COLONY PATTUVAM HIGHER SECONDARY SCHOOL ROAD IN PATTUVAM GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "KAYYAM AMBALAM MUSLIM PALLI IHRD COLLEGE ROAD IN PATTUVAM GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "PROVIDING 2 NO\"S HIGHMAST LIGHTS&2 NO\"S MINIMAST LIGHTS IN GOVT MEDICAL COLLEGE KANNUR AT PARIYARAM",
+            "implementing_agency": "Assistant Executive Engineer, PWD Electricals, Thalaserry",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 13.4,
+            "concurrence_lakhs": 13.4
+        },
+        {
+            "project_name": "IMPROVEMENTS TO IRINAVE MINI STADIUM IN KALLIASSERY GP-GENERAL CIVIL WORK",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2021-2022",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF SAMSKARIKA NILAYAM AT PERUVALANGA IN KADANNAPALLY PANAPUZHA GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "NATIONAL HIGHWAY(EDAT) PAYYANNUR COLLEGE ROAD IN KUNHIMANGALAM GRAMA PANCHAYATH",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 21.0,
+            "concurrence_lakhs": 21.0
+        },
+        {
+            "project_name": "ചെറുകുന്ന് ഗവഃ ഗേൾസ് വൊക്കേഷണൽ ഹയർ സെക്കണ്ടറി സ്കൂളിന് -സ്കൂൾ ബസ് വാങ്ങുന്നത്",
+            "implementing_agency": "Deputy Director of Education Kannur",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 24.0,
+            "concurrence_lakhs": 22.06
+        },
+        {
+            "project_name": null,
+            "implementing_agency": null,
+            "category": "Others",
+            "fy": null,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "7_M_Vijin_Kalliassery_q9nkzf"
+}

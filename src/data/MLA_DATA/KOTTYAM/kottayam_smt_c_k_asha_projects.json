@@ -1,0 +1,833 @@
+{
+    "mla_name": "Smt. C. K Asha",
+    "constituency": "VAIKOM",
+    "district": "Kottayam",
+    "summary": {
+        "total_expenditure_crores": 26.1251,
+        "breakdown": [
+            {
+                "label": "Others",
+                "value_crores": 12.3001
+            },
+            {
+                "label": "Road",
+                "value_crores": 8.58
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 1.715
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 1.1
+            },
+            {
+                "label": "Education",
+                "value_crores": 1.08
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.7
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 0.65
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "ചെമ്പ് ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 4 ലെ കോട്ടപ്പുറം ബ്രഹ്മ മംഗലം  ആരോഗ്യ കേന്ദ്രം റോഡ് നിർമ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വൈക്കം മുന്‍സിപ്പാലിറ്റിയിലെ വാര്‍ഡ്‌ 18 ലെ 8 നമ്പര്‍ അംഗന്‍വാടിക്ക് സ്മാര്‍ട്ട്‌ അംഗന്‍വാടി കെട്ടിടം,  ചുറ്റുമതില്‍  നിര്‍മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വെള്ളൂർ ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 16 ലെ വടകര സെറ്റിൽമെന്റ് കോളനി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "17  പോയിന്‍റുകളിലും മിനിമാസ്റ്റ് എല്‍ ഇ ഡി സോളാർ ലൈറ്റിംഗ് സിസ്റ്റം സ്ഥാപിക്കല്‍",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 68.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ടി വി പുരം ഗ്രാമ പഞ്ചായത്തിലെ സെന്‍റ് ജോസഫ് സ്ക്കൂള്‍ പള്ളിപ്പുറത്തുശ്ശേരില്‍ പാചകപ്പുര നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "വൈക്കം മുന്‍സിപ്പാലിറ്റിയിലെ ഗവ. യു.പി. എസ്. അയ്യരുകുളങ്ങര സ്ക്കൂളില്‍ ടോയ് ലെറ്റ് നിര്‍മ്മാണം",
+            "implementing_agency": "Secretary Vaikom Municipality",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തലയോലപ്പറമ്പ് ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 13 ലെ പുതിയ ആയുർവേദ ആശുപത്രി കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഉദയനാപുരം ഗ്രാമ പഞ്ചായത്തിലെ വാര്‍ഡ് 14 ലെ ബ്ലോക്ക് റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "വൈക്കം മുന്‍സിപ്പാലിറ്റിയിലെ വാര്‍ഡ് 23 ലെ വയനവേലി റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മറവന്തുരുത്ത് ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 15 ലെ ചെമ്മനാകാരി ജംഗ്‌ഷൻ - ഹോസ്പിറ്റൽ ലിങ്ക് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "വൈക്കം ഹെഡ് ക്വർട്ടേഴ്‌സ് ആശുപത്രിയ്ക്ക് ആധുനിക സംവിധാനത്തിലുള്ള ആംബുലൻസ് വാങ്ങി നൽകുന്നത്",
+            "implementing_agency": "District Medical Officer, Kottayam",
+            "category": "Healthcare",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഉദയനാപുരം ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 8 ലെ മുട്ടുങ്കൽ മൂത്താകോൺ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "തലയോലപ്പറമ്പ്  ഗ്രാമ പഞ്ചായത്തിലെ വാര്‍ഡ് 12 ല്‍  സാംസ്കാരിക വേദി രജി. നമ്പർ K 461/85 -ന്  പുതിയ കെട്ടിടം നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തലയോലപ്പറമ്പ്  ഗ്രാമ പഞ്ചായത്തിലെ വാര്‍ഡ് 12 ല്‍  സാംസ്കാരിക വേദി രജി. നമ്പർ K 461/85 -ന്  പുതിയ കെട്ടിടം നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വെള്ളൂര്‍ ഗ്രാമ പഞ്ചായത്തിലെ വാര്‍ഡ് 6 ല്‍  പുതുതായി നിര്‍മ്മിക്കുന്ന ഹോമിയോ ഡിസ്പെന്‍സറി നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Healthcare",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വെച്ചൂര്‍ ഗ്രാമ പഞ്ചായത്തിലെ നാര്‍ഡ് 6 ലെ ആക്കാത്ത് - കിളോത്തറ റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ചെമ്പ്  ഗ്രാമ പഞ്ചായത്ത്  വാർഡ് 15 ലെ വടക്കേതുരുത്ത് റോഡിൽ യക്ഷി തുരുത്ത് തോടിന് കുറുകെ കലുങ്കും അപ്രോച്ച് റോഡും നിർമാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "കുടവെച്ചൂര്‍ ദേവീ വിലാസം ഹൈസ്ക്കൂള്‍ കെട്ടിട നിര്‍മ്മാണം പൂര്‍ത്തീകരണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തലയാഴം, ടി വി പുരം ഗ്രാമ പഞ്ചായത്തുകളിലെ  20 പോയിന്റ് കളിൽ  മിനിമാസ്‌റ്റ്  എല്‍ ഇ ഡി സോളാര്‍ ലൈറ്റിംഗ് സിസ്റ്റം സ്ഥാപിക്കുന്നത് (80ലക്ഷം ) സംബന്ധിച്ച്.",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 80.0,
+            "concurrence_lakhs": 80.0
+        },
+        {
+            "project_name": "വെച്ചൂര്‍, മറവന്‍തുരുത്ത് ഗ്രാമ പഞ്ചായത്തുകളിലെ  18 പോയിന്റ് കളിൽ  മിനിമാസ്‌റ്റ്  എല്‍ ഇ ഡി സോളാര്‍ ലൈറ്റിംഗ് സിസ്റ്റം സ്ഥാപിക്കുന്നത് (72 ലക്ഷം ) സംബന്ധിച്ച്.",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 72.0,
+            "concurrence_lakhs": 72.0
+        },
+        {
+            "project_name": "വിവിധ ഗ്രാമ പഞ്ചായത്തുകളിലെ  17 പോയിന്റ് കളിൽ  മിനിമാസ്‌റ്റ്  എല്‍ ഇ ഡി സോളാര്‍ ലൈറ്റിംഗ് സിസ്റ്റം സ്ഥാപിക്കുന്നത് (68 ലക്ഷം ) സംബന്ധിച്ച്.",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 68.0,
+            "concurrence_lakhs": 68.0
+        },
+        {
+            "project_name": "തലയോലപ്പറമ്പ് ഗ്രാമ പഞ്ചായത്തിൽ 20 പോയിന്റ് കളിൽ  മിനിമാസ്‌റ്റ്  ലൈറ്റ് സ്ഥാപിക്കുന്നത് (80 ലക്ഷം ) സംബന്ധിച്ച്.",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 80.0,
+            "concurrence_lakhs": 80.0
+        },
+        {
+            "project_name": "ഉദയനാപുരം പഞ്ചായത്തിലെ നേരേകടവ് ഗവ. എല്‍ പി സ്ക്കൂളിന് ചുറ്റുമതില്‍, ഗേറ്റ് എന്നിവ നിര്‍മ്മിക്കുന്നതിന്",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 21.0,
+            "concurrence_lakhs": 21.0
+        },
+        {
+            "project_name": "വെള്ളൂര്‍ ഗ്രാമ പഞ്ചായത്തിലെ കരിപ്പാടം ക്ഷീരോല്‍പാദക കോ ഓപ്പറേറ്റീവ് സൊസൈറ്റി-പുതിയ കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വെച്ചൂര്‍ ഗ്രാമ പഞ്ചായത്തിലെ വാര്‍ഡ് 6-ലെ ദേവീവിലാസം – പാറ്റുവീട്ടില്‍  റോഡ് നിര്‍മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "വൈക്കം മുന്‍സിപ്പാലിറ്റിയിലൂടെയും ഉദയനാപുരം ഗ്രാമ പഞ്ചായത്തിലൂടെയും കടന്നുപോകുന്ന പുളിംചുവട്- ഭജനമഠം  റോഡ് നിര്‍മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "ചെമ്പ് ഗ്രാമ പഞ്ചായത്തിലെ  വാര്‍ഡ് 4-ലെ  രാജന്‍കവല- മുകളേല്‍ റോഡ് നിര്‍മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "തലയാഴം ഗ്രാമ പഞ്ചായത്തിലെ  വാര്‍ഡ് 5-ലെ  മോസ്കോ- പിഎച്ച് സി റോഡ് നിര്‍മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മറവന്‍തുരുത്ത് ഗ്രാമ പഞ്ചായത്തിലെ  വാര്‍ഡ് 9-ലെ  ഇടവട്ടം എല്‍ പി സ്കൂളില്‍ സ്മാര്‍ട്ട് ക്ലാസ് റും നിര്‍മാണം",
+            "implementing_agency": "Deputy Director Of Education",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 19.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വെച്ചൂര്‍ ഗ്രാമ പഞ്ചായത്തിലെ  വാര്‍ഡ് 6-  പി കെ കുമാരന്‍ റോഡ് നിര്‍മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "വൈക്കം മുന്‍സിപ്പാലിറ്റി  വാര്‍ഡ് 16- മുന്‍സിപ്പാലിറ്റി – പോലീസ് ക്വാട്ടേഴ്സ്  റോഡ് നിര്‍മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തലയാഴം ഗ്രാമ പഞ്ചായത്ത് വാര്‍ഡ് 1-അട്ടാറ- മഠത്തിപറമ്പില്‍ റോഡ് നിര്‍മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "ചെമ്പ് ഗ്രാമ പഞ്ചായത്ത് വാര്‍ഡ് 3-ലെ തൈത്തറ വടക്കും കാട് –ചേനാശ്ശേരി റോഡ് നിര്‍മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "ടി.വി.പുരം ഗ്രാമപഞ്ചായത്തിലെ 14 പോയിന്‍റുകളിലും ഉദയനാപുരം ഗ്രാമപഞ്ചായത്തിലെ 8 പോയിന്‍റുകളിലും മിനിമാസ്റ്റ് എല്‍ ഇ ഡി സോളാർ ലൈറ്റിംഗ് സിസ്റ്റം സ്ഥാപിക്കല്‍",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 88.0,
+            "concurrence_lakhs": 88.0
+        },
+        {
+            "project_name": "വെള്ളൂർ ഗ്രാമപഞ്ചായത്തിലെ 16 പോയിന്‍റുകളില്‍ മിനിമാസ്റ്റ് എല്‍ ഇ ഡി സോളാർ ലൈറ്റിംഗ് സിസ്റ്റം സ്ഥാപിക്കല്‍",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 64.0,
+            "concurrence_lakhs": 64.0
+        },
+        {
+            "project_name": "ചെമ്പ് മറവന്‍തുരുത്ത് ഗ്രാമപഞ്ചായത്തുകളില്‍ മിനിമാസ്റ്റ് എല്‍.ഇ.ഡി സോളാർ ലൈറ്റിംഗ് സിസ്റ്റം സ്ഥാപ്ിക്കല്‍",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 96.0,
+            "concurrence_lakhs": 96.0
+        },
+        {
+            "project_name": "കല്ലറ ഗ്രാമപഞ്ചായത്തിലെ 13 പോയിന്‍റുകളില്‍ മിനിമാസ്റ്റ് എല്‍ ഇ ഡി സോളാർ ലൈറ്റിംഗ് സിസ്റ്റം സ്ഥാപിക്കല്‍",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 52.0,
+            "concurrence_lakhs": 52.0
+        },
+        {
+            "project_name": "വെള്ളൂർ ഗ്രാമപഞ്ചായത്തിലെ വാർഡ് 3ല്‍ വൈപ്പേ പടി പള്ളിക്കുന്ന് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "തലയാഴം ഗ്രാമപഞ്ചായത്ത് 2-)0 വാർഡിലെ വളഞ്ഞമ്പലം - പൂന്തുരുത്ത് ലിങ്ക് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ടി വി പുരം ഗ്രാമപഞ്ചായത്തിലെ വാര്‍ഡ് 13 ല്‍ വെട്ടംച്ചിറ റോഡ് കം ഡ്രൈനേജ് നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "വൈക്കം നഗരസഭയിലെ കണിയാംതോടിന് കുറുകെ പൂന്തോടത്ത് പാലം നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 65.0,
+            "concurrence_lakhs": 65.0
+        },
+        {
+            "project_name": "ചെമ്പ് ഗ്രാമപഞ്ചായത്ത് വാര്‍ഡ് 12,13 ലെ ചെമ്പ് വള്ളക്കടവ് നിര്‍മ്മാണം",
+            "implementing_agency": "Major Irrigation",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ചെമ്പ് ഗ്രാമപഞ്ചായത്തിലെ വാര്‍ഡ് 3 ല്‍ ഉള്‍പ്പെട്ട  തൈത്തറ വടക്കുംകാട് ചേനശ്ശേരി റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വെള്ളൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ വടയാടി -പെരുന്തട്ട് റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "ടി വി പുരം ഗ്രാമപഞ്ചായത്തില്‍  വാര്‍ഡ് 2 ലെ വൈദ്യശാല -ജോസ്പുരം റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ടി വി പുരം ഗ്രാമപഞ്ചായത്തിലെ വാര്‍ഡ് 8 ലെ മൂത്തേടത്തുകാവ് -കൊഴുക്കോട്ടയില്‍ റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "തലയാഴം ഗ്രാമപഞ്ചായത്തിലെ വാര്‍ഡ് 1 ലെ തേവറാണി കൊല്ലശ്ശേരി റോഡില്‍ കലുങ്ക് നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വൈക്കം നിയോജക മണ്ഡലത്തിലെ വിവിധ ഗ്രാമപഞ്ചായത്തുകളിലെ  വിവിധ ഇടങ്ങളില്‍ മിനി മാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കല്‍",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 46.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വൈക്കം നിയോജക മണ്ഡലത്തിലെ വിവിധ ഗ്രാമപഞ്ചായത്തിലെ വിവിധ ഇടങ്ങളില്‍ മിനി മാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കല്‍",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 45.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വെള്ളൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ വടക്കേമുണ്ടകപ്പാടം ഫാം റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഉദയനാപുരം ഗ്രാമപഞ്ചായത്തിലെ അക്കരപ്പാടം സ്കൂള്‍ ഗ്രൌണ്ടില്‍ കളിസ്ഥലം-2023-24 സാമ്പത്തിക വര്‍ഷം-വൈക്കം നിയോജക മണ്ഡലം",
+            "implementing_agency": "സ്പോർട്സ് കേരള ഫൗണ്ടേഷൻ",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ചെമ്പ് ഗ്രാമപ്പഞ്ചായത്തിലെ ബ്രഹ്മമംഗലം ക്ഷീരോല്‍പ്പാദക സഹകരണസംഘത്തിന് കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "വെള്ളൂര്‍ ഗ്രാമപ്പഞ്ചായത്തിലെ വാര്‍ഡ്‌: 16 -ല്‍ വരിയ്ക്കാംകുന്ന് കെ.എച്ച്.എം.എല്‍.പി സ്കൂളിന് പാചകപ്പുര നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തലയാഴം ഗ്രാമപ്പഞ്ചായത്തിലെ വാക്കേത്തറ - കല്ലുപുര റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നിയോജക മണ്ഡലം ആസ്തി വികസന പദ്ധതി , 2023-24 വൈക്കം നിയോജക മണ്ഡലം ശ്രീമതി.സി.കെ ആശ എം.എല്‍.എ നിര്‍ദ്ദേശിച്ച മൂലമ്പറം ചേലത്തറക്കുഴി റോഡ് നിര്‍മ്മാണം,വാര്‍ഡ് 09, വെള്ളൂര്‍ ഗ്രാമപഞ്ചായത്ത്,",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "നിയോജക മണ്ഡലം ആസ്തി വികസന പദ്ധതി , 2023-24 വൈക്കം നിയോജക മണ്ഡലം ശ്രീമതി.സി.കെ ആശ എം.എല്‍.എ നിര്‍ദ്ദേശിച്ച അര്‍ത്തി ആറ്റുവേലക്കടവ് റോഡ് നിര്‍മ്മാണം,വാര്‍ഡ് 10, മറവന്തുരുത്ത് ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "2023-24 വൈക്കം നിയോജക മണ്ഡലം ശ്രീമതി.സി.കെ ആശ എം.എല്‍.എ നിര്‍ദ്ദേശിച്ച കണ്ടത്തിപ്പറമ്പ് ചിറപ്പുറത്ത് ഇത്തിപ്പറമ്പ് റോഡ് നിര്‍മ്മാണം,വാര്‍ഡ് 12, ചെമ്പ് ഗ്രാമപഞ്ചായത്ത്,",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "നിയോജക മണ്ഡലം ആസ്തി വികസന പദ്ധതി , 2023-24 വൈക്കം നിയോജക മണ്ഡലം ശ്രീമതി.സി.കെ ആശ എം.എല്‍.എ നിര്‍ദ്ദേശിച്ച പരുത്തിമുടി പളിക്കാത്തറ ഏടാകൂടം പാലവും റോഡു (എംകെ കേശവന്‍ കള്‍വര്‍ട്ട്) നിര്‍മ്മാണം,വാര്‍ഡ് 12, ഉദയനാപുരം ഗ്രാമപഞ്ചായത്ത്,",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "നിയോജക മണ്ഡലം ആസ്തി വികസന പദ്ധതി , 2023-24 വൈക്കം നിയോജക മണ്ഡലം ശ്രീമതി.സി.കെ ആശ എം.എല്‍.എ നിര്‍ദ്ദേശിച്ച ലക്ഷം വീട് ഒടിത്തറ റോഡും, കലുങ്കും നിര്‍മ്മാണം,വാര്‍ഡ് 1, മറവന്തുരുത്ത് ഗ്രാമപഞ്ചായത്ത്,",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "നിയോജക മണ്ഡലം ആസ്തി വികസന പദ്ധതി , 2023-24 വൈക്കം നിയോജക മണ്ഡലം ശ്രീമതി.സി.കെ ആശ എം.എല്‍.എ നിര്‍ദ്ദേശിച്ച കപ്പേള കല്‍വര്‍ട്ട് ആന്‍റ് ചള്ളാങ്കല്‍ കപ്പേള റോഡ് നിര്‍മ്മാണം,വാര്‍ഡ് 14,15 തലയോലപ്പറമ്പ് ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പള്ളിയാട് പോത്തന്‍മാലി റോഡ് നിര്‍മ്മാണം-,തലയാഴം ഗ്രാമപഞ്ചായത്ത്ആസ്തി വികസനപദ്ധതി 2023-24 -വൈക്കം നിയോജക മണ്ഡലം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ചെമ്മനാകരി-അക്കരപ്പാടം റോഡില്‍ നാട്ടുതോടിന് കുറുകെയുള്ള വാടച്ചിറ കലുങ്ക് നിര്‍മ്മാണം-ആസ്തി വികസനപദ്ധതി 2022-23 -വൈക്കം നിയോജക മണ്ഡലം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 43.0,
+            "concurrence_lakhs": 43.0
+        },
+        {
+            "project_name": "ചെമ്മനാകരി-അക്കരപ്പാടം റോഡില്‍ നാട്ടുതോടിന് കുറുകെയുള്ള വാടച്ചിറ കലുങ്ക് നിര്‍മ്മാണം-ആസ്തി വികസനപദ്ധതി 2022-23 -വൈക്കം നിയോജക മണ്ഡലം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 0.01,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പുന്നപ്പൊഴി പറത്തറ പാലവും തുടര്‍ന്നുള്ള റോഡും നിര്‍മ്മാണം,തലയാഴം ഗ്രാമപഞ്ചയത്ത് എം.എല്‍.എമാരുടെ ആസ്തി വികസന നിധി 2023-24 വൈക്കം നിയോജക മണ്ഡലം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നീലഗിരിമുക്ക് - മാരാംവീട് പാലം നിര്‍മ്മാണം,തലയാഴം ഗ്രാമപഞ്ചായത്ത് 2023-24 വൈക്കം നിയോജക മണ്ഡലം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പെരുമശ്ശേരി അമ്പലം-പട്ടശ്ശേരി തരദേശ റോഡ് നിര്‍മ്മാണം വൈക്കം നഗരസഭ എം.എല്‍.എമാരുടെ ആസ്തിവികസന നിധി \r\n 2023-24 വൈക്കം നിയോജക മണ്ഡലം 2023-24",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പളിക്കമ്പറമ്പ്-ചുങ്കം റോഡ് നിര്‍മ്മാണം കല്ലറ ഗ്രാമപഞ്ചായത്ത് എം.എല്‍.എമാരുടെ ആസ്തി വികസന നിധി 2023-24 വൈക്കം നിയോജക മണ്ഡലം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "കൂടല്ലില്‍-ചാപ്പല്ലില്‍ റോഡ് നിര്‍മ്മാണം ടി.വി പുരം ഗ്രാമപഞ്ചായത്ത് - എം.എല്‍.എമാരുടെ ആസ്തി വികസന നിധി 2023-24 വൈക്കം നിയോജക മണ്ഡലം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ഉദയനാപുരം പഞ്ചായത്ത് വാര്‍ഡ് 2 ലെ കളത്തില്‍ കൂട്ടുങ്കല്‍ റോഡില്‍ തൂമ്പൂങ്കല്‍ പാലം  നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "വെച്ചൂര്‍ പഞ്ചായത്തിലെ  കടമ്പാട് കല്ലിത്തറ റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "തലയോലപ്പറമ്പ് എ ജെ ജോണ്‍ മോമ്മോറിയല്‍ ഗവ ഹയര്‍സെക്കണ്ടറി സ്കൂളിന് സ്കൂള്‍ ബസ് വാങ്ങല്‍",
+            "implementing_agency": "Regional Deputy Director of Education (HSE wing)",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ടി വി പുരം പഞ്ചായത്ത് വാര്‍ഡ് 13 ലെ മറ്റപ്പള്ളി ഇട്ട്യാന റോഡും കലുങ്കും നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 13.3
+        },
+        {
+            "project_name": "Rajan kavala  Chenaserry Road  in Ward 4 of Chempu Panchayathu",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "Construction of Puthanezhathu Painungal road in  ward 1 of T V Puram Pt",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2017-2018",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of Chathanad Tharavattom road in ward 2 of Maravanthuruthu pt",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "Construction of kochangadi Meekara road in ward  14 of Maravanthuruthu Pt",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ചെമ്മനാകരി അക്കരപ്പാടം റോഡില്‍ നാട്ടുതോടിനു കുറുകെയുള്ള വാടാച്ചിറ കലുങ്ക് പുനര്‍നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of Konaril Varanattuthara  Road in ward 4 of Vaikom Muncipality",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "Construction of Kurishupally Chungam road in Ward 9 of kallara Panchayath",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "തലയോലപ്പറന്പ്  പഞ്ചായത്തിലെ വാര്‍ഡ് 13 ല്‍ കാളിവേലി കലുങ്കും റോഡും നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "വെച്ചൂര്‍ പഞ്ചായത്തിലെ വാര്‍ഡ് 1 ല്‍ താനാട്ടുതറ വാച്ചാല്‍ റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "തലയോലപ്പറന്പ് പഞ്ചായത്ത് വാര്ഡ് 6 ലെ പൊതി ഓലക്ക ുഴി റോഡ് കൊല്ലംകുന്നേല്‍   പൂവക്കോട് ഇടപ്പനാട് റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ഉദയനാപുരം പഞ്ചായത്തിലെ കണിയാംതോടില്‍ ഭജനമഠം ഭാഗത്ത് തോടിന്റ തീരം കല്ലു കെടട്ി സംരക്ഷിക്കല്‍",
+            "implementing_agency": "Minor Irrigation",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ടി വിപുരം പഞ്ചായത്ത് വാര്‍ഡ് 9 ലെ എസ്ബിറ്റി ചെറുപറന്പ് റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "തലയോലപ്പറമ്പ്  പഞ്ചായത്തിലെ വാര്‍ഡ് 13 ല്‍ തറയില്‍ കുടകുത്തി റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വൈക്കം നഗരസഭ വാര്‍ഡ് 17 ലെ തെക്കേനട സെന്റര്‍ നന്പര്‍ 14 സ്മാര്‍ട്ട് അംഗന്‍വാടി കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "തലയോലപ്പറന്പ് പഞ്ചായത്തിലെ വാര്‍ഡ് 13 ല്‍ വട്ടക്കേരി . കള്ളാട്ടിപ്പുറം റോഡ് നിര്മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "വൈക്കം ഫയര്‍സ്റ്റേഷന് കെട്ടിടനിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "വെള്ളൂര്‍ ഗ്രഗാമപഞ്ചായത്ത്  വാര്‍ഡ് 12 ല്‍ നാലുകണ്ടം ഗണപതിക്ഷേത്റം റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of Kollamparambu Vayanasala Road in kallara Panchayath",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "വൈക്കം നഗരസഭ കണിയാംതോടിന് കുറുകെ പൂന്തോടത്ത് പാലം നിര്മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കല്ലറ പഞ്ചായത്ത്ിലെ കല്ലറ ക്യഷിഭവനില്‍ ഗോഡൌണ്‍ കോട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഉദയനാപുരം പഞ്ചായത്ത് വാര്‍ഡ് 15-ാം വാര്ഡിലെ ആലിന്‍ചുവട്   ശ്രശീനാരായണപുരം ഓര്സലേം പള്ളി റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വൈക്കം ബോട്ടുജെട്ടിയ്ക്കു സമീപം ജലഗതാഗതവകുപ്പിന് പുതിയ ഓഫീസ് കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കോട്ടയം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "Construction of Mosco koovam Vanam Road in Thalayazham Panchayath",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "Construction of new building for Homeo Hospital in T V Puram Panchayath",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of New Building for 37 Number Anganwadi in ward 13 of Kallara Panchayath",
+            "implementing_agency": "എൽ.ഐ.ഡി.& ഇ.ഡബ്ല്യൂ ഡിവിഷൻ കോട്ടയം",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 19.0,
+            "concurrence_lakhs": 19.0
+        },
+        {
+            "project_name": "തലയാഴം പഞ്ചായത്തിലെ കരിയാറി െന്റ  കിഴ േക്കതീരത്ത്   ആലക്കാംപറമ്പ് ഭാഗം സംരക്ഷണഭിത്തി നിര്‍മ്മാണം",
+            "implementing_agency": "Major Irrigation",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "kottayam_smt_c_k_asha_placeholder"
+}

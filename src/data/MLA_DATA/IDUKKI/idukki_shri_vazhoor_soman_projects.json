@@ -1,0 +1,709 @@
+{
+    "mla_name": "Shri Vazhoor Soman",
+    "constituency": "PEERUMADE",
+    "district": "Idukki",
+    "summary": {
+        "total_expenditure_crores": 23.9,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 16.79
+            },
+            {
+                "label": "Others",
+                "value_crores": 3.46
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 1.4
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 1.1
+            },
+            {
+                "label": "Education",
+                "value_crores": 0.65
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.5
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "വണ്ടിപ്പെരിയാർ ടൌണിൽ പൊതുശൌചാലയവും സംരക്ഷണഭിത്തിയും നിർമ്മാണം (പൂർത്തീകരണം)",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഏലപ്പാറ ഗ്രാമപഞ്ചായത്തിലെ തറയെങ്ങാനം നാരകകുഴി മൂന്നുകല്ല് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചക്കുപള്ളം ഗ്രാമപഞ്ചായത്തിലെ ആറാം മൈൽ സ്റ്റേഡിയം നിർമ്മാണം (രണ്ടാം ഘട്ടം)",
+            "implementing_agency": "Managing Director ,Sports Kerala Foundation,Vellayambalam, Thiruvananthapuram",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഏലപ്പാറ ഗ്രാമപഞ്ചായത്തിലെ വള്ളക്കടവ് കുമളി റോഡ്  നിർമാണം  (റീച് 2)",
+            "implementing_agency": "Regional Engineer State Nirmithi Kendra Pala Kottayam",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "അയ്യപ്പൻ കോവിൽ ഗ്രാമപഞ്ചായത്തിലെ ചപ്പാത്ത് ചെങ്കര റോഡ് നിർമാണം",
+            "implementing_agency": "Regional Engineer State Nirmithi Kendra Pala Kottayam",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "പീരുമേട് നിയോജകമണ്ഡലത്തിലെ വിവിധ ഭാഗങ്ങളിൽ എൽ.ഇ.ഡി. മിനി മാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കൽ",
+            "implementing_agency": "Executive Engineer, LSGD, Idukki",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 75.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അയ്യപ്പൻകോവിൽ ഗ്രാമപഞ്ചായത്തിലെ ചിറ്റടി മേട് റോഡ്, ദിവാകരൻ മേഡ് റോഡ്, ഹയർ സെക്കൻഡറി പടി കിളിയമ്പ്രാപടി റോഡ്, മാട്ടുക്കട്ട ഗവൺമെൻറ് എൽപിഎസ് -വള്ളിക്കാട്ടിൽ പടി റോഡ് എന്നിവയുടെ കോൺക്രീറ്റിംഗ്",
+            "implementing_agency": "Secretary, Ayyappanakovil Grama Panchayath",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പെരുവന്താനം ഗ്രാമപഞ്ചായത്തിലെ പെരുവന്താനം പാലൂർകാവ് റോഡ് നിർമാണം",
+            "implementing_agency": "Kerala State Nirmithy Kendra Muttom",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ഏലപ്പാറ ഗ്രാമപഞ്ചായത്തിലെ ചെമ്മണ്ണ് മാണിക്കംകവല റോഡ് (റീച് 2) നിർമാണം",
+            "implementing_agency": "Regional Engineer State Nirmithi Kendra Pala Kottayam",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വണ്ടിപ്പെരിയാർ ഗ്രാമപഞ്ചായത്തിലെ വാളർഡി മേപ്പുറട്ട് ഓടമേഡ് റോഡ് നിർമാണം (വട്ടപ്പാറ ഓടമേഡ് ഭാഗം)",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പീരുമേട് ഗ്രാമപഞ്ചായത്തിലെ ഗ്ലൻമേരി കൊടുവ കരണം റോഡ് നിർമാണം",
+            "implementing_agency": "Regional Engineer State Nirmithi Kendra Pala Kottayam",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഉപ്പുതറ ഗ്രാമപഞ്ചായത്തിലെ ഉപ്പുതറ പൊരികണ്ണി റോഡ് നിർമാണം",
+            "implementing_agency": "Block development officer kattappana",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "കുമളി ഗ്രാമപഞ്ചായത്തിലെ നൂലം പാറ കറുപ്പയ്യാക്കടാ പാണ്ടിക്കുഴി റോഡ്",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഉപ്പുതറ ഗ്രാമപഞ്ചായത്തിലെ കൊച്ചികുടിപടി തേക്കുംമൂട് റോഡ് കോൺക്രീറ്റിംഗ്",
+            "implementing_agency": "Block development officer kattappana",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "ഏലപ്പാറ ഗ്രാമപഞ്ചായത്തിലെ 26 പുതുവൽ വള്ളക്കടവ് കുമളി റോഡ് കോൺക്രീറ്റിംഗ് റീച്ച് -3",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പെരുവന്താനം ഗ്രാമപഞ്ചായത്തിലെ മതമ്പ വട്ടമല റോഡ് നിർമാണം",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുമളി ഗ്രാമപഞ്ചായത്തിലെ കുമളി മന്നാൻ നഗർ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അയ്യപ്പൻകോവിൽ ഗ്രാമപഞ്ചായത്തിലെ തീപ്പട്ടികമ്പനി തോണിത്തടി റോഡ് നിർമാണം",
+            "implementing_agency": "Block development officer kattappana",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പെരുവന്താനം ഗ്രാമപഞ്ചായത്തിലെ കൊയ്‌നാട് അന്നാസ് വെള്ളാനി റോഡ് നിർമാണം",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വണ്ടിപ്പെരിയാര്‍ പോളിടെക്നിക് കോളേജ് ക്യാമ്പസ് റോഡ് കോൺക്രീറ്റിംഗും കൈവരി സ്ഥാപിക്കലും",
+            "implementing_agency": "Secretary, Vandiperiyar Grama Panchayath",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "വണ്ടിപ്പെരിയാര്‍ ടൌണിൽ പൊതുശൌചാലയവും സംരക്ഷണഭിത്തിയും നിർമ്മാണം",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "ചക്കുപള്ളം ഗ്രാമപഞ്ചായത്ത് പ്രാഥമികാശുപത്രി കെട്ടിടനിർമ്മാണം പൂർത്തീകരണം",
+            "implementing_agency": "Secretary, Chakkupallam Grama Panchayath",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 21.0,
+            "concurrence_lakhs": 21.0
+        },
+        {
+            "project_name": "പീരുമേട് ഗ്രാമപഞ്ചായത്തിലെ പാമ്പനാർ ഇൻഡോർ സ്റ്റേഡിയം നിർമ്മാണം പൂർത്തീകരണം",
+            "implementing_agency": "Kerala State Nirmithy Kendra Muttom",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "വണ്ടിപ്പെരിയാര്‍ ഗ്രാമപഞ്ചായത്തിലെ  ശാന്തിനഗർ റോഡ് കോൺക്രീറ്റിംഗ്",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ഏലപ്പാറ ഗ്രാമപഞ്ചായത്തിലെ വാഗമൺ - വട്ടപ്പതാൽ റോഡ്  നിർമ്മാണം  (റീച്ച് - 2)",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കുമളി ഗ്രാമപഞ്ചായത്തിലെ കോളനി- ചെളിമട റോഡ് നിർമാണം",
+            "implementing_agency": "Secretary, kumily Grama Panchayath",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ചക്കുപള്ളം ഗ്രാമപഞ്ചായത്തിലെ അംഗൻവാടിപടി തെങ്ങുംപള്ളിപടി റോഡ്,  ബേക്കറിപടി കൊച്ചുകൂടിപടി റോഡ്, തിയേറ്റർപടി തേക്കനാംപോയ്കപടി റോഡ്,  പാമ്പുപാറ ചെങ്ങളത്തുപടി റോഡ്, കൊച്ചുവീട്ടിൽപ്പടി കുന്നേൽപ്പടി റോഡ് എന്നീ റോഡുകളുടെ നിർമാണം",
+            "implementing_agency": "Block development officer kattappana",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "ഉപ്പുതറ ഗ്രാമപഞ്ചായത്തിലെ ഫാക്ടറി പടി മന്തയമ്മൻ കോവിൽ പടി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Block development officer kattappana",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "വണ്ടിപ്പെരിയാർ ഗ്രാമപഞ്ചായത്തിലെ മ്ലാമല കണ്ണാടി മഠം റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "മലയോര ഹൈവേയിലെ കുട്ടിക്കാനം മുതൽ മാട്ടുക്കട്ട വരെയുള്ള പ്രദേശങ്ങളിൽ ബസ് കാത്തിരിപ്പ് കേന്ദ്രങ്ങൾ നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer, PWD Roads, Idukki",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കൊക്കയാർ ഗ്രാമപഞ്ചായത്തിലെ കല്ലേപ്പാലം പൂവഞ്ചി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കൊക്കയാർ ഗ്രാമപഞ്ചായത്തിലെ വെമ്പിള്ളി പാലം, കനകപുരം കുപ്പായിക്കുഴി നടപ്പാലം എന്നിവയുടെ നിർമ്മാണം",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        },
+        {
+            "project_name": "വണ്ടിപ്പെരിയാർ മിനി സ്റ്റേഡിയത്തിൽ കളിക്കളം നിർമ്മാണം",
+            "implementing_agency": "Managing Director ,Sports Kerala Foundation,Vellayambalam, Thiruvananthapuram",
+            "category": "Sports",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ഏലപ്പാറ ഗ്രാമപഞ്ചായത്തിലെ  കൊടുവ - അണ്ണന്‍തമ്പി - ഏലപ്പാറ - കോഴിക്കാനം  റോഡ് നിര്‍മ്മാണം പൂർത്തീകരണം",
+            "implementing_agency": "Regional Engineer State Nirmithi Kendra Pala Kottayam",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "വണ്ടിപ്പെരിയാർ ഗ്രാമപഞ്ചായത്തിലെ മണൽമുക്ക് - സി.എസ്.ഐ. പള്ളി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ഗവ. ട്രൈബൽ യു.പി. സ്കൂൾ,  കുമളി (22,50,000/-) രൂപ, പഞ്ചായത്ത് എൽ.പി. സ്കൂൾ, കരടിക്കുഴി (22,50,000/-) രൂപ എന്നിവിടങ്ങളിലേക്ക്  സ്കൂൾ ബസ്    വാങ്ങൽ (ആകെ 45,00,000/-) രൂപ",
+            "implementing_agency": "Deputy Director of Education,Idukki",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 44.08
+        },
+        {
+            "project_name": "വണ്ടിപ്പെരിയാര്‍ ഗ്രാമപഞ്ചായത്തിലെ നെല്ലിമല ആറ്റോരം റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 38.0,
+            "concurrence_lakhs": 38.0
+        },
+        {
+            "project_name": "അയ്യപ്പന്‍കോവില്‍ ഗ്രാമപഞ്ചായത്തിലെ പൂക്കളം ഗവ. എല്‍.പി.സ്കൂളില്‍ പുതിയ കെട്ടിടം നിര്‍മ്മാണം",
+            "implementing_agency": "Block development officer kattappana",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തങ്കമല എസ്റ്റേറ്റ് പുതിയ വായനശാല / സാംസ്ക്കാരികനിലയം നിര്‍മ്മാണം",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പീരുമേട് ഗ്രാമപഞ്ചായത്തിലെ പരുന്തുംപാറ വിനോദസഞ്ചാരകേന്ദ്രത്തില്‍ ചില്‍ഡ്രന്‍സ് പാര്‍ക്കും ടോയിലറ്റ് കോംപ്ലക്സും നിര്‍മ്മാണം",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വണ്ടിപ്പെരിയാര്‍ ഗ്രാമപഞ്ചായത്തിലെ വണ്ടിപ്പെരിയാര്‍ - മ്ലാമല - തേങ്ങാക്കല്‍ റോഡ് പുനര്‍നിര്‍മ്മാണം",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2020-2021",
+            "estimate_lakhs": 61.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വണ്ടിപ്പെരിയാര്‍ ഗ്രാമപഞ്ചായത്തിലെ പള്ളിക്കട - തേങ്ങാക്കല്‍ റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "Kerala State Nirmithy Kendra Muttom",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 43.0,
+            "concurrence_lakhs": 43.0
+        },
+        {
+            "project_name": "ഏലപ്പാറ ഗ്രാമപഞ്ചായത്തിലെ കോഴിക്കാനം കുരിശുമല റോഡും സംരക്ഷണഭിത്തിയും നിര്‍മ്മാണം",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പീരുമേട് ഗ്രാമപഞ്ചായത്തിലെ മുറിഞ്ഞപുഴ - മട്ടം കോങ്ങാട് റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "Secretary, Peermade Grama Panchayath",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "അയ്യപ്പന്‍കോവില്‍ ഗ്രാമപഞ്ചായത്തിലെ പുല്ലുമേട് - സുല്‍ത്താനിയ റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "Secretary, Ayyappanakovil Grama Panchayath",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "ഏലപ്പാറ ഗ്രാമപഞ്ചായത്തിലെ പുല്ലാട്ടുപാടി പാലത്തിന്‍റെ അപ്രോച്ച് റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "Project engineer, District Nirmithi Kendram, Idukki",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുമളി ഗ്രാമപഞ്ചായത്തിലെ വെള്ളാരംകുന്ന് - ആനക്കുഴി ഡൈമുക്ക് റോഡ് (20 വാര്‍ഡ്) നിര്‍മ്മാണം",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "വണ്ടിപ്പെരിയാര്‍ ഗ്രാമപഞ്ചായത്തിലെ അറുവതടിപാലം - പുളിക്കല്‍മല റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ഏലപ്പാറ ഗ്രാമപഞ്ചായത്തിലെ കോഴിക്കാനം - കിഴക്കേപുതുവെല്‍ റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "ഏലപ്പാറ ഗ്രാമപഞ്ചായത്തിലെ 26 പുതുവല്‍ - വള്ളക്കടവ് - കുമളി റോഡ് - റീച്ച് 2  നിര്‍മ്മാണം",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കുമളി ഗ്രാമപഞ്ചായത്തിലെ മുരിക്കടി - കുര്യന്‍ കോളനി റോഡ് - റീച്ച് 2 - നിര്‍മ്മാണം",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 14.97
+        },
+        {
+            "project_name": "പീരുമേട് നിയോജക മണ്ഡലത്തിലെ വിവിധ പ്രദേശങ്ങളില്‍ മിനിമാസ്റ്റ് / ഹൈമാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കല്‍",
+            "implementing_agency": "Executive Engineer, LSGD, Idukki",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വണ്ടിപ്പെരിയാര്‍ ഗ്രാമപഞ്ചായത്തിലെ കുരിശുമൂട് - ധര്‍മ്മാവാലി എസ്റ്റേറ്റ് റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "കുമളി ഗ്രാമപഞ്ചായത്തിലെ മൂങ്കലാര്‍ - ഈട്ടിമരം (പാത്തിമുക്ക്) റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "പെരുവന്താനം ഗ്രാമപഞ്ചായത്തിലെ ചെറുവള്ളിക്കുളം - അംഗന്‍വാടി കെട്ടിടനിര്‍മ്മാണം",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കുമളി ഗ്രാമപഞ്ചായത്തിലെ  ചെങ്കര-ശങ്കരഗിരി -കന്നിക്കൽ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "ചക്കുപള്ളം ഗ്രാമപഞ്ചായത്തിലെ  ഈറ്റക്കാനം-പേവരട്ടി  റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Block development officer kattappana",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "ഉപ്പുതറ ഗ്രാമപഞ്ചായത്തിലെ പശുപ്പാറ പുതുവൽ അങ്കണവാടി -വട്ടപ്പതാൽ  റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Block development officer kattappana",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "അയ്യപ്പൻകോവിൽ ഗ്രാമപഞ്ചായത്തിലെ ഇടക്കരോട്ട് പടി - കമ്പനിപ്പടി  റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Block development officer kattappana",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ഉപ്പുതറ ഗ്രാമപഞ്ചായത്തിലെ  ലോൺട്രി ലയം-ചൊരയ്കാമൊട്ട-തേവാർ ലയം-മാരിയമ്മൻകോവിൽ-ഉപ്പുതറ റോഡ് (15 ലക്ഷം),പത്താംനമ്പർ-വട്ടപ്പതാൽ-ഡി പി ഇ പി  എൽ പി സ്കൂൾ റോഡ്(15 ലക്ഷം)എന്നിവയുടെ  നിർമ്മാണം (ആകെ 30 ലക്ഷം)",
+            "implementing_agency": "Block development officer kattappana",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "പെരുവന്താനം ഗ്രാമപഞ്ചായത്തിലെ  പെരുവന്താനം ആനചാരി റോഡിൽ കലുങ്ക്, കൈവരി , റോഡ്  എന്നിവയുടെ നിർമ്മാണം",
+            "implementing_agency": "Kerala State Nirmithy Kendra Muttom",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പീരുമേട് ഗ്രാമപഞ്ചായത്തിലെ കുട്ടിക്കാനം MRS സ്കൂൾ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Kerala State Nirmithy Kendra Muttom",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "ചക്കുപള്ളം ഗ്രാമപഞ്ചായത്തിലെ ആറാം മൈലിൽ കളിസ്ഥല നിർമ്മാണം",
+            "implementing_agency": "Kerala State Nirmithy Kendra Muttom",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ഉപ്പുതറ ഗ്രാമപഞ്ചായത്തിലെ  വട്ടപതാൽ - മലൈപുതുവൽ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer, PWD Roads, Idukki",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ഉപ്പുതറ ഗ്രാമപഞ്ചായത്തിലെ  നാലാംമൈൽ -കൊച്ചുകരുന്തരുവി  റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer, PWD Roads, Idukki",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ഏലപ്പാറ ഗ്രാമപഞ്ചായത്തിലെ   കൊച്ചുകരിന്തരുവി തോടിന് കുറുകെ  പുല്ലാട്ടുപടി ഭാഗത്ത് പാലം നിർമ്മാണം",
+            "implementing_agency": "Project engineer, District Nirmithi Kendram, Idukki",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 38.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഏലപ്പാറ ഗ്രാമപഞ്ചായത്തിലെ 26 മുതൽ വള്ളക്കടവ് വഴി കുമളി ഭാഗം  റോഡിൽ  ബംഗ്ലാവ്പടി മുതൽ കടമുക്ക്  ഭാഗംവരെയുള്ള  റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ഏലപ്പാറ ഗ്രാമപഞ്ചായത്തിലെ  വാഗമൺ വട്ടപതാൽ മെയിൻ റോഡിൻറെയും  കലുങ്കിൻറെയും  നിർമ്മാണം",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "പെരുവന്താനം ഗ്രാമപഞ്ചായത്തിലെ പാലൂർകാവ് -കാരിവര റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Regional Engineer State Nirmithi Kendra Pala Kottayam",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പീരുമേട്   ഗ്രാമപഞ്ചായത്തിലെ  പാമ്പനാർ എസ് എൻ കോളേജ്  റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "വണ്ടിപ്പെരിയാർ  ഗ്രാമപഞ്ചായത്തിലെ വണ്ടിപ്പെരിയാർ  -തേങ്ങാക്കൽ  റോഡ്     നിർമ്മാണം",
+            "implementing_agency": "Regional Engineer State Nirmithi Kendra Pala Kottayam",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "പെരുവന്താനം ഗ്രാമപഞ്ചായത്തിലെ പാലൂർക്കാവ് -കാരിവര റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Regional Engineer State Nirmithi Kendra Pala Kottayam",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അയ്യപ്പൻകോവിൽ ഗ്രാമപഞ്ചായത്തിലെ ആലടി ഗവ. പി എച്ച് സി ക്ക് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "State Nirmithy kendram, Idukki",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അയ്യപ്പൻകോവിൽ ഗ്രാമപഞ്ചായത്തിലെ കരിങ്കുളം ഗവ. എൽ പി സ്കൂളിന് സ്കൂൾ ബസ് വാങ്ങൽ",
+            "implementing_agency": "Deputy Director of Education,Idukki",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 17.44
+        },
+        {
+            "project_name": "ഏലപ്പാറ ഗ്രാമപഞ്ചായത്തിലെ 26 - വള്ളക്കടവ് -കുമളി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Regional Engineer State Nirmithi Kendra Pala Kottayam",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ഏലപ്പാറ ഗ്രാമപഞ്ചായത്തിലെ ചോറ്റുപ്പാറ-ഉളുപ്പുണ്ണി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Regional Engineer State Nirmithi Kendra Pala Kottayam",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "പീരുമേട് നിയോജകമണ്ഡലത്തിലെ വിവിധ സ്ഥലങ്ങളിൽ എൽ ഇ ഡി മിനി/ഹൈ മാസ്റ്റ് ലൈറ്റുകൾ സ്ഥാപിക്കൽ",
+            "implementing_agency": "Executive Engineer, LSGD, Idukki",
+            "category": "Electricity",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 14.52
+        },
+        {
+            "project_name": "ഏലപ്പാറ ഗ്രാമപഞ്ചായത്തിലെ ഹെലിബറിയ കിളിപാടി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഏലപ്പാറ ഗ്രാമപഞ്ചായത്തിലെ വട്ടപ്പതാൽ- കുരിശുമല  റോഡ് കോൺക്രീറ്റിംഗ്",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "വണ്ടിപ്പെരിയാർ ഗ്രാമപഞ്ചായത്തിലെ തേങ്ങാക്കൽ ഫാക്ടറി -വെയ്റ്റിംഗ്  ഷെഡ്  റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കുമളി ഗ്രാമപഞ്ചായത്തിലെ മുരിക്കടി കുരിയൻ കോളനി റോഡ് കോൺക്രീറ്റിംഗ്",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പീരുമേട് ഗ്രാമപഞ്ചായത്തിലെ പീരുമേട് എം ബി സി കോളേജ്-താലൂക്കാശുപത്രി  റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Block Development Officer , Azhutha",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഉപ്പുതറ   ഗ്രാമപഞ്ചായത്തിലെ പശുപ്പാറ ഏഴാം നമ്പർ- പത്താംനമ്പർ എസ്റ്റേറ്റ്  റോഡ്   നിർമ്മാണം",
+            "implementing_agency": "Block development officer kattappana",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "idukki_shri_vazhoor_soman_placeholder"
+}

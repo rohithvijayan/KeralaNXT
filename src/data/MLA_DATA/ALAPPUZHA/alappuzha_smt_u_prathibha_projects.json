@@ -1,0 +1,721 @@
+{
+    "mla_name": "Smt. U. Prathibha",
+    "constituency": "KAYAMKULAM",
+    "district": "Alappuzha",
+    "summary": {
+        "total_expenditure_crores": 23.1238,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 14.6001
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 5.015
+            },
+            {
+                "label": "Others",
+                "value_crores": 1.4287
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 0.7
+            },
+            {
+                "label": "Education",
+                "value_crores": 0.69
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.4
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.29
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "കായംകുളം നിയോജക മണ്ഡലത്തിലെ വിവിധ കേന്ദ്രങ്ങളിൽ  (18 എണ്ണം)   മിനിമാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കുന്ന പ്രവൃത്തി",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 36.0,
+            "concurrence_lakhs": 36.0
+        },
+        {
+            "project_name": "കായംകുളം  മണ്ഡലത്തിലെ വിവിധ കേന്ദ്രങ്ങളിൽ  (17 എണ്ണം)   മിനിമാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കുന്ന പ്രവൃത്തി",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 34.0,
+            "concurrence_lakhs": 34.0
+        },
+        {
+            "project_name": "കായംകുളം ടൌൺ യു.പി. സ്കൂളിന് പുതിയ ബസ് വാങ്ങൽ",
+            "implementing_agency": "പൊതുവിദ്യാഭ്യാസം",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 19.0,
+            "concurrence_lakhs": 19.0
+        },
+        {
+            "project_name": "ഭരണിക്കാവ് ഗ്രാമ പഞ്ചായത്ത് വാർഡ് -11  - പാലപ്പളളിക്കുറ്റി - ശാസ്താൻ നട റോഡ് നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "ചെട്ടികുളങ്ങര ഗ്രാമപഞ്ചായത്ത്‌ - വാര്‍ഡ്‌ - 18 - മേച്ചേരിതറ - കടമ്പനാട് റോഡ്‌ നിര്‍മ്മാണം.",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 21.0,
+            "concurrence_lakhs": 21.0
+        },
+        {
+            "project_name": "ചെട്ടികുളങ്ങര ഗ്രാമപഞ്ചായത്ത് - വാര്‍ഡ്‌ - 18 - ഗുരുമന്ദിരം - മൂലക്കട്ടുച്ചിറ റോഡ്‌ നിര്‍മ്മാണം.",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.5,
+            "concurrence_lakhs": 30.5
+        },
+        {
+            "project_name": "ദേവികുളങ്ങര ഗ്രാമ പഞ്ചായത്ത്  വാർഡ് -12 കായംകുളം  കായൽ - തോപ്പിൽ കിഴക്കേപ്പുറം തോടുവരെയുള്ള  വിവിധ തോടുകളുടെ  സംരക്ഷണഭിത്തി നിർമ്മാണം",
+            "implementing_agency": "ഇറിഗേഷൻ",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "കണ്ടല്ലൂർ ഗ്രാമ പഞ്ചായത്ത്  വാർഡ് -11 വെണ്ടശ്ശേരി  -  കയർ സൊസൈറ്റി റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 23.2,
+            "concurrence_lakhs": 23.2
+        },
+        {
+            "project_name": "കായംകുളം  നഗരസഭ  വാർഡ്-30 കൃഷ്ണപുരം  പാലസ് റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 33.0,
+            "concurrence_lakhs": 33.0
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ വാർഡ്  -6 ചെമ്പകപ്പള്ളിയിൽ -മുടിയിൽ റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.9,
+            "concurrence_lakhs": 25.9
+        },
+        {
+            "project_name": "കായംകുളം  നഗരസഭ  വാർഡ് -7,8  - വള്ളിയിൽ റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 18.3,
+            "concurrence_lakhs": 18.3
+        },
+        {
+            "project_name": "കായംകുളം  നഗരസഭ വാർഡ് -17 കൊച്ചയ്യത്ത് കുറ്റിയിൽ ക്ഷേത്രം -കൊല്ലശ്ശേരിയിൽ കോട്ടടിയിൽ റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 33.0,
+            "concurrence_lakhs": 33.0
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ ഗ്യാസ് ഗോഡൌൺ വിളക്കുമരത്തിൻകാവ്  റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 27.9,
+            "concurrence_lakhs": 27.9
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ വാർഡ് - 26 -കോലത്ത് പുത്തൻപുരയ്ക്കൽ റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 26.5,
+            "concurrence_lakhs": 26.5
+        },
+        {
+            "project_name": "കൃഷ്ണപുരം ഗ്രാമ പഞ്ചായത്ത് വാർഡ് -1 മുട്ടത്തുമുക്ക് - ഇടയോടിക്കാവ് ക്ഷേത്രം റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 26.89,
+            "concurrence_lakhs": 26.89
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ  വാർഡ് -2 -യത്തീംഖാന -കങ്കാളിൽ റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 13.6,
+            "concurrence_lakhs": 13.6
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ വാർഡ് -24 -മണ്ണുകുന്ന് അർബൻ പി.എച്ച്.സി  റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 40.3,
+            "concurrence_lakhs": 40.3
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ വാർഡ് -39 വാളക്കോട്ട് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 26.0
+        },
+        {
+            "project_name": "കൃഷ്ണപുരം ഗ്രാമ പഞ്ചായത്ത് വാർഡ് -14,തോണ്ടലിക്കുന്നേൽ പാലത്തിന് സമീപം  മലയൻ കനാലിൽ 110 മീറ്റർ  സംരക്ഷണ ഭിത്തി നിർമ്മാണം",
+            "implementing_agency": "മൈനർ ഇറിഗേഷൻ",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "പത്തിയൂർ ഗ്രാമ പഞ്ചായത്ത്  വാർഡ് -5  പത്തിയൂർകാല A 91(D) APCOS ക്ഷീരസംഘത്തിന് പുതിയ കെട്ടിടം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ- കായംകുളം താലൂക്ക് ആശുപത്രിക്ക് സമീപം ടാക്സി സ്റ്റാന്‍ഡ് നവീകരണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Healthcare",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ വാർഡ് -4 മർക്കസുൽ ഫിദായത്ത് റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.1,
+            "concurrence_lakhs": 18.1
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ വാർഡ് -43 ഐക്യജംഗ്ഷൻ -കൊച്ചുപള്ളി റോഡ്  നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ഭരണിക്കാവ് ഗ്രാമ പഞ്ചായത്ത് വാർഡ് -12 പുതുക്കാട്ട്മുക്ക് -ഇലിപ്പക്കുളം ജുമാമസ്ജിദ് റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 24.3,
+            "concurrence_lakhs": 24.3
+        },
+        {
+            "project_name": "ഭരണിക്കാവ് ഗ്രാമ പഞ്ചായത്ത് വാർഡ് -12 ഗുരുമന്ദിരം -വല്ലോത്തറമുക്ക് റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 17.36,
+            "concurrence_lakhs": 17.36
+        },
+        {
+            "project_name": "കൃഷ്ണപുരം ഗ്രാമ പഞ്ചായത്ത് വാർഡ് -1,20ാം നമ്പർ അംഗനവാടിക്ക് പുതിയ കെട്ടിടം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കണ്ടല്ലൂർ ഗ്രാമ പഞ്ചായത്ത്  വാർഡ് -8 കാവുംചേരിൽ ഹരിപ്പാട്ട് തറ റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.75,
+            "concurrence_lakhs": 16.75
+        },
+        {
+            "project_name": "പത്തിയൂർ ഗ്രാമ പഞ്ചായത്ത് വാർഡ് 7,8 മലയിൽ മുക്ക് വെട്ടിക്കോട്ട് റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 48.5,
+            "concurrence_lakhs": 48.5
+        },
+        {
+            "project_name": "പത്തിയൂർ ഗ്രാമ പഞ്ചായത്ത് -വാർഡ് 1,19 രാമപുരം ഹൈസ്ക്കൂൾ ജംഗ്ഷൻ കുമ്പളത്ത് റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.7,
+            "concurrence_lakhs": 12.7
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ -വാർഡ് -32 പുന്നക്കുളം ബംഗ്ലാവിൽ റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.6,
+            "concurrence_lakhs": 15.6
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ - വാർഡ് -29 മലയൻ കനാൽ റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.96,
+            "concurrence_lakhs": 12.96
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ വാർഡ് -36 മാളിക സൊസൈറ്റി റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.61,
+            "concurrence_lakhs": 10.61
+        },
+        {
+            "project_name": "കായംകുളം  നഗരസഭ -വാർഡ് -2 -കൊറ്റുകുളങ്ങര പരിശ്ശേരിൽ റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "കണ്ടല്ലൂർ ഗ്രാമപഞ്ചായത്ത് വാർഡ് 1 ൽ 90-ാം നമ്പർ അംഗനവാടിക്ക് കെട്ടിടം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കൃഷ്ണപുരം ഗ്രാമപഞ്ചായത്ത് വാർഡ് 3 വള്ളുകപ്പള്ളിയിൽ -പൂവടിയിൽ മുക്ക് വളക്കാപ്പിൽ ക്ഷേത്രം വഴി മുനിസിപ്പൽ ലിമിറ്റ് റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "കൃഷ്ണപുരം ഗ്രാമപഞ്ചായത്ത് വാർഡ് 12 കളയ്ക്കാട്ട് ജംഗ്ഷൻ പമ്പ്ഹൌസ് റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ വാർഡ് 18 ഐക്കര ജംഗ്ഷൻ റോഡ് ഇൻറർലോക്ക് പാകൽ",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.78,
+            "concurrence_lakhs": 10.78
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ വാർഡ് 12 കയ്യാലക്കൽ ജംഗ്ഷൻ -ഗുരുമന്ദിരം റോഡും ഓടയും",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 29.0,
+            "concurrence_lakhs": 29.0
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ വാർഡ് 31 നാടിയൻ പറമ്പിൽ കൊച്ചു കിട്ടൻ റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 11.72,
+            "concurrence_lakhs": 11.72
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ വാർഡ് 12 ഒറ്റത്തെങ്ങിൽ ജംഗ്ഷൻ -തേവാരത്തിൽ റോഡിൽ ഓടനിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "കായംകുളം ഡി.റ്റി.പി.സി അമിനിറ്റി സെന്‍ററിന് സമീപം കായൽത്തീരത്തുള്ള സ്റ്റേജിന് അനുബന്ധമായി ഓഡിറ്റോറിയം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 65.0,
+            "concurrence_lakhs": 65.0
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ വാർഡ് 36 ദേശീയപാത 66 ഡി.റ്റി.പി.സി കായൽത്തീരം റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ഭരണിക്കാവ് ഗവ.യു.പി.എസ് ന് ക്ലാസ്മുറികളുടെ നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 52.0,
+            "concurrence_lakhs": 52.0
+        },
+        {
+            "project_name": "ഭരണിക്കാവ് ഗ്രാമപഞ്ചായത്ത് വാർഡ് 15തുരുത്തിവിള -കരിമുട്ടം തുരുത്തിവിള-അരീക്കര റോഡ് നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ഭരണിക്കാവ് ഗ്രാമപഞ്ചായത്ത് വാർഡ് 15തുരുത്തുവിള-കരിമുട്ടം-തുരുത്തുവിള-അരീക്കര റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 46.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ വാർഡ് 2 ഇടശ്ശേരി ജംഗ്ഷൻ - ചേലിക്കുളങ്ങര റോഡിൽ ഓട നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ വാർഡ് 24 മണ്ണൂകുന്ന് - തൈക്കാവ് പുത്തൻമണ്ണേൽ റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ വാർഡ്  4 ഷഹീദാർ പള്ളി - കൂട്ടേത്തറ റോഡും ഓടയും",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 36.0,
+            "concurrence_lakhs": 36.0
+        },
+        {
+            "project_name": "കരീലകുളങ്ങര പോലീസ് സ്റ്റേഷൻ നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 99.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "സംസ്ഥാന കായിക വകുപ്പിൻ്റെ ഒരു പഞ്ചായത്തിൽ ഒരു കളിക്കളം പദ്ധതി – കായംകുളം നിയോജകമണ്ഡലം പത്തിയൂർ പഞ്ചായത്ത് പത്തിയൂർ ഹൈസ്കൂൾ ഗ്രൗണ്ട് - എം.എൽ.എ എ.ഡി.എസ് വിഹിതം നൽകൽ",
+            "implementing_agency": "Sports Kerala Foundation",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ വാർഡ് 42 ഞാവക്കാട്ട് - പുത്തൻവീട്ടിൽ ജംഗ്ഷൻ റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ വാർഡ് 5,6 ചെമ്പകപ്പള്ളി - നൈനാരേത്ത് റോഡ് ആദ്യ ഘട്ടം",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ വാർഡ് 39,40 ചാലപ്പള്ളി പാലം - ചിറക്കുളങ്ങര റോഡ് രണ്ടാം ഘട്ടം",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 44.0,
+            "concurrence_lakhs": 44.0
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ വാർഡ് 14 നിറയിൽ മുക്ക് - കൊച്ചമ്പലം റോഡിൽ ഓടയും കവറിംഗ് സ്ലാബും നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ വാർഡ് 33 കൃഷ്ണൻ വൈദ്യർ റോഡ് ഇൻ്റർലോക്ക് പാകൽ",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 11.0,
+            "concurrence_lakhs": 11.0
+        },
+        {
+            "project_name": "കണ്ടല്ലൂർ ഗ്രാമപഞ്ചായത്ത് വാർഡ് 14 ഓണംപള്ളിൽ ജംഗ്ഷൻ - വരമ്പത്ത് - പെരുമന പുതുവേൽ റോഡ് ആദ്യഘട്ടം",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ വാർഡ് 1 ചെട്ടിയത്ത് ചേലിക്കുളങ്ങര റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 27.0,
+            "concurrence_lakhs": 27.0
+        },
+        {
+            "project_name": "കണ്ടല്ലൂൂർ ഗ്രാമപഞ്ചായത്ത് വാർഡ് 6,15 ഇടച്ചന്ത - കുരുമ്പോലിൽ റോഡ് ആദ്യഘട്ടം",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "പത്തിയൂർ പഞ്ചായത്ത് വാർഡ് 15 പാലത്തുംപാട്ട് തോടിന് കുറുകെ കൾവർട്ടും അപ്രോച്ച് റോഡും",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 23.69,
+            "concurrence_lakhs": 23.69
+        },
+        {
+            "project_name": "പത്തിയൂർ ഗ്രാമപഞ്ചായത്ത് വാർഡ് 16 ആദിച്ചപുരം പുള്ളിയിൽ റോഡ് രണ്ടാം റീച്ച്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ വാർഡ് 28 തേവലപ്പുറം ഗവ. എൽ.പി.എസ് ന് പുതിയ കെട്ടിടം",
+            "implementing_agency": "പൊതുമരാമത്ത് കെട്ടിടം വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "പള്ളിപ്പുറം ഐ.എച്ച്.ആര്‍.ഡി കോളേജ് ചുറ്റുമതില്‍ നിര്‍മ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ദേവികുളങ്ങര ഗ്രാമപഞ്ചായത്ത് വാർഡ് 13 ൽ 14 നമ്പർ അംഗൻവാടിയ്ക്ക് കെട്ടിടം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കായംകുളം നിയോജകമണ്ഡലം വിവിധ കേന്ദ്രങ്ങളിൽ (26 കേന്ദ്രങ്ങൾ) മിനിമാസ്റ്റ് ലൈറ്റുകൾ",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.68,
+            "concurrence_lakhs": 50.68
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ വാർഡ് 37 A S ഹമീദ് റോഡിൽ കൾവർട്ട് നിർമ്മാണം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കായംകുളം ഗവ. ബോയ്സ് ഹയർ സെക്കണ്ടറി സ്കൂളിൽ ഇൻ്റർലോക്ക് പാകൽ - പർഗോള ലാൻ്റ്സ്കേപിംഗ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 38.5,
+            "concurrence_lakhs": 38.5
+        },
+        {
+            "project_name": "പത്തിയൂർ പഞ്ചായത്ത് വാർഡ് 19 കീപ്പള്ളിൽ - മണി ഭവനം റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ വാർഡ് 14 - സർവ്വീസ് സ്റ്റേഷൻ റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.62,
+            "concurrence_lakhs": 18.62
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ വാർഡ് -39 ചേലപ്പുറം -മംഗലത്ത് റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 41.38,
+            "concurrence_lakhs": 41.38
+        },
+        {
+            "project_name": "കൃഷ്ണപുരം ഗ്രാമപഞ്ചായത്തിൽ വാർഡ് 1 ൽ നമ്പർ 20 അംഗനവാടിയ്ക് പുതിയ കെട്ടിടം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കണ്ടല്ലൂർ ഗ്രാമപഞ്ചായത്തിൽ വാർഡ് 11 മാടമ്പിൽ FWC യ്ക്ക് പുതിയ കെട്ടിടം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "കണ്ടല്ലൂർ ഗ്രാമപഞ്ചായത്തിൽ മിനി വ്യവസായ കേന്ദ്രത്തിന് പുതിയ കെട്ടിടം വാർഡ് 11 (1 ആം ഘട്ടം)",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ദേവികുളങ്ങര ഗ്രാമ പഞ്ചായത്തിൽ വാർഡ് 13 ൽ 14 -ാം നമ്പർ അംഗൻവാടിക്ക് കെട്ടിടം",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ഭരണിക്കാവ് ഗ്രാമ പഞ്ചായത്ത് വാർഡ് -20 സി.എം.എസ്.എച്ച്.എസ് -കപ്പ്യാരുകുളം റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 21.0,
+            "concurrence_lakhs": 21.0
+        },
+        {
+            "project_name": "പത്തിയൂർ ഗ്രാമ പഞ്ചായത്ത് വാർഡ് -14 ൽ സ്പിന്നിംഗ് മിൽ- വാഴക്കൂട്ടം റോഡ് പുനരുദ്ധാരണം(450 മീറ്റർ)",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ചെട്ടികുളങ്ങര ഗ്രാമ പഞ്ചായത്തില്‍ വാർഡ് 10,12 കൊക്കാട്ട് പല്ലാരിമംഗലം റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചെട്ടികുളങ്ങര ഗ്രാമ പഞ്ചായത്തില്‍ വാർഡ് 10,12 കൊക്കാട്ട് പല്ലാരിമംഗലം റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 13.55,
+            "concurrence_lakhs": 13.55
+        },
+        {
+            "project_name": "പത്തിയൂർ ഗ്രാമ പഞ്ചായത്ത് വാർഡ്-16 ചേലിക്കുളങ്ങര ജംഗ്ഷൻ-താമരശ്ശേരി ജംഗ്ഷൻ റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 29.0,
+            "concurrence_lakhs": 29.0
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ വാർഡ് 1 ചേലിക്കുളങ്ങര - പറയന്‍റെതറ റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        },
+        {
+            "project_name": "പത്തിയൂർ ഗ്രാമപഞ്ചായത്ത് വാർഡ് 4 വാളാവിൽ - റെയിൽവേ ക്രോസ് റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.99,
+            "concurrence_lakhs": 10.99
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ വാർഡ് 19 മാമൂട്ടിൽ പടിഞ്ഞാറെ കോളനി റോഡ്",
+            "implementing_agency": "തദ്ദേശസ്വയംഭരണ വിഭാഗം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 22.0
+        },
+        {
+            "project_name": "ഭരണിക്കാവ് ഗ്രാമപഞ്ചായത്ത് വാർഡ് 13 - പോസ്റ്റ് ഓഫീസ് ജംഗ്ഷൻ - അകംപാടികുന്ന് റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കായംകുളം നഗരസഭ വാർഡ് 6 - മാവിലേത്ത് ജംഗ്ഷൻ - ചെമ്പകപ്പള്ളി റോഡ്",
+            "implementing_agency": "പൊതുമരാമത്ത് നിരത്ത് വിഭാഗം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കായംകുളം താലൂക്ക് ആശുപത്രി കെട്ടിടം രണ്ടാം ഘട്ടം",
+            "implementing_agency": "HABITAT TECHNOLOGY GROUP",
+            "category": "Healthcare",
+            "fy": "2021-2022",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "alappuzha_smt_u_prathibha_placeholder"
+}

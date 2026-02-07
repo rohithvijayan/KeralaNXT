@@ -1,0 +1,485 @@
+{
+    "mla_name": "Shri M. Noushad",
+    "constituency": "ERAVIPURAM",
+    "district": "Kollam",
+    "summary": {
+        "total_expenditure_crores": 17.1426,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 10.4593
+            },
+            {
+                "label": "Others",
+                "value_crores": 1.6718
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 1.4023
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 1.0901
+            },
+            {
+                "label": "Education",
+                "value_crores": 0.83
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.7015
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.5
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.4876
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "Construction of Thejas Nagar Road, Vayanakkulam Road and Branch Lines in Kayyalakkal Division of Kollam Corporation",
+            "implementing_agency": "സെക്രട്ടറി കൊല്ലം കോര്‍പ്പറേഷന്‍",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "Construction of  the Building of Eravipuram Public Health Center (PHC) by providing (1) Truss, Sheet and Flooring works at the Open terrace (2) Water Tank, Pump and other necessary Fittings (3) Landscaping with Interlocking Proving Benches and Tree Boxes (4) False Ceiling for the Conference Hop (St Sufficient number of Air-Conditioners (6) Necessary Furniture and Hospital Equipments",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Healthcare",
+            "fy": "2025-2026",
+            "estimate_lakhs": 48.76,
+            "concurrence_lakhs": 48.76
+        },
+        {
+            "project_name": "Constuction of Kandachira mukku-Chooralpoika -Palazhy road in Ward No.IX Of Mayyanad Gp",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 37.0,
+            "concurrence_lakhs": 37.0
+        },
+        {
+            "project_name": "Construction of New Kitchen Block and  Compound Wall and Providing Works to Dining Hall for the Govt. HSS, Mayyandu, Vellamanal, Mayyandu, P.O., in Mayyandu GramaPanchayath",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "Provision of 08 M Mini Mast Flood Light (4X150W LED) at various locations in Kollam Corporation of Eravipuram Constituency at an outlay sanctioned as follows (i) KMJ School Junction in Kolloorvila Division (ii) Kochuthangal Uppooppa Makham Junction in Kolloorvila Division ,(III ) kanjangadu  Junction in vadakkevila  Division (IV ) Vimalahridhaya ICSE School Junction in Manakkadu Division (v) Kunnel Junction in Pattathanam Division (vi) Ayanimoodu near Karshaka Junction in Pallimukku Division (vii) Medayilmukku in Manakkadu Division (viii) Girija Junction in Vadakkevila Division (ix) Old Blue Star Junction in Pallimukku Division (x) Veliyil Temple Junction in Vadakkevila Division",
+            "implementing_agency": "സെക്രട്ടറി കൊല്ലം കോര്‍പ്പറേഷന്‍",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "Provision of 08 M Mini Mast Flood Light (4X100W LED) at various locations in Mayyandu Panchyath of Eravipuram Constituency (1)\r\n\r\nDhavalakkuzhi Sree Ananthapadmanabhan Temple Jn in Ward No.: X (2) Kizhakke Padanilam Anganvadi Jn in Ward No.: XXI (3) Mukkam Beach in Ward No.: XIII (4) Mukkam Deshasevini Anganvadi Jn in Ward No.: XII (5) South-East Corner of the Unaided Campus of the Mayyanadu HSS in Ward No.: XIV (6) Lekshmipuram Thoppu in Ward No.: XIII (7) Cheroor Mukku in Ward No.: XIII. XVIII",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "One Basic Life Support Ambulance (BLS) for the Fire & Rescue Station, Kollam",
+            "implementing_agency": "ജില്ലാ ഫയർ ഓഫീസർ ,ഫയർ & റെസ്ക്യൂ സർവീസസ് ,കൊല്ലം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 24.4,
+            "concurrence_lakhs": 24.4
+        },
+        {
+            "project_name": "Construction of \"Panchayath Kalikkalam\" at Kavadi Vayal, Kakottumoola in Mayyandau Panchayath",
+            "implementing_agency": "Director,Sports Kerala Foundation",
+            "category": "Sports",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "Ceiling and other allied works at Govt. LPS Valathungal in Kollam Corporation",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "Ceiling and other allied works at Govt. LPS Valathungal in Kollam Corporation",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of Kochukavarazhikam Road, Panikkarukulam Road, New Nagar- Chellikkuzhi- Bank Quarters Road and Construction of Drain from Manakkad Nagar- 27 to Thoombattu Thodu in Mankkad Division of Kollam Corporation",
+            "implementing_agency": "സെക്രട്ടറി കൊല്ലം കോര്‍പ്പറേഷന്‍",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 42.0,
+            "concurrence_lakhs": 42.0
+        },
+        {
+            "project_name": "Construction of Toilet Block for girls in Govt. Vocational HSS, Valathungal in Kollam Corporation",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "Construction of a Multipurpose Open-air Auditorium at Govt. SNDP UPS, Pattathanam in Kollam Corporation",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "Const and side protection of Shiya Hospital road in ward no.19 of Mayyanadu GP",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 43.2,
+            "concurrence_lakhs": 43.2
+        },
+        {
+            "project_name": "Const. and side protection of Navarangam -Kallumoodu Jn road in ward no.12 of Mayyanadu GP",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "Construction of Kavitha Printers- NSMGHS Road by paving well built motorable Interlock bricks in Ward No.: 06 of Mayyandu GP",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 32.0,
+            "concurrence_lakhs": 32.0
+        },
+        {
+            "project_name": "Construction of  Kombungal Thazhe Thodi Road in Ward No:23 of Mayyanadu GP",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 47.02,
+            "concurrence_lakhs": 47.02
+        },
+        {
+            "project_name": "Const. of Paranthi Colony Kovichira Road by Tarring and Concreting of appropriate locations with the provision of sufficient number of Rain water pits in Mayyanadu GP",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 22.69,
+            "concurrence_lakhs": 22.69
+        },
+        {
+            "project_name": "Provision of 08 M Mini Mast Flood Light (4X100 W LED) at the various locations in Eravipuram LAC",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 13.28,
+            "concurrence_lakhs": 13.28
+        },
+        {
+            "project_name": "Provision of 08 M Mini Mast Flood Light (4X150W LED) at the various Location in Mayyanad Gramapanchayth  (1 ) Puliyathumukku in Ward No.XVII (2 ) Palethu  mukku in Ward No. XVII (3 ) Aluvala junction in Ward No XI (4 ) Vellappilmukke in Ward No. XIX (5 ) Parappuram Ground in Ward No IX (6 ) Kunnumpurathumukku in Ward No VIII (7 ) Krishibhavan Road in Ward No.vII (8 ) Arattukulam Junction in Ward No. XXII (9 ) Chirayathu Vayal as Ward No XVII .",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.86,
+            "concurrence_lakhs": 17.86
+        },
+        {
+            "project_name": "Const.Of Mukkam Pozhi Road In Eravipuram Coast",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, ഇറിഗേഷന്‍ ഡിപ്പാര്‍ട്ട്മെന്‍റ്, കൊല്ലം",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 75.0,
+            "concurrence_lakhs": 75.0
+        },
+        {
+            "project_name": "Provision of 10 M High Mast Motorized  Flood Light (6X180 W LED) & Provision of 08 M mini Mast Flood Light (4X100 W LED) at the various10 locations in Kollam Corporation",
+            "implementing_agency": "സെക്രട്ടറി കൊല്ലം കോര്‍പ്പറേഷന്‍",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 19.66,
+            "concurrence_lakhs": 19.66
+        },
+        {
+            "project_name": "Provision of 08 M Mini Mast Flood Light (4X150 W LED) at the  07 various locations in  kollam corporation",
+            "implementing_agency": "സെക്രട്ടറി കൊല്ലം കോര്‍പ്പറേഷന്‍",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 13.89,
+            "concurrence_lakhs": 13.89
+        },
+        {
+            "project_name": "Const.of the Fire Station-Peoples Nagar Road in Cantonment Division Of Kollam Corporation",
+            "implementing_agency": "സെക്രട്ടറി കൊല്ലം കോര്‍പ്പറേഷന്‍",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 95.0,
+            "concurrence_lakhs": 95.0
+        },
+        {
+            "project_name": "Const.Of Ottathil - Vayanakkulam Mosque Railway Line Road (Including Scarifying,GSB,Wet-Mix ,Tarring, Side Interlock,Rainwate",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 58.0,
+            "concurrence_lakhs": 58.0
+        },
+        {
+            "project_name": "Const.of Building(Balance work) For Kollam District Fire Office ,Dept.of Fire and Resque service,kadapakkada",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.23,
+            "concurrence_lakhs": 17.23
+        },
+        {
+            "project_name": "1) Const. of Fathima Junction & Irunila Junction Kodi Road in Ward no X11 Of Mayyanadu GP-Rs-35 Lakhs ,2) Const. of Koothara Colony Road In Mayyanadu G-PRs-12 Lakhs ,3) Raising ,Leveling nd Paving Of Well built Motorable Interlocks Bricks Of Pullankuzhi Temple Road In Mayyanadu GP-Rs-15 Lakhs",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 62.0,
+            "concurrence_lakhs": 62.0
+        },
+        {
+            "project_name": "Interlocking Of Kodiyattu Jn Thundil Irakkam Road in Mayyanadu Gramapanchayath",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "Construction  Of  Compound Wall ,Septic Tank and Other allied Works In Govt.LPS Mundakkal  East ,Kollam",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 14.2,
+            "concurrence_lakhs": 14.2
+        },
+        {
+            "project_name": "Interlocking Of Pallimukku Junction - Seenas Junction Road In Pallimukku Division Of Kollam Corporation",
+            "implementing_agency": "സെക്രട്ടറി കൊല്ലം കോര്‍പ്പറേഷന്‍",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "Parayathumukku - Mannanikulam Road and Construction Of Drain in Mayyanadu Gramapanchayath",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "Contruction Of Building For Koottikada Ksheerolpadaka Sahakarana Sangham,Koottikada,Kollam",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Const.Of Akkarathekke Mukku - Kochukovil -Subrahmanyan Kovil - Velam Vayal  Road in Kollam Corporation",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് ,റോഡ്സ് ഡിവിഷന്‍,കൊല്ലം",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 70.0,
+            "concurrence_lakhs": 70.0
+        },
+        {
+            "project_name": "Construction Of a  Modern Boxing Hall adjacent to the LBS Stadium.kollam for the District Sports Council,Kollam",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജീനിയര്‍, പൊതുമരാമത്ത് കെട്ടിട വിഭാഗം, കൊല്ലം ഡിവിഷന്‍",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 88.0,
+            "concurrence_lakhs": 88.0
+        },
+        {
+            "project_name": "ഗവണ്മെന്റ് എച്ച്.എസ് എസ് വെള്ളമണൽ സ്കൂളിന് ബസ്  വാങ്ങൽ",
+            "implementing_agency": "വിദ്യാഭ്യാസ ഉപഡയറക്ടര്‍, കൊല്ലം",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 21.7,
+            "concurrence_lakhs": 21.7
+        },
+        {
+            "project_name": "മയ്യനാട് ഗ്രാമപഞ്ചായത്തിലെ അരിവാൾ മുക്ക് -ആറാട്ടുകുളം റോഡ്",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 33.0,
+            "concurrence_lakhs": 33.0
+        },
+        {
+            "project_name": "മയ്യനാട് ഗ്രാമപഞ്ചായത്തിലെ 04 സ്ഥലങ്ങളില്‍ 08 M മിനി മാസ്സ്റ്റ് ഫ്ലഡ് ലൈറ്റ് (4*100 WLED) സ്ഥാപിക്കല്‍",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മയ്യനാട് ഗ്രാമപഞ്ചായത്തിലെ\r\n 1) മുക്കുളം -കുളങ്ങര റോഡ്‌ -30.00\r\n 2 ) പീടിക മുക്ക് -കല്ലും പുറം റോഡ്‌ 10.60\r\n3  ) കവിത ജങ്ക്ഷന്‍-ആറാട്ടു കുളം റോഡ്‌ -20.00",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 60.6,
+            "concurrence_lakhs": 60.6
+        },
+        {
+            "project_name": "കൊല്ലം കോര്‍പറേഷനിലെ വിവിധ ഡിവിഷനുകളിലെ 07  സ്ഥലങ്ങളില്‍ 08 M മിനി മാസ്സ്റ്റ് ഫ്ലഡ് ലൈറ്റ് (4*100 W LED) സ്ഥാപിക്കല്‍",
+            "implementing_agency": "സെക്രട്ടറി കൊല്ലം കോര്‍പ്പറേഷന്‍",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.11,
+            "concurrence_lakhs": 11.11
+        },
+        {
+            "project_name": "കൊല്ലം കോര്‍പറേഷനിലെ 10  സ്ഥലങ്ങളില്‍  08 M മിനി മാസ്സ്റ്റ് ഫ്ലഡ് ലൈറ്റ് (4*100 W LED) സ്ഥാപിക്കല്‍",
+            "implementing_agency": "സെക്രട്ടറി കൊല്ലം കോര്‍പ്പറേഷന്‍",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.96,
+            "concurrence_lakhs": 15.96
+        },
+        {
+            "project_name": "1 )കാക്കോട്ടുമൂല   ഗവണ്മെന്റ് മോഡൽ യു.പി സ്കൂളിന് ബസ് വാങ്ങൽ (18 സീറ്റ് ) \r\n2 )പട്ടത്താനം എസ് എൻ ഡി പി  ഗവണ്മെന്റ് യു.പി സ്കൂളിന് ബസ് വാങ്ങൽ (18 സീറ്റ് )",
+            "implementing_agency": "വിദ്യാഭ്യാസ ഉപഡയറക്ടര്‍, കൊല്ലം",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 41.3,
+            "concurrence_lakhs": 41.3
+        },
+        {
+            "project_name": "1)കൊല്ലം കോർപറേഷൻ -വാളത്തുംഗൽ ഗവ.VHSS ഫോർ ഗേൾസിലെ ഫുട്ബോൾ പ്ലേ ഗ്രൗണ്ടിൽ എർത്ത് ഫില്ലിങ്‌  പ്രവൃത്തി \r\n2)കൊല്ലം കോർപറേഷൻ -കയ്യാലക്കൽ ഡിവിഷനിൽ ചകിരിക്കട -കമ്പികെട്ട് റോഡിൽ ഇൻറ്റർലോക്കിങ് പ്രവൃത്തി",
+            "implementing_agency": "സെക്രട്ടറി കൊല്ലം കോര്‍പ്പറേഷന്‍",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "കൊല്ലം കോര്‍പറേഷനിലെ  07 സ്ഥലങ്ങളില്‍  08 M മിനി മാസ്സ്റ്റ് ഫ്ലഡ് ലൈറ്റ് (4*100 W LED) സ്ഥാപിക്കല്‍",
+            "implementing_agency": "സെക്രട്ടറി കൊല്ലം കോര്‍പ്പറേഷന്‍",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.11,
+            "concurrence_lakhs": 11.11
+        },
+        {
+            "project_name": "കൊല്ലം സിറ്റി എ ആർ ക്യാമ്പിൽ 62 -.5 KV ഡീസൽ ജനറേറ്റർ സ്ഥാപിക്കൽ",
+            "implementing_agency": "Commissionar Of Police,Kollam City",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.78,
+            "concurrence_lakhs": 11.78
+        },
+        {
+            "project_name": "1)കൊല്ലം കോർപറേഷൻ  മണക്കാട് ഡിവിഷനിലെ കുപ്പികമ്പനി പയറ്റുവിള ഓട നിർമ്മാണം -50 ലക്ഷം \r\n2)കൊല്ലം കോർപറേഷൻ (ഡിവിഷൻ നമ്പർ 45) കിൻഫ്രാ പാർക്ക് കൊണ്ടത്ത് ബ്രിഡ്ജ് റോഡ് ഓട നിർമ്മാണവും കവറിങ് സ്ളാബ് നിർമ്മാണവും  -30 ലക്ഷം",
+            "implementing_agency": "സെക്രട്ടറി കൊല്ലം കോര്‍പ്പറേഷന്‍",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 80.0,
+            "concurrence_lakhs": 80.0
+        },
+        {
+            "project_name": "കൊല്ലം കോർപറേഷനിലെ കൻറ്റോൺമെൻറ് പോലീസ് കമ്മീഷണർ ഓഫീസിനു സമീപമുള്ള  എസ് എൻ ട്രസ്റ്റ് HSS സ്‌കൂളിൽ സ്മാർട്ട് കിച്ചണും ഡൈനിങ്ങ് ഹാൾ നിർമ്മാണവും",
+            "implementing_agency": "സെക്രട്ടറി കൊല്ലം കോര്‍പ്പറേഷന്‍",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മയ്യനാട് ഗ്രാമപഞ്ചായത്തിലെ കനാൽ റോഡ് (കെ ഐ പി ) എൽ ബി -കൂട്ടിക്കട ഡിസ്ട്രിബ്യൂട്ടറിയുടെ  ചെയിനേജ് 1580 മീറ്ററിനും 1880 മീറ്ററിനും ഇടയിൽ വരുന്ന കൊന്നേമുക്ക് -കണ്ടോലിൽ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, കെ.ഐ.പി(എല്‍.ബി.ഡിവിഷന്‍), കൊല്ലം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "മയ്യനാട് ഗ്രാമപഞ്ചായത്തിലെ  (വാർഡ് 8) മറ്റത്തു മുക്ക് വെറ്ററനറി ഹോസ്പിറ്റൽ റോഡ്",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കൊല്ലം കോർപറേഷനിലെ പട്ടരുമുക്ക് മുതൽ കുടിയിരുത്തു വയൽ എലാ റോഡ് വരെ ഇൻറ്റർലോക്ക് ടൈൽസ് പാകൽ",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "കരിക്കുഴി ശാസ്താം  കോവിൽ റോഡ് പുനരുദ്ധാരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 30.68,
+            "concurrence_lakhs": 30.68
+        },
+        {
+            "project_name": "മയ്യനാട് ഗ്രാമപഞ്ചായത്തിലെ കരിക്കുഴി ശാസ്താംകോവിൽ റോഡ് പുനരുദ്ധാരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 30.68,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മയ്യനാട് ഗ്രാമപഞ്ചായത്തിലെ പട്ടരുമുക്ക് പുളിമൂട്ടിൽ പുതുമന നടുവിലക്കര റോഡ് പുനരുദ്ധാരണം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.2,
+            "concurrence_lakhs": 20.2
+        },
+        {
+            "project_name": "മയ്യനാട് ഗ്രാമപഞ്ചായത്തിലെ കുടിയിറത്തു എലാത്തോട് സൈഡ് വാൾ നിർമ്മാണവും കവറിംഗ് സ്ലാബും -രണ്ടാം ഘട്ടം",
+            "implementing_agency": "എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, എല്‍.എസ്.ജി.ഡി, ജില്ലാ പഞ്ചായത്ത്, കൊല്ലം",
+            "category": "Irrigation",
+            "fy": "2021-2022",
+            "estimate_lakhs": 19.7,
+            "concurrence_lakhs": 19.7
+        },
+        {
+            "project_name": "ഇരവിപുരം നിയോജകമണ്ഡലത്തിലെ മണിച്ചിത്തോട് ജംഗ്ഷനിലും(പട്ടത്താനം ഡിവിഷൻ ) ഗാന്ധി സെൻറ്റെനറി മെമ്മോറിയൽ ലൈബ്രറി ജംഗ്ഷൻ,പീടികമുക്കിലും (മയ്യനാട് ഗ്രാമപഞ്ചായത് ) 10 M  ഹൈമാസ്റ്റ് മോട്ടോറൈസ്ഡ് ഫ്ലഡ്‌ലൈറ്റും മന്നാനിക്കുളം ടെമ്പിൾ ജംഗ്ഷനിൽ ( (മയ്യനാട് ഗ്രാമപഞ്ചായത്)  08 M ഹൈമാസ്റ്റ് ഫ്ലഡ്ലൈറ്റും സ്ഥാപിക്കൽ",
+            "implementing_agency": "അസി.എക്സിക്യൂട്ടീവ് എന്‍ജിനീയര്‍, PWD ഇലക്ട്രിക്കല്‍ ഡിവിഷന്‍, കൊല്ലം",
+            "category": "Irrigation",
+            "fy": "2021-2022",
+            "estimate_lakhs": 11.25,
+            "concurrence_lakhs": 11.25
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "shri_m_noushad_placeholder"
+}

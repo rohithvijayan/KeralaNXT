@@ -21,6 +21,12 @@ const UnionBudgetAtGlance = lazy(() => import('./pages/UnionBudgetAtGlance'))
 const UnionBudgetHighlights = lazy(() => import('./pages/UnionBudgetHighlights'))
 const UnionSectorwiseAllocation = lazy(() => import('./pages/UnionSectorwiseAllocation'))
 const UnionBudgetComparison = lazy(() => import('./pages/UnionBudgetComparison'))
+const MLAFundLandingPage = lazy(() => import('./pages/MLAFundLandingPage'))
+const MLADashboardPage = lazy(() => import('./pages/MLADashboardPage'))
+const MLAAnalyticsPage = lazy(() => import('./pages/MLAAnalyticsPage'))
+const MLAComparisonPage = lazy(() => import('./pages/MLAComparisonPage'))
+const MLADistrictComparisonPage = lazy(() => import('./pages/MLADistrictComparisonPage'))
+const MLAProjectsPage = lazy(() => import('./pages/MLAProjectsPage'))
 import { Analytics } from "@vercel/analytics/react"
 import BottomNav from './components/BottomNav'
 
@@ -47,6 +53,14 @@ function App() {
                     <Route path="/union-budget-highlights" element={<UnionBudgetHighlights />} />
                     <Route path="/union-sector-allocation" element={<UnionSectorwiseAllocation />} />
                     <Route path="/union-budget-comparison" element={<UnionBudgetComparison />} />
+                    <Route path="/mla-fund" element={<MLAFundLandingPage />} />
+                    <Route path="/mla-fund-dashboard" element={<MLADashboardPage />} />
+                    <Route path="/mla-fund-analytics" element={<MLAAnalyticsPage />} />
+                    <Route path="/mla-fund-analytics/:mlaId" element={<MLAAnalyticsPage />} />
+                    <Route path="/mla-comparison" element={<MLAComparisonPage />} />
+                    <Route path="/district-comparison" element={<MLADistrictComparisonPage />} />
+                    <Route path="/mla-projects" element={<MLAProjectsPage />} />
+                    <Route path="/mla-projects/:mlaId" element={<MLAProjectsPage />} />
                 </Routes>
             </Suspense>
             <BottomNav />

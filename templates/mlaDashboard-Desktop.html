@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>MLA Fund Insights - Kerala Dashboard</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#13ecb2",
+                        "background-light": "#f6f8f7",
+                        "background-dark": "#10221d",
+                        "emerald-dark": "#064e3b",
+                    },
+                    fontFamily: {
+                        "display": ["Plus Jakarta Sans"]
+                    },
+                    borderRadius: { "DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px" },
+                },
+            },
+        }
+    </script>
+    <style>
+        body {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+        }
+
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+        }
+    </style>
+</head>
+
+<body class="bg-background-light dark:bg-background-dark text-slate-900 dark:text-slate-100 antialiased">
+    <div class="flex min-h-screen">
+        <!-- Sidebar -->
+        <aside
+            class="w-[260px] bg-white dark:bg-slate-900 border-r border-slate-200 dark:border-slate-800 flex flex-col fixed h-screen z-10">
+            <div class="p-6 border-b border-slate-100 dark:border-slate-800">
+                <div class="flex items-center gap-3">
+                    <div class="bg-primary size-10 rounded-lg flex items-center justify-center text-emerald-dark">
+                        <span class="material-symbols-outlined font-bold">account_balance</span>
+                    </div>
+                    <div>
+                        <h1 class="text-lg font-bold leading-tight">MLA Insights</h1>
+                        <p class="text-xs text-slate-500 dark:text-slate-400">Kerala State Dashboard</p>
+                    </div>
+                </div>
+            </div>
+            <nav class="flex-1 p-4 flex flex-col gap-6 overflow-y-auto">
+                <div>
+                    <p class="text-[10px] font-bold uppercase tracking-wider text-slate-400 mb-3 px-3">Main Navigation
+                    </p>
+                    <div class="space-y-1">
+                        <a class="flex items-center gap-3 px-3 py-2.5 rounded-lg bg-primary/10 text-emerald-dark dark:text-primary font-semibold"
+                            href="#">
+                            <span class="material-symbols-outlined text-[20px]">dashboard</span>
+                            <span class="text-sm">Dashboard</span>
+                        </a>
+                        <a class="flex items-center gap-3 px-3 py-2.5 rounded-lg text-slate-600 dark:text-slate-400 hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors"
+                            href="#">
+                            <span class="material-symbols-outlined text-[20px]">equalizer</span>
+                            <span class="text-sm">Comparative Analysis</span>
+                        </a>
+                    </div>
+                </div>
+                <div>
+                    <p class="text-[10px] font-bold uppercase tracking-wider text-slate-400 mb-3 px-3">Filter Districts
+                    </p>
+                    <div class="space-y-1">
+                        <label class="flex items-center gap-3 px-3 py-1.5 cursor-pointer">
+                            <input checked="" class="rounded border-slate-300 text-primary focus:ring-primary"
+                                type="checkbox" />
+                            <span class="text-sm text-slate-600 dark:text-slate-400">All Districts</span>
+                        </label>
+                        <label class="flex items-center gap-3 px-3 py-1.5 cursor-pointer">
+                            <input class="rounded border-slate-300 text-primary focus:ring-primary" type="checkbox" />
+                            <span class="text-sm text-slate-600 dark:text-slate-400">Thiruvananthapuram</span>
+                        </label>
+                        <label class="flex items-center gap-3 px-3 py-1.5 cursor-pointer">
+                            <input class="rounded border-slate-300 text-primary focus:ring-primary" type="checkbox" />
+                            <span class="text-sm text-slate-600 dark:text-slate-400">Ernakulam</span>
+                        </label>
+                        <label class="flex items-center gap-3 px-3 py-1.5 cursor-pointer">
+                            <input class="rounded border-slate-300 text-primary focus:ring-primary" type="checkbox" />
+                            <span class="text-sm text-slate-600 dark:text-slate-400">Kannur</span>
+                        </label>
+                    </div>
+                </div>
+                <div>
+                    <p class="text-[10px] font-bold uppercase tracking-wider text-slate-400 mb-3 px-3">Performance Tiers
+                    </p>
+                    <div class="space-y-1">
+                        <a class="flex items-center justify-between px-3 py-2 rounded-lg hover:bg-slate-50 dark:hover:bg-slate-800"
+                            href="#">
+                            <span class="text-sm text-slate-600 dark:text-slate-400">Top Performers</span>
+                            <span
+                                class="bg-primary/20 text-emerald-dark text-[10px] font-bold px-2 py-0.5 rounded-full">A+</span>
+                        </a>
+                        <a class="flex items-center justify-between px-3 py-2 rounded-lg hover:bg-slate-50 dark:hover:bg-slate-800"
+                            href="#">
+                            <span class="text-sm text-slate-600 dark:text-slate-400">High Impact</span>
+                            <span
+                                class="bg-blue-100 text-blue-700 text-[10px] font-bold px-2 py-0.5 rounded-full">A</span>
+                        </a>
+                        <a class="flex items-center justify-between px-3 py-2 rounded-lg hover:bg-slate-50 dark:hover:bg-slate-800"
+                            href="#">
+                            <span class="text-sm text-slate-600 dark:text-slate-400">Under Review</span>
+                            <span
+                                class="bg-orange-100 text-orange-700 text-[10px] font-bold px-2 py-0.5 rounded-full">C</span>
+                        </a>
+                    </div>
+                </div>
+            </nav>
+            <div class="p-4 border-t border-slate-100 dark:border-slate-800">
+                <div class="bg-slate-50 dark:bg-slate-800 rounded-xl p-3 flex items-center gap-3">
+                    <div class="size-10 rounded-full bg-cover bg-center" data-alt="User avatar profile picture"
+                        style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuC-VZXmKmpJswNNxa7Owu7nrw1RaOdYFG22Qd3E_QltLjov1UcFV8zIO0ibqNRqx7iu-fH_LFEcqnKrbwtOz_pBf0UQjrx2wEZtLrnDAQ5ftPBHX76M3mDUKbABqR9HOw4ortJqtiwhOS5N93dpCoZkbzZbg2FPs7l7bcp_Q63oQjWAEA-Z0kmM-r4UoCYFkILikZjveLGIx87O70GNJmVYBFu0k5JdhCKDq5ufdPtLQDcehrQey6-c9uVBvaMyoBHVoyPEiuBIVa8')">
+                    </div>
+                    <div class="overflow-hidden">
+                        <p class="text-sm font-bold truncate">Admin User</p>
+                        <p class="text-xs text-slate-500 truncate">Governance Dept.</p>
+                    </div>
+                    <button class="ml-auto text-slate-400 hover:text-slate-600">
+                        <span class="material-symbols-outlined text-lg">settings</span>
+                    </button>
+                </div>
+            </div>
+        </aside>
+        <!-- Main Content -->
+        <main class="flex-1 ml-[260px] p-8">
+            <!-- Top Header & Stats -->
+            <div class="flex flex-col gap-8 mb-8">
+                <header class="flex justify-between items-center">
+                    <div>
+                        <h2 class="text-3xl font-bold tracking-tight">MLA Dashboard</h2>
+                        <p class="text-slate-500">Monitoring constituency-level fund utilization and project metrics.
+                        </p>
+                    </div>
+                    <div class="flex gap-3">
+                        <button
+                            class="bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 px-4 py-2 rounded-lg flex items-center gap-2 text-sm font-medium">
+                            <span class="material-symbols-outlined text-lg">calendar_today</span>
+                            FY 2023-24
+                        </button>
+                        <button
+                            class="bg-primary text-emerald-dark px-4 py-2 rounded-lg flex items-center gap-2 text-sm font-bold shadow-lg shadow-primary/20">
+                            <span class="material-symbols-outlined text-lg font-bold">download</span>
+                            Export Data
+                        </button>
+                    </div>
+                </header>
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+                    <div
+                        class="bg-white dark:bg-slate-900 p-6 rounded-xl border border-slate-200 dark:border-slate-800 shadow-sm">
+                        <div class="flex items-center justify-between mb-4">
+                            <p class="text-sm font-medium text-slate-500">Total Funds Disbursed</p>
+                            <span class="material-symbols-outlined text-primary">payments</span>
+                        </div>
+                        <p class="text-3xl font-bold">₹1,240.5 Cr</p>
+                        <div
+                            class="flex items-center gap-1 mt-2 text-emerald-600 dark:text-primary text-sm font-medium">
+                            <span class="material-symbols-outlined text-sm">trending_up</span>
+                            <span>12% from last quarter</span>
+                        </div>
+                    </div>
+                    <div
+                        class="bg-white dark:bg-slate-900 p-6 rounded-xl border border-slate-200 dark:border-slate-800 shadow-sm">
+                        <div class="flex items-center justify-between mb-4">
+                            <p class="text-sm font-medium text-slate-500">Project Completion Rate</p>
+                            <span class="material-symbols-outlined text-blue-500">task_alt</span>
+                        </div>
+                        <p class="text-3xl font-bold">84.5%</p>
+                        <div
+                            class="flex items-center gap-1 mt-2 text-emerald-600 dark:text-primary text-sm font-medium">
+                            <span class="material-symbols-outlined text-sm">trending_up</span>
+                            <span>5.2% improvement</span>
+                        </div>
+                    </div>
+                    <div
+                        class="bg-white dark:bg-slate-900 p-6 rounded-xl border border-slate-200 dark:border-slate-800 shadow-sm">
+                        <div class="flex items-center justify-between mb-4">
+                            <p class="text-sm font-medium text-slate-500">Total Active Projects</p>
+                            <span class="material-symbols-outlined text-orange-500">engineering</span>
+                        </div>
+                        <p class="text-3xl font-bold">3,142</p>
+                        <p class="mt-2 text-slate-400 text-sm">Across all 140 constituencies</p>
+                    </div>
+                    <div
+                        class="bg-white dark:bg-slate-900 p-6 rounded-xl border border-slate-200 dark:border-slate-800 shadow-sm">
+                        <div class="flex items-center justify-between mb-4">
+                            <p class="text-sm font-medium text-slate-500">Under Review</p>
+                            <span class="material-symbols-outlined text-slate-400">query_stats</span>
+                        </div>
+                        <p class="text-3xl font-bold">128</p>
+                        <p class="mt-2 text-slate-400 text-sm">Requiring immediate attention</p>
+                    </div>
+                </div>
+            </div>
+            <!-- Bento Grid of MLA Cards -->
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- MLA Card 1 -->
+                <div
+                    class="bg-white dark:bg-slate-900 rounded-xl border border-primary/20 overflow-hidden shadow-sm hover:shadow-md transition-shadow group">
+                    <div class="p-6 relative flex flex-col items-center">
+                        <div class="absolute top-4 right-4">
+                            <span
+                                class="bg-primary/20 text-emerald-dark text-[10px] font-bold px-2 py-1 rounded-full uppercase">Rank
+                                #1</span>
+                        </div>
+                        <div class="relative mb-4">
+                            <div class="size-24 rounded-full border-4 border-primary/30 p-1">
+                                <div class="size-full rounded-full bg-cover bg-center"
+                                    data-alt="Portrait of Pinarayi Vijayan"
+                                    style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuCNYMSbENlBWUsTl-LHyfXdcQdg93_8Xi-yoLvRmo24QwrPH-JQQ90vOUyzSklX5vL4RiRfWKNz2heiu3cOwG9U2EN_L1I0c5ZSJBr1MP8JHLqCEsHktjwLCfB21fA0KJotUcf056WnAGXQdeXWkIwBMea-uafjB17eq8Wkr6JPAmvzByxlcCBHWYLRMg6uJ152ziYdINCwPRmup42ynwek2Djx0IzJaVsykcCmV1qnXBuz6JRFeen3DZhJWNjBKa1q4U83rP4GlG0')">
+                                </div>
+                            </div>
+                            <div
+                                class="absolute bottom-0 right-0 size-6 bg-emerald-600 rounded-full flex items-center justify-center border-2 border-white text-white">
+                                <span class="material-symbols-outlined text-[14px]">verified</span>
+                            </div>
+                        </div>
+                        <div class="text-center mb-6">
+                            <h3 class="text-xl font-bold text-slate-900 dark:text-white">Pinarayi Vijayan</h3>
+                            <p class="text-sm text-slate-500 font-medium">Dharmadom (Kannur)</p>
+                            <p class="text-xs text-slate-400 mt-1">CPIM • Chief Minister</p>
+                        </div>
+                    </div>
+                    <div class="bg-emerald-dark text-white p-5">
+                        <div class="flex justify-between items-end mb-4">
+                            <div>
+                                <p class="text-[10px] uppercase font-bold text-primary/80 tracking-widest">Expenditure
+                                </p>
+                                <p class="text-2xl font-bold">₹45.2 Cr</p>
+                            </div>
+                            <div class="text-right">
+                                <p class="text-[10px] uppercase font-bold text-primary/80 tracking-widest">Utilization
+                                </p>
+                                <p class="text-lg font-bold">98%</p>
+                            </div>
+                        </div>
+                        <div class="w-full bg-white/10 h-2 rounded-full mb-6 overflow-hidden">
+                            <div class="bg-primary h-full rounded-full" style="width: 98%"></div>
+                        </div>
+                        <button
+                            class="w-full py-2.5 bg-primary text-emerald-dark text-sm font-bold rounded-lg hover:brightness-105 transition-all">
+                            View Detailed Report
+                        </button>
+                    </div>
+                </div>
+                <!-- MLA Card 2 -->
+                <div
+                    class="bg-white dark:bg-slate-900 rounded-xl border border-primary/20 overflow-hidden shadow-sm hover:shadow-md transition-shadow group">
+                    <div class="p-6 relative flex flex-col items-center">
+                        <div class="absolute top-4 right-4">
+                            <span
+                                class="bg-primary/20 text-emerald-dark text-[10px] font-bold px-2 py-1 rounded-full uppercase">Rank
+                                #4</span>
+                        </div>
+                        <div class="relative mb-4">
+                            <div
+                                class="size-24 rounded-full border-4 border-slate-100 p-1 group-hover:border-primary/30 transition-colors">
+                                <div class="size-full rounded-full bg-cover bg-center" data-alt="Portrait of K. Rajan"
+                                    style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuAUFROfkw6ogJ9ht1cRtI7lFE83mGxASwAFVOoECxBSSZwDF24Uh8vdPDq3Pic4JZ300u_En1oL1brVBzD8_nyZCrojRMMMYzCMG7Tpng4kv1yS0gnCr_D8qoq3mejbrzN6qpKSeoxLBaiOXRI5wf4qaVcgKM557hxJvFQf0NWQA6ZRZTUa7gNKmNX9-PUBBXUzJ6Cs97e466mm9VriIMiG1OuqYom00ZEQUaYjx52homOcUgmmpZAgPPnv2-9xL6BoR7r3ZNObn0s')">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="text-center mb-6">
+                            <h3 class="text-xl font-bold text-slate-900 dark:text-white">K. Rajan</h3>
+                            <p class="text-sm text-slate-500 font-medium">Ollur (Thrissur)</p>
+                            <p class="text-xs text-slate-400 mt-1">CPI • Revenue Minister</p>
+                        </div>
+                    </div>
+                    <div class="bg-emerald-dark text-white p-5">
+                        <div class="flex justify-between items-end mb-4">
+                            <div>
+                                <p class="text-[10px] uppercase font-bold text-primary/80 tracking-widest">Expenditure
+                                </p>
+                                <p class="text-2xl font-bold">₹41.8 Cr</p>
+                            </div>
+                            <div class="text-right">
+                                <p class="text-[10px] uppercase font-bold text-primary/80 tracking-widest">Utilization
+                                </p>
+                                <p class="text-lg font-bold">92%</p>
+                            </div>
+                        </div>
+                        <div class="w-full bg-white/10 h-2 rounded-full mb-6 overflow-hidden">
+                            <div class="bg-primary h-full rounded-full" style="width: 92%"></div>
+                        </div>
+                        <button
+                            class="w-full py-2.5 bg-primary text-emerald-dark text-sm font-bold rounded-lg hover:brightness-105 transition-all">
+                            View Detailed Report
+                        </button>
+                    </div>
+                </div>
+                <!-- MLA Card 3 -->
+                <div
+                    class="bg-white dark:bg-slate-900 rounded-xl border border-primary/20 overflow-hidden shadow-sm hover:shadow-md transition-shadow group">
+                    <div class="p-6 relative flex flex-col items-center">
+                        <div class="absolute top-4 right-4">
+                            <span
+                                class="bg-primary/20 text-emerald-dark text-[10px] font-bold px-2 py-1 rounded-full uppercase">Rank
+                                #7</span>
+                        </div>
+                        <div class="relative mb-4">
+                            <div
+                                class="size-24 rounded-full border-4 border-slate-100 p-1 group-hover:border-primary/30 transition-colors">
+                                <div class="size-full rounded-full bg-cover bg-center"
+                                    data-alt="Portrait of Roshy Augustine"
+                                    style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuBFFsR7iFl4KCTvthDEBrqyFdjMM-Oy3TPM-FetQwVHfd1Zqz5yXD9WLUZTeW21tP5dW4DfNFVAPH2arfKqTdMUcLtVTDat-VMynRTUHsbKCVN56mplqg9FDAOxi8Fm7deiKcF6Fr7f7l3FpyXB7n0BhhcRBfYwhW5_TVIDUSegvOx4P7Ly9dOG6aG3slGyDUOdS7Re33hKheBh_A1tZ83qAHobyYGqaWODw9v1AwLENATqZh4Ixr008lwVO4pmjQDyjXQhES0Fsg0')">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="text-center mb-6">
+                            <h3 class="text-xl font-bold text-slate-900 dark:text-white">Roshy Augustine</h3>
+                            <p class="text-sm text-slate-500 font-medium">Idukki</p>
+                            <p class="text-xs text-slate-400 mt-1">KC(M) • Water Resources</p>
+                        </div>
+                    </div>
+                    <div class="bg-emerald-dark text-white p-5">
+                        <div class="flex justify-between items-end mb-4">
+                            <div>
+                                <p class="text-[10px] uppercase font-bold text-primary/80 tracking-widest">Expenditure
+                                </p>
+                                <p class="text-2xl font-bold">₹39.5 Cr</p>
+                            </div>
+                            <div class="text-right">
+                                <p class="text-[10px] uppercase font-bold text-primary/80 tracking-widest">Utilization
+                                </p>
+                                <p class="text-lg font-bold">87%</p>
+                            </div>
+                        </div>
+                        <div class="w-full bg-white/10 h-2 rounded-full mb-6 overflow-hidden">
+                            <div class="bg-primary h-full rounded-full" style="width: 87%"></div>
+                        </div>
+                        <button
+                            class="w-full py-2.5 bg-primary text-emerald-dark text-sm font-bold rounded-lg hover:brightness-105 transition-all">
+                            View Detailed Report
+                        </button>
+                    </div>
+                </div>
+                <!-- MLA Card 4 -->
+                <div
+                    class="bg-white dark:bg-slate-900 rounded-xl border border-primary/20 overflow-hidden shadow-sm hover:shadow-md transition-shadow group">
+                    <div class="p-6 relative flex flex-col items-center">
+                        <div class="absolute top-4 right-4">
+                            <span
+                                class="bg-primary/20 text-emerald-dark text-[10px] font-bold px-2 py-1 rounded-full uppercase">Rank
+                                #12</span>
+                        </div>
+                        <div class="relative mb-4">
+                            <div
+                                class="size-24 rounded-full border-4 border-slate-100 p-1 group-hover:border-primary/30 transition-colors">
+                                <div class="size-full rounded-full bg-cover bg-center"
+                                    data-alt="Portrait of K. Krishnankutty"
+                                    style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuCb7n4txWuxYmXx4PzVdisdIdvLlPPAwSszT83VhdqpXLs7fjDGRDbHfaLEp6FsBha01g2bfqKzGxs7qcYkkZ3JmwRWSyu-YyW3wpE6Fy2N9RUOV1-cosx4gxehcANJg-XJFBxzOCbjigSAEZowTDGmb8kl29VQMo-n5dGE2GKbjQywREAmFriuksvlUNHyM3yuIh6-fyiVEZ_6haXbPzmz4pt_uu9sfDuIId5nxTiWWVKR68ELBkeBFL2HPkCOW6AZvNbFrmUjRBQ')">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="text-center mb-6">
+                            <h3 class="text-xl font-bold text-slate-900 dark:text-white">K. Krishnankutty</h3>
+                            <p class="text-sm text-slate-500 font-medium">Chittur (Palakkad)</p>
+                            <p class="text-xs text-slate-400 mt-1">JD(S) • Electricity Minister</p>
+                        </div>
+                    </div>
+                    <div class="bg-emerald-dark text-white p-5">
+                        <div class="flex justify-between items-end mb-4">
+                            <div>
+                                <p class="text-[10px] uppercase font-bold text-primary/80 tracking-widest">Expenditure
+                                </p>
+                                <p class="text-2xl font-bold">₹38.2 Cr</p>
+                            </div>
+                            <div class="text-right">
+                                <p class="text-[10px] uppercase font-bold text-primary/80 tracking-widest">Utilization
+                                </p>
+                                <p class="text-lg font-bold">85%</p>
+                            </div>
+                        </div>
+                        <div class="w-full bg-white/10 h-2 rounded-full mb-6 overflow-hidden">
+                            <div class="bg-primary h-full rounded-full" style="width: 85%"></div>
+                        </div>
+                        <button
+                            class="w-full py-2.5 bg-primary text-emerald-dark text-sm font-bold rounded-lg hover:brightness-105 transition-all">
+                            View Detailed Report
+                        </button>
+                    </div>
+                </div>
+                <!-- MLA Card 5 -->
+                <div
+                    class="bg-white dark:bg-slate-900 rounded-xl border border-primary/20 overflow-hidden shadow-sm hover:shadow-md transition-shadow group">
+                    <div class="p-6 relative flex flex-col items-center">
+                        <div class="absolute top-4 right-4">
+                            <span
+                                class="bg-primary/20 text-emerald-dark text-[10px] font-bold px-2 py-1 rounded-full uppercase">Rank
+                                #15</span>
+                        </div>
+                        <div class="relative mb-4">
+                            <div
+                                class="size-24 rounded-full border-4 border-slate-100 p-1 group-hover:border-primary/30 transition-colors">
+                                <div class="size-full rounded-full bg-cover bg-center"
+                                    data-alt="Portrait of A.K. Saseendran"
+                                    style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuDnlxgzLZvwN5brFZcbSzdcKxgV-_k8qBJ0prf4aO-G57mJ5dXsTVPOxCYovkt2z7uLymm4f0jZMLPwq0l3AYAeGqasetkh-yRSpCZqPN3E0UaukKT6lrYZbZvpFr3D06eyDEmda2A_EaTUjZETFTPyH81mJXlgo-TEUCcEKCVRRpWSmzf370KU2ameSQiCLFQpjjJLv-PyWooloBx7UHNVJNvCNco_ujjfrkk6jL6OnguxAWes1jx0u9tY7jSpSZ4Dn1QrnO4SRu4')">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="text-center mb-6">
+                            <h3 class="text-xl font-bold text-slate-900 dark:text-white">A.K. Saseendran</h3>
+                            <p class="text-sm text-slate-500 font-medium">Elathur (Kozhikode)</p>
+                            <p class="text-xs text-slate-400 mt-1">NCP • Forest Minister</p>
+                        </div>
+                    </div>
+                    <div class="bg-emerald-dark text-white p-5">
+                        <div class="flex justify-between items-end mb-4">
+                            <div>
+                                <p class="text-[10px] uppercase font-bold text-primary/80 tracking-widest">Expenditure
+                                </p>
+                                <p class="text-2xl font-bold">₹37.9 Cr</p>
+                            </div>
+                            <div class="text-right">
+                                <p class="text-[10px] uppercase font-bold text-primary/80 tracking-widest">Utilization
+                                </p>
+                                <p class="text-lg font-bold">81%</p>
+                            </div>
+                        </div>
+                        <div class="w-full bg-white/10 h-2 rounded-full mb-6 overflow-hidden">
+                            <div class="bg-primary h-full rounded-full" style="width: 81%"></div>
+                        </div>
+                        <button
+                            class="w-full py-2.5 bg-primary text-emerald-dark text-sm font-bold rounded-lg hover:brightness-105 transition-all">
+                            View Detailed Report
+                        </button>
+                    </div>
+                </div>
+                <!-- MLA Card 6 -->
+                <div
+                    class="bg-white dark:bg-slate-900 rounded-xl border border-primary/20 overflow-hidden shadow-sm hover:shadow-md transition-shadow group">
+                    <div class="p-6 relative flex flex-col items-center">
+                        <div class="absolute top-4 right-4">
+                            <span
+                                class="bg-primary/20 text-emerald-dark text-[10px] font-bold px-2 py-1 rounded-full uppercase">Rank
+                                #21</span>
+                        </div>
+                        <div class="relative mb-4">
+                            <div
+                                class="size-24 rounded-full border-4 border-slate-100 p-1 group-hover:border-primary/30 transition-colors">
+                                <div class="size-full rounded-full bg-cover bg-center"
+                                    data-alt="Portrait of Ahmed Devarkovil"
+                                    style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuDUrtfgID89-LaHlQub3WiM5ZuutQpJFJO2MiAQMiGD3gsQ-i8mqTvq3yD2TY03B7EaoschjvX8Mcv1-dxzSme6vHtsC3MtIKHPvqYN85BiQ_0eCPu_wvotTNo5aHh9EpjQAtfBgnAaDI-sXbFZFogRBU_XH55dmZxGj5KlenQVBN8KCYiu0fkjKi0Uxuhhk8UugfOdOvbzVoXF0seTmJS5lD-4PeNu5zRL0Opi2dBKAMOa3V_udC3UL2fiJMA6fVso2P1pqBj7zCw')">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="text-center mb-6">
+                            <h3 class="text-xl font-bold text-slate-900 dark:text-white">Ahmed Devarkovil</h3>
+                            <p class="text-sm text-slate-500 font-medium">Kozhikode South</p>
+                            <p class="text-xs text-slate-400 mt-1">INL • Ports Minister</p>
+                        </div>
+                    </div>
+                    <div class="bg-emerald-dark text-white p-5">
+                        <div class="flex justify-between items-end mb-4">
+                            <div>
+                                <p class="text-[10px] uppercase font-bold text-primary/80 tracking-widest">Expenditure
+                                </p>
+                                <p class="text-2xl font-bold">₹35.4 Cr</p>
+                            </div>
+                            <div class="text-right">
+                                <p class="text-[10px] uppercase font-bold text-primary/80 tracking-widest">Utilization
+                                </p>
+                                <p class="text-lg font-bold">78%</p>
+                            </div>
+                        </div>
+                        <div class="w-full bg-white/10 h-2 rounded-full mb-6 overflow-hidden">
+                            <div class="bg-primary h-full rounded-full" style="width: 78%"></div>
+                        </div>
+                        <button
+                            class="w-full py-2.5 bg-primary text-emerald-dark text-sm font-bold rounded-lg hover:brightness-105 transition-all">
+                            View Detailed Report
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <!-- Pagination Footer -->
+            <footer
+                class="mt-12 flex items-center justify-between border-t border-slate-200 dark:border-slate-800 pt-6">
+                <p class="text-sm text-slate-500">Showing 1-6 of 140 MLAs</p>
+                <div class="flex gap-2">
+                    <button
+                        class="size-9 flex items-center justify-center rounded-lg border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 text-slate-600 dark:text-slate-400 hover:bg-slate-50">
+                        <span class="material-symbols-outlined text-xl">chevron_left</span>
+                    </button>
+                    <button
+                        class="size-9 flex items-center justify-center rounded-lg bg-primary text-emerald-dark font-bold text-sm">1</button>
+                    <button
+                        class="size-9 flex items-center justify-center rounded-lg border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 text-slate-600 dark:text-slate-400 hover:bg-slate-50 text-sm font-medium">2</button>
+                    <button
+                        class="size-9 flex items-center justify-center rounded-lg border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 text-slate-600 dark:text-slate-400 hover:bg-slate-50 text-sm font-medium">3</button>
+                    <span class="px-2 self-center text-slate-400">...</span>
+                    <button
+                        class="size-9 flex items-center justify-center rounded-lg border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 text-slate-600 dark:text-slate-400 hover:bg-slate-50 text-sm font-medium">24</button>
+                    <button
+                        class="size-9 flex items-center justify-center rounded-lg border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 text-slate-600 dark:text-slate-400 hover:bg-slate-50">
+                        <span class="material-symbols-outlined text-xl">chevron_right</span>
+                    </button>
+                </div>
+            </footer>
+        </main>
+    </div>
+</body>
+
+</html>

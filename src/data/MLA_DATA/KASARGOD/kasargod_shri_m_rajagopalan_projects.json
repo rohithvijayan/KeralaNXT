@@ -1,0 +1,741 @@
+{
+    "mla_name": "Shri M. Rajagopalan",
+    "constituency": "TRIKARIPUR",
+    "district": "Kannur",
+    "summary": {
+        "total_expenditure_crores": 24.6455,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 10.0125
+            },
+            {
+                "label": "Others",
+                "value_crores": 6.85
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 3.76
+            },
+            {
+                "label": "Education",
+                "value_crores": 1.6
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 1.57
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.5
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 0.253
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.1
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "മാടക്കാൽ ഇ.എം.എസ് ഗ്രന്ഥാലയത്തിന് കെട്ടിട നിർമ്മാണം (വലിയപറമ്പ ഗ്രാമ പഞ്ചായത്ത് )",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കിനാത്തിൽ സാംസ്കാരിക സമിതി വായനശാല&ഗ്രന്ഥാലയത്തിന് റീഡിങ് റൂം (പടന്ന ഗ്രാമ പഞ്ചായത്ത് )",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കൂവപ്പാറ-കുന്നുംകൈ-മാവിൻമീത്തൽ റോഡ് ടാറിംഗ്(വെസ്റ്റ് എളേരി ഗ്രാമപഞ്ചായത്ത്)",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "വെസ്റ്റ് എളേരി ഗ്രാമ പഞ്ചായത്തിലെ സി എം കുഞ്ഞിക്കമ്മാരന്‍ നായര്‍ പൊതുജന വായനശാലയ്ക്ക് കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പടന്ന  ഗ്രാമപഞ്ചായത്തിലെ  കിനാത്തില്‍ സാംസ്കാരിക സമിതി  വായനശാല & ഗ്രന്ഥാലയത്തിന് റീഡിംഗ് റൂം നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വലിയപറമ്പ ഗ്രാമപഞ്ചായത്തിലെ മാടക്കാല്‍ ഇ എം എസ് ഗ്രന്ഥശാലയ്ക്ക്  കെട്ടിടനിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എംഎ‍ല്‍എ-എഡിഎസ്-തൃക്കരിപ്പൂ‍൪-2025-26 തൃക്കരിപ്പൂ‍ൂ൪ മണ്ഡലത്തിലെ 42  സ്ഥലങ്ങളി‍ല്‍ മിനിമാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കല്‍ കയ്യൂര്‍ ചീമേനി ഗ്രാമപഞ്ചായത്ത്‌.- 1)പട്ടോളി, 2) അള്ളറാട്ട് 3) മുക്കടപ്പാലം പരിസരം, 4) ചാനടുക്കം മുത്തപ്പന്‍ ക്ഷേത്രപരിസരം, 5) കയ്യൂര്‍ രക്തസാക്ഷി സ്മാരകത്തിന്‌ സമീപം, 6) കയ്യൂര്‍ ഉദയഗിരി, 7) പലോത്ത്‌ സ്തംഭം, 8) ആലന്തട്ട സെന്റര്‍, 9) വെള്ളാട്ട് സ്കൂള്‍പരിസരം, 10)വടക്കേക്കര പരട്‌ റോഡ്‌ ജംഗഷന്‍, 11) മുണ്ട്യത്താള്‍, 12) ചെമ്പ്രകാരം മുത്തപ്പന്‍ റോഡ്‌ പരിസരം, 13) പിലാവളപ്പ്‌, 14) കല്‍നട ജംഗഷന്‍, 15)കരക്കാട് ഇ.എം.എസ്‌. മന്ദിരത്തിന്‌ സമീ alo, 16) മൊടോംതടം ചെറുവത്തൂര്‍ ഗ്രാമപഞ്ചായത്ത്‌ :- 17) ചെറുവത്തൂര്‍ GWLP സ്കൂള്‍ പരിസരം, 18) മയിച്ച, 19)പൊന്മാലം , 20) പള്ളിക്കണ്ടം, 21) പതിക്കാല്‍, 22) ഓര്‍ക്കുളം ഏ.കെ.ജി.ക്ലബ്ബ്‌ പരിസരം, 23) എരിഞ്ഞിക്കീല്‍ പാലം പരിസരം പടന്ന ഗ്രാമപഞ്ചായത്ത്‌ :- 24) ഓരി ഏ.കെ.ജി.ക്ലബ്ബ്‌ പരിസരം, 25) തോട്ടുകര ജംഗ്ഷന്‍, 26)പൊറോട്ട്‌ റെഡ്സ്റ്റാര്‍ ക്ലബ്ബ്‌ പരിസരം പിലിക്കോട് ഗ്രാമപഞ്ചായത്ത്‌:- 27) ചന്തേര പള്ളിക്‌ സമീപം, 28) കൊല്ലറൊടി, 29) മാങ്കടവത്ത്‌ കൊവല്‍, 30) കളത്തേര ജംഗ്ക്ഷന്‍, 31) പുത്തിലോട്ട്‌ വെള്ളച്ചാല്‍ റോഡ്‌ ജംങ്ക്ഷന്‍, 32) മട്ടമൂല, 33) ചെമ്പിലോട്ട്‌ ക്ഷേത്രപരിസരം, 34) വേങ്ങക്കോട്ട്‌ ക്ഷേത്ര സമീപം, 35)വറക്കോട്ട് വയല്‍ നായനാര്‍ ക്ലബ്ബ്‌ പരിസരം തൃക്കരിപ്പൂര്‍ ഗ്രാമപഞ്ചായത്ത്‌: 36)ബീരിച്ചേരി 37)ഈയ്യക്കാട് നീലേശ്വരം നഗരസഭ: 38) നീലേശ്വരം ബസ് സ്റ്റാന്റിന് കിഴക്ക് ഭാഗം 39)നീലേശ്വരം ബസ് സ്റ്റാന്റിന് പടിഞ്ഞാറ് ഭാഗം 40) ചാത്തമത്ത് ശ്മശാന പരിസരം 41) ചിറപ്പുുറം 42) നീലേശ്വരം താലൂക്കാശുപത്രി",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 96.6,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എംഎ‍ല്‍എ-എഡിഎസ്-തൃക്കരിപ്പൂ‍൪-2023-24-തൃക്കരിപ്പൂ‍ൂ൪ മണ്ഡലത്തിലെ 8 സ്ഥലങ്ങളി‍ല്‍ മിനിമാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കല്‍  ഈസ്റ്റ് എളേരി ഗ്രാമപഞ്ചായത്ത്- 1. കടുമേനി മുസ്ലീം പള്ളിക്ക് സമീപം   2.മുത്താടിത്തട്ട് ഉന്നതി    വെസ്റ്റ് എളേരി ഗ്രാമപഞ്ചായത്ത്- 3. പറമ്പ ബേങ്ക് പരിസരംം 4. ബഡൂര്‍ വായനശാല പരിസരം 5. ഉദയപുരം 6. കൂവപ്പാറ  7. മയിലുവള്ളി  8. കോളിയോട് അമ്പല പരിസരം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.3,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തൃക്കരിപ്പൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ നടക്കാവില്‍ ഓഡിറ്റോറിയം നിര്‍മ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പിലിക്കോട് ഗ്രാമ പഞ്ചായത്തിലെ വേങ്ങാപ്പാറയിൽ ഓഡിറ്റോറിയം നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 55.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വെസ്റ്റ് എളേരി ഗ്രാമ പഞ്ചായത്തിലെ  മാങ്ങോട് –നരമ്പച്ചേരി –പുന്നക്കുന്ന് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Exe. Engineer, LSGD Division,District Panchayat,Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വെസ്റ്റ് എളേരി ഗ്രാമ പഞ്ചായത്തിലെ ചീർക്കയം കാവുന്തല –കുളുത്തു കാട് ഗേറ്റ് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കയ്യൂർ ചീമേനി ഗ്രാമപഞ്ചായത്തിലെ കയ്യൂർ പൊതു ശ്മശാനത്തിന് സ്റ്റോർ റൂം നിർമ്മാണവും അനുബന്ധ സൌകര്യ വികസനവും",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കയ്യൂർ ചീമേനി ഗ്രാമപഞ്ചായത്തിലെ നിടുംബ –തച്ചർണ്ണംപൊയിൽ നൂഞ്ഞ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കയ്യൂർ ചീമേനി ഗ്രാമപഞ്ചായത്തിലെ ചീമേനി ഫാം ഹൌസ് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ചെറുവത്തൂർ ഗ്രാമ പഞ്ചായത്തിലെ ജി എച്ച് എസ് എസ് കുട്ടമത്തിന് ഓഡിറ്റോറിയം  നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ചെറുവത്തൂർ ഗ്രാമ പഞ്ചായത്തിലെ എരിഞ്ഞിക്കീൽ പീപ്പിൾസ് വായനശാലയാക്ക് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പടന്ന ഗ്രാമ പഞ്ചായത്തിലെ പടന്ന പൊറോട്ട് വയലാർ സാമാരക വായനശാലയാക്ക് കെട്ടിട \r\nനിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പടന്ന ഗ്രാമ പഞ്ചായത്തിലെ പാലത്തേര പയ്യളം റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പടന്ന ഗ്രാമ പഞ്ചായത്തിലെ ഉദിനൂർ കുഞ്ഞിക്കൊവ്വൽ ഓഡിറ്റോറിയം നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 26.0
+        },
+        {
+            "project_name": "തയ്യേനി തയ്യന്‍മുണ്ട വായിക്കാനം കോളനി റോഡ് കോണ്‍ക്രീറ്റ്(ഈസ്റ്റ് എളേരി ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe. Engineer, LSGD Division,District Panchayat,Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 29.0,
+            "concurrence_lakhs": 29.0
+        },
+        {
+            "project_name": "നീലേശ്വരം മുനിസിപ്പാലിറ്റിയിലെ  കോട്ടപ്പുറം ഇ എം എസ് സ്മാരക ടൌൺഹാളിൽ ഡയനിംഗ് ഹാൾ നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എൻ എച്ച്  ചാത്തമത്ത് വട്ടപ്പൊയിൽ ചക്ലിയ കോളനി  റോഡ് വീതികൂട്ടി ടാറിംഗ് (നീലേശ്വരം മുനിസിപ്പാലിറ്റി )",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തൃക്കരിപ്പൂര്‍ ഗ്രാമ പഞ്ചായത്തിലെ തൃക്കരിപ്പൂര്‍ ബിരിച്ചേരിയിലെ ചെറിയചാല്‍ തോടിന് കരകെട്ടി സംരക്ഷണം",
+            "implementing_agency": "Executive Engineer, Minor Irrigation",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മെട്ടമ്മല്‍ GWUP സ്കൂളിന്‌ ക്ലാസ്മുറി നിര്‍മ്മാണം(തൃക്കരിപ്പൂര്‍ ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "സ്ക്കൂള്‍ ബസ് വാങ്ങല്‍ - ഗവ. ടെക്നിക്കല്‍ ഹൈസ്ക്കൂള്‍  ചെറുവത്തൂര്‍-25 ലക്ഷം",
+            "implementing_agency": "Superintendent,THS Cheruvathur",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ഉദിനൂർ കൂഞ്ഞിക്കൊവ്വലിൽ ഓഡിറ്റോറിയം നിർമ്മാണം(പടന്ന ഗ്രാമപഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കയ്യൂർ -ചീമേനി ഗ്രാമപഞ്ചായത്തിലെ കയ്യൂർ സ്‌മാരകം റോഡ് വീതികൂട്ടി ടറിംഗ്",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വെസ്റ്റ് എളേരി ഗ്രാമപഞ്ചായത്തിലെ ബഡൂർ ഗ്രാമീണവായനശാല ബഡൂർ തെക്കേകരകാനം ലിങ്ക് റോഡിൽ കൽവെർട്ട് നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "വെസ്റ്റ് എളേരി ഗ്രാമപഞ്ചായത്തിലെ പരപ്പച്ചാൽ കുറുഞ്ചേരി റോഡില്‍ ഡ്രൈനേജ് നിര്‍മ്മാണവും അനുബന്ധ പ്രവൃത്തിയും",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "വെസ്റ്റ് എളേരി ഗ്രാമപഞ്ചായത്തിലെ സി.എം.കുഞ്ഞിക്കമ്മാരൻനായർ പൊതുജനവായനശാലയ്ക്ക് കെട്ടിടനിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഈസ്റ്റ് എളേരി ഗ്രാമപഞ്ചായത്തിലെ ആയന്നൂർ യുവശക്തി പബ്ലിക് ലൈബ്രറിക്ക് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചെറുവത്തൂർ ഗ്രാമപഞ്ചായത്തിലെ എരിഞ്ഞിക്കീൽ പീപ്പിൾസ് വായന ശാലയ്ക്ക് കെട്ടിടനിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അത്തൂട്ടി ഞെക്ലിയങ്ങോട്ട് ഒലിയറമുണ്ട്  റോഡില്‍ കള്‍വെര്‍ട്ട്  നിർമ്മാണം(കയ്യൂര്‍-ചീമേനി ഗ്രാമ പഞ്ചായത്ത് )",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ചീമേനി തുറന്ന ജയിലിൽ ആശുപത്രി കെട്ടിടനിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Healthcare",
+            "fy": "2024-2025",
+            "estimate_lakhs": 67.0,
+            "concurrence_lakhs": 61.0
+        },
+        {
+            "project_name": "തൃക്കരിപ്പൂർ ഗ്രാമപഞ്ചായത്തിലെ മെട്ടമ്മൽ പറയമ്മാനം കമ്മ്യൂണിറ്റി ഹാൾ നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വലിയപറമ്പ ഗ്രാമപഞ്ചാത്തിലെ പടന്നക്കടപ്പുറം നവധാര ഗ്രാന്ഥാല യത്തിന് കെട്ടിടനിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 28.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പിലിക്കോട് ഗ്രാമപഞ്ചായത്തിലെ ആനിക്കാടിയിൽ ഓഡിറ്റോറിയം നിര്‍മ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "പിലിക്കോട് ഗ്രാമപഞ്ചായത്തിലെ മാണിയാട്ട് ചോയികുളം കിനാത്തി ൽ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പിലിക്കോട് ഗ്രാമപഞ്ചായത്തിലെ പിലിക്കോട് വയൽ GWLP സ്‌കൂ ളിന് അസംബ്ലിഹാൾ നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "നീലേശ്വരം നഗരസഭയിലെ പാലായി ഗവ.ആയൂർവേദ ആശുപത്രിക്ക് കെട്ടിടനിർമ്മാണം",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Healthcare",
+            "fy": "2024-2025",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "G U P S മൌക്കോട് -20 ലക്ഷം,C K N S GHSS പിലിക്കോട്-25 ലക്ഷം",
+            "implementing_agency": "Deputy Director of Education,civil station,kasaragod",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        },
+        {
+            "project_name": "സ്ക്കൂള്‍ ബസ് വാങ്ങല്‍ \r\n1GFVHSS ചെറുവത്തൂര്‍ (കാടങ്കോട് ) -25 ലക്ഷം\r\nG H S S കുട്ടമത്ത്,-25 ലക്ഷം",
+            "implementing_agency": "Deputy Director of Education,civil station,kasaragod",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "എം എല്‍ എ - എ ഡി എസ് - കാസറഗോഡ് - 2023-24 - ചെങ്കള പഞ്ചായത്തിലെ വടക്കേക്കര കല്ലും കൂട്ടം  അടിയാർ  തൊട്ടി റോഡ് – വാർഡ് 17 ബേവിഞ്ച",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എം എൽ എ- എഡിഎസ്-തൃക്കരിപ്പൂർ-2023-24- വെസ്റ്റ് എളേരി ഗ്രാമ പഞ്ചായത്തിലെ വരക്കാട് താലോലപൊയിൽ റോഡ് വീതി കൂട്ടി ടാറിംഗ്",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "എം എൽ എ- എഡിഎസ്-തൃക്കരിപ്പൂർ-2023-24- ഈസ്റ്റ് എളേരി ഗ്രാമ പഞ്ചായത്തിലെ കമ്പല്ലൂർ സി ആർ സി യ്ക്ക് ഓപ്പൺ ഓഡിറ്റോറിയം നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എം എല്‍ എ -എ ഡി എസ്-തൃക്കരിപ്പൂ൪ -2023-24- കയ്യൂ൪ ചീമേനി ഗ്രാമ പഞ്ചായത്തിലെ  ജി .എച്ച് . എസ് . എസ്. ചീമേനിയില്‍ കളിക്കളം നി൪മ്മാണം(ഒരു പഞ്ചായത്തില്‍ ഒരു കളിക്കളം നി൪മ്മാണം പദ്ധതി)",
+            "implementing_agency": "Director of Sports and Youth Affairs",
+            "category": "Sports",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "എം എല്‍ എ - എ ഡി എസ് - തൃക്കരിപ്പൂ൪ - 2021-22- തൃക്കരിപ്പൂ൪ ഫയ൪  സ്റ്റേഷനില്‍ വിശ്രമ മുറി നി൪മ്മിക്കുന്നത് സംബന്ധിച്ച്",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "എം എല്‍ എ - എ ഡി എസ് - തൃക്കരിപ്പൂ൪ - 2021-22- നീലേശ്വരം പോലീസ് സ്റ്റേഷനില്‍ വിശ്രമ മുറി നി൪മ്മിക്കുന്നത് സംബന്ധിച്ച്",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "എംഎ‍ല്‍എ-എഡിഎസ്-തൃക്കരിപ്പൂ‍൪-2023-24-തൃക്കരിപ്പൂ‍ൂ൪ മണ്ഡലത്തിലെ 27 സ്ഥലങ്ങളി‍ല്‍ മിനിമാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കല്‍ \r\nകയ്യൂർ ചീമേനി ഗ്രാമപഞ്ചായത്ത്\r\n    1- മുണ്ട\r\n    2- ആലന്തട്ട സെന്റർ\r\n    3- ചീമേനി കിഴക്കേക്കര ഹെൽത്ത് സെന്ററിന് സമീപം\r\n    4-  മയ്യൽ\r\n    5- ക്ലായിക്കോട് ബാങ്ക് പരിസരം\r\n    6- പട്ടോട്\r\n    7- പെരുമ്പട്ട പാലം പരിസരം\r\nചെറുവത്തൂർ ഗ്രാമപഞ്ചായത്ത്\r\n    8- തലക്കാട്ട്\r\n    9- തുരുത്തി പി.എച്ച്.സിക്ക് സമീപം\r\n    10-  വടക്കുമ്പാട് ഖാദി പരിസരം\r\n    11-  മയിച്ച  ഇ.എം.എസ്. മന്ദിരത്തിന്  സമീപം\r\nപടന്ന ഗ്രാമപഞ്ചായത്ത്\r\n    12- ഉദിനൂർ  പരപത്തിച്ചാൽ\r\n    13- മാച്ചിക്കാട്\r\n    14- പടന്ന മുണ്ട്യ ബസ് സ്റ്റോപ്പ് പരിസരം\r\n    15-  തോട്ടുകരപ്പാലം പരിസരം\r\n    16-  തോട്ടുകര ഇ.എം.എസ് വായനശാല  പരിസരം\r\nപിലിക്കോട്  ഗ്രാമപഞ്ചായത്ത്\r\n    17- ചക്ക് മുക്ക് \r\n    18- സുന്ദരയ്യ നഗർ\r\n    19- മാണിയാട്ട്  ഹോമിയോ ആശുപത്രി പരിസരം\r\n    20- കാലിക്കടവ് എരവിൽ റോഡ് ജംഗ്ഷൻ\r\n    21- പൊളളപ്പൊയിൽ\r\n    22- പിലിക്കോട് വയൽ\r\nതൃക്കരിപ്പൂർ ഗ്രാമപഞ്ചായത്ത്\r\n    23- നടക്കാവ് കോളനി\r\n    24-  കക്കുന്നം അണീക്കര\r\n    25- മാടക്കാൽ ബണ്ട് റോഡ് ജംഗ്ഷൻ\r\nവലിയപറമ്പ് ഗ്രാമപഞ്ചായത്ത് \r\n       26-ബീച്ച് റോഡ്\r\n       27- തയ്യിൽ സൗത്ത്",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 62.25,
+            "concurrence_lakhs": 62.25
+        },
+        {
+            "project_name": "എംഎ‍ല്‍എ-എഡിഎസ്-തൃക്കരിപ്പൂ‍൪-2023-24-തൃക്കരിപ്പൂ‍ൂ൪ മണ്ഡലത്തിലെ 36 സ്ഥലങ്ങളി‍ല്‍ മിനിമാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കല്‍ \r\n\r\n നീലേശ്വരം മുനിസിപ്പാലിറ്റി\r\n    1- പേരോൽ എൽ.പി. സ്ക്കൂൾ  ജംഗ്ഷൻ\r\n    2-  പടിഞ്ഞാറ്റം  കൊഴുവൽ  ഭണ്ഡാരപ്പുര പരിസരം\r\n    3- കടിഞ്ഞിമൂല ജംഗ്ഷൻ   ഹെൽത്ത് സെന്ററിന്  സമീപം\r\n    4-  രാങ്കംണ്ടം വായനശാല പരിസരം\r\n    5- അങ്കക്കളരി അമ്പല പരിസരം\r\n    6- കണിച്ചിറ കെ. ബാലകൃഷ്ണൻ സ്തൂപത്തിന് സമിപം \r\n    7-  പാലായി ദിനേശ് കമ്പനി പരിസരം  \r\n    8-  നീലായി സാംസ്ക്കാരിക  നിലയം  പരിസരം\r\n    9- പൂവാലംകൈ ചേടി റോഡ്  പരിസരം\r\n    10- ചാത്തമത്ത് -പാടാർ കുളങ്ങര ഭഗവതിക്ഷേത്രം  \r\n    11-  പൊടോതുരുത്തി  കായക്കീൽ ഭഗവതി ക്ഷേത്രം \r\n    12- പളളിക്കര  നീരുക്ക്\r\n    13-  കൊയാമ്പുറം  അമ്പല പരിസരം\r\n    14-  തോട്ടുമ്പുറം അംഗനവാടി പരിസരം\r\n    15-  മുണ്ടേമ്മാട് പാലത്തിന് സമീപം\r\n    16-  ഉച്ചുളിക്കുതിർ എ.കെ.ജി. ക്ലബ്ബ് പരിസരം\r\n    17-  അവേൽ  ജംഗ്ഷൻ  മാർക്കറ്റ്\r\n    18-  തൈക്കടപ്പുറം  ആശുപത്രി  ജംഗ്ഷൻ\r\n    19-  പാലക്കാട്ട് നീലേശ്വരം  ഇ.എം.എസ്. മന്ദിരം  റോഡ്\r\n    20-  പട്ടേന ജംഗ്ഷൻ  \r\n    21- സുവർണ്ണ വല്ലി  അമ്പലം പരിസരം\r\n    22-  മൂലപ്പളളി  ആകാശ്  വായനശാല\r\n    23- തട്ടാച്ചേരി  അമ്പല പരിസരം \r\n    24- പാലാത്തടം വായനശാല പരിസരം \r\n    25- പൂവാലംകൈ ഇ.എം.എസ്. മന്ദിര പരിസരം\r\n    26-  കടിഞ്ഞിമൂല  സ്റ്റോർ പരിസരം\r\n    27-  കാര്യങ്കോട്  വീത് കുതിര് പരിസരം\r\nവെസ്റ്റ് എളേരി    ഗ്രാമപഞ്ചായത്ത്-\r\n    28- കൂളിപ്പാറ\r\n    29- പുന്നക്കുന്ന്\r\n    30- പെരളംകാവ്\r\n    31-  എച്ചിപ്പൊയിൽ  \r\n    32- നർക്കിലക്കാട് ആശുപത്രി പരിസരം \r\n    33- എളേരി ഇ.കെ.എൻ.എം ഗവൺമെന്റ്  കോളേജ്\r\n    34- പരപ്പച്ചാൽ  ഭാസ്ക്കരൻ  പീടികയ്ക്ക് സമിപം\r\n    35-  പെരുമ്പട്ട പാലത്തിന് കിഴക്ക് ഭാഗം \r\nഈസ്റ്റ് എളേരി ഗ്രാമപഞ്ചായത്ത്\r\n    36- കാവുന്തല",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 83.0,
+            "concurrence_lakhs": 83.0
+        },
+        {
+            "project_name": "എം എല്‍ എ - എ ഡി എസ്- തൃക്കരിപ്പൂ൪- 2023-24- പടന്ന  ഗ്രാമ പഞ്ചായത്തിലെ ഉദിനൂ൪ തെക്കുപുറം അടിച്ചാ൪ മുള്ളോട്ട് കടവ് റോഡ് വീതി കൂട്ടല്‍",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "എം  എല്‍ എ - എ ഡി എസ്- തൃക്കരിപ്പൂ൪- 2023-24-  കയ്യൂ൪ ചീമേനി ഗ്രാമ പഞ്ചായത്തിലെ  മുഴക്കോം ഗവണ്‍മെന്റ് ഹോമിയോ ആശുപത്രി കെട്ടിട നി൪മ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Healthcare",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "എം എല്‍ എ-എഡിഎസ്-തൃക്കരിപ്പൂര്‍-2023-24-എക്കല്‍ ഒറ്റക്കുഴി കോളനി റോഡ് നിര്‍മ്മാണം( ഈസ്റ്റ് എളേരി പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "എംഎല്‍എ-എഡിഎസ്‌-ത്രിക്കരിപ്പൂര്‍-2023-24- ബാഡൂര്‍ ചുഴിക്കയം റോഡ് നിര്‍മ്മാണം(വെസ്റ്റ എളേരി പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "എംഎല്‍എ-എഡിഎസ്‌-ത്രിക്കരിപ്പൂര്‍-2023-24-ചന്തേര പടിഞ്ഞാറേക്കര ചോയിക്കുളം കിനാത്തില്‍ ആയുര്‍വേദ ആശുപത്രി ഞാണ്ണിക്കോട് റോഡ് ടാറിങ്",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "എംഎ‍ല്‍എ-എഡിഎസ്-തൃക്കരിപ്പൂ‍൪-2023-24-തൃക്കരിപ്പൂ‍ൂ൪ മണ്ഡലത്തിലെ 63 സ്ഥലങ്ങളി‍ല്‍ മിനിമാസ്റ്റ് ലൈറ്റുകള്‍  സ്ഥാപിക്കല്‍ \r\nകയ്യൂർ ചീമേനി പഞ്ചായത്ത്\r\n    1. മുണ്ട, 2. ആലന്തട്ട സെൻറർ, 3. ചീമേനി കിഴക്കേക്കര ഹെൽത്ത് സെൻററിന്  സമീപം, 4. മയ്യൽ , 5. ക്ലായിക്കോട് ബാങ്ക് പരിസരം,  6. പട്ടോട്, 7. പെരുമ്പട്ട പാലം പരിസരം\r\nചെറുവത്തൂർ പഞ്ചായത്ത്\r\n    8.  തലക്കാട്ട്,  9. തുരുത്തി പി.എച്ച്.സിക്ക് സമീപം, 10. വടക്കുമ്പാട് ഖാദി പരിസരം, 11. മയ്യിച്ച ഇ.എം.എസ്.  മന്ദിരത്തിന് സമീപം\r\nപടന്ന  പഞ്ചായത്ത്\r\n    12.  ഉദിനൂർ  പരപത്തിച്ചാൽ, 13. മാച്ചിക്കാട്, 14. പടന്ന മുണ്ട്യ ബസ് സ്റ്റോപ്പ്  പരിസരം, 15. തോട്ടുകരപ്പാലം  പരിസരം\r\n    16. തോട്ടുകര ഇ.എം.എസ്  വായനശാല പരിസരം\r\nപിലിക്കോട് പഞ്ചായത്ത്\r\n    17. ചക്ക് മുക്ക്, 18. സുന്ദരയ്യ നഗർ , 19. മാണിയാട്ട് ഹോമിയോ ആശുപത്രി പരസരം , 20. കാലിക്കടവ്  എരവിൽ റോഡ് ജംഗ്ഷൻ, 21. പൊളളപ്പൊയിൽ, 22. പിലിക്കോട് വയൽ\r\nതൃക്കരിപ്പൂർ പഞ്ചായത്ത്\r\n    23. നടക്കാവ് കോളനി, 24. കക്കുന്നം അണീക്കര, 25. മാടക്കാൽ ബണ്ട് റോഡ് ജംഗ്ഷൻ\r\nവലിയപറമ്പ പഞ്ചായത്ത്\r\n    26.  ബീച്ച് റോഡ്,  27. തയ്യിൽ സൗത്ത്\r\nനീലേശ്വരം നഗരസഭ\r\n    28. പേരോൽ എൽ.പി. സ്ക്കൂൾ ജംഗ്ഷ൯  29.  പടിഞ്ഞാറ്റം കൊഴുവൽ  ഭണ്ഡാരപ്പുര പരിസരം  30.  കടിഞ്ഞിമൂല  ജംഗ്ഷൻ  ( ഹെൽത്ത് സെൻററിന് സമീപം) 31.  രാങ്കണ്ടം വായനശാല പരിസരം, 32. അങ്കക്കളരി അമ്പല പരിസരം,   33.  കണിച്ചിറ  ( കെ. ബാലകൃഷ്ണൻ  സ്തൂപത്തിന് സമീപം,   34.  പാലായി ദിനേശ് കമ്പനി പരിസരം,   35.  നീലായി സാംസ്ക്കാരി  നിലയം  പരിസരം\r\n    36.  പൂവാലംകൈ ചേടിറോഡ്  പരിസരം, 37. ചാത്തമത്ത് –പാടാർ കുളങ്ങര ഭഗവതിക്ഷേത്രം , 38. പൊടോതുരുത്തി കായക്കിൽ ഭഗവതി ക്ഷേത്രം,  39. പളളിക്കര നീരൂക്ക്\r\n    40. കൊയാമ്പുറം അമ്പല പരിസരം, 41.  തോട്ടുമ്പുറം  അംഗനവാടി പരിസരം, 42.  മുണ്ടേമ്മാട് പാലത്തിന് സമീപം\r\n    43.  ഉച്ചൂളിക്കുതിർ  എ.കെ.ജി ക്ലബ്ബ് പരിസരം, 44.  അവേൽ  ജംഗ്ഷൻ  ( മാർക്കറ്റ്) ,  45. തൈക്കടപ്പുറം ആശുപത്രി ജംഗ്ഷൻ ,   46. പാലക്കാട്ട്  (നീലേശ്വരം ഇ.എം.എസ്.മന്ദിരം റോഡ്)\r\n 47. പട്ടേന ജംഗ്ഷൻ, 48.  സുവർണ്ണവല്ലി അമ്പലം പരിസരം,   49.  മൂലപ്പളളി ആകാശ്  വായനശാല, 50.  തട്ടാച്ചേരി അമ്പല പരിസരം,   51.  പാലാത്തടം  വായനശാല പരിസരം\r\n    52.  പൂവാലംകൈ ഇ.എം.എസ്.  മന്ദിര പരിസരം,  53.  കടിഞ്ഞിമൂല  സ്റ്റോർ പരിസരം\r\n    54.  കാര്യങ്കോട് വീത് കുതിർ  പരിസരം\r\nവെസ്റ്റ് എളേരി  പഞ്ചായത്ത്\r\n    55. കൂളിപ്പാറ, 56. പുന്നക്കുന്ന്,  57. പെരളംകാവ്58. ഏച്ചിപ്പൊയിൽ 59. നർക്കിലക്കാട് ആശുപത്രി പരിസരം60.  എളേരി ഇ.കെ.എൻ. എം. ഗവഃ കോളേജ്\r\n    61.  പരപ്പച്ചാൽ ഭാസ്ക്കരൻ പീടികയ്ക്ക് സമീപം\r\n    62. പെരുമ്പട്ടപാലത്തിന് കിഴക്ക് ഭാഗം\r\nഈസ്റ്റ് എളേരി പഞ്ചായത്ത്\r\n    63. കാവുന്തല",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 100.4,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എം എൽഎ -എ ഡി എസ് - തൃക്കരിപ്പൂർ-2023-24-വലിയപറമ്പ ഗ്രാമ പഞ്ചായത്തിലെ തൃക്കരിപ്പൂർ കടപ്പുറം തയ്യിൽ സൌത്ത് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "എം എൽഎ -എ ഡി എസ് - തൃക്കരിപ്പൂർ-2023-24-വലിയപറമ്പ ഗ്രാമ പഞ്ചായത്തിലെ വിജ്ഞാന ദായിനി വായനശാല & ഗ്രന്ഥാലയത്തിന് കെട്ടിടനിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "എം എൽ എ -എ ഡി എസ്-തൃക്കരിപ്പൂർ- 2023-24- തൃക്കരിപ്പൂർ ഗ്രാമ പഞ്ചായത്തിലെ മണിയനോടി ചൊവ്വറമ്പ് റോഡിന് ഓവുചാൽ നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എം എൽ എ -എ ഡി എസ്-തൃക്കരിപ്പൂർ- 2023-24-കയ്യൂർ ചീമേനി ഗ്രാമ പഞ്ചായത്തിലെ കയ്യൂർ സ്മാരകം  ചെറിയാക്കര റോഡ് വീതി കൂട്ടി ടാറിംഗ്",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "എം എൽ എ -എഡിഎസ്- തൃക്കരിപ്പൂർ - 2023-24- ചെറുവത്തൂർ ഗ്രാമ പഞ്ചായത്തിലെ   ചെറുവത്തൂർ ടൌൺ സൌന്ദര്യ വൽക്കരണം (നടപ്പാത നിർമ്മാണം,ഡ്രയിനേജ് നിർമ്മാണം ,ഇൻറർലോക്ക് സ്ഥാപിക്കൽ,  ഹാന്റ് റെയിൽ സ്ഥാപിക്കൽ, ലൈറ്റ് സ്ഥാപിക്കൽ) സംബന്ധിച്ച്",
+            "implementing_agency": "PWD Roads Divsion Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "എം എൽ എ -എഡിഎസ്- തൃക്കരിപ്പൂർ - 2023-24- പിലിക്കോട് ഗ്രാമ പഞ്ചായത്തിലെ വെള്ളച്ചാലിൽ ഓപ്പൺ ഓഡിറ്റോറിയം നിർമ്മാണം സംബന്ധിച്ച്",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എം എൽ എ -എഡിഎസ്- തൃക്കരിപ്പൂർ - 2022-23- പിലിക്കോട് ഗ്രാമ പഞ്ചായത്തിലെ പാടിക്കീൽ ജി യു പി സ്കൂളിന് ക്ലാസ് മുറി നിർമ്മാണം  സംബന്ധിച്ച്",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        },
+        {
+            "project_name": "എം എൽ എ -എഡിഎസ്- തൃക്കരിപ്പൂർ - 2023-24- ടെണ്ടർ സേവിംഗ്സ് തുക ഉപയോഗിച്ച് മൌക്കോട് ജി എൽ പി സ്കൂളിന്  സ്കൂൾ ബസ്സ് സംബന്ധിച്ച്",
+            "implementing_agency": "Deputy Director of Education,civil station,kasaragod",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എം എൽ എ -എഡിഎസ്- തൃക്കരിപ്പൂർ - 2023-24- ടെണ്ടർ സേവിംഗ്സ് തുക ഉപയോഗിച്ച് നീലേശ്വരം മുനിസിപ്പാലിറ്റിയിലെ കേന്ദ്രീയ വിദ്യാലയത്തിലേക്കുള്ള  റോഡ് ടാറിംഗ്",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പടന്ന മെയിൻ റോഡ് തെക്കേക്കാട് ബണ്ട് റോഡ് വീതി കൂട്ടി ടാറിങ്",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "തൃക്കരിപ്പൂര്‍ മണ്ഡലത്തിലെ 12 സ്ഥലങ്ങളില്‍ മിനിമാസ്റ്റ് ലൈറ്റ്കള്‍ സ്ഥാപിക്കല്‍\r\n1.കയ്യൂര്‍ -ചീമേനി ഗ്രാമപഞ്ചായത്തിലെ ബാങ്ക് റോഡ്‌  \r\n2.കയ്യൂര്‍ -ചീമേനി ഗ്രാമപഞ്ചായത്തിലെ പുലിയന്നൂര്‍\r\n3.കയ്യൂര്‍ -ചീമേനി ഗ്രാമപഞ്ചായത്തിലെ പെരുന്തോല്‍\r\n4.കയ്യൂര്‍ -ചീമേനി ഗ്രാമപഞ്ചായത്തിലെ പുല്ലാഞ്ഞിപ്പാറ\r\n5.കയ്യൂര്‍ -ചീമേനി ഗ്രാമപഞ്ചായത്തിലെ  കുതിരുംചാല്‍\r\n6.കയ്യൂര്‍ -ചീമേനി ഗ്രാമപഞ്ചായത്തിലെ  അടുവേനി വായനശാല പരിസരം \r\n7.പിലിക്കോട് ഗ്രാമ പഞ്ചായത്തിലെ  ചന്തേര കുനത്തൂര്‍ \r\n8.പിലിക്കോട് ഗ്രാമ പഞ്ചായത്തിലെ  ചന്തേര പടിഞ്ഞാറെക്കര അംഗനവാടി പരിസരം \r\n9..പിലിക്കോട് ഗ്രാമ പഞ്ചായത്തിലെ കാടുവക്കാട്\r\n10.വലിയ പറമ്പ ഗ്രാമ പഞ്ചായത്തിലെ വലിയ പറമ്പ ബീച്ച് \r\n11.ചെറുവത്തൂര്‍ ഗ്രാമ പഞ്ചായത്തിലെ മുണ്ടക്കണ്ടം\r\n12.വെസ്റ്റ്‌ എളേരി ഗ്രാമപഞ്ചായത്തിലെ ചട്ടമല ജംഗ്ഷന്‍",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 22.6
+        },
+        {
+            "project_name": "ചെറുവത്തൂര്‍ ഗ്രാമ പഞ്ചയാത്ത്  ഓഫീസിന്  സമീപത്തുള്ള പഞ്ചായത്ത് കെട്ടിടത്തിന്  മുകളില്‍ കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "നീലേശ്വരം മുനിസിപ്പാലിറ്റിയിലെ മൂന്നാംകുറ്റി -പാലായി റോഡ്‌",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "നീലേശ്വരം മുനിസിപ്പാലിറ്റിയിലെ ചാത്ത മത്ത് -പുതിയറ റോഡ്‌",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "നീലേശ്വരം മുനിസിപ്പാലിറ്റിയിലെ ആലിങ്കീല്‍ -പഴനെല്ലി -സുവര്‍ണ്ണവല്ലിഅമ്പലം റോഡില്‍ ബദിരമന തോടിന് കുറുകെ കല്‍വര്‍ട്ട് നിര്‍മ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ഈസ്റ്റ് എളേരി ഗ്രാമ പഞ്ചായത്തിലെ കൊല്ലാടഇ എം എസ് പഠനകേന്ദ്രം & ഗ്രന്ഥാലയം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പിലിക്കോട് ഗ്രാമപഞ്ചായത്തിലെ കരക്കേരുഫ്രണ്ട്സ് & ഗ്രന്ഥാലയത്തിന് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "തൃക്കരിപ്പൂർ ഗ്രാമപഞ്ചായത്തിലെ നടക്കാവ് നെരൂദവായനശാല & ഗ്രന്ഥാലയത്തിന് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "പിലിക്കോട് ഗ്രാമപഞ്ചായത്തിലെ കൊടക്കാട് പടിഞ്ഞാറെക്കര നായനാർ  ഗ്രന്ഥാലയത്തിന് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പടന്ന ഗ്രാമപഞ്ചായത്തിലെ കോണത്ത് വയൽ  ഇ എം.എസ് വായനശാല & ഗ്രന്ഥാലയത്തിന് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ചെറുവത്തൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ ഇ എം എസ് ഓപ്പണ്‍ ഓഡിറ്റോറിയത്തിനു മേല്‍ക്കൂര നിര്‍മ്മാണവും അനുബന്ധ പ്രവൃത്തികളും",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "വെസ്റ്റ് എളേരി ഗ്രാമ പഞ്ചായത്തിലെ ചാമക്കുളം കൊന്നക്കാട്  റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ഈസ്റ്റ് എളേരി ഗ്രാമ പഞ്ചായത്തിലെ തയ്യേനി മീനഞ്ചേരി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "വെസ്റ്റ് എളേരി ഗ്രാമ പഞ്ചായത്തിലെ കരിമ്പിരി-നരമ്പച്ചേരി -പുന്നക്കുന്ന് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഈസ്റ്റ് എളേരി ഗ്രാമ പഞ്ചായത്തിലെ ചട്ടമല -കിണറ്റടി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വലിയപറമ്പ് ഗ്രാമപഞ്ചായത്ത് ഓഫീസ് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "പിലിക്കോട് ഗ്രാമപഞ്ചായത്തിലെ ചൂരിക്കൊവ്വൽ മുതിരക്കൊവ്വൽ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പടന്ന ഗ്രാമപഞ്ചായത്തിലെ തെക്കേക്കാട് ബണ്ട് വടക്കെക്കാട് റോഡ് ടാറിംഗ്",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കയ്യൂര്‍ ചീമേനി ഗ്രാമപഞ്ചായത്തിലെ ചീമേനി ബസ്‌ സ്റ്റാന്റില്‍ ഓപ്പൺ ഓഡിറ്റോറിയം നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "kannur_shri_m_rajagopalan_placeholder"
+}

@@ -1,0 +1,609 @@
+{
+    "mla_name": "Shri M.V. Govindan Master",
+    "constituency": "TALIPARAMBA",
+    "district": "Kannur",
+    "summary": {
+        "total_expenditure_crores": 23.3024,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 7.0133
+            },
+            {
+                "label": "Education",
+                "value_crores": 5.2128
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 4.4587
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 3.1097
+            },
+            {
+                "label": "Others",
+                "value_crores": 1.8668
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 1.1411
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.5
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "ആന്തൂര്‍ നഗര സഭയില്‍ കൊള്‍ തുരുത്തി -വടക്കില്‍ മുനമ്പ് റോഡ്‌ പുനരുദ്ധാരണം പ്രവൃത്തി",
+            "implementing_agency": "Secretary Anthoor Municipality",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "തളിപ്പറമ്പ  വെള്ളിക്കീല്‍  ടൂറിസം കേന്ദ്രത്തിലും പരിസരപ്രദേശങ്ങളിലും മിനിമാസ്റ്റ് ലൈറ്റ്(സോളാര്‍) ,നടപ്പാത എന്നിവ നിര്‍മ്മാണം .",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 96.83,
+            "concurrence_lakhs": 96.83
+        },
+        {
+            "project_name": "ബഹു. തളിപ്പറമ്പ് നിയോജക മണ്ഡലം എം.എല്‍.എ ശ്രീ.എം വി  ഗോവിന്ദന്‍ മാസ്റ്റര്‍ അവര്‍കളുടെ 2023-24 സാമ്പത്തിക വര്‍ഷത്തിലെ ആസ്തി വികസന ഫണ്ടില്‍ നിന്നും നിര്‍ദ്ദേശിക്കപെട്ട കുറുമാത്തൂര്‍ ഗ്രാമ പഞ്ചായത്ത്‌ -ഹരിജന്‍ കോളനി - പാറാട്ട് ചാല്‍ റോഡ്‌ അഭിവൃദ്ധി പെടുത്തല്‍ പ്രവൃത്തി.",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 14.5,
+            "concurrence_lakhs": 14.5
+        },
+        {
+            "project_name": "2025-26 സാമ്പത്തിക വര്‍ഷത്തിലെ ആസ്തി വികസന ഫണ്ടില്‍ നിന്നും 40 ലക്ഷം രൂപ ചെലവഴിച്ച് തളിപ്പറമ്പ നിയോജക മണ്ഡലത്തിലെ വിവിധ സ്ഥലങ്ങളില്‍ ബസ് വെയ്റ്റിംഗ് ഷെല്‍ട്ടറുകള്‍ സ്ഥാപിക്കല്‍ പ്രവൃത്തി",
+            "implementing_agency": "Executive Engineer PWD Roads Division kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ബഹു. തളിപ്പറമ്പ എം.എല്‍എ യുടെ 2025-26 സാമ്പത്തിക വര്‍ഷത്തിലെ ആസ്തി വികസന ഫണ്ടില്‍ നിന്നും 18 ലക്ഷം രൂപ ചെലവഴിച്ച് ഹാപ്പിനസ് സ്ക്വയര്‍ റൂഫ് വര്‍ക്ക് പ്രവൃത്തി .",
+            "implementing_agency": "Executive Engineer PWD Building Division Thalassery",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "ബഹു. എംഎല്‍എ യുടെ 2024-25 സാമ്പത്തീക വര്‍ഷത്തിലെ ആസ്തി വികസന പദ്ധതിയില്‍ ഉള്‍പ്പെടുത്തിവിവിധ സ്ഥലങ്ങളില്‍ സോളാര്‍ മിനിമാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കുന്ന പ്രവര്‍ത്തികള്‍-സംബന്ധിച്ച്",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 81.97,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തളിപ്പറമ്പ് നിയോജക മണ്ഡലത്തിലെ  നാല് സ്കൂള്കള്‍ക്ക് ബസ്‌ വാങ്ങല്‍ \r\n    1ഗവ. ഹൈസ്കൂള്‍ പാച്ചേനി ബസ് - 25 ലക്ഷം.\r\n   2 ഗവ. ഹൈസ്കൂള്‍ കാലിക്കടവ് ബസ് - 25 ലക്ഷം.\r\n   3 ഗവ. ഹൈസ്കൂള്‍ ടാഗോര്‍ തളിപ്പറമ്പ് ബസ് - 25 ലക്ഷം.\r\n   4 ഗവ. ഹൈസ്കൂള്‍ കടമ്പേരി ബസ് - 20 ലക്ഷം.",
+            "implementing_agency": "Deputy Director of Education Kannur",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 95.0,
+            "concurrence_lakhs": 95.0
+        },
+        {
+            "project_name": "ബഹു. തളിപ്പറമ്പ നിയോജക മണ്ഡലം എം.എല്‍.എ ശ്രീ. ഗോവിന്ദന്‍ മാസ്റ്റര്‍ അവര്‍കളുടെ 2025-26 സാമ്പത്തിക വര്‍ഷത്തിലെ ആസ്തി വികസന ഫണ്ടില്‍ നിന്നും 95 ലക്ഷം രൂപ ചെലവഴിച്ച് 1. ഗവ. ഹൈസ്കൂള്‍ പാച്ചേനി, 2. ഗവ. ഹൈസ്കൂള്‍ കാലിക്കടവ്, 3. ഗവ. ഹൈസ്കൂള്‍ ടാഗോര്‍ തളിപ്പറമ്പ്, 4. ഗവ. ഹൈസ്കൂള്‍ കടമ്പേരി എന്നീ സ്കൂളുകള്‍ക്ക് ബസ് വാങ്ങിക്കുന്ന പ്രവൃത്തി",
+            "implementing_agency": "Deputy Director of Education Kannur",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 95.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തളിപ്പറമ്പ് നിയോജകമണ്ഡലം എംഎല്‍എ ശ്രീ എംവി ഗോവിന്ദന്‍ മാസ്റ്റര്‍ 2024-25 വര്‍ഷത്തെ പദ്ധതിയില്‍ ഉള്‍പ്പെടുത്തി നടപ്പാക്കാന്‍ നിര്‍ദ്ദേശിച്ച  സ്ഥലങ്ങളില്‍ മിനിമാസ്റ്റ് സ്ഥാപിക്കുന്ന പ്രവൃത്തി",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "തളിപ്പറമ്പ് നിയോജക മണ്ഡലത്തിലെ വിവിധ ടൂറിസം കേന്ദ്രങ്ങളില്‍ സി.സി ടി.വി സ്ഥാപിക്കുന്ന പ്രവൃത്തി",
+            "implementing_agency": "Executive Engineer PWD Electronics Kannur",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തളിപ്പറമ്പ് നിയോജക മണ്ഡലത്തിലെ വിവിധ സ്ഥലങ്ങളിൽ സോളാർ ലൈറ്റുകൾ സ്ഥാപിക്കൽ",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 94.0,
+            "concurrence_lakhs": 94.0
+        },
+        {
+            "project_name": "തളിപ്പറമ്പ് നഗര സൌന്ദര്യവല്‍ക്കരണം (ഇലക്ട്രിക്ക് ലൈറ്റ് സ്ഥാപിക്കല്‍) പ്രവൃത്തി",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD ELECTRICAL DIVISION KANNUR",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "തളിപ്പറമ്പ് നിയോജക മണ്ഡലത്തിലെ വിവിധ ടൂറിസം കേന്ദ്രങ്ങളില്‍ സി.സി ടി.വി സ്ഥാപിക്കുന്ന പ്രവൃത്തി",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD ELECTRONICS TRISSUR",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കണ്ണൂര്‍ ഗവ. എഞ്ചിനീയറിംഗ് കോളേജിന് ബസ്",
+            "implementing_agency": "PRINCIPAL,GOVERNMENT ENGINEERING COLLEGE KANNUR.",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 31.5
+        },
+        {
+            "project_name": "ആന്തൂര്‍ നഗരസഭയിലെ മോറാഴ ഗവ. ഹയര്‍ സെക്കന്ററി സ്കൂളിന് സ്കൂള്‍ വാഹനം",
+            "implementing_agency": "Deputy Director of Education Kannur",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 23.09
+        },
+        {
+            "project_name": "കുറ്റ്യാട്ടൂര്‍ ഗ്രാമ പഞ്ചായത്തില്‍ ഗ്രൌണ്ട് നിര്‍മ്മാണം (ഒരു പഞ്ചായത്ത് ഒരു കളിക്കളം പദ്ധതി) പ്രവൃത്തി.",
+            "implementing_agency": "Director Sports Kerala Foundation Thiruvananthapuram",
+            "category": "Sports",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "തളിപ്പറമ്പ നഗരസഭ മൊബൈല്‍ ഡിസ്പെന്‍സറി യുണിറ്റിനു വാഹനം",
+            "implementing_agency": "secretary thaliparamba Municipality",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.78,
+            "concurrence_lakhs": 10.78
+        },
+        {
+            "project_name": "തളിപ്പറമ്പ് നിയോജകമണ്ഡലത്തിലെ വിവിധ വില്ലേജ് ഓഫിസ് ഡിജിറ്റലൈസേഷന്‍",
+            "implementing_agency": "Executive Engineer PWD Electronics Kannur",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 17.5,
+            "concurrence_lakhs": 17.5
+        },
+        {
+            "project_name": "തളിപ്പറമ്പ് ബ്ലോക്കിലെ ചപ്പാരപ്പടവ് ഗ്രാമ പഞ്ചായത്തില്‍\r\na) മണാട്ടി അംഗണവാടി - മുക്കന്‍ കയം റോഡ്, \r\nb) താഴെ എടക്കോം - കൈരളി റോഡ്, \r\nc) കാക്കടവ് - മുല്ലമംഗലം റോഡ്\r\nഎന്നിവ കോണ്‍ക്രീറ്റ് ചെയ്ത് അഭിവൃദ്ധിപ്പെടുത്തല്‍",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "തളിപ്പറമ്പ് നിയോജകമണ്ഡലത്തിലെ GHSS ചട്ടുകപ്പാറ, GVHSS കുറുമാത്തൂര്‍ സ്കൂളുകളില്‍ സ്മാര്‍ട്ട് കമ്പ്യൂട്ടര്‍ ലാബ്‌.",
+            "implementing_agency": "Executive Engineer PWD Electronics Kannur",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 19.85
+        },
+        {
+            "project_name": "തളിപ്പറമ്പ് നിയോജകമണ്ഡലത്തിലെ വിവിധ സ്ഥലങ്ങളില്‍ നാപ്കിന്‍ വെന്‍ഡിങ്ങ് മെഷിന്‍ സ്ഥാപിക്കല്‍",
+            "implementing_agency": "Executive Engineer PWD Electronics Kannur",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കുറുമാത്തൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ \r\na) കൂനം വായനശാല - ചെമ്പിലോട് റോഡ്‌ കോണ്‍ക്രീറ്റ് ചെയ്ത് അഭിവൃദ്ധിപ്പെടുത്തല്‍,\r\nb) എഴാം മൈല്‍ - കാക്കാഞ്ചാല്‍ ചെപ്പന്നൂല്‍ മാപ്പത്ത് വയല്‍ റോഡ്‌ കോണ്‍ക്രീറ്റ് ചെയ്ത് അഭിവൃദ്ധിപ്പെടുത്തല്‍,\r\nc) വെള്ളാരംപാറ - മംഗലംകുണ്ട് റോഡ്‌ അഭിവൃദ്ധിപ്പെടുത്തല്‍,\r\nd) പന്നിയൂര്‍ കുരുമുളക് ഗവേഷണ കേന്ദ്രം റോഡ്‌ കോണ്‍ക്രീറ്റ് ചെയ്ത് അഭിവൃദ്ധിപ്പെടുത്തല്‍.",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "കൊളച്ചേരി ഗ്രാമ പഞ്ചായത്തില്‍ കായച്ചിറ - കൊളച്ചേരി എ.യു.പി സ്കൂള്‍ - കരുമാരത്തില്ലം - കൊളച്ചേരി പാലിച്ചാല്‍ കനാല്‍ റോഡ്‌ നവീകരണം.",
+            "implementing_agency": "Executive Engineer, Pzhassi Irrigation Project Division, Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "1) മാവിച്ചേരി അടിയോട്ടും വയല്‍ - വെള്ളാവ് സ്കൂള്‍ റോഡ്‌ (പരിയാരം GP - 10 ലക്ഷം)\r\n2) തിരുവട്ടൂര്‍അംഗന്‍വാടി - മദ്രസ്സ റോഡ്‌ കോണ്‍ക്രീറ്റ് ചെയ്ത് അഭിവൃദ്ധിപ്പെടുത്തല്‍ (പരിയാരം GP - 10 ലക്ഷം)",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "(എ) ചൂളിയാട് എ.എല്‍.പി സ്കൂള്‍ എടച്ചിറ മുച്ചിലോട്ട് കാവ് റോഡ് കോണ്‍ക്രീറ്റ് ചെയ്ത് അഭിവൃദ്ധിപ്പെടുത്തല്‍ ( മലപ്പട്ടം ജി.പി), (ബി) കിളിയളം ഹരിജന്‍ കോളനി കയരളം യു.പി സ്കൂള്‍ റോഡ് കോണ്‍ക്രീറ്റ് ചെയ്ത് അഭിവൃദ്ധിപ്പെടുത്തല്‍ ( മയ്യില്‍ ജി.പി)",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "(a) Upgradation of  Vesala School - Velluvayal Road with concrete in  KUTTIYATTUR GP, (b) Upgredation of Chemmadam - Thripadika Ambalam Road with concrete in  KUTTIYATTUR GP.",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "MLAADS-2022-23 THALIPARAMBA LAC A)KEEZHATTOOR THITTAYIL PALAM MANTHAMKUNDU ROAD CONCRETE(WARD-31),B)IMPROVEMENT OF KOOVODE KODESWARAM KEEZHATTOOR ROAD NO:4(WARD-25),C)IMPROVEMENT OF CHENIYANKUNNU SMASAANAM ROAD (WARD-25)CH 0/295TO 0/475KM",
+            "implementing_agency": "secretary thaliparamba Municipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "MLAADS-2023-24 THALIPARAMBA LAC BEAUTIFICATION OF MALAPATTAM MUNAMB KADAVU PAALAM.",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD ELECTRICAL DIVISION KANNUR",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "MLAADS-2023-24 THALIPARAMBA LAC-CONSTRUCTION OF GATEWAY BEAUTIFICATION AND INFRASTRUCTURE DEVELOPMENT AT KUPPAM,PARASSINIKKADAVU,MALAPATTAM TOURISM DESTINATIONS",
+            "implementing_agency": "Executive Engineer PWD Building Division Thalassery",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 98.3,
+            "concurrence_lakhs": 98.3
+        },
+        {
+            "project_name": "MLAADS 2023-24 THALIPARAMBA LAC CONSTRUCTION OF BUS SHELTER IN FRONT OF THALIPARAMBA MUNICIPAL BUSSTAND",
+            "implementing_agency": "secretary thaliparamba Municipality",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "MLAADS-2023-24 THALIPARAMBA LAC -CONSTRUCTION OF PALAYAD BRIDGE IN THALIPARAMBA MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER ROADS & BRIDGES DIV KANNUR",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 39.0,
+            "concurrence_lakhs": 39.0
+        },
+        {
+            "project_name": "MLAADS-2023-24 THALIPARAMBA LAC -BEAUTIFICATION OF CHIRAVAKKU TO SRI RAJARAJESWARA TEMPLE ROAD IN THALIPARAMBA MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD ELECTRICAL DIVISION KANNUR",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "MLAADS-2024-25 THALIPARAMBA LAC-THALIPARAMBA EDUCATIONAL&CULTURAL  COMPLEX(HAPPINESS SQUARE)-FINISHING WORKS",
+            "implementing_agency": "Executive Engineer PWD Building Division Thalassery",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 70.0,
+            "concurrence_lakhs": 70.0
+        },
+        {
+            "project_name": "MLAADS-2023-24 THALIPARAMBA LAC -VANNAARAPPAARA-ANDIKKALAM ROAD WORK AT KURUMATHOOR GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "MLAADS-2023-24 THALIPARAMBA LAC-CONSTRUCTION OF BUILDING FOR  PUZHAKULANKARA ANGANVADI IN THALIPARAMBA MUNICIPALITY.",
+            "implementing_agency": "secretary thaliparamba Municipality",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "MLAADS-2023-24 THALIPARAMBA LAC-DEVELOPMENT OF KOLACHERY STADIUM IN KOLACHERY GRAMAPANCHAYATH.",
+            "implementing_agency": "CHIEF ENGINEER SPORTS KERALA FOUNDATION",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "MLAADS-2023-24-THALIPARAMBA LAC-VEHICLE FOR SI-MET COLLEGE OF NURSING THALIPARAMBA.",
+            "implementing_agency": "PRINCIPAL,SI-MET COLLEGE OF NURSING THALIPARAMBA",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 29.2,
+            "concurrence_lakhs": 29.2
+        },
+        {
+            "project_name": "MLAADS-2023-24 THALIPARAMBA LAC -BUS FOR GOVT ENGINEERING COLLEGE KANNUR.",
+            "implementing_agency": "PRINCIPAL,GOVERNMENT ENGINEERING COLLEGE KANNUR.",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 36.0,
+            "concurrence_lakhs": 36.0
+        },
+        {
+            "project_name": "MLAADS-2023-24 THALIPARAMBA LAC-UPGRADATION OF PAVANNUR BALAVADI KOOVAYIL ROAD IN KUTTIYATTOOR GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 22.0
+        },
+        {
+            "project_name": "MLAADS-2023-24 THALIPARABA LAC-UPGRADATION OF KAVILIYOTTUCHAL ANGANVADI ROAD IN MAYYIL GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "MLA ADS-2022-23-THALIPARAMBA-UPGRADATION OF PATTAYAM L.P.SCHOOL-MALATTIL ROAD ROAD IN KOLACHERY GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "MLA ADS 2023-24-THALIPPARAMBA -LAC- CONSTRUCTION OF STADIUM AT NELLIPARAMBA GROUND IN PARIYARAM GP",
+            "implementing_agency": "Director Sports Kerala Foundation Thiruvananthapuram",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "MLAADS- 2023-24-THALIPARAMBA LAC-CONSTRUCTION OF CLASS ROOM FOR PVKNS GLPS  CHAVANAPUZHA.",
+            "implementing_agency": "Executive Engineer PWD Building Division Thalassery",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA ADS-2023-24 Construction of Building for KRC smaraka vayanashala&Grandhalayam mandhamkund Thaliparamba Mnicipality",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "MLA ADS-2022-23 -THALIPARAMBA LAC-SCHOOL BUS FOR1) MORAZHA HSS,2)PACHENI HS,3)KALIKKADAV HS",
+            "implementing_agency": "Deputy Director of Education Kannur",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 66.08,
+            "concurrence_lakhs": 66.08
+        },
+        {
+            "project_name": "MLAADS-2023-24-THALIPARAMBA-LAC-ELAMBERAMPARA AL MAKHAR ROAD TARRING AT KURUMATHUR GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS-2022-23 VEHICLE FOR ODUVALLITHATTU,MAYYIL-CHCS,AMBULANCE FOR MOTHER&CHILD HOSPITAL MANGATUPARAMBA",
+            "implementing_agency": "District Medical Officer Kannur",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 44.61,
+            "concurrence_lakhs": 44.61
+        },
+        {
+            "project_name": "Construction of Smart kitchen and dining room at Govt VHSS Kurumathur - Kurumathur Grama Panchayath",
+            "implementing_agency": "Executive Engineer PWD Building Division Thalassery",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 59.6,
+            "concurrence_lakhs": 59.6
+        },
+        {
+            "project_name": "MLA ADS 2022-23-THALIPARAMBA LAC-Smart Computer Lab at Tagore Vidhyanikethan,Thadikkadav HSS,Mayyil HSS,Morazha HSS.",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD ELECTRONICS TRISSUR",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "MLA ADS-2022-23 Installation of 12NOS Minimast light at various places of Thaliparamba LAC",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 24.0,
+            "concurrence_lakhs": 24.0
+        },
+        {
+            "project_name": "മൊറാഴ ഹയര്‍ സെക്കണ്ടറി സ്കൂള്‍ ബസ്‌ സ്റ്റോപ്പില്‍ ബസ്‌ ഷെല്‍ട്ടര്‍ -ആന്തൂര്‍ നഗരസഭ",
+            "implementing_agency": "Secretary Anthoor Municipality",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തളിപറമ്പ മണ്ഡലത്തിലെ വിവിധ സ്ഥലങ്ങളില്‍ മിനി മാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കല്‍ (12 എണ്ണം )",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 24.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മലപ്പട്ടം ഹയര്‍ സെക്കൻ്‍ററി  സ്കൂള്‍ സ്റ്റോപ്പില്‍ ബസ് ഷെല്‍ട്ടര്‍",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നരിയാടി പാലം ആന്തൂര്‍ നഗരസഭ",
+            "implementing_agency": "Secretary Anthoor Municipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 14.94
+        },
+        {
+            "project_name": "മൊറാഴ ഗവ : U P  സ്കൂള്‍ ന് പുതിയ വാഹനം വാങ്ങല്‍",
+            "implementing_agency": "Deputy Director of Education Kannur",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ചെറുശ്ശേരി സര്‍ഗ്ഗാലായ ഓഡിറ്റൊറിയം നിര്‍മ്മാണം -തളിപറമ്പ മുനിസിപാലിറ്റി",
+            "implementing_agency": "Executive Engineer PWD Building Division Thalassery",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 99.97,
+            "concurrence_lakhs": 99.97
+        },
+        {
+            "project_name": "മഴൂര്‍ കലാവേദി കാഞ്ഞിരങ്ങാട് റോഡ്‌ - കുറുമാത്തൂര്‍ ഗ്രാമ പഞ്ചായത്ത്‌",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "മലപട്ടം  ഹൈ സ്കൂള്‍ -കോട്ടൂര്‍ റോഡ്‌ മലപട്ടം ഗ്രാമ പഞ്ചായത്ത്‌",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "പട്ടായം അഴീക്കോടന്‍ വായനശാല - തീപെട്ടി കമ്പനി റോഡ്‌ - കൊളച്ചേരി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കടംബേരി എല്‍ പി സ്കൂള്‍ ദൂരദര്‍ശന്‍ റോഡ്‌ - ആന്തൂര്‍ നഗരസഭ",
+            "implementing_agency": "Secretary Anthoor Municipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കുമ്മായചൂള മണിയാരമുറ്റം കോളനി കാര്‍കീല്‍ റോഡ്‌ - പരിയാരം ഗ്രാമ പഞ്ചായത്ത്‌",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കുറുമാത്തൂര്‍ ഗവ ഐ ടി ഐ ക്ക് വാഹനം വാങ്ങല്‍",
+            "implementing_agency": "Principal Government ITI  Kurumathur",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.4,
+            "concurrence_lakhs": 20.4
+        },
+        {
+            "project_name": "കോരന്‍ പീടിക യുവശക്തി വായനശാല റോഡില്‍ രണ്ടു കള്‍വര്ട്ടുകള്‍ സ്ഥാപിച്ചു അഭിവൃദ്ധിപെടുത്തല്‍ - അന്തൂര്‍ നഗരസഭ",
+            "implementing_agency": "Secretary Anthoor Municipality",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "മുല്ലക്കൊടി ഫാമിലി വെല്‍ഫയര്‍ സബ് സെന്‍റെര്‍ നിര്‍മ്മാണം -മയ്യില്‍ ഗ്രാമ പഞ്ചായത്ത്‌",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "അടിച്ചേരി താഴത്തുവയല്‍ കൊവ്വന്തല റോഡ്‌ - മലപ്പട്ടം",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "Pulimparamba-Karippool chalathoor Road (0/0 to 1/670)- Thaliparamba municipality",
+            "implementing_agency": "secretary thaliparamba Municipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "Plathottam - Pazhassi canal road (0/000 to 0/770)",
+            "implementing_agency": "secretary thaliparamba Municipality",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "എം എല്‍ എ എ ഡി എസ് -2021-2022- തളിപറമ്പ നിയോജകമണ്ഡലം - കൂനം അങ്കകളരി ഗ്രൗണ്ട് മിനി സ്റ്റേഡിയം നിര്‍മ്മാണം - കുറുമാത്തൂര്‍ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2021-2022",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "മുരിക്കൻ കുന്ന് ഓത്തിക്കണ്ടി റോഡ് (0/000 to 0/235) - കൊളച്ചേരി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 11.57
+        },
+        {
+            "project_name": "മങ്ങാട്ടുപറമ്പ് ഗവ:ഇ കെ എൻ എം സ്ത്രീകളുടെയും കുട്ടികളുടെയും ആശുപത്രിയിൽ പീഡിയാട്രിക് ഐ സി യു സ്ഥാപിക്കൽ",
+            "implementing_agency": "District Medical Officer Kannur",
+            "category": "Healthcare",
+            "fy": "2021-2022",
+            "estimate_lakhs": 29.5,
+            "concurrence_lakhs": 29.5
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "kannur_shri_mv_govindan_master_placeholder"
+}

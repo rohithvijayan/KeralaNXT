@@ -10,18 +10,18 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 2rem 1rem;
+    padding: 80px 1rem 2rem;
 }
 
 @media (min-width: 768px) {
     .home-main {
-        padding: 2rem 2.5rem;
+        padding: 100px 2.5rem 2rem;
     }
 }
 
 @media (min-width: 1024px) {
     .home-main {
-        padding: 3rem;
+        padding: 100px 3rem 3rem;
     }
 }
 
@@ -267,6 +267,27 @@
 
 .sidebar-action-btn:hover .sidebar-action-arrow {
     color: var(--color-primary);
+}
+
+/* Highlight variant for featured actions */
+.sidebar-action-btn-highlight {
+    background: linear-gradient(135deg, rgba(13, 158, 119, 0.08) 0%, rgba(13, 158, 119, 0.12) 100%);
+    border-color: rgba(13, 158, 119, 0.3);
+}
+
+.sidebar-action-btn-highlight:hover {
+    background: linear-gradient(135deg, rgba(13, 158, 119, 0.12) 0%, rgba(13, 158, 119, 0.18) 100%);
+    border-color: rgba(13, 158, 119, 0.5);
+}
+
+.sidebar-action-btn-highlight .sidebar-action-icon {
+    background-color: rgba(13, 158, 119, 0.15);
+    color: #0d9e77;
+}
+
+.sidebar-action-btn-highlight:hover .sidebar-action-icon {
+    background-color: #0d9e77;
+    color: white;
 }
 
 /* Map Section */

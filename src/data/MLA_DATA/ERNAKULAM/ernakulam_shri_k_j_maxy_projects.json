@@ -1,0 +1,585 @@
+{
+    "mla_name": "Shri K. J. Maxy",
+    "constituency": "KOCHI",
+    "district": "Ernakulam",
+    "summary": {
+        "total_expenditure_crores": 23.6758,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 13.573
+            },
+            {
+                "label": "Others",
+                "value_crores": 4.49
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 2.5515
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 1.0038
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 0.986
+            },
+            {
+                "label": "Education",
+                "value_crores": 0.6575
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.414
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "MLA ADS-KOCHI LAC-(2025-26)  CONSTRUCTION OF DRAIN WITH COVER     SLAB AND ROAD  CONCRETING AT  ANGANAWADI  WEST LINK  ROAD  IN WARD  3 OF KUMBALANGI G P -GENERAL CIVIL WORK",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 11.28,
+            "concurrence_lakhs": 11.28
+        },
+        {
+            "project_name": "MLA ADS-KOCHI LAC-(2023-24) RE CONSTRUCTION OF DRAIN AND CONCRETING OF LANE AT T&R CROSS ROAD AND ITS BY LANES IN DIV 68 OF FORT KOCHI MUNICIPAL CORPORATION",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "MLA ADS-KOCHI LAC-(2025-26) കുമ്പളങ്ങി ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 16  പഞ്ചായത്ത് കവല മുതൽ കല്ലഞ്ചേരി വരെ നീളുന്ന റോഡിന്റെയും കാനയുടെയും പുനർനിർമ്മാണം",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 101.06,
+            "concurrence_lakhs": 101.06
+        },
+        {
+            "project_name": "MLA ADS-KOCHI LAC-(2025-26) CONSTRUCTION OF PROTECTION WALL AND ROAD CONCRETING AT KUTTAM VEEDU COLONY ROAD IN WARD 12 OF KUMBALANGI G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 13.35,
+            "concurrence_lakhs": 13.35
+        },
+        {
+            "project_name": "MLA ADS-KOCHI LAC-(2025-26) CONSTRUCTION OF PROTECTION WALL AND ROAD CONCRETING AT KUTTANVEEDU COLONY ROAD IN WARD 12 OF KUMBALANGI G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 13.35,
+            "concurrence_lakhs": 13.35
+        },
+        {
+            "project_name": "MLA ADS-KOCHI LAC-(2024-25)   CONSTRUCTION OF CULTURAL CENTRE AT KAZHUTHUMUTTU OPPOSITE TO VILLAGE OFFICE THOPPUMPADI IN DIV 24 FORT KOCHI",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 54.0,
+            "concurrence_lakhs": 54.0
+        },
+        {
+            "project_name": "MLA ADS-KOCHI LAC-(2024-25)  DRAIN CONSTRUCTION WITH   COVER SLAB AND CONCRETING   OF DLB  BYE LANE LOTUS VILLA PHASE 2  DIVISION 12",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 32.0,
+            "concurrence_lakhs": 32.0
+        },
+        {
+            "project_name": "MLA ADS-KOCHI LAC-(2025-26) CONSTRUCTION  OF DRAIN WITH  COVER SLAB AND ROAD CONCRETING AT RAJEEV GANDHI ROAD   IN WARD 5  OF KUMBALANGHI  G  P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 28.0,
+            "concurrence_lakhs": 28.0
+        },
+        {
+            "project_name": "MLA ADS-KOCHI LAC-(2025-26) MANAYIL THODU NORTH  EAST  LANE CONCRETING   IN WARD 5  OF CHELLANAM  G   P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA ADS-KOCHI LAC-(2025-26) CONSTRUCTION OF CULVERT ACROSS NEDUVELI   NATTUTHODU AND SIDE PROTECTION &COVERING SIAB  IN WARD 1  OF KUMBALANGI G  P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.93,
+            "concurrence_lakhs": 14.93
+        },
+        {
+            "project_name": "MLA ADS-KOCHI LAC-(2025-26) STRENGTHENINIG  OF THODE  BY SIDE  PROTECTION  AND INSTALLATION OF SLAB AT THE EAST SIDE OF CMS BRIDGE    IN WARD 3  OF CHELLANAM G  P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 71.25,
+            "concurrence_lakhs": 71.25
+        },
+        {
+            "project_name": "MLA ADS-KOCHI LAC-(2025-26)  RAISING OF DRAIN AND ROAD CONCRETING FROM ST .JOSEPH CHURCH ROAD TO  DIVINE PROVIDENCE CONVENT ROAD   IN WARD 2  OF KUMBALANGI   G  P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 49.2,
+            "concurrence_lakhs": 49.2
+        },
+        {
+            "project_name": "MLA ADS-KOCHI LAC-(2025-26)  CONSTRUCTION OF  DRAIN AND PAVING INTERLOCKING  TILES AT  MALLATTU BAKERY ROAD    IN WARD 7  OF KUMBALANGI      G  P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 19.35,
+            "concurrence_lakhs": 19.35
+        },
+        {
+            "project_name": "MLA ADS-KOCHI LAC-(2024-25)  CONSTRUCTION OF  PROTECTION WALL  AND   ROAD CONCRETING AT  KUTTANVEEDU COLONY  ROAD   IN WARD 12  OF KUMBALANGI      G  P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 13.35,
+            "concurrence_lakhs": 13.35
+        },
+        {
+            "project_name": "MLA ADS-KOCHI LAC-(2024-25)  CONSTRUCTION OF  DRAIN WITH  COVER SLAB AND ROAD CONCRETING SNDP KAREETHARA ROAD   IN WARD 11  OF KUMBALANGI .   G P.",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 17.18,
+            "concurrence_lakhs": 17.18
+        },
+        {
+            "project_name": "MLA ADS-KOCHI LAC-(2024-25) SIDE WALL CONSTRUCTION AND PLACING COVERING SLAB OF EXSISTING CANAL NEAR JOHN PAUL CHURCH IN DIVISION 23-GENERAL CIVIL WORK",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 27.88,
+            "concurrence_lakhs": 27.88
+        },
+        {
+            "project_name": "MLA ADS-KOCHI LAC-(2025-26) MUKKATH PARAMBU  ROAD SOUTH END PRAM ROAD  DRAIN CONSTRUCTION WITH COVER SLAB AND ROAD CONCRETING  IN DIVISION 23 IN FORTKOCHI-KMC",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 16.29,
+            "concurrence_lakhs": 16.29
+        },
+        {
+            "project_name": "MLA-ADS-2025-26- കൊച്ചി  നിയോജകമണ്ഡലം -\"കൊച്ചി നഗരസഭ ഡിവിഷൻ -24-ചെമ്മീൻസ്  ജംഗ്ഷന്  സമീപം രാമേശ്വരം കനാലിന് കുറുകെ കൽവർട്ട്  നിർമ്മാണം",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "MLA ADS-KOCHI LAC-(2025-26) ROOFING &LANDSCAPING OF LIFE MISSION FLAT AT MUNDAMVELI DIVISION 22--GENERAL CIVIL WORK",
+            "implementing_agency": "SECRETARY , KOCHI MUNCIPAL CORPORATION",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 119.3,
+            "concurrence_lakhs": 119.3
+        },
+        {
+            "project_name": "MLA ADS(2022-23)- CONSTRUCTION OF NEW ANGANWADI NO 97 NEAR KOOVAPADAM WATER TANK  DIVISION 8 -GENERAL CIVIL WORK",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA ADS-2024-25-SITC Of 12 Meter High Mast With 6 Nos. Of 200W LED Flood Lights At 16 Various Locations In Cochin Municipal Corporation",
+            "implementing_agency": "EXECUTIVE ENGINEER, L.S.G.D MUNICIPAL CORPORATION OF KOCHI",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 91.25,
+            "concurrence_lakhs": 91.25
+        },
+        {
+            "project_name": "MLA-ADS-2023-24 St. JOSEPH LANE CONCRETING AND DRAIN CONSTRUCTION IN WARD -8 OF CHELLANAM GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 19.0,
+            "concurrence_lakhs": 19.0
+        },
+        {
+            "project_name": "MLA-ADS-2023-24 CONCRETING OF ELANJICKAL FOOTPATH IN WARD 3 OF CHELLANAM GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA ADS -2023-24 CONSRUCTION OF DRAIN AND COVARING SLAB AND FOOTPATH AT PWD ROAD TO JAWAHAR ROAD IN WARD -8 IN  KUMBALANGI GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 16.4,
+            "concurrence_lakhs": 16.4
+        },
+        {
+            "project_name": "MLA ADS 2024-25 CONSTRUCTION OF PROTECTION WALL ACROSS NEDUVELI NATTUTHODU AND COVER SLAB AT SOUTH SIDE OF TOWER IN WARD-1 OF KUMBALANGI GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 37.9,
+            "concurrence_lakhs": 37.9
+        },
+        {
+            "project_name": "MLA ADS 2024-25 SAID PROTECTION OF THODU NEAR ARAKAPADATH ROAD BY CONSTRUCTING RETAINING WALL AND COVERING IT WITH COVER SALABAT WARD-15 OF KUMBALANGI GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 56.0,
+            "concurrence_lakhs": 56.0
+        },
+        {
+            "project_name": "MLA ADS 2024-25-CONSTRUCTION OF FOOTPATH DRIAN AND CULVERT AT THE SOUTH AND WEST SIDE OF LEJI THEATRE IN WARD-17 OF CHELLANAM GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 31.4,
+            "concurrence_lakhs": 31.4
+        },
+        {
+            "project_name": "MLA-ADS-2024-25-CONSTRUCTION 0F ANGANVADI NO.11 IN WARD-8 OF KUMBALANGI GP-NEAR VELUTHULLY FERRY KATTATHARA LINK ROAD",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 28.4,
+            "concurrence_lakhs": 28.4
+        },
+        {
+            "project_name": "MLA ADS-2024-25 CONSTRUCTION OF OFFICE BUILDING FOR PALLURUTHY BLOCK PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 98.6,
+            "concurrence_lakhs": 98.6
+        },
+        {
+            "project_name": "MLA-ADS 2024-25-CONSTRUCTING PARK-AT WEST SIDE PLOT OF FRIENDS CLUB ROAD IN MUNDAMVELI-22 DIVISION OF KOCHI MUNICIPAL CORPORATION",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 80.0,
+            "concurrence_lakhs": 80.0
+        },
+        {
+            "project_name": "MLA-ADS 2022-23- CLEAN STREET EAST END -DRAIN  CONSTRUCTION  ,SLAB PLACING FOR GOOD TRAVELLING-DIVISION -23 IN KOCHI MUNICIPAL CORPAORATION",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 26.8,
+            "concurrence_lakhs": 26.8
+        },
+        {
+            "project_name": "CONSTRUCTION OF DRAIN WITH COVERING SLAB & TARRING AT MK SIDHAN ROAD & BY LANES IN DIV 11 OF FORT KOCHI",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 16.1,
+            "concurrence_lakhs": 16.1
+        },
+        {
+            "project_name": "CONSTRUCTION OF  OPEN AUDITORIUM NEAR KURUMBA BAGAVATHY TEMPLE",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF ANGANWADI WARD 1-NO-60CHELLANAM GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF THAREPARAMBU BRIDGE APPROCH  FOOTPATH AT WARD 14 OF CHELLANAM GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 32.6,
+            "concurrence_lakhs": 32.6
+        },
+        {
+            "project_name": "SACHIN TENDULKAR FOOTPATH WARD 16 OF KUMBALANGI GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 56.2,
+            "concurrence_lakhs": 56.2
+        },
+        {
+            "project_name": "CONSTRUCTION OF EDAVAZIKKAL BRIDGE APPROACH ROAD AND\r\nCONSTRUCTION OF ROAD FROM EDAVAZHIKKAI- BRIDGE TO GONDU BRIDGE IN WARD l4 OF CHELLANAM GP-General Civil Work",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 39.36,
+            "concurrence_lakhs": 39.36
+        },
+        {
+            "project_name": "CONSTRUCTION OF ANGANWADY AND FAMILY HEALTH CENTRE IN WARD 9 OF KUMBALANGI GP ON NORTH SIDE OF SREENARAYANA DHARMA PRABODHINISAMBHA",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Healthcare",
+            "fy": "2023-2024",
+            "estimate_lakhs": 41.4,
+            "concurrence_lakhs": 41.4
+        },
+        {
+            "project_name": "CONSTRUCTION OF KALATHARA KUTHIRAKOORKKARI ROAD IN CHELLANAM PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 82.0,
+            "concurrence_lakhs": 82.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF ANJLIYTHARA ROAD IN KUMBALANGI GP",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 88.0,
+            "concurrence_lakhs": 88.0
+        },
+        {
+            "project_name": "-CONSTRUCTION OF RETAINING WALL WITH COVER SLAB AND FOOTPATH AT EAST END OF EDAKOCHI FERRY ROAD IN WARD 3 OF KUMBALANGI",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 35.5,
+            "concurrence_lakhs": 35.5
+        },
+        {
+            "project_name": "STRENGTHENING SIDE WALL OF THE CHIRATTAPPALAM ROAD    DIV 1 KOCHI CORPORATION-General Civil Work",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "SIDE PROTECTION WORKS AND APPROACH ROAD CONSTRUCTION OF PADANAKARI SLUICE IN WARD 12 OF KUMBALANGI GP",
+            "implementing_agency": "EXECUTIVE ENGINEER ,MINOR IRRIGATION DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "MLA FUND -CONSTRUCTION OF BUS SHELTER AT NAVY NAGAR GATE IN MUNDAMVELY IN DIVISION NO 22 OF KOCHI MUNCIPAL CORPORATION -GENERAL CIVIL WORK",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.96,
+            "concurrence_lakhs": 11.96
+        },
+        {
+            "project_name": "SUPPLY AND INSTALLATION OF 06 NOS. OF 12 MTR HIGH MAST (MOTORIZED) WITH 6*200W LED FLOOD LIGHTS AT VARIOUS LOCATIONS IN KOCHI LAC, ERNAKULAM DISTRICT.",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 32.78,
+            "concurrence_lakhs": 32.78
+        },
+        {
+            "project_name": "SUPPLY AND INSTALLATION OF 06 NOS OF 12 MTR HIGH MAST (MOTORIZED) WITH 6*200W LED FLOOD LIGHTS AT VARIOUS LOCATIONS IN KOCHI LAC ,ERNAKULAM DISTRICT",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 32.78,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "SUPPLY AND INSTALLATION OF 06 NOS OF 12 MTR HIGH MAST (MOTORISED) WITH 6*200 W LED FLOOD LIGHTS AT VARIOUS LOCATION IN KOCHI LAC ,ERNAKULAM DISTRICT",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 32.78,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "SUPPLY AND INSTALLATION OF 06 NOS OF 12 MTR HIGH MAST (MOTORISED) WITH 6*200W LED FLOOD LIGHTS AT VARIOUS LOCATION IN KOCHI LAC ,ERNAKULAM DISTRICT",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 32.78,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF DRAIN AND LAYING INTERLOCKING TILES IN PULLARDESOM BOSCONAGAR COLONY AT DIV 21",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "Supply and installation of 06 nos of 12 mtr high mast (monitorized) with 6*200w LED flood lights at various locations in kochi lac ,Ernakulam district",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 32.78,
+            "concurrence_lakhs": 32.78
+        },
+        {
+            "project_name": "CONSTRUCTION OF DRAIN IN BYE  ROAD TO SOUTH SIDE OF CBSC EAST OF NOAH MART IN DIVISION 27",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 21.4,
+            "concurrence_lakhs": 21.4
+        },
+        {
+            "project_name": "CONSTRUCTION OF DRAIN AND FOOTPATH AT OPPOSIT SIDE OF CHERIYAKADAVU CHURCH AND NEAR TO ANGANWADI NO.32 IN WARD 5 OF CHELLANAM GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF ROAD AND DRAIN AT A.P JOSEPH BYELANE IN DIVISION 10",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.75,
+            "concurrence_lakhs": 18.75
+        },
+        {
+            "project_name": "CONSTRUCTION  OF DRAIN AND COVERING SLAB AND PROVIDING PAVING TILES AT PYARI JUNCTION NEAR BSNL FISH MARKET NORTH WEST SIDE ROAD O PALLICHAL CANAL IN DIV 11",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.6,
+            "concurrence_lakhs": 11.6
+        },
+        {
+            "project_name": "CONSTRUCTION OF RETAINING WALL WITH COVER SLAB AT SOUTH END OF NEDUVELI NATTUTHODU IN WARD 1 OF KUMBALANGHI G P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 34.6,
+            "concurrence_lakhs": 34.6
+        },
+        {
+            "project_name": "CONSTRUCTION OF ROAD AND SLUICEAT PUTHENKARI ROAD IN WARD 8 OF KUBALANGI GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF DRAIN, FOOTPATH AND CULVERT AT SOUTH SIDE OF KATTIKKATT BRIDGE IN WARD 5 OF CHELLANAM GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.6,
+            "concurrence_lakhs": 18.6
+        },
+        {
+            "project_name": "CONSTRUCTION OF RUBBLE DRAIN AND CONSTRUCTION OF NEW WAY AT BYELANE OF ALFA ACADEMY - MUNDAMVELI ROAD AND DRAIN AND THE PAVING TO LANE NORTH OF ST.MARY'S BAKERY FROM MUNDAMVELI ROAD IN DIV-22 OF KOCHI CORPORATION",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 44.7,
+            "concurrence_lakhs": 44.7
+        },
+        {
+            "project_name": "CONSTRUCTION OF DRAIN AND FOOTPATH NEAR CHALIPPURAM TRANSFORMER IN WARD -11 OF CHELLANAM G.P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF KADAVILPARAMBIL ROAD  IN WARD 16 OF KUMBALANGI GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.7,
+            "concurrence_lakhs": 30.7
+        },
+        {
+            "project_name": "CONSTRUCTION OF AZHIPALAM KUTTAPPASSERY ROAD AND CULVERT IN WARD 18 OF CHELLANAM GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 48.4,
+            "concurrence_lakhs": 48.4
+        },
+        {
+            "project_name": "CONSTRUCTION OF KITCHEN BLOCK AT ST.JOSRPH'S LP SCHOOL , CHERIYAKADAVU",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.75,
+            "concurrence_lakhs": 12.75
+        },
+        {
+            "project_name": "CONSTRUCTION OF DRAIN PROVIDING COVERING SLAB AND INTERLOCK TILES AT ANGLO INDIAN LANE IN DIVISION 23",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.74,
+            "concurrence_lakhs": 15.74
+        },
+        {
+            "project_name": "CONSTRUCTION OF CULVERT PROVIDING COVERING SLAB AND INTERLOCK TILES LAYING AT SHANTHINAGAR COLONY IN DIVISION 08",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 71.25,
+            "concurrence_lakhs": 71.25
+        },
+        {
+            "project_name": "CONSTRUCTION OF ROAD AND DRAIN AT A.P JOSEPH BYE LANE IN DIVISION 10",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.75,
+            "concurrence_lakhs": 18.75
+        },
+        {
+            "project_name": "Providing covering slab and interlock tiles laying at St.SEBASTIAN CHAPPEL ROAD TO AANAKETTU PARAMBU Near shuttle badminton court in div 08",
+            "implementing_agency": "EXECUTIVE ENGINEER, L.S.G.D MUNICIPAL CORPORATION OF KOCHI",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 32.8,
+            "concurrence_lakhs": 32.8
+        },
+        {
+            "project_name": "M V RAMAN ROAD DRAIN AND FOOTPATH IN WARD 17 OF KUMBALANGI GRAMA PANCHAYATH",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "ernakulam_shri_k_j_maxy_placeholder"
+}

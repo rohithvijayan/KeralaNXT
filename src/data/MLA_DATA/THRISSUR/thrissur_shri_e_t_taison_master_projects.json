@@ -1,0 +1,673 @@
+{
+    "mla_name": "Shri E. T. Taison Master",
+    "constituency": "KAIPAMANGALAM",
+    "district": "Thrissur",
+    "summary": {
+        "total_expenditure_crores": 22.5515,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 16.5594
+            },
+            {
+                "label": "Others",
+                "value_crores": 2.8052
+            },
+            {
+                "label": "Education",
+                "value_crores": 1.7664
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 1.294
+            },
+            {
+                "label": "Water Supply",
+                "value_crores": 0.1265
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "KAIPAMANGALAM LAC - MLA ADS 2025-26 - COMPLETION OF INDEPENDENCE ROAD IN WARD 4 OF EDATHIRUTHY GP, MATHILAKAM BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 19.7,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KAIPAMANGALAM LAC - MLA ADS 2025-26 - CONSTRUCTION OF PUTHIYA KAVU WEST MASJID ROAD - SOUTH PORTION IN WARD 04 OF MATHILAKAM GP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 67.1,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KAIPAMANGALAM LAC - MLA-ADS - 2024-25 – CONSTRUCTION OF JANNAH ROAD IN WARD 9 OF MATHILAKAM GP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.4,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KAIPAMANGALAM LAC - MLA-ADS-2025-26 – CONSTRUCTION OF MAHATMA KALASHRISTI  ROAD IN WARD 9 IN ERIYAD GP OF MATHILAKAM BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KAIPAMANGALAM LAC - MLA-ADS-2025-26 – CONSTRUCTION OF AHAMMED ROAD IN WARD 2 OF ERIYAD GP, MATHILAKAM BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KAIPAMANGALAM LAC - MLA-ADS-2025-26 – CONSTRUCTION OF SARVAJANA ROAD IN WARD 19 OF ERIYAD GP, MATHILAKAM BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.35,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KAIPAMANGALAM LAC - MLA-ADS-2025-26 – CONSTRUCTION OF WEST TIPPU SULTHAN VRINDHAVAN LINK ROAD WARD 1 IN SREENARAYANAPURAM GP, MATHILAKAM BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 48.7,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KAIPAMANGALAM LAC- - MLA-ADS-2023-24 – COMPLETION OF DM POTTEKKATT ROAD IN WARD 01 OF EDATHIRUTHY GP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KAIPAMANGALAM LAC - MLA-ADS-2025-26 – CONSTRUCTION OF SNDP ROAD IN WARD 05 OF ERIYAD GP OF MATHILAKAM BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KAIPAMANGALALM LAC - MLA-ADS-2025-26 – CONSTRUCTION OF AMBEDKAR CANAL ROAD IN WARD 07 OF PERINJANAM GP OF MATHILAKAM BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 12.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KAIPAMANGALAM LAC - MLA ADS-2025-26 – CONSTRUCTION OF AYYANKALI ROAD IN WARD 11 OF PERINJANAM GP, MATHILAKAM BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 12.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KAIPAMANGALAM LAC - MLA-ADS-2025-26 – CONSTRUCTION OF SOUHRIDA KALATHERKADAVU LINK ROAD IN WARD 08 IN MATHILAKAM GP OF MATHILAKAM BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 17.1,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KAIPAMANGALAM GP - CONSTRUCTION OF UMANDHARA ELLATHUPARAMBIL ROAD IN WARD 13 OF MATHILAKAM GP, MATHILAKAM BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.9,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KAIPAMANGALAM LAC - MLA-ADS-2025-26 – CONSTRUCTION OF THAMARAKKULAM PUTHIYA ROAD IN WARD 11 OF MATHILAKAM GP, MATHILAKAM BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 32.6,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KAIPAMANGALAM GP - MLA-ADS-2025-26 – CONSTRUCTION OF PUTHUMA BALAWADY ROAD IN WARD 14 OF MATHILAKAM GP, MATHILAKAM BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 24.3,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KAIPAMANGALAM LAC - MLA-ADS-2025-26 – CONSTRUCTION OF AISWARYA ROAD (SECOND REACH) WARD 06 IN KAIPAMANGALAM GP OF MATHILAKAM BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 12.7,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KAIPAMANGALAM LAC- MLA-ADS-2025-26 – CONSTRUCTION OF CO-OPERATIVE LINK ROAD IN WARD 14 OF KAIPAMANGALAM GP OF MATHILAKAM BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KAIPAMANGALAM LAC - MLA-ADS-2025-26 – CONSTRUCTION OF MUSTHAFA MUSLIYAR ROAD, WARD 02 IN PERINJANAM GP OF MATHILAKAM BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KAIPAMANGALAM LAC  - MLA ADS 2025-26 - CONSTRUCTION OF DEEPTHI ANGANWADI ROAD IN WARD 13 OF PERINJANAM GP, MATHILAKAM BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 39.2,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KAIPAMANGALAM LAC -MLA-ADS-2025-26 – CONSTRUCTION OF GOTHURUTH KADAVU ROAD AT WARD 10 IN SN PURAM GP, MATHILAKAM BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 18.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KAIPAMANGALAM LAC- MLA-ADS-2025-26- KARA 60TH COLONY DRAIN WITH FOOTPATH CONSTRUCTION IN EDAVILANGU GP WARD 10, MATHILAKAM BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 22.92,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KAIPAMANGALAM LAC - MLA-ADS-2024-25- CONSTRUCTION OF CC DRAIN AT MULLLANBAZAR-VETERINARY HOSPITAL ROAD (NORTH SIDE OF MULLAN BAZAR CENTER) IN SREENARAYANAPURAM GP IN MATHILAKAM BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KAIPAMANGALAM LA- MLA-ADS-2024-25- SIDE PROTECTION WORK OF BLANGACHAL THODU- ERIYAD GP, WARD 02- MATHILAKAM BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KAIPAMANGALAM LA- MLA ADS 2024-25- IMPROVEMENTS TO VILLAGE OFFICE KADAMBATTUPADAM ROAD IN WARD 07 OF KAIPAMANGALAM GRAMAPANCHAYATH",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KAIPAMANGALAM LAC - MLA ADS 2024-25 - PAVING INTERLOCK TILES AND CONSTRUCTION OF DRAIN FOR KRISHIBHAVAN ROAD TO PERUMTHODU IN WARD 04 OF EDAVILANGU GRAMA PANCHAYATH",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.41,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KAIPAMANGALAM LAC- MLA ADS - 2024-25- PAVING OF CONCRETE TILES ON AL-AMEEN KOCHU MOIDHEEN (CHUNGAM KAPPAL BAZAAR) ROAD IN WARD NO. 16 OF ERIYAD GRAMAPANCHAYATH",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 48.94,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KAIPAMANGALAM LAC - MLA ADS 2024-25 - CONSTRUCTION OF CC DRAIN AND TILE PAVING OF ORMA ROAD IN WARD 13 OF ERIYAD GRAMAPANCHAYATH",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 19.77,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KAIPAMANGALAM LAC - MLA ADS 2024-25 - KAIPAMANGALAM GRAMAPANCHAYATH - WARD 12 - AISWARYA ROAD TILE PAVING",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.15,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "EDAVILANGU GP- WARD 1- SIDE PROTECTION WORK FOR POTHUTHODU NEAR PRIYADHARSHINI ROAD",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കൈപ്പമംഗലം ഗ്രാമപഞ്ചായത്ത് - കൈപ്പമംഗലം നിയോജകമണ്ഡലം ആസ്തി വികസന പദ്ധതി 2024 - 25- കൊപ്രക്കളം കൂരിക്കുഴി മസ്ജിദ് പഞ്ചംപള്ളിറോഡ്  പൂർത്തീകരണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 44.8,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF SNEHASAGARAM ROAD IN WARD 18 OF ERIYAD GP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 17.13,
+            "concurrence_lakhs": 17.13
+        },
+        {
+            "project_name": "CONSTRUCTION OF SNEHATHEERAM ROAD AND DRAIN IN WARD 21 OF ERIYAD G P",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 23.67,
+            "concurrence_lakhs": 23.67
+        },
+        {
+            "project_name": "CONSTRUCTION OF ANGANVADI ROAD IN WARD 14 OF ERIYAD GP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF AKS ROAD IN WARD 1 OF ERIYAD GP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 65.0,
+            "concurrence_lakhs": 65.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF ANGANVADI ROAD IN WARD 14 OF ERIYAD GP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF 117 TH ANGANVADI ROAD  IN WARD 11 OF S N PURAM GP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 19.94,
+            "concurrence_lakhs": 19.94
+        },
+        {
+            "project_name": "CONSTRUCTION OF SNEHATHEERAM ROAD AND DRAINAGE  IN WARD 21 OF ERIYAD G P",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 23.67,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF ARUNODAYAM ANGANAVADI (NO. 5) IN WARD 3 OF EDATHIRUTHY G P",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "Construction of New building above Kaipamangalam police\r\nstatation, KaiapamangaIam Gramapanchayath",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 34.0,
+            "concurrence_lakhs": 34.0
+        },
+        {
+            "project_name": "Narayanamarg road in ward 19 of Kaipamangalam\r\nGramapanchayath,",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 17.62,
+            "concurrence_lakhs": 17.62
+        },
+        {
+            "project_name": "CONSTRUCTION OF NEW BUILDING ABOVE KAIPAMANGALAM POLICE STATION",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 34.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "COMPLETION WORK OF SREENARAYANAPURAM PANCHAYATH OFFICE",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "RAMANKULAM WATER SUPPLY SCHEME- EDATHIRUTHY G P",
+            "implementing_agency": "കേരള വാട്ടര്‍ അതോറിറ്റി",
+            "category": "Water Supply",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.65,
+            "concurrence_lakhs": 12.65
+        },
+        {
+            "project_name": "CONSTRUCTION OF SNEHABHAVAN AT EDATHIRUTHY GRAMAPANCHAYATH",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        },
+        {
+            "project_name": "Construction of Vettukulam Road in ward 7 in Mathilakam G P",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.74,
+            "concurrence_lakhs": 17.74
+        },
+        {
+            "project_name": "Renovation of Sardar First Reach Road in Ward 14,15 & 16 of Edathiruthy Gramapanchayath",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 76.99,
+            "concurrence_lakhs": 76.99
+        },
+        {
+            "project_name": "Construction of Koyakkutti Master Road in Sreenarayanapuram Gramapanchayath in ward 19",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 41.0,
+            "concurrence_lakhs": 41.0
+        },
+        {
+            "project_name": "Construction of Drain in Abdukunjimaster Road in Eriyad Gramapanchayath",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 23.24,
+            "concurrence_lakhs": 23.24
+        },
+        {
+            "project_name": "Edavilangu gramapanchayath- Kara sub centre in ward 11",
+            "implementing_agency": "COST FORD",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.8,
+            "concurrence_lakhs": 30.8
+        },
+        {
+            "project_name": "Construction of Mullathara Subrahmanya Swami Kshethram Road in Edathiruthy Grama Panchayath",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "Construction of Toilet Block in Edvilangu GP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "Construction of Eagle Road in Ward 11 of Edavilangu GP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 21.27,
+            "concurrence_lakhs": 21.27
+        },
+        {
+            "project_name": "Construction of Challibazar-Ambedkar Colony Link Road in Mathilakam GP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "Construction of Priyanka Tippu Sulthan Link Road Tarring in Ward 16 of Kaipamangalam GP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 21.0,
+            "concurrence_lakhs": 21.0
+        },
+        {
+            "project_name": "കയ്പമംഗലം നിയോജകമണ്ഡലം മതിലകം ഗ്രാമ പഞ്ചായത്ത് പതിനേഴാം വാർഡിലെ നാഗയക്ഷിക്കാവ് മാതൃകാ ലിങ്ക് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 19.7,
+            "concurrence_lakhs": 19.7
+        },
+        {
+            "project_name": "കയ്പമംഗലം നിയോജകമണ്ഡലം മതിലകം ഗ്രാമ പഞ്ചായത്തിലെ കളരിപ്പറമ്പ് കഴുവിലങ്ങ് റോഡിന്റെ അവശേഷിക്കുന്ന ഭാഗം, കൾവർട്ട്  എന്നിവ നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 68.46,
+            "concurrence_lakhs": 68.46
+        },
+        {
+            "project_name": "കയ്പമംഗലം നിയോജകമണ്ഡലം ശ്രീനാരായണപുരം ഗ്രാമ പഞ്ചായത്തിലെ 15,17 വാർഡുകളിലെ അതിർത്തി പങ്കിടുന്ന പത്താഴക്കാട് – മൂവ്വപ്പാടം റോഡ് ടൈൽ വിരിക്കൽ",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 35.4,
+            "concurrence_lakhs": 35.4
+        },
+        {
+            "project_name": "കയ്പമംഗലം നിയോജകമണ്ഡലം എറിയാട് ഗ്രാമ പഞ്ചായത്ത് ഇരുപതാം വാർഡിലെ അയ്യാരിൽ പുത്തൻചാലിൽ എ കെ കുഞ്ഞിക്കോമു സാഹിബ് മെമ്മോറിയൽ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "കയ്പ്മംഗലം നിയോജക മണ്ഡലത്തിലെ എറിയാട് ഗ്രാമ പച്ചയത്തിലെ പതിനെട്ടാം വാര്‍ഡിലെ നാല്‍പ്പത്തഞ്ചാം നമ്പര്‍ അംഗന്‍വാടിയുടെ പുനര്‍ നിര്‍മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.64,
+            "concurrence_lakhs": 10.64
+        },
+        {
+            "project_name": "ശ്രീനാരായണപുരം ഗ്രാമ പഞ്ചായത്തിലെ MARMGVHSS ശാന്തിപുരത്തിന്  പ്രിന്റിംഗ്  ലാബ് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA ADS-2022-23  MlA ADS fund share to 45 No.Anganwadi (for smart anganwadi project), ward 18,Eriyad GP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.64,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KAIPAMANGALAM LAC-2022-23, PAVING INTERLOCK TILE FOR MANAPPATUCHAL ROAD, WARD 1, ERIYAD GP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 24.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "MLA ADS 2022-23 KAIPAMANGALAM GP LAC-COSNTRUCTION OF NEW BUILDING FOR SUBCENTRE IN WARD 20 OF KAIPAMANGALAM GP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 39.9,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of Drain in Kalamuri Chaligad Road , Kaipamangalam GP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 69.7,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "MLA ADS 2022-2023-Kaipamangalam LAC-Renovation of Koprakkalam Panjampilli Road in Kaipamangalam GP, Mathilakam BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 62.2,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Retarring and Tile laying of V.P Nair road( from Onapparambu V K Gopalan road in Perinjanam GP to Nedumparambu boardering Mathilakam gp) in Perinjanam gp, Mathilakam BP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ആമണ്ടൂര്‍ ചെന്നറ ക്ഷേത്ര പരിസരത്ത് റോഡ് നിര്‍മ്മാണം, ശ്രീനാരായനാപുരം ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.7,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "MLA ADS 2022-2023 CONSTRUCTION OF  BADARPALLI EMMAD BLOCK LINK ROAD IN WARD 15 OF MATHILAKAM GP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 47.1,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "LACADS2022-23 Construction of Punnakka Basar-SubRegistrar Office Road in Ward 5 of Mathilakam  GP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.34,
+            "concurrence_lakhs": 40.34
+        },
+        {
+            "project_name": "LACADS 2022-23Kaipamangalam LA Construuction of Chanadiparambu Kattuparampil Kshethram Road Ward 15 SN Puram GP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 23.17,
+            "concurrence_lakhs": 23.17
+        },
+        {
+            "project_name": "LACADS-2022-23Construction of Thayavalliyil Kshethram Emmad Link Road Ward 14 Mathilakam GP",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 32.89,
+            "concurrence_lakhs": 32.89
+        },
+        {
+            "project_name": "LACADS 2022-23  Construction of first Floor for Community Library Reading Room in Ward  15 -Kaipamangalam G P",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of  Yuvadhara Road in Ward 8 of Kaipamangalam GramaPanchayat",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "Construction of Drain Ward 8 Edavilangu Grama Panchayat",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.7,
+            "concurrence_lakhs": 12.7
+        },
+        {
+            "project_name": "Construction of Janmaithri Road and Culvert at West side of Kottikkal Temple in ward 12 of Eriyad Grama Panchayat",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 23.35,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പെരിഞ്ഞനം ഗ്രാമപഞ്ചായത്തിലെ 3 വാർഡിലെ 86 നമ്പർ അംഗൻവാടി കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 21.5,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "കൈപ്പമംഗലം നിയോജകമണ്ഡലം ഏറിയാട് കേരളവർമ്മ ഗവ ഹയർസെക്കണ്ടറി സ്ക്കൂൾ അടുത്ത ഘട്ടം നിർമ്മാണം",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ സംരക്ഷണ മിഷന്‍",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 75.0,
+            "concurrence_lakhs": 75.0
+        },
+        {
+            "project_name": "എറിയാട് കേരള വർമ്മ ഹയർ സെക്കൻററി സ്ക്കൂൾ പുതിയ കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "പൊതു വിദ്യാഭ്യാസ സംരക്ഷണ മിഷന്‍",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 75.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പെരിഞ്ഞനം ഗ്രാമപഞ്ചായത്തിൽ മോഡേണ്‍ ക്രിമിറ്റോറിയം പൂർത്തീകരണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": null,
+            "implementing_agency": null,
+            "category": "Others",
+            "fy": null,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "E_T_Taison_Master_MLA_az5prs"
+}

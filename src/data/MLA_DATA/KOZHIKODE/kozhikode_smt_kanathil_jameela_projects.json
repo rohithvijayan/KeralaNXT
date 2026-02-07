@@ -1,0 +1,705 @@
+{
+    "mla_name": "Smt. Kanathil Jameela",
+    "constituency": "QUILANDY",
+    "district": "Kozhikode",
+    "summary": {
+        "total_expenditure_crores": 22.8545,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 11.112
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 4.51
+            },
+            {
+                "label": "Education",
+                "value_crores": 3.93
+            },
+            {
+                "label": "Others",
+                "value_crores": 1.9825
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.5
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.5
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.32
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "ഗവ. വൊക്കേഷണൽ ഹയർ സെക്കണ്ടറി സ്കൂൾ പയ്യോളി-ചുറ്റുമതിലും,ഗേറ്റും നിർമ്മാണം-പയ്യോളി മുനിസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "പുതുക്കോടി ഡ്രൈനേജ് നിർമ്മാണം-തിക്കോടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 18.25,
+            "concurrence_lakhs": 18.25
+        },
+        {
+            "project_name": "എൻ ഏച്ച് ധർമ്മശാസ്താ കനാൽ റോഡ്-പയ്യോളി മുൻസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer Kuttiyadi Irrigation",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പുതിയകുളങ്ങര - എളമ്പിലാട് കനാൽ റോഡ് മൂടാടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer Kuttiyadi Irrigation",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "അരട്ടൻകണ്ടി വെള്ളിലാട്ട് റോഡ്-കൊയിലാണ്ടി മുൻസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "അട്ടവയൽ കനാൽ റോഡ് -കൊയിലാണ്ടി മുൻസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "വള്ളുവക്കുനി മമ്പറം ഗേറ്റ് പാലം റോഡ് നിർമ്മാണം-പയ്യോളി മുൻസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer, Harbour Engineering, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.1,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തേളമ്പറമ്പത്ത് മുക്ക് -കുനിയിൽ താഴെ പാത്ത് വേ-പയ്യോളി മുൻസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "മടോ വീട്ടിൽ മീത്തലെ കുനി കേഞ്ചേരിമുക്ക് റോഡ്- പയ്യോളി മുൻസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "പള്ളിത്താഴ താഴത്തയിൽ ക്ഷേത്രം-കനാൽ റോഡ്-കൊയിലാണ്ടി മുൻസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ആലുള്ള പറമ്പിൽ റോഡ്-പയ്യോളി മുൻസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കൊണ്ടംവള്ളി ക്ഷേത്രം പടിഞ്ഞാറേ നട  റോഡ്-ചെങ്ങോട്ടുകാവ് ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കുന്നത്ത്  മീത്തൽ- തുയ്യത്ത് മീത്തൽ റോഡ്-കൊയിലാണ്ടി മുൻസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കരിമ്പനക്കുഴി താഴെ റോഡ് -കൊയിലാണ്ടി മുൻസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "വള്ളുവക്കുനി മമ്പറം ഗേറ്റ് പാലം റോഡ് നിർമ്മാണം-പയ്യോളി മുൻസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer, Harbour Engineering, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.1,
+            "concurrence_lakhs": 30.1
+        },
+        {
+            "project_name": "തോട്ടുമുഖം പാലം നിർമ്മാണം-മൂടാടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, Harbour Engineering, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "പെരുവട്ടൂർ-ചേരിക്കുന്നുമ്മൽ റോഡ് -കൊയിലാണ്ടി മുൻസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "കാപ്പാട് പൂക്കാട് റോഡ്-ചേമഞ്ചേരി പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "താലോലം ഷെയ്ഖ് പള്ളി റോഡ്-ചേമഞ്ചേരി പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, Harbour Engineering, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 36.2,
+            "concurrence_lakhs": 36.2
+        },
+        {
+            "project_name": "KOYILANDI LAC ADS - 2025-26 - പാണോളിത്താഴം - കമ്മിളിപ്പാടം റോഡ്, ചെങ്ങോട്ട്കാവ് ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "KOYILANDI LAC ADS - 2025-26 - ചിറപ്പുറത്ത്മുക്ക് - നാവട്ടമുക്ക് റോഡ്, തിക്കോടി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "KOYILANDI LAC ADS - 2024-25 - വലിയവയൽകുനി - മന്ദമംഗലം റോഡ് - രണ്ടാം ഘട്ടം, കൊയിലാണ്ടി മുനിസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.3,
+            "concurrence_lakhs": 10.3
+        },
+        {
+            "project_name": "KOYILANDI LAC ADS - 2023-24 - കോരപ്പുഴ ഫിഷ് ലാൻറിംഗ് സെൻറർ പുനർ നിർമ്മാണം - ചേമഞ്ചേരി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "KOYILANDI LAC ADS - 2024-25 - കരിയാംകണ്ടി - പള്ളിക്ക് മീത്തൽ റോഡ് - കൊയിലാണ്ടി മുനിസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "KOYILANDI LAC ADS - 2024-25 - മാവുള്ളകുനി താഴെ - മാളിയേക്കൽ ഫുട്പാത്ത് - ചേമഞ്ചേരി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "KOYILANDI LAC ADS - 2024-25 - കോറോത്ത് ഒതയോത്ത് റോഡ് - കൊയിലാണ്ടി മുനിസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "KOYILANDI LAC ADS - 2024-25 - വിയ്യൂർ ചോർച്ച പാലം റോഡിൽ നിന്നും NH 66 സർവ്വീസ് റോഡിലേയ്ക്കുള്ള റാമ്പ് - കൊയിലാണ്ടി മുനിസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "KOYILANDI LAC ADS -2024-25 - ഏഴുകുടിക്കൽ ഫുട്പാത്ത് - ചെങ്ങോട്ടുകാവ് ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "KOYILANDI LAC ADS - 2024-25  - അരട്ടൻകുന്ന് അംഗൻവാടിയ്ക്ക് പുതിയ കെട്ടിടം (കീഴൂർ - NO. 113) - പയ്യോളി മുനിസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "KOYILANDI LAC ADS - 2024-25 - ചേമഞ്ചേരി സബ് രജിസ്ട്രാർ ഓഫീസ് പ്രവൃത്തി പൂർത്തീകരണം",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 47.0,
+            "concurrence_lakhs": 47.0
+        },
+        {
+            "project_name": "KOYILANDI LAC ADS - 2024-25 - രാരോത്ത്കണ്ടി മുക്ക് വയക്കരക്കണ്ടി കോട്ടക്കൽ താഴെ കുരുന്നൻകണ്ടി കയർ സൊസൈറ്റി വായനശാല റോഡ് - കൊയിലാണ്ടി മുനിസിപ്പാലിറ്റി - സംബന്ധിച്ച്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "KOYILANDI LAC ADS - 2024-25 - പീടികകണ്ടി വെൽഫെയർ സ്കൂൾ റോഡ് - പയ്യോളി മുനിസിപ്പാലിറ്റി - സംബന്ധിച്ച്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.5,
+            "concurrence_lakhs": 12.5
+        },
+        {
+            "project_name": "KOYILANDI LAC ADS - 2024-25 - വള്ളുവക്കുനി - ചെത്തിൽ തോട് റോഡ് - പയ്യോളി മുനിസിപ്പാലിറ്റി - സംബന്ധിച്ച്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "KOYILANDI LAC ADS - 2023-24 - ആവിക്കൽ കൊളാവി പാലം റോഡ് - സംബന്ധിച്ച്",
+            "implementing_agency": "Executive Engineer, Harbour Engineering, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 99.0
+        },
+        {
+            "project_name": "KOYILANDI LAC ADS - 2023-24 - കുന്നോത്ത് ചേർച്ചൻകണ്ടി കനാൽ - കൊയിലാണ്ടി മുനിസിപ്പാലിറ്റി - സംബന്ധിച്ച്",
+            "implementing_agency": "Executive Engineer Kuttiyadi Irrigation",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "KOYILANDI LAC ADS - 2024-25 - അരീക്കുന്ന് കനാൽ റോഡ് നിർമ്മാണം - കൊയിലാണ്ടി മിനുസിപ്പാലിറ്റി - സംബന്ധിച്ച്",
+            "implementing_agency": "Executive Engineer Kuttiyadi Irrigation",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "KOYILANADI LAC ADS - 2024-25 - കാഞ്ഞിരോളി ഡ്രെയിനേജ് കം ഫുട്പാത്ത് - പയ്യോളി മുനിസിപ്പാലിറ്റി - സംബന്ധിച്ച്",
+            "implementing_agency": "Executive Engineer, Harbour Engineering, Kozhikode",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "KOYILANDI LAC ADS - 2024-25 - ചൊറിയം ചാലിൽ ഫുട്പാത്ത് - പയ്യോളി മുനിസിപ്പാലിറ്റി - സംബന്ധിച്ച്",
+            "implementing_agency": "Executive Engineer, Harbour Engineering, Kozhikode",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കൊയിലാണ്ടി LAC ADS - 2024-25 - കോറോത്ത്മുക്ക് - പുതുക്കുടിത്താഴെ റോഡ് - തിക്കോടി ഗ്രാ പ",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കൊയിലാണ്ടി കോടതിയിൽ കുടുംബ കോടതിയ്ക്ക് പ്രത്യേക കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 85.0,
+            "concurrence_lakhs": 85.0
+        },
+        {
+            "project_name": "കുയിപ്പയില്‍ താഴെ റോഡ് - മൂടാടി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, Harbour Engineering, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കോറോത്ത് മുക്ക് പുതുക്കുടി താഴ    റോഡ്  , തിക്കോടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കോറോത്ത് മുക്ക് പുതുക്കുടി താഴ    റോഡ്  , തിക്കോടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കൊയിലാണ്ടി കോടതിയില്‍ കുടുംബകോടതിക്ക് പ്രത്യേകം കെട്ടിടം നിർമ്മിക്കൽ, കൊയിലാണ്ടി മുനിസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 85.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുറുവങ്ങാട് അക്വഡറ്റ് - ചെങ്ങോട്ടുകാവ് കനാൽ റോഡ്, ചെങ്ങോട്ടുകാവ് ഗ്രാമ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer Kuttiyadi Irrigation",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "എന്‍.എച്ച്. സൈരി റോഡ്,  ചേമഞ്ചേരി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ബാലുശ്ശേരി ഗ്രാമ പഞ്ചായത്ത് സ്റ്റേഡിയം നിര്‍മ്മാണം, ബാലുശ്ശേരി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Chief Engineer Sports Kerala Foundation",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഷീ ലോഡ്ജ് - കെട്ടിടം നിര്‍മ്മിക്കല്‍, കൊയിലാണ്ടി മുനിസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 99.0
+        },
+        {
+            "project_name": "പെരുവട്ടൂർ -  അംബ്രോളി കനാൽ റോഡ് , കൊയിലാണ്ടി നഗര സഭ",
+            "implementing_agency": "Executive Engineer Kuttiyadi Irrigation",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 19.5,
+            "concurrence_lakhs": 19.5
+        },
+        {
+            "project_name": "വന്മുഖം ഗവ. ഹൈസ്കൂളിന് ഗ്രൌണ്ട് നിർമ്മാണം, (പഞ്ചായത്തിൽ ഒരു കളിസ്ഥലം പദ്ധതി)",
+            "implementing_agency": "Chief Engineer Sports Kerala Foundation",
+            "category": "Sports",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചോനാണ്ടി പുനത്തിൽ താഴെ റോഡ്, മൂടാടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കാർഗിൽ -  മഠത്തിൽ താഴെ റോഡ്, മൂടാടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ചെറിയക്കാട്ടുകുനി ഞെട്ടിക്കരപാലം ഡ്രെയിനേജ് തോട് സംരക്ഷണം - വാർഡ് - 1, മൂടാടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive engineer, Minor Irrigation",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കല്ലുംപുറത്ത് മുക്ക് വായനശാല റോഡ്, ചെങ്ങോട്ടുകാവ് ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 35.5,
+            "concurrence_lakhs": 35.5
+        },
+        {
+            "project_name": "പയ്യോളി മുനിസിപ്പാലിറ്റിയിൽ 2 റോഡുകൾക്ക് തുക അനുവദിക്കൽ ( മുക്കാടത്ത് മുക്ക് ചെട്ട്യാംവീട്ടിൽ റോഡ്, എൻ.എച്ച് രയരോത്ത് റോഡ്)",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "മേലടി CHC കെട്ടിട നിർമ്മാണം -  2ാം ഘട്ടം",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Healthcare",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കോതമംഗലം ജി.എൽ.പി സ്കൂൾ   പുതിയ കെട്ടിടത്തിൻറെ  ബാലൻസ് പ്രവൃത്തികളും , പുതിയ കിച്ചൻ നിർമ്മാണവും, കൊയിലാണ്ടി മുനിസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചീനതറമ്മൽ പടന്നയിൽ റോഡ്, ചേമഞ്ചേരി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ചെറിയമങ്ങാട് വിരുന്നുകണ്ടി ഡ്രൈനേജ് കം ഫുട്പാത്ത്, കൊയിലാണ്ടി മുനിസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 19.0,
+            "concurrence_lakhs": 19.0
+        },
+        {
+            "project_name": "കോതമംഗലം ജി.എൽ.പി സ്കൂൾ  പുതിയ കെട്ടിടത്തിൻറെ ബാലൻസ് പ്രവൃത്തികളും , പുതിയ അടുക്കള നിർമ്മാണവും -  വാർഡ്  31, കൊയിലാണ്ടി മുനിസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        },
+        {
+            "project_name": "GVHSS കൊയിലാണ്ടിക്ക് VHSE കെട്ടിട നിർമ്മാണം പൂർത്തീകരണം,",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 26.0
+        },
+        {
+            "project_name": "മൂടാടി പഞ്ചായത്ത് ബഡ്സ് സ്കൂൾ നിർമ്മാണം, മൂടാടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "ഗവ.ഹയർ സെക്കണ്ടറി സ്കൂൾ, പന്തലായനി  (ഗേറ്റും ചുറ്റുമതിലും ) - കൊയിലാണ്ടി നഗരസഭ",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ഗവ. വൊക്കേഷണൽ  ഹയർ സെക്കണ്ടറി സ്കൂൾ, കൊയിലാണ്ടി (ഗേറ്റും ചുറ്റുമതിലും) - കൊയിലാണ്ടി നഗരസഭ",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 75.0,
+            "concurrence_lakhs": 75.0
+        },
+        {
+            "project_name": "വളപ്പില്‍ അബു റോഡില്‍ ഡ്രൈനേജ്, വാര്‍ഡ്- 17- ചേമഞ്ചേരി  ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അഭയം കല്ലുംപുറത്ത് റോഡ് - വാര്‍ഡ് 6, ചേമഞ്ചേരി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "അര്‍ബന്‍ ഹെല്‍ത്ത് സെന്‍റര്‍ - ഡിവിഷന്‍ 21, കൊയിലാണ്ടി മുനിസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ഐ.പി.സി. റോഡ് രണ്ടാം ഘട്ടം  - പയ്യോളി നഗരസഭ",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "4 സെന്‍റ് ഫിഷറീസ് കോളനി ഡ്രൈനേജ് - പയ്യോളി മുനിസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കോതേരി മുക്ക്-വല്ലത്തന റോഡ് - വാര്‍ഡ് 3, ചെങ്ങോട്ട് കാവ് ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "അറുവയല്‍ റോഡ് - ഡിവിഷന്‍ 18, കൊയിലാണ്ടി മുനിസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "പുറ്റാണി കുന്ന് അംഗനവാടി - ഡിവിഷന്‍ 3, കൊയിലാണ്ടി മുനിസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "വലിയവയല്‍ കുനി-മന്ദമംഗലം റോഡ് - ഡിവിഷന്‍ 1, കൊയിലാണ്ടി മുനിസിപ്പാലിറ്റി",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "കീഴൂര്‍ തെരു-ഭഗവതി ക്ഷേത്രം റോഡ് - ഡിവിഷന്‍ 20, പയ്യോളി നഗരസഭ",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "നന്ദനാര്‍കുന്ന് - മങ്ങൂല്‍ പാറ റോഡ് - ഡിവിഷന്‍ 3, പയ്യോളി നഗരസഭ",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "സേവനനഗര്‍ ഫുട്പാത്ത് - പയ്യോളി നഗരസഭ",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "45 നമ്പര്‍ ഭജനമഠം അങ്കണവാടി (ഡിവിഷന്‍ 22) - പയ്യോളി നഗരസഭ",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പരപ്പുരയ്ക്കല്‍ മുക്ക് - കണ്ണമ്പത്ത് മുക്ക് റോഡ് , തിക്കോടി ഗ്രാമപഞ്ചായത്ത് (വാര്‍ഡ് 6)",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "ചെങ്ങോട്ടുകാവ്  പ്രാഥമിക ആരോഗ്യകേന്ദ്രം  പുതിയ കെട്ടിടത്തിൻ്റെ  മുറ്റം ടൈൽപാകൽ, അനുബന്ധ മതിൽ നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Healthcare",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കാരാട്ടുകണ്ടി മുക്ക് - എടവനക്കണ്ടി താഴെ റോഡ് , വാർഡ് 8 ,തിക്കോടി ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 19.0,
+            "concurrence_lakhs": 19.0
+        },
+        {
+            "project_name": "ഇരിങ്ങൽ പകൽവീട് പുതിയ കെട്ടിടം രണ്ടാംഘട്ട നിർമ്മാണം, പയ്യോളി നഗരസഭ",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2021-2022",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 22.0
+        },
+        {
+            "project_name": "ശ്രീനാരായണ ഭജനമഠം യു. പി. സ്കൂൾ പുതിയ കെട്ടിടം രണ്ടാംഘട്ട നിർമ്മാണം, പയ്യോളി നഗരസഭ",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 28.0,
+            "concurrence_lakhs": 28.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "kozhikode_smt_kanathil_jameela_placeholder"
+}

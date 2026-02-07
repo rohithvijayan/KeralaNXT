@@ -1,0 +1,469 @@
+{
+    "mla_name": "Shri M. M. Mani",
+    "constituency": "UDUMBANCHOLA",
+    "district": "Idukki",
+    "summary": {
+        "total_expenditure_crores": 21.2701,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 8.0688
+            },
+            {
+                "label": "Others",
+                "value_crores": 7.4716
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 3.754
+            },
+            {
+                "label": "Education",
+                "value_crores": 1.1757
+            },
+            {
+                "label": "Sports",
+                "value_crores": 0.5
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.3
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "രാജാക്കാട് ഗ്രാമപഞ്ചായത്തിലെ ഡെമൻപാലം - പന്നിയാർകവല - മമ്മട്ടിക്കാനം റോഡ്",
+            "implementing_agency": "Secretary, Rajakkadu Grama Panchayath",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വണ്ടൻമേട് ഗ്രാമപഞ്ചായത്തിലെ ആലഞ്ചേരിപടി - എൻ.എസ്.എസ്. കരയോഗംപടി റോഡ്",
+            "implementing_agency": "Secretary, Vandenmedu Grama Panchayath",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 13.83,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പാമ്പാടുംപാറ  ഗ്രാമപഞ്ചായത്തിലെ ദേവഗിരി - അമ്മാവൻപടി - മുണ്ടിയെരുമ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Kerala State Nirmithy Kendra Muttom",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പാമ്പാടുംപാറ  ഗ്രാമപഞ്ചായത്തിലെ ഇല്ലപ്പാക്കാട്ട് - മന്നാക്കുടി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Kerala State Nirmithy Kendra Muttom",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കരുണാപുരം  ഗ്രാമപഞ്ചായത്തിലെ ഉദയ പബ്ലിക്ക് ലൈബ്രറി കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "Kerala State Nirmithy Kendra Muttom",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വണ്ടൻമേട് ഗ്രാമപഞ്ചായത്തിലെ മുത്തുവയലിൽ പടി -  ബൌണ്ടറി റോഡ് കോൺക്രീറ്റിംഗ്",
+            "implementing_agency": "Kerala State Nirmithy Kendra Muttom",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വണ്ടൻമേട് ഗ്രാമപഞ്ചായത്തിലെ കൂട്ടാർ പടി - തോട്ടക്കട പടി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Kerala State Nirmithy Kendra Muttom",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഉടുമ്പൻചോല ഗ്രാമപഞ്ചായത്തിന് ആംബുലൻസ് വാങ്ങൽ",
+            "implementing_agency": "Secretary, Udumbanchaola Grama Panchayath",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 29.36,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെടുങ്കണ്ടം ഗ്രാമപഞ്ചായത്തിലെ എസ്.എം.ഇ. നഴ്സിംഗ് കോളേജ് റോഡിൽ പാലം നിർമ്മാണം",
+            "implementing_agency": "Secretary, Nedumkandam Grama Panchayath",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.25,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "രാജാക്കാട് ഗ്രാമപഞ്ചായത്തിലെ രാജാക്കാട് ക്ഷീര വ്യവസായ സഹകരണ സംഘം കെട്ടിടം (10 ലക്ഷം),  ചെരിപുറം കോളനി - ഉറമ്പിക്കൽ പുരയിടം ഭാഗം റോഡ് (10 ലക്ഷം), മുന്നൂറേക്കർ - ജാനകി എസ്റ്റേറ്റ് റോഡ് (25 ലക്ഷം) ആകെ 45 ലക്ഷം",
+            "implementing_agency": "Secretary, Rajakkadu Grama Panchayath",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "രാജകുമാരി  ഗ്രാമപഞ്ചായത്തിലെ കുമ്പപ്പാറ - മേപ്പാറ റോഡ്",
+            "implementing_agency": "Secretary, Rajakumari Grama Panchayath",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 26.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഉടുമ്പൻചോല  ഗ്രാമപഞ്ചായത്തിലെ പാപ്പൻപാറ കുടിവെള്ള പദ്ധതി (25 ലക്ഷം), എലപ്പാറ - കാരിത്തോട് റോഡ് (പങ്കജം വഴി )(20 ലക്ഷം) ആകെ 45 ലക്ഷം",
+            "implementing_agency": "Secretary, Udumbanchaola Grama Panchayath",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ശാന്തൻപാറ  ഗ്രാമപഞ്ചായത്തിലെ പൂപ്പാറ ഗ്രാമപഞ്ചായത്ത് കംഫർട്ട് സ്റ്റേഷൻ നിർമ്മാണം",
+            "implementing_agency": "Secretary,Santhanpara Grama Panchayath",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "സേനാപതി ഗ്രാമപഞ്ചായത്തിലെ ആനച്ചാൽ - വട്ടപ്പാറ - മേത്താപ്പ് റോഡ് (25 ലക്ഷം), മുനിയറക്കുന്ന് - മുക്കുടിൽ പടി റോഡ് (20 ലക്ഷം) ആകെ 45 ലക്ഷം",
+            "implementing_agency": "Secretary, Senapathy Grama Panchayath",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പാമ്പാടുംപാറ  ഗ്രാമപഞ്ചായത്തിലെ  തേർഡ് ക്യാമ്പ് ഇൻഡോർ ഷട്ടിൽ കോർട്ട് നിർമ്മാണം",
+            "implementing_agency": "Secretary, Pampadumpara  Grama Panchayath",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെടുങ്കണ്ടം ഗ്രാമപഞ്ചായത്തിലെ കൈലാസ് നഗർ - പള്ളിയാടി പടി - കുരിശുപള്ളിപ്പടി റോഡ് (10 ലക്ഷം), ആശാരികണ്ടം - അംഗൻവാടി പടി - RDH കോളനി റോഡ് (15 ലക്ഷം), മഞ്ഞപ്പെട്ടി - എട്ടുമുക്ക് - ഉപ്പുകണ്ടം റോഡ് (20 ലക്ഷം) ആകെ 45 ലക്ഷം",
+            "implementing_agency": "Secretary, Nedumkandam Grama Panchayath",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        },
+        {
+            "project_name": "കരുണാപുരം  ഗ്രാമപഞ്ചായത്തിലെ ചിന്നൻകോളനി കലുങ്ക് നിർമ്മാണം",
+            "implementing_agency": "Secretary,Karunapuram Grama Panchayath",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഇരട്ടയാർ ഗ്രാമപഞ്ചായത്തിലെ ഈറ്റപുറം പടി - PHC പടി റോഡ് (25 ലക്ഷം), കണ്ടത്തിൽപടി - കുരിശുമല റോഡ് (20 ലക്ഷം) ആകെ 45 ലക്ഷം",
+            "implementing_agency": "Secretary, Erattayar Grama Panchayath",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വണ്ടൻമേട് ഗ്രാമപഞ്ചായത്തിലെ  മാടവന പടി - പുല്ലുമാരി പടി റോഡ് നവീകരണം",
+            "implementing_agency": "Secretary, Vandenmedu Grama Panchayath",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഗവ. ഹൈസ്കൂൾ, രാജകുമാരി - യിലേക്ക് സ്കൂൾ ബസ്  വാങ്ങൽ",
+            "implementing_agency": "Deputy Director of Education,Idukki",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 18.5,
+            "concurrence_lakhs": 18.44
+        },
+        {
+            "project_name": "പാമ്പാടുംപാറ ഗ്രാമപഞ്ചായത്തിലെ  ഗവ. എച്ച്.എസ്.എസ്. കല്ലാർ, മുണ്ടിയെരുമ  - ന് കളിസ്ഥലം നിർമ്മാണം",
+            "implementing_agency": "Managing Director ,Sports Kerala Foundation,Vellayambalam, Thiruvananthapuram",
+            "category": "Sports",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ഗവ. ഹൈസ്കൂൾ ശാന്തൻപാറ, ഗവ. ഹൈസ്കൂൾ കല്ലാർ, ചോറ്റുപാറ, ഗവ. എൽ.പി. സ്കൂൾ തേർഡ് ക്യാമ്പ് എന്നീ സ്കൂളുകൾക്ക്  ബസ് വാങ്ങൽ",
+            "implementing_agency": "Deputy Director of Education,Idukki",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 69.07,
+            "concurrence_lakhs": 62.54
+        },
+        {
+            "project_name": "കരുണാപുരം, ഇരട്ടയാര്‍, പാമ്പാടുംപാറ എന്നീ  ഗ്രാമപഞ്ചായത്തുകളിലെ വിവിധ ഭാഗങ്ങളില്‍ LED മിനിമാസ്റ്റ് / ഹൈമാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കല്‍",
+            "implementing_agency": "Executive Engineer, LSGD, Idukki",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.65,
+            "concurrence_lakhs": 47.19
+        },
+        {
+            "project_name": "നെടുങ്കണ്ടം ഗ്രാമപഞ്ചായത്തിലെ വിവിധ ഭാഗങ്ങളില്‍ LED മിനിമാസ്റ്റ് / ഹൈമാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കല്‍",
+            "implementing_agency": "Executive Engineer, LSGD, Idukki",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 55.65,
+            "concurrence_lakhs": 51.88
+        },
+        {
+            "project_name": "നെടുങ്കണ്ടം CPAS കോളേജ് ഓഫ് ടീച്ചർ എഡ്യൂക്കേഷൻ - ന് കെട്ടിടനിർമ്മാണം",
+            "implementing_agency": "Executive Engineer, LSGD, Idukki",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 300.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കരുണാപുരം ഗ്രാമപഞ്ചായത്തിലെ താഴവനപ്പടി - മുണ്ടക്കൽപടി റോഡിൽ പാലം നിർമ്മാണം",
+            "implementing_agency": "Secretary,Karunapuram Grama Panchayath",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "ഉടുമ്പൻചോല നിയോജകമണ്ഡലത്തിലെ രാജകുമാരി, രാജാക്കാട്, ശാന്തൻപാറ, ഉടുമ്പൻചോല എന്നീ പഞ്ചായത്തുകളിലെ വിവിധ ഭാഗങ്ങളിൽ ഹൈമാസ്റ്റ് / മിനിമാസ്റ്റ് ലൈറ്റുകൾ സ്ഥാപിക്കൽ",
+            "implementing_agency": "Executive Engineer, LSGD, Idukki",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 95.4,
+            "concurrence_lakhs": 93.84
+        },
+        {
+            "project_name": "നെടുങ്കണ്ടം ഗ്രാമപഞ്ചായത്തിലെ നെടുങ്കണ്ടം ബസ് സ്റ്റാന്‍റില്‍ ബസ് ഷെല്‍ട്ടര്‍ സ്ഥാപിക്കല്‍",
+            "implementing_agency": "Executive Engineer, LSGD, Idukki",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 98.0,
+            "concurrence_lakhs": 98.0
+        },
+        {
+            "project_name": "രാജാക്കാട് ബസ് സ്റ്റാന്‍റ്, ശാന്തന്‍പാറ പഞ്ചായത്ത് ഓഫീസിന് മുന്‍വശം എന്നിവിടങ്ങളില്‍ ബസ് ഷെല്‍ട്ടറുകള്‍ സ്ഥാപിക്കല്‍",
+            "implementing_agency": "Executive Engineer, LSGD, Idukki",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 38.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "രാജകുമാരി, ശാന്തന്‍പാറ, ഉടുമ്പന്‍ചോല, നെടുങ്കണ്ടം, പാമ്പാടുംപാറ, ഇരട്ടയാര്‍, വണ്ടന്മേട് എന്നീ പഞ്ചായത്തുകളിലെ വിവിധ ഭാഗങ്ങളില്‍ ബസ് ഷെല്‍ട്ടറുകള്‍ സ്ഥാപിക്കല്‍",
+            "implementing_agency": "Executive Engineer, LSGD, Idukki",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 99.8,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെടുങ്കണ്ടം ഗ്രാമപഞ്ചായത്തിലെ നെടുങ്കണ്ടം - കിഴക്കേക്കവല ബൈപാസ് റോഡില്‍ കുരിശുപള്ളിക്കവല - സെന്‍റ് സെബാസ്റ്റ്യന്‍സ് ചര്‍ച്ച് - ജില്ലാ ആശുപത്രി വരെയുള്ള ഭാഗം കോണ്‍ക്രീറ്റ് ചെയ്യല്‍",
+            "implementing_agency": "Project engineer, District Nirmithi Kendram, Idukki",
+            "category": "Healthcare",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "ഇരട്ടയാര്‍ ഗ്രാമപഞ്ചായത്തിലെ ആശാരിക്കവല - കോടാലിക്കവല- ഇരട്ടയാര്‍ നോര്‍ത്ത് റോഡ്",
+            "implementing_agency": "Secretary, Erattayar Grama Panchayath",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "നെടുങ്കണ്ടം ഗ്രാമപഞ്ചായത്തിലെ എള്ളുകാലാപ്പടി -മേട്ടകിൽ റോഡ് കോൺക്രീറ്റിംഗ്",
+            "implementing_agency": "Secretary, Nedumkandam Grama Panchayath",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "സേനാപതി ഗ്രാമപഞ്ചായത്തിലെ  ടവർപടി -മുക്കുടി കോളനി- ടവർപടി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Secretary, Senapathy Grama Panchayath",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "സേനാപതി ഗ്രാമപഞ്ചായത്തിലെ മുനിയറകുന്ന്-തൊട്ടിയിൽ റോഡ്  നിർമ്മാണം",
+            "implementing_agency": "Secretary, Senapathy Grama Panchayath",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ഉടുമ്പൻചോല ഗ്രാമപഞ്ചായത്തിലെ  നാൽപ്പതേക്കർ- പുതകിൽ  റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Secretary, Udumbanchaola Grama Panchayath",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഉടുമ്പൻചോല ഗ്രാമ പഞ്ചായത്തിലെ  കാരിത്തോട് -നാൽപ്പതേക്കർ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Secretary, Udumbanchaola Grama Panchayath",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ഉടുമ്പൻചോല ഗ്രാമപഞ്ചായത്തിലെ ഉടുമ്പൻചോല -വല്ലറക്കാൻപാറ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Secretary, Udumbanchaola Grama Panchayath",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ഉടുമ്പൻചോല ഗ്രാമപഞ്ചായത്തിലെ  ആറുമുക്കുപടി -ഏലപ്പാറ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Secretary, Udumbanchaola Grama Panchayath",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ഇരട്ടയാർ ഗ്രാമപഞ്ചായത്തിലെ ഞാറക്കവല -കുപ്പച്ചാംപടി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Secretary, Erattayar Grama Panchayath",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കരുണാപുരം ഗ്രാമപഞ്ചായത്തിലെ  ചാലക്കുടിമേട് -കനകക്കുന്ന്  റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Secretary,Karunapuram Grama Panchayath",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "പാമ്പാടുംപാറ ഗ്രാമപഞ്ചായത്തിലെ  പാമ്പാടുംപാറ -ആദിയാർപുരം  റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Secretary, Pampadumpara  Grama Panchayath",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "നെടുംകണ്ടം കെ എസ് ആർ ടി സി  ഓപ്പറേറ്റിംഗ് സെൻററിന്  ഗ്രൌണ്ട് നിർമ്മാണം",
+            "implementing_agency": "Project engineer, District Nirmithi Kendram, Idukki",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "രാജകുമാരി ഗ്രാമപഞ്ചായത്തിലെ രാജകുമാരി കുടുംബാരോഗ്യ കേന്ദ്രത്തിന്  കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "Secretary, Rajakumari Grama Panchayath",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "രാജാക്കാട് ഗ്രാമപഞ്ചായത്തിലെ  വലിയ മുല്ലക്കാനം -മന്നാക്കുടി -പോസ്റ്റ് ഓഫീസ് പടി  റോഡ് നിർമ്മാണം",
+            "implementing_agency": "Secretary, Rajakkadu Grama Panchayath",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "വണ്ടൻമേട് ഗ്രാമപഞ്ചായത്തിലെ  ഹേമക്കടവ്- പളിയക്കുടി റോഡ് ടാറിംഗും സംരക്ഷണ ഭിത്തി നിർമ്മാണവും",
+            "implementing_agency": "Secretary, Vandenmedu Grama Panchayath",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "നെടുങ്കണ്ടം ഗ്രാമപഞ്ചായത്തിലെ RDH കോളനി- താലൂക്ക് ആശുപത്രി  റോഡ് കോൺക്രീറ്റിംഗും കൈവരി നിർമ്മാണവും",
+            "implementing_agency": "Secretary, Nedumkandam Grama Panchayath",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 26.3,
+            "concurrence_lakhs": 26.3
+        },
+        {
+            "project_name": "രാജകുമാരി , രാജാക്കാട് , ശാന്തൻപാറ, ഉടുമ്പൻചോല,സേനാപതി  എന്നീ ഗ്രാമപഞ്ചായത്തുകളിലെ  വിവിധ സ്ഥലങ്ങളിൽ  എൽ ഇ ഡി ഹൈമാസ്റ്റ് / മിനിമാസ്റ്റ് ലൈറ്റുകൾ സ്ഥാപിക്കൽ",
+            "implementing_agency": "Executive Engineer, LSGD, Idukki",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 86.4,
+            "concurrence_lakhs": 86.33
+        },
+        {
+            "project_name": "പാമ്പാടുംപാറ, ഇരട്ടയാർ,കരുണാപുരം, വണ്ടൻമേട് , നെടുങ്കണ്ടം എന്നീ ഗ്രാമപഞ്ചായത്തുകളിലെ  വിവിധ സ്ഥലങ്ങളിൽ  എൽ ഇ ഡി ഹൈമാസ്റ്റ് / മിനിമാസ്റ്റ് ലൈറ്റുകൾ സ്ഥാപിക്കൽ",
+            "implementing_agency": "Executive Engineer, LSGD, Idukki",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 87.3,
+            "concurrence_lakhs": 86.87
+        },
+        {
+            "project_name": "നെടുങ്കകണ്ടം ഗ്രാമപഞ്ചായത്തിലെ  കരടിയള്ള്   - കൈലാസപ്പാറ റോഡ് കോൺക്രീറ്റിംഗ്",
+            "implementing_agency": "Regional Manager,Wapcos",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നെടുങ്കണ്ടം ഗ്രാമപഞ്ചായത്തിലെ കരടിയള്ള്-കൈലാസപ്പാറ റോഡ് കോൺക്രീറ്റിംഗ്",
+            "implementing_agency": "Regional Manager,Wapcos",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കരുണാപുരം ഗ്രാമപഞ്ചായത്തിലെ  രാജേന്ദ്രപ്രസാദ് മെമ്മോറിയൽ സ്കൂളിലേക്കുള്ള റോഡിൽ പാലം നിർമ്മാണം",
+            "implementing_agency": "Block Development Officer Nedumkandam",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ഇരട്ടയാർ ഗ്രാമപഞ്ചായത്തിലെ     ചെമ്പകപ്പാറ കുടുംബാരോഗ്യകേന്ദത്തിന് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "Secretary, Erattayar Grama Panchayath",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "idukki_shri_m_m_mani_placeholder"
+}

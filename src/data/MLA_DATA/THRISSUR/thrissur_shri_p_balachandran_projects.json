@@ -1,0 +1,365 @@
+{
+    "mla_name": "Shri P. Balachandran",
+    "constituency": "THRISSUR",
+    "district": "Thrissur",
+    "summary": {
+        "total_expenditure_crores": 16.2872,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 5.3
+            },
+            {
+                "label": "Others",
+                "value_crores": 4.9149
+            },
+            {
+                "label": "Education",
+                "value_crores": 2.5532
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 1.3094
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 1.2097
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 1.0
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "THRISSUR KSRTC BUS STAND CONSTRUCTION -FIRST STAGE",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 250.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF OPEN AIR AUDITORIUM, OPEN GYM, AND PATH WAY   AT THRISSUR TOWN HALL",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 100.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "SASTRI ROAD CONSTRUCTION- 2 ND PHASE",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.3,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "2023-2024 - THRISSUR CORPORATION- GOVT.VILLADAM HIGHER SECONDARY SCHOOL STAGE TRUSS WORK CONSTRUCTION",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 70.02,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "MUKKATTUKARA GOVT.L P SCHOOL BUILDING CONSTRUCTION  STAGE-3",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 64.3,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of Avilissery road & kalunk At Thrissur Corporation",
+            "implementing_agency": "എല്‍.എസ്. ജി.ഡി, തൃശ്ശൂര്‍ കോര്‍പ്പറേഷന്‍",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "THRISSUR CORPORATION DIVISION 7,8- SIDEWALL PROTECTION WORKS AT PEECHI IRRIGATION CANAL- KUTTIYAL BRIDGE , HEALTH CENTER CANAL",
+            "implementing_agency": "ഇറിഗേഷന്‍ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "THRISSUR CORPORATION- DIVISION 8- SURYANAGAR PEREPADAM ROAD CONSTRUCTION - ( MLA ADS- 2023-24)",
+            "implementing_agency": "എല്‍.എസ്. ജി.ഡി, തൃശ്ശൂര്‍ കോര്‍പ്പറേഷന്‍",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF NEW BUILDING FOR PHC OLLUKKARA",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Healthcare",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "PROCURING 5 DIALYSIS MACHINES FOR THRISSUR GENERAL HOSPITAL (MLA ADS-2023-24)",
+            "implementing_agency": "ജില്ല മെഡിക്കല്‍ ഓഫീസര്‍ (ആരോഗ്യം) തൃശ്ശൂര്‍",
+            "category": "Healthcare",
+            "fy": "2023-2024",
+            "estimate_lakhs": 33.14,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF LIFT ROOM IN GENERAL HOSPITAL ( THRISSUR MLA - ADS- 2023-24)",
+            "implementing_agency": "ജില്ല മെഡിക്കല്‍ ഓഫീസര്‍ (ആരോഗ്യം) തൃശ്ശൂര്‍",
+            "category": "Healthcare",
+            "fy": "2023-2024",
+            "estimate_lakhs": 47.8,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "GOVT.U.P.SCHOOL OLARIKKARA - FIRST FLOOR CONSTRUCTION",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "THRISSUR CORPORATION VILLADOM - NELLIKAD ROAD RAISING TARRING SIDE CONCRETING & CONSTRUCTION OF DRAIN & COVER SLAB AT DIVISION 8",
+            "implementing_agency": "എല്‍.എസ്. ജി.ഡി, തൃശ്ശൂര്‍ കോര്‍പ്പറേഷന്‍",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "THRISSUR CORPORATION DIVISION 6- MILMA -INDIANE GAS GODOWN ROAD CANAL BRIDGE CONSTRUCTION WORK",
+            "implementing_agency": "എല്‍.എസ്. ജി.ഡി, തൃശ്ശൂര്‍ കോര്‍പ്പറേഷന്‍",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "THRISSUR CORPORATION DIVISION 6- RAMAVARMAPURAM MILMA -INDIANE GAS GODOWN ROAD CANAL BRIDGE CONSTRUCTION WORK",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "Construction of Tens road & kalunk At corporation",
+            "implementing_agency": "എല്‍.എസ്. ജി.ഡി, തൃശ്ശൂര്‍ കോര്‍പ്പറേഷന്‍",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.8,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "THRISSUR CORPORATION - DIVISION-20- Construction of Sasthri Road",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 45.6,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "DIV-12 -  CONSTRUCTION OF DRAIN & COVER SLAB FROM CHEMBOOKKAVU  CENTER TO KARTHYANIAMBALAM TEMPLE",
+            "implementing_agency": "എല്‍.എസ്. ജി.ഡി, തൃശ്ശൂര്‍ കോര്‍പ്പറേഷന്‍",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തൃശൂർ കോർപ്പറേഷൻ ഡിവിഷൻ 23 ൽ ബദാനിയ ആശ്രമം റോഡ് ടൈൽ വിരിക്കൽ & കവർ സ്ലാബ് ഇടൽ  പ്രവൃത്തി",
+            "implementing_agency": "എല്‍.എസ്. ജി.ഡി, തൃശ്ശൂര്‍ കോര്‍പ്പറേഷന്‍",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 31.5,
+            "concurrence_lakhs": 23.6
+        },
+        {
+            "project_name": "തൃശൂർ മുൻസിപ്പൽ കോർപ്പറേഷൻ ഡിവിഷൻ 8 ൽ വിൽവട്ടം പ്രൈമറി ഹെൽത്ത് സെന്റർ മുതൽ കല്ല്യാൺ ഫ്ലാറ്റ് വരെയുള്ള റോഡിൽ കാന പണിത് കവർ സ്ലാബ് ഇടല്‍",
+            "implementing_agency": "പൊതുമരാമത്ത് റോഡ്സ് ഡിവിഷന്‍",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "G.L.P.S MUKKATTUKKARA-2nd Phase",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 42.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തൃശ്ശൂർ  കോര്‍പ്പറേഷനിലെ 12 കേന്ദ്രങ്ങളിൽ ഹൈ മാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കുന്ന പ്രവൃത്തി",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 62.37,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തൃശ്ശൂർ മുനിസിപ്പല്‍ കോർപ്പറേഷനിലെ 9 സ്ഥലങ്ങളില്‍ മിനിമാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കുന്ന പ്രവൃത്തി",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 9.64,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തൃശൂർ നിയോജക മണ്ഡലം ഗവ യു പി സ്കൂൾ അരണാട്ടുകര പുതിയ കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 39.0,
+            "concurrence_lakhs": 39.0
+        },
+        {
+            "project_name": "തൃശൂർ നിയോജകമണ്ഡലം കോർപ്പറേഷൻ പരിധിയിലെ  4 ജങ്ക്ഷനുകളിൽ ഹൈമാസ്റ്റ് വിളക്കുകൾ സ്ഥാപിക്കുന്ന പ്രവൃത്തി",
+            "implementing_agency": "എല്‍.എസ്. ജി.ഡി, തൃശ്ശൂര്‍ കോര്‍പ്പറേഷന്‍",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 24.48,
+            "concurrence_lakhs": 24.48
+        },
+        {
+            "project_name": "തൃശൂർ കോർപ്പറേഷൻ പരിധിയിൽ 4 ജംക്ഷനിൽ ഹൈമാസ്റ്റ് വിളക്കുകൾ സ്ഥാപിക്കൽ",
+            "implementing_agency": "എല്‍.എസ്. ജി.ഡി, തൃശ്ശൂര്‍ കോര്‍പ്പറേഷന്‍",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 24.48,
+            "concurrence_lakhs": 24.48
+        },
+        {
+            "project_name": "പൂത്തോൾ ഡിവിഷൻ 38ൽ കുരുവത്ത് ലൈനിൽ കാന, കവർസ്ലാബ് എന്നിവയുടെ നിർമ്മാണം",
+            "implementing_agency": "എല്‍.എസ്. ജി.ഡി, തൃശ്ശൂര്‍ കോര്‍പ്പറേഷന്‍",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 37.0,
+            "concurrence_lakhs": 37.0
+        },
+        {
+            "project_name": "തൃശൂർ നിയോജക മണ്ഡലത്തിലെ ഗവ എൽ പി സ്കൂൾ മുക്കാട്ടുകര പുതിയ കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 32.0,
+            "concurrence_lakhs": 32.0
+        },
+        {
+            "project_name": "കോർപ്പറേഷൻ ഡിവിഷൻ 50 ൽ ലാലൂർ കാഞ്ഞാണി റോഡിൽ ജോൺ മത്തായി റോഡ് മുതൽ എസ് എൻ പാർക്ക് റോഡ് വരെയുള്ള കാന നിർമ്മിച്ച് കവർ സ്ലാബിടുന്ന പ്രവർത്തി",
+            "implementing_agency": "എല്‍.എസ്. ജി.ഡി, തൃശ്ശൂര്‍ കോര്‍പ്പറേഷന്‍",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "തൃശൂർ കോർപ്പറേഷൻ ഡിവിഷൻ 19 ൽ കൃഷ്ണാപുരം ജയനഗർ റോഡ് ഉയർത്തി പണിയുന്നതും കാന നിർമ്മാണം",
+            "implementing_agency": "എല്‍.എസ്. ജി.ഡി, തൃശ്ശൂര്‍ കോര്‍പ്പറേഷന്‍",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 24.0,
+            "concurrence_lakhs": 24.0
+        },
+        {
+            "project_name": "തൃശൂർ കോർപ്പറേഷൻ ഡിവിഷൻ 8 ൽ വില്ലടം ഹൈസ്കൂൾ മുതൽ വില്ലടം വാട്ടർ അതോറിറ്റി പമ്പ് ഹൌസ് വരെയുള്ള റോഡ് ഉയർത്തൽ പ്രവർത്തി",
+            "implementing_agency": "എല്‍.എസ്. ജി.ഡി, തൃശ്ശൂര്‍ കോര്‍പ്പറേഷന്‍",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "തൃശൂർ ഡിവിഷൻ 6 രാമവർമ്മപുരം പുതിയ പാലം ജംങ്കഷനിൽ പാലം നിർമ്മാണം",
+            "implementing_agency": "എല്‍.എസ്. ജി.ഡി, തൃശ്ശൂര്‍ കോര്‍പ്പറേഷന്‍",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 42.0,
+            "concurrence_lakhs": 42.0
+        },
+        {
+            "project_name": "തൃശൂർ നിയോജകമണ്ഡലത്തിലെ ഡിവിഷൻ 16 പൈപ്പ് ലൈൻ റോഡ് ഉയർത്തി പണിയുന്ന പ്രവൃത്തി",
+            "implementing_agency": "എല്‍.എസ്. ജി.ഡി, തൃശ്ശൂര്‍ കോര്‍പ്പറേഷന്‍",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.8,
+            "concurrence_lakhs": 15.8
+        },
+        {
+            "project_name": "ഗവ എൽ പി സ്കൂ8 മുക്കാട്ടുകരയ്ക്ക് പുതിയ കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 32.0,
+            "concurrence_lakhs": 32.0
+        },
+        {
+            "project_name": "തൃശൂർ മുൻസിപ്പൽ കോർപ്പറേഷനിലെ ഡിവിഷൻ 12 ലെ മ്യൂസിയം ക്രോസ് ലൈൻ റോഡ് വെള്ളക്കെട്ട് ഒഴിവാക്കുന്നതിന് റോഡ് ഉയർത്തി നിർമ്മാണം",
+            "implementing_agency": "എല്‍.എസ്. ജി.ഡി, തൃശ്ശൂര്‍ കോര്‍പ്പറേഷന്‍",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "തൃശൂർ മുൻസിപ്പൽ കോർപ്പറേഷനിലെ തേൻകുളങ്ങര റോഡ് നവികരണം",
+            "implementing_agency": "എല്‍.എസ്. ജി.ഡി, തൃശ്ശൂര്‍ കോര്‍പ്പറേഷന്‍",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "എൽഎസി -എഡിഎസ് 2022-2023 തൃശൂർ- തൃശൂർ ഈസ്റ്റ് പോലീസ് സ്റ്റേഷൻ കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 99.99,
+            "concurrence_lakhs": 99.99
+        },
+        {
+            "project_name": "എൽ എ സി എ ഡി എസ് 2021- 22 തൃശൂർ ജനറൽ ആശുപത്രിയിലേക്ക് മുട്ടുമാറ്റിവെയ്ക്കൽ ശസ്ത്രക്രിയക്ക് ഉപകരണങ്ങൾ വാങ്ങൽ",
+            "implementing_agency": "ആരോഗ്യ കുടുംബക്ഷേമ വകുപ്പ്",
+            "category": "Healthcare",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "തൃശൂർ രാമവർമ്മപുരത്തെ ഇന്ത്യാ റിസർവ്വ് ബറ്റാലിയനിൽ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "തൃശൂർ രാമവർമ്മപുരം ജില്ലാ സായുധസേനാ ക്യാമ്പിൽ നടപ്പാത  നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "thrissur_shri_p_balachandran_placeholder"
+}

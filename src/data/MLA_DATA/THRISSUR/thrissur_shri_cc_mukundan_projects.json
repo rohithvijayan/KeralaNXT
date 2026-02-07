@@ -1,0 +1,553 @@
+{
+    "mla_name": "Shri C.C. Mukundan",
+    "constituency": "NATTIKA",
+    "district": "Thrissur",
+    "summary": {
+        "total_expenditure_crores": 19.8906,
+        "breakdown": [
+            {
+                "label": "Others",
+                "value_crores": 9.6398
+            },
+            {
+                "label": "Road",
+                "value_crores": 3.9375
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 2.9498
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 1.8239
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.7796
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.56
+            },
+            {
+                "label": "Education",
+                "value_crores": 0.2
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ കേരള വിനോദസഞ്ചാര വകുപ്പിനു കീഴിലുള്ള സ്നേഹതീരം ബീച്ച് പാർക്ക് ഓഫീസ് കെട്ടിട നിര്മ്മാ ണം",
+            "implementing_agency": "സംസ്ഥാന നിര്‍മ്മിതി കേന്ദ്രം, തൃശ്ശൂര്‍",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജക മണ്ഡലം അന്തിക്കാട് ഗ്രാമപഞ്ചായത്തിലെ കല്ലിട വഴി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജക മണ്ഡലം-ചാഴൂർ ഗ്രാമ പഞ്ചായത്ത് വാർഡ് 5 ലെ  കനാൽ ബണ്ട് ലിങ്ക് റോഡ് – സാഫല്യം റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജക മണ്ഡലം ചാഴൂർ ഗ്രാമപഞ്ചായത്തിലെ വാർഡ് 7 ൽ മഹാത്മ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 11.35,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജക മണ്ഡലം ചേർപ്പ് ഗ്രാമപഞ്ചായത്ത് മഹാത്മാ ഗ്രൗണ്ട് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 99.99,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "അന്തിക്കാട് ഗ്രാമപഞ്ചായത്ത്  വാർഡ് 5 ൽ കിഴക്കേ ഗോപുരം ടു പുത്തൻ കോവിലകം റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 11.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പാറളം ഗ്രാമ പഞ്ചായത്ത് വാർഡ് 12 ലെ   അംഗൻവാടി നം 69 ന്  പുതിയ കെട്ടിടം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2020-2021",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ ചാഴൂർ ഗ്രാമപഞ്ചായത്തിലെ പഴുവിൽ സെൻ്റ് ആൻ്റണീസ് കപ്പേളയ്ക്ക് സമീപമുള്ള പുത്തൻതോട് സംരക്ഷണഭിത്തി നിർമ്മാണം",
+            "implementing_agency": "ഇറിഗേഷന്‍ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 11.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ ചേർപ്പ്  ഗ്രാമ പഞ്ചായത്ത് വാർഡ് 13 ലെ അംഗൻവാടി നം 17 ന്  പുതിയ കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡല പരിധിയിലെ 2 ഗ്രാമ പഞ്ചായത്തുകളിലെ തെരഞ്ഞെടുത്ത വിവിധ കേന്ദ്രങ്ങളിൽ മിനി മാസ്റ്റ് ലൈറ്റുകൾ സ്ഥാപിക്കൽ",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 14.36,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡല പരിധിയിലെ 9 ഗ്രാമ പഞ്ചായത്തുകളിലെ തെരഞ്ഞെടുത്ത വിവിധ കേന്ദ്രങ്ങളിൽ ഹൈ/മിനിമാസ്റ്റ് ലൈറ്റുകൾ സ്ഥാപിക്കൽ",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 97.08,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ ചാഴൂർ ഗ്രാമ പഞ്ചായത്തിലെ   9-ാം നമ്പർ  അംഗൻവാടിക്ക് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജക മണ്ഡലം ചാഴൂർ ഗ്രാമ പഞ്ചായത്ത് വാർഡ് 18 ലെ  പാറക്കുളങ്ങര ശാസ്താ ക്ഷേത്രം റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജക മണ്ഡലം താന്ന്യം ഗ്രാമ പഞ്ചായത്ത് ഹോമിയോ ഡിസ്പെൻസറി  കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Healthcare",
+            "fy": "2024-2025",
+            "estimate_lakhs": 52.96,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജക മണ്ഡലം അന്തിക്കാട് ഗ്രാമ പഞ്ചായത്തിലെ കൊട്ടാരപ്പറമ്പ് റോഡ് ഡ്രൈനേജ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ ചാഴൂർ ഗ്രാമ പഞ്ചായത്തിലെ  സെൻ്റ് ആൻ്റണീസ് ഹൈസ്കൂൾ പഴുവിൽ (എയ്ഡഡ്) ടോയ് ലറ്റ് ബ്ലോക്ക് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ അന്തിക്കാട് ഗ്രാമ പഞ്ചായത്ത് വാർഡ് 3 ലെ   61 നമ്പർ  അംഗൻവാടിക്ക് കെട്ടിട നിർമ്മാണം-",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജക മണ്ഡലം  പൊതുമരാമത്ത് വകുപ്പിനു കീഴിലുള്ള 6 പ്രധാന സെൻ്ററുകളിൽ ബസ് കാത്തിരിപ്പ് കേന്ദ്രങ്ങളുടെ നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് റോഡ്സ് ഡിവിഷന്‍",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ ജില്ലാ ടൂറിസം പ്രമോഷൻ കൗൺസിലിനു കീഴിലുള്ള തളിക്കുളം സ്നേഹതീരം ബീച്ച് പാർക്ക് നിർമ്മാണം",
+            "implementing_agency": "ജില്ലാ ടൂറിസം പ്രമോഷൻ കൗണസിൽ സെക്രട്ടറി",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 84.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഒരു പഞ്ചായത്തിൽ ഒരു കളിസ്ഥലം നാട്ടിക നിയോജകമണ്ഡലത്തിലെ വലപ്പാട് പഞ്ചായത്തിലെ വലപ്പാട് ഹൈസ്ക്കൂൾ ഗ്രൌണ്ട് നിർമ്മാണം മാച്ചിങ്ങ് ഷെയർ",
+            "implementing_agency": "സ്പോർട്സ് കേരള ഫൌണ്ടേഷൻ",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ ചാഴൂർ ഗ്രാമപഞ്ചായത്തിലെ ഇറിഗേഷൻ വകുപ്പിൻ്റെ കീഴിലുള്ള ചിറക്കൽ കൊറ്റംകോഡ് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "ഇറിഗേഷന്‍ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ അവിണിശ്ശേരി പഞ്ചായത്ത് കൃഷിഭവൻ കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലം പാറളം ഗ്രാമ പഞ്ചായത്തിലെ ചേനം  ക്ഷീരോത്പാദക സഹകരണ സംഘം ക്ലിപ്തം നം R 277 ന് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലം പാറളം ഗ്രാമ പഞ്ചായത്തിലെ ചേനം  ക്ഷീരോത്പാദക സഹകരണ സംഘം ക്ലിപ്തം നം R 277 ന് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജക മണ്ഡലം NH 66 (Old NH 17) കാപ്പിരിക്കാട് – തളിക്കുളം സെക്ഷനിൽ 3 ജംങ്ക്ഷനുകളിൽ  4 ബസ് കാത്തിരിപ്പ് കേന്ദ്ര ങ്ങളുടെ നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് റോഡ്സ് ഡിവിഷന്‍",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജക മണ്ഡലം NH 66 (Old NH 17) കാപ്പിരിക്കാട് – തളിക്കുളം സെക്ഷനിൽ 3 ജംങ്ക്ഷനുകളിൽ  4 ബസ് കാത്തിരിപ്പ് കേന്ദ്ര ങ്ങളുടെ നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് റോഡ്സ് ഡിവിഷന്‍",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 2.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലം പാറളം ഗ്രാമ പഞ്ചായത്തിലെ ചേനം  ക്ഷീരോത്പാദക സഹകരണ സംഘം ക്ലിപ്തം നം R 277 ന് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലം ചാഴൂർ ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 4 (പുള്ള്) ലെ  നേതാജി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 13.2,
+            "concurrence_lakhs": 13.2
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജക മണ്ഡലത്തിലെ 6 പഞ്ചായത്തുകളിൽ  ഹൈ/മിനി മാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കുന്ന പ്രവൃത്തി",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 16.95,
+            "concurrence_lakhs": 16.95
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ താന്ന്യം ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 14 ലെ തിരുവാണിക്കാവ് ക്ഷേത്രം  റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.2,
+            "concurrence_lakhs": 10.2
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ ചാഴൂർ ഗ്രാമ പഞ്ചായത്ത് ഒമ്പതാം വാർഡിലെ 22 നമ്പർ അംഗൻവാടിക്ക് കെട്ടിട നിർമ്മാണം-",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലം പാറളം ഗ്രാമ പഞ്ചായത്തിലെ വെങ്ങിണിശ്ശേരി ക്ഷീരോത്പാദക സഹകരണ സംഘം ക്ലിപ്തം നം R 273 ന് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ ചേർപ്പ് ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 13 ലെ ഇറിഗേഷൻ ബണ്ട് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ ചേർപ്പ് ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 13 ലെ ഇറിഗേഷൻ ബണ്ട് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ ചേർപ്പ് ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 16 ലെ തഞ്ചനം കടവ് ബണ്ട് റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ നാട്ടിക കൃഷിഭവൻ കെട്ടിട നിർമ്മാണം-",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ താന്ന്യം ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 6 ൽ എവർഗ്രീൻ റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ ഹൈസ്ക്കൂൾ അന്തിക്കാടിന് (എയ്ഡഡ്) പാചകപ്പുര നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ  വലപ്പാട് ഗ്രാമ പഞ്ചായത്ത് വാർഡ് 2 ലെ  130 നമ്പർ അംഗൻവാടിക്ക് പുതിയ കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജക മണ്ഡലത്തിനു പരിധിയിലെ പൊതുമരാമത്ത് വകുപ്പ് നിരത്തുകൾ, ചേർപ്പ് വിഭാഗത്തിനു കീഴിൽ 4 കേന്ദ്രങ്ങളിൽ ബസ് കാത്തിരിപ്പ് കേന്ദ്ര നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് - നിരത്തുകളും പാലങ്ങളും",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലം തളിക്കുളം ഗ്രാമ പഞ്ചായത്തിലെ തളിക്കുളം കുടുംബാരോഗ്യ കേന്ദ്രം ഫിസിയോ തെറാപ്പി സെന്റർ കെട്ടിടം  നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ ചാഴൂർ ഗ്രാമ പഞ്ചായത്ത് വാർഡ് 10 ലെ ആലപ്പാട് എഫ് എച്ച് സി യ്ക്കു കീഴിലുള്ള പി എച്ച് സി സബ് സെന്റർ ഇഞ്ചമുടി  പുതിയ കെട്ടിടം- രണ്ടാം ഘട്ട നിർമ്മാണ പ്രവർത്തനങ്ങൾ",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ ചേർപ്പ് ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 15 ൽ ഐനിക്കടവ് വാരിയം റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ ചേർപ്പ് ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 15 ൽ ഐനിക്കടവ് വാരിയം റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ ജി എൽ പി എസ് കുറുമ്പിലാവ് പുതിയ കെട്ടിടം നിർമ്മാണം ഒന്നാം ഘട്ടം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 99.99,
+            "concurrence_lakhs": 99.99
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലം വലപ്പാട് ഗ്രാമ പഞ്ചായത്തിലെ VPM SNDP ഹയർ സെക്കണ്ടറി  സ്കൂൾ കഴിമ്പ്രത്തിന് പാചകപ്പുര നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ ജി എൽ പി എസ് അമ്മാടത്തിന് പുതിയ കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 99.99,
+            "concurrence_lakhs": 99.99
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ  7 ഗ്രാമ പഞ്ചായത്തുകളിലെ പ്രധാന ജങ്ക്ഷനുകളിൽ ഹൈ മാസ്റ്റ്/മിനി മാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കുന്ന പ്രവൃത്തി",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 54.0,
+            "concurrence_lakhs": 52.05
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലം അന്തിക്കാട് ഗ്രാമ പഞ്ചായത്തിലെ ഏഴാം വാർഡിൽ പുത്തൻപീടിക G T റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ നാട്ടിക ഗ്രാമ പഞ്ചായത്തിലെ 63 നമ്പർ അംഗൻവാടിക്ക് പുതിയ കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ  വലപ്പാട് ഗ്രാമ പഞ്ചായത്തിലെ 92 നമ്പർ അംഗൻവാടിക്ക് പുതിയ കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "അന്തിക്കാട് ഗ്രാമ പഞ്ചായത്തിലെ വാർഡ് 9 ൽ കാളിച്ചാത്തൻ ടെമ്പിൾ സൌത്ത് ബ്രാഞ്ച് ഇറിഗേഷൻ ബണ്ട് റോഡിൽ കൾവെർട്ട് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ അന്തിക്കാട് ഗ്രാമ പഞ്ചായത്തിലെ 143 നമ്പർ അംഗൻവാടിക്ക് പുതിയ കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ പാറളം ഗ്രാമ പഞ്ചായത്തിലെ 65 നമ്പർ അംഗൻവാടിക്ക് പുതിയ കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ ചാഴൂർ ഇൻഡോർ സ്റ്റേഡിയം നിർമ്മാണം നാലാം ഘട്ട പ്രവർത്തികൾ",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ അന്തിക്കാട് ഗവ എൽ പി സ്കൂളിന് പുതിയ കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 99.99,
+            "concurrence_lakhs": 99.99
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ അന്തിക്കാട് 143 നമ്പർ, നാട്ടിക 63 നമ്പർ, പാറളം 65 നമ്പർ, വലപ്പാട് 92 നമ്പർ എന്നീ അംഗൻവാടികൾക്ക് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 100.0,
+            "concurrence_lakhs": 100.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ വാർഡ് 19 ലെ വലപ്പാട് സി എച്ച് സി യ്ക്കു കീഴിലുള്ള വലപ്പാട് ബീച്ച് സബ് സെന്റർ പൊളിച്ചു നീക്കി പുതിയ കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        },
+        {
+            "project_name": "നാട്ടിക നിയോജകമണ്ഡലത്തിലെ പൊതുമരാമത്ത് റോഡിനുകീഴിലുള്ള 8 കേന്ദ്രങ്ങളിൽ ബസ് കാത്തിരിപ്പു കേന്ദ്ര നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് റോഡ്സ് ഡിവിഷന്‍",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.5,
+            "concurrence_lakhs": 40.5
+        },
+        {
+            "project_name": "ചാഴൂർ ഗ്രാമ  പഞ്ചായത്തിലെ കരുവന്നൂർ പുഴയിൽ നിന്നുള്ള കമാൻറോ മുഖത്തും ചിറയ്ക്കൽ \r\nതോടിൽ പടൂക്കടവിലും FRP ഷട്ടേഴ്സ് (വിത്ത് മെക്കാനിക്കൽ ഓപ്പറേഷൻ)  സ്ഥാപിക്കൽ",
+            "implementing_agency": "ഇറിഗേഷന്‍ വകുപ്പ്",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 46.0,
+            "concurrence_lakhs": 46.0
+        },
+        {
+            "project_name": "എൽ എ സി എ ഡി എസ് നാട്ടിക 2021-22  വലപ്പാട് ഗ്രാമ പഞ്ചായത്ത്- കാലിക്കറ്റ് യൂണവേഴ്സിറ്റി ടീച്ചർ എഡ്യുക്കേഷൻ സെൻറർ, ഒന്നാം നിലയിൽ ക്ലാസ് മുറി നിർമ്മാണം",
+            "implementing_agency": "നിര്‍മ്മിതികേന്ദ്രം,തൃശ്ശൂര്‍",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "എൽ എ സി എ ഡി എസ് 2021-22 നാട്ടിക ചാഴൂർ ഗ്രാമ പഞ്ചായത്തിലെ ആലപ്പാട് സാമൂഹ്യ ആരോഗ്യ കേന്ദ്രത്തിനു കീഴിലെ ഇഞ്ചമുടി കുടുംബാരോഗ്യ കേന്ദ്രത്തിനു കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Healthcare",
+            "fy": "2021-2022",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "എൽ എ സി എ ഡി എസ് 2021-22 അന്തിക്കാട് ഗ്രാമ പഞ്ചായത്ത് അന്തിക്കാട് സി എച്ച സി യിൽ അഡ്മിനിസ്ട്രേറ്റീവ് ബ്ലോക്ക് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "thrissur_shri_cc_mukundan_placeholder"
+}

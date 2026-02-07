@@ -1,0 +1,269 @@
+{
+    "mla_name": "Shri. K U Jenish Kumar",
+    "constituency": "KONNI",
+    "district": "Pathanamthitta",
+    "summary": {
+        "total_expenditure_crores": 14.1245,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 4.809
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 2.9419
+            },
+            {
+                "label": "Others",
+                "value_crores": 2.2224
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 2.0141
+            },
+            {
+                "label": "Education",
+                "value_crores": 1.3871
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 0.75
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "കരിമാന്‍തോട് പൂച്ചക്കുളം റോഡ് നിര്‍മ്മാണം തണ്ണിത്തോട്  ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കോലത്ത് പുലിയളളുങ്കല്‍ വടക്കേചരുവ് റോഡ് നിര്‍മ്മാണം  -",
+            "implementing_agency": "PWD Roads Pathanamthitta",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "തേക്കുമല പുത്തന്‍ പുരയില്‍ പടി റോഡില്‍  കലുങ്ക്  നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.82,
+            "concurrence_lakhs": 14.82
+        },
+        {
+            "project_name": "ഒരു പഞ്ചായത്തില്‍ ഒരു കളിക്കളം പദ്ധതി-ഏനാദിമംഗലം ഗ്രാമപഞ്ചായത്ത് സ്റ്റേഡിയം നിര്‍മ്മാണം",
+            "implementing_agency": "Managing Director, Sports Kerala Foundation TVM",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "കോന്നി നിയോജക മണ്ഡല പരിധിയിലെ 43 കേന്ദ്രങ്ങളില്‍  മിനിമാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കല്‍",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 99.64,
+            "concurrence_lakhs": 99.64
+        },
+        {
+            "project_name": "കലഞ്ഞുര്‍ ഗ്രാമപഞ്ചായത്തിലെ വാര്‍ഡ് 17 ല്‍, കെ. എ. പി. വലതുകര മെയിന്‍ കനാല്‍ ചെയിനേജ് കാഞ്ഞിര മുകള്‍ ഭാഗത്ത് KIP കനാലിന് കുറുകെ പാലം നിര്‍മ്മാണം",
+            "implementing_agency": "EE Kallada  irrigation Kottarakkara",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 65.13,
+            "concurrence_lakhs": 65.13
+        },
+        {
+            "project_name": "Construction of Bus stand and yard in Malayalappuzha Panchayath.",
+            "implementing_agency": "PWD Roads Pathanamthitta",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 99.0
+        },
+        {
+            "project_name": "കോന്നി മെഡിക്കല്‍ കോളേജ് ബസ് സ്റ്റാന്‍ഡും അമിനിറ്റി സെന്ററും നിര്‍മ്മാണം",
+            "implementing_agency": "PWD Roads Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 98.0,
+            "concurrence_lakhs": 98.0
+        },
+        {
+            "project_name": "കോന്നി കെ.എസ്. ആര്‍.റ്റി.സി സ്റ്റാന്‍ഡില്‍  കെട്ടിട നിര്‍മ്മാണവും മറ്റ് അനുബന്ധ നിര്‍മ്മാണങ്ങളും",
+            "implementing_agency": "PWD Roads Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 55.0,
+            "concurrence_lakhs": 55.0
+        },
+        {
+            "project_name": "ചിറ്റാര്‍ ഗ്രാമ പഞ്ചായത്തിലെ കുഞ്ഞമ്മാച്ചന്‍ പടി കൊച്ചുവീട്ടില്‍ പടി  റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "KSTP റോഡില്‍ മൈലപ്ര SHHS സ്കൂള്‍ ജംഗ്ഷനില്‍ Foot Over Bridge നിര്‍മ്മാണം",
+            "implementing_agency": "PWD Roads Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 42.0,
+            "concurrence_lakhs": 42.0
+        },
+        {
+            "project_name": "KSTP റോഡില്‍ കലഞ്ഞൂര്‍ ഗവ. ഹയര്‍സെക്കണ്ടറി സ്കൂള്‍ ജംഗ്ഷനില്‍ Foot Over Bridge നിര്‍മ്മാണം",
+            "implementing_agency": "PWD Roads Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        },
+        {
+            "project_name": "കോന്നി നിയോജകമണ്ഡലത്തിലെ 43 കേന്ദ്രങ്ങളില്‍ മിനിമാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കൽ",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 98.04,
+            "concurrence_lakhs": 98.04
+        },
+        {
+            "project_name": "കലഞ്ഞൂര്‍ ഗ്രാമ പഞ്ചായത്തിലെ 20-ാം വാര്‍ഡില്‍ പ്രവര്‍ത്തിക്കുന്ന 76-ാം നമ്പര്‍ അങ്കണവാടിക്ക് കെട്ടിട  നിര്‍മ്മാണം.",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പ്രമാടം ഗ്രാമ പഞ്ചായത്തിലെ പാപ്പിമുരുപ്പ് - ലാമ്പമണ്‍ റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മൈലപ്ര ഗ്രാമ പഞ്ചായത്തിലെ മൈലപ്ര - മണ്ണില്‍ മേമുറി റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഒരു പഞ്ചായത്തില്‍ ഒരു കളിക്കളം -കലഞ്ഞൂര്‍ ഗ്രാമ പഞ്ചായത്തിലെ കൂടല്‍ സ്റ്റേഡിയം നിര്‍മ്മാണം",
+            "implementing_agency": "Managing Director, Sports Kerala Foundation TVM",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "വള്ളിക്കോട് ഗ്രാമ പഞ്ചായത്തിലെ വാര്‍ഡ് 9 ല്‍ കോച്ചാലുംമൂട് ജംഗ്ഷന് സമീപം കളീക്കമേലേതില്‍ കൂടി കടന്നുപോകുന്ന KIP കനാലിന് കുറുകെ പാലം നിര്‍മ്മാണം",
+            "implementing_agency": "EE Kallada  irrigation Kottarakkara",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "സീതത്തോട്   പി.എച്ച്.സി യ്ക്ക് ICU സജ്ജീകരണങ്ങളോടു കൂടിയ  ADVANCED LIFE SUPPORT  ആംബുലന്‍സ് വാങ്ങല്‍",
+            "implementing_agency": "DMO (H) Pathanamthitta",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 52.0,
+            "concurrence_lakhs": 52.0
+        },
+        {
+            "project_name": "കോന്നി ഗ്രാമ പഞ്ചായത്തിലെ  9- ാം  വാര്‍ഡില്‍ പ്രവര്‍ത്തിക്കുന്ന 53- ാം നമ്പര്‍ അംഗനവാടിക്ക് കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കോന്നി KSRTC ബസ് സ്റ്റേഷനില്‍ ടാറിംഗും   ഡ്രയിനേജ് നിര്‍മ്മാണവും",
+            "implementing_agency": "PWD Roads Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 76.9,
+            "concurrence_lakhs": 76.9
+        },
+        {
+            "project_name": "കോന്നി കെ.എസ്.ആര്‍.റ്റി.സി സ്റ്റാന്‍ഡില്‍ Amenity Centre നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 39.86,
+            "concurrence_lakhs": 39.86
+        },
+        {
+            "project_name": "കോന്നി നിയോജകമണ്ഡലത്തിലെ 43 കേന്ദ്രങ്ങളില്‍  മിനി മാസ്റ്റ് ലൈറ്റ്   സ്ഥാപിക്കല്‍",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 96.51,
+            "concurrence_lakhs": 96.51
+        },
+        {
+            "project_name": "കോന്നി നിയോജക മണ്ഡലത്തിലെ 19 കേന്ദ്രങ്ങളില്‍ ബസ് കാത്തിരിപ്പ് കേന്ദ്രം സ്ഥാപിക്കല്‍",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 92.56,
+            "concurrence_lakhs": 92.56
+        },
+        {
+            "project_name": "MLA ADS 2023-24-  4 സര്‍ക്കാര്‍ വിദ്യാഭ്യാസ സ്ഥാപനങ്ങള്‍ക്ക് ബസ്സ് വാങ്ങല്‍ (36സീറ്റ്)\r\n\t( GHSS കലഞ്ഞൂര്‍, GHSS കോന്നി, GHSS കൈപ്പട്ടൂര്‍, \tGHSS ചിറ്റാര്‍ )",
+            "implementing_agency": "Deputy Director of Education",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 99.0
+        },
+        {
+            "project_name": "5 സര്‍ക്കാര്‍ വിദ്യാഭ്യാസ സ്ഥാപനങ്ങള്‍ക്ക് ബസ്സ് വാങ്ങല്‍ (19 സീറ്റ്)\r\n(GHSS മാരൂര്‍, GHSS മാങ്കോട്, GVHSS കൂടല്‍, JMPHS മലയാലപ്പുഴ, GLPS കോന്നി)",
+            "implementing_agency": "Deputy Director of Education",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 74.28,
+            "concurrence_lakhs": 74.28
+        },
+        {
+            "project_name": "സര്‍ക്കാര്‍ വിദ്യാഭ്യാസ സ്ഥാപനങ്ങള്‍ക്ക് ബസ്സ് വാങ്ങല്‍ (Govt. Tribal UPS മുണ്ടന്‍പാറ, GLPS കൂടല്‍ )",
+            "implementing_agency": "Deputy Director of Education",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 29.71,
+            "concurrence_lakhs": 29.71
+        },
+        {
+            "project_name": "ഏനാദിമംഗലം ഗ്രാമപഞ്ചായത്ത് ആഫീസ് നിർമ്മാണം",
+            "implementing_agency": "LSGD",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 65.0,
+            "concurrence_lakhs": 65.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "pathanamthitta_shri_k_u_jenish_kumar_placeholder"
+}

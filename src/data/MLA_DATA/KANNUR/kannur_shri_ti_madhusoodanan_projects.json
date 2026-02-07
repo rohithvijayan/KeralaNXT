@@ -1,0 +1,629 @@
+{
+    "mla_name": "Shri T.I. Madhusoodanan",
+    "constituency": "PAYYANNUR",
+    "district": "Kannur",
+    "summary": {
+        "total_expenditure_crores": 19.6805,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 7.8252
+            },
+            {
+                "label": "Others",
+                "value_crores": 3.353
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 2.8433
+            },
+            {
+                "label": "Education",
+                "value_crores": 2.22
+            },
+            {
+                "label": "Sports",
+                "value_crores": 1.25
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 1.039
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 0.9
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.25
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "ONE PANCHAYATH ONE PLAY GROUND- DEVELOPMENT OF SPORTS INFRASTRUCTURE FACILITIES AT CHERUPUZHA GRAMAPANCHAYATH GROUND",
+            "implementing_agency": "Director Sports Kerala Foundation Thiruvananthapuram",
+            "category": "Sports",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ONE PANCHAYATH ONE PLAYGROUND- DEVELOPMENT OF  AVSGHSS KARIVELLUR GROUND IN KARIVELLUR- PERALAM GRAMAPANCHAYATTH",
+            "implementing_agency": "Director Sports Kerala Foundation Thiruvananthapuram",
+            "category": "Sports",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പയ്യന്നൂർ നിയോജക മണ്ഡലത്തിലെ 3 ഗവൺമെന്റ് ഹയർസെക്കന്ററി സ്ക്കൂളുകളിൽ സ്മാർട്ട് ക്ലാസ് റൂം വിത്ത് ഇ-ലൈബ്രറി പദ്ധതി",
+            "implementing_agency": "Deputy Director of Education Kannur",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 57.5,
+            "concurrence_lakhs": 57.5
+        },
+        {
+            "project_name": "KARINKUZHI SMASANAM KALEESWARAM THEKKEKKERA ROAD AT KANKOL- ALAPPADAMBA GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "OLAYAMBADI-BEEMBANADI ROAD AT ERAMAM KUTTOOR GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 21.0,
+            "concurrence_lakhs": 21.0
+        },
+        {
+            "project_name": "VELLARAKKOD PALAM ADJUNCT ROAD (KOSAVAR KANAM VELLARAKKOD THAVIDISSERY ROAD) AT ERAMMA- KUTTOOR GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "വയക്കര ജി എച്ച് എസ് എസ് സ്കൂളിന് ബസ് വാങ്ങൽ",
+            "implementing_agency": "Deputy Director of Education Kannur",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 26.5,
+            "concurrence_lakhs": 26.5
+        },
+        {
+            "project_name": "SCHOOL BUS PURCHASE FOR PERINTHATTA SOUTH GOVERNMENT L P SCHOOL.",
+            "implementing_agency": "Deputy Director of Education Kannur",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ഒരു പഞ്ചായത്തിൽ ഒരു കളിക്കളം- AKASGVHSS GROUND നിർമ്മാണം- പയ്യന്നൂർ  നഗരസഭ",
+            "implementing_agency": "Director Sports Kerala Foundation Thiruvananthapuram",
+            "category": "Sports",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "പയ്യന്നൂർ നഗരസഭയിൽ ഹാപ്പിനസ് പാർക്ക് നിർമ്മാണം",
+            "implementing_agency": "secretary Payyannur Municipality",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 97.0,
+            "concurrence_lakhs": 97.0
+        },
+        {
+            "project_name": "Aanappettipoyil Mundoor Kaanam Road at Peringome Vayakkara GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "Supply and Installation of 9 numbers of 12 meter High Mast lights and 14 numbers of 9 meter Minimast lights at various locations in Payyannur Municipality, Cherupuzha GP, Karivellur Peralam GP, Kankole Alapadamba GP, Eramam Kuttur GP and Peringome Vayakkara GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 97.5,
+            "concurrence_lakhs": 96.5
+        },
+        {
+            "project_name": "PWD Rest House - Kariyilakkundu Road at Peringome Vayakkara GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കരിവെളളൂർ പെരളം ഗ്രാമ പഞ്ചായത്തിന്റെ കീഴിലുളള ബഡ്സ് സ്ക്കൂളിലും എം സി എഫിലും സോളാർ പാനൽ സ്ഥാപിക്കൽ",
+            "implementing_agency": "SECRETARY, KARIVELLUR PERALAM GRAMAPANCHAYATH",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 27.3,
+            "concurrence_lakhs": 27.3
+        },
+        {
+            "project_name": "KARIYAPP CLUB POOVATHINKAAD ROAD IN KANKOL ALAPADAMBA GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "പയ്യന്നൂര്‍ സുബ്രഹ്മണ്യ സ്വാമി ക്ഷേത്രക്കുള നവീകരണം",
+            "implementing_agency": "EXECUTIVE ENGINEER MINOR IRRIGATION DIVISION KANNUR",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 36.6
+        },
+        {
+            "project_name": "NARAMBU SMASANAM ROAD CONCRETING AT CHERUPUZHA GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "NARAMBU SMASANAM ROAD CONCRETING AT CHERUPUZHA GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "BHOODANAM PANDIKKADAVU ERIKKILLAKULAM ROAD CONCRETING AT CHERUPUZHA GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "EYYANKALLU MELUTHANI ROAD AT CHERUPUZHA GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "RAJAGIRI KANAMVAYAL MARUTHUMTHATTU ROAD AT CHERUPUZHA GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "THANNICHAAL THEVARKUNNU PARUTHIKKALLU ROAD AT CHERUPUZHA GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "THIRUMENI KORALI PERIVATTAM ROAD CONCRETING IN CHERUPUZHA GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "BEAUTIFICATION WORK OF SUBRAHMANYA SWAMI TEMPLE POND IN PAYYANNUR MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER MINOR IRRIGATION DIVISION KANNUR",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 35.9,
+            "concurrence_lakhs": 35.9
+        },
+        {
+            "project_name": "MLA ADS 2023-24 PAYYANNUR LAC HIGH MAST/MINI MAST VARIOUS PLACES IN PAYYANNUR MUNICIPALITY, RAMANTHALI GRAMA PANCHAYATH, ERAMAM KUTTOOR GRAMA PANCHAYATH, KANKOL - ALAPPADAMBA GRAMA PANCHAYATH, KARIVELLUR PERALAM GRAMA PANCHAYATH",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 96.35,
+            "concurrence_lakhs": 96.35
+        },
+        {
+            "project_name": "MOLOTHUMCHAL KADAYAKKARA THAZHE VALLIKKETT ROAD IN PAYYANNUR MUNICIPALITY",
+            "implementing_agency": "secretary Payyannur Municipality",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 44.0,
+            "concurrence_lakhs": 44.0
+        },
+        {
+            "project_name": "PAZHAYAKULAM THEVARVAYAL ROAD AT KARIVELLUR PERALAM GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MAVICHERI POND RENNOVATION OF MAVICHERI KSHETHRA KULAM AT MAVICHERI IN PAYYANNUR MUNICIPALITY",
+            "implementing_agency": "EXECUTIVE ENGINEER MINOR IRRIGATION DIVISION KANNUR",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "ജി.വി.എച്ച്.എസ്.എസ് പുളിങ്ങോം സ്കൂളിന് ബസ് വാങ്ങല്‍",
+            "implementing_agency": "Deputy Director of Education Kannur",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "CHATTIVAYAL ALINKALPADI ROAD AT CHERUPUZHA G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "THIRUMENI THEKKAMMAV ROAD WORK - CHERUPUZHA G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "PEROOL MUTHUKATUKAVU KAPPALAM ROAD AT ERAMAM KUTTUR G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "OLAYAMBADI - BHEEMBANADI ROAD (BHEEMBANADI PAALAM APPROCH ROAD) ERAMAM KUTOOR G P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ONE PANCHAYATH ONE PLAYGROUND - ESTABLISHMENT OF SPORTS INFRASTRUCTURE FACILITIES AT GHS THAVIDISSERY SCHOOL GROUND - PAYYANNUR LAC",
+            "implementing_agency": "CHIEF ENGINEER SPORTS KERALA FOUNDATION",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "VAIPPIRIYAM AALAKKAD MATHAMANGALAM SECURITY ROAD IN KANKOL AALAPPADAMBA GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "MUCHILOTU KUNHITHOTTAM ROAD IN ERAMAM KUTOOR GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MULAPRA CLUB - MULAPRA AMBALAM ROAD CONCRETE IN CHERUPUZHA GP",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF BRIDGE ACROSS PACHENI MUNDAVAYAL THODU IN KARIVELLUR PERALAM GRAMA PANCHAYATH",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "PEROL CHONAMKANDAM ROAD IN KANKOL AALAPPADAMBA GRAMA PANCHAYATH",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 22.0
+        },
+        {
+            "project_name": "PEROL CHONAMKANDAM ROAD IN KANKOL AALAPPADAMBA GRAMA PANCHAYATH",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "THIRUMENI KORALI PERIVATTAM ROAD IN CHERUPUZHA G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CONSRUCTION OF NEW BUILDING FOR NNSGUP SCHOOL ALAKKODE IN KANKOL ALAPPADAMBA G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF CULVERT AND APPROACH ROAD NEAR VATTATHODU IN PERUMBADAVU KOLLARTHOTTI ROAD AT ERAMAM KUTTUR G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "CHEMBLAYMUKKU THANNICHAL ROAD IN CHERUPUZHA G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 14.5,
+            "concurrence_lakhs": 14.5
+        },
+        {
+            "project_name": "PERUTHADAM PULLUMALLA ROAD CONCREATING IN CHERUPUZHA G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.5,
+            "concurrence_lakhs": 25.5
+        },
+        {
+            "project_name": "KOZHICHAL KATTAPPALLI SANTHIPURAM ROAD IN CHERUPUZHA G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "KUNNERU MOWLAVI LINK ROAD IN RAMANTHALI G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "UPGRADATION OF RAMAN-RAMANTHALI ROAD IN RAMANTHALI GRAMAPANCHAYATH",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MAATHIPPARA PANAMKUNNU ROAD IN PERINGOM VAYAKKARA G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 14.98,
+            "concurrence_lakhs": 14.98
+        },
+        {
+            "project_name": "CHOORAL CHAKKIRICOMPANY- ARIYYIL THENGHINAM CHAL ILLAM ROAD IN KANKOL ALAPPADAMPA G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "THIRUMENI KOTTALI PERIVATTAM ROAD IN CHERUPUZHA G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "GALLERY CONSTRUCTION AND ADJOINING WORKS IN KUNNURU TAGORE VAYANASALA GROUND IN RAMANTHALI G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF KUDUMBA KSHEMA UPAKENDRAM AT KANDANGALI- PAYYANNUR MUNICIPALITY",
+            "implementing_agency": "secretary Payyannur Municipality",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF PONNAM VAYAL KSHEERA SANGHAM OFFICE IN PERINGOM VAYAKKARA G.P",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പൊന്നം വയല്‍ ക്ഷീരസംഘം ഓഫിസ് കെട്ടിട നിര്‍മാണം- പെരിങ്ങോം വയക്കര ഗ്രാമ പഞ്ചായത്ത്‌",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA ADS-2022-23 INSTALLATION OF HIGH MAST & MINI MAST LIGHTS AT VARIUOS LOCATIONS UNDER PAYYANNUR LAC",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 90.48,
+            "concurrence_lakhs": 90.48
+        },
+        {
+            "project_name": "ഹോമിയോ ആശുപത്രി കെട്ടിടം- കങ്കോല്‍ ആലപ്പടമ്പ ഗ്രാമ പഞ്ചായത്ത്‌",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കങ്കോല്‍ ആലപ്പടെമ്പ് ഗ്രാമ പഞ്ചായത്ത്‌ സ്റ്റേഡിയം- മാത്തില്‍ വടക്ക് ഭാഗം ഗാല്ലെറി നിര്‍മാണവും അനുബന്ധ പ്രവര്‍ത്തികളും",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "പലിയേരി മഠത്തില്‍ താഴെ നടപ്പാത (വടക്കേ മണക്കാട് പലിയേരി കൊവ്വല്‍ നടപ്പാത ) കരിവെള്ളൂര്‍ പെരളം ഗ്രാമ പഞ്ചായത്ത്‌",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.54,
+            "concurrence_lakhs": 16.54
+        },
+        {
+            "project_name": "എരമം-വെള്ളറക്കോട് കള്‍വേര്‍ട്ടും  സമീപ റോഡും (എരമം-കുറ്റൂര്‍ ഗ്രാമപഞ്ചായത്ത്)",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 70.0,
+            "concurrence_lakhs": 70.0
+        },
+        {
+            "project_name": "പ്രാപ്പൊയില്‍ - ചൂരപ്പടവ് റോഡ്‌ ഓവുചാല്‍ നിര്‍മ്മാണം (ചെറുപുഴ ഗ്രാമപഞ്ചായത്ത് )",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "പ്രാപ്പൊയില്‍-ചൂരപ്പടവ് റോഡ്‌ ഓവുചാല്‍ നിര്‍മ്മാണം (ചെറുപുഴ ഗ്രാമപഞ്ചായത്ത് )",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പെരളം പാപ്പരട്ട റോഡില്‍ കള്‍വേര്‍ട്ട് നിര്‍മ്മാണം ( കരിവെള്ളൂര്‍-പെരളം ഗ്രാമപഞ്ചായത്ത് )",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.0,
+            "concurrence_lakhs": 11.0
+        },
+        {
+            "project_name": "പയ്യന്നൂര്‍ നഗരസഭ സാസ്കാരിക നിലയം -പുതിയ കെട്ടിടം, കാറമേല്‍ (പയ്യന്നൂര്‍ നഗരസഭ)",
+            "implementing_agency": "secretary Payyannur Municipality",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ഉടുപ്പിന തവിടിശ്ശേരി ഏച്ചില്‍ റോഡ്‌ (പെരിങ്ങോം-വയക്കര ഗ്രാമപഞ്ചായത്ത് )",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 22.0
+        },
+        {
+            "project_name": "പെരിങ്ങോം-ചിലക് കുപ്പോള്‍ റോഡ്‌ (പെരിങ്ങോം-വയക്കര ഗ്രാമപഞ്ചായത്ത്)",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ഷേണായി സ്ക്വയര്‍ സ്റ്റേജ് നിര്‍മ്മാണവും അനുബന്ധ പ്രവര്‍ത്തികളും.(പയ്യന്നൂര്‍ നഗരസഭ)",
+            "implementing_agency": "secretary Payyannur Municipality",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "മാര്‍ സെബാസ്റ്റ്യന്‍ വള്ളോപ്പിള്ളി റോഡ്‌ (ചെറുപുഴ ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ചെറുപുഴ മേലേ ബസാര്‍ - റിവര്‍ വ്യൂ - പവിത്രാ ജ്വല്ലറി റോഡ്‌ (ചെറുപുഴ ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പെരിങ്ങോം-കാരക്കാട് റോഡ് (പെരിങ്ങോം-വയക്കര ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "തവിടിശ്ശേരി തോടിന് പാലം (പെരിങ്ങോം-വയക്കര ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ഭീമനടി പാലം നിർമ്മാണം (എരമം-കുറ്റൂർ ഗ്രാമപഞ്ചായത്ത് )",
+            "implementing_agency": "Executive Engineer LSGD Division Kannur",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": null,
+            "implementing_agency": null,
+            "category": "Others",
+            "fy": null,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "6_Madhusoonan_Payyanoor_ssgmvf"
+}

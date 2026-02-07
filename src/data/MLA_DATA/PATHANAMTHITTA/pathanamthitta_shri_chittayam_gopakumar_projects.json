@@ -1,0 +1,397 @@
+{
+    "mla_name": "Shri Chittayam Gopakumar",
+    "constituency": "ADOOR",
+    "district": "Pathanamthitta",
+    "summary": {
+        "total_expenditure_crores": 11.2744,
+        "breakdown": [
+            {
+                "label": "Others",
+                "value_crores": 4.09
+            },
+            {
+                "label": "Road",
+                "value_crores": 2.28
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 2.099
+            },
+            {
+                "label": "Education",
+                "value_crores": 1.3044
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 0.999
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.502
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "ഏഴംകുളം   ഗ്രാമപഞ്ചായത്ത്  കിഴക്കുപുറം ഗവൺമെൻറ്  ഹയർ സെക്കൻറി  സ്കുളിന്  സ്കൂള്‍ ബസ് വാങ്ങൽ",
+            "implementing_agency": "Deputy Director of Education",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.51,
+            "concurrence_lakhs": 20.51
+        },
+        {
+            "project_name": "സൊസൈറ്റിപടി ചെട്ടിയാരഴികത്ത് കടവ് റോഡ് കടമ്പനാട്  ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "PWD Roads Pathanamthitta",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 33.0,
+            "concurrence_lakhs": 33.0
+        },
+        {
+            "project_name": "അറന്തകുളങ്ങര ജി.എൽ.പി.എസ്  കെട്ടിട നിർമ്മാണം  രണ്ടാം ഘട്ടം",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "തെറ്റിക്കുഴി പടി തൈവിളപടി  റോഡ് നിർമ്മാണം    പള്ളിക്കൽ ഗ്രാമപഞ്ചായത്ത്  വാർഡ്- 1",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "വിശ്വഭവനം പടി കല്ലിടും പടി  റോഡ് നിർമ്മാണം    പള്ളിക്കൽ ഗ്രാമപഞ്ചായത്ത്  വാർഡ്- 1",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "പള്ളിക്കൽ   ഗ്രാമപഞ്ചായത്ത്  പഴകുളം  എൽ.പി സ്കൂളിന് സ്കൂള്‍ ബസ് വാങ്ങൽ",
+            "implementing_agency": "Deputy Director of Education",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.8,
+            "concurrence_lakhs": 20.8
+        },
+        {
+            "project_name": "പന്തളം മുൻസിപ്പാലിറ്റി   ചേരിക്കൽ ഗവൺമെൻറ്  എൽ.പി സ്കൂളിന് സ്കൂള്‍ ബസ് വാങ്ങൽ",
+            "implementing_agency": "Deputy Director of Education",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.63,
+            "concurrence_lakhs": 20.63
+        },
+        {
+            "project_name": "ഏഴംകുളം ഗ്രാമപഞ്ചായത്ത്  ഉടയാൻമുറ്റം ക്ഷേത്രം ഏഴംകുളം ക്ഷേത്രം കല്ലട ഇറിഗേഷൻ റോഡ്  നിർമ്മാണം. ചെയിനേജ് 44015 മീറ്റർ മുതൽ 45000 മീറ്റർ വരെ (വാർഡുകള്‍ 4/20)",
+            "implementing_agency": "EE Kallada  irrigation Kottarakkara",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കൊല്ലായ്ക്കൽ പാക്കുതറ പൌർണ്ണമി  റോഡ് നിർമ്മാണം  പള്ളിക്കൽ ഗ്രാമപഞ്ചായത്ത്  വാർഡ്- 20",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഏഴംകുളം ഗ്രാമപഞ്ചായത്ത്  ഏഴംകുളം ഗവൺമെൻറ് എൽ.പി സ്കൂളിന്  സ്കൂള്‍ ബസ് വാങ്ങൽ",
+            "implementing_agency": "Deputy Director of Education",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ചേന്നംപള്ളിൽ മിത്രപുരം റോഡ്  നിർമ്മാണം  പള്ളിക്കൽ ഗ്രാമപഞ്ചായത്ത്  വാർഡ്-10",
+            "implementing_agency": "PWD Roads Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "പ്ലാവിളത്തറ 22ാം നമ്പർ അംഗൻവാടി കെട്ടിട നിർമ്മാണം  അടൂർ മുൻസിപ്പാലിറ്റി  വാർഡ് -2",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "പുത്തൻചന്ത  പലവിളപ്പടി  റോഡ് നിർമ്മാണം  പള്ളിക്കൽ ഗ്രാമപഞ്ചായത്ത്  വാർഡ്-15",
+            "implementing_agency": "PWD Roads Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കൈതക്കൽ  ബ്രദേഴ്സ് ലൈബ്രറി  കെട്ടിട നിർമ്മാണം പള്ളിക്കൽ ഗ്രാമപഞ്ചായത്ത്  വാർഡ്-23",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "മണ്ണടി HS & VHSS  എയ്ഡഡ് സ്കുളിന്  കിച്ചൻ ബ്ലോക്ക്  നിർമ്മാണം  ഏഴംകുളം ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "pwd buildings division ,pathanamthitta",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ആലത്തിനാൻ പടി അലക്കുപാട്ടുപടി  റോഡ് നിർമ്മാണം  പള്ളിക്കൽ ഗ്രാമപഞ്ചായത്ത് വാർഡ് 16",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "അടൂർ   ഗവൺമെൻറ്  ബോയ്സ്  ഹയർ സെക്കൻഡറി സ്കൂള്‍ ഹൈസ്കൂള്‍ വിഭാഗത്തിന്  10 സ്മാർട്ട് ക്ലാസ്സ് റൂം ക്രമികരണം",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 28.5,
+            "concurrence_lakhs": 28.5
+        },
+        {
+            "project_name": "അടൂർ  മുൻസിപ്പാലിറ്റി  ഡിവിഷൻ  നമ്പർ 1 നാൽപ്പതിനായിരം പടി പോസ്റ്റ്മെട്രിക് റോഡ്  നിർമ്മാണ പദ്ധതി",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "അടൂർ കെ.എസ്.ആർ.ടി.സി  സ്റ്റാന്റിൽ ഷീറ്റ് മുകള്‍പുര നിർമ്മിതിയും അനുബന്ധ പ്രവൃത്തികളും",
+            "implementing_agency": "pwd buildings division ,pathanamthitta",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 99.9,
+            "concurrence_lakhs": 99.9
+        },
+        {
+            "project_name": "അടൂർ മുൻസിപ്പാലിറ്റി   സെന്റ് മേരിസ് സ്കൂള്‍ KSRTC റോഡിൽ ഓടയും കലുങ്കും നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കൊടുമൺ ഗ്രാമപഞ്ചായത്ത് കൊടുമൺ ഗീതാഞ്ജലി ഗ്രന്ഥശാലക്ക് പുതിയ കെട്ടിട  നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "പള്ളിക്കൽ പഞ്ചായത്ത് 5ാം വാർഡ്  അതിർത്തി ആലുംമൂട് 92 ാം നമ്പർ അംഗൻവാടിക്ക് പുതിയ കെട്ടിടം",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ചേന്നം പള്ളിൽ മിത്രപുരം റോഡ്  പള്ളിക്കൽ പഞ്ചായത്ത്  വാർഡ് -10",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "അടൂർ ഗവൺമെൻറ് ഗേള്‍സ് ഹൈസ്കൂള്‍  തോട്ടത്തിൽപടി ബൈപാസ്  റോഡ് നിർമ്മാണ പദ്ധതി",
+            "implementing_agency": "PWD Roads Pathanamthitta",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "അടൂർ മുൻസിപ്പാലിറ്റി  വാർഡ്- 20 ലെ  KP റോഡ്-  മരിയ ഹോസ്പിറ്റൽ  ഏലാ റോഡ്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "പള്ളിക്കൽ  ഗ്രാമപഞ്ചായത്ത് 14ാം  വാർഡ്    മുല്ലയ്ക്കൽപ്പടി എരുവേലിപ്പടി  റോഡ്   നിർമ്മാണം.",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "ഏറത്ത്  ഗ്രാമപഞ്ചായത്ത്  എം.സി.റോഡ്  KAP 3rd  ബറ്റാലിയൻ  കാര്യാലയം   റോഡ് നിർമ്മാണം",
+            "implementing_agency": "PWD Roads Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "ഊട്ടുകളത്തിൽപ്പടി-കീട്ടൂർകുന്ന് ഏലാ റോഡ് നിര്‍മ്മാണം കടമ്പനാട് ഗ്രാമപഞ്ചായത്ത് വാർഡ്-6",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 19.0,
+            "concurrence_lakhs": 19.0
+        },
+        {
+            "project_name": "അടൂർ നിയോജക മണ്ഡലത്തിൽ  വിവിധ  കേന്ദ്രങ്ങളിലായി  38 മിനിമാസ്റ്റ് /സ്ട്രിറ്റ് പോർട്ട് ലൈറ്റ് സ്ഥാപിക്കൽ",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 99.9,
+            "concurrence_lakhs": 99.9
+        },
+        {
+            "project_name": "വടക്കടത്തുകാവ്-വെള്ളക്കുളങ്ങര റോഡ് നിർമ്മാണം ഏറത്ത് പഞ്ചായത്ത്  വാർഡ്-3",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "അടൂർ മുൻസിപ്പാലിറ്റി    സെൻറ്  മേരിസ്   M.M.U.P.S  ന്  ടോയ് ലറ്റ്  ബ്ലോക്ക്  നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കൊട്ടാശ്ശേരിപ്പടി- ചെറിലയം  റോഡ്  പന്തളം തെക്കേക്കര ഗ്രാമപഞ്ചായത്ത് വാർഡ് 4",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഏറത്ത് ഗ്രാമപഞ്ചായത്ത് ഗവൺമെൻറ്  ആയുർവേദ ആശ്രുപത്രി നിർമ്മാണം രണ്ടാം ഘട്ടം",
+            "implementing_agency": "pwd buildings division ,pathanamthitta",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "നെടിയകാലാപടി-പടിഞ്ഞാറ്റിടത്ത്  പടി റോഡ്   പള്ളിക്കൽ  ഗ്രാമപഞ്ചായത്ത്  വാർഡ് 13",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "വള്ളിതുണ്ടിൽ- പെരുവിള പടിഞ്ഞാറ്റേതിൽ റോഡ് പന്തളം തെക്കേക്കര ഗ്രാമപഞ്ചായത്ത്  വാർഡ് 13",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഏറത്ത്  പുതുശ്ശേരിഭാഗം ഗവ.എൽ.പി.സ്കൂളിന് കെട്ടിട നിർമ്മാണം   വാർഡ്-9  ഏറത്ത് ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 51.0,
+            "concurrence_lakhs": 51.0
+        },
+        {
+            "project_name": "കൊടുമൺ ഗ്രാമപഞ്ചായത്ത്  പരിധിയിലുള്ള  ശ്രി ചിത്തരവിലാസം   എൽ.പി സ്കുളിന്  ഓപ്പൺ  ആഡിറ്റോറിയം   നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "പന്തളം ക്യഷി ഭവൻ  പരിധിയിലുള്ള മൂന്നാംകുറ്റി  പാടശേഖര വികസനത്തിന്  ചെറുകിട ജലസേചന പദ്ധതി  (സ്മാള്‍ സെ്കയിൽ ഇറിഗേഷൻ  പ്രോജക്ട്)",
+            "implementing_agency": "Principal Agricultural Officer, Pathanamthitta",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.2,
+            "concurrence_lakhs": 25.2
+        },
+        {
+            "project_name": "ഒരു പഞ്ചായത്തിൽ  ഒരു കളിക്കളം  പദ്ധതി  കടമ്പനാട് ഗ്രാമപഞ്ചായത്ത് സ്റ്റേഡിയം നിർമ്മാണം",
+            "implementing_agency": "Managing Director, Sports Kerala Foundation TVM",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "കൊടുമൺ ഗ്രാമപഞ്ചായത്ത്   ശ്രി ചിത്തിരവിലാസം  എൽ .പി സ്കുള്‍( SCVLPS) ന് അക്കാദമിക്ക് ബ്ലോക്ക് നിർമ്മാണം",
+            "implementing_agency": "LSGD",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "പന്തളം മുന്‍സിപ്പാലിറ്റി ഡിവിഷന്‍ 31 , അട്ടകുഴി കരോട്ട്പടി –ആനകുഴി  റോഡ് നിർമ്മാണം",
+            "implementing_agency": "LSGD",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പന്തളം മുന്‍സിപ്പാലിറ്റി ഡിവിഷന്‍ 24 , മുക്കംമാടത്ത് പൈങ്ങാലി വടക്കേതില്‍-കൂടത്തിനാല്‍പടി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "LSGD",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പള്ളിക്കൽ പഞ്ചായത്ത് -   മേലുട്  കുരമ്പാല റോഡ് നിർമ്മാണം",
+            "implementing_agency": "PWD,Roads",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 75.0,
+            "concurrence_lakhs": 75.0
+        },
+        {
+            "project_name": "അടൂർ മുൻസിപ്പാലിറ്റി വാർഡ് 4 കല്ലട ഇറിഗേഷൻ പ്രോജകട്  കനാൽ റോഡ്  നിർമ്മാണ  പദ്ധതി",
+            "implementing_agency": "EE Kallada  irrigation Kottarakkara",
+            "category": "Irrigation",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "pathanamthitta_shri_chittayam_gopakumar_placeholder"
+}

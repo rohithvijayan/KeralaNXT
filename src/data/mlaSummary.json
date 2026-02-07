@@ -1,0 +1,1308 @@
+{
+  "mlas": [
+    {
+      "id": "./MLA_DATA/KOTTYAM/kottayam_shri_sebastian_kulathunkal_projects.json",
+      "name": "Shri Sebastian Kulathunkal",
+      "constituency": "POONJAR",
+      "district": "Kottayam",
+      "totalExpenditure": 40.7888,
+      "projectCount": 156,
+      "image": "kottayam_shri_sebastian_kulathunkal_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KOTTYAM/kottayam_shri_mani_c_kappan_projects.json",
+      "name": "Shri Mani C. Kappan",
+      "constituency": "PALA",
+      "district": "Kottayam",
+      "totalExpenditure": 39.0951,
+      "projectCount": 120,
+      "image": "kottayam_shri_mani_c_kappan_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/MALAPPURAM/malappuram_dr_k_t_jaleel_projects.json",
+      "name": "DR. K. T. Jaleel",
+      "constituency": "THAVANUR",
+      "district": "Malappuram",
+      "totalExpenditure": 31.6293,
+      "projectCount": 105,
+      "image": "malappuram_dr_k_t_jaleel_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KOTTYAM/kottayam_shri_job_maichil_projects.json",
+      "name": "Shri Job Maichil",
+      "constituency": "CHANGANASSERY",
+      "district": "Kottayam",
+      "totalExpenditure": 31.2806,
+      "projectCount": 124,
+      "image": "kottayam_shri_job_maichil_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/ALAPPUZHA/alappuzha_shri_pp_chitharanjan_projects.json",
+      "name": "Shri P.P. Chitharanjan",
+      "constituency": "ALAPPUZHA",
+      "district": "Alappuzha",
+      "totalExpenditure": 30.4016,
+      "projectCount": 88,
+      "image": "alappuzha_shri_pp_chitharanjan_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/MALAPPURAM/malappuram_shri_manjalamkuzhi_projects.json",
+      "name": "Shri Manjalamkuzhi",
+      "constituency": "MANKADA",
+      "district": "Malappuram",
+      "totalExpenditure": 29.6181,
+      "projectCount": 112,
+      "image": "malappuram_shri_manjalamkuzhi_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KASARGOD/kasargod_shri_ch_kunhambu_projects.json",
+      "name": "Shri C.H. Kunhambu",
+      "constituency": "UDMA",
+      "district": "Kasaragod",
+      "totalExpenditure": 28.6377,
+      "projectCount": 110,
+      "image": "3_C.H._Kunjambu_uduma_o2m7tn"
+    },
+    {
+      "id": "./MLA_DATA/MALAPPURAM/malappuram_shri_p_nandakumar_projects.json",
+      "name": "Shri P. Nandakumar",
+      "constituency": "PONNANI",
+      "district": "Malappuram",
+      "totalExpenditure": 28.4936,
+      "projectCount": 97,
+      "image": "malappuram_shri_p_nandakumar_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KOTTYAM/kottayam_shri_vn_vasavan_projects.json",
+      "name": "Shri V.N. Vasavan",
+      "constituency": "ETTUMANOOR",
+      "district": "Kottayam",
+      "totalExpenditure": 28.4,
+      "projectCount": 111,
+      "image": "kottayam_shri_vn_vasavan_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KOTTYAM/kottayam_shri_thiruvanchoor_radhakrishnan_projects.json",
+      "name": "Shri Thiruvanchoor Radhakrishnan",
+      "constituency": "KOTTAYAM",
+      "district": "Kottayam",
+      "totalExpenditure": 27.8251,
+      "projectCount": 85,
+      "image": "kottayam_shri_thiruvanchoor_radhakrishnan_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/TRIVANDRUM/shri_i_b_satheesh_projects.json",
+      "name": "Shri I. B Satheesh",
+      "constituency": "KATTAKKADA",
+      "district": "Thiruvananthapuram",
+      "totalExpenditure": 27.4724,
+      "projectCount": 94,
+      "image": "shri_i_b_satheesh_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/TRIVANDRUM/shri_g_stephen_projects.json",
+      "name": "Shri G. Stephen",
+      "constituency": "ARUVIKKARA",
+      "district": "Thiruvananthapuram",
+      "totalExpenditure": 27.4291,
+      "projectCount": 89,
+      "image": "shri_g_stephen_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/MALAPPURAM/malappuram_prof_abid_hussain_thangal_projects.json",
+      "name": "Prof. Abid Hussain Thangal",
+      "constituency": "KOTTAKKAL",
+      "district": "Malappuram",
+      "totalExpenditure": 26.5284,
+      "projectCount": 86,
+      "image": "malappuram_prof_abid_hussain_thangal_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/MALAPPURAM/malappuram_shri_abdul_hameed_master_projects.json",
+      "name": "Shri Abdul Hameed Master",
+      "constituency": "VALLIKKUNNU",
+      "district": "Malappuram",
+      "totalExpenditure": 26.308,
+      "projectCount": 64,
+      "image": "malappuram_shri_abdul_hameed_master_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KASARGOD/kasargod_shri_e_chandrasekharan_projects.json",
+      "name": "Shri E. Chandrasekharan",
+      "constituency": "KANHANGAD",
+      "district": "Kasaragod",
+      "totalExpenditure": 26.15,
+      "projectCount": 92,
+      "image": "kannur_shri_e_chandrasekharan_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KOTTYAM/kottayam_smt_c_k_asha_projects.json",
+      "name": "Smt. C. K Asha",
+      "constituency": "VAIKOM",
+      "district": "Kottayam",
+      "totalExpenditure": 26.1251,
+      "projectCount": 99,
+      "image": "kottayam_smt_c_k_asha_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KASARGOD/kasargod_shri_akm_ashraf_projects.json",
+      "name": "Shri. A.K.M Ashraf",
+      "constituency": "MANJESHWAR",
+      "district": "Kasaragod",
+      "totalExpenditure": 25.8626,
+      "projectCount": 106,
+      "image": "1_ashraf_manjeswaram_jronwc"
+    },
+    {
+      "id": "./MLA_DATA/MALAPPURAM/malappuram_shri_a_p_anil_projects.json",
+      "name": "Shri A. P. Anil",
+      "constituency": "WANDOOR",
+      "district": "Malappuram",
+      "totalExpenditure": 25.7191,
+      "projectCount": 79,
+      "image": "malappuram_shri_a_p_anil_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/MALAPPURAM/malappuram_shri_kurukkoli_moideen_projects.json",
+      "name": "Shri Kurukkoli Moideen",
+      "constituency": "TIRUR",
+      "district": "Malappuram",
+      "totalExpenditure": 25.6426,
+      "projectCount": 101,
+      "image": "malappuram_shri_kurukkoli_moideen_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/TRIVANDRUM/shri_v_sasi_projects.json",
+      "name": "Shri V. Sasi",
+      "constituency": "CHIRAYINKEEZHU",
+      "district": "Thiruvananthapuram",
+      "totalExpenditure": 25.2821,
+      "projectCount": 91,
+      "image": "shri_v_sasi_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/MALAPPURAM/malappuram_shri_p_ubaidulla_projects.json",
+      "name": "Shri P. Ubaidulla",
+      "constituency": "MALAPPURAM",
+      "district": "Malappuram",
+      "totalExpenditure": 25.2749,
+      "projectCount": 74,
+      "image": "malappuram_shri_p_ubaidulla_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/ERNAKULAM/ernakulam_shri_p_rajeeve_projects.json",
+      "name": "Shri P. Rajeeve",
+      "constituency": "KALAMASSERY",
+      "district": "Ernakulam",
+      "totalExpenditure": 25.0723,
+      "projectCount": 86,
+      "image": "ernakulam_shri_p_rajeeve_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/THRISSUR/thrissur_shri_kk_ramachandran_projects.json",
+      "name": "Shri K.K. Ramachandran",
+      "constituency": "PUTHUKKAD",
+      "district": "Thrissur",
+      "totalExpenditure": 25.019,
+      "projectCount": 84,
+      "image": "thrissur_shri_kk_ramachandran_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KASARGOD/kasargod_shri_m_rajagopalan_projects.json",
+      "name": "Shri M. Rajagopalan",
+      "constituency": "TRIKARIPUR",
+      "district": "Kasaragod",
+      "totalExpenditure": 24.6455,
+      "projectCount": 87,
+      "image": "kannur_shri_m_rajagopalan_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/MALAPPURAM/malappuram_shri_v_abdurahiman_projects.json",
+      "name": "Shri V. Abdurahiman",
+      "constituency": "TANUR",
+      "district": "Malappuram",
+      "totalExpenditure": 24.4735,
+      "projectCount": 79,
+      "image": "malappuram_shri_v_abdurahiman_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/MALAPPURAM/malappuram_shri_t_v_ibrahim_projects.json",
+      "name": "Shri T. V. Ibrahim",
+      "constituency": "KONDOTTY",
+      "district": "Malappuram",
+      "totalExpenditure": 24.3775,
+      "projectCount": 78,
+      "image": "malappuram_shri_t_v_ibrahim_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/ALAPPUZHA/alappuzha_shri_ms_arun_kumar_projects.json",
+      "name": "Shri M.S Arun Kumar",
+      "constituency": "MAVELIKARA",
+      "district": "Alappuzha",
+      "totalExpenditure": 24.2262,
+      "projectCount": 84,
+      "image": "109_MS_Arunkumar_Mavelikkara_luqhp3"
+    },
+    {
+      "id": "./MLA_DATA/PALAKKAD/palakkad_shri_muhammed_muhassin_p_projects.json",
+      "name": "Shri Muhammed Muhassin P.",
+      "constituency": "PATTAMBI",
+      "district": "Palakkad",
+      "totalExpenditure": 24.1438,
+      "projectCount": 61,
+      "image": "palakkad_shri_muhammed_muhassin_p_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/MALAPPURAM/malappuram_shri_p_k_kunhalikkutty_projects.json",
+      "name": "Shri P K. Kunhalikkutty",
+      "constituency": "VENGARA",
+      "district": "Malappuram",
+      "totalExpenditure": 24.1045,
+      "projectCount": 62,
+      "image": "malappuram_shri_p_k_kunhalikkutty_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KOTTYAM/kottayam_dr_n_jayaraj_projects.json",
+      "name": "DR. N. Jayaraj",
+      "constituency": "KANJIRAPPALLY",
+      "district": "Kottayam",
+      "totalExpenditure": 24.0836,
+      "projectCount": 89,
+      "image": "kottayam_dr_n_jayaraj_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/ALAPPUZHA/alappuzha_shri_thomas_k_thomas_projects.json",
+      "name": "Shri Thomas K Thomas",
+      "constituency": "KUTTANAD",
+      "district": "Alappuzha",
+      "totalExpenditure": 24.0767,
+      "projectCount": 103,
+      "image": "alappuzha_shri_thomas_k_thomas_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/ALAPPUZHA/alappuzha_smt_daleema_projects.json",
+      "name": "Smt. Daleema",
+      "constituency": "AROOR",
+      "district": "Alappuzha",
+      "totalExpenditure": 23.911,
+      "projectCount": 87,
+      "image": "alappuzha_smt_daleema_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/ALAPPUZHA/alappuzha_shri_ramesh_chennithala_projects.json",
+      "name": "Shri Ramesh Chennithala",
+      "constituency": "HARIPAD",
+      "district": "Alappuzha",
+      "totalExpenditure": 23.9087,
+      "projectCount": 69,
+      "image": "RAMESH_CHENNITHALA_rmnybt"
+    },
+    {
+      "id": "./MLA_DATA/IDUKKI/idukki_shri_vazhoor_soman_projects.json",
+      "name": "Shri Vazhoor Soman",
+      "constituency": "PEERUMADE",
+      "district": "Idukki",
+      "totalExpenditure": 23.9,
+      "projectCount": 84,
+      "image": "idukki_shri_vazhoor_soman_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/ALAPPUZHA/alappuzha_shri_saji_cherian_projects.json",
+      "name": "Shri Saji Cherian",
+      "constituency": "CHENGANNUR",
+      "district": "Alappuzha",
+      "totalExpenditure": 23.7782,
+      "projectCount": 82,
+      "image": "SajiCheriyan_c7kfwg"
+    },
+    {
+      "id": "./MLA_DATA/ERNAKULAM/ernakulam_shri_k_j_maxy_projects.json",
+      "name": "Shri K. J. Maxy",
+      "constituency": "KOCHI",
+      "district": "Ernakulam",
+      "totalExpenditure": 23.6758,
+      "projectCount": 68,
+      "image": "ernakulam_shri_k_j_maxy_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/MALAPPURAM/malappuram_shri_p_k_basheer_projects.json",
+      "name": "Shri P. K. Basheer",
+      "constituency": "ERANAD",
+      "district": "Malappuram",
+      "totalExpenditure": 23.5003,
+      "projectCount": 67,
+      "image": "malappuram_shri_p_k_basheer_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/MALAPPURAM/malappuram_shri_kpa_majeed_projects.json",
+      "name": "Shri K.P.A. Majeed",
+      "constituency": "TIRURANGADI",
+      "district": "Malappuram",
+      "totalExpenditure": 23.4146,
+      "projectCount": 63,
+      "image": "malappuram_shri_kpa_majeed_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KANNUR/kannur_shri_mv_govindan_master_projects.json",
+      "name": "Shri M.V. Govindan Master",
+      "constituency": "TALIPARAMBA",
+      "district": "Kannur",
+      "totalExpenditure": 23.3024,
+      "projectCount": 71,
+      "image": "kannur_shri_mv_govindan_master_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/TRIVANDRUM/shri_v_joy_projects.json",
+      "name": "Shri V. Joy",
+      "constituency": "VARKALA",
+      "district": "Thiruvananthapuram",
+      "totalExpenditure": 23.2416,
+      "projectCount": 98,
+      "image": "shri_v_joy_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/ALAPPUZHA/alappuzha_smt_u_prathibha_projects.json",
+      "name": "Smt. U. Prathibha",
+      "constituency": "KAYAMKULAM",
+      "district": "Alappuzha",
+      "totalExpenditure": 23.1238,
+      "projectCount": 85,
+      "image": "alappuzha_smt_u_prathibha_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/MALAPPURAM/malappuram_shri_ua_latheef_projects.json",
+      "name": "Shri U.A. Latheef",
+      "constituency": "MANJERI",
+      "district": "Malappuram",
+      "totalExpenditure": 23.0829,
+      "projectCount": 76,
+      "image": "malappuram_shri_ua_latheef_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KOLLAM/kollam_shri_m_mukesh_projects.json",
+      "name": "Shri M. Mukesh",
+      "constituency": "KOLLAM",
+      "district": "Kollam",
+      "totalExpenditure": 23.0816,
+      "projectCount": 35,
+      "image": "shri_m_mukesh_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/TRIVANDRUM/shri_v_sivankutty_projects.json",
+      "name": "Shri V. Sivankutty",
+      "constituency": "NEMOM",
+      "district": "Thiruvananthapuram",
+      "totalExpenditure": 23.0157,
+      "projectCount": 50,
+      "image": "shri_v_sivankutty_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/TRIVANDRUM/smt_o_s_ambika_projects.json",
+      "name": "Smt. O. S. Ambika",
+      "constituency": "ATTINGAL",
+      "district": "Thiruvananthapuram",
+      "totalExpenditure": 22.9953,
+      "projectCount": 84,
+      "image": "smt_o_s_ambika_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KOLLAM/kollam_shri_pc_vishnunath_projects.json",
+      "name": "Shri P.C. Vishnunath",
+      "constituency": "KUNDARA",
+      "district": "Kollam",
+      "totalExpenditure": 22.9508,
+      "projectCount": 75,
+      "image": "shri_pc_vishnunath_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/ERNAKULAM/ernakulam_shri_kn_unnikrishnan_projects.json",
+      "name": "Shri K.N. Unnikrishnan",
+      "constituency": "VYPIN",
+      "district": "Ernakulam",
+      "totalExpenditure": 22.9264,
+      "projectCount": 93,
+      "image": "kn-unnikrishnan-mla_dvozpr"
+    },
+    {
+      "id": "./MLA_DATA/KOZHIKODE/kozhikode_smt_kanathil_jameela_projects.json",
+      "name": "Smt. Kanathil Jameela",
+      "constituency": "QUILANDY",
+      "district": "Kozhikode",
+      "totalExpenditure": 22.8545,
+      "projectCount": 83,
+      "image": "kozhikode_smt_kanathil_jameela_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/THRISSUR/thrissur_shri_murali_perunelly_projects.json",
+      "name": "Shri Murali Perunelly",
+      "constituency": "MANALUR",
+      "district": "Thrissur",
+      "totalExpenditure": 22.7651,
+      "projectCount": 83,
+      "image": "thrissur_shri_murali_perunelly_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KOTTYAM/kottayam_shri_mons_joseph_projects.json",
+      "name": "Shri Mons Joseph",
+      "constituency": "KADUTHURUTHY",
+      "district": "Kottayam",
+      "totalExpenditure": 22.6406,
+      "projectCount": 102,
+      "image": "kottayam_shri_mons_joseph_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/THRISSUR/thrissur_shri_e_t_taison_master_projects.json",
+      "name": "Shri E. T. Taison Master",
+      "constituency": "KAIPAMANGALAM",
+      "district": "Thrissur",
+      "totalExpenditure": 22.5515,
+      "projectCount": 80,
+      "image": "E_T_Taison_Master_MLA_az5prs"
+    },
+    {
+      "id": "./MLA_DATA/TRIVANDRUM/shri_antony_raju_projects.json",
+      "name": "Shri Antony Raju",
+      "constituency": "THIRUVAN.PURAM",
+      "district": "Thiruvananthapuram",
+      "totalExpenditure": 22.4916,
+      "projectCount": 77,
+      "image": "shri_antony_raju_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/ERNAKULAM/ernakulam_shri_roji_m_john_projects.json",
+      "name": "Shri Roji M. John",
+      "constituency": "ANGAMALY",
+      "district": "Ernakulam",
+      "totalExpenditure": 22.4187,
+      "projectCount": 66,
+      "image": "ernakulam_shri_roji_m_john_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/TRIVANDRUM/shri_v_k_prasanth_projects.json",
+      "name": "Shri V K Prasanth",
+      "constituency": "VATTIYOORKAVU",
+      "district": "Thiruvananthapuram",
+      "totalExpenditure": 22.2897,
+      "projectCount": 83,
+      "image": "V_K_Prasanth_gdx8v0"
+    },
+    {
+      "id": "./MLA_DATA/ERNAKULAM/ernakulam_shri_k_babu_projects.json",
+      "name": "Shri K. Babu",
+      "constituency": "THRIPUNITHURA",
+      "district": "Ernakulam",
+      "totalExpenditure": 22.2375,
+      "projectCount": 74,
+      "image": "ernakulam_shri_k_babu_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/MALAPPURAM/malappuram_shri_najeeb_kanthapuram_projects.json",
+      "name": "Shri Najeeb Kanthapuram",
+      "constituency": "PERINTHALMNA",
+      "district": "Malappuram",
+      "totalExpenditure": 22.1974,
+      "projectCount": 67,
+      "image": "malappuram_shri_najeeb_kanthapuram_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KOZHIKODE/kozhikode_shri_linto_joseph_projects.json",
+      "name": "Shri Linto Joseph",
+      "constituency": "THIRUVAMBADY",
+      "district": "Kozhikode",
+      "totalExpenditure": 22.0762,
+      "projectCount": 68,
+      "image": "kozhikode_shri_linto_joseph_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/ERNAKULAM/ernakulam_shri_eldose_p_kunnapillil_projects.json",
+      "name": "Shri Eldose P. Kunnapillil",
+      "constituency": "PERUMBAVOOR",
+      "district": "Ernakulam",
+      "totalExpenditure": 22.0704,
+      "projectCount": 67,
+      "image": "ernakulam_shri_eldose_p_kunnapillil_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/THRISSUR/thrissur_shri_n_k_akbar_projects.json",
+      "name": "Shri N. K. Akbar",
+      "constituency": "GURUVAYOOR",
+      "district": "Thrissur",
+      "totalExpenditure": 22.058,
+      "projectCount": 54,
+      "image": "thrissur_shri_n_k_akbar_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/TRIVANDRUM/shri_gr_anil_projects.json",
+      "name": "Shri G.R. Anil",
+      "constituency": "NEDUMANGAD",
+      "district": "Thiruvananthapuram",
+      "totalExpenditure": 22.0481,
+      "projectCount": 96,
+      "image": "shri_gr_anil_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/TRIVANDRUM/shri_c_k_hareendran_projects.json",
+      "name": "Shri C. K Hareendran",
+      "constituency": "PARASSALA",
+      "district": "Thiruvananthapuram",
+      "totalExpenditure": 22.0399,
+      "projectCount": 73,
+      "image": "shri_c_k_hareendran_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/TRIVANDRUM/shri_d_k_murali_projects.json",
+      "name": "Shri D. K. Murali",
+      "constituency": "VAMANAPURAM",
+      "district": "Thiruvananthapuram",
+      "totalExpenditure": 21.9987,
+      "projectCount": 94,
+      "image": "shri_d_k_murali_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/TRIVANDRUM/shri_k_ansalan_projects.json",
+      "name": "Shri K. Ansalan",
+      "constituency": "NEYYATTINKARA",
+      "district": "Thiruvananthapuram",
+      "totalExpenditure": 21.9535,
+      "projectCount": 74,
+      "image": "shri_k_ansalan_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/PALAKKAD/palakkad_shri_a_prabhakaran_projects.json",
+      "name": "Shri A. Prabhakaran",
+      "constituency": "MALAMPUZHA",
+      "district": "Palakkad",
+      "totalExpenditure": 21.9508,
+      "projectCount": 76,
+      "image": "palakkad_shri_a_prabhakaran_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/TRIVANDRUM/shri_m_vincent_projects.json",
+      "name": "Shri M. Vincent",
+      "constituency": "KOVALAM",
+      "district": "Thiruvananthapuram",
+      "totalExpenditure": 21.8669,
+      "projectCount": 92,
+      "image": "shri_m_vincent_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KOLLAM/kollam_shri_g_s_jayalal_projects.json",
+      "name": "Shri G. S. Jayalal",
+      "constituency": "CHATHANNOOR",
+      "district": "Kollam",
+      "totalExpenditure": 21.77,
+      "projectCount": 69,
+      "image": "shri_g_s_jayalal_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/PALAKKAD/palakkad_shri_k_premkumar_projects.json",
+      "name": "Shri K. Premkumar",
+      "constituency": "OTTAPALAM",
+      "district": "Palakkad",
+      "totalExpenditure": 21.7066,
+      "projectCount": 74,
+      "image": "K_Premkumar_ochzwq"
+    },
+    {
+      "id": "./MLA_DATA/ERNAKULAM/ernakulam_shri_anwar_projects.json",
+      "name": "Shri Anwar",
+      "constituency": "ALUVA",
+      "district": "Ernakulam",
+      "totalExpenditure": 21.6992,
+      "projectCount": 50,
+      "image": "ernakulam_shri_anwar_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KOZHIKODE/kozhikode_shri_thottathil_projects.json",
+      "name": "Shri Thottathil",
+      "constituency": "KOZHIKODE N.",
+      "district": "Kozhikode",
+      "totalExpenditure": 21.6547,
+      "projectCount": 87,
+      "image": "kozhikode_shri_thottathil_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/PALAKKAD/palakkad_shri_k_d_prasenan_projects.json",
+      "name": "Shri K. D. Prasenan",
+      "constituency": "ALATHUR",
+      "district": "Palakkad",
+      "totalExpenditure": 21.6371,
+      "projectCount": 66,
+      "image": "palakkad_shri_k_d_prasenan_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KOZHIKODE/kozhikode_dr_m_k_muneer_projects.json",
+      "name": "Dr. M. K. Muneer",
+      "constituency": "KODUVALLY",
+      "district": "Kozhikode",
+      "totalExpenditure": 21.5649,
+      "projectCount": 81,
+      "image": "kozhikode_dr_m_k_muneer_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KOZHIKODE/kozhikode_shri_p_t_a_rahim_projects.json",
+      "name": "Shri P. T. A. Rahim",
+      "constituency": "KUNNAMNGLAM",
+      "district": "Kozhikode",
+      "totalExpenditure": 21.3504,
+      "projectCount": 82,
+      "image": "kozhikode_shri_p_t_a_rahim_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/IDUKKI/idukki_shri_m_m_mani_projects.json",
+      "name": "Shri M. M. Mani",
+      "constituency": "UDUMBANCHOLA",
+      "district": "Idukki",
+      "totalExpenditure": 21.2701,
+      "projectCount": 54,
+      "image": "idukki_shri_m_m_mani_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/IDUKKI/idukki_shri_p_j_joseph_projects.json",
+      "name": "Shri P. J. Joseph",
+      "constituency": "THODUPUZHA",
+      "district": "Idukki",
+      "totalExpenditure": 21.0724,
+      "projectCount": 74,
+      "image": "idukki_shri_p_j_joseph_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/PALAKKAD/palakkad_shri_n_samsudheen_projects.json",
+      "name": "Shri N. Samsudheen",
+      "constituency": "MANNARKAD",
+      "district": "Palakkad",
+      "totalExpenditure": 20.9951,
+      "projectCount": 73,
+      "image": "palakkad_shri_n_samsudheen_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/THRISSUR/thrissur_shri_xavier_chittilappilly_projects.json",
+      "name": "Shri Xavier Chittilappilly",
+      "constituency": "WADAKKANCHERY",
+      "district": "Thrissur",
+      "totalExpenditure": 20.9469,
+      "projectCount": 74,
+      "image": "thrissur_shri_xavier_chittilappilly_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/PALAKKAD/palakkad_shri_k_babu_projects.json",
+      "name": "Shri K. Babu",
+      "constituency": "NENMARA",
+      "district": "Palakkad",
+      "totalExpenditure": 20.9245,
+      "projectCount": 53,
+      "image": "k-babu-mla-nenmara_t15iel"
+    },
+    {
+      "id": "./MLA_DATA/KOLLAM/kollam_dr_sujith_vijayan_pillai_projects.json",
+      "name": "Dr. Sujith Vijayan Pillai",
+      "constituency": "CHAVARA",
+      "district": "Kollam",
+      "totalExpenditure": 20.8849,
+      "projectCount": 56,
+      "image": "dr_sujith_vijayan_pillai_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/THRISSUR/thrissur_shri_saneeshkumar_joseph_projects.json",
+      "name": "Shri Saneeshkumar Joseph",
+      "constituency": "CHALAKKUDY",
+      "district": "Thrissur",
+      "totalExpenditure": 20.8159,
+      "projectCount": 83,
+      "image": "thrissur_shri_saneeshkumar_joseph_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KANNUR/kannur_shri_kv_sumesh_projects.json",
+      "name": "Shri K.V. Sumesh",
+      "constituency": "AZHIKODE",
+      "district": "Kannur",
+      "totalExpenditure": 20.7339,
+      "projectCount": 66,
+      "image": "kannur_shri_kv_sumesh_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/PALAKKAD/palakkad_shri_k_krishnankutty_projects.json",
+      "name": "Shri K. Krishnankutty",
+      "constituency": "CHITTUR",
+      "district": "Palakkad",
+      "totalExpenditure": 20.708,
+      "projectCount": 68,
+      "image": "palakkad_shri_k_krishnankutty_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/ERNAKULAM/ernakulam_shri_v_d_satheesan_projects.json",
+      "name": "Shri V. D. Satheesan",
+      "constituency": "PARAVUR",
+      "district": "Ernakulam",
+      "totalExpenditure": 20.5088,
+      "projectCount": 87,
+      "image": "ernakulam_shri_v_d_satheesan_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KOZHIKODE/kozhikode_shri_t_p_ramakrishnan_projects.json",
+      "name": "Shri T. P. Ramakrishnan",
+      "constituency": "PERAMBRA",
+      "district": "Kozhikode",
+      "totalExpenditure": 20.4032,
+      "projectCount": 71,
+      "image": "kozhikode_shri_t_p_ramakrishnan_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/IDUKKI/idukki_shri_a_raja_projects.json",
+      "name": "Shri A. Raja",
+      "constituency": "DEVIKULAM",
+      "district": "Idukki",
+      "totalExpenditure": 20.4005,
+      "projectCount": 80,
+      "image": "idukki_shri_a_raja_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/THRISSUR/thrissur_shri_k_rajan_projects.json",
+      "name": "Shri K. Rajan",
+      "constituency": "OLLUR",
+      "district": "Thrissur",
+      "totalExpenditure": 20.3945,
+      "projectCount": 67,
+      "image": "thrissur_shri_k_rajan_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/PALAKKAD/palakkad_shri_pp_sumod_projects.json",
+      "name": "Shri P.P. Sumod",
+      "constituency": "TARUR",
+      "district": "Palakkad",
+      "totalExpenditure": 20.3574,
+      "projectCount": 83,
+      "image": "palakkad_shri_pp_sumod_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KANNUR/kannur_shri_sajeev_joseph_projects.json",
+      "name": "Shri Sajeev Joseph",
+      "constituency": "IRIKKUR",
+      "district": "Kannur",
+      "totalExpenditure": 20.087,
+      "projectCount": 70,
+      "image": "9_sajeev_joseph_irikkoor_py2lq2"
+    },
+    {
+      "id": "./MLA_DATA/KOZHIKODE/kozhikode_shri_e_k_vijayan_projects.json",
+      "name": "Shri E K Vijayan",
+      "constituency": "NADAPURAM",
+      "district": "Kozhikode",
+      "totalExpenditure": 19.9,
+      "projectCount": 69,
+      "image": "kozhikode_shri_e_k_vijayan_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/THRISSUR/thrissur_shri_cc_mukundan_projects.json",
+      "name": "Shri C.C. Mukundan",
+      "constituency": "NATTIKA",
+      "district": "Thrissur",
+      "totalExpenditure": 19.8906,
+      "projectCount": 64,
+      "image": "thrissur_shri_cc_mukundan_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/THRISSUR/thrissur_shri_v_r_sunil_kumar_projects.json",
+      "name": "Shri V. R. Sunil Kumar",
+      "constituency": "KODUNGALLUR",
+      "district": "Thrissur",
+      "totalExpenditure": 19.8627,
+      "projectCount": 68,
+      "image": "thrissur_shri_v_r_sunil_kumar_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KOLLAM/kollam_shri_kovoor_kunjumon_projects.json",
+      "name": "Shri Kovoor Kunjumon",
+      "constituency": "KUNNATHUR",
+      "district": "Kollam",
+      "totalExpenditure": 19.7019,
+      "projectCount": 72,
+      "image": "shri_kovoor_kunjumon_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/ALAPPUZHA/alappuzha_shri_p_prasad_projects.json",
+      "name": "Shri P. Prasad",
+      "constituency": "CHERTHALA",
+      "district": "Alappuzha",
+      "totalExpenditure": 19.6806,
+      "projectCount": 80,
+      "image": "alappuzha_shri_p_prasad_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KANNUR/kannur_shri_ti_madhusoodanan_projects.json",
+      "name": "Shri T.I. Madhusoodanan",
+      "constituency": "PAYYANNUR",
+      "district": "Kannur",
+      "totalExpenditure": 19.6805,
+      "projectCount": 73,
+      "image": "6_Madhusoonan_Payyanoor_ssgmvf"
+    },
+    {
+      "id": "./MLA_DATA/ERNAKULAM/ernakulam_shri_anoop_jacob_projects.json",
+      "name": "Shri Anoop Jacob",
+      "constituency": "PIRAVOM",
+      "district": "Ernakulam",
+      "totalExpenditure": 19.4775,
+      "projectCount": 84,
+      "image": "ernakulam_shri_anoop_jacob_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/WAYANAD/wayanad_shri_o_r_kelu_projects.json",
+      "name": "Shri O. R. Kelu",
+      "constituency": "MANANTHAVADY",
+      "district": "Wayanad",
+      "totalExpenditure": 19.306,
+      "projectCount": 66,
+      "image": "wayanad_shri_o_r_kelu_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KOLLAM/kollam_shri_cr_mahesh_projects.json",
+      "name": "Shri C.R. Mahesh",
+      "constituency": "KARUNAGAPPALLY",
+      "district": "Kollam",
+      "totalExpenditure": 19.2473,
+      "projectCount": 70,
+      "image": "shri_cr_mahesh_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/PALAKKAD/palakkad_shri_p_mammikkutty_projects.json",
+      "name": "Shri P. Mammikkutty",
+      "constituency": "SHORNUR",
+      "district": "Palakkad",
+      "totalExpenditure": 19.075,
+      "projectCount": 76,
+      "image": "palakkad_shri_p_mammikkutty_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/ERNAKULAM/ernakulam_shri_antony_john_projects.json",
+      "name": "Shri Antony John",
+      "constituency": "KOTHAMANGALAM",
+      "district": "Ernakulam",
+      "totalExpenditure": 19.0292,
+      "projectCount": 74,
+      "image": "ernakulam_shri_antony_john_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/ERNAKULAM/ernakulam_shri_p_v_sreenijin_projects.json",
+      "name": "Shri P. V. Sreenijin",
+      "constituency": "KUNNATHUNAD",
+      "district": "Ernakulam",
+      "totalExpenditure": 18.958,
+      "projectCount": 61,
+      "image": "ernakulam_shri_p_v_sreenijin_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/THRISSUR/thrissur_prof_r_bindu_projects.json",
+      "name": "Prof. R. Bindu",
+      "constituency": "IRINJALAKKUDA",
+      "district": "Thrissur",
+      "totalExpenditure": 18.926,
+      "projectCount": 72,
+      "image": "thrissur_prof_r_bindu_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/ERNAKULAM/ernakulam_shri_t_j_vinod_projects.json",
+      "name": "Shri. T J Vinod",
+      "constituency": "ERANAKULAM",
+      "district": "Ernakulam",
+      "totalExpenditure": 18.7248,
+      "projectCount": 48,
+      "image": "T.J._Vinod_fnknf8"
+    },
+    {
+      "id": "./MLA_DATA/KOZHIKODE/kozhikode_smt_k_k_rema_projects.json",
+      "name": "Smt. K. K. Rema",
+      "constituency": "VADAKARA",
+      "district": "Kozhikode",
+      "totalExpenditure": 18.553,
+      "projectCount": 63,
+      "image": "kozhikode_smt_k_k_rema_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/ERNAKULAM/ernakulam_dr_mathew_kuzhalnadan_projects.json",
+      "name": "DR. Mathew Kuzhalnadan",
+      "constituency": "MUVATTUPUZHA",
+      "district": "Ernakulam",
+      "totalExpenditure": 18.389,
+      "projectCount": 41,
+      "image": "ernakulam_dr_mathew_kuzhalnadan_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KANNUR/kannur_shri_sunny_joseph_projects.json",
+      "name": "Shri Sunny Joseph",
+      "constituency": "PERAVOOR",
+      "district": "Kannur",
+      "totalExpenditure": 18.1119,
+      "projectCount": 76,
+      "image": "kannur_shri_sunny_joseph_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/WAYANAD/wayanad_shri_t_siddique_projects.json",
+      "name": "Shri T. Siddique",
+      "constituency": "KALPETTA",
+      "district": "Wayanad",
+      "totalExpenditure": 18.0961,
+      "projectCount": 74,
+      "image": "wayanad_shri_t_siddique_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/PALAKKAD/palakkad_shri_mb_rajesh_projects.json",
+      "name": "Shri M.B. Rajesh",
+      "constituency": "THRITHALA",
+      "district": "Palakkad",
+      "totalExpenditure": 17.9683,
+      "projectCount": 63,
+      "image": "palakkad_shri_mb_rajesh_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KOZHIKODE/kozhikode_shri_pa_mohamed_riyas_projects.json",
+      "name": "Shri P.A. Mohamed Riyas",
+      "constituency": "BEYPORE",
+      "district": "Kozhikode",
+      "totalExpenditure": 17.704,
+      "projectCount": 69,
+      "image": "kozhikode_shri_pa_mohamed_riyas_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KOZHIKODE/kozhikode_shri_kp_kunhammed_kutty_master_projects.json",
+      "name": "Shri K.P. Kunhammed Kutty Master",
+      "constituency": "KUTTIADI",
+      "district": "Kozhikode",
+      "totalExpenditure": 17.5663,
+      "projectCount": 63,
+      "image": "kozhikode_shri_kp_kunhammed_kutty_master_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/TRIVANDRUM/shri_kadakampally_projects.json",
+      "name": "Shri Kadakampally",
+      "constituency": "KAZHAKKOOTTAM",
+      "district": "Thiruvananthapuram",
+      "totalExpenditure": 17.4647,
+      "projectCount": 51,
+      "image": "shri_kadakampally_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KANNUR/kannur_shri_pinarayi_vijayan_projects.json",
+      "name": "Shri Pinarayi Vijayan",
+      "constituency": "DHARMADAM",
+      "district": "Kannur",
+      "totalExpenditure": 17.4527,
+      "projectCount": 52,
+      "image": "kannur_shri_pinarayi_vijayan_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KOTTYAM/kottayam_shri_chandy_oommen_projects.json",
+      "name": "Shri Chandy Oommen",
+      "constituency": "PUTHUPPALLY",
+      "district": "Kottayam",
+      "totalExpenditure": 17.411,
+      "projectCount": 61,
+      "image": "Chandy_Oommen_buojhy"
+    },
+    {
+      "id": "./MLA_DATA/KASARGOD/kasargod_shri_n_a_nellikkunnu_projects.json",
+      "name": "Shri N. A. Nellikkunnu",
+      "constituency": "KASARAGOD",
+      "district": "Kasaragod",
+      "totalExpenditure": 17.342,
+      "projectCount": 68,
+      "image": "kannur_shri_n_a_nellikkunnu_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KOZHIKODE/kozhikode_shri_ahammed_projects.json",
+      "name": "Shri Ahammed",
+      "constituency": "KOZHIKODE S.",
+      "district": "Kozhikode",
+      "totalExpenditure": 17.254,
+      "projectCount": 73,
+      "image": "28_Ahammad_devarkovil_kozhikode_north_mhd5dl"
+    },
+    {
+      "id": "./MLA_DATA/KOZHIKODE/kozhikode_shri_ak_saseendran_projects.json",
+      "name": "Shri A.K. Saseendran",
+      "constituency": "ELATHUR",
+      "district": "Kozhikode",
+      "totalExpenditure": 17.1606,
+      "projectCount": 76,
+      "image": "A.K_Saseendran_rb1ota"
+    },
+    {
+      "id": "./MLA_DATA/KOLLAM/kollam_shri_m_noushad_projects.json",
+      "name": "Shri M. Noushad",
+      "constituency": "ERAVIPURAM",
+      "district": "Kollam",
+      "totalExpenditure": 17.1426,
+      "projectCount": 55,
+      "image": "shri_m_noushad_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/PATHANAMTHITTA/pathanamthitta_shri_pramod_narayan_projects.json",
+      "name": "Shri Pramod Narayan",
+      "constituency": "RANNI",
+      "district": "Pathanamthitta",
+      "totalExpenditure": 16.9921,
+      "projectCount": 63,
+      "image": "pathanamthitta_shri_pramod_narayan_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/THRISSUR/thrissur_shri_a_c_moideen_projects.json",
+      "name": "Shri A. C Moideen",
+      "constituency": "KUNNAMKULAM",
+      "district": "Thrissur",
+      "totalExpenditure": 16.8376,
+      "projectCount": 47,
+      "image": "thrissur_shri_a_c_moideen_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KOLLAM/kollam_smt_j_chinjurani_projects.json",
+      "name": "Smt J. Chinjurani",
+      "constituency": "CHADAYAMGLM",
+      "district": "Kollam",
+      "totalExpenditure": 16.8094,
+      "projectCount": 64,
+      "image": "smt_j_chinjurani_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KOLLAM/kollam_shri_kn_balagopal_projects.json",
+      "name": "Shri K.N. Balagopal",
+      "constituency": "KOTTARAKKARA",
+      "district": "Kollam",
+      "totalExpenditure": 16.6817,
+      "projectCount": 40,
+      "image": "shri_kn_balagopal_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KANNUR/kannur_shri_ramachandran_kadannappalli_projects.json",
+      "name": "Shri Ramachandran Kadannappalli",
+      "constituency": "KANNUR",
+      "district": "Kannur",
+      "totalExpenditure": 16.6707,
+      "projectCount": 49,
+      "image": "kannur_shri_ramachandran_kadannappalli_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/PALAKKAD/palakkad_smt_santhakumari_k_projects.json",
+      "name": "Smt. Santhakumari. K",
+      "constituency": "KONGAD",
+      "district": "Palakkad",
+      "totalExpenditure": 16.585,
+      "projectCount": 62,
+      "image": "palakkad_smt_santhakumari_k_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/THRISSUR/thrissur_shri_p_balachandran_projects.json",
+      "name": "Shri P. Balachandran",
+      "constituency": "THRISSUR",
+      "district": "Thrissur",
+      "totalExpenditure": 16.2872,
+      "projectCount": 41,
+      "image": "thrissur_shri_p_balachandran_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/WAYANAD/wayanad_shri_i_c_balakrishnan_projects.json",
+      "name": "Shri I. C. Balakrishnan",
+      "constituency": "SUL-BATHERY",
+      "district": "Wayanad",
+      "totalExpenditure": 16.0741,
+      "projectCount": 65,
+      "image": "wayanad_shri_i_c_balakrishnan_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/ALAPPUZHA/alappuzha_shri_h_salam_projects.json",
+      "name": "Shri H. Salam",
+      "constituency": "AMBALAPUZHA",
+      "district": "Alappuzha",
+      "totalExpenditure": 15.5315,
+      "projectCount": 37,
+      "image": "alappuzha_shri_h_salam_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KOLLAM/kollam_shri_k_b_ganesh_kumar_projects.json",
+      "name": "Shri K. B. Ganesh Kumar",
+      "constituency": "PATHANAPURAM",
+      "district": "Kollam",
+      "totalExpenditure": 15.0798,
+      "projectCount": 55,
+      "image": "shri_k_b_ganesh_kumar_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KANNUR/kannur_shri_kp_mohanan_projects.json",
+      "name": "Shri K.P. Mohanan",
+      "constituency": "KUTHUPARAMBA",
+      "district": "Kannur",
+      "totalExpenditure": 14.7806,
+      "projectCount": 71,
+      "image": "14_kp_mohanan_koothuparamba_x4sqp9"
+    },
+    {
+      "id": "./MLA_DATA/ERNAKULAM/ernakulam_smt_uma_thomas_projects.json",
+      "name": "Smt. Uma Thomas",
+      "constituency": "THRIKKAKARA",
+      "district": "Ernakulam",
+      "totalExpenditure": 14.4794,
+      "projectCount": 49,
+      "image": "ernakulam_smt_uma_thomas_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KOZHIKODE/kozhikode_shri_km_projects.json",
+      "name": "Shri K.M.Sachin Dev",
+      "constituency": "BALUSSERI",
+      "district": "Kozhikode",
+      "totalExpenditure": 14.178,
+      "projectCount": 65,
+      "image": "25_Sachin_Dev_balussery_omduko"
+    },
+    {
+      "id": "./MLA_DATA/PATHANAMTHITTA/pathanamthitta_shri_k_u_jenish_kumar_projects.json",
+      "name": "Shri. K U Jenish Kumar",
+      "constituency": "KONNI",
+      "district": "Pathanamthitta",
+      "totalExpenditure": 14.1245,
+      "projectCount": 29,
+      "image": "pathanamthitta_shri_k_u_jenish_kumar_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KANNUR/kannur_shri_m_vijin_projects.json",
+      "name": "Shri M. Vijin",
+      "constituency": "KALLIASSERI",
+      "district": "Kannur",
+      "totalExpenditure": 13.7638,
+      "projectCount": 62,
+      "image": "7_M_Vijin_Kalliassery_q9nkzf"
+    },
+    {
+      "id": "./MLA_DATA/KOLLAM/kollam_shri_ps_supal_projects.json",
+      "name": "Shri P.S. Supal",
+      "constituency": "PUNALOOR",
+      "district": "Kollam",
+      "totalExpenditure": 13.4881,
+      "projectCount": 44,
+      "image": "PS_SUPAL_twwytd"
+    },
+    {
+      "id": "./MLA_DATA/IDUKKI/idukki_shri_roshy_augustine_projects.json",
+      "name": "Shri Roshy Augustine",
+      "constituency": "IDUKKI",
+      "district": "Idukki",
+      "totalExpenditure": 12.2478,
+      "projectCount": 38,
+      "image": "idukki_shri_roshy_augustine_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/PATHANAMTHITTA/pathanamthitta_shri_mathew_t_thomas_projects.json",
+      "name": "Shri Mathew. T. Thomas",
+      "constituency": "THIRUVALLA",
+      "district": "Pathanamthitta",
+      "totalExpenditure": 11.7079,
+      "projectCount": 45,
+      "image": "pathanamthitta_shri_mathew_t_thomas_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/PATHANAMTHITTA/pathanamthitta_shri_chittayam_gopakumar_projects.json",
+      "name": "Shri Chittayam Gopakumar",
+      "constituency": "ADOOR",
+      "district": "Pathanamthitta",
+      "totalExpenditure": 11.2744,
+      "projectCount": 45,
+      "image": "pathanamthitta_shri_chittayam_gopakumar_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KANNUR/kannur_smt_kk_shailaja_teacher_projects.json",
+      "name": "Smt. K.K. Shailaja Teacher",
+      "constituency": "MATTANNUR",
+      "district": "Kannur",
+      "totalExpenditure": 10.1222,
+      "projectCount": 45,
+      "image": "kannur_smt_kk_shailaja_teacher_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/KANNUR/kannur_shri_a_n_shamseer_projects.json",
+      "name": "Shri A. N. Shamseer",
+      "constituency": "THALASSERY",
+      "district": "Kannur",
+      "totalExpenditure": 8.4811,
+      "projectCount": 15,
+      "image": "kannur_shri_a_n_shamseer_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/MALAPPURAM/malappuram_shri_aryadan_shoukath_projects.json",
+      "name": "Shri Aryadan Shoukath",
+      "constituency": "NILAMBUR",
+      "district": "Malappuram",
+      "totalExpenditure": 8.21,
+      "projectCount": 23,
+      "image": "malappuram_shri_aryadan_shoukath_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/PALAKKAD/palakkad_shri__rahul_mamkootathil_projects.json",
+      "name": "Shri  Rahul Mamkootathil",
+      "constituency": "PALAKKAD",
+      "district": "Palakkad",
+      "totalExpenditure": 6.2,
+      "projectCount": 28,
+      "image": "palakkad_shri__rahul_mamkootathil_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/THRISSUR/thrissur_shri_u_r_pradeep_projects.json",
+      "name": "Shri U. R. Pradeep",
+      "constituency": "CHELAKKARA",
+      "district": "Thrissur",
+      "totalExpenditure": 5.1114,
+      "projectCount": 15,
+      "image": "thrissur_shri_u_r_pradeep_placeholder"
+    },
+    {
+      "id": "./MLA_DATA/PATHANAMTHITTA/pathanamthitta_smt_veena_george_projects.json",
+      "name": "Smt. Veena George",
+      "constituency": "ARANMULA",
+      "district": "Pathanamthitta",
+      "totalExpenditure": 2.3773,
+      "projectCount": 6,
+      "image": "pathanamthitta_smt_veena_george_placeholder"
+    }
+  ],
+  "aggregate": {
+    "totalMLAs": 140,
+    "totalExpenditure": 2927.562899999999,
+    "totalProjects": 10025,
+    "totalDistricts": 14,
+    "sectorBreakdown": [
+      {
+        "label": "Road",
+        "value_crores": 1351.5476999999994
+      },
+      {
+        "label": "Others",
+        "value_crores": 593.0836999999996
+      },
+      {
+        "label": "Infrastructure",
+        "value_crores": 282.8298999999999
+      },
+      {
+        "label": "Education",
+        "value_crores": 241.39539999999997
+      },
+      {
+        "label": "Electricity",
+        "value_crores": 199.77599999999998
+      },
+      {
+        "label": "Irrigation",
+        "value_crores": 128.20149999999998
+      },
+      {
+        "label": "Healthcare",
+        "value_crores": 82.17489999999998
+      },
+      {
+        "label": "Sports",
+        "value_crores": 36.8829
+      },
+      {
+        "label": "Water Supply",
+        "value_crores": 11.670899999999998
+      }
+    ]
+  }
+}

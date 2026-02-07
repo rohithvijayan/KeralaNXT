@@ -1,0 +1,617 @@
+{
+    "mla_name": "Shri Ahammed",
+    "constituency": "KOZHIKODE S.",
+    "district": "Kozhikode",
+    "summary": {
+        "total_expenditure_crores": 17.254,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 10.6132
+            },
+            {
+                "label": "Others",
+                "value_crores": 4.2151
+            },
+            {
+                "label": "Education",
+                "value_crores": 1.3377
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.588
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 0.5
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "മാങ്ങാട്ട് റോഡ് കുറ്റിത്തൊടി - മേലെ കുറ്റിത്തൊടി മേലെ ചുളളിയോട് റോഡ് - കോഴിക്കോട് കോർപ്പറേഷൻ",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കോഴിക്കോട് നഗരം പോലീസ് സ്റ്റേഷൻ നവീകരണം - കോഴിക്കോട് സൌത്ത് നിയോജക മണ്ഡലം",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "മേടോൽത്താഴം റോഡിൽ 150 മീറ്റർ ഫുട്പാത്ത് പ്രവൃത്തി - വാർഡ്.34 - കോഴിക്കോട് കോർപ്പറേഷൻ",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പുതിയറ നടുക്കണ്ടി പറമ്പിൽ ഡ്രൈനേജ് ഫുട്പാത്ത് നിർമ്മാണം - കോഴിക്കോട് സൌത്ത് നിയോജകമണ്ഡലം",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 -ആലിക്കുട്ടി റോഡ് - വാർഡ്. 30 - കോഴിക്കോട് കോർപ്പറേഷൻ",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.8,
+            "concurrence_lakhs": 15.8
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - മൊയ്തീൻ പളളി റോഡ് നവീകരണം - വാർഡ്.61 -കോഴിക്കോട് കോർപ്പറേഷൻ -കോഴിക്കോട് സൌത്ത്",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - പളളിക്കണ്ടി അഴീക്കൽ റോഡ് -ഡ്രൈനേജ് നിർമ്മാണം - കോഴിക്കോട് കോർപ്പറേഷൻ",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26- പൈപ്പ് ലൈൻ റോഡ് പൂർത്തീകരണവും -ഡ്രൈനേജ് കവറിംഗ് സ്ലാബിടലും - വാർഡ് .25 - കോഴിക്കോട് കോർപ്പറേഷൻ.",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26- തടപ്പറമ്പ് കോട്ടക്കുന്ന് റോഡ് ടാറിംഗും, ഡ്രൈനേജ് നിർമ്മാണവും - വാർഡ്.23 - കോഴിക്കോട് കോർപ്പറേഷൻ",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - താഴെ മണ്ണിടത്ത് പറമ്പ് റോഡ് നവീകരണം - വാർഡ്.56 - കോഴിക്കോട് കോർപ്പറേഷൻ",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26-  മേലേരിപ്പാടം റോഡ് ടാറിംഗും ഡ്രൈനേജ് നിർമ്മാണവും - വാർഡ്. 37 - കോഴിക്കോട്  കോർപ്പറേഷൻ",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കുണ്ടുങ്ങൽ ഇബ്രാഹിം പാലം റോഡ് (അബു ഹാജി ഹാളിന് മുൻവശമുളള റോഡ്) വാർഡ്. 57 - കോഴിക്കോട് കോർപ്പറേഷൻ",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26- വട്ടോളിത്താഴം ഡ്രൈനേജ് ഫുട് പാത്ത് - വാർഡ്.28 -കോഴിക്കോട് - കോഴിക്കോട് സൌത്ത് നിയോജകമണ്ഡലം",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "LAC ADS 2025-26 - കൈതവളപ്പ്  തോട് സ്ലാബ് ഇടൽ-വാർഡ്.36 കോഴിക്കോട് കോർപ്പറേഷൻ  - കോഴിക്കോട് സൌത്ത് നിയോജകമണ്ഡലം.",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25-  പൊറ്റമ്മൽ തൊണ്ടയാട് റോഡ് - ചിൻമയ സ്ക്കൂൾ റോഡ്- വാർഡ് .29 -കോഴിക്കോട് സൌത്ത് നിയോജകമണ്ഡലം",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 22.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - കൃഷ്ണപൊയിൽ റോഡ് നിർമ്മാണം - മധുരമ്പലം റോഡ് കോൺക്രീറ്റ് - കോഴിക്കോട് കോർപ്പറേഷൻ- കോഴിക്കോട് സൌത്ത് നിയോജകമണ്ഡലം",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS - 2024-25 - തൊണ്ടയാട് ബൈപ്പാസ് - കെ ടി താഴം അംഗൻവാടി - ചെറുകരമൂല റോഡ് - കോഴിക്കോട് സൌത്ത് നിോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 -തൊണ്ടയാട് -സ്റ്റാർകെയർ റോഡ് പൂർത്തീകരണവും, സ്ലാബ് കവറിങ്ങും, ചന്ദുകുഞ്ച ലൈബ്രറി മുതൽ സ്റ്റാർ കെയർ വരെ - വാർഡ്.25 - കോഴിക്കോട് കോർപ്പറേഷൻ",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - വെളിയഞ്ചേരി ഡ്രൈയിനേജ് കവറിംഗ് സ്ലാബ് ഇടൽ- വാർഡ്.60 -കോഴിക്കോട് കോർപ്പറേഷൻ - കോഴിക്കോട് സൌത്ത് നിയോജകമണ്ഡലം.",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - നാലുകുടി പറമ്പ് ഡ്രൈനേജ് നവീകരണം - വാർഡ്.36 -  കോഴിക്കോട് സൌത്ത് നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 -പറയഞ്ചേരി 26-ാം വാർഡ് കോട്ടൂളി എംഎൽഎ റോഡിൽ നിന്നും മാങ്ങാട്ട് വയൽ റോഡിലേയ്ക്ക് പോകുന്ന കോൺക്രീറ്റ് റോഡ് (3 മീറ്റർ വീതി, 80 മീറ്റർ നീളം) - വാർഡ്.26 -കോഴിക്കോട് സൌത്ത് നിയോജകമണ്ഡം.",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - പറയഞ്ചേരി 26-ാം വാർഡ് കോട്ടൂളി എംഎൽഎ റോഡിൽ നിന്നും മാങ്ങാട്ട് വയൽ റോഡിലേയ്ക്ക് പോകുന്ന കോൺക്രീറ്റ് റോഡ് (3 മീറ്റർ വീതി, 80 മീറ്റർ നീളം) - വാർഡ്.26 - കോഴിക്കോട് സൌത്ത് നിയോജകമണ്ഡലം.",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25-  കെ.പി കുഞ്ഞികോയ റോഡ് നവീകരണം -വാർഡ്.56 - കോഴിക്കോട് കോർപ്പറേഷൻ - കോഴിക്കോട് സൌത്ത് നിയോജക മണ്ഡലം.",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25- പട്ടർതൊടി റോഡ് ഡ്രെയിനേജ് ഫുട്പാത്ത് നവീകരണം (വാർഡ്.54) - കോഴിക്കോട് കോർപ്പറേഷൻ - കോഴിക്കോട് സൌത്ത് നിയോജക മണ്ഡലം",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS - 2024-25 -  മഠത്തിൽമുക്ക് - നെയ്ത്തുകുളങ്ങര റോഡ് നവീകരണം (വാർഡ്.23)  - കോഴിക്കോട് കോർപ്പറേഷൻ -കോഴിക്കോട് സൌത്ത് നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - ഗവ. എച്ച്.എസ്.എസ് ആഴ്ചവട്ടം കെട്ടിട നിർമ്മാണം  (വാർഡ് -35) കോഴിക്കോട് കോർപ്പറേഷൻ  - കോഴിക്കോട് സൌത്ത് നിയോജകമണ്ഡലം",
+            "implementing_agency": "Executive Engineer, PWD, Buildings,Kozhikode",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": ".",
+            "implementing_agency": "Executive Engineer, LSGD, Kozhikode",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 0.01,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "LAC ADS - 2024-2025 –  കൈതപ്പാടം മുതൽ കൊമ്മേരിയിലേക്കുളള റോഡ് ഉയർത്തി ഡ്രൈനേജ് നിർമ്മാണം (75 മീറ്റർ)  -കോഴിക്കോട് സൌത്ത് നിയോജക മണ്ഡലം",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.52,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "LAC ADS 2023-24 - പാലാട്ട് നഗര്‍ ഗവ.യു.പിസ്ക്കൂളിന്  കെട്ടിട നിര്‍മ്മാണം - കോഴിക്കോട് സൌത്ത് നിയോജകമണ്ഡലം.",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 -  മണൽത്താഴം ശ്രീ വളയനാട് ക്ഷേത്ര റോഡും സമീപവഴികളും ഡ്രൈനേജ് നവീകരണം, സ്ലാബ് ഇടൽ - കോഴിക്കോട് കോർപ്പറേഷൻ - കോഴിക്കോട് സൌത്ത് നിയോജകമണ്ഡലം.",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "KOZHIKODE SOUTH - 2024-25 - എടവന മീത്തൽ റോഡ് നിർമ്മാണം (വാർഡ് 22)",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "KOZHIKODE SOUTH LAC ADS - 2024-25 - പുനത്തിൽ മീത്തൽ റോഡ് പോത്തഞ്ചേരി മീത്തൽ റോഡ് ഡ്രെയിനേജ് നവീകരണം - സംബന്ധിച്ച്",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 18.0
+        },
+        {
+            "project_name": "LAC ADS 2024-25 - കോഴിക്കോട് സൌത്ത് - താഴെ എടക്കര  ഫുട്പാത്ത് ഡ്രയിനേജ് നവീകരണം (വാർഡ്.32) കോഴിക്കോട് കോർപ്പറേഷൻ",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കോഴിക്കോട് സൌത്ത് LAC ADS - 2019-20 - തളി ഗവ. യു പി സ്കൂളിന് വാഹനം വാങ്ങൽ",
+            "implementing_agency": "Deputy Director of Education, Kozhikode",
+            "category": "Education",
+            "fy": "2019-2020",
+            "estimate_lakhs": 23.77,
+            "concurrence_lakhs": 23.77
+        },
+        {
+            "project_name": "LAC ADS 2024-25-  കോഴിക്കോട് സൌത്ത് - ചാലപ്പുറം ഭജനകോവിൽ റോഡ്, ഡ്രൈനേജ് നവീകരണം",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പൊക്കുന്ന് ഗവ: യുപി സ്ക്കൂളിന് വാഹനം വാങ്ങല്‍",
+            "implementing_agency": "Deputy Director of Education, Kozhikode",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "മുഖദാര്‍(സൗത്ത്)ബീച്ച് സൗന്ദര്യവല്‍ക്കരണം",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 100.0,
+            "concurrence_lakhs": 99.5
+        },
+        {
+            "project_name": "മാനാഞ്ചിറയില്‍ ആധുനിക മാതൃകയില്‍ ബസ് ബെ നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer National Highways",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 34.0
+        },
+        {
+            "project_name": "പൊറ്റമ്മല് ജംഗ്ഷനിലെ ഗ്രൗണ്ട് മള്‍ട്ടി പര്‍പ്പസ് മാതൃകയില്‍ നവീകരണം-ബഹു.കോഴിക്കോട് സൗത്ത് നിയോജകമണ്ഡലം എം.എല്‍.എ ശ്രീ അഹമ്മദ് ദേവര്‍കോവില്‍ അവര്‍കളുടെ 2023-24 ആസ്തി വികസന പദ്ധതി",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 100.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എം കെ റോഡ്‌ കുണ്ടുങ്ങല്‍ റോഡ്‌ നവീകരണം",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "കാളൂര്‍ റോഡ്‌ തെറ്റാങ്കണ്ടി ക്ഷേത്രം-മണല്‍ത്താഴം റോഡ്‌",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.5,
+            "concurrence_lakhs": 17.5
+        },
+        {
+            "project_name": "ചക്കും കടവ് വാർഡ് മുണ്ടങ്ങാട്ട് പറമ്പ് – AWH റോഡ് നിർമ്മാണം - ബഹു. കോഴിക്കോട് സൗത്ത് എം എല്‍ എ അഹമ്മദ് ദേവര്‍കോവിലിന്റെ  ആസ്തി വികസന ഫണ്ട് പദ്ധതി സംബന്ധിച്ച്",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.5,
+            "concurrence_lakhs": 17.5
+        },
+        {
+            "project_name": "തോട്ടുമ്മാരം - വില്യാട്ടില്‍ പടന്നപറമ്പ് - ഡ്രൈനേജ് ഫുട്പാത്ത് നിര്‍മ്മാണം",
+            "implementing_agency": "Executive engineer, Minor Irrigation",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 26.47
+        },
+        {
+            "project_name": "മാാനാഞ്ചിറ മൈതാനത്തെ അന്തർദേശീയ നിലവാരമുള്ള ബാസ്കറ്റ് ബോൾ കോർട്ടിൽ ഫ്ലഡ് ലൈറ്റ് സൌകര്യമൊരുക്കൽ",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 18.8,
+            "concurrence_lakhs": 18.8
+        },
+        {
+            "project_name": "കോഴിക്കോട് മെഡിക്കൽ കോളേജിൽ ഓടിച്ചുകൊണ്ട് ക്ലീൻ ചെയ്യുന്ന ക്ലീനീംഗ് മെഷീൻ വാങ്ങൽ",
+            "implementing_agency": "Principal, Govt. Medical College, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പണ്ടാരത്ത് വളപ്പ് ഡ്രൈനേജ് ഫുട്പാത്ത് നിർമ്മാണം – വാർഡ് 54",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "തൊണ്ടയാട് – സ്റ്റാർ കെയർ റോഡ് – ഡ്രൈനേജ് നവീകരണം",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ഗവ.അച്യുതൻ ഗേൾസ് എൽ.പി.സ്കൂളിന് ബസ് വാങ്ങൽ",
+            "implementing_agency": "Deputy Director of Education, Kozhikode",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "കൊമ്മേരി – കുറ്റിടിൽ താഴം മുള്ളത്ത് വയൽ ഇടവഴി കോൺക്രീറ്റ് ഇട്ട് ഡ്രൈനേജ് നിർമ്മിക്കൽ",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.5,
+            "concurrence_lakhs": 17.5
+        },
+        {
+            "project_name": "കോവൂർ കൃഷ്ണപൊയിൽ റോഡ് ഫുട്ട്പാത്ത് നിർമ്മാണം",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കോഴിക്കോട് സെൻട്രൽ മാർക്കറ്റിൽ ടോയ് ലറ്റ് കോംപ്ലക്സ്",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പന്നിയങ്കര ആമോളി പറമ്പ് - ചെറുതാഴം പറമ്പ് തോട് നവീകരിച്ച് ഭിത്തി കെട്ടല്‍",
+            "implementing_agency": "Executive engineer, Minor Irrigation",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കാലിക്കറ്റ് ഗേള്‍സ് സ്കൂള്‍ (കുണ്ടുങ്ങല്‍) ന് പിറകിലുള്ള  അരയാന്‍ തോപ്പ്, നടേലത്ത് പറമ്പ്, മാളികതാഴം പ്രദേശത്തെ തോടിന് കവറിംഗ് സ്ലാബ് ഇടല്‍",
+            "implementing_agency": "Executive engineer, Minor Irrigation",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "ആഴ്ച്ചവട്ടം ശിവക്ഷേത്രം മുതല്‍ കുന്നിക്കല്‍ ഇടവഴിവരെ റോഡ്, ഡ്രൈനേജ് നിര്‍മ്മാണം, കവറിംഗ് സ്ലാബിടല്‍",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "തൊണ്ടയാട് ബൈപാസ് ജംഗ്ഷന്‍റെ ടി.പി. കുമാരന്‍ നായര്‍  റോഡ്, ഡ്രൈനേജ് നവീകരിച്ച് കവറിങ്ങ്  സ്ലാബിടല്‍ പ്രവൃത്തി",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കല്ലായി -  വെസ്റ്റ് മാങ്കാവ് ലിറ്റില്‍ സോമില്‍ റോഡ് ഉയര്‍ത്തി ഡ്രൈനേജ് കവറിങ്ങ് സ്ലാബ് നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "തപോവനം രണ്ടാംഘട്ട വികസന പ്രവൃത്തി",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പയ്യാനക്കല്‍ കാവിന് പടിഞ്ഞാറ് പോകുന്ന പട്ടര്‍തൊടി - പടന്ന വളപ്പ് ഫുട്പാത്ത് - ഡ്രൈനേജ് നിര്‍മ്മാണം (150 മീറ്റര്‍)",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 14.2
+        },
+        {
+            "project_name": "പയ്യാനക്കല്‍  വൈ.എം.ആര്‍.സി - പുളിക്കല്‍ പാടം റോഡ് ഡ്രൈനേജ് നിര്‍മ്മാണം (500 മീറ്റര്‍)",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "വലിയങ്ങാടി വാടിയില്‍ റോഡ് പുനര്‍നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കോവൂര്‍ എം.എല്‍.എ റോഡ് ഇഖ്റ ക്ലിനിക്കിന് എതിര്‍വശത്ത് മാക്കോലത്ത് താഴം കക്കാട് കുന്ന് റോഡ്, കള്‍വര്‍ട്ട് നിര്‍മ്മാണം.",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "കമ്മിളിമുക്ക് (പൂവ്വങ്ങല്‍) റോഡ് മുതല്‍ അയ്യപ്പന്‍കാവ് വരെ റോഡ്, ഡ്രൈനേജ് നവീകരണം",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "കോതക്കുളം റോഡ് ഉയര്‍ച്ച കൂട്ടി ഓവുചാല്‍ സൌകര്യത്തോട് കൂടി നവീകരിക്കല്‍",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "വളയനാട്, ഋഷിപുരം (കല്ല്യാണികുട്ടി ടീച്ചര്‍) റോഡ് നവീകരണം",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "മാങ്ങോട്ടുവയല്‍ റോഡ്, ഡ്രൈനേജ് നിര്‍മ്മിക്കല്‍",
+            "implementing_agency": "Executive Engineer, PWD Roads & Bridges Division, Kozhikode",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ഗവ.യു.പി സ്കൂള്‍, കല്ലായ് - സ്കൂള്‍ വാഹനം വാങ്ങല്‍",
+            "implementing_agency": "Deputy Director of Education, Kozhikode",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 24.5,
+            "concurrence_lakhs": 24.5
+        },
+        {
+            "project_name": "ഗവ.എല്‍.പി സ്കൂള്‍,  ആഴ്ച്ചവട്ടം - സ്കൂള്‍ വാഹനം വാങ്ങല്‍",
+            "implementing_agency": "Deputy Director of Education, Kozhikode",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 19.75,
+            "concurrence_lakhs": 19.75
+        },
+        {
+            "project_name": "ഗവ.യു.പി സ്കൂള്‍ തളി, സ്കൂള്‍ വാഹനം വാങ്ങല്‍",
+            "implementing_agency": "Deputy Director of Education, Kozhikode",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 19.75,
+            "concurrence_lakhs": 19.75
+        },
+        {
+            "project_name": "പുളിക്കല്‍ തൊടി - കപ്പക്കല്‍ ഫുട്പാത്ത് ഡ്രൈനേജ് നിര്‍മ്മാണം -",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 27.0,
+            "concurrence_lakhs": 27.0
+        },
+        {
+            "project_name": "ചേവായൂര്‍ ടി.പി. കുമാരന്‍ നായര്‍ റോഡ് - മഠത്തില്‍ മുക്ക് റോഡ്",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 28.0,
+            "concurrence_lakhs": 28.0
+        },
+        {
+            "project_name": "തളി ബ്രാഹ്മണ സമൂഹമഠം - ചാലപ്പുറം കാനറാ ബാങ്ക് ( പി.കെ അപ്പാര്‍ട്ട്മെന്‍റ് വഴി ) റോഡ് ഡ്രൈനേജ് നവീകരണം - വാര്‍ഡ് - 59",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 24.0,
+            "concurrence_lakhs": 24.0
+        },
+        {
+            "project_name": "കിണാശ്ശേരി മീമ്പാലോടി  - വാളടക്കത്താഴം ഡ്രൈനേജ് ഫുട്പാത്ത് നിര്‍മ്മാണം - വാര്‍ഡ് -32",
+            "implementing_agency": "Superintending Engineer, Kozhikode Corporation",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": null,
+            "implementing_agency": null,
+            "category": "Others",
+            "fy": null,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "28_Ahammad_devarkovil_kozhikode_north_mhd5dl"
+}

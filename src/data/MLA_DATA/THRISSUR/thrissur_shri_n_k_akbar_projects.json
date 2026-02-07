@@ -1,0 +1,465 @@
+{
+    "mla_name": "Shri N. K. Akbar",
+    "constituency": "GURUVAYOOR",
+    "district": "Thrissur",
+    "summary": {
+        "total_expenditure_crores": 22.058,
+        "breakdown": [
+            {
+                "label": "Others",
+                "value_crores": 8.9485
+            },
+            {
+                "label": "Road",
+                "value_crores": 5.0845
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 4.995
+            },
+            {
+                "label": "Education",
+                "value_crores": 2.035
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.995
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "ഗുരുവായൂർ നിയോജകമണ്ഡലം MLA ADS 2025-26 - ഗുരുവായൂർ നഗരസഭ - 43-ാം വാർഡിലെ 86 നമ്പർ അംഗൻവാടി കെട്ടിടനിർമ്മാണം - 20 ലക്ഷം - 392/2025/NKA/GVR  DTD 20/08/2025",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഗുരുവായൂര്‍ നിയോജകമണ്ഡലം MLA - LAC ADS 2025-26 - പുന്നയൂർക്കുളം ഗ്രാമപഞ്ചായത്ത് ജി.എം.എൽ.പി സ്‌കൂൾ  പുന്നയൂർകുളത്തിന് - സ്കൂൾ വാഹനം -",
+            "implementing_agency": "പൊതുവിദ്യാഭ്യാസ വകുപ്പ്",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 19.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കേക്കാട് ഗ്രാമപഞ്ചായത്തിലെ ഒന്നാം വാർഡിലെ നാലാപ്പാട്ട് റോഡിലെ കാന നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "GURUVAYUR LAC MLA ADS 2025-26 - VADAKKEKAD GP - IDIYATTAYIL THAZHAM ROAD(WARD 4)",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഗുരുവായൂർ നിയോജകമണ്ഡലം ആസ്തി വികസന പദ്ധതി (2025- 26) വടക്കേകാട് ഗ്രാമപഞ്ചായത് പറയങ്ങാട് പള്ളിയ്ക്ക്   പുറകുവശം പെരും തോടിനു മുകളിൽ നടപ്പാത നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഗുരുവായൂര്‍ നിയോജകമണ്ഡലം  MLA ADS 2025-26 - ഒരുമനയൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ ഇസ്ലാമിക്‌ വോക്കഷണല്‍ ഹയര്‍ സെക്കണ്ടറി സ്കൂളിന് പാചകപ്പുര നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "GURUVAYUR LAC - MLA-ADS- 2025-26–CONSTRUCTION OF NEW SCHOOL BUILDING FOR GOVT. L. P. SCHOOL, PUNNAYUR NORTH, CHAVAKKAD",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 99.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "GURVAYUR LAC - MLA ADS 2024-25, 2025-26 - CONSTRUCTION OF MULTI STORIED COMPLEX FOR KSRTC DEPOT GURUVAYUR",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 325.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഗുരുവായൂർ നിയോജക മണ്ഡലം ആസ്തി വികസന പദ്ധതി 2025-26  - ചാവക്കാട് നഗരസഭ 23-ാം വാർഡിലെ ഫിഷറീസ് ഉന്നതിയിലെ 92 നമ്പർ  അംഗൻവാടി കെട്ടിടനിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വടക്കേകാട് സാമൂഹികാരോഗ്യകേന്ദ്രം -കെട്ടിട നവീകരണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഗുരുവായൂര്‍ കടപ്പുറം ഗ്രാമപഞ്ചായത്തിലെ PKMHMUPS വടക്കേക്കാടിന് പാചകപ്പുര നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കടപ്പുറം ഗ്രാമപഞ്ചായത്ത് 9-)0 വാര്‍ഡ്‌ 2-)0 നമ്പര്‍ അംഗന്‍വാടി  കെട്ടിടനിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 19.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചാവക്കാട് വടക്കാഞ്ചേരി സ്റ്റേറ്റ് ഹൈവേയിലെ  കള്‍വള്‍ട്ട് പുനര്‍നിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് റോഡ്സ് ഡിവിഷന്‍",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 12.65,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചാവക്കാട് ബ്ലോക്ക്‌ പഞ്ചായത്ത് -പാലം കടവ് നടപ്പാലം നവീകരണം (സിവില്‍ പ്രവൃത്തി)",
+            "implementing_agency": "ഇറിഗേഷന്‍ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 12.06,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഏങ്ങണ്ടിയൂര്‍ ഗ്രാമപഞ്ചായത്ത് അണ്ടാരത്തോട് സ്ലൂയിസ്\r\n\r\n            നിര്‍മ്മാണം (സിവില്‍ പ്രവൃത്തി )",
+            "implementing_agency": "ഇറിഗേഷന്‍ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 36.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചാവക്കാട്  ബ്ലോക്ക്‌ പഞ്ചായത്ത് -പാലം കടവ്  നടപ്പാലം  നവീകരണം",
+            "implementing_agency": "ഇറിഗേഷന്‍ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.6,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഏങ്ങണ്ടിയൂര്‍ ഗ്രാമപഞ്ചായത്ത് മീന്‍കടവ് സ്ലൂയിസ് നിര്‍മ്മാണം (സിവില്‍ പ്രവൃത്തി )",
+            "implementing_agency": "ഇറിഗേഷന്‍ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 33.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഒരുമനയൂര്‍ ഗ്രാമപഞ്ചായത്ത് -13-)0 വാര്‍ഡില്‍  വില്ലേജ് ഓഫീസിന് സമീപം പുതിയ റോഡ്‌ നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 13.54,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഏങ്ങണ്ടിയൂര്‍ ഗ്രാമപഞ്ചായത്ത് - മീന്‍കടവ് സ്ലുയിസ് നിര്‍മ്മാണം",
+            "implementing_agency": "ഇറിഗേഷന്‍ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.8,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഗുരുവായൂര്‍ നഗരസഭയിലെ  ക്ഷത്രീയ റോഡ്‌ നിര്‍മ്മാണം (വാര്‍ഡ്‌  38)",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 28.7,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പുന്നയൂര്‍ ഗ്രാമപഞ്ചായത്ത് -57-)0 നമ്പര്‍ അംഗന്‍വാടി  കെട്ടിടനിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കൊച്ചന്നൂര്‍ ഗവ.ഹയര്‍സെക്കന്‍ഡറി സ്കൂളില്‍ ലാബ്‌ & ലൈബ്രറി",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഏങ്ങണ്ടിയൂര്‍ ഗ്രാമപഞ്ചായത്ത് -അണ്ടാരത്തോട് സ്ലൂയിസ് നിര്‍മ്മാണം",
+            "implementing_agency": "ഇറിഗേഷന്‍ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.9,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഏങ്ങണ്ടിയൂര്‍ ഗ്രാമപഞ്ചായത്ത്  -മണപ്പാട്  സ്ലൂയിസ് നിര്‍മ്മാണം",
+            "implementing_agency": "ഇറിഗേഷന്‍ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 27.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കടപ്പുറം വിവിധോദേശ്യ ചുഴലിക്കാറ്റ്  അഭയകേന്ദ്രത്തിന് ചുറ്റുമതിലും  അനുബന്ധ പ്രവൃത്തികളും",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 26.4,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഗുരുവായൂര്‍  നഗരസഭ -കൂവക്കാടന്‍ റോഡ്‌ (വാര്‍ഡ്‌  39) നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഒരുമനയൂര്‍ഗ്രാമപഞ്ചായത്തിലെ മുനയ്ക്കല്‍കടവ് റോഡിന്  സമീപം ചേറ്റുവ തടാകത്തിന്‍റെ  സംരക്ഷണ ഭിത്തി നിര്‍മ്മാണം",
+            "implementing_agency": "ഇറിഗേഷന്‍ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 34.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചാവക്കാട്  നഗരസഭാ മത്സ്യഭവന്‍ കെട്ടിടനിര്‍മ്മാണം",
+            "implementing_agency": "Kerala State Coastal Area Development Corporation Limited (KSCADC)",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കടപ്പുറം ഗ്രാമപഞ്ചായത്ത്3-)0 വാര്‍ഡ്‌  25 നമ്പര്‍ അംഗന്‍വാടി  കെട്ടിട നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 12.65,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഗുരുവായൂര്‍ നഗരസഭാ -43-)0 വാര്‍ഡിലെ തലയങ്ങാട്ടിരി  റോഡ്‌  പുനരുദ്ധാരണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 29.85,
+            "concurrence_lakhs": 29.85
+        },
+        {
+            "project_name": "ഒരുമനയൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ എരിഞ്ഞാകുളം സംരക്ഷണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കടപ്പുറം   ഗ്രാമപഞ്ചായത്ത് 9-)0 വാര്‍ഡിലെ ചിപ്ലി കോളനി റോഡ്‌ നിര്‍മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 28.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കൊച്ചന്നൂര്‍ ഗവ.ഹയര്‍സെക്കന്‍ഡറി സ്കൂളിനെ അന്താരാഷ്ട്ര നിലവാരത്തിലേക്ക് ഉയര്‍ത്തുന്നതിന് ചുറ്റുമതില്‍ ,യാര്‍ഡ്‌  നവീകരണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 31.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പുന്നയുര്‍കുളം ഗ്രാമപഞ്ചായത്തിലെ G.L.P.S കുരഞ്ഞിയൂരിന് പുതിയ കെട്ടിടനിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 99.5,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പുന്നയൂര്‍ഗ്രാമപഞ്ചായത്തിലെ G.L.P.S  കുരഞ്ഞിയൂരിന്  പുതിയ കെട്ടിടനിര്‍മ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഗുരുവായൂര്‍ നഗരസഭ- രണ്ടാം വാര്‍ഡിലെ പിള്ളക്കാട്അഞ്ഞൂര്‍ റോഡ്‌ നവീകരണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 31.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കടപ്പുറം ഗ്രാമപഞ്ചായത്ത് -14-)0വാര്‍ഡിലെ മൂസാപ്പള്ളി  റോഡ്‌നിര്‍മ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഗുരുവായൂര്‍ നഗരസഭാ-ഒന്നാം വാര്‍ഡിലെ തൊഴിയൂര്‍ ഹൈ സ്കൂള്‍ റോഡ്‌ ,ചേറ്റു വട്ടി ടെമ്പിള്‍  റോഡ്‌ എന്നിവയുടെ നവീകരണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 42.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കൊച്ചന്നൂര്‍ ഗവ .ഹയര്‍സെക്കന്‍ഡറി സ്കൂളിനെ  അന്താരാഷ്ട്ര നിലവാരത്തിലേക്ക് ഉയര്‍ത്തുന്നതിന് ചുറ്റുമതില്‍ ,യാര്‍ഡ്‌നവീകരണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 31.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കടപുറം  ഗ്രാമപഞ്ചായത്ത് 9 വാര്‍ഡിലെ ചിപ്ലി കോളനി റോഡ്‌ നിര്‍മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 18.65,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഗുരുവായൂര്‍ നിയോജകമണ്ഡലം ആസ്തി വികസന പദ്ധതി( 2022-23)-ഒരു പഞ്ചായത്തില്‍  ഒരു കളിസ്ഥല പദ്ധതി-പുന്നയൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ കളി സ്ഥല  നവീകരണം തുക അനുവദിക്കുന്നത് -സംബന്ധിച്ച്",
+            "implementing_agency": "സ്പോർട്സ് കേരള ഫൌണ്ടേഷൻ",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ചാവക്കാട് നഗരസഭ റീജിയണല്‍  ഫിഷറീസ് ടെക്നിക്കല്‍ സ്കൂള്‍ പുത്തന്‍  കടപ്പുറത്തിന് കെട്ടിട നിര്‍മാണം --ഭരണാനുമതി ലഭ്യമാക്കുന്നത് -സംബന്ധിച്ച്",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പുന്നയൂര്‍ ഗ്രാമപഞ്ചായത്തിലെ ഫാമിലി ഹെല്‍ത്ത്‌ സെന്‍റെര്‍ പുന്നയുരിന് കെട്ടിട നിര്‍മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 76.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഗുരുവായൂർ നിയോജകമണ്ഡലം പുന്നയൂർ ഗ്രാമപഞ്ചായത്തിലെ ജി  എൽ പി എസ് പുന്നയൂരിന് പുതിയ കെട്ടിടം നിർമ്മാണം-",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 99.5,
+            "concurrence_lakhs": 99.5
+        },
+        {
+            "project_name": "പുന്നയൂർക്കുളം ഗ്രാമ പഞ്ചായത്തിലെ ജി എൺ എൽ പി എസ് അണ്ടത്തോടിന് പുതിയ കെട്ടി നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 99.5,
+            "concurrence_lakhs": 99.5
+        },
+        {
+            "project_name": "ആല്‍ത്തറ പനന്തറ റോഡ്‌  കോണ്‍ക്രീറ്റിംഗ് പ്രവൃത്തിയും കൾവെർട്ട് നിർമ്മാണവും",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് - നിരത്തുകളും പാലങ്ങളും",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.28,
+            "concurrence_lakhs": 25.28
+        },
+        {
+            "project_name": "പൂന്നയൂർക്കുളം ഗ്രാമപഞ്ചായത്തിലെ വാർഡ് 4 ലെ അംഗൻവാടി നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കടപ്പുറം ഗ്രാമപഞ്ചായത്തിലെ ജി.എൽ.പി.എസ് ഇരട്ടപ്പുഴക്ക് പുതിയ കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 99.5,
+            "concurrence_lakhs": 99.5
+        },
+        {
+            "project_name": "ചാവക്കാട് നഗരസഭയിലെ വീർഡ് 5 ലെ പുന്ന പള്ളി റോഡ് നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.42,
+            "concurrence_lakhs": 20.42
+        },
+        {
+            "project_name": "ഗുരുവായൂർ നഗരസഭയിലെ വാർഡ് 32 ലെ ചക്കപ്പത്തറ റോഡ് നവീകരണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 46.5,
+            "concurrence_lakhs": 46.5
+        },
+        {
+            "project_name": "ഗുരുവായൂർ നഗരസഭയിലെ കാവീട് മുതുവെട്ടൂർ റോഡ് നവീകരണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 34.3,
+            "concurrence_lakhs": 34.3
+        },
+        {
+            "project_name": "ഗുരുവായൂർ കെ.എസ്.ആർ.ടി.സി ജില്ലാ ഡിപ്പോക്ക് പുതിയ കെട്ടിടം നിർമ്മാണം",
+            "implementing_agency": "പൊതുമരാമത്ത് വകുപ്പ് കെട്ടിട വിഭാഗം",
+            "category": "Infrastructure",
+            "fy": "2021-2022",
+            "estimate_lakhs": 75.0,
+            "concurrence_lakhs": 75.0
+        },
+        {
+            "project_name": "ഏങ്ങണ്ടിയൂർ ഗ്രാമപഞ്ചായത്തിലെ ഫാമിലി ഹെൽത്ത് സബ് സെൻറർ നിർമ്മാണം",
+            "implementing_agency": "തദേശ സ്വയംഭരണ വകുപ്പ്",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "thrissur_shri_n_k_akbar_placeholder"
+}

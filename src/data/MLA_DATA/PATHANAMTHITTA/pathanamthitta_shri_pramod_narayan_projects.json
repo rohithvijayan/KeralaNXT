@@ -1,0 +1,549 @@
+{
+    "mla_name": "Shri Pramod Narayan",
+    "constituency": "RANNI",
+    "district": "Pathanamthitta",
+    "summary": {
+        "total_expenditure_crores": 16.9921,
+        "breakdown": [
+            {
+                "label": "Others",
+                "value_crores": 7.269
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 2.73
+            },
+            {
+                "label": "Road",
+                "value_crores": 2.5233
+            },
+            {
+                "label": "Education",
+                "value_crores": 1.92
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 1.3498
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.66
+            },
+            {
+                "label": "Water Supply",
+                "value_crores": 0.35
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.19
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "പമ്പ കെ,എസ്.ആര്‍.ടി.സി ബസ് സ്റ്റാന്റ് നിര്‍മ്മാണം",
+            "implementing_agency": "pwd buildings division ,pathanamthitta",
+            "category": "Infrastructure",
+            "fy": "2019-2020",
+            "estimate_lakhs": 95.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "റാന്നി നിയോജകമണ്ഡലത്തിലെ 28 സ്ഥലങ്ങളില്‍ മിനിമാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കല്‍(2024-25 FY)",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 64.0,
+            "concurrence_lakhs": 64.0
+        },
+        {
+            "project_name": "റാന്നി മണ്ഡലത്തിന്റെ വിവിധ പ്രദേശങ്ങളില്‍ മിനിമാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കല്‍.",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Electricity",
+            "fy": "2020-2021",
+            "estimate_lakhs": 24.89,
+            "concurrence_lakhs": 24.89
+        },
+        {
+            "project_name": "MINIMAST LIGHT സ്ഥാപിക്കല്‍ (09 സ്ഥലങ്ങളില്‍)",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.59,
+            "concurrence_lakhs": 20.59
+        },
+        {
+            "project_name": "നാറാണംമൂഴി ഗ്രാമപഞ്ചായത് വാര്‍ഡ്‌ 11 കമ്യുണിറ്റി ഹാള്‍ നിര്‍മ്മാണം.",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "വടശ്ശേരിക്കര ടൌണില്‍ (മണ്ണാറക്കുളഞ്ഞി- ചാലക്കയം ശബരിമല പാതയുടെ വശത്ത്) വെയിറ്റിംഗ് ഷെഡ്‌ നിര്‍മ്മാണം.",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "വെട്ടിമേപ്രത്ത്പടി- കല്ലുംങ്കല്‍പടി-കുഴിമണ്ണില്‍പടി-ചിറ്റേടത്ത്പടി റോഡ്‌(റാന്നി ഗ്രാമപഞ്ചായത്)",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ദി വില്ലേജ് യൂണിയന്‍ ലൈബ്രറി തോട്ടമണ്‍. രജി നം.747.",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ദി വില്ലേജ് യൂണിയന്‍ ലൈബ്രറി തോട്ടമണ്‍. രജി നം. 747.",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Irrigation",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പുതുശ്ശേരിമല നം 14  അങ്കണവാടിക്ക് കെട്ടിടനിര്‍മ്മാണം (വാര്‍ഡ്‌ 6,റാന്നി പഞ്ചായത്ത്‌).",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "ജ്യോതിപ്രഭ പദ്ധതി മിനിമാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കല്‍",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 24.95,
+            "concurrence_lakhs": 24.95
+        },
+        {
+            "project_name": "എണ്ണൂറാംവയല്‍ അംഗണവാടി നം.85(വാര്‍ഡ്‌-2,വെച്ചൂച്ചിറ പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "ബസ് കാത്തിരിപ്പ് കേന്ദ്രങ്ങളുടെ നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "വെട്ടിമേപ്രത്ത്പടി- കല്ലുങ്കല്‍പടി-കുഴിമണ്ണില്‍പ്പടി-ചിറ്റേടത്ത്പടി റോഡ്‌",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കരിയംപ്ലാവ് - ചുട്ടുമൺ റോഡ്(കൊറ്റനാട് ഗ്രാമപഞ്ചായത്ത്)",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "റാന്നി താലൂക്ക് ആശുപത്രിക്ക് ആംബുലൻസ്",
+            "implementing_agency": "DMO (H) Pathanamthitta",
+            "category": "Healthcare",
+            "fy": "2024-2025",
+            "estimate_lakhs": 19.0,
+            "concurrence_lakhs": 19.0
+        },
+        {
+            "project_name": "കോട്ടാങ്ങൽ എഫ്.എച്ച്.സി ക്ക്  ആംബുലൻസ്",
+            "implementing_agency": "DMO (H) Pathanamthitta",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 8.88,
+            "concurrence_lakhs": 8.88
+        },
+        {
+            "project_name": "റാന്നി പെരുന്നാട് ഗ്രാമപഞ്ചായത്തിലെ തുലാപ്പള്ളി, വടശ്ശേരിക്കര ബൌണ്ടറി എന്നിവിടങ്ങളിൽ വന്യജീവി ആക്രമണ പ്രതിരോധ പ്രവർത്തനങ്ങൾ",
+            "implementing_agency": "DIVISIONAL FOREST OFFICER,RANNI",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 49.99,
+            "concurrence_lakhs": 49.99
+        },
+        {
+            "project_name": "ചെറുകോൽ - നാരങ്ങാനം - റാന്നി കുടിവെള്ള പദ്ധതിക്കായി വാട്ടര്‍ ട്രീറ്റ്മെന്റ് പ്ലാന്റ് സ്ഥാപിക്കുന്നതിന് സ്ഥലം വാങ്ങല്‍",
+            "implementing_agency": "Secratary,Cherukol Grama Panchayath.",
+            "category": "Water Supply",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ചക്രപാണിത്തടം കുടിവെള്ള പദ്ധതി -റാന്നി പഴവങ്ങാടി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "EE,KWA PATHANAMTHITTA",
+            "category": "Water Supply",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "അയിരൂർ അങ്കണവാടി 76 (അയിരൂർ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പഞ്ചായത്ത് പടി – കിടാരക്കുഴി റോഡ് നിർമ്മാണം കോട്ടാങ്ങൽ  ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ചെറുകോൽപ്പുഴ 75ാം നമ്പർ അങ്കണവാടി കെട്ടിട നിർമ്മാണം അയിരൂർ ഗ്രാമപഞ്ചായത്ത് വാർഡ്-13",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "അയിരൂർ 76  നമ്പർ അംഗനവാടിക്ക് കെട്ടിടനിർമ്മാണം അയിരൂർ ഗ്രാമപഞ്ചായത്ത് വാർഡ് -12",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "എം റ്റി.എച്ച്.എസ് അയിരൂർ, സെൻറ് തോമസ് എച്ച് എസ് വെച്ചൂച്ചിറ, എം റ്റി. എൽ.പിഎസ്.പെരുമ്പ്രേക്കാട്,എഴുമറ്റൂർ,  എന്നീ സ്കുളുകള്‍ക്ക് പാചകപുര നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "അങ്ങാടി ഗ്രാമപഞ്ചായത്ത്  വാർഡ് 5 ലെ 35 ാം  നമ്പർ തുളിമൺ അങ്കണവാടിക്ക്  കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "വെച്ചൂച്ചിറ    സി .എച്ച്. സിക്ക്  കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 90.0,
+            "concurrence_lakhs": 90.0
+        },
+        {
+            "project_name": "കൊറ്റനാട്  പി .എച്ച്. സിക്ക്  കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 90.0,
+            "concurrence_lakhs": 90.0
+        },
+        {
+            "project_name": "റാന്നി നിയോജകമണ്ഡലത്തിലെ 5 സ്കൂളുകളില്‍ ടോയ് ലറ്റ് നിര്‍മ്മാണം    \r\n (  എസ്.എൻ.ഡി.പി എച്ച്.എസ്.എസ് -വെൺകുറിഞ്ഞി വെച്ചൂച്ചിറ, ബഥനി ആശ്രമം എച്ച്.എസ്.ചെറുകുളഞ്ഞി,വടശ്ശേരിക്കര.  എൻ.എം എച്ച്.എസ് കരിയംപ്ലാവ്,കൊറ്റനാട്-   സെൻ്റ് ജോസഫ്സ് എച്ച്. എസ് നാറാണംമൂഴി,-  സെൻറ് മേരീസ് വി.എച്ച്.എസ്.എസ് വലിയകുന്നം,കൊറ്റനാട്.)",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "നാറാണംമൂഴി ഗ്രാമപഞ്ചായത്തില്‍ സ്ഥിതി ചെയ്യുന്ന ബഡ്സ് സ്കൂളിന് വാഹനം വാങ്ങല്‍",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 16.2,
+            "concurrence_lakhs": 16.2
+        },
+        {
+            "project_name": "ആഞ്ഞിലിമുക്ക് കൊച്ചുകുളം തടം റോഡ്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ജ്യോതിപ്രഭ പദ്ധതി പ്രകാരം റാന്നി നിയോജക മണ്ഡലത്തിലെ വിവിധ സ്ഥലങ്ങളില്‍ മിനി മാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കല്‍",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 42.52,
+            "concurrence_lakhs": 42.52
+        },
+        {
+            "project_name": "ആഞ്ഞിലിമുക്ക് കൊച്ചുകുളം തെക്കേക്കര റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "സ്കൂളുകള്‍ക്ക് പാചകപ്പുര നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "റാന്നി നിയോജകമണ്ഡലത്തിലെ വിവിധ സ്കൂളുകളില്‍ ടോയ്ലെറ്റ്  ബ്ലോക്ക് നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "പലകക്കാവ് സാംസ്കാരിക നിലയം റോഡില്‍ കലുങ്ക് നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "അങ്ങാടി ഗ്രാമപഞ്ചായത്ത് പതിനൊന്നാം വാര്‍ഡില്‍ വരവൂര്‍ നാല്സെന്‍റ് കോളനിയിലേക്ക് നടപ്പാത നിര്‍മ്മാണം.",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "മഠത്തിലേത്ത്പടി-കൊച്ചേത്ത്പടി റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.33,
+            "concurrence_lakhs": 11.33
+        },
+        {
+            "project_name": "EDAMURI SCHOOL-PALATHUNKAL PADI ROAD TARRING,NARANAMMOOZHY GRAMA PANCHAYATH",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പലകക്കാവ്- കൊല്ലമുള സാംസ്കാരികനിലയം റോഡില്‍ കലുങ്ക് നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ആധുനിക സൗകര്യങ്ങളോടു  കൂടിയ അങ്കണവാടി കെട്ടിടം നിര്‍മ്മിക്കുന്നത് - അങ്ങാടി ഗ്രാമ പഞ്ചായത്ത് വാര്‍ഡ്‌ 2 - അങ്കണവാടി നം.32",
+            "implementing_agency": "SILK",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 17.0
+        },
+        {
+            "project_name": "ആധുനിക സൌകര്യങ്ങളോടു കൂടിയ അങ്കണവാടി കെട്ടിടം നിർമ്മിക്കുന്നത്, അയിരൂർ പഞ്ചായത്ത്, വാർഡ് 14\r\nഅങ്കണവാടി നം 80",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "ആധുനിക സൌകര്യങ്ങളോടുകൂടിയ അങ്കണവാടി കെട്ടിട നിർമ്മാണം, കോട്ടാങ്ങൽ പഞ്ചായത്ത്, വാർഡ് 2\r\nഅങ്കണവാടി നം 87",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "അയിരൂർ പ്ലാങ്കമൺ ഗവ. എൽ.പി സ്കൂളിന് പുതിയ കെട്ടിടം നിർമ്മിക്കുന്നത്.",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 90.0,
+            "concurrence_lakhs": 90.0
+        },
+        {
+            "project_name": "നാറാണംമൂഴി ഗവ. എൽ.പി. സ്കൂളിന് പുതിയ കെട്ടിടം നിർമ്മിക്കുന്നത്.",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 88.0,
+            "concurrence_lakhs": 88.0
+        },
+        {
+            "project_name": "ഗവ. എൽ.പി. സ്കൂൾ തെള്ളിയൂരിന് പുതിയ കെട്ടിടം നിർമ്മിക്കുന്നത്.",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 95.0,
+            "concurrence_lakhs": 95.0
+        },
+        {
+            "project_name": "വാലേൽപ്പടി - മേപ്പാട്ടുതറപ്പടി റോഡ് വടശ്ശേരിക്കര ഗ്രാമപഞ്ചായത്ത്.",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കോളാമല - കോട്ടമുറി ബഥനിമല റോഡ് പെരുനാട് പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "അയിരൂർ പഞ്ചായത്തിലെ പുതിയകാവ് ക്ഷേത്രത്തിന് മുമ്പിലുളള പഞ്ചായത്ത് വക സ്ഥലത്ത് നടപ്പാത നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "റാന്നി നിയോജകമണ്ഡലത്തിലെ വിവിധ സ്ഥലങ്ങളിൽ മിനിമാസ്റ്റ് ലൈറ്റുകൾ സ്ഥാപിക്കുന്നത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.52,
+            "concurrence_lakhs": 40.52
+        },
+        {
+            "project_name": "എഴുമറ്റൂർ  ആശുപത്രിപടി - കാരമല റോഡ് നിർമ്മാണം\r\nഎഴുമറ്റൂർ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "കാവുംമുണ്ടത്തിൽ പടി - കോയിക്കൽ പടി റോഡ് നിർമ്മാണം\r\nഅങ്ങാടി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "കിഴക്കേതിൽപടി - പുന്നശ്ശേരിൽപടി റോഡ് നിർമ്മാണം\r\nഅയിരൂർ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കാവുംകടവ് - തുണ്ടിയിൽപാറ റോഡ് നിർമ്മാണം\r\nകോട്ടാങ്ങൽ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "മഠത്തിൽപടി - മണിയമ്പാറപടി റോഡ് നിർമ്മാണം\r\nപഴവങ്ങാടി ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "പൂശനാട്ട്പടി - ഈട്ടിനിൽക്കുംപടി റോഡ് നിർമ്മാണം\r\nകൊറ്റനാട് ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മംഗലതോട്ടത്തിൽപടി - അരുവിക്കൽ റോഡ്\r\nകൊറ്റനാട് ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കുന്നം അമ്പലംപടി റോഡ് നിർമ്മാണം\r\n വെച്ചൂച്ചിറ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മാമ്പാറ റോഡും സംരക്ഷണഭിത്തി നിർമ്മാണവും - അയിരൂർ ഗ്രാമ പഞ്ചായത്ത് -കാഞ്ഞീറ്റുകര വാർഡ്",
+            "implementing_agency": "Executive Engineer, LID & EW Division Pathanamthitta",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.33,
+            "concurrence_lakhs": 11.33
+        },
+        {
+            "project_name": "CHUNKAPPARA BUSSTAND(KOTTANGAL GRAMA PANCHAYATH)",
+            "implementing_agency": "LSGD",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 43.5,
+            "concurrence_lakhs": 43.5
+        },
+        {
+            "project_name": "MINIMAST LIGHT",
+            "implementing_agency": "SILK",
+            "category": "Electricity",
+            "fy": "2021-2022",
+            "estimate_lakhs": 25.5,
+            "concurrence_lakhs": 25.45
+        },
+        {
+            "project_name": "BUS WAITING SHELTER",
+            "implementing_agency": "LSGD",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 31.01,
+            "concurrence_lakhs": 31.01
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "pathanamthitta_shri_pramod_narayan_placeholder"
+}

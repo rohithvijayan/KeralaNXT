@@ -1,0 +1,777 @@
+{
+    "mla_name": "Shri E. Chandrasekharan",
+    "constituency": "KANHANGAD",
+    "district": "Kannur",
+    "summary": {
+        "total_expenditure_crores": 26.15,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 18.67
+            },
+            {
+                "label": "Others",
+                "value_crores": 4.71
+            },
+            {
+                "label": "Education",
+                "value_crores": 0.91
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 0.6
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.6
+            },
+            {
+                "label": "Water Supply",
+                "value_crores": 0.4
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.26
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "താഴെ പറയുന്ന സര്‍ക്കാര്‍ വിദ്യാലയങ്ങൾക്ക് യാത്രാ സൗകര്യം ഒരുക്കുവാൻ വാഹനം വാങ്ങുന്നതിന് ആകെ 16 ലക്ഷം  രൂപ.\r\n1)ജി എൽ പി എസ് വടക്കെ പുലിയന്നൂര്‍ -16 ലക്ഷം",
+            "implementing_agency": "Deputy Director of Education,civil station,kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കാലിക്കടവ്  -തോണിക്കല്ല്  റോഡ് നിര്‍മ്മാണം (കോടോംബേളൂര്‍)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഉണ്ണിപീടിക -മൈതാനം റോഡ് നിര്‍മ്മാണം (കാഞ്ഞങ്ങാട്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കല്ലഞ്ചിറ - കുഴിങ്ങാട് -ചെമ്പഞ്ചേരി റോഡ് നിര്‍മ്മാണം(ബളാൽ)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മൂലക്കണ്ടം  -മണ്ണട്ട  റോഡ് നിര്‍മ്മാണം(അജാനൂര്‍)",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മാതോത്ത് -കലയറ -കൊവ്വൽപ്പള്ളി  റോഡ് നിര്‍മ്മാണം (കാഞ്ഞങ്ങാട് )",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ആലക്കളം -മുണ്ട്യക്കാൽ കുളിയന്മരം  റോഡ് നിര്‍മ്മാണം (മടിക്കൈ)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 24.5
+        },
+        {
+            "project_name": "ഉതിരക്കുളം -കുണ്ടുപള്ളി റോഡ് നിര്‍മ്മാണം(പനത്തടി)",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കോട്ടക്കണ്ട -ഒക്ലാവ് -മുണ്ടോട്ട് റോഡ് നി‍ര്‍മ്മാണം (കള്ളാര്‍)",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മൂപ്പില്‍ അംഗണ്‍വാടി-എട്ടാംമെല്‍ റോഡ് നിര്‍മ്മാണം (കോടോം-ബേളൂര്‍ ഗ്രാമ പഞ്ചായത്ത് )",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "തുമ്പ-തൂവക്കുന്ന് ഉന്നതി റോഡ് നിർമ്മാണം (കിനാനൂർ-കരിന്തളം ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പരപ്പ ബസ്സ്‌ സ്റ്റാന്‍ഡ്‌ കെട്ടിട നിര്‍മ്മാണം (കിനാനൂര്‍.കരിന്തളം ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 80.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വ്യവസായ പാര്‍ക്ക്-കാര്‍ത്തിക മൂന്ന് സെന്റ് കോളനി റോഡ് നിര്‍മ്മാണം(കാഞ്ഞങ്ങാട് നഗരസഭ)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മാക്കി അംഗണ്‍വാടി-പുതിയകണ്ടം റോഡ് നിര്‍മ്മാണം(അജാനൂര്‍ ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 18.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ആലൈകുന്ന്-കൂക്കള വളപ്പ് തറവാട് റോഡ് നിര്‍മ്മാണം (മടിക്കൈ ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "അരയി പാലം-കാര്‍ത്തിക -ചാമുണ്ഡി ദേവസ്ഥാനം റോഡ് നിര്‍മ്മാണം(കാഞ്ഞങ്ങാട് നഗരസഭ)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ബാനം സ്ക്കൂള്‍-കിഴക്കെക്കര-വലിയതടം റോഡ് നിര്‍മ്മാണം(കോടോം-ബേളൂര്‍ ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചീറ്റ-ചെറകോട് റോഡ് നിര്‍മ്മാണം(കള്ളാര്‍ ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വരഞ്ഞൂര്‍ തട്ട്-ഒറവുംകരഗുളികന്‍ ദേവസ്ഥാനം റോഡ് നിര്‍മ്മാണം(കിനാനൂര്‍-കരിന്തളം ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "പുല്ലൊടി-എടക്കാനം റോഡ് നിര്‍മ്മാണം(ബളാല്‍ ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "മാനടുക്കം-ചുഴിപ്പ്-ബീമ്പുങ്കാല്‍ റോഡ് നിര്‍മ്മാണം(പനത്തടി പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കിഴക്കെ ചെമ്പന്‍കുന്ന്-കൂരാംകുണ്ട് റോഡ് നിര്‍മ്മാണം(കിനാനൂര്‍-കരിന്തളം ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "പെരുതടി-പെരുതടി അമ്പലം റോഡില്‍ പെരുതടി തോടിന് മേജര്‍ കല്‍വര്‍ട്ട് നിര്‍മ്മാണം (പനടത്തടി ഗ്രാമ പഞ്ചായത്ത് )",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 80.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചേടിറോഡ്-വാഴുന്നോറടി റോഡ് നിര്‍മ്മാണം(കാഞ്ഞങ്ങാട് നഗരസഭ)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "എരിക്കുളം -വയല്‍ റോഡ് നിര്‍മ്മാണം(മടിക്കൈ ഗ്രാമ പഞ്ചായത്ത് )",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "5സര്‍ക്കാര്‍ സ്ക്കൂളുകളിലെ കുട്ടികള്‍ക്ക് യാത്രാ സൌകര്യത്തിന് വാഹനം വാങ്ങല്‍ \r\n1  ജി എച്ച് എസ് എസ് ചായ്യോം-23 ലക്ഷം\r\n2.  ജി എച്ച് എസ് എസ് ബല്ല സ്ക്കൂള്‍ -23 ലക്ഷം\r\n3. ശാന്ത മെമ്മോറിയല്‍ ജി യു പി എസ് എടത്തോട്- 18 ലക്ഷം\r\n4. ജി എല്‍ പി എസ് വാഴക്കോട്- 16 ലക്ഷം\r\n5. ജി എല്‍ പി എസ് ചെരണത്തല-16 ലക്ഷം",
+            "implementing_agency": "Deputy Director of Education,civil station,kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 96.0,
+            "concurrence_lakhs": 96.0
+        },
+        {
+            "project_name": "എരിക്കുളം -വയല്‍ റോഡ് നിര്‍മ്മാണം",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "5സര്‍ക്കാര്‍ സ്ക്കൂളുകളിലെ കുട്ടികള്‍ക്ക് യാത്രാ സൌകര്യത്തിന് വാഹനം വാങ്ങല്‍ \r\n1  ജി എച്ച് എസ് എസ് ചായ്യോം-23 ലക്ഷം\r\n2.  ജി എച്ച് എസ് എസ് രാം നഗര്‍-23 ലക്ഷം\r\n3. ശാന്ത മെമ്മോറിയല്‍ ജി യു പി എസ് എടത്തോട്- 18 ലക്ഷം\r\n4. ജി എല്‍ പി എസ് വാഴക്കോട്- 16 ലക്ഷം\r\n5. ജി എല്‍ പി എസ് ചെരണത്തല-16 ലക്ഷം",
+            "implementing_agency": "Deputy Director of Education,civil station,kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 96.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പുടംങ്കല്ല് താലൂക്ക് ആശുപത്രി റോഡ്(കള്ളാര്‍ ഗ്രാമ പഞ്ചായത്ത്)നിര്‍മ്മാണ​ം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എരിക്കുളം -വയല്‍ റോഡ്(മടിക്കൈ",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പൂക്കുന്നം തട്ട്-മേലെ എസ് ടി കോളനി റോഡ് ടാറിംങ്(കള്ളാര്‍ ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "പോറോന്തിച്ചാല്‍-ചെന്തളം-ഊയിപ്പള്ളം റോഡ് ടാറിംങ്(കോടോം - ബോളൂര്‍ ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മാളുങ്കയ-എടയോടി റോഡ് ടാറിംങ്(കിനാനൂര്‍-കരിന്തളം ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "മാക്കി -കല്ലുവരമ്പത്ത് റോഡ് അഭിവൃദ്ധിപ്പെടുത്തല്‍(അജാനൂര്‍ ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "സര്‍ക്കാര്‍  വിദ്യാലയങ്ങള്‍ക്ക് യാത്രാ സൌകര്യം ഒരുക്കാന്‍ വാഹനം വാങ്ങല്‍\r\n1.ഗവ. ഹയര്‍ സെക്കണ്ടറി സ്ക്കൂള്‍ കൊട്ടോടി -23 ലക്ഷം രൂപ\r\n2.ഗവ. വൊക്കേഷണല്‍ ഹയര്‍ സെക്കണ്ടറി സ്ക്കൂള്‍ ,കാഞ്ഞങ്ങാട്-18 ലക്ഷം രൂപ\r\n3.ഗവ. ഹയര്‍ സെക്കണ്ടറി സ്ക്കൂള്‍ കക്കാട്ട്-23 ലക്ഷം രൂപ",
+            "implementing_agency": "Deputy Director of Education,civil station,kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 64.0,
+            "concurrence_lakhs": 64.0
+        },
+        {
+            "project_name": "ജി യു പി എസ് പുതുക്കൈ",
+            "implementing_agency": "Deputy Director of Education,civil station,kasaragod",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ജി എച്ച് എസ് ബാനം",
+            "implementing_agency": "Deputy Director of Education,civil station,kasaragod",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കാഞ്ഞങ്ങാട് നിയോജക മണ്ഡലത്തിലെ ചുവടെ ചേര്‍ത്ത സര്‍ക്കാര്‍ സ്ക്കൂളുകളിലെ വിദ്യാര്‍ത്ഥികള്‍ക്ക് യാത്രാ സൌകര്യത്തിന് വാഹനം വാങ്ങല്‍\r\n1.ജി ഡബ്ല്യൂ എച്ച് എസ് പാണത്തൂര്‍",
+            "implementing_agency": "Deputy Director of Education,civil station,kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "‍‍കാഞ്ഞങ്ങാട് നിയോജക മണ്ഡലത്തിലെ 4 സര്‍ക്കാര്‍ സ്ക്കൂളുകളിലെ വിദ്യാര്‍ത്ഥികള്‍ക്ക് യാത്രാ സൌകര്യത്തിന് വാഹനം വാങ്ങല്‍\r\n1.ജി ഡബ്ല്യൂ എച്ച് എസ് പാണത്തൂര്‍-23 ലക്ഷം\r\n2.ഡോ. എ ജി എച്ച് എസ് എസ് കോടോത്ത്-23 ലക്ഷം\r\n3.ജി എച്ച് എസ് ബാനം-23 ലക്ഷം\r\n4.ജി യു പി എസ് പുതുക്കൈ-15 ലക്ഷം",
+            "implementing_agency": "Deputy Director of Education,civil station,kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 84.0,
+            "concurrence_lakhs": 84.0
+        },
+        {
+            "project_name": "എം എല്‍ എ - എ ഡി എസ് -കാഞ്ഞങ്ങാട്- 2023-24- കോടോം ബേളൂ൪ ഗ്രാമ പഞ്ചായത്തിലെ കോടോം ചെമ്മൂട് റോഡ് ടാറിംഗ്  സംബന്ധിച്ച്",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 32.0,
+            "concurrence_lakhs": 32.0
+        },
+        {
+            "project_name": "എം എല്‍ എ - എഡി എസ് -കാഞ്ഞങ്ങാട്-2023-24- ജി എച്ച് എസ്  കാലിച്ചാനടുക്കം ബസ് വാങ്ങുന്നത് സംബന്ധിച്ച്",
+            "implementing_agency": "Deputy Director of Education,civil station,kasaragod",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "എം എല്‍ എ -എ‍ഡിഎസ് കാഞ്ഞങ്ങാട്- 2022-23- അജാനൂ൪ പഞ്ചായത്തിലെ കുന്നുപാറ പൊടിപ്പള്ളം റോഡിലെ പള്ളത്തിങ്കാല്‍ മേജ൪ കള്‍‌വേ൪ട്ട് നി൪മ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എം എല്‍ എ -എ‍ഡിഎസ് കാഞ്ഞങ്ങാട്- 2023-24 - അജാനൂ൪ പഞ്ചായത്തിലെ കുന്നുപാറ പൊടിപ്പള്ളം റോഡിലെ പള്ളത്തിങ്കാല്‍ മേജ൪ കള്‍‌വേ൪ട്ട്  നി൪മ്മാണം",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        },
+        {
+            "project_name": "എംഎല്‍എ-എഡിഎസ്‌-തൃക്കരിപ്പൂര്‍-2023-24- വരക്കാട് താലോലപൊയില്‍ റോഡ് വീതി കൂട്ടി ടാറിംഗ് (വെസ്റ്റ് എളേരി പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എം എല്‍ എ -എഡിഎസ്-കാഞ്ഞങ്ങാട്-2023-24-  ACKN ഗവ യുപിഎസ് മേലാങ്കോട്ട് - സോളാ൪ പവ൪ പ്ലാന്റ് - 15 KWP സ്ഥാപിക്കല്‍ (കാഞ്ഞങ്ങാട് മുനിസിപ്പാലിറ്റി)",
+            "implementing_agency": "Deputy Director of Education,civil station,kasaragod",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "എം എല്‍ എ- എഡി എസ് - കാഞ്ഞങ്ങാട് - 2023-24 - കാഞ്ഞങ്ങാട് നഗരസഭയിലെ പൈങ്ങോത്ത്  - മധുരം കൈ  റോഡ് അഭിവൃദ്ധിപ്പെടുത്തല്‍",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "എം എല്‍ എ- എഡി എസ് - കാഞ്ഞങ്ങാട് - 2023-24 - കാഞ്ഞങ്ങാട് നഗരസഭയിലെ  തോയമ്മല്‍ കവ്വാചിറ  - പുതുവൈ  - ആലയി റോഡ് അഭിവൃദ്ധിപ്പെടുത്തല്‍",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എം എല്‍ എ- എഡി എസ് - കാഞ്ഞങ്ങാട് - 2023-24 -  മടിക്കൈ പഞ്ചായത്തിലെ പേത്താളന്‍ കാവ് - സ്വാമി മഠം -ഉമ്മിച്ചി വയല്‍ റോഡ് അഭിവൃദ്ധിപ്പെടുത്തല്‍",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "എം എല്‍ എ- എഡി എസ് - കാഞ്ഞങ്ങാട് - 2023-24 - മടിക്കൈ പഞ്ചായത്തിലെ കമ്പിക്കാനം  -കൂവക്കര -കോതോട്ട് - തൈവളപ്പ് റോഡ് അഭിവൃദ്ധിപ്പെടുത്തല്‍",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "എം എല്‍ എ- എഡി എസ് - കാഞ്ഞങ്ങാട് - 2023-24 - കോടോം ബേളൂ൪ പഞ്ചായത്തിലെ ചാലിയം വള്ളി - കയ്യുള്ള മൂല -ചെറളം  ലിങ്ക്  റോഡ് അഭിവൃദ്ധിപ്പെടുത്തല്‍",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "എം എല്‍ എ- എഡി എസ് - കാഞ്ഞങ്ങാട് - 2023-24 - കിനാനൂ൪ കരിന്തളം പഞ്ചായത്തിലെ ബിരിക്കുളം -കൊട്ടമടല്‍  റോഡില്‍ ബിരിക്കുളത്ത് ഓവുചാല്‍ നി൪മ്മാണം",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "എം എല്‍ എ- എഡി എസ് - കാഞ്ഞങ്ങാട് - 2023-24 - കിനാനൂ൪ കരിന്തളം  പഞ്ചായത്തിലെ കാളിയാനം -  ചുണ്ട - നെല്ലി സ്റ്റോപ്പ് റോഡ് അഭിവൃദ്ധിപ്പെടുത്തല്‍",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "എം എല്‍ എ- എഡി എസ് - കാഞ്ഞങ്ങാട് - 2023-24 - കള്ളാ൪ പഞ്ചായത്തിലെ ജവാന്‍ സന്തോഷ് നഗ൪ റോഡ് ( വാഴവളപ്പ് - ചീറ്റക്കാല്‍‌ - പെരുമ്പള്ളി തട്ട് റോഡ് )അഭിവൃദ്ധിപ്പെടുത്തല്‍",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "എം എല്‍ എ- എഡി എസ് - കാഞ്ഞങ്ങാട് - 2023-24 - കള്ളാ൪  പഞ്ചായത്തിലെ മേക്കുളം -കാരക്കുന്ന്  റോഡ് അഭിവൃദ്ധിപ്പെടുത്തല്‍",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "എം എല്‍ എ- എഡി എസ് - കാഞ്ഞങ്ങാട് - 2023-24 - ബളാല്‍ പഞ്ചായത്തിലെ ആനക്കുഴി കാപ്പിക്കുഴി റോഡ് അഭിവൃദ്ധിപ്പെടുത്തല്‍",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "എം എല്‍ എ- എഡി എസ് - കാഞ്ഞങ്ങാട് - 2023-24 - ബളാല്‍ പഞ്ചായത്തിലെ ആനമഞ്ഞള്‍-തളികത്തട്ട് പനയന്താനം റോഡ് അഭിവൃദ്ധിപ്പെടുത്തല്‍",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "എം എല്‍ എ- എഡി എസ് - കാഞ്ഞങ്ങാട് - 2023-24 - പനത്തടി പഞ്ചായത്തിലെ പരിയാരം- പ്ലാന്റേഷന്‍ റോഡ് അഭിവൃദ്ധിപ്പെടുത്തല്‍",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "എം എല്‍ എ- എഡി എസ് - കാഞ്ഞങ്ങാട് - 2023-24 - പനത്തടി പഞ്ചായത്തിലെ മാവുങ്കാല്‍-മുന്തന്റെ മൂല -മിച്ച ഭൂമി-പുള്ളിക്കല്‍ റോഡ് അഭിവൃദ്ധിപ്പെടുത്തല്‍",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "എം എൽഎ-എഡിഎസ്-കാഞ്ഞങ്ങാട്-2022-23- പൈനിക്കര -ഒന്നാം മൈൽ റോഡ് (വളയൻ കുണ്ട്) പാർശ്വ ഭിത്തി നിർമ്മാണവും റോഡ് റീടാറിംഗും(കള്ളാർ ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കാഞ്ഞങ്ങാട് നിയോജക മണ്ഡല ആസ്തി വികസന പദ്ധതി-2023-24- ടെന്‍ഡര്‍ സേവിംഗ്സ് തുക ഉപയോഗിച്ച് മണ്ഡലത്തിലെ 35 പ്രധാന   സ്ഥലങ്ങളില്‍ മിനി മാസ്റ്റ് ലൈറ്റുകള്‍ സ്ഥാപിക്കല്‍-സംബന്ധിച്ചു",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കാഞ്ഞങ്ങാട് നിയോജക മണ്ഡല ആസ്തി വികസന പദ്ധതി-2023-24- ടെന്‍ഡര്‍ സേവിംഗ്സ് തുക ഉപയോഗിച്ച് ജി എല്‍ പി എസ് കിനാവൂര്‍ കെട്ടിട  നിര്‍മ്മാണം (കിനാനൂര്‍ കരിന്തളം പഞ്ചായത്ത്)-സംബന്ധിച്ചു",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കാഞ്ഞങ്ങാട് നിയോജക മണ്ഡല ആസ്തി വികസന പദ്ധതി-2023-24- ടെന്‍ഡര്‍ സേവിംഗ്സ് തുക ഉപയോഗിച്ച്  നീരളി-കായക്കീല്‍ റോഡ് അഭിവൃദ്ധിപ്പെടുത്തല്‍ കി.മി-0/100 മുതല്‍0/500 വരെ മടിക്കൈ പഞ്ചായത്ത്)-സംബന്ധിച്ചു",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കാഞ്ഞങ്ങാട് നിയോജക മണ്ഡല ആസ്തി വികസന പദ്ധതി-2023-24- ടെന്‍ഡര്‍ സേവിംഗ്സ് തുക ഉപയോഗിച്ച് പുലിക്കടവ് മുന്തന്റ്റെ മൂല തട്ട് റോഡില്‍ കല്‍വേര്‍ട് സ്ലാബ്,സോളിങ് നിര്‍മ്മാണം(പനത്തടി പഞ്ചായത്ത്)-സംബന്ധിച്ചു",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എം എൽ എ -എഡിഎസ്-കാഞ്ഞങ്ങാട്-2023-24-ടെണ്ടർ സേവിംഗ്സ് തുക ഉപയോഗിച്ച് കാട്ടിപ്പൊയിൽ ഗവ. ആയുർവേദ ഡിസ്പെൻസറി കെട്ടിടനിർമ്മാണം (കിനാനൂർ കരിന്തളം ഗ്രാമ പഞ്ചായത്ത് ) സംബന്ധിച്ച്",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Healthcare",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കാഞ്ഞങ്ങാട് നിയോജക മണ്ഡല ആസ്തി വികസന പദ്ധതി 2023-24- ടെണ്ടർ സേവിംഗ്സ് തുക ഉപയോഗിച്ച്  പാത്തിക്കര-കുഴിക്കോൽ  സർക്കാരി റോഡ് അഭിവൃദ്ധിപ്പെടുത്തൽ (കോടോം ബേളൂർ ഗ്രാമ പഞ്ചായത്ത്)- സംബന്ധിച്ച്",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എം എൽ എ -എഡിഎസ്-കാഞ്ഞങ്ങാട്-2023-24-ടെണ്ടർ സേവിംഗ്സ് തുക ഉപയോഗിച്ച്  ഇരിയ -ലാലൂർ പറക്ലായി റോഡ് അഭിവൃദ്ധിപ്പെടുത്തൽ(കോടോം ബേളൂർ ഗ്രാമ പഞ്ചായത്ത് )",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എം.എൽ.എ-എഡിഎസ്-കാഞ്ഞങ്ങാട്-2023-24-ടെണ്ടർ സേവിംഗ്സ് തുക ഉപയോഗിച്ച് പെരുതടി-അമ്പലം റോഡിൽ പെരുതടി തോടിന് മേജർ കൾവേർട്ട് നിർമ്മാണം(പനത്തടി പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 80.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "7 സർക്കാർ വിദ്യാലയങ്ങളിൽ കുട്ടികൾക്ക് യാത്രാ സൌകര്യത്തിന് വാഹനം വാങ്ങുന്നത് ജി. എച്ച്.എസ്.എസ്. മടിക്കൈ -22 ലക്ഷം ജി. എച്ച്.എസ്.എസ്. മാലോത്ത് കസബ- 23 ലക്ഷം SRM ജി. എച്ച്.എസ്.എസ് രാം നഗർ - 23 ലക്ഷം ജി യു പി എസ് ബേളൂർ -18 ലക്ഷം ജി. എച്ച്.എസ്.എസ് രാവണേശ്വരം -18 ലക്ഷം ജി യു പി എസ് ചാമക്കുഴി-കൂവാറ്റി -18 ലക്ഷം ജി എഫ് യുപിഎസ് മാണിക്കോത്ത് -18 ലക്ഷം",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 140.0,
+            "concurrence_lakhs": 140.0
+        },
+        {
+            "project_name": "ജി യു പിഎസ് പുതുക്കൈ ക്ലാസ് മുറി നിർമ്മാണം",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ജി വി എച്ച് എസ് എസ് വെള്ളിക്കോത്ത് വിഎച്ച്എച്ച് സി വിഭാഗത്തിന് ടോയിലെറ്റ് ബ്ലോക്ക് നിർമ്മാണം",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "തട്ടുമ്മൽ അരിയളം  കുയ്യങ്ങാട് റോഡ് അഭിവൃദ്ധിപ്പെടുത്തൽ (കോടോം ബേളൂർ ഗ്രാമ പഞ്ചായത്ത് )",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "പനയാര്‍ക്കുന്ന് -മൊയാലം -സര്‍ക്കാരി റോഡ്‌ അഭിവൃദ്ധിപ്പെടുത്തല്‍",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഗവ.സ്കൂള്‍ ഫോര്‍ നഴ്സിംഗ് കാഞ്ഞങ്ങാട് -ബസ്",
+            "implementing_agency": "District Medical Officer,Kasaragod",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ജി എച്ച് എസ് എസ് അട്ടേങ്ങാനം അസംബ്ലി ഹാള്‍ നിര്‍മ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ജി വി എച്ച് എസ് എസ് കാഞ്ഞങ്ങാട് -എല്ലാ സൌകര്യങ്ങളോടും കൂടിയ പാചകപ്പുര നിര്‍മ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കാഞ്ഞങ്ങാട് മണ്ഡലത്തിലെ 46 കേന്ദ്രങ്ങളില്‍ ലോമാസ്റ്റ് ലൈറ്റുകൾ സ്ഥാപിക്കുന്നത്\r\n9 മീറ്റര്‍ പോള്‍ ,150 w  x 5 ബള്‍ബുകള്‍\r\nപനത്തടി \r\n1.പാണത്തൂര്‍ പഴയ ബസ്‌സ്റ്റാന്‍ഡ് \r\n2.ബാപ്പുകയം ജംക്ഷന്‍\r\n3.ചെമ്പേരി പഞ്ചായത്ത്‌ ഓഫീസ് \r\nകള്ളാര്‍\r\n4.അയ്യങ്കാവ് \r\nബളാല്‍\r\n5.വെള്ളരിക്കുണ്ട് പോസ്റ്റ്‌ ഓഫീസ്\r\nകിനാനൂര്‍ -കരിന്തളം\r\n6.കുമ്പളപ്പള്ളി\r\n7.കിളിയളം\r\n8.കാട്ടിപൊയില്‍ -പള്ളം\r\n9.പരപ്ച്ചാല്‍\r\n10.കിനാനൂര്‍ റോഡ്‌ ജംഗ്ഷന്‍\r\n11.മൂക്കട ജംഗ്ഷന്‍\r\n12.കൂടോല്‍ ജംഗ്ഷന്‍\r\nകൊടോം ബേളൂര്‍\r\n13.കമ്മാടം ജംഗ്ഷന്‍\r\nമടിക്കൈ\r\n14.കോട്ടക്കുന്ന്\r\n15.ഏമ്പക്കാല്‍\r\n16.കുളങ്ങാട്\r\nഅജാനൂര്‍\r\n17.വിശ്വഭാരതി ക്ലബ്‌ വേലാശ്വരം \r\n18.കൊളവയല്‍ പോസ്റ്റ്‌ ഓഫീസ് \r\n19.അതിഞ്ഞാല്‍ കോയപ്പള്ളി\r\n20.ഇക്ബാല്‍ജംഗ്ഷന്‍\r\n21.ചിത്താരി സെന്റര്‍ \r\n22.പാടിക്കാനം ഹെല്‍ത്ത്‌ സെന്റര്‍\r\n23.മുക്കൂട് ഇ എം എസ് വായനശാല \r\n24.മഞ്ഞം പൊതിക്കുന്ന്\r\nകാഞ്ഞങ്ങാട് നഗരസഭ\r\n25.നിത്യാനന്ദ പോളിടെക്നിക് ജംഗ്ഷന്‍\r\n26.കുറുന്തൂര്‍ അമ്പലം ജംഗ്ഷന്‍\r\n27.സദ്ദാം മുക്ക്\r\n28.കുന്നുമ്മല്‍ \r\n8 മീറ്റര്‍ പോള്‍ ,150 W x 4 ബള്‍ബ്‌ \r\nപനത്തടി \r\n1.വട്ടക്കയം ഗേറ്റ് - പാണത്തൂര്‍ \r\n2.പരിയാരം ജംഗ്ഷന്‍\r\n3.ഓട്ടമല\r\n4.പ്രാന്തര്‍കാവ് \r\nകള്ളാര്‍\r\n5.കപ്പള്ളി\r\nബളാല്‍\r\n6. ആനമഞ്ഞള്‍ ജംഗ്ഷന്‍\r\n7.പുന്നക്കുന്ന് ജംഗ്ഷന്‍\r\n8.ചെമ്പഞ്ചേരി ജംഗ്ഷന്‍\r\nകിനാനൂര്‍ കരിന്തളം \r\n9.മേലഞ്ചേരി ജംഗ്ഷന്‍\r\n10.പുലിയംകുളം\r\n11.പയ്യംകുളം\r\n12.അണ്ടോള്‍ ദേശ സേവിനി വായനശാല \r\n13.അണ്ടോള്‍ മൊട്ടക്കുന്ന്\r\nകൊടോം ബേളൂര്‍\r\n14.മൂപ്പില്‍ \r\nമടിക്കൈ\r\n15.കണ്ടംകുട്ടിച്ചാല്‍\r\nഅജാനൂര്‍\r\n16.മുക്കൂട്\r\n17.മുട്ടുംതല ജംഗ്ഷന്‍\r\n18.പാറത്തോട്",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 90.0,
+            "concurrence_lakhs": 90.0
+        },
+        {
+            "project_name": "പൂങ്കാകുതിര്‍ താനം -കക്കാട്ട് റോഡില്‍ കല്‍വര്‍ട്ടുകളും റോഡ്‌ അഭിവൃദ്ധിപ്പെടുത്തലും(മടിക്കൈ ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വള്ളിക്കടവ് -വാഴേല്‍ കോളനി  -ബന്ധമല റോഡ്‌ ടാറിംഗ് (ബളാല്‍ ഗ്രാമപഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "പുന്നക്കുന്ന് -ആനമഞ്ഞള്‍  റോഡ്‌ ടാറിംഗ് (ബളാല്‍ ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കയനി-വലിയപാറ റോഡ്‌ ടാറിംഗ് (കിനാനൂര്‍ -കരിന്തളം ഗ്രാമപഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ചെമ്പേന കുടിവെള്ള പദ്ധതി(കിനാനൂര്‍ -കരിന്തളം ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive  Engineer, Water AuthorIty, PH Division,kasaragod",
+            "category": "Water Supply",
+            "fy": "2022-2023",
+            "estimate_lakhs": 40.0,
+            "concurrence_lakhs": 40.0
+        },
+        {
+            "project_name": "പൂടംങ്കല്ല് -ബളാല്‍ റോഡില്‍ അയ്യങ്കാവില്‍ റോഡിന് പാര്‍ശ്വഭിത്തി നിര്‍മ്മാണവും കോണ്‍ക്രീറ്റ് ഓവ് ചാല്‍ നിര്‍മ്മാണവും (കള്ളാര്‍ ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കുണ്ടുപള്ളി -ഉതിരക്കുളം റോഡ്‌ ടാറിംഗ് (പനത്തടി ഗ്രാമപഞ്ചായത്ത് )",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "മൂപ്പില്‍ -എട്ടാംമൈല്‍ റോഡ്‌ ടാറിംഗ്(കൊടോം ബേളൂര്‍ ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "സ്കൂള്‍ വിദ്യര്‍ത്ഥികള്‍ക്ക് യാത്രാ സൗകര്യം ഒരുക്കുന്നതിന് ബസ്സുകള്‍ വാങ്ങുന്നതിന്\r\n1.ജി എച്ച് എസ്എസ് ഉപ്പിലിക്കൈ -  20 ലക്ഷം\r\n2.ജി എച്ച് എസ്‌ എസ്‌ ഹോസ്ദുര്‍ഗ് - 20ലക്ഷം\r\n3.ജി എച്ച് എസ് എസ് പരപ്പ        - 20 ലക്ഷം \r\n4.ജി യുപിഎസ് അരയി                      -15 ലക്ഷം \r\n5.ജി യുപിഎസ് പൂത്തക്കാല്‍   -15 ലക്ഷം",
+            "implementing_agency": "Deputy Director of Education,civil station,kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 90.0,
+            "concurrence_lakhs": 90.0
+        },
+        {
+            "project_name": "വരഞ്ഞൂര്‍ -ചെന്നക്കോട് -ബാനം റോഡ്‌ അഭിവൃദ്ധിപ്പെടുത്തല്‍ (കിനാനൂര്‍ കരിന്തളം ഗ്രാമപഞ്ചായത്ത് )",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "കൂടോല്‍ -പെരളം -കളാമൂല റോഡ്‌ അഭിവൃദ്ധിപ്പെടുത്തല്‍(കിനാനൂര്‍ കരിന്തളം ഗ്രാമപഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ആനമഞ്ഞള്‍ക്കുഴി -കൊടിയന്‍കുണ്ട് റോഡ്‌  ടാറിംഗ് (ബളാല്‍ ഗ്രാമപഞ്ചായത്ത് )",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "തൂച്ചാനം-അടോട്ട്  റോഡിൻ്റെ  പാർശ്വഭാഗം ഉൾപ്പെടുന്ന തോടിൻ്റെ കോൺക്രീറ്റ് ഭിത്തികെട്ടി സംരക്ഷണം(അജാനൂർ ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Irrigation",
+            "fy": "2021-2022",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 26.0
+        },
+        {
+            "project_name": "ആവിയിൽ നിന്ന് പരക്കോട്ട് റോഡിലേക്കുളള ഓവുചാൽ സൈഡ് കെട്ടി നവീകരണം(വാർഡ് -19 കാഞ്ഞങ്ങാട് നഗര സഭ)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 21.0,
+            "concurrence_lakhs": 21.0
+        },
+        {
+            "project_name": "ഗവ.മോഡല്‍ ഹോമിയോ ഡിസ്പെന്‍സറി എരിക്കുളം -കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Healthcare",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": NaN,
+            "implementing_agency": NaN,
+            "category": "Others",
+            "fy": NaN,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "kannur_shri_e_chandrasekharan_placeholder"
+}

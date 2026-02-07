@@ -1,0 +1,429 @@
+{
+    "mla_name": "Shri. T J Vinod",
+    "constituency": "ERANAKULAM",
+    "district": "Ernakulam",
+    "summary": {
+        "total_expenditure_crores": 18.7248,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 4.7308
+            },
+            {
+                "label": "Education",
+                "value_crores": 4.466
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 3.831
+            },
+            {
+                "label": "Others",
+                "value_crores": 2.294
+            },
+            {
+                "label": "Sports",
+                "value_crores": 1.3982
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 0.8076
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.8052
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.392
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "MLA ADS-2025-26   ERNAKUAM LAC- SUPPLY AND INSTALLATION  OF   HIGHMAST/MINIMAST AT 5 LOCATIONS IN ERNAKULAM LAC .",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 19.85,
+            "concurrence_lakhs": 19.85
+        },
+        {
+            "project_name": "MLA ADS-2025-26   ERNAKUAM LAC-   CONSTRUCTION OF EXAMINATION HALL FOR GOVT. GIRLS SCHOOL ERNAKULAM -GENERAL CIVIL WORK",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 41.4,
+            "concurrence_lakhs": 41.4
+        },
+        {
+            "project_name": "MLA ADS-2025-26   ERNAKUAM LAC-   ONE PANCHAYATH ONE PLAY GRAOUND-CONSTRUCTION OF FOOTBALL TURF AT SRV GOVERMENT   BOYS HSS IN ERNAKULAM. GENERAL CIVIL WORK",
+            "implementing_agency": "Director,Sports & Youth Affairs, Vellayambalam, Thiruvananthapuram",
+            "category": "Sports",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "MLA ADS-2024-25   ERNAKUAM LAC-   CONSTRUCTION OF AUDITORIUM AT  S.R.V-SCHOOL ,ERNAKULAM",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 99.0
+        },
+        {
+            "project_name": "MLA ADS-2025-26-CONSTRUCTION OF OPEN AIR AUDITORIUM IN ELAMAKKARA      HSS SCHOOL IN DIVISION 34 -EDAPPALLY",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 85.0,
+            "concurrence_lakhs": 85.0
+        },
+        {
+            "project_name": "MLA ADS-2024-25-YASORAM SUB ROAD IInd  LANE DRAIN AND COVER SLAB IN WARD 17 OF CHERANALLOOR GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.76,
+            "concurrence_lakhs": 10.76
+        },
+        {
+            "project_name": "MLA ADS(2024-25) ERNAKULAM LAC- CONSTRUCTION OF  KORANKOTTA BOAT JETTY IN WARD NO 10 OF CHERANELLOOR GP -GENERAL CIVIL WORK",
+            "implementing_agency": "Executive  Engineer,Irrigation Division Ernakulam",
+            "category": "Irrigation",
+            "fy": "2024-2025",
+            "estimate_lakhs": 24.2,
+            "concurrence_lakhs": 24.2
+        },
+        {
+            "project_name": "MLA ADS(2024-25) ERNAKULAM LAC- NEW TOILET  BLOCK  SACRED HEART HIGH SCHOOL THEVARA -TOILET BLOCK -CIVIL WORK",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA-ADS-2024-25-എറണാകുളം നിയോജകമണ്ഡലത്തിലെ ചേരാനെല്ലൂർ ഗ്രാമപഞ്ചായത്തിൽ                                      വാർഡ് 4 ലെ കണ്ണൻ കുളത്തിനു ചുറ്റും ഓപ്പൺ സ്റ്റേജ് ,ഓപ്പൺ  ജിം  എന്നിവ  ഉൾപ്പെട്ട ഒരു ഓപ്പൺ പാർക്ക് നിർമ്മാണം",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Sports",
+            "fy": "2024-2025",
+            "estimate_lakhs": 89.82,
+            "concurrence_lakhs": 89.82
+        },
+        {
+            "project_name": "MLA ADS(2024-25) CONSTRUCTION OF TOILET &URINAL BLOCK IN LITTLE FLOWER LP SCHOOL CHERANELLOOR ERNAKULAM",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "MLA -ADS-2024-25 -PROVIDING DRAINAGE FACILITIES IN OLD N H 17 EDAPPALLY CHERANNALLOR ROAD PHASE ll IN BETWEEN Ch .1/000 AND Ch .1/200",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 16.4,
+            "concurrence_lakhs": 16.4
+        },
+        {
+            "project_name": "MLA-ADS  ERNAKULAM LAC - 2023  -2024- CONSTRUCTION OF MORTUARY BUILDING INCLUDING POLICE INQUEST ROOM IN ERNAKULAM GENERALHOSPITAL",
+            "implementing_agency": "SUPREINTENDENT GENERAL HOSPITAL ERNAKULAM",
+            "category": "Healthcare",
+            "fy": "2023-2024",
+            "estimate_lakhs": 70.0,
+            "concurrence_lakhs": 70.0
+        },
+        {
+            "project_name": "MLA-ADS- 2024-25- ERANAKULAM LAC -CONSTRUCTION  OF K S R T C BUS STAND IN   ERNAKULAM",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 55.1,
+            "concurrence_lakhs": 55.1
+        },
+        {
+            "project_name": "MLA-ADS-2024-2025-SITC OF 12 METER HIGHMAST LIGHTS OF 200W LED FLOOD LIGHTS - SITC OF 8 METER MINI MAST LIGHTS OF 150W LED FLOOD LIGHTS AT VARIOUS LOCATIONS IN COCHIN CORPORATION",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 60.91,
+            "concurrence_lakhs": 60.91
+        },
+        {
+            "project_name": "MLA-ADS-2024-25 CONSTRUCTION OF COMMUNITY HALL AT CHERANALLOR GP WARD 12(PHASE-II)",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2024-2025",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 99.0
+        },
+        {
+            "project_name": "MLA-ADS -2023-24 CONSTRUCTION OF KASTHURBA NAGAR PARK AT KADAVANTHRA IN DIV-60",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 150.0,
+            "concurrence_lakhs": 150.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF CREMATORIUM AT CHERNALLOOR GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 57.0,
+            "concurrence_lakhs": 57.0
+        },
+        {
+            "project_name": "STATE WATER TRANSPORT DEPARTMENT REGIONAL OFFICE BOAT JETTY (BALANCE WORK)",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 60.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF OPEN AIR AUDITORIUM AT HARISREE NAGAR COLONY WARD 6 OF CHERANALLOOR GP-GENERAL CIVIL WORK",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.4,
+            "concurrence_lakhs": 22.4
+        },
+        {
+            "project_name": "CONSTRUCTION OF KOLARIKKAL ROAD (BM&amp.BC) IN CHERNALLOOR GP -GENERAL CIVIL WORK",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF KOLARIKKAL ROAD (BM&amp.BC) IN CHERNALLOOR GP -GENERAL CIVIL WORK",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 26.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF KOLARIKKAL ROAD (BM&amp.BC) IN CHERNALLOOR GP -GENERAL CIVIL WORK",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF ANGANWADI BUILDING FOR CHERANALLOOR GP WARD N0.2-ANGANWADY  NO 50 CHERANALLOOR GP GENERAL CIVIL WORK",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD BUILDINGS DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 44.7,
+            "concurrence_lakhs": 44.7
+        },
+        {
+            "project_name": "CONSTRUCTION OF AUDITORIUM AT MODEL TECHNICAL HIGHER SECONDARY SCHOOL KALOOR",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 70.0,
+            "concurrence_lakhs": 70.0
+        },
+        {
+            "project_name": "MLA ADS PROVIDING WSC TO MECHOORKADAVU COLONY,BEHIND LEKSHMI HOSPITAL,DIV 62 (NEW) OF KOCHI CORP",
+            "implementing_agency": "EXECUTIVE ENGINEER,PH  DIVISION KWA KOCHI",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.52,
+            "concurrence_lakhs": 10.52
+        },
+        {
+            "project_name": "TARRING OF BTS CROSS ROAD TO CHETHANA JUNCTION -DIV 39 OF KOCHI CORPORATION-GENERAL CIVIL WORK",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.32,
+            "concurrence_lakhs": 12.32
+        },
+        {
+            "project_name": "LAC ADS -22-23 CONSTRUCTION OF GODOWN ROAD -PROVIDING 20mm CLOSE GRADE IN GODOWN ROAD -GENERAL CIVIL WORK",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "LAC-ADS-IMPROVEMENTS TO THE THANIMA - ST GEORGE KAPPELA ROAD AND DRAIN IN WARD 7 OF CHERANALLUR GRAMA PANCHAYATH -GENERAL CIVIL WORK",
+            "implementing_agency": "EXECUTIVE ENGINEER , HARBOUR ENGINEERING DEPARTMENT,ERNAKULAM DIVISION ,MUNAMBAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 26.0
+        },
+        {
+            "project_name": "LAC ADS-Sri T.J. VINOD MLA - Construction of Community hall in ward 12,cheranallur GP- 2022-23-GENERAL CIVIL WORK",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 99.0
+        },
+        {
+            "project_name": "MLA ADS 2022-23 LAC ADS -CONSTRUCTION OF ROAD AND DRAIN WORK -THAMARASSERY -SMARANIKA ROAD-GENERAL CIVIL WORK",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "LAC ADS ML A ADS CONSTRUCTION OF ROAD -JAYA KERALA ARTS CLUB -CONSTRUCTION OF ROAD ADACENT SIDE OF EDAYAKKUNNAM BRIDGE NEAR JAYA KERALA  ARTS CLUB -GENERAL CIVIL WORK",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 14.75,
+            "concurrence_lakhs": 14.75
+        },
+        {
+            "project_name": "LAC ADS MLA ADS- CHERANELLOOR PANCHAYATH- DEVANKULANGARA KACHERIPADI ROAD CROSS CULVERT - CONSTRUCTION OF CROSS CULVERT AND DRAIN - GENERAL CIVIL WORK",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.5,
+            "concurrence_lakhs": 11.5
+        },
+        {
+            "project_name": "GENERAL-ISO/MOE3/013872/22-TARRING OF ST FRANCIS XAVIER CHURCH ROAD,LISSY PULLEPPADY ROAD AND BY LANE BM &AMP; BC TARRING IN DIV-64-GENERAL CIVIL WORK",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 36.3,
+            "concurrence_lakhs": 36.3
+        },
+        {
+            "project_name": "CONSTRUCTION OF DRAIN AND PAVING INTERLOCK TILE IN ELECTRONICS ST AND KARIMPATTA ROAD IN DIVISION 61",
+            "implementing_agency": "EXECUTIVE ENGINEER, L.S.G.D MUNICIPAL CORPORATION OF KOCHI",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "LAC-ADS-Sri T.J Vinod MLA-Construction of Ramankartha Marapaparambu Sub Road in Ward 17,Cheranallur G.P - 2022-23 - General Civil Work",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "LAC-ADS-Sri T.J.Vinod MLA-Construction of Bhagavathi Temple Road in Ward 17, Cheranellur.G.P -2022-23- General Civil Work",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF GODOWN ROAD AND PAVING INTERLOCKING TILES IN GODOWN ROAD",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD ROADS & BRIDGES DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 49.6,
+            "concurrence_lakhs": 49.6
+        },
+        {
+            "project_name": "PAVING INTERLOCKING TILES AND DRAINAGE FACILITIES- URUMEES THALIYATH ROAD",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD ROADS & BRIDGES DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 11.1,
+            "concurrence_lakhs": 11.1
+        },
+        {
+            "project_name": "CONSTRUCTION OF ROAD AND DRAIN EDAYAKUNNAM TEMPLE ROAD",
+            "implementing_agency": "EXECUTIVE ENGINEER PWD ROADS & BRIDGES DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "CONSTRUCTION AND PROVIDING DRIANAGE FACILITIES IN TELEPHONE EXCHANGE ROAD",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF FIRST FLOOR OVER NE BUILDING AT GOVT LP SCHOOL CHITTOOR IN CHERANALLOOR GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF ROAD BY PROVIDING BM AND BC TO PARAYIL ROAD IN DIVISION 34 OF COCHIN CORPORATION IN ERNAKULAM LAC",
+            "implementing_agency": "EXECUTIVE ENGINEER P.W.D.ROADS DIVISION,ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 14.35,
+            "concurrence_lakhs": 14.35
+        },
+        {
+            "project_name": "CONSTRUCTION OF BLAYIKKADAVU SUB ROAD CONCRETING AND DRAIN WITH COVER SLAB IN WARD 17, CHERANALLUR GP",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF BUILDING FOR ANGANWADI NO.70 IN CHERANALLUR G.P",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 51.5,
+            "concurrence_lakhs": 51.5
+        },
+        {
+            "project_name": "Interconnecting 225 AC pumbing to distribution main for improving water supply in kalathiparambu road, ganapathy temple road, boat jetty road and augustine nediyanthara road in division 47 of kochi corporation.",
+            "implementing_agency": "EXECUTIVE ENGINEER ,WATER SUPPLY DIVISION K.W.A. KOCHI",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "CONSTRUCTION OF FIRST FLOOR OVER NEW BUILDING BLOCK OF CHERANALLUR FHC AND ITS COMPLETION WORKS",
+            "implementing_agency": "EXECUTIVE ENGINEER LSGD,DIVISION ERNAKULAM",
+            "category": "Infrastructure",
+            "fy": "2021-2022",
+            "estimate_lakhs": 70.0,
+            "concurrence_lakhs": 70.0
+        },
+        {
+            "project_name": "Construction of retaining wall for flood protection at Changadampokku thodu near Railway underpass makkaparambu in Division 34 of Kochi Municipality",
+            "implementing_agency": "Superintending Engineer, LSGD, Municipal Corporation of Kochi",
+            "category": "Irrigation",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": null,
+            "implementing_agency": null,
+            "category": "Others",
+            "fy": null,
+            "estimate_lakhs": 0.0,
+            "concurrence_lakhs": 0.0
+        }
+    ],
+    "image": "T.J._Vinod_fnknf8"
+}

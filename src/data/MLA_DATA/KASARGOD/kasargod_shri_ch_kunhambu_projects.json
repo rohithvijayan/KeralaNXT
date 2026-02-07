@@ -1,0 +1,921 @@
+{
+    "mla_name": "Shri C.H. Kunhambu",
+    "constituency": "UDMA",
+    "district": "Kannur",
+    "summary": {
+        "total_expenditure_crores": 28.6377,
+        "breakdown": [
+            {
+                "label": "Road",
+                "value_crores": 16.2502
+            },
+            {
+                "label": "Education",
+                "value_crores": 4.46
+            },
+            {
+                "label": "Others",
+                "value_crores": 3.4
+            },
+            {
+                "label": "Electricity",
+                "value_crores": 2.1525
+            },
+            {
+                "label": "Infrastructure",
+                "value_crores": 1.175
+            },
+            {
+                "label": "Healthcare",
+                "value_crores": 0.6
+            },
+            {
+                "label": "Irrigation",
+                "value_crores": 0.6
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "കോട്ടൂർ ചറവ് റോഡ് - 12.20 ലക്ഷം - മുളിയാർ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 12.2,
+            "concurrence_lakhs": 12.2
+        },
+        {
+            "project_name": "മല്ലം കോളംകോട് അടുക്കം റോഡ് - 25 ലക്ഷം - മുളിയാർ ഗ്രാമപഞ്ചായത്ത്",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "മൊട്ട വടക്കേക്കര ബേത്തലം റോഡ് - 35.5 ലക്ഷം - കുറ്റിക്കോൽ പഞ്ചായത്ത്.",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 35.5,
+            "concurrence_lakhs": 35.5
+        },
+        {
+            "project_name": "കുന്നുമ്മങ്ങാനം നമ്പ്യാറടുക്കം പ്ലാന്റേഷന്‍ റോഡ്‌, പുല്ലൂര്‍ പെരിയ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "മുളിയാര്‍ പഞ്ചായത്തിലെ താഴെ പറയുന്ന റോഡ്‌ പ്രവൃത്തികള്‍ക്ക്‌ ആകെ 37.20 ലക്ഷം രൂപ (ഒറ്റ പ്രവൃത്തിയായി)\r\n 1) മല്ലം കോളംകോട്‌ അടുക്കം റോഡ്‌ - 25 ലക്ഷം രൂപ \r\n 2) കോട്ടൂര്‍ ചറവ്‌ റോഡ്‌ - 12.20 ലക്ഷം രൂപ",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 37.2,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഗവ.യു.പി.സ്കൂള്‍ തെക്കില്‍ പറമ്പ, പൊയിനാച്ചി, കാസറഗോഡിന്‌ ബസ്‌ വാങ്ങല്‍",
+            "implementing_agency": "Deputy Director of Education,civil station,kasaragod",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 24.28
+        },
+        {
+            "project_name": "മുരിയാനം കോളനി പരപ്പക്കെട്ട്‌ റോഡ്‌, പുല്ലൂര്‍ പെരിയ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "മുതിയക്കാല്‍ കരിപ്പോടി ശാസ്ത റോഡ്‌ (ഉദുമ ഗ്രാമ പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.12,
+            "concurrence_lakhs": 17.12
+        },
+        {
+            "project_name": "ഉദുമ മണ്ഡലത്തിലെ  45 സ്ഥലങ്ങളില്‍ മിനിമാസ്റ്റ്‌ ലൈറ്റുകള്‍ സ്ഥാപിക്കല്‍(മുളിയാര്‍, ഉദൂമ, ബേഡഡുക്ക, കുറ്റിക്കോല്‍, ചെമ്മനാട്‌, പുല്ലൂര്‍ പെരിയ, പള്ളിക്കര ഗ്രാമ പഞ്ചായത്തുകളില്‍)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Electricity",
+            "fy": "2025-2026",
+            "estimate_lakhs": 99.0,
+            "concurrence_lakhs": 97.78
+        },
+        {
+            "project_name": "അട്ടപ്പറമ്പ്‌ ചേക്കോട് മുളിയാര്‍ ലിങ്ക് റോഡ്‌ (മുളിയാര്‍ പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 16.0,
+            "concurrence_lakhs": 16.0
+        },
+        {
+            "project_name": "എടപ്പറമ്പ - മണിയൂര്‍ റോഡ്‌ (ദേലംപാടി പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "പയറട്ടക്ക - ബന്‍ഡാരകുഴി റോഡ്‌ (ദേലംപാടി പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "തെക്കേമൂല - തമ്പാച്ചേരി റോഡ്‌ (തെങ്കമൂല - തല്‍പ്പച്ചേരി) (ദേലംപാടി പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കോട്ടിക്കുളം തച്ചങ്ങാട്‌ PWD റോഡ്‌ - മുതിയക്കാല്‍ വയല്‍ ഭാഗം സൌന്ദര്യവല്‍ക്കരണം (ഉദുമ പഞ്ചായത്ത്‌)",
+            "implementing_agency": "PWD Roads Divsion Kasaragod",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചാളക്കാട്‌ - വയലാംകഴി കല്ലുംകടവ്‌ റോഡ്‌ (ചെമ്മനാട്‌ പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "തിരുവക്കോളി ഹെല്‍ത്ത്‌ സെന്റര്‍ ബില്‍ഡിംഗ്‌ (ഉദൂമ പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കെ.വി.കണ്ണന്‍ ഗ്രന്ഥാലയം ഈലടുക്കം കെട്ടിടം നിര്‍മ്മിക്കുന്നതിന്‌ (പള്ളിക്കര പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കുട്ടപ്പന്ന കുറുക്കന്‍ കുന്ന്‌ കോളനി റോഡ്‌ (പള്ളിക്കര പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ജി.എച്ച്‌.എസ്‌.എസ്‌. കുണ്ടംകുഴി സ്കൂള്‍ ഗ്രൌണ്ട്‌ (ഒരു പഞ്ചായത്ത്‌ ഒരു കളിസ്ഥലം പദ്ധതി)",
+            "implementing_agency": "Director of Sports and Youth Affairs",
+            "category": "Education",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "ബേത്തൂര്‍പ്പാറ ഗവ ഹയര്‍ സെക്കണ്ടറി സ്കള്‍ ഓപ്പണ്‍ ഓഡിറ്റോറിയം (കുറ്റിക്കോല്‍)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Infrastructure",
+            "fy": "2025-2026",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കരിവേടകം - പാതാളം കുന്ന്‌ റോഡ്‌ (കുറ്റിക്കോല്‍ പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 13.5,
+            "concurrence_lakhs": 13.5
+        },
+        {
+            "project_name": "മൊട്ട - വടക്കേക്കര റോഡ്‌ (കുറ്റിക്കോല്‍ പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മേച്ചപ്പാറ - നാഗത്തിങ്കല്‍ റോഡ്‌ (പുല്ലൂര്‍ പെരിയ പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "മാടിപ്പാറ - പൊള്ളക്കട റോഡ്‌ പ്രല്ലര്‍ പെരിയ പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2025-2026",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "വില്ലാരംപതി-നാലക്ര-വാക്കുഴി-പൊള്ളക്കട റോഡില്‍ പൊള്ളക്കടയില്‍ കള്‍വര്‍ട്ട്‌ (പുല്ലൂര്‍ പെരിയ പഞ്ചായത്ത്‌) -12 ലക്ഷം",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Others",
+            "fy": "2025-2026",
+            "estimate_lakhs": 12.0,
+            "concurrence_lakhs": 12.0
+        },
+        {
+            "project_name": "ബണ്ടിച്ചാല്‍ മണ്ഡലിപ്പാറ ഞാനിക്കടവ് റോഡ്‌ , ചെമ്മനാട് ഗ്രാമ പഞ്ചായത്ത്‌",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 22.5,
+            "concurrence_lakhs": 22.5
+        },
+        {
+            "project_name": "മിനിമാസ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കല്‍ (മണ്ഡലത്തിലെ 10 സ്ഥലങ്ങളില്‍)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 21.47
+        },
+        {
+            "project_name": "മിനിമാസ്റ്റ്റ് ലൈറ്റ് സ്ഥാപിക്കല്‍-ഉദുമ എം എൽ എ ആസ്തി വികസന പദ്ധതി 2024-25 മിനിമാസ്റ്റ് ലൈറ്റ്ചന്ദ്രപുരം(പള്ളിക്കര GP), കുതിരക്കോട് (പള്ളിക്കര GP) ,ഉക്രംപാടി(ചെമ്മനാട് GP) ,ചോയിച്ചിങ്കൽ(ഉദുമ GP),പാലക്കുന്ന് മാർക്കറ്റ്(ഉദുമ GP),ആറാട്ട്കടവ്(ഉദുമ GP) പരപ്പ (കുറ്റിക്കോൽ GP) , ശങ്കരംപാടി നെച്ചിപടുപ്പ് ജങ്ങ്ഷന്‍(കുറ്റിക്കോൽ GP), പെരിയ വടക്കെക്കര ഇ.എം.എസ്.സാംസ്കാരിക സമിതി ഓഫീസ് പരിസരം (പുല്ലൂർ പെരിയ ),കുണ്ടംകുഴി അമ്പലം  പരിസരം (ബേഡഡുക്ക)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 26.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "നാട്ടകല്ല് എരിഞ്ഞിതല റോഡ്‌, കുറ്റിക്കോല്‍ ഗ്രാമ പഞ്ചായത്ത്‌",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 32.0,
+            "concurrence_lakhs": 32.0
+        },
+        {
+            "project_name": "കൊപ്പല്‍ ക്ലബ് കൊപ്പല്‍ വയല്‍ റോഡ്‌ , ഉദുമ ഗ്രാമ പഞ്ചായത്ത്‌",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "അരയാല്‍ തറ ചിറക്കാല്‍ റോഡ്‌ (പള്ളിക്കര ഗ്രാമ പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "പയറ്റിയാല്‍ അഡുമ്മൽ ക്വാറി റോഡ്‌ -ബേഡഡുക്ക ഗ്രാമ പഞ്ചായത്ത്‌",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കോട്ടൂര്‍-ചറവ് റോഡ്‌ , മുളിയാര്‍ ഗ്രാമ പഞ്ചായത്ത്‌",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 11.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഉദുമ എം എൽ എ ആസ്തി വികസന പദ്ധതി 2024-25 നെടുവോട്ട്പാറ-തച്ചറവളപ്പ്-പെരിയ ഹൈസ്കൂൾ റോഡ് (പുല്ലൂർ-പെരിയ ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ഉദുമ എം എൽ എ ആസ്തി വികസന പദ്ധതി 2024-25 പെരളം -പനക്കൂൽ തറവാട് റോഡ് കോണ്‍ക്രീറ്റ് (പുല്ലൂർ പെരിയ ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ഉദുമ എം എൽ എ ആസ്തി വികസന പദ്ധതി 2024-25 ഹസ്സൻ ബസാർ-ബിലാൽ റോഡ് കോണ്‍ക്രീറ്റ്  (പള്ളിക്കര ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഉദുമ എം എൽ എ ആസ്തി വികസന പദ്ധതി 2024-25 പള്ളം-തെക്കേക്കര കാപ്പിൽ റോഡ് അഭിവൃദ്ധപ്പെടുത്തൽ (ഉദുമ ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഉദുമ എം എൽ എ ആസ്തി വികസന പദ്ധതി 2024-25 അരമങ്ങാനം യംഗ് ബ്രദേഴ്സ് തോട് കുണ്ടാർ റോഡ് അഭിവൃദ്ധപ്പെടുത്തൽ (ഉദുമ ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "ഉദുമ എം എൽ എ ആസ്തി വികസന പദ്ധതി 2024-25 മിനിമാസ്റ്റ് ലൈറ്റ് ചന്ദ്രപുരം(പള്ളിക്കര GP), കുതിരക്കോട് (പള്ളിക്കര GP) ,ഉക്രംപാടി(ചെമ്മനാട് GP) ,ചോയിച്ചിങ്കൽ(ഉദുമ GP),പാലക്കുന്ന് മാർക്കറ്റ്(ഉദുമ GP),ആറാട്ട്കടവ്(ഉദുമ GP) പരപ്പ (കുറ്റിക്കോൽ GP)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Electricity",
+            "fy": "2024-2025",
+            "estimate_lakhs": 18.25,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഉദുമ എം എൽ എ ആസ്തി വികസന പദ്ധതി 2024-25 സ്കൂൾ ബസ്( ജി വി എച്ച് എസ് എസ് ഇരിയണ്ണി)",
+            "implementing_agency": "Deputy Director of Education,civil station,kasaragod",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ഉദുമ എം എൽ എ ആസ്തി വികസന പദ്ധതി 2024-25 ബംഗാട് ഭജന മന്ദിരം-ആയംകടവ്  റോഡ് അഭിവൃദ്ധപ്പെടുത്തൽ",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ഉദുമ എം എൽ എ ആസ്തി വികസന പദ്ധതി 2024-25 ബെണ്ടിച്ചാൽ-മണ്ഡലിപ്പാറ-ആഡിയം റോഡ് അഭിവൃദ്ധപ്പെടുത്തൽ",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഉദുമ എം എൽ എ ആസ്തി വികസന പദ്ധതി 2024-25 ചെമ്മനാട് വായനശാല & ഗ്രന്ഥാലയം ചെമ്മനാട് കെട്ടിട നിർമ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഉദുമ എം എൽ എ ആസ്തി വികസന പദ്ധതി 2024-25 അംബിക ലൈബ്രറി പാലക്കുന്ന് കെട്ടിടനിർമ്മാണം\r\n്ട",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Education",
+            "fy": "2024-2025",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഉദുമ എം എൽ എ ആസ്തി വികസന പദ്ധതി 2024-25 കാഞ്ഞിരടുക്കം-കറവന്ദിക്കാൽ റോഡ് ടാറിംഗ്",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ഉദുമ എം എൽ എ ആസ്തി വികസന പദ്ധതി 2024-25 പാണ്ടി നീർലക്കായ പടുപ്പ് റോഡ്",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഉദുമ എം എൽ എ ആസ്തി വികസന പദ്ധതി 2024-25 ഇരിയണ്ണി-പേരടുക്കം റോഡ് (മുളിയാർ ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 29.0,
+            "concurrence_lakhs": 29.0
+        },
+        {
+            "project_name": "ഉദുമ എം എൽ എ ആസ്തി വികസന പദ്ധതി 2024-25 മല്ലം-കോളംകോട്-അടുക്കം റോഡ് അഭിവൃദ്ധപ്പെടുത്തൽ",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഉദുമ എം എൽ എ ആസ്തി വികസന പദ്ധതി 2024-25 പായങ്ങാട് തോടിന് പാലം (സംയുക്ത പദ്ധതി) ബേഡഡുക്ക ഗ്രാമ പഞ്ചായത്ത്",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഉദുമ എം എൽ എ ആസ്തി വികസന പദ്ധതി 2024-25 വട്ടംതട്ട-പാടികൊടൽ-ഒളിയത്തടുക്കം റോഡ് അഭിവൃദ്ധപ്പെടുത്തൽ",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 22.0
+        },
+        {
+            "project_name": "ഉദുമ എം എൽ എ ആസ്തി വികസന പദ്ധതി 2024-25 ആനക്കല്ല്-ഒറ്റമാവുങ്കാൽ-പുതിയപറമ്പ് റോഡ് അഭിവൃദ്ധപ്പെടുത്തൽ",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2024-2025",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഉദുമ എം.എൽ.എ - എ.ഡി.എസ്-2024-25  എൻഡോസൾഫാൻ പുനരധിവാസ ഗ്രാമം -",
+            "implementing_agency": "DIST SOCIAL JUSTICE OFFICER",
+            "category": "Others",
+            "fy": "2024-2025",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 22.57
+        },
+        {
+            "project_name": "MLA ADS UDUMA 2021-22 ഒരു പഞ്ചായത്തിൽ ഒരു കളിക്കളം പദ്ധതി -ജി എച്ച് എസ് കുറ്റിക്കോൽ സ്കൂൾ ഗ്രൗണ്ട് നിർമ്മാണം",
+            "implementing_agency": "Director of Sports and Youth Affairs",
+            "category": "Education",
+            "fy": "2021-2022",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 50.0
+        },
+        {
+            "project_name": "MLA ADS 2023-24 ഉദുമ നിയോജക മണ്ഡലം-തിരുവക്കോളി-അങ്കക്കളരി-ബേക്കൽ എച്ച് എസ് റോഡ് (ഉദുമ GP)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ഉദുമ നിയോജകമണ്ഡലം - ഉദുമ എം.എൽ.എ -എ.ഡി.എസ്-2023-24 മിനിമാസ്റ്റ് സ്ഥാപിക്കൽ 12 എണ്ണം\r\n1 അരമങ്ങാനം കപുകയം (ഉദുമ GP)\r\n2 റെഡ് വേൾഡ് ജക്ഷൻ കൊപ്പൽ (ഉദുമ GP)\r\n3 കൂട്ടപ്പുന്ന (പള്ളിക്കര GP)\r\n4 കോട്ടപ്പാറ ജംക്ഷൻ (പള്ളിക്കര GP)\r\n5 പളളിക്കര കടപ്പുറം (പള്ളിക്കര GP)\r\n6 കരിവേടകം (കുറ്റിക്കോൽ GP)\r\n7ചൂരിക്കോട് (ബേഡഡുക്ക GP)\r\n8 പെരിയ ഗാന്ധി സ്മാരക വായനശാല (പുല്ലൂർ പെരിയ GP)\r\n9 വടക്കേക്കര ഇ എം എസ് കലാസമിതി പരിസരം (പുല്ലൂർ പെരിയ GP)\r\n10 മീങ്ങോത്ത് (പുല്ലൂർ പെരിയ GP)\r\n11 ഹിദായത്ത് നഗർ (ദേലംപാടി GP)\r\n12ഇടുവുങ്കാൽ വിഷ്ണുമൂർത്തി ക്ഷേത്ര പരിസരം (ചെമ്മനാട് GP)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Electricity",
+            "fy": "2023-2024",
+            "estimate_lakhs": 36.0,
+            "concurrence_lakhs": 27.96
+        },
+        {
+            "project_name": "ഉദുമ നിയോജകമണ്ഡലം - ഉദുമ എം.എൽ.എ -എ.ഡി.എസ്-2023-24 കല്ലട്ക്ക-കണ്ണകോൽ റോഡ് അഭിവൃദ്ധിപ്പെടുത്തൽ (ദേലംപാടി GP)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ഉദുമ നിയോജകമണ്ഡലം - ഉദുമ എം.എൽ.എ -എ.ഡി.എസ്-2023-24 എ എൽ പി സ്കൂൾ അംബിക കഞ്ഞിപ്പുര നിർമ്മാണം (ഉദുമ ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "ഉദുമ നിയോജകമണ്ഡലം - ഉദുമ എം.എൽ.എ -എ.ഡി.എസ്-2023-24 ജി എൽ പി സ്കൂൾ പെരിയ കഞ്ഞിപ്പുര നിർമ്മാണം (പുല്ലൂർ പെരിയ GP)",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA ADS-UDUMA 2022-23 ആറാട്ട്കടവ്-എരോൽ-അമ്പലത്തുങ്കാൽ റോഡ്",
+            "implementing_agency": "Executive  Engineer LSGD",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA ADS-UDUMA 2022-23 എരിഞ്ചേരി-പാണൂർ റോഡ് വളവ് നികത്തൽ",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "ഉദുമ എം.എൽ.എ -എ.ഡി.എസ്-2023-24  പൂടംകല്ല്പാറ- കളക്കര സെക്കൻ്റ് തോട് റോഡ്-",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA LAC ADS 2023-24 UDUMA ഗവ യു പി സ്കൂള്‍ പുല്ലൂര്‍- 20 ലക്ഷം  \r\nജി എച്ച് എസ്സ് എസ്സ് പാക്കം -22 ലക്ഷം \r\nജി എച്ച് എസ്സ് എസ്സ് ബേതുര്‍പാറ-25 ലക്ഷം \r\n എന്നീ സ്കൂള്‍കള്‍ക്ക് ബസ്‌ വാങ്ങല്‍",
+            "implementing_agency": "Deputy Director of Education,civil station,kasaragod",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 76.0,
+            "concurrence_lakhs": 76.0
+        },
+        {
+            "project_name": "MLA LAC ADS 2023-24 UDUMA മുന്നാട് ജെ ഡി സി  കെട്ടിടം നിർമ്മാണം (ബേഡഡുക്ക ഗ്രാമ പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 70.0,
+            "concurrence_lakhs": 70.0
+        },
+        {
+            "project_name": "MLA LAC ADS 2023-24 UDUMA ഹോമിയോ ആശുപത്രി കൊളത്തൂര്‍ കെട്ടിടം നിര്‍മ്മാണം(ബേഡഡുക്ക  ഗ്രാമ പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Healthcare",
+            "fy": "2023-2024",
+            "estimate_lakhs": 35.0,
+            "concurrence_lakhs": 35.0
+        },
+        {
+            "project_name": "MLA LAC ADS 2023-24 UDUMA -ചെറുകാട് വായനശാല &  ഗ്രന്ഥാലയം, പയം കെട്ടിടം നിര്‍മാണം(മുളിയാര്‍ ഗ്രാമ പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Infrastructure",
+            "fy": "2023-2024",
+            "estimate_lakhs": 22.5,
+            "concurrence_lakhs": 22.5
+        },
+        {
+            "project_name": "MLA LAC ADS -2023-24 UDUMA- അംബിക ലൈബ്രറി പാലക്കുന്ന് കെട്ടിടം നിര്‍മ്മാണം(ബഹു എം എൽ എയുടെ 25/01/2024 ലെ കത്ത് പ്രകാരം റദ്ദ് ചെയ്തു)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Education",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "MLA LAC ADS 2023-24 UDUMA- ശാസ്‌താംപാറ-ചൂളിക്കാട്  റോഡ്‌ അഭിവൃദ്ധിപെടുത്താല്‍ (ബെഡടുക്ക ഗ്രാമ പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "MLA LAC ADS 2023-24 UDUMA കല്ലടകുറ്റി-മാലാംകാട്  റോഡ്‌ അഭിവൃദ്ധിപ്പെടുത്താല്‍ (ബെഡഡുക്ക ഗ്രാമ പഞ്ചായത്ത്‌ )",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "MLA LAC ADS 2023-24 UDUMA താരംതട്ട - കരിങ്കോല്‍ - കൈരളിപ്പാറ റോഡ്‌ അഭിവൃദ്ധിപ്പെടുത്താല്‍ (ബെഡഡൂക്കാ ഗ്രാമ പഞ്ചായത്ത്‌ )",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "MLA LAC ADS 2023-24 UDUMA കുട്ടപ്പുന്ന -കളിങ്ങോം തറവാട് വണ്ണത്താൻ വീട് റോഡ് ഇംപ്രൂവ്മെന്‍റ് (പള്ളിക്കര  ഗ്രാമ പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "MLA LAC ADS 2023-24 UDUMA പള്ളിത്തട്ട - ബാര - തൊട്ടി റോഡ്‌ അഭിവൃദ്ധിപ്പെടുത്താല്‍ (ഉദുമ ഗ്രാമ പഞ്ചായത്ത്‌ )",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 30.0,
+            "concurrence_lakhs": 30.0
+        },
+        {
+            "project_name": "MLA LAC ADS 2023-24 UDUMA മൈലാട്ടി ചെറുകര റോഡ്‌ അഭിവൃദ്ധിപെടുത്താല്‍ ( ചെമ്മനാട് ഗ്രാമ പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA LAC ADS 2023-24 UDUMA  മൈലാട്ടി ചെറുകര റോഡ്‌  അഭിവൃദ്ധിപെടുത്താല്‍  (ചെമ്മനാട് ഗ്രാമ പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "MLA LAC ADS 2023-24-UDUMA- കല്ലുമാളം കരികൊച്ചി റോഡ്  ഇംപ്രൂവ്മെന്‍റ് (പുല്ലൂര്‍ പെരിയ ഗ്രാമ പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "PUTHIYAKANDAM MALAMKADAVV ROAD IMPROVEMENT IN DELAMPADY GP",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 13.0,
+            "concurrence_lakhs": 13.0
+        },
+        {
+            "project_name": "പാണ്ടി ബളവന്തടുക്ക റോഡ്‌ അഭിവൃത്തിപെടുത്തല്‍(ദേലംപാടി ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2023-2024",
+            "estimate_lakhs": 17.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "MLA LAC ADS  2023-24 UDUMA - KORIKANDAM PALAM NIRRMANAM  DELAMPADY GP",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2023-2024",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 21.0
+        },
+        {
+            "project_name": "ഉദുമ നിയോജക മണ്ഡലത്തിലെ 5 സ്ഥലങ്ങളില് മിനിമാസ്റ്റ് ലൈറ്റുകള് \r\n1) ചെമ്പക്കാട്(ബേഡഡുക്ക)\r\n 2) നെല്ലിയടുക്കം (ബേഡഡുക്ക) \r\n3) വട്ടംതട്ട (ബേഡഡുക്ക)\r\n4) വിഷ്ണുപാറ ചെമ്മനാട്)\r\n5) നൂജിഭട്ടു (ദേലംപാടി)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Electricity",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "അമ്പിലാടി കോളനി കണക്കും കടവ് റോഡ് (ബേഡഡുക്ക)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ചോട്ടത്തോല്‍ വനങ്ങാട് പരപ്പ റോഡ് ( കുറ്റിക്കോല്‍)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 14.0,
+            "concurrence_lakhs": 14.0
+        },
+        {
+            "project_name": "ഉദുമ നിയോജക മണ്ഡലത്തിലെ 24 സ്ഥലങ്ങളിൽ മിനിമാസ്റ്റ് ലൈറ്റുകൾ സ്ഥാപിക്കൽ\r\n1. കുന്നൂച്ചി (പളളിക്കര)\r\n2. തോക്കാനം മൊട്ട (പളളിക്കര)\r\n3. ചെർക്കാപ്പാറ (പളളിക്കര)\r\n4. തൊട്ടി കിഴക്കേക്കര ജംഗ്ഷൻ (പളളിക്കര)\r\n5. താെട്ടി ജംഗ്ഷൻ (പളളിക്കര)\r\n6. എരോൽ തെക്കേക്കര -( ഉദുമ )\r\n7. പളളംതെക്കേക്കര പാറപ്പുറം ( ഉദുമ )\r\n8. പാലക്കുന്ന് ടൗൺ  ( ഉദുമ )\r\n9.അംബാപുരം ( ഉദുമ )\r\n10.ചെമ്പരിക്ക കടപ്പുറം ബിച്ച് റോഡ് ( ചെമ്മനാട്)\r\n11.തൈര ( ചെമ്മനാട്)\r\n12. ബേനൂർ ( ചെമ്മനാട്)\r\n13. കീഴൂർ ക്ഷേത്ര പരിസരം ( ചെമ്മനാട്)\r\n14. അരമങ്ങാനം യംങ്ങ് ബ്രദേഴ്സ് ക്ലബ്ബ് പരിസരം ( ചെമ്മനാട്)\r\n15.ബേഡഡുക്ക പഞ്ചായത്ത് ഓഫീസ് പരിസരം ( ബേഡഡുക്ക )\r\n16. എരിഞ്ഞിപ്പുഴ ( ബേഡഡുക്ക )\r\n17. പരപ്പ ( ബേഡഡുക്ക )\r\n18. മുനമ്പം ( ബേഡഡുക്ക )\r\n19. തങ്കേയത്തട്ടം ( കുറ്റിക്കോൽ )\r\n20. പടുപ്പ് അണ്ണാ നഗർ  ( കുറ്റീക്കോൽ)\r\n21. കൊടവലം അമ്പലം പരിസരം ( പുല്ലൂർ പെരിയ )\r\n22. ഏച്ചിലടുക്കം ( പുല്ലൂർ പെരിയ \r\n23. ആയമ്പാറ അമ്പല പരിസരം ( പുല്ലൂർ പെരിയ \r\n24. പളളങ്കോട് പളളി പരിസരം ( ദേലമ്പാടി )",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Irrigation",
+            "fy": "2022-2023",
+            "estimate_lakhs": 60.0,
+            "concurrence_lakhs": 59.61
+        },
+        {
+            "project_name": "ചായിത്തടുക്കം ചിറ്റപ്പന്‍ കുണ്ട് തലപ്പാറ റോഡ് അഭിവൃദ്ധിപ്പെടുത്തല്‍  (കുറ്റിക്കോല്‍ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "തോരോത്ത് കൈരളിപ്പാറ റോഡ് അഭിവൃദ്ധിപ്പെടുത്തല്‍ (ബേഡഡുക്ക പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വള്ളിയോട് ചെറൂട്ട റോഡ് അഭിവൃദ്ധിപ്പെടുത്തല്‍ (പള്ളിക്കര പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പനയാല്‍ പൊടിപ്പള്ളം റോഡ് അഭിവൃദ്ധിപ്പെടുത്തല്‍ (പള്ളിക്കര പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 48.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പൊട്ടന്‍കുളം വിഷ്ണുമംഗലം റോഡ് അഭിവൃദ്ധിപ്പെടുത്തല്‍ (പുല്ലൂര്‍ പെരിയ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ബേഡഡുക്ക പഞ്ചായത്തിലെ കുണ്ടംകുഴിയില്‍ പഞ്ചായത്തിന്‍റെ കൈവശമുള്ള സ്ഥലത്ത് ടര്‍ഫ് ക്വാര്‍ട്ട് നിര്‍മ്മാണം",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 98.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തൊടുപ്പനം എടമുണ്ട് റോഡ് അഭിവൃദ്ധിപ്പെടുത്തല്‍ ( പുല്ലൂര്‍  പെരിയ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 10.0
+        },
+        {
+            "project_name": "മാരിപ്പടുപ്പ് ചാമക്കൊച്ചി റോഡ് അഭിവൃദ്ധിപ്പെടുത്തല്‍",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "ജെ ഡി സി മുന്നാട് (സഹകരണ പരിശീലന കേന്ദ്രം ) കെട്ടിട നിര്‍മ്മാണം (ബേഡഡുക്ക ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 50.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "കക്കോട്ടമ ചെഗുവേര വായനശാല കെട്ടിടം നിര്‍മ്മാണം (ബേഡഡുക്ക ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Infrastructure",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "പി സ്മാരക വായനശാല & ഗ്രന്ഥാലയം മുല്ലച്ചേരി മൊട്ടമല്‍ കെട്ടിട നിര്‍മ്മാണം (ഉദുമ ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "ഏര്‍മാന നൂജിബട്ട് റോഡ്‌ അഭിവൃദ്ധിപ്പെടുത്തല്‍ (ദേലംപാടി ഗ്രാമ പഞ്ചായത്ത്‌ )",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 22.0,
+            "concurrence_lakhs": 22.0
+        },
+        {
+            "project_name": "മണിയൂര്‍ മാട്ട റോഡ്‌ അഭിവൃദ്ധിപ്പെടുത്തല്‍ (ദേലംപാടി ഗ്രാമ പഞ്ചായത്ത്‌ )",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 23.0,
+            "concurrence_lakhs": 23.0
+        },
+        {
+            "project_name": "ഹദ്ദാദ്‌ പഴയ റേഷന്‍ ഷോപ് കോട്ടകുന്ന് റെയില്‍വേ ഗേറ്റ് ലിങ്ക് റോഡ്‌ അഭിവൃദ്ധിപ്പെടുത്തല്‍ (പള്ളിക്കര ഗ്രാമ പഞ്ചായത്ത്‌ )",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "കളനാട്  കൊമ്പന്‍പാറ റഹ്മത്ത് നഗര്‍ റോഡ്‌ അഭിവൃദ്ധിപ്പെടുത്തല്‍ (ചെമ്മനാട് ഗ്രാമ പഞ്ചായത്ത്‌ )",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ഇരിയണ്ണി ഹോമിയോ ഡിസ്പെന്‍സറിക്ക് കെട്ടിട നിര്‍മാണം (മുളിയാര്‍ ഗ്രാമ പഞ്ചായത്ത്‌ )",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Healthcare",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "കൊലാച്ചിയടുക്കം കുഞ്ചിരക്കാനം റോഡ്‌ അഭിവൃദ്ധിപ്പെടുത്തല്‍ (മുളിയാര്‍ ഗ്രാമ പഞ്ചായത്ത്‌ )",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കോമാളി തോലിയട്ട് റോഡ്‌ അഭിവൃദ്ധിപ്പെടുത്തല്‍ (കുറ്റിക്കോല്‍ ഗ്രാമ പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 15.0
+        },
+        {
+            "project_name": "ജി യു പി സ്കൂള്‍ മുദിയക്കാല്‍ കളിസ്ഥലം (ഉദുമ ഗ്രാമ പഞ്ചായത്ത്‌)",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കോളിയടുക്കം പൊന്നേക്കായടുക്കം ചാളകടവ് റോഡ്‌ അഭിവൃദ്ധിപ്പെടുത്തല്‍ (ചെമ്മനാട് ഗ്രാമ പഞ്ചായത്ത്‌ )",
+            "implementing_agency": "Executive Engineer, LSGD Division,Kasaragod",
+            "category": "Road",
+            "fy": "2022-2023",
+            "estimate_lakhs": 25.0,
+            "concurrence_lakhs": 25.0
+        },
+        {
+            "project_name": "നാല് സര്‍ക്കാര്‍ സ്കൂളുകള്‍ക്ക് ബസ്‌ വാങ്ങല്‍\r\n1.ജി എച്ച്എസ് എസ് കുണ്ടംകുഴി\r\n2.ജി വി എച്ച് എസ് അമ്പലതറ\r\n3.ജി യു പി എസ് ആയംമ്പാറ\r\n4.ജി യു പി എസ് ചെമ്മനാട് വെസ്റ്റ്",
+            "implementing_agency": "Deputy Director of Education,civil station,kasaragod",
+            "category": "Education",
+            "fy": "2022-2023",
+            "estimate_lakhs": 70.0,
+            "concurrence_lakhs": 70.0
+        },
+        {
+            "project_name": "ബീംബുംകാല്‍-കൊച്ചി -നീര്‍ക്കയ റോഡ്‌",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 20.0
+        },
+        {
+            "project_name": "കുണ്ടംകുഴി ഗവ :ഹയര്‍ സെക്കണ്ടറി സ്കൂളിലെ മോഡല്‍ പ്രീ-പ്രൈമറി സ്കൂളിനു  ഡൈനിംഗ് ഹാളും വിശ്രമ മുറിയും",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Others",
+            "fy": "2021-2022",
+            "estimate_lakhs": 15.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "തച്ചങ്ങാട് -അരവത്ത് -ചാവടി റോഡ്‌(പള്ളിക്കര  ഗ്രാമ പഞ്ചായത്ത് )",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 21.0,
+            "concurrence_lakhs": 21.0
+        },
+        {
+            "project_name": "അങ്കക്കളരി-ഹിന്ദുസ്ഥാനി -മലാംകുണ്ട് റോഡ്‌ (ഉദുമ ഗ്രാമ പഞ്ചായത്ത് )",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "ദേലംപാടി -മെന്‍സിനക്കാനതോടിനു പാലം നിര്‍മ്മാണം (ദേലംപാടി ഗ്രാമ പഞ്ചായത്ത് )",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 20.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "വാവടുക്കം -കണക്കുംകടവ് -ചക്കപ്പീലി -അമ്പിലാടി റോഡ്‌ (ബേഡടുക്ക ഗ്രാമ പഞ്ചായത്ത് )",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "എരിഞ്ഞിപ്പുഴ -ഒളിയത്തടുക്ക -തച്ചര്‍കുണ്ട് -ചോട്ടത്തോല്‍-പരപ്പ റോഡ്‌ (കുറ്റിക്കോല്‍ ഗ്രാമ പഞ്ചായത്ത്)",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 10.0,
+            "concurrence_lakhs": 0.0
+        },
+        {
+            "project_name": "പൊവ്വല്‍ എല്‍ ബി എസ്  കോളേജ് റോഡ്‌ (മുളിയാര്‍ ഗ്രാമ പഞ്ചായത്ത് )",
+            "implementing_agency": "Exe.Engineer,LSGD Division office, Kasaragod",
+            "category": "Road",
+            "fy": "2021-2022",
+            "estimate_lakhs": 45.0,
+            "concurrence_lakhs": 45.0
+        }
+    ],
+    "image": "3_C.H._Kunjambu_uduma_o2m7tn"
+}
