@@ -770,7 +770,8 @@
     margin-top: 2rem;
     width: 100%;
     padding: 1rem;
-    background: var(--slate-50);
+    background: var(--emerald-800);
+    color: #ffffff;
     border: none;
     border-radius: 1rem;
     display: flex;
@@ -789,7 +790,7 @@
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.1em;
-    color: var(--slate-500);
+    color: #ffffff;
 }
 
 .compare-btn .material-symbols-outlined {

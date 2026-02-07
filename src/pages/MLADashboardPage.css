@@ -300,7 +300,13 @@
 }
 
 .update-disclaimer {
-    display: none;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.update-disclaimer .material-symbols-outlined {
+    font-size: 14px;
 }
 
 /* ==========================================
