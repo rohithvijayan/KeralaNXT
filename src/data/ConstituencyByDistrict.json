@@ -1,0 +1,116 @@
+{
+  "Kerala_Districts_and_Constituencies": {
+    "South_Kerala": [
+      {
+        "district": "Thiruvananthapuram",
+        "count": 14,
+        "constituencies": [
+          "Varkala", "Attingal", "Chirayinkeezhu", "Nedumangad", "Vamanapuram", 
+          "Kazhakoottam", "Vattiyoorkavu", "Thiruvananthapuram", "Nemom", 
+          "Aruvikkara", "Parassala", "Kattakada", "Kovalam", "Neyyattinkara"
+        ]
+      },
+      {
+        "district": "Kollam",
+        "count": 11,
+        "constituencies": [
+          "Karunagappally", "Chavara", "Kunnathur", "Kottarakkara", "Pathanapuram", 
+          "Punalur", "Chadayamangalam", "Kundara", "Kollam", "Eravipuram", "Chathannoor"
+        ]
+      },
+      {
+        "district": "Pathanamthitta",
+        "count": 5,
+        "constituencies": ["Thiruvalla", "Ranni", "Aranmula", "Konni", "Adoor"]
+      },
+      {
+        "district": "Alappuzha",
+        "count": 9,
+        "constituencies": [
+          "Aroor", "Cherthala", "Alappuzha", "Ambalappuzha", "Kuttanad", 
+          "Haripad", "Kayamkulam", "Mavelikkara", "Chengannur"
+        ]
+      }
+    ],
+    "Central_Kerala": [
+      {
+        "district": "Kottayam",
+        "count": 9,
+        "constituencies": [
+          "Pala", "Kaduthuruthy", "Vaikom", "Ettumanoor", "Kottayam", 
+          "Puthuppally", "Changanassery", "Kanjirappally", "Poonjar"
+        ]
+      },
+      {
+        "district": "Idukki",
+        "count": 5,
+        "constituencies": ["Devikulam", "Udumbanchola", "Thodupuzha", "Idukki", "Peerumade"]
+      },
+      {
+        "district": "Ernakulam",
+        "count": 14,
+        "constituencies": [
+          "Perumbavoor", "Angamaly", "Aluva", "Kalamassery", "Paravur", 
+          "Vypin", "Kochi", "Thrippunithura", "Ernakulam", "Thrikkakara", 
+          "Kunnathunad", "Piravom", "Muvattupuzha", "Kothamangalam"
+        ]
+      },
+      {
+        "district": "Thrissur",
+        "count": 13,
+        "constituencies": [
+          "Chelakkara", "Kunnamkulam", "Guruvayur", "Manalur", "Wadakkanchery", 
+          "Ollur", "Thrissur", "Nattika", "Kaipamangalam", "Irinjalakuda", 
+          "Puthukkad", "Chalakudy", "Kodungallur"
+        ]
+      },
+      {
+        "district": "Palakkad",
+        "count": 12,
+        "constituencies": [
+          "Thrithala", "Pattambi", "Shoranur", "Ottapalam", "Kongad", 
+          "Mannarkkad", "Malampuzha", "Palakkad", "Chittur", "Nenmara", 
+          "Alathur", "Tarur"
+        ]
+      }
+    ],
+    "North_Kerala": [
+      {
+        "district": "Malappuram",
+        "count": 16,
+        "constituencies": [
+          "Kondotty", "Ernad", "Nilambur", "Wandoor", "Manjeri", 
+          "Perinthalmanna", "Mankada", "Malappuram", "Vengara", "Vallikkunnu", 
+          "Tirurangadi", "Tanur", "Tirur", "Kottakkal", "Thavanur", "Ponnani"
+        ]
+      },
+      {
+        "district": "Kozhikode",
+        "count": 13,
+        "constituencies": [
+          "Vadakara", "Kuttiady", "Nadapuram", "Quilandy", "Perambra", 
+          "Balussery", "Elathur", "Kozhikode North", "Kozhikode South", 
+          "Beypore", "Kunnamangalam", "Koduvally", "Thiruvambady"
+        ]
+      },
+      {
+        "district": "Wayanad",
+        "count": 3,
+        "constituencies": ["Mananthavady", "Sulthan Bathery", "Kalpetta"]
+      },
+      {
+        "district": "Kannur",
+        "count": 11,
+        "constituencies": [
+          "Payyannur", "Kalliasseri", "Taliparamba", "Irikkur", "Azhikode", 
+          "Kannur", "Dharmadam", "Thalassery", "Kuthuparamba", "Mattannur", "Peravoor"
+        ]
+      },
+      {
+        "district": "Kasaragod",
+        "count": 5,
+        "constituencies": ["Manjeshwar", "Kasaragod", "Udma", "Kanhangad", "Trikaripur"]
+      }
+    ]
+  }
+}

@@ -292,7 +292,7 @@ function MLAFundLandingPage() {
                             ))}
                         </div>
 
-                        <button className="compare-btn">
+                        <button className="compare-btn" onClick={() => navigate('/district-comparison')}>
                             <span>Compare Districts</span>
                             <span className="material-symbols-outlined">chevron_right</span>
                         </button>

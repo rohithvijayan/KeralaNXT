@@ -1,0 +1,378 @@
+.dc-page {
+    min-height: 100vh;
+    background-color: #1A1F1E;
+    color: white;
+    font-family: 'Inter', sans-serif;
+}
+
+.dc-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1rem 5rem;
+    position: relative;
+    overflow-x: hidden;
+}
+
+.dc-header {
+    margin-bottom: 2rem;
+}
+
+.dc-title {
+    font-size: 2.5rem;
+    font-weight: 800;
+    margin-bottom: 0.5rem;
+    background: linear-gradient(135deg, #fff 0%, #a5a5a5 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.dc-subtitle {
+    color: #94A3B8;
+    font-size: 1rem;
+}
+
+/* District Card */
+.dc-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    position: relative;
+    z-index: 1;
+}
+
+.dc-district-card {
+    background: rgba(45, 52, 54, 0.4);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    border-radius: 1.25rem;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.dc-district-card:hover {
+    background: rgba(45, 52, 54, 0.6);
+    border-color: rgba(255, 255, 255, 0.1);
+}
+
+.dc-district-card.expanded {
+    background: #2D3436;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+    border-color: rgba(74, 125, 112, 0.3);
+}
+
+.dc-card-main {
+    padding: 1.25rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.dc-rank-section {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.dc-rank-badge {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    background: #334155;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: white;
+}
+
+.dc-rank-badge.rank-1 {
+    background: #10B981;
+    box-shadow: 0 0 20px rgba(16, 185, 129, 0.3);
+}
+
+.dc-rank-badge.rank-2,
+.dc-rank-badge.rank-3 {
+    background: #4a7d70;
+}
+
+.dc-district-info h3 {
+    font-size: 1.125rem;
+    font-weight: 700;
+    margin: 0;
+}
+
+.dc-performer-badge {
+    font-size: 0.625rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #10B981;
+}
+
+.dc-expenditure-section {
+    text-align: right;
+    margin-right: 1rem;
+}
+
+.dc-main-amount {
+    font-size: 1.5rem;
+    font-weight: 900;
+}
+
+.dc-unit {
+    font-size: 0.875rem;
+    color: #94A3B8;
+    font-weight: 500;
+}
+
+.dc-util-row {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 0.25rem;
+    color: #10B981;
+    font-size: 0.75rem;
+    font-weight: 600;
+}
+
+.dc-util-row .material-symbols-outlined {
+    font-size: 0.875rem;
+}
+
+.dc-expand-icon {
+    color: #64748B;
+}
+
+/* Expanded Content */
+.dc-card-expanded {
+    overflow: hidden;
+}
+
+.dc-expanded-content {
+    padding: 0 1.25rem 1.5rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.dc-section-label {
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 0.75rem;
+    color: #94A3B8;
+    font-weight: 600;
+    margin: 1.5rem 0 1rem;
+}
+
+/* Sectors Grid */
+.dc-sectors-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.75rem;
+}
+
+.dc-sector-card {
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    padding: 1rem;
+    border-radius: 0.75rem;
+}
+
+.dc-sector-header {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 0.75rem;
+}
+
+.dc-sector-icon {
+    font-size: 1.5rem;
+}
+
+.dc-sector-name {
+    font-size: 0.875rem;
+    font-weight: 500;
+}
+
+.dc-progress-bar {
+    height: 0.5rem;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 999px;
+    overflow: hidden;
+}
+
+.dc-progress-fill {
+    height: 100%;
+    background: #4a7d70;
+    border-radius: 999px;
+}
+
+.dc-sector-amount {
+    margin-top: 0.5rem;
+    text-align: right;
+    font-size: 0.75rem;
+    color: #94A3B8;
+}
+
+/* Constituency Scroll */
+.dc-scroll-wrapper {
+    position: relative;
+    margin: 0 -1.25rem;
+    padding: 0 1.25rem;
+}
+
+.dc-scroll-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    background: rgba(45, 52, 54, 0.8);
+    backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: white;
+    display: none;
+    /* Desktop only */
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    z-index: 10;
+    transition: all 0.2s ease;
+}
+
+.dc-scroll-btn:hover {
+    background: rgba(74, 125, 112, 0.9);
+    border-color: rgba(255, 255, 255, 0.2);
+    transform: translateY(-50%) scale(1.1);
+}
+
+.dc-scroll-btn.prev {
+    left: 0.5rem;
+}
+
+.dc-scroll-btn.next {
+    right: 0.5rem;
+}
+
+@media (min-width: 1024px) {
+    .dc-scroll-btn {
+        display: flex;
+    }
+}
+
+.dc-constituency-scroll {
+    display: flex;
+    gap: 1rem;
+    overflow-x: auto;
+    padding-bottom: 1rem;
+    scroll-behavior: smooth;
+}
+
+.dc-constituency-scroll::-webkit-scrollbar {
+    display: none;
+}
+
+.dc-constituency-pill {
+    flex-shrink: 0;
+    width: 8rem;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    border-radius: 0.75rem;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.dc-constituency-circle {
+    position: relative;
+    width: 3.5rem;
+    height: 3.5rem;
+    margin-bottom: 0.75rem;
+}
+
+.dc-constituency-circle svg {
+    transform: rotate(-90deg);
+}
+
+.dc-circle-bg {
+    fill: none;
+    stroke: rgba(255, 255, 255, 0.1);
+    stroke-width: 3.8;
+}
+
+.dc-circle-fill {
+    fill: none;
+    stroke: #4a7d70;
+    stroke-width: 3.8;
+    stroke-linecap: round;
+}
+
+.dc-circle-text {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+}
+
+.dc-circle-amount {
+    font-size: 0.875rem;
+    font-weight: 800;
+    color: white;
+}
+
+.dc-circle-unit {
+    font-size: 0.5rem;
+    font-weight: 600;
+    color: #94A3B8;
+    text-transform: uppercase;
+}
+
+.dc-constituency-name {
+    font-size: 0.75rem;
+    font-weight: 500;
+    text-align: center;
+}
+
+/* Glows */
+.dc-ambient-glow-1 {
+    position: fixed;
+    top: -5rem;
+    left: -5rem;
+    width: 24rem;
+    height: 24rem;
+    background: rgba(74, 125, 112, 0.1);
+    border-radius: 50%;
+    filter: blur(100px);
+    pointer-events: none;
+}
+
+.dc-ambient-glow-2 {
+    position: fixed;
+    top: 50%;
+    right: -5rem;
+    width: 20rem;
+    height: 20rem;
+    background: rgba(16, 185, 129, 0.05);
+    border-radius: 50%;
+    filter: blur(100px);
+    pointer-events: none;
+}
+
+@media (max-width: 640px) {
+    .dc-title {
+        font-size: 2rem;
+    }
+
+    .dc-card-main {
+        padding: 1rem;
+    }
+
+    .dc-main-amount {
+        font-size: 1.25rem;
+    }
+}

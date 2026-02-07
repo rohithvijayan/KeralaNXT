@@ -1,0 +1,1474 @@
+[
+  {
+    "name": "Malappuram",
+    "totalExpenditure": 392.5747,
+    "projectCount": 1233,
+    "utilization": 98.1,
+    "sectors": [
+      {
+        "label": "Road",
+        "value_crores": 215.18290000000002
+      },
+      {
+        "label": "Others",
+        "value_crores": 55.3475
+      },
+      {
+        "label": "Education",
+        "value_crores": 39.5455
+      },
+      {
+        "label": "Infrastructure",
+        "value_crores": 32.91230000000001
+      },
+      {
+        "label": "Electricity",
+        "value_crores": 32.4281
+      },
+      {
+        "label": "Healthcare",
+        "value_crores": 9.6373
+      },
+      {
+        "label": "Irrigation",
+        "value_crores": 5.077500000000001
+      },
+      {
+        "label": "Sports",
+        "value_crores": 2.3436
+      },
+      {
+        "label": "Water Supply",
+        "value_crores": 0.1
+      }
+    ],
+    "constituencies": [
+      {
+        "name": "Thavanur",
+        "expenditure": 31.6293,
+        "projects": 105,
+        "utilization": "100.0"
+      },
+      {
+        "name": "Mankada",
+        "expenditure": 29.6181,
+        "projects": 112,
+        "utilization": "100.0"
+      },
+      {
+        "name": "Ponnani",
+        "expenditure": 28.4936,
+        "projects": 97,
+        "utilization": "100.0"
+      },
+      {
+        "name": "Kottakkal",
+        "expenditure": 26.5284,
+        "projects": 86,
+        "utilization": "100.0"
+      },
+      {
+        "name": "Vallikkunnu",
+        "expenditure": 26.308,
+        "projects": 64,
+        "utilization": "100.0"
+      },
+      {
+        "name": "Wandoor",
+        "expenditure": 25.7191,
+        "projects": 79,
+        "utilization": "100.0"
+      },
+      {
+        "name": "Tirur",
+        "expenditure": 25.6426,
+        "projects": 101,
+        "utilization": "100.0"
+      },
+      {
+        "name": "Malappuram",
+        "expenditure": 25.2749,
+        "projects": 74,
+        "utilization": "100.0"
+      },
+      {
+        "name": "Tanur",
+        "expenditure": 24.4735,
+        "projects": 79,
+        "utilization": "97.9"
+      },
+      {
+        "name": "Kondotty",
+        "expenditure": 24.3775,
+        "projects": 78,
+        "utilization": "97.5"
+      },
+      {
+        "name": "Vengara",
+        "expenditure": 24.1045,
+        "projects": 62,
+        "utilization": "96.4"
+      },
+      {
+        "name": "Ernad",
+        "expenditure": 23.5003,
+        "projects": 67,
+        "utilization": "94.0"
+      },
+      {
+        "name": "Tirurangadi",
+        "expenditure": 23.4146,
+        "projects": 63,
+        "utilization": "93.7"
+      },
+      {
+        "name": "Manjeri",
+        "expenditure": 23.0829,
+        "projects": 76,
+        "utilization": "92.3"
+      },
+      {
+        "name": "Perinthalmanna",
+        "expenditure": 22.1974,
+        "projects": 67,
+        "utilization": "88.8"
+      },
+      {
+        "name": "Nilambur",
+        "expenditure": 8.21,
+        "projects": 23,
+        "utilization": "32.8"
+      }
+    ]
+  },
+  {
+    "name": "Thiruvananthapuram",
+    "totalExpenditure": 321.5892999999999,
+    "projectCount": 1146,
+    "utilization": 91.9,
+    "sectors": [
+      {
+        "label": "Road",
+        "value_crores": 138.221
+      },
+      {
+        "label": "Others",
+        "value_crores": 72.16510000000001
+      },
+      {
+        "label": "Infrastructure",
+        "value_crores": 31.674000000000003
+      },
+      {
+        "label": "Electricity",
+        "value_crores": 30.267699999999998
+      },
+      {
+        "label": "Education",
+        "value_crores": 19.2639
+      },
+      {
+        "label": "Irrigation",
+        "value_crores": 17.4346
+      },
+      {
+        "label": "Healthcare",
+        "value_crores": 11.043000000000001
+      },
+      {
+        "label": "Sports",
+        "value_crores": 1.52
+      }
+    ],
+    "constituencies": [
+      {
+        "name": "Kattakada",
+        "expenditure": 27.4724,
+        "projects": 94,
+        "utilization": "100.0"
+      },
+      {
+        "name": "Aruvikkara",
+        "expenditure": 27.4291,
+        "projects": 89,
+        "utilization": "100.0"
+      },
+      {
+        "name": "Chirayinkeezhu",
+        "expenditure": 25.2821,
+        "projects": 91,
+        "utilization": "100.0"
+      },
+      {
+        "name": "Varkala",
+        "expenditure": 23.2416,
+        "projects": 98,
+        "utilization": "93.0"
+      },
+      {
+        "name": "Nemom",
+        "expenditure": 23.0157,
+        "projects": 50,
+        "utilization": "92.1"
+      },
+      {
+        "name": "Attingal",
+        "expenditure": 22.9953,
+        "projects": 84,
+        "utilization": "92.0"
+      },
+      {
+        "name": "Thiruvananthapuram",
+        "expenditure": 22.4916,
+        "projects": 77,
+        "utilization": "90.0"
+      },
+      {
+        "name": "Vattiyoorkavu",
+        "expenditure": 22.2897,
+        "projects": 83,
+        "utilization": "89.2"
+      },
+      {
+        "name": "Nedumangad",
+        "expenditure": 22.0481,
+        "projects": 96,
+        "utilization": "88.2"
+      },
+      {
+        "name": "Parassala",
+        "expenditure": 22.0399,
+        "projects": 73,
+        "utilization": "88.2"
+      },
+      {
+        "name": "Vamanapuram",
+        "expenditure": 21.9987,
+        "projects": 94,
+        "utilization": "88.0"
+      },
+      {
+        "name": "Neyyattinkara",
+        "expenditure": 21.9535,
+        "projects": 74,
+        "utilization": "87.8"
+      },
+      {
+        "name": "Kovalam",
+        "expenditure": 21.8669,
+        "projects": 92,
+        "utilization": "87.5"
+      },
+      {
+        "name": "Kazhakoottam",
+        "expenditure": 17.4647,
+        "projects": 51,
+        "utilization": "69.9"
+      }
+    ]
+  },
+  {
+    "name": "Ernakulam",
+    "totalExpenditure": 289.667,
+    "projectCount": 948,
+    "utilization": 82.8,
+    "sectors": [
+      {
+        "label": "Road",
+        "value_crores": 131.0295
+      },
+      {
+        "label": "Education",
+        "value_crores": 45.8254
+      },
+      {
+        "label": "Infrastructure",
+        "value_crores": 28.0946
+      },
+      {
+        "label": "Others",
+        "value_crores": 27.5322
+      },
+      {
+        "label": "Electricity",
+        "value_crores": 20.5948
+      },
+      {
+        "label": "Healthcare",
+        "value_crores": 17.557299999999998
+      },
+      {
+        "label": "Irrigation",
+        "value_crores": 10.3243
+      },
+      {
+        "label": "Sports",
+        "value_crores": 6.822699999999999
+      },
+      {
+        "label": "Water Supply",
+        "value_crores": 1.8861999999999999
+      }
+    ],
+    "constituencies": [
+      {
+        "name": "Kalamassery",
+        "expenditure": 25.0723,
+        "projects": 86,
+        "utilization": "100.0"
+      },
+      {
+        "name": "Kochi",
+        "expenditure": 23.6758,
+        "projects": 68,
+        "utilization": "94.7"
+      },
+      {
+        "name": "Vypin",
+        "expenditure": 22.9264,
+        "projects": 93,
+        "utilization": "91.7"
+      },
+      {
+        "name": "Angamaly",
+        "expenditure": 22.4187,
+        "projects": 66,
+        "utilization": "89.7"
+      },
+      {
+        "name": "Thrippunithura",
+        "expenditure": 22.2375,
+        "projects": 74,
+        "utilization": "89.0"
+      },
+      {
+        "name": "Perumbavoor",
+        "expenditure": 22.0704,
+        "projects": 67,
+        "utilization": "88.3"
+      },
+      {
+        "name": "Aluva",
+        "expenditure": 21.6992,
+        "projects": 50,
+        "utilization": "86.8"
+      },
+      {
+        "name": "Paravur",
+        "expenditure": 20.5088,
+        "projects": 87,
+        "utilization": "82.0"
+      },
+      {
+        "name": "Piravom",
+        "expenditure": 19.4775,
+        "projects": 84,
+        "utilization": "77.9"
+      },
+      {
+        "name": "Kothamangalam",
+        "expenditure": 19.0292,
+        "projects": 74,
+        "utilization": "76.1"
+      },
+      {
+        "name": "Kunnathunad",
+        "expenditure": 18.958,
+        "projects": 61,
+        "utilization": "75.8"
+      },
+      {
+        "name": "Ernakulam",
+        "expenditure": 18.7248,
+        "projects": 48,
+        "utilization": "74.9"
+      },
+      {
+        "name": "Muvattupuzha",
+        "expenditure": 18.389,
+        "projects": 41,
+        "utilization": "73.6"
+      },
+      {
+        "name": "Thrikkakara",
+        "expenditure": 14.4794,
+        "projects": 49,
+        "utilization": "57.9"
+      }
+    ]
+  },
+  {
+    "name": "Kottayam",
+    "totalExpenditure": 257.6499,
+    "projectCount": 947,
+    "utilization": 100,
+    "sectors": [
+      {
+        "label": "Road",
+        "value_crores": 114.6826
+      },
+      {
+        "label": "Others",
+        "value_crores": 86.811
+      },
+      {
+        "label": "Irrigation",
+        "value_crores": 19.12
+      },
+      {
+        "label": "Infrastructure",
+        "value_crores": 12.852500000000001
+      },
+      {
+        "label": "Education",
+        "value_crores": 10.7063
+      },
+      {
+        "label": "Healthcare",
+        "value_crores": 5.390599999999999
+      },
+      {
+        "label": "Electricity",
+        "value_crores": 4.1622
+      },
+      {
+        "label": "Water Supply",
+        "value_crores": 2.9247
+      },
+      {
+        "label": "Sports",
+        "value_crores": 1
+      }
+    ],
+    "constituencies": [
+      {
+        "name": "Poonjar",
+        "expenditure": 40.7888,
+        "projects": 156,
+        "utilization": "100.0"
+      },
+      {
+        "name": "Pala",
+        "expenditure": 39.0951,
+        "projects": 120,
+        "utilization": "100.0"
+      },
+      {
+        "name": "Changanassery",
+        "expenditure": 31.2806,
+        "projects": 124,
+        "utilization": "100.0"
+      },
+      {
+        "name": "Ettumanoor",
+        "expenditure": 28.4,
+        "projects": 111,
+        "utilization": "100.0"
+      },
+      {
+        "name": "Kottayam",
+        "expenditure": 27.8251,
+        "projects": 85,
+        "utilization": "100.0"
+      },
+      {
+        "name": "Vaikom",
+        "expenditure": 26.1251,
+        "projects": 99,
+        "utilization": "100.0"
+      },
+      {
+        "name": "Kanjirappally",
+        "expenditure": 24.0836,
+        "projects": 89,
+        "utilization": "96.3"
+      },
+      {
+        "name": "Kaduthuruthy",
+        "expenditure": 22.6406,
+        "projects": 102,
+        "utilization": "90.6"
+      },
+      {
+        "name": "Puthuppally",
+        "expenditure": 17.411,
+        "projects": 61,
+        "utilization": "69.6"
+      }
+    ]
+  },
+  {
+    "name": "Kozhikode",
+    "totalExpenditure": 252.2198,
+    "projectCount": 950,
+    "utilization": 77.6,
+    "sectors": [
+      {
+        "label": "Road",
+        "value_crores": 131.57
+      },
+      {
+        "label": "Others",
+        "value_crores": 41.6448
+      },
+      {
+        "label": "Infrastructure",
+        "value_crores": 30.1928
+      },
+      {
+        "label": "Education",
+        "value_crores": 30.1492
+      },
+      {
+        "label": "Irrigation",
+        "value_crores": 6.2378
+      },
+      {
+        "label": "Electricity",
+        "value_crores": 4.9552000000000005
+      },
+      {
+        "label": "Healthcare",
+        "value_crores": 3.71
+      },
+      {
+        "label": "Sports",
+        "value_crores": 3.51
+      },
+      {
+        "label": "Water Supply",
+        "value_crores": 0.25
+      }
+    ],
+    "constituencies": [
+      {
+        "name": "Quilandy",
+        "expenditure": 22.8545,
+        "projects": 83,
+        "utilization": "91.4"
+      },
+      {
+        "name": "Thiruvambady",
+        "expenditure": 22.0762,
+        "projects": 68,
+        "utilization": "88.3"
+      },
+      {
+        "name": "Kozhikode North",
+        "expenditure": 21.6547,
+        "projects": 87,
+        "utilization": "86.6"
+      },
+      {
+        "name": "Koduvally",
+        "expenditure": 21.5649,
+        "projects": 81,
+        "utilization": "86.3"
+      },
+      {
+        "name": "Kunnamangalam",
+        "expenditure": 21.3504,
+        "projects": 82,
+        "utilization": "85.4"
+      },
+      {
+        "name": "Perambra",
+        "expenditure": 20.4032,
+        "projects": 71,
+        "utilization": "81.6"
+      },
+      {
+        "name": "Nadapuram",
+        "expenditure": 19.9,
+        "projects": 69,
+        "utilization": "79.6"
+      },
+      {
+        "name": "Vadakara",
+        "expenditure": 18.553,
+        "projects": 63,
+        "utilization": "74.2"
+      },
+      {
+        "name": "Beypore",
+        "expenditure": 17.704,
+        "projects": 69,
+        "utilization": "70.8"
+      },
+      {
+        "name": "Kuttiady",
+        "expenditure": 17.5663,
+        "projects": 63,
+        "utilization": "70.3"
+      },
+      {
+        "name": "Kozhikode South",
+        "expenditure": 17.254,
+        "projects": 73,
+        "utilization": "69.0"
+      },
+      {
+        "name": "Elathur",
+        "expenditure": 17.1606,
+        "projects": 76,
+        "utilization": "68.6"
+      },
+      {
+        "name": "Balussery",
+        "expenditure": 14.178,
+        "projects": 65,
+        "utilization": "56.7"
+      }
+    ]
+  },
+  {
+    "name": "Thrissur",
+    "totalExpenditure": 251.46639999999996,
+    "projectCount": 832,
+    "utilization": 77.4,
+    "sectors": [
+      {
+        "label": "Road",
+        "value_crores": 89.8186
+      },
+      {
+        "label": "Others",
+        "value_crores": 68.816
+      },
+      {
+        "label": "Infrastructure",
+        "value_crores": 31.372400000000003
+      },
+      {
+        "label": "Electricity",
+        "value_crores": 22.3
+      },
+      {
+        "label": "Education",
+        "value_crores": 19.676000000000002
+      },
+      {
+        "label": "Irrigation",
+        "value_crores": 8.6348
+      },
+      {
+        "label": "Healthcare",
+        "value_crores": 5.9346
+      },
+      {
+        "label": "Water Supply",
+        "value_crores": 2.664
+      },
+      {
+        "label": "Sports",
+        "value_crores": 2.25
+      }
+    ],
+    "constituencies": [
+      {
+        "name": "Puthukkad",
+        "expenditure": 25.019,
+        "projects": 84,
+        "utilization": "100.0"
+      },
+      {
+        "name": "Manalur",
+        "expenditure": 22.7651,
+        "projects": 83,
+        "utilization": "91.1"
+      },
+      {
+        "name": "Kaipamangalam",
+        "expenditure": 22.5515,
+        "projects": 80,
+        "utilization": "90.2"
+      },
+      {
+        "name": "Guruvayur",
+        "expenditure": 22.058,
+        "projects": 54,
+        "utilization": "88.2"
+      },
+      {
+        "name": "Wadakkanchery",
+        "expenditure": 20.9469,
+        "projects": 74,
+        "utilization": "83.8"
+      },
+      {
+        "name": "Chalakudy",
+        "expenditure": 20.8159,
+        "projects": 83,
+        "utilization": "83.3"
+      },
+      {
+        "name": "Ollur",
+        "expenditure": 20.3945,
+        "projects": 67,
+        "utilization": "81.6"
+      },
+      {
+        "name": "Nattika",
+        "expenditure": 19.8906,
+        "projects": 64,
+        "utilization": "79.6"
+      },
+      {
+        "name": "Kodungallur",
+        "expenditure": 19.8627,
+        "projects": 68,
+        "utilization": "79.5"
+      },
+      {
+        "name": "Irinjalakuda",
+        "expenditure": 18.926,
+        "projects": 72,
+        "utilization": "75.7"
+      },
+      {
+        "name": "Kunnamkulam",
+        "expenditure": 16.8376,
+        "projects": 47,
+        "utilization": "67.4"
+      },
+      {
+        "name": "Thrissur",
+        "expenditure": 16.2872,
+        "projects": 41,
+        "utilization": "65.1"
+      },
+      {
+        "name": "Chelakkara",
+        "expenditure": 5.1114,
+        "projects": 15,
+        "utilization": "20.4"
+      }
+    ]
+  },
+  {
+    "name": "Palakkad",
+    "totalExpenditure": 232.25160000000002,
+    "projectCount": 783,
+    "utilization": 77.4,
+    "sectors": [
+      {
+        "label": "Road",
+        "value_crores": 98.25930000000001
+      },
+      {
+        "label": "Electricity",
+        "value_crores": 43.28190000000001
+      },
+      {
+        "label": "Others",
+        "value_crores": 33.7743
+      },
+      {
+        "label": "Irrigation",
+        "value_crores": 21.7485
+      },
+      {
+        "label": "Infrastructure",
+        "value_crores": 19.218999999999998
+      },
+      {
+        "label": "Education",
+        "value_crores": 12.440299999999997
+      },
+      {
+        "label": "Healthcare",
+        "value_crores": 2.8682999999999996
+      },
+      {
+        "label": "Sports",
+        "value_crores": 0.4
+      },
+      {
+        "label": "Water Supply",
+        "value_crores": 0.26
+      }
+    ],
+    "constituencies": [
+      {
+        "name": "Pattambi",
+        "expenditure": 24.1438,
+        "projects": 61,
+        "utilization": "96.6"
+      },
+      {
+        "name": "Malampuzha",
+        "expenditure": 21.9508,
+        "projects": 76,
+        "utilization": "87.8"
+      },
+      {
+        "name": "Ottapalam",
+        "expenditure": 21.7066,
+        "projects": 74,
+        "utilization": "86.8"
+      },
+      {
+        "name": "Alathur",
+        "expenditure": 21.6371,
+        "projects": 66,
+        "utilization": "86.5"
+      },
+      {
+        "name": "Mannarkkad",
+        "expenditure": 20.9951,
+        "projects": 73,
+        "utilization": "84.0"
+      },
+      {
+        "name": "Nenmara",
+        "expenditure": 20.9245,
+        "projects": 53,
+        "utilization": "83.7"
+      },
+      {
+        "name": "Chittur",
+        "expenditure": 20.708,
+        "projects": 68,
+        "utilization": "82.8"
+      },
+      {
+        "name": "Tarur",
+        "expenditure": 20.3574,
+        "projects": 83,
+        "utilization": "81.4"
+      },
+      {
+        "name": "Shoranur",
+        "expenditure": 19.075,
+        "projects": 76,
+        "utilization": "76.3"
+      },
+      {
+        "name": "Thrithala",
+        "expenditure": 17.9683,
+        "projects": 63,
+        "utilization": "71.9"
+      },
+      {
+        "name": "Kongad",
+        "expenditure": 16.585,
+        "projects": 62,
+        "utilization": "66.3"
+      },
+      {
+        "name": "Palakkad",
+        "expenditure": 6.2,
+        "projects": 28,
+        "utilization": "24.8"
+      }
+    ]
+  },
+  {
+    "name": "Alappuzha",
+    "totalExpenditure": 208.63829999999996,
+    "projectCount": 715,
+    "utilization": 92.7,
+    "sectors": [
+      {
+        "label": "Road",
+        "value_crores": 92.7087
+      },
+      {
+        "label": "Infrastructure",
+        "value_crores": 45.019
+      },
+      {
+        "label": "Others",
+        "value_crores": 29.6374
+      },
+      {
+        "label": "Irrigation",
+        "value_crores": 23.079999999999995
+      },
+      {
+        "label": "Education",
+        "value_crores": 6.0859000000000005
+      },
+      {
+        "label": "Electricity",
+        "value_crores": 4.8473
+      },
+      {
+        "label": "Sports",
+        "value_crores": 4.7766
+      },
+      {
+        "label": "Healthcare",
+        "value_crores": 2.2533999999999996
+      },
+      {
+        "label": "Water Supply",
+        "value_crores": 0.23
+      }
+    ],
+    "constituencies": [
+      {
+        "name": "Alappuzha",
+        "expenditure": 30.4016,
+        "projects": 88,
+        "utilization": "100.0"
+      },
+      {
+        "name": "Mavelikkara",
+        "expenditure": 24.2262,
+        "projects": 84,
+        "utilization": "96.9"
+      },
+      {
+        "name": "Kuttanad",
+        "expenditure": 24.0767,
+        "projects": 103,
+        "utilization": "96.3"
+      },
+      {
+        "name": "Aroor",
+        "expenditure": 23.911,
+        "projects": 87,
+        "utilization": "95.6"
+      },
+      {
+        "name": "Haripad",
+        "expenditure": 23.9087,
+        "projects": 69,
+        "utilization": "95.6"
+      },
+      {
+        "name": "Chengannur",
+        "expenditure": 23.7782,
+        "projects": 82,
+        "utilization": "95.1"
+      },
+      {
+        "name": "Kayamkulam",
+        "expenditure": 23.1238,
+        "projects": 85,
+        "utilization": "92.5"
+      },
+      {
+        "name": "Cherthala",
+        "expenditure": 19.6806,
+        "projects": 80,
+        "utilization": "78.7"
+      },
+      {
+        "name": "Ambalappuzha",
+        "expenditure": 15.5315,
+        "projects": 37,
+        "utilization": "62.1"
+      }
+    ]
+  },
+  {
+    "name": "Kollam",
+    "totalExpenditure": 206.83810000000005,
+    "projectCount": 635,
+    "utilization": 75.2,
+    "sectors": [
+      {
+        "label": "Others",
+        "value_crores": 87.44440000000002
+      },
+      {
+        "label": "Road",
+        "value_crores": 86.42139999999999
+      },
+      {
+        "label": "Infrastructure",
+        "value_crores": 10.6058
+      },
+      {
+        "label": "Education",
+        "value_crores": 6.9317
+      },
+      {
+        "label": "Healthcare",
+        "value_crores": 5.4486
+      },
+      {
+        "label": "Sports",
+        "value_crores": 5.16
+      },
+      {
+        "label": "Irrigation",
+        "value_crores": 3.2645999999999997
+      },
+      {
+        "label": "Electricity",
+        "value_crores": 1.4246
+      },
+      {
+        "label": "Water Supply",
+        "value_crores": 0.137
+      }
+    ],
+    "constituencies": [
+      {
+        "name": "Kollam",
+        "expenditure": 23.0816,
+        "projects": 35,
+        "utilization": "92.3"
+      },
+      {
+        "name": "Kundara",
+        "expenditure": 22.9508,
+        "projects": 75,
+        "utilization": "91.8"
+      },
+      {
+        "name": "Chathannoor",
+        "expenditure": 21.77,
+        "projects": 69,
+        "utilization": "87.1"
+      },
+      {
+        "name": "Chavara",
+        "expenditure": 20.8849,
+        "projects": 56,
+        "utilization": "83.5"
+      },
+      {
+        "name": "Kunnathur",
+        "expenditure": 19.7019,
+        "projects": 72,
+        "utilization": "78.8"
+      },
+      {
+        "name": "Karunagappally",
+        "expenditure": 19.2473,
+        "projects": 70,
+        "utilization": "77.0"
+      },
+      {
+        "name": "Eravipuram",
+        "expenditure": 17.1426,
+        "projects": 55,
+        "utilization": "68.6"
+      },
+      {
+        "name": "Chadayamangalam",
+        "expenditure": 16.8094,
+        "projects": 64,
+        "utilization": "67.2"
+      },
+      {
+        "name": "Kottarakkara",
+        "expenditure": 16.6817,
+        "projects": 40,
+        "utilization": "66.7"
+      },
+      {
+        "name": "Pathanapuram",
+        "expenditure": 15.0798,
+        "projects": 55,
+        "utilization": "60.3"
+      },
+      {
+        "name": "Punalur",
+        "expenditure": 13.4881,
+        "projects": 44,
+        "utilization": "54.0"
+      }
+    ]
+  },
+  {
+    "name": "Kannur",
+    "totalExpenditure": 183.18679999999998,
+    "projectCount": 650,
+    "utilization": 66.6,
+    "sectors": [
+      {
+        "label": "Road",
+        "value_crores": 82.58769999999998
+      },
+      {
+        "label": "Others",
+        "value_crores": 25.05
+      },
+      {
+        "label": "Education",
+        "value_crores": 21.0447
+      },
+      {
+        "label": "Infrastructure",
+        "value_crores": 20.489
+      },
+      {
+        "label": "Electricity",
+        "value_crores": 11.026900000000001
+      },
+      {
+        "label": "Healthcare",
+        "value_crores": 10.501800000000001
+      },
+      {
+        "label": "Sports",
+        "value_crores": 5.9
+      },
+      {
+        "label": "Irrigation",
+        "value_crores": 5.386699999999999
+      },
+      {
+        "label": "Water Supply",
+        "value_crores": 1.2
+      }
+    ],
+    "constituencies": [
+      {
+        "name": "Taliparamba",
+        "expenditure": 23.3024,
+        "projects": 71,
+        "utilization": "93.2"
+      },
+      {
+        "name": "Azhikode",
+        "expenditure": 20.7339,
+        "projects": 66,
+        "utilization": "82.9"
+      },
+      {
+        "name": "Irikkur",
+        "expenditure": 20.087,
+        "projects": 70,
+        "utilization": "80.3"
+      },
+      {
+        "name": "Payyannur",
+        "expenditure": 19.6805,
+        "projects": 73,
+        "utilization": "78.7"
+      },
+      {
+        "name": "Peravoor",
+        "expenditure": 18.1119,
+        "projects": 76,
+        "utilization": "72.4"
+      },
+      {
+        "name": "Dharmadam",
+        "expenditure": 17.4527,
+        "projects": 52,
+        "utilization": "69.8"
+      },
+      {
+        "name": "Kannur",
+        "expenditure": 16.6707,
+        "projects": 49,
+        "utilization": "66.7"
+      },
+      {
+        "name": "Kuthuparamba",
+        "expenditure": 14.7806,
+        "projects": 71,
+        "utilization": "59.1"
+      },
+      {
+        "name": "Kalliasseri",
+        "expenditure": 13.7638,
+        "projects": 62,
+        "utilization": "55.1"
+      },
+      {
+        "name": "Mattannur",
+        "expenditure": 10.1222,
+        "projects": 45,
+        "utilization": "40.5"
+      },
+      {
+        "name": "Thalassery",
+        "expenditure": 8.4811,
+        "projects": 15,
+        "utilization": "33.9"
+      }
+    ]
+  },
+  {
+    "name": "Kasaragod",
+    "totalExpenditure": 122.63779999999998,
+    "projectCount": 463,
+    "utilization": 98.1,
+    "sectors": [
+      {
+        "label": "Road",
+        "value_crores": 69.9197
+      },
+      {
+        "label": "Others",
+        "value_crores": 22.054699999999997
+      },
+      {
+        "label": "Education",
+        "value_crores": 8.6836
+      },
+      {
+        "label": "Electricity",
+        "value_crores": 7.7338
+      },
+      {
+        "label": "Infrastructure",
+        "value_crores": 6.907
+      },
+      {
+        "label": "Healthcare",
+        "value_crores": 3.9699999999999998
+      },
+      {
+        "label": "Sports",
+        "value_crores": 1.2
+      },
+      {
+        "label": "Irrigation",
+        "value_crores": 1.1600000000000001
+      },
+      {
+        "label": "Water Supply",
+        "value_crores": 1.009
+      }
+    ],
+    "constituencies": [
+      {
+        "name": "Udma",
+        "expenditure": 28.6377,
+        "projects": 110,
+        "utilization": "100.0"
+      },
+      {
+        "name": "Kanhangad",
+        "expenditure": 26.15,
+        "projects": 92,
+        "utilization": "100.0"
+      },
+      {
+        "name": "Manjeshwar",
+        "expenditure": 25.8626,
+        "projects": 106,
+        "utilization": "100.0"
+      },
+      {
+        "name": "Trikaripur",
+        "expenditure": 24.6455,
+        "projects": 87,
+        "utilization": "98.6"
+      },
+      {
+        "name": "Kasaragod",
+        "expenditure": 17.342,
+        "projects": 68,
+        "utilization": "69.4"
+      }
+    ]
+  },
+  {
+    "name": "Idukki",
+    "totalExpenditure": 98.89079999999998,
+    "projectCount": 330,
+    "utilization": 79.1,
+    "sectors": [
+      {
+        "label": "Road",
+        "value_crores": 59.3621
+      },
+      {
+        "label": "Others",
+        "value_crores": 17.7495
+      },
+      {
+        "label": "Electricity",
+        "value_crores": 6.4368
+      },
+      {
+        "label": "Education",
+        "value_crores": 6.050800000000001
+      },
+      {
+        "label": "Infrastructure",
+        "value_crores": 4.125
+      },
+      {
+        "label": "Irrigation",
+        "value_crores": 2.9666
+      },
+      {
+        "label": "Sports",
+        "value_crores": 1.5
+      },
+      {
+        "label": "Water Supply",
+        "value_crores": 0.4
+      },
+      {
+        "label": "Healthcare",
+        "value_crores": 0.3
+      }
+    ],
+    "constituencies": [
+      {
+        "name": "Peerumade",
+        "expenditure": 23.9,
+        "projects": 84,
+        "utilization": "95.6"
+      },
+      {
+        "name": "Udumbanchola",
+        "expenditure": 21.2701,
+        "projects": 54,
+        "utilization": "85.1"
+      },
+      {
+        "name": "Thodupuzha",
+        "expenditure": 21.0724,
+        "projects": 74,
+        "utilization": "84.3"
+      },
+      {
+        "name": "Devikulam",
+        "expenditure": 20.4005,
+        "projects": 80,
+        "utilization": "81.6"
+      },
+      {
+        "name": "Idukki",
+        "expenditure": 12.2478,
+        "projects": 38,
+        "utilization": "49.0"
+      }
+    ]
+  },
+  {
+    "name": "Pathanamthitta",
+    "totalExpenditure": 56.4762,
+    "projectCount": 188,
+    "utilization": 45.2,
+    "sectors": [
+      {
+        "label": "Road",
+        "value_crores": 17.801099999999998
+      },
+      {
+        "label": "Others",
+        "value_crores": 16.0105
+      },
+      {
+        "label": "Infrastructure",
+        "value_crores": 7.579000000000001
+      },
+      {
+        "label": "Electricity",
+        "value_crores": 5.560700000000001
+      },
+      {
+        "label": "Education",
+        "value_crores": 5.2188
+      },
+      {
+        "label": "Irrigation",
+        "value_crores": 3.7661
+      },
+      {
+        "label": "Water Supply",
+        "value_crores": 0.35
+      },
+      {
+        "label": "Healthcare",
+        "value_crores": 0.19
+      }
+    ],
+    "constituencies": [
+      {
+        "name": "Ranni",
+        "expenditure": 16.9921,
+        "projects": 63,
+        "utilization": "68.0"
+      },
+      {
+        "name": "Konni",
+        "expenditure": 14.1245,
+        "projects": 29,
+        "utilization": "56.5"
+      },
+      {
+        "name": "Thiruvalla",
+        "expenditure": 11.7079,
+        "projects": 45,
+        "utilization": "46.8"
+      },
+      {
+        "name": "Adoor",
+        "expenditure": 11.2744,
+        "projects": 45,
+        "utilization": "45.1"
+      },
+      {
+        "name": "Aranmula",
+        "expenditure": 2.3773,
+        "projects": 6,
+        "utilization": "9.5"
+      }
+    ]
+  },
+  {
+    "name": "Wayanad",
+    "totalExpenditure": 53.4762,
+    "projectCount": 205,
+    "utilization": 71.3,
+    "sectors": [
+      {
+        "label": "Road",
+        "value_crores": 23.9831
+      },
+      {
+        "label": "Education",
+        "value_crores": 9.773299999999999
+      },
+      {
+        "label": "Others",
+        "value_crores": 9.046299999999999
+      },
+      {
+        "label": "Electricity",
+        "value_crores": 4.756
+      },
+      {
+        "label": "Healthcare",
+        "value_crores": 3.37
+      },
+      {
+        "label": "Infrastructure",
+        "value_crores": 1.7875
+      },
+      {
+        "label": "Sports",
+        "value_crores": 0.5
+      },
+      {
+        "label": "Water Supply",
+        "value_crores": 0.26
+      }
+    ],
+    "constituencies": [
+      {
+        "name": "Mananthavady",
+        "expenditure": 19.306,
+        "projects": 66,
+        "utilization": "77.2"
+      },
+      {
+        "name": "Kalpetta",
+        "expenditure": 18.0961,
+        "projects": 74,
+        "utilization": "72.4"
+      },
+      {
+        "name": "Sulthan Bathery",
+        "expenditure": 16.0741,
+        "projects": 65,
+        "utilization": "64.3"
+      }
+    ]
+  }
+]
