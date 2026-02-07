@@ -35,6 +35,7 @@ const MLAProjectsPage = () => {
     // MLA Switcher State
     const [mlaSearchQuery, setMlaSearchQuery] = useState('')
     const [isMlaSearchOpen, setIsMlaSearchOpen] = useState(false)
+    const [isMLASidebarOpen, setIsMLASidebarOpen] = useState(false) // Mobile sidebar state
     const allMLAs = useMemo(() => getAllMLAsForAnalytics(), [])
 
     // Initialize Fuse for fuzzy search
@@ -73,8 +74,8 @@ const MLAProjectsPage = () => {
     useEffect(() => {
         const loadData = async () => {
             if (!selectedMLA) {
-                // If no MLA selected, navigate back to dashboard
-                navigate('/mla-fund-dashboard')
+                // No MLA selected - show empty state with switcher
+                setLoading(false)
                 return
             }
 
@@ -161,6 +162,86 @@ const MLAProjectsPage = () => {
             />
             <main className="projects-main-content">
                 <div className="projects-main">
+                    {/* Empty State - No MLA Selected */}
+                    {!selectedMLA && !loading && (
+                        <section className="mla-profile-banner">
+                            <div className="profile-glass">
+                                <div className="empty-state-content">
+                                    <div className="empty-state-icon">
+                                        <span className="material-symbols-outlined">person_search</span>
+                                    </div>
+                                    <h2>Search for an MLA</h2>
+                                    <p>Use the search bar below to find and view detailed project information for any MLA in Kerala</p>
+
+                                    <div className="mla-switcher">
+                                        <div className={`mla-search-input-wrapper ${isMlaSearchOpen ? 'active' : ''}`}>
+                                            <span className="material-symbols-outlined search-icon">person_search</span>
+                                            <input
+                                                type="text"
+                                                placeholder="Search for an MLA by name, constituency, or district..."
+                                                value={mlaSearchQuery}
+                                                onChange={(e) => {
+                                                    setMlaSearchQuery(e.target.value)
+                                                    if (!isMlaSearchOpen) setIsMlaSearchOpen(true)
+                                                }}
+                                                onFocus={() => setIsMlaSearchOpen(true)}
+                                                autoFocus
+                                            />
+                                            {isMlaSearchOpen && (
+                                                <button
+                                                    className="close-search"
+                                                    onClick={() => {
+                                                        setIsMlaSearchOpen(false)
+                                                        setMlaSearchQuery('')
+                                                    }}
+                                                >
+                                                    <span className="material-symbols-outlined">close</span>
+                                                </button>
+                                            )}
+                                        </div>
+
+                                        <AnimatePresence>
+                                            {isMlaSearchOpen && suggestedMLAs.length > 0 && (
+                                                <motion.div
+                                                    className="mla-suggestions"
+                                                    initial={{ opacity: 0, y: -10 }}
+                                                    animate={{ opacity: 1, y: 0 }}
+                                                    exit={{ opacity: 0, y: -10 }}
+                                                >
+                                                    {suggestedMLAs.map((mla) => (
+                                                        <button
+                                                            key={mla.id}
+                                                            className="suggestion-item"
+                                                            onClick={() => {
+                                                                setSelectedMLA(mla.id)
+                                                                setMlaSearchQuery('')
+                                                                setIsMlaSearchOpen(false)
+                                                                // Navigate with state instead of URL param
+                                                                navigate('/mla-projects', { state: { selectedMLA: mla.id } })
+                                                            }}
+                                                        >
+                                                            <div className="suggestion-avatar">
+                                                                {mla.image ? (
+                                                                    <CldImage src={mla.image} width={32} height={32} />
+                                                                ) : (
+                                                                    <span className="avatar-initials-sm">{getInitials(mla.name)}</span>
+                                                                )}
+                                                            </div>
+                                                            <div className="suggestion-info">
+                                                                <div className="s-name">{mla.displayName}</div>
+                                                                <div className="s-meta">{mla.constituency} • {mla.district}</div>
+                                                            </div>
+                                                        </button>
+                                                    ))}
+                                                </motion.div>
+                                            )}
+                                        </AnimatePresence>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    )}
+
                     {/* MLA Profile Header */}
                     {mlaData && (
                         <section className="mla-profile-banner">
@@ -201,7 +282,17 @@ const MLAProjectsPage = () => {
                                     </div>
 
                                     <div className="profile-search-section">
-                                        <div className="mla-switcher">
+                                        {/* Mobile: Button to open sidebar */}
+                                        <button
+                                            className="mla-switcher-mobile-btn"
+                                            onClick={() => setIsMLASidebarOpen(true)}
+                                        >
+                                            <span className="material-symbols-outlined">person_search</span>
+                                            <span>Switch MLA</span>
+                                        </button>
+
+                                        {/* Desktop: Inline switcher */}
+                                        <div className="mla-switcher mla-switcher-desktop">
                                             <div className={`mla-search-input-wrapper ${isMlaSearchOpen ? 'active' : ''}`}>
                                                 <span className="material-symbols-outlined search-icon">person_search</span>
                                                 <input
@@ -243,7 +334,8 @@ const MLAProjectsPage = () => {
                                                                     setSelectedMLA(mla.id)
                                                                     setMlaSearchQuery('')
                                                                     setIsMlaSearchOpen(false)
-                                                                    navigate(`/mla-projects/${mla.id}`)
+                                                                    // Navigate with state instead of URL param
+                                                                    navigate('/mla-projects', { state: { selectedMLA: mla.id } })
                                                                 }}
                                                             >
                                                                 <div className="suggestion-avatar">
@@ -397,6 +489,102 @@ const MLAProjectsPage = () => {
                     )}
                 </div>
             </main>
+
+            {/* Mobile MLA Switcher Sidebar */}
+            <AnimatePresence>
+                {isMLASidebarOpen && (
+                    <>
+                        <motion.div
+                            className="filter-sidebar-overlay"
+                            initial={{ opacity: 0 }}
+                            animate={{ opacity: 1 }}
+                            exit={{ opacity: 0 }}
+                            onClick={() => setIsMLASidebarOpen(false)}
+                        />
+                        <motion.div
+                            className="filter-sidebar-popup mla-sidebar-popup"
+                            initial={{ x: '100%' }}
+                            animate={{ x: 0 }}
+                            exit={{ x: '100%' }}
+                            transition={{ type: 'spring', damping: 25, stiffness: 200 }}
+                        >
+                            <div className="filter-sidebar-header">
+                                <h3>Switch MLA</h3>
+                                <button className="close-filter-btn" onClick={() => setIsMLASidebarOpen(false)}>
+                                    <span className="material-symbols-outlined">close</span>
+                                </button>
+                            </div>
+                            <div className="filter-sidebar-content">
+                                <p className="filter-subtitle">Search for any MLA in Kerala to view their detailed project information.</p>
+
+                                {/* Search Input */}
+                                <div className="mla-sidebar-search">
+                                    <div className={`mla-search-input-wrapper ${mlaSearchQuery ? 'active' : ''}`}>
+                                        <span className="material-symbols-outlined search-icon">person_search</span>
+                                        <input
+                                            type="text"
+                                            placeholder="Search by name, constituency, or district..."
+                                            value={mlaSearchQuery}
+                                            onChange={(e) => setMlaSearchQuery(e.target.value)}
+                                            autoFocus
+                                        />
+                                        {mlaSearchQuery && (
+                                            <button
+                                                className="close-search"
+                                                onClick={() => setMlaSearchQuery('')}
+                                            >
+                                                <span className="material-symbols-outlined">close</span>
+                                            </button>
+                                        )}
+                                    </div>
+                                </div>
+
+                                {/* MLA List */}
+                                <div className="mla-sidebar-list">
+                                    {suggestedMLAs.length > 0 ? (
+                                        suggestedMLAs.map((mla) => (
+                                            <button
+                                                key={mla.id}
+                                                className="mla-sidebar-item"
+                                                onClick={() => {
+                                                    setSelectedMLA(mla.id)
+                                                    setMlaSearchQuery('')
+                                                    setIsMLASidebarOpen(false)
+                                                    navigate('/mla-projects', { state: { selectedMLA: mla.id } })
+                                                }}
+                                            >
+                                                <div className="suggestion-avatar">
+                                                    {mla.image ? (
+                                                        <CldImage src={mla.image} width={48} height={48} />
+                                                    ) : (
+                                                        <span className="avatar-initials-sm">{getInitials(mla.name)}</span>
+                                                    )}
+                                                </div>
+                                                <div className="suggestion-info">
+                                                    <div className="s-name">{mla.displayName}</div>
+                                                    <div className="s-meta">{mla.constituency} • {mla.district}</div>
+                                                </div>
+                                                <span className="material-symbols-outlined">chevron_right</span>
+                                            </button>
+                                        ))
+                                    ) : mlaSearchQuery ? (
+                                        <div className="no-results-sidebar">
+                                            <span className="material-symbols-outlined">search_off</span>
+                                            <p>No MLAs found matching "{mlaSearchQuery}"</p>
+                                        </div>
+                                    ) : (
+                                        <div className="sidebar-hint">
+                                            <span className="material-symbols-outlined">info</span>
+                                            <p>Start typing to search for an MLA</p>
+                                        </div>
+                                    )}
+                                </div>
+                            </div>
+                        </motion.div>
+                    </>
+                )}
+            </AnimatePresence>
+
             <BottomNav />
         </div>
     )

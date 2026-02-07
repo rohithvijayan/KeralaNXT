@@ -85,7 +85,7 @@ function MLAFundLandingPage() {
     }, [aggregateStats])
 
     const handleExploreDashboard = () => {
-        navigate('/mla-fund-dashboard')
+        navigate('/mla-projects')
     }
 
     if (loading) {
@@ -317,7 +317,7 @@ function MLAFundLandingPage() {
                                 </div>
 
                                 <button className="cta-button" onClick={handleExploreDashboard}>
-                                    <span>Enter Full Dashboard</span>
+                                    <span>View All Projects</span>
                                     <span className="material-symbols-outlined">arrow_forward</span>
                                 </button>
                             </div>
