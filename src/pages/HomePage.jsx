@@ -336,12 +336,12 @@ function HomePage() {
                                 <div className="popup-icon">
                                     <span className="material-symbols-outlined">search</span>
                                 </div>
-                                <h2>Kerala Budget — real Kerala story 🔍</h2>
+                                <h2>Know The Real KeralaStory</h2>
                                 <p>Where We Spend, Where We Earned Everything At One Click</p>
                                 <div className="popup-btn-group">
-                                    <Link to="/union-budget-glance" className="popup-cta-btn highlight">
+                                    <Link to="/mla-fund" className="popup-cta-btn highlight">
                                         <span className="material-symbols-outlined">auto_awesome</span>
-                                        Union Budget
+                                        Track Your MLA
                                     </Link>
                                     <Link to="/state-budget?year=2026-27" className="popup-cta-btn secondary">
                                         State Budget
