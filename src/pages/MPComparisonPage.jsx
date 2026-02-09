@@ -13,7 +13,11 @@ const MPComparisonPage = () => {
     const [mpA, setMpA] = useState('')
     const [mpB, setMpB] = useState('')
     const [mpsData, setMpsData] = useState([])
+    const [mpAData, setMpAData] = useState(null)
+    const [mpBData, setMpBData] = useState(null)
     const [loading, setLoading] = useState(true)
+    const [loadingA, setLoadingA] = useState(false)
+    const [loadingB, setLoadingB] = useState(false)
 
     // Load all MPs data
     useEffect(() => {
@@ -39,15 +43,38 @@ const MPComparisonPage = () => {
         loadMPs()
     }, [])
 
-    // Get spending data for both MPs
-    const mpAData = useMemo(() => {
-        if (!mpA) return null
-        return getMPSpendingBreakdown(mpA)
+    // Load data for MP A
+    useEffect(() => {
+        const loadAData = async () => {
+            if (!mpA) return
+            setLoadingA(true)
+            try {
+                const data = await getMPSpendingBreakdown(mpA)
+                setMpAData(data)
+            } catch (error) {
+                console.error('Error fetching data for MP A:', error)
+            } finally {
+                setLoadingA(false)
+            }
+        }
+        loadAData()
     }, [mpA])
 
-    const mpBData = useMemo(() => {
-        if (!mpB) return null
-        return getMPSpendingBreakdown(mpB)
+    // Load data for MP B
+    useEffect(() => {
+        const loadBData = async () => {
+            if (!mpB) return
+            setLoadingB(true)
+            try {
+                const data = await getMPSpendingBreakdown(mpB)
+                setMpBData(data)
+            } catch (error) {
+                console.error('Error fetching data for MP B:', error)
+            } finally {
+                setLoadingB(false)
+            }
+        }
+        loadBData()
     }, [mpB])
 
     // Get MP details from mpsData
@@ -93,12 +120,16 @@ const MPComparisonPage = () => {
 
     // Format currency in Crores
     const formatCrores = (value) => {
-        return `₹${(value / 10000000).toFixed(2)} Cr`
+        const num = parseFloat(value)
+        if (isNaN(num)) return '₹0.00 Cr'
+        return `₹${(num / 10000000).toFixed(2)} Cr`
     }
 
     // Format currency in Lakhs
     const formatLakhs = (value) => {
-        return `₹${(value / 100000).toFixed(2)} L`
+        const num = parseFloat(value)
+        if (isNaN(num)) return '₹0.00 L'
+        return `₹${(num / 100000).toFixed(2)} L`
     }
 
     // Calculate utilization percentage
@@ -213,7 +244,9 @@ const MPComparisonPage = () => {
                                 )}
 
                                 {/* Spending Stats */}
-                                {mpAData && mpADetails && (
+                                {loadingA ? (
+                                    <div className="spending-loader">Loading details...</div>
+                                ) : mpAData && mpADetails && (
                                     <div className="spending-stats">
                                         <div className="stats-info">
                                             <p className="stats-label">Total Spending</p>
@@ -269,7 +302,9 @@ const MPComparisonPage = () => {
                                 )}
 
                                 {/* Spending Stats */}
-                                {mpBData && mpBDetails && (
+                                {loadingB ? (
+                                    <div className="spending-loader">Loading details...</div>
+                                ) : mpBData && mpBDetails && (
                                     <div className="spending-stats">
                                         <div className="stats-info">
                                             <p className="stats-label">Total Spending</p>
